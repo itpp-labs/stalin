@@ -41,7 +41,7 @@ def main():
         }
         # data file
         json_writer(
-            os.path.join(HUGO_DATA_DIR, "%s.json" % list2name(lst)),
+            os.path.join(HUGO_DATA_DIR, "lists", "%s.json" % list2name(lst)),
             data,
         )
 

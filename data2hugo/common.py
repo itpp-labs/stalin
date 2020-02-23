@@ -45,5 +45,5 @@ def x2many(get_id, records):
     return d
 
 def list2name(record):
-    return 'list-%s' % record['listid']
+    return 'list%s' % record['listid']
 
