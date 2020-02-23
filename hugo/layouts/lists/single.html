@@ -5,10 +5,21 @@
     <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h1>
         <div class="content">
 
-
 {{ $data := index .Site.Data.lists .File.BaseFileName }}
+
+<div class="pages">
+{{ range $data.pages }}
+   <div><img src="/disk/pictures/{{ .image }}"/></div>
+{{ end }}
+</div>
+<script type="text/javascript">
+ $('.pages').slick()
+ $('.pages img').on('click', function(){
+     $('.pages').slick('slickNext')
+ })
+</script>
+
 <h1>{{$data.delo.name}}</h1>
-<h2>Дело №{{$data.delo.num}}</h2>
 
 {{ range $data.sublists }}
 <h3> {{ .title }} </h3>
