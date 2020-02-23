@@ -1,49 +1,49 @@
 import json
-from .common import *
+from common import *
 
 def main():
-    persons_by_ = dict(
-        (, r)
-        for r in csv_reader(PERSONS_CSV)
+    persons_by_sublist = x2many(
+        lambda r: r["asublistid"],
+        csv_reader(PERSONS_CSV)
     )
     sublists_by_list = x2many(
-        lambda r: r['alistid'],
+        lambda r: r["alistid"],
         csv_reader(SUBLISTS_CSV)
     )
+    pages_by_list = x2many(
+        lambda r: r["alistid"],
+        csv_reader(PAGES_CSV)
+    )
     for lst in csv_reader(LISTS_CSV):
-        listtitle = lst['listtitle']
+        listtitle = lst["listtitle"]
         data = {
             "delo": {
-                "name": lst['deloname'],
-                "num": lst['delonum'],
+                "name": lst["deloname"],
+                "num": lst["delonum"],
             },
             "pages": [
                 {
-                    "filename": TODO,
-                } for page in TODO
-            ]
+                    "image": page["picturefile"],
+                } for page in pages_by_list[lst["listid"]]
+            ],
             "sublists": [
                 {
                     "title": subl["sublisttitle"],
                     "persons": [
                         {
-                            "name": p['nameshow1']
+                            "num": p["rowinpage"],
+                            "name": p["nameshow1"],
                         }
-                    ] for p in TODO
-                } for subl in sublists_by_list(lst['listid'])
+                        for p in persons_by_sublist.get(subl["sublistid"], [])
+                    ]
+                } for subl in sublists_by_list.get(lst["listid"], [])
             ]
         }
         # data file
-        file_writer(
-            json.dumps(data),
-            os.path.join(HUGO_DATA_DIR, '%s.json' % list2name(record))
+        json_writer(
+            os.path.join(HUGO_DATA_DIR, "%s.json" % list2name(lst)),
+            data,
         )
 
-def list2page(record):
-    return """
-# Дело: {deloname}
-## {listtitle}
-""".format(**record)
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

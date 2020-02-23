@@ -1,6 +1,7 @@
 import os
 import os.path
 import csv
+import json
 
 CSV_DIR="data/db/tables/"
 
@@ -31,6 +32,9 @@ def csv_reader(file_name):
 def file_writer(file_name, file_content):
     with open(file_name, 'w') as writer:
         writer.write(file_content)
+
+def json_writer(file_name, data):
+    file_writer(file_name, json.dumps(data, ensure_ascii=False))
 
 def x2many(get_id, records):
     d = dict()
