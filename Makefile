@@ -9,4 +9,5 @@ hugo_content:
 	${PYTHON}	data2hugo/lists_content.py
 
 website:
-	hugo --minify -s hugo/
+	#hugo --minify -s hugo/
+	hugo -s hugo/
