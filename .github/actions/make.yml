@@ -1,27 +1,39 @@
 name: Make
 
-on: 
+on:
   push:
-    branches: 
+    branches:
     - master
 
 jobs:
   make:
 
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v2
       with:
         # Use token to trigger Github Pages deployment on commit
         token: ${{ secrets.MY_GITHUB_TOKEN }}
     - run: |
-        make
+        make hugo
+    - name: Commit updates
+      uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      with:
+        branch: master
+        commit_message: |
+          :alien: make hugo
+
+          Sent from Github Actions (see .github/workflows/make.yml )
+    - uses: jakejarvis/hugo-build-action@v0.57.2
+      name: make website
+      with:
+        args: --minify -s hugo/
     - uses: stefanzweifel/git-auto-commit-action@v3.0.0
       name: Commit updates
       with:
         branch: master
         commit_message: |
-          :alien: Make
-          
+          :alien: make website
+
           Sent from Github Actions (see .github/workflows/make.yml )

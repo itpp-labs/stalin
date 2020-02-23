@@ -7,3 +7,6 @@ hugo_data:
 
 hugo_content:
 	${PYTHON}	data2hugo/lists_content.py
+
+website:
+	hugo --minify -s hugo/
