@@ -6,3 +6,4 @@ hugo_data:
 	${PYTHON}	data2hugo/lists_data.py
 
 hugo_content:
+	${PYTHON}	data2hugo/lists_content.py
