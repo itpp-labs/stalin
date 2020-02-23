@@ -29,6 +29,8 @@ jobs:
       name: make website
       with:
         args: --minify -s hugo/
+    - name: Copy website to docs/
+      run: cp -a hugo/public/. docs
     - uses: stefanzweifel/git-auto-commit-action@v3.0.0
       name: Commit updates
       with:
