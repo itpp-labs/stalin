@@ -32,17 +32,8 @@
 ### To update theme
 
 * check folder ``hugo/themes/``
+* copy files you want to modify to `hugo/` folder
 * make updates
 * preview updates
 * make git commit
-* send pull request to theme repo
-* wait while the pull request is merged
-* update theme version
-
-       cd hugo/themes/THEME
-       git fetch origin
-       git checkout origin/master
-       cd ..
-       git commit -a -m "theme updated"
-
 * send pull request to this repo
