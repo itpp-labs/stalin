@@ -23,7 +23,7 @@ def main():
             },
             "pages": [
                 {
-                    "image": page["picturefile"],
+                    "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
                 } for page in pages_by_list[lst["listid"]]
             ],
             "sublists": [
