@@ -1,0 +1,13 @@
+<div class="container">
+  {{ partial "header" . }}
+  {{ partial "nav" . }}
+  <main class="container">
+
+      {{ range where .Site.Pages "Section" "lists"}}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>, 
+      {{ end }}
+
+
+  </main>
+  {{ partial "footer" . }}
+</div>
