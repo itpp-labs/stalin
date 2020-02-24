@@ -4,6 +4,11 @@ on:
   push:
     branches:
     - master
+    path: 
+    # exclude auto generated files
+    - '!docs/**'
+    - '!hugo/content/lists/**'
+    - '!hugo/data/lists/**'      
 
 jobs:
   make:
