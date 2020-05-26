@@ -38,3 +38,15 @@ Database tables exported to csv files in the following way:
      | sed "s/\"/\"\"/g;s/'/\'/;s/\t/\",\"/g;s/^/\"/;s/$/\"/;s/\n//g;s/\r//g" \
      > $tb.csv
     done
+
+## db/tables/spravki/*.yml
+
+Files are created once out of ``spravki.csv`` file. After that the files are edited and added manually.
+
+Initial creation of the files is created in the following way:
+
+
+    # https://github.com/wimglenn/oyaml
+    sudo pip3 install oyaml
+    python3 spravki-csv2yaml.py    
+    
