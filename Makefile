@@ -12,4 +12,4 @@ hugo_content:
 
 website:
 	#hugo --minify -s hugo/
-	hugo -s hugo/
+	hugo -s hugo/ --templateMetrics
