@@ -39,9 +39,11 @@ Database tables exported to csv files in the following way:
      > $tb.csv
     done
 
-## db/tables/spravki/*.yml
+## spravki.csv
 
-Files are created once out of ``spravki.csv`` file. After that the files are edited and added manually.
+Records from ``spravki.csv`` were splited into separated files once. Records for
+the same person are combined into a single file named ``p123.yaml``, where 123
+is a person id. After that the files are edited and added manually.
 
 Initial creation of the files is created in the following way:
 
@@ -49,4 +51,3 @@ Initial creation of the files is created in the following way:
     # https://github.com/wimglenn/oyaml
     sudo pip3 install oyaml
     python3 spravki-csv2yaml.py    
-    

@@ -20,7 +20,7 @@ yaml.add_representer(literal_unicode, literal_unicode_representer)
 with open("db/tables/spravki.csv", newline="", encoding="utf-8") as csvfile:
     dr = csv.DictReader(csvfile)
     for row in dr:
-        filename = "db/tables/spravki/p%s.yaml" % row["personid"]
+        filename = "../hugo/data/spravki/p%s.yaml" % row["personid"]
         repryear = row["repryear"]
         if repryear == "NULL":
             repryear = None
