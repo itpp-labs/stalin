@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<div class="container">
+    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h2>
+        <div class="content">
+
+{{ $data := index .Site.Data.persons .File.BaseFileName }}
+
+            <h1>Версия следствия</h1>
+            {{ $data.gb_spravka.html | safeHTML }}
+        </div>
+</div>
+
+        {{ partial "jsshare" . }}
+        {{ partial "disqus" . }}
+        {{ partial "footer" . }}

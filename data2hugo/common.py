@@ -2,6 +2,9 @@ import os
 import os.path
 import csv
 import json
+# https://github.com/wimglenn/oyaml
+import oyaml as yaml
+#import yaml
 
 CSV_DIR="data/db/tables/"
 
@@ -18,6 +21,27 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 HUGO_DATA_DIR="hugo/data"
 HUGO_CONTENT_DIR="hugo/content"
+GB_SPRAVKI_DIR="data/disk/vkvs/z3/spravki"
+
+
+# Yaml tools
+class folded_unicode(str): pass
+class literal_unicode(str): pass
+
+def folded_unicode_representer(dumper, data):
+    return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style='>')
+def literal_unicode_representer(dumper, data):
+    return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style='|')
+
+yaml.add_representer(folded_unicode, folded_unicode_representer)
+yaml.add_representer(literal_unicode, literal_unicode_representer)
+
+
+
+def file2str(file_name, encoding="cp1251"):
+    with open(file_name, "r", encoding=encoding) as f:
+        return f.read()
+
 
 def csv_reader(file_name):
     with open(file_name) as csvfile:
@@ -36,6 +60,9 @@ def file_writer(file_name, file_content):
 def json_writer(file_name, data):
     file_writer(file_name, json.dumps(data, ensure_ascii=False))
 
+def yaml_writer(file_name, data):
+    file_writer(file_name, yaml.dump(data, allow_unicode=True))
+
 def x2many(get_id, records):
     d = dict()
     for r in records:
@@ -47,3 +74,5 @@ def x2many(get_id, records):
 def list2name(record):
     return 'list%s' % record['listid']
 
+def person2name(record):
+    return 'p%s' % record['personid']
