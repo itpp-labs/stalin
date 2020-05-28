@@ -11,7 +11,7 @@
 * Install hugo:
 
       cd /tmp
-      wget https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_Linux-64bit.deb
+      wget https://github.com/gohugoio/hugo/releases/download/v0.71.1/hugo_0.71.1_Linux-64bit.deb
       sudo dpkg -i hugo*.deb
 
 ## Make updates
