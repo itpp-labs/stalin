@@ -24,9 +24,12 @@
 {{ range $data.sublists }}
 <h3> {{ .title }} </h3>
 {{ range .persons }}
-<p> {{ .num }}. {{ .name }}
+<p> {{ .num }}. {{ .name }} </p>
 {{ end }}
 {{ end }}
+
+        </div>
+</div>
 
         {{ partial "jsshare" . }}
         {{ partial "disqus" . }}
