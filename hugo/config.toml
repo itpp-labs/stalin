@@ -2,3 +2,14 @@ baseURL = "https://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"
 languageCode = "ru-RU"
 title = "Сталинские расстрельные списки"
 theme = "charaka"
+
+[params.spravki]
+    edit_url = "https://github.com/itpp-labs/stalin/edit/personal-page/hugo/data/spravki/{FILENAME}.yaml"
+    new_url = "https://github.com/itpp-labs/stalin/new/personal-page/hugo/data/spravki/new?filename={FILENAME}.yaml&value={BODY}"
+    new_body = """
+- repyear: 19XX
+  fio: ФАМИЛИЯ ИМЯ ОТЧЕСТВО
+  source: ИСТОЧНИК
+  spravka: |
+    ПЕРВАЯ СТРОКА СПРАВКИ
+    ВТОРАЯ СТРОКА СПРАВКИ"""
