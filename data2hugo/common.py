@@ -6,6 +6,10 @@ import json
 import oyaml as yaml
 #import yaml
 
+# https://stackoverflow.com/questions/13518819/avoid-references-in-pyyaml
+yaml.Dumper.ignore_aliases = lambda *args : True
+
+
 CSV_DIR="data/db/tables/"
 
 LISTS_CSV=os.path.join(CSV_DIR, "lists.csv")
