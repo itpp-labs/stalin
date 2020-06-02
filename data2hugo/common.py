@@ -16,6 +16,7 @@ LISTS_CSV=os.path.join(CSV_DIR, "lists.csv")
 SUBLISTS_CSV=os.path.join(CSV_DIR, "sublists.csv")
 LIST_TITLE_CSV=os.path.join(CSV_DIR, "listtitl.csv")
 PAGES_CSV=os.path.join(CSV_DIR, "pages.csv")
+PERSON2PAGE_YAML="data2hugo/person2page.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
 SPRAVKI_CSV=os.path.join(CSV_DIR, "spravki.csv")
@@ -57,6 +58,10 @@ def csv_reader(file_name):
                 return
             yield row
 
+def yaml_reader(file_name):
+    with open(file_name, "r") as f:
+        return yaml.load(f)
+
 def file_writer(file_name, file_content):
     with open(file_name, 'w') as writer:
         writer.write(file_content)
@@ -65,6 +70,7 @@ def json_writer(file_name, data):
     file_writer(file_name, json.dumps(data, ensure_ascii=False))
 
 def yaml_writer(file_name, data):
+    print ("write file: ", file_name)
     file_writer(file_name, yaml.dump(data, allow_unicode=True))
 
 def x2many(get_id, records):

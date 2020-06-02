@@ -6,10 +6,7 @@ import re
 
 def main():
     html2page = dict(
-        (r["textfile"].lower(), {
-            "id": r["pageid"],
-            "picture": r["picturefile"]
-        })
+        (r["textfile"].lower(), r)
         for r in csv_reader(PAGES_CSV)
     )
     person2page = {}
@@ -43,7 +40,7 @@ def grep(s):
     for filename in os.listdir(HTML_DIR):
         with open(os.path.join(HTML_DIR, filename), "r", encoding="cp1251") as f:
             for line in f:
-                if re.search(s, line):
+                if re.search(s, line, flags=re.IGNORECASE):
                     res.append(filename)
                     break
     return res
