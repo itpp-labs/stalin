@@ -1,6 +1,7 @@
 from common import *
 
 def main():
+    person2pages = yaml_reader(PERSON2PAGE_YAML)
     for p in csv_reader(PERSONS_CSV):
 
         gb_spravka_html = None
@@ -24,7 +25,14 @@ def main():
             },
             "lists": ["TODO"],
             "gb_spravka": {
-                "photo": "TODO",
+                "pages": [
+                    {
+                        "picture": "disk/pictures/v{tom:02d}/{picturefile}".format(
+                            tom=int(page['tom']),
+                            picturefile=page['picturefile']
+                        )
+                    } for page in person2pages.get(p['personid'], [])
+                ],
                 "html": gb_spravka_html,
             },
         }
@@ -39,7 +47,8 @@ if __name__ == "__main__":
     main()
 
 
-
+# fields in persons.csv:
+#
 #"personid"
 #"tom"
 #"pageintom"

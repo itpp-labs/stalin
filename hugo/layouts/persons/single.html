@@ -32,6 +32,9 @@
         <h1>Версия следствия</h1>
         {{ $data.gb_spravka.html | safeHTML }}
         {{ end }}
+        {{ range $data.gb_spravka.pages }}
+        <img src="/{{ .picture }}"/>
+        {{ end }}
         </div>
 </div>
 
