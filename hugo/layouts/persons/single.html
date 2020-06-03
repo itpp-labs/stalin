@@ -35,6 +35,13 @@
         {{ range $data.gb_spravka.pages }}
         <img src="/{{ .picture }}"/>
         {{ end }}
+
+        <h1>Списки</h1>
+        {{ range $data.lists }}
+
+        <p><a href="/lists/list{{ .list.listid }}">Список от {{ .list.adate }} ({{ .list.listtitle}}) - Том {{ .list.tom }} (РГАСПИ, ф.{{ .list.fond }}, оп.{{ .list.opis }}{{ if .list.delonum }}, дело {{ .list.delonum }}{{ end }}), лист {{ .pageintom }}</a></p>
+        {{ end }}
+
         </div>
 </div>
 

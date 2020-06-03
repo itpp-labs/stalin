@@ -1,8 +1,26 @@
 from common import *
 
 def main():
+    list_by_id = dict(
+        (r["listid"], r)
+        for r in csv_reader(LISTS_CSV)
+    )
+    sublist_by_id = dict(
+        (r["sublistid"], r)
+        for r in csv_reader(SUBLISTS_CSV)
+    )
+
+    persons_by_headperson = x2many(
+        lambda r: r["headperson"],
+        csv_reader(PERSONS_CSV)
+    )
+
     person2pages = yaml_reader(PERSON2PAGE_YAML)
     for p in csv_reader(PERSONS_CSV):
+
+        if p["personid"] != p["headperson"]:
+            # it's a technical record for a person from another record
+            continue
 
         gb_spravka_html = None
         if p.get("spravkafile") and p.get("spravkafile") != "NULL":
@@ -23,7 +41,21 @@ def main():
                 "midlastname": p["midlastname"],
                 "nameshow": p["nameshow"],
             },
-            "lists": ["TODO"],
+            "lists": [
+                {
+                    # it's not supposed to modify lists and sublists tables, so
+                    # just copy data from those table for the sake of human
+                    # readability of data files and simplicity of template. Or
+                    # maybe I'm just lazy :)
+                    # -- @yelizariev
+                    "list": list_by_id[pp["listnum"]],
+                    "sublist": sublist_by_id[pp["asublistid"]],
+
+                    "pageintom": pp["pageintom"],
+                    "rowinpage": pp["rowinpage"],
+                    "nomer": pp["nomer"],
+                } for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
+            ],
             "gb_spravka": {
                 "pages": [
                     {
