@@ -38,3 +38,16 @@ Database tables exported to csv files in the following way:
      | sed "s/\"/\"\"/g;s/'/\'/;s/\t/\",\"/g;s/^/\"/;s/$/\"/;s/\n//g;s/\r//g" \
      > $tb.csv
     done
+
+## spravki.csv
+
+Records from ``spravki.csv`` were splited into separated files once. Records for
+the same person are combined into a single file named ``p123.yaml``, where 123
+is a person id. After that the files are edited and added manually.
+
+Initial creation of the files is created in the following way:
+
+
+    # https://github.com/wimglenn/oyaml
+    sudo pip3 install oyaml
+    python3 spravki-csv2yaml.py    
