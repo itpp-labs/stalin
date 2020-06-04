@@ -9,6 +9,8 @@ on:
     - '!docs/**'
     - '!hugo/content/lists/**'
     - '!hugo/data/lists/**'      
+    - '!hugo/content/persons/**'
+    - '!hugo/data/persons/**'      
 
 jobs:
   make:
