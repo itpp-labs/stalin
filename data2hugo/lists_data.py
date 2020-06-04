@@ -30,7 +30,7 @@ def main():
                     "title": subl["sublisttitle"],
                     "persons": [
                         {
-                            "num": p["rowinpage"],
+                            "num": p["nomer"],
                             "name": p["nameshow1"],
                         }
                         for p in persons_by_sublist.get(subl["sublistid"], [])
