@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: install deps
+      run: |
+        pip3 install oyaml
     - uses: actions/checkout@v2
       with:
         # Use token to trigger Github Pages deployment on commit
@@ -26,9 +29,6 @@ jobs:
         auth_header="$(git config --local --get http.https://github.com/.extraheader)"
         git submodule sync --recursive
         git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
-    - name: install deps
-      run: |
-        pip install oyaml
     - run: |
         make hugo
     - name: Commit updates
