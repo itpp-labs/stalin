@@ -4,9 +4,9 @@ def main():
     for lst in csv_reader(LISTS_CSV):
         content = """
 ---
-title: Дело №{title}
+title: {title}
 ---
-""".format(title=lst['delonum'])
+""".format(title=list2title(lst))
         file_writer(
             os.path.join(HUGO_CONTENT_DIR, "lists", "%s.md" % list2name(lst)),
             content

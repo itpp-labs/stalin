@@ -18,18 +18,61 @@
  })
 </script>
 
-<h1>{{$data.delo.name}}</h1>
-
-
 {{ range $data.sublists }}
 <h3> {{ .title }} </h3>
-{{ range .persons }}
-<p> {{ .num }}. {{ .name }} </p>
-{{ end }}
+
+  {{ range .pages }}
+  <div id="page{{ .page.pageid }}">
+
+
+      <div class="tabs is-toggle is-fullwidth">
+          <ul>
+              <li class="is-active" data-tab="page{{ .page.pageid }}-text">
+                  <a>Расшифровка</a>
+              </li>
+              <li data-tab="page{{ .page.pageid }}-image">
+                  <a>
+                      Фотография
+                  </a>
+              </li>
+          </ul>
+      </div>
+
+      <div class="tab-content">
+          <div data-content="page{{ .page.pageid }}-text">
+
+              {{ range .persons }}
+              <p> {{ .num }}. {{ .name }} </p>
+              {{ end }}
+
+          </div>
+          <div class="is-hidden" data-content="page{{ .page.pageid }}-image">
+              <img src="/disk/pictures/{{ .page_image }}"/>
+          </div>
+      </div>
+   </div>
+  {{ end }}
+
 {{ end }}
 
         </div>
 </div>
+
+<script type="text/javascript">
+ $(document).ready(function() {
+     $('.tabs li').on('click', function() {
+         var tab = $(this).data('tab');
+
+         $(this).parent().find('li').removeClass('is-active');
+         $(this).addClass('is-active');
+
+         $page = $(this).parent().parent().parent();
+         $page.find('.tab-content > div').addClass('is-hidden');
+         $page.find('div[data-content="' + tab + '"]').removeClass('is-hidden');
+     });
+ });
+
+</script>
 
         {{ partial "jsshare" . }}
         {{ partial "disqus" . }}
