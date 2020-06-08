@@ -4,13 +4,13 @@ on:
   push:
     branches:
     - master
-    path: 
+    path-ignore: 
     # exclude auto generated files
-    - '!docs/**'
-    - '!hugo/content/lists/**'
-    - '!hugo/data/lists/**'      
-    - '!hugo/content/persons/**'
-    - '!hugo/data/persons/**'      
+    - 'docs/**'
+    - 'hugo/content/lists/**'
+    - 'hugo/data/lists/**'      
+    - 'hugo/content/persons/**'
+    - 'hugo/data/persons/**'      
 
 jobs:
   make:
