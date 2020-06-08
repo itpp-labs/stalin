@@ -31,12 +31,13 @@
 
 * To compile website after changes in ``data``, ``data2hugo`` folders run the following command:
 
-    make hugo
+      make hugo
 
   -- it will make updates in ``hugo`` folder
 * To compile website after changes in ``hugo`` (including ``hugo/data/spravki``) folder run the following command:
 
-    make website
+      make website
+
   -- it will generate website in ``hugo/public/`` folder
   
 * It's recommended to automate CI/CD process. Check [GIthub Actions scripts](.github/workflows/) for examples.
