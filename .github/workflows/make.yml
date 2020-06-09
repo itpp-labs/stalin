@@ -10,7 +10,9 @@ on:
     - 'hugo/content/lists/**'
     - 'hugo/data/lists/**'      
     - 'hugo/content/persons/**'
-    - 'hugo/data/persons/**'      
+    - 'hugo/data/persons/**'
+    # exclude doc updates
+    - 'README.md'    
 
 jobs:
   make:
