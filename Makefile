@@ -3,7 +3,7 @@ PYTHON = python3
 hugo: hugo_data hugo_content
 
 hugo_data:
-	${PYTHON}	data2hugo/home_page_data.py
+	${PYTHON}	data2hugo/home_data.py
 	${PYTHON}	data2hugo/lists_data.py
 	${PYTHON}	data2hugo/persons_data.py
 
