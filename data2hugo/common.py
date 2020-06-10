@@ -89,9 +89,9 @@ def person2name(record):
 
 def list2title(lst):
     delo = ""
-    if lst["delonum"]:
-        delo = ", дело %s" % lst["delonum"]
-    return "РГАСПИ, ф.{fond}, оп.{opis}{delo}".format(**lst, delo=delo)
+    if lst["ed_hr"]:
+        delo = ", дело %s" % lst["ed_hr"]
+    return "РГАСПИ, ф.{fond}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
 
 def sublist2title(lst, sublst):
     return "Список от {date} [{title}]".format(
