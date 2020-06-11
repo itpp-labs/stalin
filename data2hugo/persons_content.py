@@ -2,11 +2,14 @@ from common import *
 
 def main():
     for p in csv_reader(PERSONS_CSV):
-        content = """
+        content = """---
+title: {nameshow1}
+
+firstname: {firstname1}
+midname: {midname1}
+lastname: {lastname1}
 ---
-title: {name}
----
-""".format(name=p['nameshow1'])
+""".format(**p)
         file_writer(
             os.path.join(HUGO_CONTENT_DIR, "persons", "%s.md" % person2name(p)),
             content

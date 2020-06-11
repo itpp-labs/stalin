@@ -34,6 +34,9 @@ TODO: check this section
       cd /tmp
       wget https://github.com/gohugoio/hugo/releases/download/v0.71.1/hugo_0.71.1_Linux-64bit.deb
       sudo dpkg -i hugo*.deb
+
+      sudo npm install hugo-elasticsearch -g
+
 ## Памятка администраторам
 
 * To compile website after changes in ``data``, ``data2hugo`` folders run the following command:
