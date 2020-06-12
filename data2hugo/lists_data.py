@@ -64,8 +64,8 @@ def main():
             ]
         }
         # data file
-        json_writer(
-            os.path.join(HUGO_DATA_DIR, "lists", "%s.json" % list2name(lst)),
+        yaml_writer(
+            os.path.join(HUGO_DATA_DIR, "lists", "%s.yaml" % list2name(lst)),
             data,
         )
 
