@@ -16,7 +16,8 @@ search:
 	${PYTHON} hugo2search.py
 
 upload_search:
-	curl -H "Content-Type: application/json" -XPOST "localhost:9200/persons/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-persons.json"
+	curl -H "Content-Type: application/json" -XPOST "localhost:9200/persons/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-persons.json" > /tmp/elasticsearch-persons.logs
+	echo ""
 	curl "localhost:9200/_cat/indices?v"
 
 website:
