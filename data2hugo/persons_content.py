@@ -4,10 +4,6 @@ def main():
     for p in csv_reader(PERSONS_CSV):
         content = """---
 title: {nameshow1}
-
-firstname: {firstname1}
-midname: {midname1}
-lastname: {lastname1}
 ---
 """.format(**p)
         file_writer(
