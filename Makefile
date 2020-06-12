@@ -1,3 +1,4 @@
+.PHONY: search
 PYTHON = python3
 
 hugo: hugo_data hugo_content
@@ -11,22 +12,12 @@ hugo_content:
 	${PYTHON}	data2hugo/lists_content.py
 	${PYTHON}	data2hugo/persons_content.py
 
-search: search/elasticsearch-persons.json
+search:
+	${PYTHON} hugo2search.py
 
-search/elasticsearch-persons.json: hugo/content/persons/*
-	hugo-elasticsearch \
-	--input "hugo/content/persons/*" \
-	--output "search/elasticsearch-persons.json" \
-	--language "yaml" \
-	--delimiter "---" \
-	--index-name "persons"
-
-	#hugo-elasticsearch \
-	#  --input "hugo/content/lists/**" \
-	#  --output "search/elasticsearch-lists.json" \
-	#  --language "yaml" \
-	#  --delimiter "---" \
-	#  --index-name "lists"
+upload_search:
+	curl -H "Content-Type: application/json" -XPOST "localhost:9200/persons/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-persons.json"
+	curl "localhost:9200/_cat/indices?v"
 
 website:
 	#hugo --minify -s hugo/

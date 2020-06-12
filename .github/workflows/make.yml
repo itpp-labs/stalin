@@ -24,7 +24,6 @@ jobs:
       run: |
         sudo apt-get install python3-setuptools
         pip3 install oyaml
-        npm install hugo-elasticsearch -g
     - uses: actions/checkout@v2
       with:
         # Use token to trigger Github Pages deployment on commit

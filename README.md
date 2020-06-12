@@ -35,7 +35,11 @@ TODO: check this section
       wget https://github.com/gohugoio/hugo/releases/download/v0.71.1/hugo_0.71.1_Linux-64bit.deb
       sudo dpkg -i hugo*.deb
 
-      sudo npm install hugo-elasticsearch -g
+* Get and run Elasticsearch
+  
+      docker run --name=elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.7.1
+
+  For other options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 ## Памятка администраторам
 
@@ -74,6 +78,13 @@ TODO: check this section
 * preview updates
 * make git commit
 * send pull request to this repo
+
+## Загрузка индексов в Elasticsearch
+
+    # generate index files
+    make search
+    # upload index files to local Elasticsearch
+    make upload_search
 
 # Добавление списков
 
