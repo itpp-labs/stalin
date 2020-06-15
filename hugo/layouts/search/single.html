@@ -1,6 +1,6 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
 <div class="container">
-    {{ partial "header" . }}
-    {{ partial "nav" . }}
     <main class="container">
         {{ .Content }}
 
@@ -46,7 +46,8 @@
 
         </form>
 
-
+        <div id="results">
+        </div>
 
     </main>
     {{ partial "footer" . }}

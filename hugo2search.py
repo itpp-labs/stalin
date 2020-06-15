@@ -28,6 +28,7 @@ def main():
                 "firstname": p["name"]["firstname"],
                 "midname": p["name"]["midname"],
                 "lastname": p["name"]["lastname"],
+                "nameshow": p["name"]["nameshow"],
             }
             content = data2index("persons", doc_id, data)
             index_file.write(content)
@@ -49,7 +50,7 @@ def yaml_reader_folder(folder):
         if not fname.endswith(".yaml"):
             print ("ignored file:", fname)
             continue
-        name = fname.split("\.")[0]
+        name = fname.split(".")[0]
         yield name, yaml_reader(os.path.join(folder, fname))
 
 

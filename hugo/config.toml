@@ -3,6 +3,10 @@ languageCode = "ru-RU"
 title = "Сталинские расстрельные списки"
 theme = "charaka"
 
+[params.elasticsearch]
+    #url = "http://localhost:9200/"
+    url = "http://ec2-3-89-71-224.compute-1.amazonaws.com:9200/"
+
 [params.spravki]
     edit_url = "https://github.com/itpp-labs/stalin/edit/personal-page/hugo/data/spravki/{FILENAME}.yaml"
     new_url = "https://github.com/itpp-labs/stalin/new/personal-page/hugo/data/spravki/new?filename={FILENAME}.yaml&value={BODY}"

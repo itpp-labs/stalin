@@ -37,7 +37,14 @@ TODO: check this section
 
 * Get and run Elasticsearch
   
-      docker run --name=elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.7.1
+      docker run -d \
+      --name=elasticsearch \
+      -p 9200:9200 \
+      -p 9300:9300 \
+      -e "discovery.type=single-node" \
+      -e "http.cors.enabled=true" \
+      -e "http.cors.allow-origin=*" \
+      docker.elastic.co/elasticsearch/elasticsearch:7.7.1
 
   For other options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
@@ -79,12 +86,18 @@ TODO: check this section
 * make git commit
 * send pull request to this repo
 
-## Загрузка индексов в Elasticsearch
+## Elasticsearch
+
+### Загрузка индексов
 
     # generate index files
     make search
     # upload index files to local Elasticsearch
     make upload_search
+
+### Настройка адреса
+
+    See [hugo/config.toml](hugo/config.toml)
 
 # Добавление списков
 
