@@ -1,17 +1,36 @@
 $(document).ready(function(){
-    $("#search_form input").on("input propertychange paste", function(event){
+    var searchTimer;
+    function clear_search_timer(){
+        if (!searchTimer)
+            return;
+        clearTimeout(searchTimer);
+        searchTimer = null;
+    }
+    function start_search(){
+        clear_search_timer();
         search_persons();
-        event.preventDefault();
+    }
+    $("#search_form input").on("input propertychange paste", function(event){
+        clear_search_timer();
+        searchTimer = setTimeout(function(){
+            start_search();
+        }, 300);
     });
+    $("#search_form input").on("keypress", function(event){
+        if (event.keyCode == 13){
+            start_search();
+        }
+    });
+    function get_obj(key, value){
+        var d = {};
+        d[key] = value;
+        return d;
+    }
     function search_persons(){
         // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
         var query_bool = {
-            "must": {
-                "match": {}
-            },
-            "should": {
-                "match": {}
-            }
+            "must": [],
+            "should": []
         };
         $.each($("#search_form").serializeArray(), function(){
             var key = this.name;
@@ -19,10 +38,14 @@ $(document).ready(function(){
             if (!value)
                 return;
             if (["firstname", "midname", "lastname"].indexOf(key) != -1) {
-                query_bool.must.match[key] = value;
+                query_bool.must.push({
+                    "match": get_obj(key, value)
+                });
             } else if (key == "global_search") {
                 $.each(["firstname", "midname", "lastname"], function(){
-                    query_bool.should.match[this] = value;
+                    query_bool.should.push({
+                        "match": get_obj(this, value)
+                    });
                 });
             }
         });
@@ -32,28 +55,39 @@ $(document).ready(function(){
             render_persons(data.hits.hits);
 
         }).fail(function( data ) {
-            console.log(data);
+            console.log("Error", data);
+            if (!data){
+                clear_results();
+            }
         });
     }
 
     function search(index_name, query_bool){
-        if ($.isEmptyObject(query_bool.should.match)){
-            delete query_bool.should.match;
+        if (!query_bool.should.length){
             delete query_bool.should;
         } else {
             query_bool.minimum_should_match = 1;
         }
+        if (!query_bool.must.length){
+            delete query_bool.must;
+        }
+        if ($.isEmptyObject(query_bool)){
+            // empty request
+            var d = $.Deferred();
+            d.reject();
+            return d.promise();
+        }
+
         var data = {
             "size": 20, // TODO: make pagination
             "query": {
                 "bool": query_bool
             }
-        }
+        };
         return $.ajax({
             method: "POST",
             url: ES_URL + index_name + "/_search?pretty=true",
             crossDomain: true,
-            async: false,
             data: JSON.stringify(data),
             dataType : 'json',
             contentType: 'application/json',
@@ -65,21 +99,27 @@ $(document).ready(function(){
 
         $.each(records, function(){
             $("#results").append(
-                '<p><a href="/persons/{0}">{1}</a>TODO spravka<br/>TODO spiski</p>'.format(
+                '<p><a href="/persons/{0}">{1}</a><br/>TODO spravka<br/>TODO spiski<br/></p>'.format(
                     this._id,
                     this._source.nameshow,
                 ));
         });
     }
+    function clear_results(){
+        $("#results").empty();
+    }
 
-    String.format = function() {
-        var s = arguments[0];
-        for (var i = 0; i < arguments.length - 1; i++) {
-            var reg = new RegExp("\\{" + i + "\\}", "gm");
-            s = s.replace(reg, arguments[i + 1]);
-        }
-
-        return s;
+    // credits: https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
+    if (!String.prototype.format) {
+        String.prototype.format = function() {
+            var args = arguments;
+            return this.replace(/{(\d+)}/g, function(match, number) {
+                return typeof args[number] != 'undefined'
+                    ? args[number]
+                    : match
+                ;
+            });
+        };
     }
 
 });

@@ -1,3 +1,4 @@
 ---
 type: search
+title: Поиск
 ---
