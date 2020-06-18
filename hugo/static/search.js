@@ -84,6 +84,7 @@ $(document).ready(function(){
                 "bool": query_bool
             }
         };
+        // TODO: don't load unused fields
         return $.ajax({
             method: "POST",
             url: ES_URL + index_name + "/_search?pretty=true",
@@ -98,10 +99,26 @@ $(document).ready(function(){
         $("#results").empty();
 
         $.each(records, function(){
+            var spravka = this._source.spravka_preview || "";
+            if (spravka){
+                spravka += "<br/>";
+            }
+            var fond7 = this._source.fond7 || "";
+            if (fond7){
+                fond7 = "По данным 7-го фонда ЦА ФСБ: {0}<br/>".format(fond7);
+            }
+            var gb_spravka_link = "";
+            if (this._source.gb_spravka){
+                gb_spravka_link = '<a href="/persons/{0}#gb">GB</a><br/>'.format(this._id);
+            }
+
             $("#results").append(
-                '<p><a href="/persons/{0}">{1}</a><br/>TODO spravka<br/>TODO spiski<br/></p>'.format(
+                '<p><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}TODO spiski<br/></p>'.format(
                     this._id,
                     this._source.nameshow,
+                    spravka,
+                    fond7,
+                    gb_spravka_link
                 ));
         });
     }

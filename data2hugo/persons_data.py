@@ -5,6 +5,10 @@ def main():
         (r["listid"], r)
         for r in csv_reader(LISTS_CSV)
     )
+    prim_by_person_id = dict(
+        (r["personprim"], r["primtext"])
+        for r in csv_reader(PRIM_CSV)
+    )
     sublist_by_id = dict(
         (r["sublistid"], r)
         for r in csv_reader(SUBLISTS_CSV)
@@ -16,6 +20,28 @@ def main():
     )
 
     person2pages = yaml_reader(PERSON2PAGE_YAML)
+
+    def fond7(p):
+        res = {
+            "deathdate": convert_date(p["deathdate"]),
+            "sessiondate": convert_date(p["sessiondate"]),
+            "primsud": p["primsud"],
+            "primtext": prim_by_person_id.get(p["personid"], ""),
+        }
+        text_lines = []
+        if any(res.values()):
+            if res["primtext"]:
+                text_lines += res["primtext"].split("\\n")
+            elif res["primsud"]:
+                text_lines.append("%s" % res["primsud"])
+            elif res["sessiondate"]:
+                text_lines.append("Дата сессии ВК ВС: %s" % res["sessiondate"])
+
+            if res["deathdate"]:
+                text_lines.append("Дата расстрела: %s" % res["deathdate"])
+        res["text_lines"] = text_lines
+        return res
+
     for p in csv_reader(PERSONS_CSV):
 
         if p["personid"] != p["headperson"]:
@@ -41,6 +67,7 @@ def main():
                 "midlastname": p["midlastname"],
                 "nameshow": p["nameshow"],
             },
+            "fond7": fond7(p),
             "lists": [
                 {
                     # it's not supposed to modify lists and sublists tables, so

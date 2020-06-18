@@ -20,6 +20,7 @@ PERSON2PAGE_YAML="data2hugo/person2page.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
 SPRAVKI_CSV=os.path.join(CSV_DIR, "spravki.csv")
+PRIM_CSV=os.path.join(CSV_DIR, "prim.csv")
 
 # Can be used to debug scripts
 MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
@@ -60,6 +61,10 @@ def csv_reader(file_name):
 
 def yaml_reader(file_name):
     with open(file_name, "r") as f:
+        # TODO: /home/ubuntu/stalin/data2hugo/common.py:64: YAMLLoadWarning:
+        # calling yaml.load() without Loader=... is deprecated, as the default
+        # Loader is unsafe. Please read https://msg.pyyaml.org/load for full
+        # details.
         return yaml.load(f)
 
 def file_writer(file_name, file_content):
@@ -98,3 +103,9 @@ def sublist2title(lst, sublst):
         date=sublst["datetext"],
         title=sublst["sublisttitle"],
     )
+
+def convert_date(s):
+    if not s or s == "0000-00-00":
+        return None
+    # TODO: convert dates to DD.MM.YYYY format
+    return s

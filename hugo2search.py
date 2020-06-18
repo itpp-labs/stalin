@@ -24,11 +24,23 @@ def main():
             i += 1
             if not i % 1000:
                 print (doc_id)
+            spravki = []
+            try:
+                spravki = yaml_reader(os.path.join(HUGO_DATA_DIR, "spravki", "%s.yaml" % doc_id))
+            except:
+                pass
+
+            if spravki:
+                spravka_preview = spravki[0]["spravka"][:500].replace("\n", " ")
             data = {
                 "firstname": p["name"]["firstname"],
                 "midname": p["name"]["midname"],
                 "lastname": p["name"]["lastname"],
                 "nameshow": p["name"]["nameshow"],
+                "fond7": ". ".join(p["fond7"]["text_lines"]),
+                "gb_spravka": bool(p["gb_spravka"]["html"]),
+                "spravka": json.dumps([s["spravka"].replace("\n", " ") for s in spravki], ensure_ascii=False),
+                "spravka_preview": spravka_preview,
             }
             content = data2index("persons", doc_id, data)
             index_file.write(content)
