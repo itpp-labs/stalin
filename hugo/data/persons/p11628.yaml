@@ -8,67 +8,18 @@ name_mixed:
   firstname: Бочкин
   midlastname: Николай Александрович
   nameshow: Бочкин Николай Александрович
+fond7:
+  deathdate: '1937-11-01'
+  sessiondate: '1937-11-01'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-11-01'
+  - 'Дата расстрела: 1937-11-01'
 lists:
-- list:
-    listid: '89'
-    fond: '17'
-    opis: '171'
-    ed_hr: '412'
-    delonum: 9-Л/8-4
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '4'
-    datetext: 27 октября 1937 года
-    adate: '1937-10-27'
-    listnum: '13'
-    listtitle: Список лиц - Новосибирская обл.
-    page1: '90'
-    page2: '95'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '53'
-    centertext: '8'
-    politsigns: За Сталин,Молотов,Каганович,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '62'
-    tom: '4'
-    listnum: '116'
-    adate: '0000-00-00'
-    datetext: 27 октября 1937г.
-    alistid: '89'
-    sublistnum: '1'
-    sublisttitle: Новосибирская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '48'
-    kat2count: '3'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '92'
-  rowinpage: '8'
-  nomer: '8'
+- title: Список от 27 октября 1937г. [Новосибирская область] - РГАСПИ, ф.17, т.4,
+    оп.171, дело 412, лист 90
+  url: /lists/list89
 gb_spravka:
   pages: []
   html: null

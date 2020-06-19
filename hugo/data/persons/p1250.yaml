@@ -8,67 +8,16 @@ name_mixed:
   firstname: Маляцкая
   midlastname: Мира Израилевна
   nameshow: Маляцкая Мира Израилевна
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '8'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 5 апреля 1937 года
-    adate: '1937-04-05'
-    listnum: '8'
-    listtitle: Список лиц - Омская область
-    page1: '72'
-    page2: '77'
-    listmaker: '4'
-    listkind: '0'
-    reallist: '1'
-    toptext: '7'
-    centertext: '8'
-    politsigns: ''
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '5'
-    tom: '1'
-    listnum: '6'
-    adate: '0000-00-00'
-    datetext: 5 апреля 1937 г.
-    alistid: '8'
-    sublistnum: '1'
-    sublisttitle: Омская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '10'
-    kat2count: '33'
-    kat3count: '1'
-    grif: ''
-    kind: '0'
-    podp_fin: Курский (нач.4-го отдела ГУГБ НКВД Комиссар ГБ 3 ранга)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '75'
-  rowinpage: '17'
-  nomer: '17'
+- title: Список от 5 апреля 1937 г. [Омская область] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 72
+  url: /lists/list8
 gb_spravka:
   pages: []
   html: null

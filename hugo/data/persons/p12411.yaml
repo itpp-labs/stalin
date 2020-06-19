@@ -8,67 +8,18 @@ name_mixed:
   firstname: Рыбак
   midlastname: Иван Маркович
   nameshow: Рыбак Иван Маркович
+fond7:
+  deathdate: '1937-11-24'
+  sessiondate: '1937-11-24'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-11-24'
+  - 'Дата расстрела: 1937-11-24'
 lists:
-- list:
-    listid: '94'
-    fond: '17'
-    opis: '171'
-    ed_hr: '412'
-    delonum: 9-Л/8-4
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '4'
-    datetext: 1 ноября 1937 года
-    adate: '1937-11-01'
-    listnum: '18'
-    listtitle: Список лиц - Белорусская ССР
-    page1: '148'
-    page2: '151'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '45'
-    centertext: '8'
-    politsigns: За Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '65'
-    tom: '4'
-    listnum: '121'
-    adate: '0000-00-00'
-    datetext: 1 ноября 1937г.
-    alistid: '94'
-    sublistnum: '1'
-    sublisttitle: Белорусская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '40'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '151'
-  rowinpage: '5'
-  nomer: '32'
+- title: Список от 1 ноября 1937г. [Белорусская ССР] - РГАСПИ, ф.17, т.4, оп.171,
+    дело 412, лист 148
+  url: /lists/list94
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,16 @@ name_mixed:
   firstname: Беляев
   midlastname: Николай Алексеевич
   nameshow: Беляев Николай Алексеевич
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '7'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 1 апреля 1937 года
-    adate: '1937-04-01'
-    listnum: '7'
-    listtitle: Список лиц - Свердловская область
-    page1: '65'
-    page2: '71'
-    listmaker: '3'
-    listkind: '0'
-    reallist: '1'
-    toptext: '4'
-    centertext: '6'
-    politsigns: Сталин, Молотов, Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '4'
-    tom: '1'
-    listnum: '5'
-    adate: '0000-00-00'
-    datetext: 1 апреля 1937 г.
-    alistid: '7'
-    sublistnum: '1'
-    sublisttitle: Свердловская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '44'
-    kat2count: '25'
-    kat3count: '3'
-    grif: ''
-    kind: '0'
-    podp_fin: Агранов (зам.НК ВД СССР, нач.4-го отдела ГУГБ Комиссар ГБ)
-    podp_pb: Сталин, Молотов, Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '69'
-  rowinpage: '3'
-  nomer: '3'
+- title: Список от 1 апреля 1937 г. [Свердловская область] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 65
+  url: /lists/list7
 gb_spravka:
   pages: []
   html: null

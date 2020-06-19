@@ -8,67 +8,17 @@ name_mixed:
   firstname: Ногиев
   midlastname: Василий Николаевич
   nameshow: Ногиев Василий Николаевич
+fond7:
+  deathdate: '1937-09-03'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-09-03'
 lists:
-- list:
-    listid: '64'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 20 августа 1937 года
-    adate: '1937-08-20'
-    listnum: '32'
-    listtitle: 'Список лиц: Сталинградская обл.'
-    page1: '241'
-    page2: '248'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '38'
-    centertext: '8'
-    politsigns: За Сталин, Каганович, Ворошилов, Молотов, Косиор
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '1'
-    prim: ''
-  sublist:
-    sublistid: '46'
-    tom: '2'
-    listnum: '60'
-    adate: '0000-00-00'
-    datetext: 20 августа 1937 г.
-    alistid: '64'
-    sublistnum: '1'
-    sublisttitle: Сталинградская обл.
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '50'
-    kat2count: '14'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Каганович, Ворошилов, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '244'
-  rowinpage: '4'
-  nomer: '30'
+- title: Список от 20 августа 1937 г. [Сталинградская обл.] - РГАСПИ, ф.17, т.2, оп.171,
+    дело 410, лист 241
+  url: /lists/list64
 gb_spravka:
   pages: []
   html: null

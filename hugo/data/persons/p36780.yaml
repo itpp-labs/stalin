@@ -8,67 +8,18 @@ name_mixed:
   firstname: Корытов
   midlastname: Виктор Александрович
   nameshow: Корытов Виктор Александрович
+fond7:
+  deathdate: '1938-09-20'
+  sessiondate: '1938-06-10'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1938-06-10'
+  - 'Дата расстрела: 1938-09-20'
 lists:
-- list:
-    listid: '188'
-    fond: '17'
-    opis: '171'
-    ed_hr: '417'
-    delonum: 9-Л/8-9
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '9'
-    datetext: ''
-    adate: '1938-08-20'
-    listnum: '35'
-    listtitle: списка лиц N 3 - Москва-центр
-    page1: '246'
-    page2: '253'
-    listmaker: '15'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '161'
-    politsigns: Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '128'
-    tom: '9'
-    listnum: '34'
-    adate: '0000-00-00'
-    datetext: 20.VIII.1938г.
-    alistid: '188'
-    sublistnum: '1'
-    sublisttitle: Москва-центр (Список N 3)
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '134'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач.1-го спецотд. НКВД СССР ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '250'
-  rowinpage: '10'
-  nomer: '60'
+- title: Список от 20.VIII.1938г. [Москва-центр (Список N 3)] - РГАСПИ, ф.17, т.9,
+    оп.171, дело 417, лист 246
+  url: /lists/list188
 gb_spravka:
   pages: []
   html: null

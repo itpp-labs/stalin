@@ -8,67 +8,18 @@ name_mixed:
   firstname: Агзагов
   midlastname: Люн Увжукович
   nameshow: Агзагов Люн Увжукович
+fond7:
+  deathdate: '1937-07-26'
+  sessiondate: '1937-07-26'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-07-26'
+  - 'Дата расстрела: 1937-07-26'
 lists:
-- list:
-    listid: '14'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 28 апреля 1937 года
-    adate: '1937-04-28'
-    listnum: '14'
-    listtitle: Список лиц - Орджоникидзевский край
-    page1: '114'
-    page2: '122'
-    listmaker: '5'
-    listkind: '0'
-    reallist: '1'
-    toptext: '14'
-    centertext: '8'
-    politsigns: Сталин, Молотов, Каганович, Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '11'
-    tom: '1'
-    listnum: '12'
-    adate: '0000-00-00'
-    datetext: 28 апреля 1937 г.
-    alistid: '14'
-    sublistnum: '1'
-    sublisttitle: Орджоникидзевский край
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '136'
-    kat2count: '20'
-    kat3count: '2'
-    grif: ''
-    kind: '0'
-    podp_fin: Агранов (Зам.НК ВД СССР, нач.4 отд.ГУГБ Комиссар ГБ 1 ранга)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов (За тем, чтобы ????????) * железнодорожники
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '116'
-  rowinpage: '2'
-  nomer: '2'
+- title: Список от 28 апреля 1937 г. [Орджоникидзевский край] - РГАСПИ, ф.17, т.1,
+    оп.171, дело 409, лист 114
+  url: /lists/list14
 gb_spravka:
   pages: []
   html: null

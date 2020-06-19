@@ -8,67 +8,22 @@ name_mixed:
   firstname: Барадин
   midlastname: Базар Барадиевич
   nameshow: Барадин Базар Барадиевич
+fond7:
+  deathdate: null
+  sessiondate: '1937-08-24'
+  primsud: акта о расстреле нет //ст.58-10-11
+  primtext: Барадиевич-Еародич\nакта о расстреле нет\nг.р 1878\nм.р. Бурятмонг. АССР,Ачинск.р.к/х
+    1 Мая\nст.58-10-11
+  text_lines:
+  - Барадиевич-Еародич
+  - акта о расстреле нет
+  - г.р 1878
+  - м.р. Бурятмонг. АССР,Ачинск.р.к/х 1 Мая
+  - ст.58-10-11
 lists:
-- list:
-    listid: '56'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 10 августа 1937 года
-    adate: '1937-08-10'
-    listnum: '24'
-    listtitle: 'Список лиц: Ленинградская обл.'
-    page1: '161'
-    page2: '166'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '30'
-    centertext: '8'
-    politsigns: За Сталин, Ворошилов, Молотов, Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '41'
-    tom: '2'
-    listnum: '52'
-    adate: '0000-00-00'
-    datetext: 10 августа 1937 г.
-    alistid: '56'
-    sublistnum: '1'
-    sublisttitle: Ленинградская обл.
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '63'
-    kat2count: '7'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Ворошилов, Молотов, Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '163'
-  rowinpage: '6'
-  nomer: '6'
+- title: Список от 10 августа 1937 г. [Ленинградская обл.] - РГАСПИ, ф.17, т.2, оп.171,
+    дело 410, лист 161
+  url: /lists/list56
 gb_spravka:
   pages: []
   html: null

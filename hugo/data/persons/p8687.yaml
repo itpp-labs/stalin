@@ -8,67 +8,18 @@ name_mixed:
   firstname: Чичинадзе
   midlastname: Виссарион Алексеевич
   nameshow: Чичинадзе Виссарион Алексеевич
+fond7:
+  deathdate: '1937-10-05'
+  sessiondate: '1937-10-04'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-10-04'
+  - 'Дата расстрела: 1937-10-05'
 lists:
-- list:
-    listid: '227'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 15 сентября 1937 года
-    adate: '1937-09-15'
-    listnum: '13'
-    listtitle: 'Список лиц: Грузинская ССР'
-    page1: '72'
-    page2: '85'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '17'
-    centertext: '8'
-    politsigns: Сталин, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '350'
-    tom: '3'
-    listnum: '83'
-    adate: '0000-00-00'
-    datetext: 15 сентября 1937г.
-    alistid: '227'
-    sublistnum: '1'
-    sublisttitle: Грузинская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '312'
-    kat2count: '13'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '84'
-  rowinpage: '5'
-  nomer: '293'
+- title: Список от 15 сентября 1937г. [Грузинская ССР] - РГАСПИ, ф.17, т.3, оп.171,
+    дело 411, лист 72
+  url: /lists/list227
 gb_spravka:
   pages: []
   html: null

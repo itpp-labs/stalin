@@ -8,67 +8,18 @@ name_mixed:
   firstname: Воинов
   midlastname: Виктор Леонтьевич
   nameshow: Воинов Виктор Леонтьевич
+fond7:
+  deathdate: '1937-10-29'
+  sessiondate: '1937-10-28'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-10-28'
+  - 'Дата расстрела: 1937-10-29'
 lists:
-- list:
-    listid: '81'
-    fond: '17'
-    opis: '171'
-    ed_hr: '412'
-    delonum: 9-Л/8-4
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '4'
-    datetext: 21 октября 1937 года
-    adate: '1937-10-21'
-    listnum: '5'
-    listtitle: 'Список лиц: Белорусская ССР'
-    page1: '19'
-    page2: '22'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '45'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович,Ворошилов, Микоян
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '1'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '56'
-    tom: '4'
-    listnum: '108'
-    adate: '0000-00-00'
-    datetext: 21 октября 1937г.
-    alistid: '81'
-    sublistnum: '1'
-    sublisttitle: Белорусская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '56'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Ворошилов, Микоян
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '21'
-  rowinpage: '8'
-  nomer: '8'
+- title: Список от 21 октября 1937г. [Белорусская ССР] - РГАСПИ, ф.17, т.4, оп.171,
+    дело 412, лист 19
+  url: /lists/list81
 gb_spravka:
   pages: []
   html: null

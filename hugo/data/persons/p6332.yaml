@@ -8,67 +8,18 @@ name_mixed:
   firstname: Попунов
   midlastname: Константин Федорович
   nameshow: Попунов Константин Федорович
+fond7:
+  deathdate: '1937-09-25'
+  sessiondate: '1937-09-25'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-09-25'
+  - 'Дата расстрела: 1937-09-25'
 lists:
-- list:
-    listid: '67'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 20 августа 1937 года
-    adate: '1937-08-20'
-    listnum: '35'
-    listtitle: 'Список лиц: Оренбургская обл.'
-    page1: '260'
-    page2: '266'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '39'
-    centertext: '8'
-    politsigns: За Сталин, Молотов, Ворошилов, Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '49'
-    tom: '2'
-    listnum: '63'
-    adate: '0000-00-00'
-    datetext: 20 августа 1937 г.
-    alistid: '67'
-    sublistnum: '1'
-    sublisttitle: Оренбургская обл.
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '100'
-    kat2count: '6'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Каганович, Ворошилов, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '264'
-  rowinpage: '7'
-  nomer: '64'
+- title: Список от 20 августа 1937 г. [Оренбургская обл.] - РГАСПИ, ф.17, т.2, оп.171,
+    дело 410, лист 260
+  url: /lists/list67
 gb_spravka:
   pages: []
   html: null

@@ -1,40 +1,83 @@
-title: РГАСПИ, ф.17, оп.171, дело 412, лист 152
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-4}
+title: РГАСПИ, ф.17, т.4, оп.171, дело 412, лист 152
+date: '1937-11-13'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-4
 pages:
-- {image: v04/17-171-412-152.jpg}
-- {image: v04/17-171-412-153.jpg}
-- {image: v04/17-171-412-154.jpg}
-- {image: v04/17-171-412-155.jpg}
-- {image: v04/17-171-412-156.jpg}
+- image: v04/17-171-412-152.jpg
+- image: v04/17-171-412-153.jpg
+- image: v04/17-171-412-154.jpg
+- image: v04/17-171-412-155.jpg
+- image: v04/17-171-412-156.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ростовская область]
   sublisttitle: Ростовская область
   pages:
-  - page: {pageid: '997', tom: '4', pageintom: '154', alistid: '95', pagekind: '1',
-      arowcount: '17', picturefile: 17-171-412-154.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '997'
+      tom: '4'
+      pageintom: '154'
+      alistid: '95'
+      pagekind: '1'
+      arowcount: '17'
+      picturefile: 17-171-412-154.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-154.jpg
     persons:
-    - {num: '1', name: БЕЛЫЙ Илья Петрович}
-    - {num: '2', name: ВАНИН Иван Иванович}
-    - {num: '3', name: ГОРОХОВ Алексей Андреевич}
-    - {num: '4', name: ДОМБРОВСКИЙ Борис Сергеевич}
-    - {num: '5', name: ЗИМИН Михаил Федорович}
-    - {num: '6', name: КАЩЕЕВ Василий Петрович}
-    - {num: '7', name: КЕММЕР Борис Николаевич}
-    - {num: '8', name: КУЛЬГАВОВ Сергей Сергеевич}
-    - {num: '9', name: ЛАЩЕНКО Порфирий Николаевич}
-    - {num: '10', name: ЛОПУХИН Борис Михайлович}
-    - {num: '11', name: ОСТРОМЫСЛЕНСКИЙ Владимир Иванович}
-    - {num: '12', name: ПАНКРАТОВ Алексей Борисович}
-    - {num: '13', name: ПЕНКЕВИЧ Борис Степанович}
-    - {num: '14', name: РОТОВ Георгий Михайлович}
-    - {num: '15', name: СЕДОВ Петр Григорьевич}
-    - {num: '16', name: СУЩИНСКИЙ Петр Петрович}
-    - {num: '17', name: ТУШКАНОВ Андрей Гаврилович}
-  - page: {pageid: '998', tom: '4', pageintom: '155', alistid: '95', pagekind: '1',
-      arowcount: '1', picturefile: 17-171-412-155.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: БЕЛЫЙ Илья Петрович
+    - num: '2'
+      name: ВАНИН Иван Иванович
+    - num: '3'
+      name: ГОРОХОВ Алексей Андреевич
+    - num: '4'
+      name: ДОМБРОВСКИЙ Борис Сергеевич
+    - num: '5'
+      name: ЗИМИН Михаил Федорович
+    - num: '6'
+      name: КАЩЕЕВ Василий Петрович
+    - num: '7'
+      name: КЕММЕР Борис Николаевич
+    - num: '8'
+      name: КУЛЬГАВОВ Сергей Сергеевич
+    - num: '9'
+      name: ЛАЩЕНКО Порфирий Николаевич
+    - num: '10'
+      name: ЛОПУХИН Борис Михайлович
+    - num: '11'
+      name: ОСТРОМЫСЛЕНСКИЙ Владимир Иванович
+    - num: '12'
+      name: ПАНКРАТОВ Алексей Борисович
+    - num: '13'
+      name: ПЕНКЕВИЧ Борис Степанович
+    - num: '14'
+      name: РОТОВ Георгий Михайлович
+    - num: '15'
+      name: СЕДОВ Петр Григорьевич
+    - num: '16'
+      name: СУЩИНСКИЙ Петр Петрович
+    - num: '17'
+      name: ТУШКАНОВ Андрей Гаврилович
+  - page:
+      pageid: '998'
+      tom: '4'
+      pageintom: '155'
+      alistid: '95'
+      pagekind: '1'
+      arowcount: '1'
+      picturefile: 17-171-412-155.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-155.jpg
     persons:
-    - {num: '1', name: АУСТ Фридрих Францевич}
+    - num: '1'
+      name: АУСТ Фридрих Францевич

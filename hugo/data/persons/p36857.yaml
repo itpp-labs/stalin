@@ -8,67 +8,17 @@ name_mixed:
   firstname: Гай
   midlastname: Раиса Мироновна
   nameshow: Гай Раиса Мироновна
+fond7:
+  deathdate: '1938-08-26'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1938-08-26'
 lists:
-- list:
-    listid: '189'
-    fond: '17'
-    opis: '171'
-    ed_hr: '417'
-    delonum: 9-Л/8-9
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '9'
-    datetext: ''
-    adate: '1938-08-20'
-    listnum: '36'
-    listtitle: списка лиц N 4 - Москва-центр
-    page1: '254'
-    page2: '256'
-    listmaker: '15'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '162'
-    politsigns: Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '129'
-    tom: '9'
-    listnum: '35'
-    adate: '0000-00-00'
-    datetext: 20.VIII.1938г.
-    alistid: '189'
-    sublistnum: '1'
-    sublisttitle: Москва-центр (Список N 4)
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '15'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач.1-го спецотд. НКВД СССР ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '256'
-  rowinpage: '3'
-  nomer: '3'
+- title: Список от 20.VIII.1938г. [Москва-центр (Список N 4)] - РГАСПИ, ф.17, т.9,
+    оп.171, дело 417, лист 254
+  url: /lists/list189
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Познанский
   midlastname: Александр Львович
   nameshow: Познанский Александр Львович
+fond7:
+  deathdate: '1938-08-10'
+  sessiondate: '1938-08-10'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1938-08-10'
+  - 'Дата расстрела: 1938-08-10'
 lists:
-- list:
-    listid: '161'
-    fond: '17'
-    opis: '171'
-    ed_hr: '417'
-    delonum: 9-Л/8-9
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '9'
-    datetext: от 10 июня 1938 года
-    adate: '1938-06-10'
-    listnum: '8'
-    listtitle: Список лиц - Свердловская область
-    page1: '47'
-    page2: '52'
-    listmaker: '13'
-    listkind: '0'
-    reallist: '1'
-    toptext: '4'
-    centertext: '8'
-    politsigns: Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '103'
-    tom: '9'
-    listnum: '7'
-    adate: '0000-00-00'
-    datetext: 10.VI.38г.
-    alistid: '161'
-    sublistnum: '1'
-    sublisttitle: Свердловская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '74'
-    kat2count: '8'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '51'
-  rowinpage: '10'
-  nomer: '57'
+- title: Список от 10.VI.38г. [Свердловская область] - РГАСПИ, ф.17, т.9, оп.171,
+    дело 417, лист 47
+  url: /lists/list161
 gb_spravka:
   pages: []
   html: null

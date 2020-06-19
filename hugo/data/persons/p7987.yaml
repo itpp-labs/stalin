@@ -8,127 +8,20 @@ name_mixed:
   firstname: Войтюк
   midlastname: Константин Моисеевич
   nameshow: Войтюк Константин Моисеевич
+fond7:
+  deathdate: '1937-09-14'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-09-14'
 lists:
-- list:
-    listid: '31'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 26 июня 1937 года
-    adate: '1937-06-26'
-    listnum: '31'
-    listtitle: Список лиц - Москва-центр
-    page1: '227'
-    page2: '233'
-    listmaker: '6'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '22'
-    politsigns: За Сталин, Каганович, Ворошилов, Жданов, Микоян
-    signstalin: '1'
-    signmolotov: '0'
-    signjdanov: '1'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '1'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '28'
-    tom: '1'
-    listnum: '29'
-    adate: '0000-00-00'
-    datetext: 26 июня 1937 г.
-    alistid: '31'
-    sublistnum: '1'
-    sublisttitle: Москва-центр
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '102'
-    kat2count: '5'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Литвин (нач.4 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Каганович, Ворошилов, Жданов, Микоян
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '229'
-  rowinpage: '13'
-  nomer: '13'
-- list:
-    listid: '220'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 7 сентября 1937 года
-    adate: '1937-09-07'
-    listnum: '6'
-    listtitle: 'Список лиц: Москва-центр'
-    page1: '23'
-    page2: '31'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '8'
-    politsigns: За Сталин, Молотов, Каганович, Ворошилов, Ежов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '1'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '344'
-    tom: '3'
-    listnum: '76'
-    adate: '0000-00-00'
-    datetext: 7 сентября 1937г.
-    alistid: '220'
-    sublistnum: '1'
-    sublisttitle: Москва-центр
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '68'
-    kat2count: '2'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '25'
-  rowinpage: '11'
-  nomer: '11'
+- title: Список от 26 июня 1937 г. [Москва-центр] - РГАСПИ, ф.17, т.1, оп.171, дело
+    409, лист 227
+  url: /lists/list31
+- title: Список от 7 сентября 1937г. [Москва-центр] - РГАСПИ, ф.17, т.3, оп.171, дело
+    411, лист 23
+  url: /lists/list220
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Пинаев
   midlastname: Петр Максимович
   nameshow: Пинаев Петр Максимович
+fond7:
+  deathdate: '1938-06-11'
+  sessiondate: '1938-06-11'
+  primsud: ''
+  primtext: Пиняев
+  text_lines:
+  - Пиняев
+  - 'Дата расстрела: 1938-06-11'
 lists:
-- list:
-    listid: '308'
-    fond: '17'
-    opis: '171'
-    ed_hr: '416'
-    delonum: 9-Л/8-8
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '8'
-    datetext: от 19 апреля 1938 года
-    adate: '1938-04-19'
-    listnum: '21'
-    listtitle: Список лиц - Новосибирская область
-    page1: '171'
-    page2: '175'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '53'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович,Жданов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '1'
-    signkaganovic: '1'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '556'
-    tom: '8'
-    listnum: '20'
-    adate: '0000-00-00'
-    datetext: 19 апреля 1938г.
-    alistid: '308'
-    sublistnum: '1'
-    sublisttitle: Новосибирская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '47'
-    kat2count: '10'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Жданов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '174'
-  rowinpage: '6'
-  nomer: '28'
+- title: Список от 19 апреля 1938г. [Новосибирская область] - РГАСПИ, ф.17, т.8, оп.171,
+    дело 416, лист 171
+  url: /lists/list308
 gb_spravka:
   pages: []
   html: null

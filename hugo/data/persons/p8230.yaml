@@ -8,67 +8,17 @@ name_mixed:
   firstname: Олейник
   midlastname: Никифор Захарович
   nameshow: Олейник Никифор Захарович
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: Осужден ВК ВС в период май-сентябрь 1937 по 2 категории
+  primtext: Осужден ВК ВС в период май-сентябрь 1937 по 2 категории
+  text_lines:
+  - Осужден ВК ВС в период май-сентябрь 1937 по 2 категории
 lists:
-- list:
-    listid: '223'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 15 сентября 1937 года
-    adate: '1937-09-15'
-    listnum: '9'
-    listtitle: 'Список лиц: Дальне-Восточный край'
-    page1: '49'
-    page2: '52'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '36'
-    centertext: '8'
-    politsigns: Сталин, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '346'
-    tom: '3'
-    listnum: '79'
-    adate: '0000-00-00'
-    datetext: 15 сентября 1937г.
-    alistid: '223'
-    sublistnum: '1'
-    sublisttitle: Дальне-Восточный край
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '42'
-    kat2count: '3'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '52'
-  rowinpage: '20'
-  nomer: '3'
+- title: Список от 15 сентября 1937г. [Дальне-Восточный край] - РГАСПИ, ф.17, т.3,
+    оп.171, дело 411, лист 49
+  url: /lists/list223
 gb_spravka:
   pages: []
   html: null

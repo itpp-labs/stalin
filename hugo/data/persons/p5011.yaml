@@ -8,127 +8,23 @@ name_mixed:
   firstname: Раковщик
   midlastname: Мирон Евсеевич
   nameshow: Раковщик Мирон Евсеевич
+fond7:
+  deathdate: null
+  sessiondate: '1937-08-24'
+  primsud: акта о расстреле нет //ст.58-8-11
+  primtext: акта о расстреле нет\nг.р 1887\nм.р. г.Вильно\nст.58-8-11
+  text_lines:
+  - акта о расстреле нет
+  - г.р 1887
+  - м.р. г.Вильно
+  - ст.58-8-11
 lists:
-- list:
-    listid: '6'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: '" " апреля 1937 года'
-    adate: '1937-04-01'
-    listnum: '6'
-    listtitle: Список лиц - г.Ленинград
-    page1: '54'
-    page2: '64'
-    listmaker: '2'
-    listkind: '0'
-    reallist: '1'
-    toptext: '5'
-    centertext: '3'
-    politsigns: Сталин, Ворошилов, Каганович, Жданов, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '1'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '3'
-    tom: '1'
-    listnum: '4'
-    adate: '0000-00-00'
-    datetext: апреля 1937 г.
-    alistid: '6'
-    sublistnum: '1'
-    sublisttitle: г.Ленинград
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '145'
-    kat2count: '50'
-    kat3count: '1'
-    grif: ''
-    kind: '0'
-    podp_fin: Гендин (зам.нач.4-го отдела ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Ворошилов, Каганович, Жданов, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '59'
-  rowinpage: '19'
-  nomer: '104'
-- list:
-    listid: '56'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 10 августа 1937 года
-    adate: '1937-08-10'
-    listnum: '24'
-    listtitle: 'Список лиц: Ленинградская обл.'
-    page1: '161'
-    page2: '166'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '30'
-    centertext: '8'
-    politsigns: За Сталин, Ворошилов, Молотов, Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '41'
-    tom: '2'
-    listnum: '52'
-    adate: '0000-00-00'
-    datetext: 10 августа 1937 г.
-    alistid: '56'
-    sublistnum: '1'
-    sublisttitle: Ленинградская обл.
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '63'
-    kat2count: '7'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Ворошилов, Молотов, Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '165'
-  rowinpage: '1'
-  nomer: '54'
+- title: Список от апреля 1937 г. [г.Ленинград] - РГАСПИ, ф.17, т.1, оп.171, дело
+    409, лист 54
+  url: /lists/list6
+- title: Список от 10 августа 1937 г. [Ленинградская обл.] - РГАСПИ, ф.17, т.2, оп.171,
+    дело 410, лист 161
+  url: /lists/list56
 gb_spravka:
   pages: []
   html: null

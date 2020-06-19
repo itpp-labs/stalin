@@ -1,16 +1,32 @@
-title: РГАСПИ, ф.17, оп.171, дело 414, лист 233
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-6}
+title: РГАСПИ, ф.17, т.6, оп.171, дело 414, лист 233
+date: '1938-02-03'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-6
 pages:
-- {image: v06/17-171-414-233.jpg}
-- {image: v06/17-171-414-234.jpg}
+- image: v06/17-171-414-233.jpg
+- image: v06/17-171-414-234.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Армянская ССР]
   sublisttitle: Армянская ССР
   pages:
-  - page: {pageid: '1739', tom: '6', pageintom: '234', alistid: '360', pagekind: '1',
-      arowcount: '2', picturefile: 17-171-414-234.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '1739'
+      tom: '6'
+      pageintom: '234'
+      alistid: '360'
+      pagekind: '1'
+      arowcount: '2'
+      picturefile: 17-171-414-234.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v06/17-171-414-234.jpg
     persons:
-    - {num: '1', name: АСЛАНОВ Саак Степанович}
-    - {num: '2', name: МЕЛКУМОВ Геворк Газарович}
+    - num: '1'
+      name: АСЛАНОВ Саак Степанович
+    - num: '2'
+      name: МЕЛКУМОВ Геворк Газарович

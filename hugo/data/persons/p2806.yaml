@@ -8,67 +8,17 @@ name_mixed:
   firstname: Скакун
   midlastname: Василий Матвеевич
   nameshow: Скакун Василий Матвеевич
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: Осужден ВК ВС в период 31.07-05.08 и 13.08.1937 г. по 2 категории
+  primtext: Осужден ВК ВС в период 31.07-05.08 и 13.08.1937г. по 2 категории
+  text_lines:
+  - Осужден ВК ВС в период 31.07-05.08 и 13.08.1937г. по 2 категории
 lists:
-- list:
-    listid: '23'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 14 июня 1937 года
-    adate: '1937-06-14'
-    listnum: '23'
-    listtitle: Список лиц - Свердловская область
-    page1: '181'
-    page2: '186'
-    listmaker: '6'
-    listkind: '0'
-    reallist: '1'
-    toptext: '4'
-    centertext: '8'
-    politsigns: За Сталин, Молотов, Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '20'
-    tom: '1'
-    listnum: '21'
-    adate: '0000-00-00'
-    datetext: 14 июня 1937 г.
-    alistid: '23'
-    sublistnum: '1'
-    sublisttitle: Свердловская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '66'
-    kat2count: '15'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Литвин (нач.4 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '186'
-  rowinpage: '11'
-  nomer: '11'
+- title: Список от 14 июня 1937 г. [Свердловская область] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 181
+  url: /lists/list23
 gb_spravka:
   pages: []
   html: null

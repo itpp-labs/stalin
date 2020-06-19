@@ -1,40 +1,84 @@
-title: РГАСПИ, ф.17, оп.171, дело 416, лист 312
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-8}
+title: РГАСПИ, ф.17, т.8, оп.171, дело 416, лист 312
+date: '1938-05-03'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-8
 pages:
-- {image: v08/17-171-416-312.jpg}
-- {image: v08/17-171-416-313.jpg}
-- {image: v08/17-171-416-314.jpg}
-- {image: v08/17-171-416-315.jpg}
+- image: v08/17-171-416-312.jpg
+- image: v08/17-171-416-313.jpg
+- image: v08/17-171-416-314.jpg
+- image: v08/17-171-416-315.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Алтайский край]
   sublisttitle: Алтайский край
   pages:
-  - page: {pageid: '2567', tom: '8', pageintom: '314', alistid: '329', pagekind: '1',
-      arowcount: '18', picturefile: 17-171-416-314.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '2567'
+      tom: '8'
+      pageintom: '314'
+      alistid: '329'
+      pagekind: '1'
+      arowcount: '18'
+      picturefile: 17-171-416-314.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v08/17-171-416-314.jpg
     persons:
-    - {num: '1', name: БЕЛОКОПЫТОВ Константин Данилович}
-    - {num: '2', name: БЫЧКОВ Алексей Игнатьевич}
-    - {num: '3', name: ЖИТЛОВСКИЙ Наум Иосифович}
-    - {num: '4', name: ЗИЗЯНОВ Семен Иванович}
-    - {num: '5', name: КОРОБЧЕНКО Давид Фраимович}
-    - {num: '6', name: КУЛЬКОС Николай Вениаминович}
-    - {num: '7', name: ЛЕВИН Константин Николаевич}
-    - {num: '8', name: ДЫНКЕВИЧ Абрам Соломонович}
-    - {num: '9', name: МОЛЧАНОВ Николай Харитонович}
-    - {num: '10', name: САЛЬНИКОВ Александр Михайлович}
-    - {num: '11', name: СУХИНИН Семен Романович}
-    - {num: '12', name: ТАРАСОВ Николай Григорьевич}
-    - {num: '13', name: ТИВЕРИАДСКИЙ Павел Степанович}
-    - {num: '14', name: ТИСКИНЕКОВ Василий Иванович}
-    - {num: '15', name: УРБШТАС Иван Яковлевич}
-    - {num: '16', name: ХОХЛАЧЕВ Михаил Степанович}
-    - {num: '17', name: ЦВИКЕВИЧ Иван Иванович}
-    - {num: '18', name: ЧЕРКАСОВ Алексей Афанасьевич}
-  - page: {pageid: '2568', tom: '8', pageintom: '315', alistid: '329', pagekind: '1',
-      arowcount: '1', picturefile: 17-171-416-315.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: БЕЛОКОПЫТОВ Константин Данилович
+    - num: '2'
+      name: БЫЧКОВ Алексей Игнатьевич
+    - num: '3'
+      name: ЖИТЛОВСКИЙ Наум Иосифович
+    - num: '4'
+      name: ЗИЗЯНОВ Семен Иванович
+    - num: '5'
+      name: КОРОБЧЕНКО Давид Фраимович
+    - num: '6'
+      name: КУЛЬКОС Николай Вениаминович
+    - num: '7'
+      name: ЛЕВИН Константин Николаевич
+    - num: '8'
+      name: ДЫНКЕВИЧ Абрам Соломонович
+    - num: '9'
+      name: МОЛЧАНОВ Николай Харитонович
+    - num: '10'
+      name: САЛЬНИКОВ Александр Михайлович
+    - num: '11'
+      name: СУХИНИН Семен Романович
+    - num: '12'
+      name: ТАРАСОВ Николай Григорьевич
+    - num: '13'
+      name: ТИВЕРИАДСКИЙ Павел Степанович
+    - num: '14'
+      name: ТИСКИНЕКОВ Василий Иванович
+    - num: '15'
+      name: УРБШТАС Иван Яковлевич
+    - num: '16'
+      name: ХОХЛАЧЕВ Михаил Степанович
+    - num: '17'
+      name: ЦВИКЕВИЧ Иван Иванович
+    - num: '18'
+      name: ЧЕРКАСОВ Алексей Афанасьевич
+  - page:
+      pageid: '2568'
+      tom: '8'
+      pageintom: '315'
+      alistid: '329'
+      pagekind: '1'
+      arowcount: '1'
+      picturefile: 17-171-416-315.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v08/17-171-416-315.jpg
     persons:
-    - {num: '1', name: ДОЙНИКОВ Михаил Васильевич}
+    - num: '1'
+      name: ДОЙНИКОВ Михаил Васильевич

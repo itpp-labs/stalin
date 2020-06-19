@@ -1,197 +1,422 @@
-title: РГАСПИ, ф.17, оп.171, дело 412, лист 263
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-4}
+title: РГАСПИ, ф.17, т.4, оп.171, дело 412, лист 263
+date: '1937-11-13'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-4
 pages:
-- {image: v04/17-171-412-263.jpg}
-- {image: v04/17-171-412-264.jpg}
-- {image: v04/17-171-412-265.jpg}
-- {image: v04/17-171-412-266.jpg}
-- {image: v04/17-171-412-267.jpg}
-- {image: v04/17-171-412-268.jpg}
-- {image: v04/17-171-412-269.jpg}
-- {image: v04/17-171-412-270.jpg}
-- {image: v04/17-171-412-271.jpg}
-- {image: v04/17-171-412-272.jpg}
-- {image: v04/17-171-412-273.jpg}
-- {image: v04/17-171-412-274.jpg}
-- {image: v04/17-171-412-275.jpg}
-- {image: v04/17-171-412-276.jpg}
-- {image: v04/17-171-412-277.jpg}
-- {image: v04/17-171-412-278.jpg}
+- image: v04/17-171-412-263.jpg
+- image: v04/17-171-412-264.jpg
+- image: v04/17-171-412-265.jpg
+- image: v04/17-171-412-266.jpg
+- image: v04/17-171-412-267.jpg
+- image: v04/17-171-412-268.jpg
+- image: v04/17-171-412-269.jpg
+- image: v04/17-171-412-270.jpg
+- image: v04/17-171-412-271.jpg
+- image: v04/17-171-412-272.jpg
+- image: v04/17-171-412-273.jpg
+- image: v04/17-171-412-274.jpg
+- image: v04/17-171-412-275.jpg
+- image: v04/17-171-412-276.jpg
+- image: v04/17-171-412-277.jpg
+- image: v04/17-171-412-278.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Москва-центр]
   sublisttitle: Москва-центр
   pages:
-  - page: {pageid: '1108', tom: '4', pageintom: '265', alistid: '107', pagekind: '1',
-      arowcount: '24', picturefile: 17-171-412-265.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '0', pometa: '0'}
+  - page:
+      pageid: '1108'
+      tom: '4'
+      pageintom: '265'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '24'
+      picturefile: 17-171-412-265.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '0'
+      pometa: '0'
     page_image: v04/17-171-412-265.jpg
     persons:
-    - {num: '1', name: АБРАМОВ Михаил Афиногенович}
-    - {num: '2', name: АЙЗЕНБЕРГ Айзик Саулович}
-    - {num: '3', name: АЛУТИН Владимир Андреевич}
-    - {num: '4', name: БАБАЯН Анаида Артемьевна}
-    - {num: '5', name: БАХИРЕВ Александр Иванович}
-    - {num: '6', name: ВАГИН Григорий Николаевич}
-    - {num: '7', name: ВАЙСМАН Владимир Львович}
-    - {num: '8', name: ГАМАЗОВ Иван Иванович}
-    - {num: '9', name: ГОЛОВИН Василий Елпидифорович}
-    - {num: '10', name: ГУДИМЕНКО Иван Кузьмич}
-    - {num: '11', name: ЕНУКИДЗЕ Владимир Спиридонович}
-    - {num: '12', name: ЖИВИЦКИЙ Владимир Иванович}
-    - {num: '13', name: ИВАНОВ Виктор Федорович}
-    - {num: '14', name: ИЛЬИН Николай Иванович}
-    - {num: '15', name: КАМЕНСКАЯ-МОРАВСКАЯ Зинаида Александровна}
-    - {num: '16', name: КВАШЕНИННИКОВ Иван Иванович}
-    - {num: '17', name: КУРДЮМОВ Дмитрий Евгеньевич}
-    - {num: '18', name: ЛЕВИН Павел Борисович}
-    - {num: '19', name: ЛЕОНОВ Александр Васильевич}
-    - {num: '20', name: ЛИТВИНСКИЙ Вацлав Люцианович}
-    - {num: '21', name: ЛУДРИ Иван Мартынович}
-    - {num: '22', name: МАМРИДОВ Иван Сергеевич}
-    - {num: '23', name: МАШКОВСКИЙ Василий Александрович}
-    - {num: '24', name: ОБОЛЕНСКИЙ Василий Аркадьевич}
-  - page: {pageid: '1109', tom: '4', pageintom: '266', alistid: '107', pagekind: '1',
-      arowcount: '12', picturefile: 17-171-412-266.jpg, textfile: '', sublisttitle: '0',
-      categorytitle: '0', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АБРАМОВ Михаил Афиногенович
+    - num: '2'
+      name: АЙЗЕНБЕРГ Айзик Саулович
+    - num: '3'
+      name: АЛУТИН Владимир Андреевич
+    - num: '4'
+      name: БАБАЯН Анаида Артемьевна
+    - num: '5'
+      name: БАХИРЕВ Александр Иванович
+    - num: '6'
+      name: ВАГИН Григорий Николаевич
+    - num: '7'
+      name: ВАЙСМАН Владимир Львович
+    - num: '8'
+      name: ГАМАЗОВ Иван Иванович
+    - num: '9'
+      name: ГОЛОВИН Василий Елпидифорович
+    - num: '10'
+      name: ГУДИМЕНКО Иван Кузьмич
+    - num: '11'
+      name: ЕНУКИДЗЕ Владимир Спиридонович
+    - num: '12'
+      name: ЖИВИЦКИЙ Владимир Иванович
+    - num: '13'
+      name: ИВАНОВ Виктор Федорович
+    - num: '14'
+      name: ИЛЬИН Николай Иванович
+    - num: '15'
+      name: КАМЕНСКАЯ-МОРАВСКАЯ Зинаида Александровна
+    - num: '16'
+      name: КВАШЕНИННИКОВ Иван Иванович
+    - num: '17'
+      name: КУРДЮМОВ Дмитрий Евгеньевич
+    - num: '18'
+      name: ЛЕВИН Павел Борисович
+    - num: '19'
+      name: ЛЕОНОВ Александр Васильевич
+    - num: '20'
+      name: ЛИТВИНСКИЙ Вацлав Люцианович
+    - num: '21'
+      name: ЛУДРИ Иван Мартынович
+    - num: '22'
+      name: МАМРИДОВ Иван Сергеевич
+    - num: '23'
+      name: МАШКОВСКИЙ Василий Александрович
+    - num: '24'
+      name: ОБОЛЕНСКИЙ Василий Аркадьевич
+  - page:
+      pageid: '1109'
+      tom: '4'
+      pageintom: '266'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '12'
+      picturefile: 17-171-412-266.jpg
+      textfile: ''
+      sublisttitle: '0'
+      categorytitle: '0'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-266.jpg
     persons:
-    - {num: '25', name: ОВЕЛИЯ Отто Петрович}
-    - {num: '26', name: ОСКОЛКОВ Георгий Георгиевич}
-    - {num: '27', name: ПИСАРЕВ Гавриил Иванович}
-    - {num: '28', name: ПОЗДНЯКОВ Сергей Николаевич}
-    - {num: '29', name: ПОРТЕНКО Феофан Иустинович}
-    - {num: '30', name: ПУСТОХАНОВ Николай Алексеевич}
-    - {num: '31', name: РАБИНОВИЧ Иосиф Семенович}
-    - {num: '32', name: РАЗГОН Израиль Борисович}
-    - {num: '33', name: ТАМАРИН Марк Моисеевич}
-    - {num: '34', name: ТОКАРЕВ Африкан Васильевич}
-    - {num: '35', name: ХУДАДОВ Александр Николаевич}
-    - {num: '36', name: ФУТОРЯН Борис Моисеевич}
-  - page: {pageid: '1110', tom: '4', pageintom: '267', alistid: '107', pagekind: '1',
-      arowcount: '2', picturefile: 17-171-412-267.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '25'
+      name: ОВЕЛИЯ Отто Петрович
+    - num: '26'
+      name: ОСКОЛКОВ Георгий Георгиевич
+    - num: '27'
+      name: ПИСАРЕВ Гавриил Иванович
+    - num: '28'
+      name: ПОЗДНЯКОВ Сергей Николаевич
+    - num: '29'
+      name: ПОРТЕНКО Феофан Иустинович
+    - num: '30'
+      name: ПУСТОХАНОВ Николай Алексеевич
+    - num: '31'
+      name: РАБИНОВИЧ Иосиф Семенович
+    - num: '32'
+      name: РАЗГОН Израиль Борисович
+    - num: '33'
+      name: ТАМАРИН Марк Моисеевич
+    - num: '34'
+      name: ТОКАРЕВ Африкан Васильевич
+    - num: '35'
+      name: ХУДАДОВ Александр Николаевич
+    - num: '36'
+      name: ФУТОРЯН Борис Моисеевич
+  - page:
+      pageid: '1110'
+      tom: '4'
+      pageintom: '267'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '2'
+      picturefile: 17-171-412-267.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-267.jpg
     persons:
-    - {num: '1', name: ГРАМП (АГАНДЖАНОВ) Александр Николаевич}
-    - {num: '2', name: ЛЕВИНА-ЩЕРБАЧЕВА Наталия Сергеевна}
+    - num: '1'
+      name: ГРАМП (АГАНДЖАНОВ) Александр Николаевич
+    - num: '2'
+      name: ЛЕВИНА-ЩЕРБАЧЕВА Наталия Сергеевна
 - title: Список от 13 ноября 1937г. [Москва-Дзержинская ж.д.]
   sublisttitle: Москва-Дзержинская ж.д.
   pages:
-  - page: {pageid: '1111', tom: '4', pageintom: '268', alistid: '107', pagekind: '1',
-      arowcount: '19', picturefile: 17-171-412-268.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '1', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '1111'
+      tom: '4'
+      pageintom: '268'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '19'
+      picturefile: 17-171-412-268.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '1'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-268.jpg
     persons:
-    - {num: '1', name: БЕВЗА Константин Степанович}
-    - {num: '2', name: БОВТ Порфирий Никитич}
-    - {num: '3', name: БОЧАРОВ Василий Алексеевич}
-    - {num: '4', name: БУЛАТНИКОВ Николай Антонович}
-    - {num: '5', name: ВАСИЛЬКОВСКИЙ Сергей Семенович}
-    - {num: '6', name: ЕРМОЛАЕВ Николай Сергеевич}
-    - {num: '7', name: ЗАЙЦЕВ Иван Яковлевич}
-    - {num: '8', name: ЗАРЖЕЦКИЙ Сигизмунд Иванович}
-    - {num: '9', name: ЗЕНИН Константин Михайлович}
-    - {num: '10', name: КАЗАРИН Анатолий Сергеевич}
-    - {num: '11', name: КЛЕМЕШОВ Иван Александрович}
-    - {num: '12', name: ЛАРЕВ Иван Яковлевич}
-    - {num: '13', name: МАМОНОВ Иван Александрович}
-    - {num: '14', name: МЕНЬКОВ Николай Дмитриевич}
-    - {num: '15', name: МУРАТОВ Андрей Ерофеевич}
-    - {num: '16', name: ПРОВОТОРОВ Владимир Григорьевич}
-    - {num: '17', name: ТРИФОНОВ Иван Иванович}
-    - {num: '18', name: ФЕРЕ Георгий Карлович}
-    - {num: '19', name: ФОМИЧЕНКО Емельян Маркович}
-  - page: {pageid: '1112', tom: '4', pageintom: '269', alistid: '107', pagekind: '1',
-      arowcount: '1', picturefile: 17-171-412-269.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: БЕВЗА Константин Степанович
+    - num: '2'
+      name: БОВТ Порфирий Никитич
+    - num: '3'
+      name: БОЧАРОВ Василий Алексеевич
+    - num: '4'
+      name: БУЛАТНИКОВ Николай Антонович
+    - num: '5'
+      name: ВАСИЛЬКОВСКИЙ Сергей Семенович
+    - num: '6'
+      name: ЕРМОЛАЕВ Николай Сергеевич
+    - num: '7'
+      name: ЗАЙЦЕВ Иван Яковлевич
+    - num: '8'
+      name: ЗАРЖЕЦКИЙ Сигизмунд Иванович
+    - num: '9'
+      name: ЗЕНИН Константин Михайлович
+    - num: '10'
+      name: КАЗАРИН Анатолий Сергеевич
+    - num: '11'
+      name: КЛЕМЕШОВ Иван Александрович
+    - num: '12'
+      name: ЛАРЕВ Иван Яковлевич
+    - num: '13'
+      name: МАМОНОВ Иван Александрович
+    - num: '14'
+      name: МЕНЬКОВ Николай Дмитриевич
+    - num: '15'
+      name: МУРАТОВ Андрей Ерофеевич
+    - num: '16'
+      name: ПРОВОТОРОВ Владимир Григорьевич
+    - num: '17'
+      name: ТРИФОНОВ Иван Иванович
+    - num: '18'
+      name: ФЕРЕ Георгий Карлович
+    - num: '19'
+      name: ФОМИЧЕНКО Емельян Маркович
+  - page:
+      pageid: '1112'
+      tom: '4'
+      pageintom: '269'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '1'
+      picturefile: 17-171-412-269.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-269.jpg
     persons:
-    - {num: '1', name: УНГАР Герман Германович}
+    - num: '1'
+      name: УНГАР Герман Германович
 - title: Список от 13 ноября 1937г. [Москва-Ленинская ж.д.]
   sublisttitle: Москва-Ленинская ж.д.
   pages:
-  - page: {pageid: '1114', tom: '4', pageintom: '271', alistid: '107', pagekind: '1',
-      arowcount: '24', picturefile: 17-171-412-271.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '0', pometa: '0'}
+  - page:
+      pageid: '1114'
+      tom: '4'
+      pageintom: '271'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '24'
+      picturefile: 17-171-412-271.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '0'
+      pometa: '0'
     page_image: v04/17-171-412-271.jpg
     persons:
-    - {num: '1', name: АЛЕКСАНДРОВ Константин Дмитриевич}
-    - {num: '2', name: БАЛИЦКИЙ Зиновий Ильич}
-    - {num: '3', name: БРЮХОВЕЦКИЙ Александр Петрович}
-    - {num: '4', name: ВАСЕНИН Петр Дементьевич}
-    - {num: '5', name: ВЛАСТОВСКИЙ Георгий Теофилович}
-    - {num: '6', name: ВОЛКОВ Алексей Яковлевич}
-    - {num: '7', name: ГРАЧЕВ Вячеслав Павлович}
-    - {num: '8', name: ГУСАРОВ Василий Михайлович}
-    - {num: '9', name: ДЕНИСОВ Иван Васильевич}
-    - {num: '10', name: ИСАЕВ Иван Александрович}
-    - {num: '11', name: КОЗЛОВ Сергей Павлович}
-    - {num: '12', name: КОЛЧИН Петр Корнеевич}
-    - {num: '13', name: КОМИССАРОВ Иосиф Иванович}
-    - {num: '14', name: КОРНЕЕВ Иван Иванович}
-    - {num: '15', name: КОРОЛЕВ Николай Васильевич}
-    - {num: '16', name: КОТЫХОВ Федор Самонович}
-    - {num: '17', name: КУШНАРЕВ Илья Иванович}
-    - {num: '18', name: МАКСИМОВ Яков Яковлевич}
-    - {num: '19', name: МАТУШКИН Иван Егорович}
-    - {num: '20', name: НАЗАРОВ Николай Васильевич}
-    - {num: '21', name: НЕФЕДОВ Филипп Федорович}
-    - {num: '22', name: ПЕТРОВ Сергей Иванович}
-    - {num: '23', name: ПОПОВ Василий Николаевич}
-    - {num: '24', name: ТЕПФЕР Федор Эдуардович}
-  - page: {pageid: '1115', tom: '4', pageintom: '272', alistid: '107', pagekind: '1',
-      arowcount: '3', picturefile: 17-171-412-272.jpg, textfile: '', sublisttitle: '0',
-      categorytitle: '0', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АЛЕКСАНДРОВ Константин Дмитриевич
+    - num: '2'
+      name: БАЛИЦКИЙ Зиновий Ильич
+    - num: '3'
+      name: БРЮХОВЕЦКИЙ Александр Петрович
+    - num: '4'
+      name: ВАСЕНИН Петр Дементьевич
+    - num: '5'
+      name: ВЛАСТОВСКИЙ Георгий Теофилович
+    - num: '6'
+      name: ВОЛКОВ Алексей Яковлевич
+    - num: '7'
+      name: ГРАЧЕВ Вячеслав Павлович
+    - num: '8'
+      name: ГУСАРОВ Василий Михайлович
+    - num: '9'
+      name: ДЕНИСОВ Иван Васильевич
+    - num: '10'
+      name: ИСАЕВ Иван Александрович
+    - num: '11'
+      name: КОЗЛОВ Сергей Павлович
+    - num: '12'
+      name: КОЛЧИН Петр Корнеевич
+    - num: '13'
+      name: КОМИССАРОВ Иосиф Иванович
+    - num: '14'
+      name: КОРНЕЕВ Иван Иванович
+    - num: '15'
+      name: КОРОЛЕВ Николай Васильевич
+    - num: '16'
+      name: КОТЫХОВ Федор Самонович
+    - num: '17'
+      name: КУШНАРЕВ Илья Иванович
+    - num: '18'
+      name: МАКСИМОВ Яков Яковлевич
+    - num: '19'
+      name: МАТУШКИН Иван Егорович
+    - num: '20'
+      name: НАЗАРОВ Николай Васильевич
+    - num: '21'
+      name: НЕФЕДОВ Филипп Федорович
+    - num: '22'
+      name: ПЕТРОВ Сергей Иванович
+    - num: '23'
+      name: ПОПОВ Василий Николаевич
+    - num: '24'
+      name: ТЕПФЕР Федор Эдуардович
+  - page:
+      pageid: '1115'
+      tom: '4'
+      pageintom: '272'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '3'
+      picturefile: 17-171-412-272.jpg
+      textfile: ''
+      sublisttitle: '0'
+      categorytitle: '0'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-272.jpg
     persons:
-    - {num: '25', name: ТОКАРЬ Григорий Миронович}
-    - {num: '26', name: ШЕСТАКОВ Захар Захарович}
-    - {num: '1', name: КОРОЛЕВ Федор Александрович}
+    - num: '25'
+      name: ТОКАРЬ Григорий Миронович
+    - num: '26'
+      name: ШЕСТАКОВ Захар Захарович
+    - num: '1'
+      name: КОРОЛЕВ Федор Александрович
 - title: Список от 13 ноября 1937г. [Москва - Метро]
   sublisttitle: Москва - Метро
   pages:
-  - page: {pageid: '1116', tom: '4', pageintom: '273', alistid: '107', pagekind: '1',
-      arowcount: '3', picturefile: 17-171-412-273.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '1', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '1116'
+      tom: '4'
+      pageintom: '273'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '3'
+      picturefile: 17-171-412-273.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '1'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-273.jpg
     persons:
-    - {num: '1', name: ВЮРЦБУРГЕР Иоган Матвеевич}
-    - {num: '2', name: КИЛЬЦ Эрнст Федорович}
-    - {num: '3', name: ХАССЕ Генрих Генрихович}
+    - num: '1'
+      name: ВЮРЦБУРГЕР Иоган Матвеевич
+    - num: '2'
+      name: КИЛЬЦ Эрнст Федорович
+    - num: '3'
+      name: ХАССЕ Генрих Генрихович
 - title: Список от 13 ноября 1937г. [Калуга - Киевская ж.д.]
   sublisttitle: Калуга - Киевская ж.д.
   pages:
-  - page: {pageid: '1120', tom: '4', pageintom: '277', alistid: '107', pagekind: '1',
-      arowcount: '20', picturefile: 17-171-412-277.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '1120'
+      tom: '4'
+      pageintom: '277'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '20'
+      picturefile: 17-171-412-277.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-277.jpg
     persons:
-    - {num: '1', name: АНДРЕЕВ Иван Петрович}
-    - {num: '2', name: БОРЕЙШО Николай Васильевич}
-    - {num: '3', name: БУНЯКИН Анатолий Александрович}
-    - {num: '4', name: ГАРНОВСКИЙ Владимир Степанович}
-    - {num: '5', name: ДУБОК Гавриил Игнатьевич}
-    - {num: '6', name: ЕРОХИН Владимир Владимирович}
-    - {num: '7', name: ЖУКОВ Константин Николаевич}
-    - {num: '8', name: ЗАЛЕВСКИЙ Нестер Карпович}
-    - {num: '9', name: ИЗОТОВ Влас Максимович}
-    - {num: '10', name: КИМСТАЧ Василий Данилович}
-    - {num: '11', name: КУЦУРБА (КУЦУУРБА) Иван Маркович}
-    - {num: '12', name: ЛЕДЕНЕВ Иван Иванович}
-    - {num: '13', name: ПИРУШКО Георгий Францевич}
-    - {num: '14', name: САМОШЕНКОВ Андрей Георгиевич}
-    - {num: '15', name: СОЛДАТЕНКО Мина Парамонович}
-    - {num: '16', name: СОЛОВЬЕВ Глеб Павлович}
-    - {num: '17', name: ТАРАСОВ Никифор Кириллович}
-    - {num: '18', name: ЧЕБОТАРЕВ Александр Васильевич}
-    - {num: '19', name: ШАПИН Иван Михайлович}
-    - {num: '20', name: ШМАТОВ Николай Иванович}
-  - page: {pageid: '1121', tom: '4', pageintom: '278', alistid: '107', pagekind: '1',
-      arowcount: '4', picturefile: 17-171-412-278.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АНДРЕЕВ Иван Петрович
+    - num: '2'
+      name: БОРЕЙШО Николай Васильевич
+    - num: '3'
+      name: БУНЯКИН Анатолий Александрович
+    - num: '4'
+      name: ГАРНОВСКИЙ Владимир Степанович
+    - num: '5'
+      name: ДУБОК Гавриил Игнатьевич
+    - num: '6'
+      name: ЕРОХИН Владимир Владимирович
+    - num: '7'
+      name: ЖУКОВ Константин Николаевич
+    - num: '8'
+      name: ЗАЛЕВСКИЙ Нестер Карпович
+    - num: '9'
+      name: ИЗОТОВ Влас Максимович
+    - num: '10'
+      name: КИМСТАЧ Василий Данилович
+    - num: '11'
+      name: КУЦУРБА (КУЦУУРБА) Иван Маркович
+    - num: '12'
+      name: ЛЕДЕНЕВ Иван Иванович
+    - num: '13'
+      name: ПИРУШКО Георгий Францевич
+    - num: '14'
+      name: САМОШЕНКОВ Андрей Георгиевич
+    - num: '15'
+      name: СОЛДАТЕНКО Мина Парамонович
+    - num: '16'
+      name: СОЛОВЬЕВ Глеб Павлович
+    - num: '17'
+      name: ТАРАСОВ Никифор Кириллович
+    - num: '18'
+      name: ЧЕБОТАРЕВ Александр Васильевич
+    - num: '19'
+      name: ШАПИН Иван Михайлович
+    - num: '20'
+      name: ШМАТОВ Николай Иванович
+  - page:
+      pageid: '1121'
+      tom: '4'
+      pageintom: '278'
+      alistid: '107'
+      pagekind: '1'
+      arowcount: '4'
+      picturefile: 17-171-412-278.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v04/17-171-412-278.jpg
     persons:
-    - {num: '1', name: ГОРЕЛОВ Константин Степанович}
-    - {num: '2', name: ГРИШИН Владимир Федорович}
-    - {num: '3', name: ЛЕБЕДЕВ Яков Ильич}
-    - {num: '4', name: САЛТЫКОВ Афанасий Трофимович}
+    - num: '1'
+      name: ГОРЕЛОВ Константин Степанович
+    - num: '2'
+      name: ГРИШИН Владимир Федорович
+    - num: '3'
+      name: ЛЕБЕДЕВ Яков Ильич
+    - num: '4'
+      name: САЛТЫКОВ Афанасий Трофимович

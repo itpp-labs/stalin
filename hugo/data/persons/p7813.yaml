@@ -8,68 +8,18 @@ name_mixed:
   firstname: Родеф-Энглези
   midlastname: Федор Георгиевич
   nameshow: Родеф-Энглези Федор Георгиевич
+fond7:
+  deathdate: '1937-12-02'
+  sessiondate: '1937-12-02'
+  primsud: Осужден ВК ВС в период 02-11.12.1937 по 1 категории
+  primtext: Осужден ВК ВС в период 02-11.12.1937 по 1 категории
+  text_lines:
+  - Осужден ВК ВС в период 02-11.12.1937 по 1 категории
+  - 'Дата расстрела: 1937-12-02'
 lists:
-- list:
-    listid: '216'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 7 сентября 1937 года
-    adate: '1937-09-07'
-    listnum: '2'
-    listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-      ССР, Дальне-Восточный край, Челябинская обл.'
-    page1: '1'
-    page2: '9'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '1'
-    centertext: '8'
-    politsigns: За Сталин, Молотов, Каганович, Ворошилов, Ежов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '1'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '366'
-    tom: '3'
-    listnum: '72'
-    adate: '0000-00-00'
-    datetext: 7 сентября 1937г.
-    alistid: '216'
-    sublistnum: '2'
-    sublisttitle: Крымская АССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '2'
-    kat2count: '2'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '5'
-  rowinpage: '2'
-  nomer: '2'
+- title: Список от 7 сентября 1937г. [Крымская АССР] - РГАСПИ, ф.17, т.3, оп.171,
+    дело 411, лист 1
+  url: /lists/list216
 gb_spravka:
   pages: []
   html: null

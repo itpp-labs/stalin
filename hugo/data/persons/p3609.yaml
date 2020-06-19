@@ -8,67 +8,19 @@ name_mixed:
   firstname: Инжеваткин
   midlastname: Прокофий Васильевич
   nameshow: Инжеваткин Прокофий Васильевич
+fond7:
+  deathdate: '1937-07-31'
+  sessiondate: '1937-07-31'
+  primsud: СПО //ст.21-70
+  primtext: СПО\nст.21-70
+  text_lines:
+  - СПО
+  - ст.21-70
+  - 'Дата расстрела: 1937-07-31'
 lists:
-- list:
-    listid: '36'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 10 июля 1937 года
-    adate: '1937-07-10'
-    listnum: '4'
-    listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
-    page1: '21'
-    page2: '26'
-    listmaker: '16'
-    listkind: '0'
-    reallist: '1'
-    toptext: '1'
-    centertext: '8'
-    politsigns: Сталин, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '173'
-    tom: '2'
-    listnum: '32'
-    adate: '0000-00-00'
-    datetext: 10 июля 1937 г.
-    alistid: '36'
-    sublistnum: '1'
-    sublisttitle: Азербайджанская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '42'
-    kat2count: '3'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач.8 отд. ГУГБ НКВД СССР ст.майор ГБ)
-    podp_pb: Сталин, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '23'
-  rowinpage: '13'
-  nomer: '13'
+- title: Список от 10 июля 1937 г. [Азербайджанская ССР] - РГАСПИ, ф.17, т.2, оп.171,
+    дело 410, лист 21
+  url: /lists/list36
 gb_spravka:
   pages: []
   html: null

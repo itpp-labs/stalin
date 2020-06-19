@@ -1,68 +1,148 @@
-title: РГАСПИ, ф.17, оп.171, дело 411, лист 57
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-3}
+title: РГАСПИ, ф.17, т.3, оп.171, дело 411, лист 57
+date: '1937-09-15'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-3
 pages:
-- {image: v03/17-171-411-057.jpg}
-- {image: v03/17-171-411-058.jpg}
-- {image: v03/17-171-411-059.jpg}
-- {image: v03/17-171-411-060.jpg}
-- {image: v03/17-171-411-061.jpg}
-- {image: v03/17-171-411-062.jpg}
-- {image: v03/17-171-411-063.jpg}
-- {image: v03/17-171-411-064.jpg}
+- image: v03/17-171-411-057.jpg
+- image: v03/17-171-411-058.jpg
+- image: v03/17-171-411-059.jpg
+- image: v03/17-171-411-060.jpg
+- image: v03/17-171-411-061.jpg
+- image: v03/17-171-411-062.jpg
+- image: v03/17-171-411-063.jpg
+- image: v03/17-171-411-064.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Челябинская область]
   sublisttitle: Челябинская область
   pages:
-  - page: {pageid: '651', tom: '3', pageintom: '59', alistid: '225', pagekind: '1',
-      arowcount: '24', picturefile: 17-171-411-059.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+  - page:
+      pageid: '651'
+      tom: '3'
+      pageintom: '59'
+      alistid: '225'
+      pagekind: '1'
+      arowcount: '24'
+      picturefile: 17-171-411-059.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v03/17-171-411-059.jpg
     persons:
-    - {num: '1', name: АЛЬПЕРОВИЧ Иосиф Борисович}
-    - {num: '2', name: БАТУРКО Александр Иванович}
-    - {num: '3', name: БЕККЕР Эмиль Яковлевич}
-    - {num: '4', name: БОЛОТОВ Дмитрий Иванович}
-    - {num: '5', name: ВЕСЕЛОВСКИЙ Рихард Эрнстович}
-    - {num: '6', name: ВИШНЯ Лев Абрамович}
-    - {num: '7', name: ГАБЕРЛ Кристиан Михайлович}
-    - {num: '8', name: КЛИШЕВИЧ Николай Васильевич}
-    - {num: '9', name: КОНТОРОВИЧ Овзер Нахимович}
-    - {num: '10', name: КУЗНЕЦЕВ Сергей Сидорович}
-    - {num: '11', name: ЛАНГЕ Генрих Генрихович}
-    - {num: '12', name: МАЗУНИН Григорий Михайлович}
-    - {num: '13', name: МАЗУТ Иосиф Давидович}
-    - {num: '14', name: ОРЛЕНКО Тимофей Афиногенович}
-    - {num: '15', name: ПАСОВСКИЙ Борис Иосифович}
-    - {num: '16', name: ПАСТУХОВ Михаил Петрович}
-    - {num: '17', name: ПЕТЦНИК Август Эрнстович}
-    - {num: '18', name: СОФРОНОВ Александр Романович}
-    - {num: '19', name: ХМЕЛЕВ Михаил Матвеевич}
-    - {num: '20', name: ЧАРОМСКАЯ Полина Львовна}
-    - {num: '21', name: ЧЕРЕПАНОВ Николай Алексеевич}
-    - {num: '22', name: ЧЕРНЯ Иосиф Миронович}
-    - {num: '23', name: ШИКОЛАС Антон Валентинович}
-    - {num: '24', name: ШИЛОВ Григорий Андреевич}
-  - page: {pageid: '652', tom: '3', pageintom: '60', alistid: '225', pagekind: '1',
-      arowcount: '1', picturefile: 17-171-411-060.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АЛЬПЕРОВИЧ Иосиф Борисович
+    - num: '2'
+      name: БАТУРКО Александр Иванович
+    - num: '3'
+      name: БЕККЕР Эмиль Яковлевич
+    - num: '4'
+      name: БОЛОТОВ Дмитрий Иванович
+    - num: '5'
+      name: ВЕСЕЛОВСКИЙ Рихард Эрнстович
+    - num: '6'
+      name: ВИШНЯ Лев Абрамович
+    - num: '7'
+      name: ГАБЕРЛ Кристиан Михайлович
+    - num: '8'
+      name: КЛИШЕВИЧ Николай Васильевич
+    - num: '9'
+      name: КОНТОРОВИЧ Овзер Нахимович
+    - num: '10'
+      name: КУЗНЕЦЕВ Сергей Сидорович
+    - num: '11'
+      name: ЛАНГЕ Генрих Генрихович
+    - num: '12'
+      name: МАЗУНИН Григорий Михайлович
+    - num: '13'
+      name: МАЗУТ Иосиф Давидович
+    - num: '14'
+      name: ОРЛЕНКО Тимофей Афиногенович
+    - num: '15'
+      name: ПАСОВСКИЙ Борис Иосифович
+    - num: '16'
+      name: ПАСТУХОВ Михаил Петрович
+    - num: '17'
+      name: ПЕТЦНИК Август Эрнстович
+    - num: '18'
+      name: СОФРОНОВ Александр Романович
+    - num: '19'
+      name: ХМЕЛЕВ Михаил Матвеевич
+    - num: '20'
+      name: ЧАРОМСКАЯ Полина Львовна
+    - num: '21'
+      name: ЧЕРЕПАНОВ Николай Алексеевич
+    - num: '22'
+      name: ЧЕРНЯ Иосиф Миронович
+    - num: '23'
+      name: ШИКОЛАС Антон Валентинович
+    - num: '24'
+      name: ШИЛОВ Григорий Андреевич
+  - page:
+      pageid: '652'
+      tom: '3'
+      pageintom: '60'
+      alistid: '225'
+      pagekind: '1'
+      arowcount: '1'
+      picturefile: 17-171-411-060.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v03/17-171-411-060.jpg
     persons:
-    - {num: '1', name: РЕШ Иосиф Иосифович}
-  - page: {pageid: '654', tom: '3', pageintom: '62', alistid: '225', pagekind: '1',
-      arowcount: '7', picturefile: 17-171-411-062.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: РЕШ Иосиф Иосифович
+  - page:
+      pageid: '654'
+      tom: '3'
+      pageintom: '62'
+      alistid: '225'
+      pagekind: '1'
+      arowcount: '7'
+      picturefile: 17-171-411-062.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v03/17-171-411-062.jpg
     persons:
-    - {num: '1', name: АДИАНОВ Александр Сигизмундович}
-    - {num: '2', name: БАЛАНУЦА Николай Михайлович}
-    - {num: '3', name: ВЕЖЕВ Борис Михайлович}
-    - {num: '4', name: КАЗЯВИН Леонид Сергеевич}
-    - {num: '5', name: РОМОДАНОВ Иван Сергеевич}
-    - {num: '6', name: ФАРБЕРОВ Марк Яковлевич}
-    - {num: '7', name: ХУТОРСКОЙ Дмитрий Петрович}
-  - page: {pageid: '655', tom: '3', pageintom: '63', alistid: '225', pagekind: '1',
-      arowcount: '1', picturefile: 17-171-411-063.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АДИАНОВ Александр Сигизмундович
+    - num: '2'
+      name: БАЛАНУЦА Николай Михайлович
+    - num: '3'
+      name: ВЕЖЕВ Борис Михайлович
+    - num: '4'
+      name: КАЗЯВИН Леонид Сергеевич
+    - num: '5'
+      name: РОМОДАНОВ Иван Сергеевич
+    - num: '6'
+      name: ФАРБЕРОВ Марк Яковлевич
+    - num: '7'
+      name: ХУТОРСКОЙ Дмитрий Петрович
+  - page:
+      pageid: '655'
+      tom: '3'
+      pageintom: '63'
+      alistid: '225'
+      pagekind: '1'
+      arowcount: '1'
+      picturefile: 17-171-411-063.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v03/17-171-411-063.jpg
     persons:
-    - {num: '1', name: ШЛЕЙДЕР Ганс Гансович}
+    - num: '1'
+      name: ШЛЕЙДЕР Ганс Гансович

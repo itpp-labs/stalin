@@ -8,67 +8,16 @@ name_mixed:
   firstname: Бойков
   midlastname: Андрей Васильевич
   nameshow: Бойков Андрей Васильевич
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '404'
-    fond: '17'
-    opis: '171'
-    ed_hr: '419'
-    delonum: 9-Л/8-11
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '11'
-    datetext: от 25 сентября 1938 года
-    adate: '1938-09-25'
-    listnum: '19'
-    listtitle: Список лиц - Оренбургская область,г.Оренбург - Оренбургская ж.д.
-    page1: '199'
-    page2: '215'
-    listmaker: '22'
-    listkind: '0'
-    reallist: '1'
-    toptext: '184'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: рассекречено
-  sublist:
-    sublistid: '650'
-    tom: '11'
-    listnum: '18'
-    adate: '0000-00-00'
-    datetext: 25 сентября 1938г.
-    alistid: '404'
-    sublistnum: '1'
-    sublisttitle: Оренбургская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '184'
-    kat2count: '15'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач.1 специального отдела НКВД СССР майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '201'
-  rowinpage: '18'
-  nomer: '18'
+- title: Список от 25 сентября 1938г. [Оренбургская область] - РГАСПИ, ф.17, т.11,
+    оп.171, дело 419, лист 199
+  url: /lists/list404
 gb_spravka:
   pages: []
   html: null

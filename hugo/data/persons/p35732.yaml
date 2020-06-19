@@ -8,67 +8,17 @@ name_mixed:
   firstname: Перелешин
   midlastname: Лев Николаевич
   nameshow: Перелешин Лев Николаевич
+fond7:
+  deathdate: '1938-09-01'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1938-09-01'
 lists:
-- list:
-    listid: '181'
-    fond: '17'
-    opis: '171'
-    ed_hr: '417'
-    delonum: 9-Л/8-9
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '9'
-    datetext: от 10 июня 1938 года
-    adate: '1938-06-10'
-    listnum: '28'
-    listtitle: Список лиц - Москва-центр
-    page1: '176'
-    page2: '183'
-    listmaker: '13'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '8'
-    politsigns: Молотов, Сталин
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '122'
-    tom: '9'
-    listnum: '27'
-    adate: '0000-00-00'
-    datetext: 10.VI.38г.
-    alistid: '181'
-    sublistnum: '1'
-    sublisttitle: Москва-Центр
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '122'
-    kat2count: '5'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '180'
-  rowinpage: '29'
-  nomer: '78'
+- title: Список от 10.VI.38г. [Москва-Центр] - РГАСПИ, ф.17, т.9, оп.171, дело 417,
+    лист 176
+  url: /lists/list181
 gb_spravka:
   pages: []
   html: null

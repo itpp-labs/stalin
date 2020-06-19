@@ -8,67 +8,18 @@ name_mixed:
   firstname: Мирошниченко
   midlastname: Иван Емельянович
   nameshow: Мирошниченко Иван Емельянович
+fond7:
+  deathdate: '1938-06-17'
+  sessiondate: '1938-06-17'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1938-06-17'
+  - 'Дата расстрела: 1938-06-17'
 lists:
-- list:
-    listid: '166'
-    fond: '17'
-    opis: '171'
-    ed_hr: '417'
-    delonum: 9-Л/8-9
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '9'
-    datetext: от 10 июня 1938 года
-    adate: '1938-06-10'
-    listnum: '13'
-    listtitle: Список лиц - Ростовская область
-    page1: '74'
-    page2: '84'
-    listmaker: '13'
-    listkind: '0'
-    reallist: '1'
-    toptext: '54'
-    centertext: '8'
-    politsigns: Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '107'
-    tom: '9'
-    listnum: '12'
-    adate: '0000-00-00'
-    datetext: 10.VI.38г.
-    alistid: '166'
-    sublistnum: '1'
-    sublisttitle: Ростовская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '189'
-    kat2count: '41'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '80'
-  rowinpage: '7'
-  nomer: '114'
+- title: Список от 10.VI.38г. [Ростовская область] - РГАСПИ, ф.17, т.9, оп.171, дело
+    417, лист 74
+  url: /lists/list166
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Борисенко
   midlastname: Иван Данилович
   nameshow: Борисенко Иван Данилович
+fond7:
+  deathdate: '1937-07-19'
+  sessiondate: '1937-07-19'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-07-19'
+  - 'Дата расстрела: 1937-07-19'
 lists:
-- list:
-    listid: '21'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 14 июня 1937 года
-    adate: '1937-06-14'
-    listnum: '21'
-    listtitle: Список лиц - Орджоникидзевский край
-    page1: '164'
-    page2: '171'
-    listmaker: '6'
-    listkind: '0'
-    reallist: '1'
-    toptext: '14'
-    centertext: '3'
-    politsigns: За Сталин, Молотов, Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '18'
-    tom: '1'
-    listnum: '19'
-    adate: '0000-00-00'
-    datetext: 14 июня 1937 г.
-    alistid: '21'
-    sublistnum: '1'
-    sublisttitle: Орджоникидзевский край
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '108'
-    kat2count: '24'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Литвин (нач.4 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '166'
-  rowinpage: '17'
-  nomer: '17'
+- title: Список от 14 июня 1937 г. [Орджоникидзевский край] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 164
+  url: /lists/list21
 gb_spravka:
   pages: []
   html: null

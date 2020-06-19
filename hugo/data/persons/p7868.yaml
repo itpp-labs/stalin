@@ -8,67 +8,16 @@ name_mixed:
   firstname: Словинский
   midlastname: Леонид Геннадиевич
   nameshow: Словинский Леонид Геннадиевич
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '217'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: '" " сентября 1937 года'
-    adate: '1937-09-07'
-    listnum: '3'
-    listtitle: 'Список лиц: Украинская ССР'
-    page1: '10'
-    page2: '13'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '18'
-    centertext: '43'
-    politsigns: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '1'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '341'
-    tom: '3'
-    listnum: '73'
-    adate: '0000-00-00'
-    datetext: сентябрь 1937г.
-    alistid: '217'
-    sublistnum: '1'
-    sublisttitle: Украинская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '38'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '13'
-  rowinpage: '7'
-  nomer: '31'
+- title: Список от сентябрь 1937г. [Украинская ССР] - РГАСПИ, ф.17, т.3, оп.171, дело
+    411, лист 10
+  url: /lists/list217
 gb_spravka:
   pages: []
   html: null

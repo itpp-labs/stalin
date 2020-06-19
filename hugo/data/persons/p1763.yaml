@@ -8,130 +8,21 @@ name_mixed:
   firstname: Гандерин
   midlastname: Петр Николаевич
   nameshow: Гандерин Петр Николаевич
+fond7:
+  deathdate: '1937-07-04'
+  sessiondate: '1937-07-03'
+  primsud: ''
+  primtext: Гандюрин
+  text_lines:
+  - Гандюрин
+  - 'Дата расстрела: 1937-07-04'
 lists:
-- list:
-    listid: '3'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 27 февраля 1937 года
-    adate: '1937-02-27'
-    listnum: '3'
-    listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский
-      край, Азово-Черноморский край, Свердловская обл., Баку, Красноярский край, Саратовская
-      обл., Сталинградская обл., Горьковская обл., Куйбышевская обл., Казахстан, Ивановская
-      обл.'
-    page1: '5'
-    page2: '29'
-    listmaker: '0'
-    listkind: '0'
-    reallist: '1'
-    toptext: '2'
-    centertext: '3'
-    politsigns: ''
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '148'
-    tom: '1'
-    listnum: '1'
-    adate: '0000-00-00'
-    datetext: 27 февраля 1937 г.
-    alistid: '3'
-    sublistnum: '7'
-    sublisttitle: Баку
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '39'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: ''
-    podp_pb: Сталин, Ворошилов, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '24'
-  rowinpage: '11'
-  nomer: '11'
-- list:
-    listid: '13'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 23 апреля 1937 года
-    adate: '1937-04-23'
-    listnum: '13'
-    listtitle: Список лиц - Баку
-    page1: '108'
-    page2: '113'
-    listmaker: '5'
-    listkind: '0'
-    reallist: '1'
-    toptext: '13'
-    centertext: '8'
-    politsigns: За Сталин, Молотов, Каганович, Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '10'
-    tom: '1'
-    listnum: '11'
-    adate: '0000-00-00'
-    datetext: 23 апреля 1937 г.
-    alistid: '13'
-    sublistnum: '1'
-    sublisttitle: Баку
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '39'
-    kat2count: '17'
-    kat3count: '2'
-    grif: ''
-    kind: '0'
-    podp_fin: Агранов (Зам.НК ВД СССР, нач.4 отд.ГУГБ Комиссар ГБ 1 ранга)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '110'
-  rowinpage: '11'
-  nomer: '11'
+- title: Список от 27 февраля 1937 г. [Баку] - РГАСПИ, ф.17, т.1, оп.171, дело 409,
+    лист 5
+  url: /lists/list3
+- title: Список от 23 апреля 1937 г. [Баку] - РГАСПИ, ф.17, т.1, оп.171, дело 409,
+    лист 108
+  url: /lists/list13
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,19 @@ name_mixed:
   firstname: Эфендиев Шафиг Габиб Оглы
   midlastname: ''
   nameshow: Эфендиев Шафиг Габиб Оглы
+fond7:
+  deathdate: '1938-07-02'
+  sessiondate: '1938-07-02'
+  primsud: ст.ст. УК АзССР - 73, 64, 69, 70, 71
+  primtext: Шафи\nст.ст. УК АзССР - 73,64,69,70,71
+  text_lines:
+  - Шафи
+  - ст.ст. УК АзССР - 73,64,69,70,71
+  - 'Дата расстрела: 1938-07-02'
 lists:
-- list:
-    listid: '330'
-    fond: '17'
-    opis: '171'
-    ed_hr: '416'
-    delonum: 9-Л/8-8
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '8'
-    datetext: от 3 мая 1938 года
-    adate: '1938-05-03'
-    listnum: '43'
-    listtitle: Список лиц - Азербайджанская ССР
-    page1: '316'
-    page2: '325'
-    listmaker: '21'
-    listkind: '0'
-    reallist: '1'
-    toptext: '71'
-    centertext: '8'
-    politsigns: Сталин,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '576'
-    tom: '8'
-    listnum: '42'
-    adate: '0000-00-00'
-    datetext: 3 мая 1938г.
-    alistid: '330'
-    sublistnum: '1'
-    sublisttitle: Азербайджанская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '176'
-    kat2count: '12'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач. 8 отд. ГУГБ НКВД ст.майор ГБ) - нет подписи
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '324'
-  rowinpage: '12'
-  nomer: '174'
+- title: Список от 3 мая 1938г. [Азербайджанская ССР] - РГАСПИ, ф.17, т.8, оп.171,
+    дело 416, лист 316
+  url: /lists/list330
 gb_spravka:
   pages: []
   html: null

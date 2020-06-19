@@ -8,69 +8,18 @@ name_mixed:
   firstname: Холохоленко
   midlastname: Александр Ульянович
   nameshow: Холохоленко Александр Ульянович
+fond7:
+  deathdate: '1937-09-01'
+  sessiondate: '1937-09-01'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-09-01'
+  - 'Дата расстрела: 1937-09-01'
 lists:
-- list:
-    listid: '69'
-    fond: '17'
-    opis: '171'
-    ed_hr: '410'
-    delonum: 9-Л/8-2
-    deloname: Право-троцкистский блок (списки)
-    tom: '2'
-    datetext: 25 августа 1937 года
-    adate: '1937-08-25'
-    listnum: '37'
-    listtitle: 'Список лиц: центр.аппарат УГБ НКВД УССР, Днепропетровская, Донецкая,
-      Харьковская, Одесская, Черниговская, Винницкая, Киевская области'
-    page1: '283'
-    page2: '304'
-    listmaker: '17'
-    listkind: '0'
-    reallist: '1'
-    toptext: '41'
-    centertext: '42'
-    politsigns: За Сталин, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '215'
-    tom: '2'
-    listnum: '65'
-    adate: '0000-00-00'
-    datetext: 25 августа 1937 г.
-    alistid: '69'
-    sublistnum: '1'
-    sublisttitle: Центральный аппарат УГБ НКВД УССР
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '150'
-    kat2count: '0'
-    kat3count: '0'
-    grif: Севершенно-Секретно
-    kind: '0'
-    podp_fin: Бельский (зам.Наркома ВД СССР - Комиссар ГБ 2 ранга), Калошин (Воен.Прокурор-
-      диввоенюрист), Яченин (врио.Прокурора УССР)
-    podp_pb: Сталин, Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '289'
-  rowinpage: '1'
-  nomer: '137'
+- title: Список от 25 августа 1937 г. [Центральный аппарат УГБ НКВД УССР] - РГАСПИ,
+    ф.17, т.2, оп.171, дело 410, лист 283
+  url: /lists/list69
 gb_spravka:
   pages: []
   html: null

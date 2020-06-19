@@ -8,67 +8,18 @@ name_mixed:
   firstname: Скорцишевский
   midlastname: Владимир Иванович
   nameshow: Скорцишевский Владимир Иванович
+fond7:
+  deathdate: '1937-10-14'
+  sessiondate: '1937-10-14'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-10-14'
+  - 'Дата расстрела: 1937-10-14'
 lists:
-- list:
-    listid: '243'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 3 октября 1937 года
-    adate: '1937-10-03'
-    listnum: '29'
-    listtitle: 'Список лиц: Казахская ССР'
-    page1: '191'
-    page2: '196'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '1'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '362'
-    tom: '3'
-    listnum: '99'
-    adate: '0000-00-00'
-    datetext: 3 октября 1937г.
-    alistid: '243'
-    sublistnum: '1'
-    sublisttitle: Казахская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '72'
-    kat2count: '8'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '194'
-  rowinpage: '17'
-  nomer: '40'
+- title: Список от 3 октября 1937г. [Казахская ССР] - РГАСПИ, ф.17, т.3, оп.171, дело
+    411, лист 191
+  url: /lists/list243
 gb_spravka:
   pages: []
   html: null

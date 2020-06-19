@@ -8,127 +8,21 @@ name_mixed:
   firstname: Полищук
   midlastname: Лазарь Михайлович
   nameshow: Полищук Лазарь Михайлович
+fond7:
+  deathdate: '1937-12-06'
+  sessiondate: '1937-12-05'
+  primsud: ''
+  primtext: Поличук - в итоговом списке
+  text_lines:
+  - Поличук - в итоговом списке
+  - 'Дата расстрела: 1937-12-06'
 lists:
-- list:
-    listid: '236'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 26 сентября 1937 года
-    adate: '1937-09-26'
-    listnum: '22'
-    listtitle: 'Список лиц: Украинская ССР'
-    page1: '146'
-    page2: '163'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '21'
-    centertext: '8'
-    politsigns: За Сталин, Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '356'
-    tom: '3'
-    listnum: '92'
-    adate: '0000-00-00'
-    datetext: 26 сентября 1937г.
-    alistid: '236'
-    sublistnum: '1'
-    sublisttitle: Украинская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '326'
-    kat2count: '57'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '150'
-  rowinpage: '11'
-  nomer: '58'
-- list:
-    listid: '101'
-    fond: '17'
-    opis: '171'
-    ed_hr: '412'
-    delonum: 9-Л/8-4
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '4'
-    datetext: 13 ноября 1937 года
-    adate: '1937-11-13'
-    listnum: '25'
-    listtitle: Список лиц - Украинская ССР; Киев. Юго-Западная ж.д.
-    page1: '187'
-    page2: '219'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '18'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '248'
-    tom: '4'
-    listnum: '128'
-    adate: '0000-00-00'
-    datetext: 13 ноября 1937г.
-    alistid: '101'
-    sublistnum: '1'
-    sublisttitle: Украинская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '680'
-    kat2count: '24'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '199'
-  rowinpage: '27'
-  nomer: '296'
+- title: Список от 26 сентября 1937г. [Украинская ССР] - РГАСПИ, ф.17, т.3, оп.171,
+    дело 411, лист 146
+  url: /lists/list236
+- title: Список от 13 ноября 1937г. [Украинская ССР] - РГАСПИ, ф.17, т.4, оп.171,
+    дело 412, лист 187
+  url: /lists/list101
 gb_spravka:
   pages: []
   html: null

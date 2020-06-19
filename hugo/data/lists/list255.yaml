@@ -1,57 +1,123 @@
-title: РГАСПИ, ф.17, оп.171, дело 415, лист 43
-delo: {name: Право-троцкистский блок (списки осужденных), num: 9-Л/8-7}
+title: РГАСПИ, ф.17, т.7, оп.171, дело 415, лист 43
+date: '1938-03-05'
+delo:
+  name: Право-троцкистский блок (списки осужденных)
+  num: 9-Л/8-7
 pages:
-- {image: v07/17-171-415-043.jpg}
-- {image: v07/17-171-415-044.jpg}
-- {image: v07/17-171-415-045.jpg}
-- {image: v07/17-171-415-046.jpg}
-- {image: v07/17-171-415-047.jpg}
+- image: v07/17-171-415-043.jpg
+- image: v07/17-171-415-044.jpg
+- image: v07/17-171-415-045.jpg
+- image: v07/17-171-415-046.jpg
+- image: v07/17-171-415-047.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Ташкент,Ташкентская ж.д.]
   sublisttitle: г.Ташкент,Ташкентская ж.д.
   pages:
-  - page: {pageid: '2015', tom: '7', pageintom: '45', alistid: '255', pagekind: '1',
-      arowcount: '23', picturefile: 17-171-415-045.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '0', pometa: '0'}
+  - page:
+      pageid: '2015'
+      tom: '7'
+      pageintom: '45'
+      alistid: '255'
+      pagekind: '1'
+      arowcount: '23'
+      picturefile: 17-171-415-045.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '0'
+      pometa: '0'
     page_image: v07/17-171-415-045.jpg
     persons:
-    - {num: '1', name: АБРАМОВ Михаил Игнатьевич}
-    - {num: '2', name: БАЛЬ Нил Михайлович}
-    - {num: '3', name: БЕТЕХТИН Петр Яковлевич}
-    - {num: '4', name: ВЕНЕЦИАНСКИЙ Михаил Васильевич}
-    - {num: '5', name: ВЕСЕЛОВ Юрий Александрович}
-    - {num: '6', name: ГРИГОРЬЕВ Сергей Анисимович}
-    - {num: '7', name: ДАНИЛОВ Иван Михайлович}
-    - {num: '8', name: ДОНГАУЗЕР Михаил Иосифович}
-    - {num: '9', name: ИСАЕВ Николай Афанасьевич}
-    - {num: '10', name: ЛУЦКЕВИЧ Андрей Иуллианович}
-    - {num: '11', name: ЛЫСУХИН Иван Яковлевич}
-    - {num: '12', name: НЕРЕД Михаил Федорович}
-    - {num: '13', name: НЕЧАЕВ Александр Николаевич}
-    - {num: '14', name: ОБРАЗОВ Александр Иванович}
-    - {num: '15', name: ОКУНЕВ Григорий Ефимович}
-    - {num: '16', name: ПЕЙСАХОВ Захар Абрамович}
-    - {num: '17', name: ПОЛЯКОВ Иван Михайлович}
-    - {num: '18', name: ПРОКОПОВИЧ Павел Николаевич}
-    - {num: '19', name: РАФАЛЬЗУК Михаил Михайлович}
-    - {num: '20', name: РОМАНИШИН Дмитрий Фомич}
-    - {num: '21', name: РОМАХ Прокофий Иванович}
-    - {num: '22', name: РЫКОВ Николай Иванович}
-    - {num: '23', name: СЕМЕНОВ Иван Павлович}
-  - page: {pageid: '2016', tom: '7', pageintom: '46', alistid: '255', pagekind: '1',
-      arowcount: '4', picturefile: 17-171-415-046.jpg, textfile: '', sublisttitle: '0',
-      categorytitle: '0', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '1'
+      name: АБРАМОВ Михаил Игнатьевич
+    - num: '2'
+      name: БАЛЬ Нил Михайлович
+    - num: '3'
+      name: БЕТЕХТИН Петр Яковлевич
+    - num: '4'
+      name: ВЕНЕЦИАНСКИЙ Михаил Васильевич
+    - num: '5'
+      name: ВЕСЕЛОВ Юрий Александрович
+    - num: '6'
+      name: ГРИГОРЬЕВ Сергей Анисимович
+    - num: '7'
+      name: ДАНИЛОВ Иван Михайлович
+    - num: '8'
+      name: ДОНГАУЗЕР Михаил Иосифович
+    - num: '9'
+      name: ИСАЕВ Николай Афанасьевич
+    - num: '10'
+      name: ЛУЦКЕВИЧ Андрей Иуллианович
+    - num: '11'
+      name: ЛЫСУХИН Иван Яковлевич
+    - num: '12'
+      name: НЕРЕД Михаил Федорович
+    - num: '13'
+      name: НЕЧАЕВ Александр Николаевич
+    - num: '14'
+      name: ОБРАЗОВ Александр Иванович
+    - num: '15'
+      name: ОКУНЕВ Григорий Ефимович
+    - num: '16'
+      name: ПЕЙСАХОВ Захар Абрамович
+    - num: '17'
+      name: ПОЛЯКОВ Иван Михайлович
+    - num: '18'
+      name: ПРОКОПОВИЧ Павел Николаевич
+    - num: '19'
+      name: РАФАЛЬЗУК Михаил Михайлович
+    - num: '20'
+      name: РОМАНИШИН Дмитрий Фомич
+    - num: '21'
+      name: РОМАХ Прокофий Иванович
+    - num: '22'
+      name: РЫКОВ Николай Иванович
+    - num: '23'
+      name: СЕМЕНОВ Иван Павлович
+  - page:
+      pageid: '2016'
+      tom: '7'
+      pageintom: '46'
+      alistid: '255'
+      pagekind: '1'
+      arowcount: '4'
+      picturefile: 17-171-415-046.jpg
+      textfile: ''
+      sublisttitle: '0'
+      categorytitle: '0'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v07/17-171-415-046.jpg
     persons:
-    - {num: '24', name: СИНИЦА Василий Иванович}
-    - {num: '25', name: СОЛДАТОВ Семен Ильич}
-    - {num: '26', name: ШМАЛЬ Сергей Львович}
-    - {num: '27', name: ШОФМАН Иосиф Михайлович}
-  - page: {pageid: '2017', tom: '7', pageintom: '47', alistid: '255', pagekind: '1',
-      arowcount: '3', picturefile: 17-171-415-047.jpg, textfile: '', sublisttitle: '1',
-      categorytitle: '1', grouptitle: '0', podpnkvd: '1', pometa: '0'}
+    - num: '24'
+      name: СИНИЦА Василий Иванович
+    - num: '25'
+      name: СОЛДАТОВ Семен Ильич
+    - num: '26'
+      name: ШМАЛЬ Сергей Львович
+    - num: '27'
+      name: ШОФМАН Иосиф Михайлович
+  - page:
+      pageid: '2017'
+      tom: '7'
+      pageintom: '47'
+      alistid: '255'
+      pagekind: '1'
+      arowcount: '3'
+      picturefile: 17-171-415-047.jpg
+      textfile: ''
+      sublisttitle: '1'
+      categorytitle: '1'
+      grouptitle: '0'
+      podpnkvd: '1'
+      pometa: '0'
     page_image: v07/17-171-415-047.jpg
     persons:
-    - {num: '1', name: ГУЗЕН Константин Федорович}
-    - {num: '2', name: КОНОБИЕВСКИЙ Анатолий Александрович}
-    - {num: '3', name: ЧЕРНЯВСКИЙ Виктор Агеевич}
+    - num: '1'
+      name: ГУЗЕН Константин Федорович
+    - num: '2'
+      name: КОНОБИЕВСКИЙ Анатолий Александрович
+    - num: '3'
+      name: ЧЕРНЯВСКИЙ Виктор Агеевич

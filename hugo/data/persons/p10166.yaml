@@ -8,67 +8,17 @@ name_mixed:
   firstname: Лежава
   midlastname: Андрей Матвеевич
   nameshow: Лежава Андрей Матвеевич
+fond7:
+  deathdate: '1937-10-08'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-10-08'
 lists:
-- list:
-    listid: '245'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 3 октября 1937 года
-    adate: '1937-10-03'
-    listnum: '31'
-    listtitle: 'Список лиц: Москва-центр, Московская обл.'
-    page1: '208'
-    page2: '220'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '35'
-    centertext: '8'
-    politsigns: Сталин, Молотов, Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '392'
-    tom: '3'
-    listnum: '101'
-    adate: '0000-00-00'
-    datetext: 3 октября 1937г.
-    alistid: '245'
-    sublistnum: '1'
-    sublisttitle: Москва-центр
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '76'
-    kat2count: '5'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '211'
-  rowinpage: '5'
-  nomer: '31'
+- title: Список от 3 октября 1937г. [Москва-центр] - РГАСПИ, ф.17, т.3, оп.171, дело
+    411, лист 208
+  url: /lists/list245
 gb_spravka:
   pages: []
   html: null

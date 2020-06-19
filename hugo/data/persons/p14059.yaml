@@ -8,67 +8,17 @@ name_mixed:
   firstname: Длугач
   midlastname: Мария Соломоновна
   nameshow: Длугач Мария Соломоновна
+fond7:
+  deathdate: '1937-11-15'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-11-15'
 lists:
-- list:
-    listid: '110'
-    fond: '17'
-    opis: '171'
-    ed_hr: '413'
-    delonum: 9-Л/8-5
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '5'
-    datetext: 13 ноября 1937 года
-    adate: '1937-11-13'
-    listnum: '2'
-    listtitle: Список лиц - Москва-центр
-    page1: '1'
-    page2: '11'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Каганович,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '76'
-    tom: '5'
-    listnum: '135'
-    adate: '0000-00-00'
-    datetext: 13 ноября 1937г.
-    alistid: '110'
-    sublistnum: '1'
-    sublisttitle: Моква-центр
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '47'
-    kat2count: '1'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Каганович,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '3'
-  rowinpage: '13'
-  nomer: '13'
+- title: Список от 13 ноября 1937г. [Моква-центр] - РГАСПИ, ф.17, т.5, оп.171, дело
+    413, лист 1
+  url: /lists/list110
 gb_spravka:
   pages: []
   html: null

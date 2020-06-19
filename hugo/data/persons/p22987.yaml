@@ -8,67 +8,18 @@ name_mixed:
   firstname: Сергазин
   midlastname: Хамидулла
   nameshow: Сергазин Хамидулла
+fond7:
+  deathdate: '1938-02-27'
+  sessiondate: '1938-02-27'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1938-02-27'
+  - 'Дата расстрела: 1938-02-27'
 lists:
-- list:
-    listid: '368'
-    fond: '17'
-    opis: '171'
-    ed_hr: '414'
-    delonum: 9-Л/8-6
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '6'
-    datetext: от 3 февраля 1938 года
-    adate: '1938-02-03'
-    listnum: '35'
-    listtitle: Список лиц - Казахская ССР; Алма-Ата.Турк.-Сибирская ж.д.
-    page1: '285'
-    page2: '292'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '98'
-    centertext: '8'
-    politsigns: Сталин,Ворошилов,Молотов,Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: рассекречено
-  sublist:
-    sublistid: '475'
-    tom: '6'
-    listnum: '34'
-    adate: '0000-00-00'
-    datetext: 3 февраля 1938г.
-    alistid: '368'
-    sublistnum: '1'
-    sublisttitle: Казахская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '94'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Ворошилов,Молотов,Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '290'
-  rowinpage: '3'
-  nomer: '74'
+- title: Список от 3 февраля 1938г. [Казахская ССР] - РГАСПИ, ф.17, т.6, оп.171, дело
+    414, лист 285
+  url: /lists/list368
 gb_spravka:
   pages: []
   html: null

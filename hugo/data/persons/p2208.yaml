@@ -8,67 +8,17 @@ name_mixed:
   firstname: Андреев
   midlastname: Глеб Константинович
   nameshow: Андреев Глеб Константинович
+fond7:
+  deathdate: '1937-06-07'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-06-07'
 lists:
-- list:
-    listid: '18'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 31 мая 1937 года
-    adate: '1937-05-31'
-    listnum: '18'
-    listtitle: Список лиц - Московская область
-    page1: '145'
-    page2: '147'
-    listmaker: '6'
-    listkind: '0'
-    reallist: '1'
-    toptext: '16'
-    centertext: '3'
-    politsigns: За Сталин
-    signstalin: '1'
-    signmolotov: '0'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '15'
-    tom: '1'
-    listnum: '16'
-    adate: '0000-00-00'
-    datetext: 31 мая 1937 г.
-    alistid: '18'
-    sublistnum: '1'
-    sublisttitle: Московская область
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '19'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Литвин (нач.4 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '147'
-  rowinpage: '1'
-  nomer: '1'
+- title: Список от 31 мая 1937 г. [Московская область] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 145
+  url: /lists/list18
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Сахарлы Мир Абуталыб Джавад Оглы
   midlastname: ''
   nameshow: Сахарлы Мир Абуталыб Джавад Оглы
+fond7:
+  deathdate: '1938-01-05'
+  sessiondate: '1938-01-05'
+  primsud: ''
+  primtext: Сахарли
+  text_lines:
+  - Сахарли
+  - 'Дата расстрела: 1938-01-05'
 lists:
-- list:
-    listid: '129'
-    fond: '17'
-    opis: '171'
-    ed_hr: '413'
-    delonum: 9-Л/8-5
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '5'
-    datetext: 7 декабря 1937 года
-    adate: '1937-12-07'
-    listnum: '21'
-    listtitle: Список лиц - Азербайджанская ССР
-    page1: '183'
-    page2: '200'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '71'
-    centertext: '8'
-    politsigns: Сталин,Жданов,Молотов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '1'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '83'
-    tom: '5'
-    listnum: '154'
-    adate: '0000-00-00'
-    datetext: 7 декабря 1937г.
-    alistid: '129'
-    sublistnum: '1'
-    sublisttitle: Азербайджанская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '315'
-    kat2count: '22'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Жданов,Молотов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '193'
-  rowinpage: '28'
-  nomer: '253'
+- title: Список от 7 декабря 1937г. [Азербайджанская ССР] - РГАСПИ, ф.17, т.5, оп.171,
+    дело 413, лист 183
+  url: /lists/list129
 gb_spravka:
   pages: []
   html: null

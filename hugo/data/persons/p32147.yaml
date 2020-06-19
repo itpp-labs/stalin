@@ -8,67 +8,18 @@ name_mixed:
   firstname: Энтин
   midlastname: Борис Григорьевич
   nameshow: Энтин Борис Григорьевич
+fond7:
+  deathdate: '1938-05-09'
+  sessiondate: null
+  primsud: в особом порядке
+  primtext: ''
+  text_lines:
+  - в особом порядке
+  - 'Дата расстрела: 1938-05-09'
 lists:
-- list:
-    listid: '320'
-    fond: '17'
-    opis: '171'
-    ed_hr: '416'
-    delonum: 9-Л/8-8
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '8'
-    datetext: от 3 . V . 1938 года
-    adate: '1938-05-03'
-    listnum: '33'
-    listtitle: Список лиц - Москва-центр
-    page1: '247'
-    page2: '249'
-    listmaker: '13'
-    listkind: '0'
-    reallist: '1'
-    toptext: '15'
-    centertext: '43'
-    politsigns: Сталин,Молотов,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '566'
-    tom: '8'
-    listnum: '32'
-    adate: '0000-00-00'
-    datetext: 3 мая 1938г.
-    alistid: '320'
-    sublistnum: '1'
-    sublisttitle: Москва-центр
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '8'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Шапиро (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '249'
-  rowinpage: '8'
-  nomer: '8'
+- title: Список от 3 мая 1938г. [Москва-центр] - РГАСПИ, ф.17, т.8, оп.171, дело 416,
+    лист 247
+  url: /lists/list320
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,16 @@ name_mixed:
   firstname: Суворов
   midlastname: Виктор Михайлович
   nameshow: Суворов Виктор Михайлович
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '4'
-    fond: '17'
-    opis: '171'
-    ed_hr: '409'
-    delonum: 9-Л/8-1
-    deloname: Право-троцкистский блок (списки)
-    tom: '1'
-    datetext: 19 марта 1937 года
-    adate: '1937-03-19'
-    listnum: '4'
-    listtitle: Список лиц - Свердловская область
-    page1: '30'
-    page2: '39'
-    listmaker: '0'
-    listkind: '0'
-    reallist: '1'
-    toptext: '4'
-    centertext: '3'
-    politsigns: За Сталин, Молотов, Каганович, Микоян, Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '1'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '1'
-    tom: '1'
-    listnum: '2'
-    adate: '0000-00-00'
-    datetext: 19 марта 1937 г.
-    alistid: '4'
-    sublistnum: '1'
-    sublisttitle: Свердловская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '1'
-    kat1count: '111'
-    kat2count: '73'
-    kat3count: '13'
-    grif: ''
-    kind: '0'
-    podp_fin: ''
-    podp_pb: Сталин, Молотов, Каганович, Микоян, Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '38'
-  rowinpage: '10'
-  nomer: '61'
+- title: Список от 19 марта 1937 г. [Свердловская область] - РГАСПИ, ф.17, т.1, оп.171,
+    дело 409, лист 30
+  url: /lists/list4
 gb_spravka:
   pages: []
   html: null

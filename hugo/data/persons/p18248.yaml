@@ -8,67 +8,17 @@ name_mixed:
   firstname: Смирнов
   midlastname: Павел Васильевич
   nameshow: Смирнов Павел Васильевич
+fond7:
+  deathdate: '1937-12-15'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1937-12-15'
 lists:
-- list:
-    listid: '141'
-    fond: '17'
-    opis: '171'
-    ed_hr: '413'
-    delonum: 9-Л/8-5
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '5'
-    datetext: 13 декабря 1937 года
-    adate: '1937-12-13'
-    listnum: '33'
-    listtitle: Список лиц - Москва-центр, Московская область
-    page1: '291'
-    page2: '300'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '77'
-    centertext: '8'
-    politsigns: За Сталин,Молотов,Ворошилов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '292'
-    tom: '5'
-    listnum: '166'
-    adate: '0000-00-00'
-    datetext: 13 декабря 1937г.
-    alistid: '141'
-    sublistnum: '2'
-    sublisttitle: Московская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '38'
-    kat2count: '2'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Ворошилов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '299'
-  rowinpage: '5'
-  nomer: '27'
+- title: Список от 13 декабря 1937г. [Московская область] - РГАСПИ, ф.17, т.5, оп.171,
+    дело 413, лист 291
+  url: /lists/list141
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Касеинов
   midlastname: Байзак
   nameshow: Касеинов Байзак
+fond7:
+  deathdate: '1938-03-08'
+  sessiondate: '1938-03-08'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1938-03-08'
+  - 'Дата расстрела: 1938-03-08'
 lists:
-- list:
-    listid: '272'
-    fond: '17'
-    opis: '171'
-    ed_hr: '415'
-    delonum: 9-Л/8-7
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '7'
-    datetext: от 5 марта 1938 года
-    adate: '1938-03-05'
-    listnum: '23'
-    listtitle: Список лиц - Казахская ССР
-    page1: '162'
-    page2: '169'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '37'
-    centertext: '8'
-    politsigns: Сталин,Молотов,Ворошилов,Жданов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '1'
-    signkaganovic: '0'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '493'
-    tom: '7'
-    listnum: '22'
-    adate: '0000-00-00'
-    datetext: 5 марта 1938г.
-    alistid: '272'
-    sublistnum: '1'
-    sublisttitle: Казахская ССР
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '90'
-    kat2count: '6'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Молотов,Ворошилов,Жданов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '165'
-  rowinpage: '1'
-  nomer: '22'
+- title: Список от 5 марта 1938г. [Казахская ССР] - РГАСПИ, ф.17, т.7, оп.171, дело
+    415, лист 162
+  url: /lists/list272
 gb_spravka:
   pages: []
   html: null

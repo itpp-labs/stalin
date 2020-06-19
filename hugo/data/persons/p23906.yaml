@@ -8,67 +8,17 @@ name_mixed:
   firstname: Хацкевич
   midlastname: Иван Алексеевич
   nameshow: Хацкевич Иван Алексеевич
+fond7:
+  deathdate: '1938-04-27'
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата расстрела: 1938-04-27'
 lists:
-- list:
-    listid: '380'
-    fond: '17'
-    opis: '171'
-    ed_hr: '414'
-    delonum: 9-Л/8-6
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '6'
-    datetext: от 3 февраля 1938 года
-    adate: '1938-02-03'
-    listnum: '47'
-    listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
-    page1: '355'
-    page2: '375'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '104'
-    centertext: '8'
-    politsigns: Сталин,Ворошилов,Молотов,Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: рассекречено
-  sublist:
-    sublistid: '482'
-    tom: '6'
-    listnum: '46'
-    adate: '0000-00-00'
-    datetext: 3 февраля 1938г.
-    alistid: '380'
-    sublistnum: '2'
-    sublisttitle: Московская область
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '75'
-    kat2count: '2'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Ворошилов,Молотов,Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '0'
-  pageintom: '373'
-  rowinpage: '11'
-  nomer: '64'
+- title: Список от 3 февраля 1938г. [Московская область] - РГАСПИ, ф.17, т.6, оп.171,
+    дело 414, лист 355
+  url: /lists/list380
 gb_spravka:
   pages: []
   html: null

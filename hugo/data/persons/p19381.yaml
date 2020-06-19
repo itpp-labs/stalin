@@ -8,67 +8,20 @@ name_mixed:
   firstname: Цедилин
   midlastname: Иван Иванович
   nameshow: Цедилин Иван Иванович
+fond7:
+  deathdate: '1936-10-10'
+  sessiondate: null
+  primsud: Дата предписания, подписанного Ульрихом, 10.10.1936 //ст.58-11
+  primtext: Дата предписания, подписанного Ульрихом, 10.10.1936\n г.р. 1899, м.р.
+    - г.Ленинград\nст.58-11
+  text_lines:
+  - Дата предписания, подписанного Ульрихом, 10.10.1936
+  - ' г.р. 1899, м.р. - г.Ленинград'
+  - ст.58-11
+  - 'Дата расстрела: 1936-10-10'
 lists:
-- list:
-    listid: '151'
-    fond: '17'
-    opis: '171'
-    ed_hr: '413'
-    delonum: 9-Л/8-5
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '5'
-    datetext: ''
-    adate: '0000-00-00'
-    listnum: '43'
-    listtitle: Список лиц
-    page1: '373'
-    page2: '375'
-    listmaker: '0'
-    listkind: '0'
-    reallist: '1'
-    toptext: '1'
-    centertext: '1'
-    politsigns: Каганович, Молотов
-    signstalin: '0'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '0'
-    signvoroshilov: '0'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '98'
-    tom: '5'
-    listnum: '176'
-    adate: '0000-00-00'
-    datetext: ''
-    alistid: '151'
-    sublistnum: '1'
-    sublisttitle: Список
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '150'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: ''
-    podp_pb: Молотов ???
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '374'
-  rowinpage: '48'
-  nomer: '104'
+- title: Список от  [Список] - РГАСПИ, ф.17, т.5, оп.171, дело 413, лист 373
+  url: /lists/list151
 gb_spravka:
   pages: []
   html: null

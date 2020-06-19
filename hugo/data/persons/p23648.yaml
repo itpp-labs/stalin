@@ -8,67 +8,16 @@ name_mixed:
   firstname: Глухов
   midlastname: Иван Тимофеевич
   nameshow: Глухов Иван Тимофеевич
+fond7:
+  deathdate: null
+  sessiondate: null
+  primsud: ''
+  primtext: ''
+  text_lines: []
 lists:
-- list:
-    listid: '379'
-    fond: '17'
-    opis: '171'
-    ed_hr: '414'
-    delonum: 9-Л/8-6
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '6'
-    datetext: от 3 февраля 1938 года
-    adate: '1938-02-03'
-    listnum: '46'
-    listtitle: Список лиц - Горьковская область
-    page1: '351'
-    page2: '354'
-    listmaker: '12'
-    listkind: '0'
-    reallist: '1'
-    toptext: '10'
-    centertext: '8'
-    politsigns: Сталин,Ворошилов,Молотов,Каганович
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '0'
-    signkosior: '0'
-    prim: рассекречено
-  sublist:
-    sublistid: '427'
-    tom: '6'
-    listnum: '45'
-    adate: '0000-00-00'
-    datetext: 3 февраля 1938г.
-    alistid: '379'
-    sublistnum: '1'
-    sublisttitle: Горьковская область
-    geography: ''
-    kat1: '1'
-    kat2: '0'
-    kat3: '0'
-    kat1count: '30'
-    kat2count: '0'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд. ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин,Ворошилов,Молотов,Каганович
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '353'
-  rowinpage: '8'
-  nomer: '8'
+- title: Список от 3 февраля 1938г. [Горьковская область] - РГАСПИ, ф.17, т.6, оп.171,
+    дело 414, лист 351
+  url: /lists/list379
 gb_spravka:
   pages: []
   html: null

@@ -8,67 +8,18 @@ name_mixed:
   firstname: Десов
   midlastname: Георгий Александрович
   nameshow: Десов Георгий Александрович
+fond7:
+  deathdate: '1937-09-09'
+  sessiondate: '1937-09-09'
+  primsud: ''
+  primtext: ''
+  text_lines:
+  - 'Дата сессии ВК ВС: 1937-09-09'
+  - 'Дата расстрела: 1937-09-09'
 lists:
-- list:
-    listid: '219'
-    fond: '17'
-    opis: '171'
-    ed_hr: '411'
-    delonum: 9-Л/8-3
-    deloname: Право-троцкистский блок (списки осужденных)
-    tom: '3'
-    datetext: 7 сентября 1937 года
-    adate: '1937-09-07'
-    listnum: '5'
-    listtitle: 'Список лиц: Ленинградская обл.'
-    page1: '19'
-    page2: '22'
-    listmaker: '10'
-    listkind: '0'
-    reallist: '1'
-    toptext: '30'
-    centertext: '8'
-    politsigns: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    signstalin: '1'
-    signmolotov: '1'
-    signjdanov: '0'
-    signkaganovic: '1'
-    signvoroshilov: '1'
-    signmikoyan: '0'
-    signejov: '1'
-    signkosior: '0'
-    prim: ''
-  sublist:
-    sublistid: '343'
-    tom: '3'
-    listnum: '75'
-    adate: '0000-00-00'
-    datetext: 7 сентября 1937г.
-    alistid: '219'
-    sublistnum: '1'
-    sublisttitle: Ленинградская обл.
-    geography: ''
-    kat1: '1'
-    kat2: '1'
-    kat3: '0'
-    kat1count: '27'
-    kat2count: '2'
-    kat3count: '0'
-    grif: ''
-    kind: '0'
-    podp_fin: Цесарский (нач. 8 отд.ГУГБ НКВД ст.майор ГБ)
-    podp_pb: Сталин, Молотов, Каганович, Ворошилов, Ежов
-    podp_stalin: '1'
-    podp_molotov: '1'
-    podp_kaganovic: '1'
-    podp_voroshilov: '1'
-    podp_mikoyan: '1'
-    podp_jdanov: '1'
-    podp_ejov: '1'
-    simple: '1'
-  pageintom: '21'
-  rowinpage: '6'
-  nomer: '6'
+- title: Список от 7 сентября 1937г. [Ленинградская обл.] - РГАСПИ, ф.17, т.3, оп.171,
+    дело 411, лист 19
+  url: /lists/list219
 gb_spravka:
   pages: []
   html: null
