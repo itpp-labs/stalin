@@ -47,9 +47,13 @@ $(document).ready(function(){
                         "match": get_obj(this, value)
                     });
                 });
+                $.each(["spravka", "gb_spravka"], function(){
+                    query_bool.should.push({
+                        "match_phrase": get_obj(this, value)
+                    });
+                });
             }
         });
-
 
         search("persons", query_bool).done(function( data ) {
             render_persons(data.hits.hits);
@@ -108,7 +112,7 @@ $(document).ready(function(){
                 fond7 = "По данным 7-го фонда ЦА ФСБ: {0}<br/>".format(fond7);
             }
             var gb_spravka_link = "";
-            if (this._source.gb_spravka){
+            if (this._source.gb_spravka_preview){
                 gb_spravka_link = '<a href="/persons/{0}#gb">GB</a><br/>'.format(this._id);
             }
 

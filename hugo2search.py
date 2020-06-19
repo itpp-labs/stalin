@@ -38,9 +38,10 @@ def main():
                 "lastname": p["name"]["lastname"],
                 "nameshow": p["name"]["nameshow"],
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
-                "gb_spravka": bool(p["gb_spravka"]["html"]),
-                "spravka": json.dumps([s["spravka"].replace("\n", " ") for s in spravki], ensure_ascii=False),
+                "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
+                "spravka": json.dumps([s["spravka"].replace("\n", " ") for s in spravki], ensure_ascii=False),
+                "gb_spravka": clean_html(p["gb_spravka"]["html"]),
             }
             content = data2index("persons", doc_id, data)
             index_file.write(content)
@@ -75,6 +76,15 @@ def rm_file(file_name):
         os.remove(file_name)
     except OSError:
         pass
+
+# Credits: https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
+def clean_html(raw_html):
+    if not raw_html:
+        return raw_html
+    cleanr = re.compile('\t|\n|<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
+    cleantext = re.sub(cleanr, ' ', raw_html)
+    return cleantext
+
 
 # From https://stackoverflow.com/a/4623518/222675
 def tryint(s):
