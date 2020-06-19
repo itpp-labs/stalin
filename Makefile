@@ -15,11 +15,24 @@ hugo_content:
 search:
 	${PYTHON} hugo2search.py
 
-upload_search:
-	# TODO: don't index spravka_preview field
+upload_search: upload_search_person upload_search_lists
+	# check results
+	curl "localhost:9200/_cat/indices?v"
+
+upload_search_person:
+	# prepare index
+	curl -X PUT "localhost:9200/persons?pretty" -H 'Content-Type: application/json' --data-binary "@search/index-persons.json"
+
+	# upload index
 	curl -H "Content-Type: application/json" -XPOST "localhost:9200/persons/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-persons.json" > /tmp/elasticsearch-persons.logs
 	echo ""
-	curl "localhost:9200/_cat/indices?v"
+
+upload_search_lists:
+	# prepare index
+	curl -X PUT "localhost:9200/lists?pretty" -H 'Content-Type: application/json' --data-binary "@search/index-lists.json"
+	# upload index
+	curl -H "Content-Type: application/json" -XPOST "localhost:9200/lists/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-lists.json" > /tmp/elasticsearch-lists.logs
+	echo ""
 
 website:
 	#hugo --minify -s hugo/

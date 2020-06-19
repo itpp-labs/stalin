@@ -5,6 +5,19 @@
         {{ .Content }}
 
         <form id="search_form">
+            <div class="tabs is-toggle is-fullwidth">
+                <ul>
+                    <li id="search_persons" class="is-active">
+                        <a>Поиск персоналий</a>
+                    </li>
+                    <li id="search_lists">
+                        <a>
+                            Поиск списков
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
             <div class="field is-horizontal">
                 <div class="field-label is-normal">
                     <label class="label">ФИО</label>
@@ -43,6 +56,31 @@
                     </div>
                 </div>
             </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Дата списка</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_from" class="input" type="text" placeholder="01.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_to" class="input" type="text" placeholder="31.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
 
         </form>
 

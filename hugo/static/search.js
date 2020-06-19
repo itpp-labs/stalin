@@ -1,4 +1,15 @@
 $(document).ready(function(){
+    var searchPersons = true;
+    $('#search_form .tabs li').on('click', function() {
+        searchPersons = $(this).attr('id') == "search_persons";
+
+        $(this).parent().find('li').removeClass('is-active');
+        $(this).addClass('is-active');
+
+        // TODO: disable unused fields
+    });
+
+
     var searchTimer;
     function clear_search_timer(){
         if (!searchTimer)
@@ -8,8 +19,12 @@ $(document).ready(function(){
     }
     function start_search(){
         clear_search_timer();
-        search_persons();
+        if (searchPersons)
+            search_persons();
+        else
+            search_lists();
     }
+
     $("#search_form input").on("input propertychange paste", function(event){
         clear_search_timer();
         searchTimer = setTimeout(function(){
@@ -57,6 +72,63 @@ $(document).ready(function(){
 
         search("persons", query_bool).done(function( data ) {
             render_persons(data.hits.hits);
+
+        }).fail(function( data ) {
+            console.log("Error", data);
+            if (!data){
+                clear_results();
+            }
+        });
+    }
+
+    function search_lists(){
+        // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
+        var query_bool = {
+            "must": [],
+            "should": []
+        };
+        var date_range = {};
+        $.each($("#search_form").serializeArray(), function(){
+            var key = this.name;
+            var value = this.value;
+            if (!value)
+                return;
+            if (["date_from", "date_to"].indexOf(key) != -1) {
+                var date = value.split(".");
+                if (date.length != 3)
+                    return;
+                date = "{0}-{1}-{2}".format(
+                    date[2],
+                    date[1],
+                    date[0]
+                );
+                if (key == "date_from")
+                    date_range.gte = date;
+                else
+                    date_range.lte = date;
+            } else if (key == "global_search") {
+                $.each(["firstname", "midname", "lastname"], function(){
+                    query_bool.should.push({
+                        "match": get_obj(this, value)
+                    });
+                });
+                $.each(["spravka", "gb_spravka"], function(){
+                    query_bool.should.push({
+                        "match_phrase": get_obj(this, value)
+                    });
+                });
+            }
+        });
+        if (! $.isEmptyObject(date_range)){
+            query_bool.must.push({
+                "range": {
+                    "date": date_range
+                }
+            });
+        }
+
+        search("lists", query_bool).done(function( data ) {
+            render_lists(data.hits.hits);
 
         }).fail(function( data ) {
             console.log("Error", data);
@@ -131,6 +203,19 @@ $(document).ready(function(){
                     fond7,
                     gb_spravka_link,
                     spiski,
+                ));
+        });
+    }
+
+    function render_lists(records){
+        $("#results").empty();
+
+        $.each(records, function(){
+            $("#results").append(
+                '<p>{0} <a href="/lists/{1}">{2}</a></p>'.format(
+                    this._source.date,
+                    this._id,
+                    this._source.title
                 ));
         });
     }

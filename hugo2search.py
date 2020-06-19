@@ -16,7 +16,10 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 
 def main():
-    # Persons index
+    persons_index()
+    lists_index()
+
+def persons_index():
     rm_file(PERSONS_INDEX)
     with open(PERSONS_INDEX, "a") as index_file:
         i = 0
@@ -47,6 +50,16 @@ def main():
             content = data2index("persons", doc_id, data)
             index_file.write(content)
 
+def lists_index():
+    rm_file(LISTS_INDEX)
+    with open(LISTS_INDEX, "a") as index_file:
+        for doc_id, r in yaml_reader_folder(os.path.join(HUGO_DATA_DIR, "lists")):
+            data = {
+                "date": r["date"],
+                "title": r["title"],
+            }
+            content = data2index("lists", doc_id, data)
+            index_file.write(content)
 
 def data2index(index_name, doc_id, data):
     # see https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html#docs-bulk-api-desc

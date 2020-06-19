@@ -99,11 +99,12 @@ def list2title(lst):
     return "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
 
 def sublist2title(lst, sublst):
-    return "Список от {date} [{title}] - {list_title}".format(
+    return "Список от {date} [{title}]".format(
         date=sublst["datetext"],
         title=sublst["sublisttitle"],
-        list_title=list2title(lst),
     )
+def sublist2title_full(lst, sublst):
+    return "%s - %s" % (sublist2title(lst, sublst), list2title(lst))
 
 def person_list2url(person, lst, sublst):
     # TODO make sublink to line in page
@@ -114,8 +115,12 @@ def person_list2url(person, lst, sublst):
     # "nomer": pp["nomer"],
     return "/lists/%s" % (list2name(lst))
 
-def convert_date(s):
-    if not s or s == "0000-00-00":
+def clean_date(s):
+    if not s or s == "0000-00-00" or s == "NULL":
         return None
+    return s
+
+def convert_date(s):
+    s = clean_date(s)
     # TODO: convert dates to DD.MM.YYYY format
     return s

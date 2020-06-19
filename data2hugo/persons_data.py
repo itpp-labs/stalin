@@ -70,7 +70,7 @@ def main():
             "fond7": fond7(p),
             "lists": [
                 {
-                    "title": sublist2title(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
+                    "title": sublist2title_full(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                     "url": person_list2url(pp, list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                 } for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
             ],
