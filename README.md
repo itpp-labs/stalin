@@ -50,16 +50,21 @@ TODO: check this section
 
 ## Памятка администраторам
 
+* Don't forget to configure [robots.txt](hugo/static/robots.txt)
+
 * To compile website after changes in ``data``, ``data2hugo`` folders run the following command:
 
       make hugo
 
   -- it will make updates in ``hugo`` folder
+
 * To compile website after changes in ``hugo`` (including ``hugo/data/spravki``) folder run the following command:
 
       make website
 
-  -- it will generate website in ``hugo/public/`` folder
+  -- it will generate website in ``hugo/public/`` folder.
+
+  You may also need to check ``baseURL`` setting in [hugo/config.toml](hugo/config.toml)
   
 * It's recommended to automate CI/CD process. Check [GIthub Actions scripts](.github/workflows/) for examples.
 ## Памятка программистам
