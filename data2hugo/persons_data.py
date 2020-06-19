@@ -70,17 +70,8 @@ def main():
             "fond7": fond7(p),
             "lists": [
                 {
-                    # it's not supposed to modify lists and sublists tables, so
-                    # just copy data from those table for the sake of human
-                    # readability of data files and simplicity of template. Or
-                    # maybe I'm just lazy :)
-                    # -- @yelizariev
-                    "list": list_by_id[pp["listnum"]],
-                    "sublist": sublist_by_id[pp["asublistid"]],
-
-                    "pageintom": pp["pageintom"],
-                    "rowinpage": pp["rowinpage"],
-                    "nomer": pp["nomer"],
+                    "title": sublist2title(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
+                    "url": person_list2url(pp, list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                 } for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
             ],
             "gb_spravka": {

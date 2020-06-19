@@ -96,13 +96,23 @@ def list2title(lst):
     delo = ""
     if lst["ed_hr"]:
         delo = ", дело %s" % lst["ed_hr"]
-    return "РГАСПИ, ф.{fond}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
+    return "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
 
 def sublist2title(lst, sublst):
-    return "Список от {date} [{title}]".format(
+    return "Список от {date} [{title}] - {list_title}".format(
         date=sublst["datetext"],
         title=sublst["sublisttitle"],
+        list_title=list2title(lst),
     )
+
+def person_list2url(person, lst, sublst):
+    # TODO make sublink to line in page
+    # "list_id": pp["listnum"],
+    # "sublist_id": pp["asublistid"],
+    # "pageintom": pp["pageintom"],
+    # "rowinpage": pp["rowinpage"],
+    # "nomer": pp["nomer"],
+    return "/lists/%s" % (list2name(lst))
 
 def convert_date(s):
     if not s or s == "0000-00-00":

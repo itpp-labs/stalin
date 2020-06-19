@@ -115,14 +115,22 @@ $(document).ready(function(){
             if (this._source.gb_spravka_preview){
                 gb_spravka_link = '<a href="/persons/{0}#gb">GB</a><br/>'.format(this._id);
             }
-
+            var spiski_data = JSON.parse(this._source.lists);
+            var spiski = "";
+            $.each(spiski_data, function(){
+                spiski += '* <a href="{0}">{1}</a><br/>'.format(
+                    this.url,
+                    this.title,
+                );
+            });
             $("#results").append(
-                '<p><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}TODO spiski<br/></p>'.format(
+                '<p><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}{5}</p>'.format(
                     this._id,
                     this._source.nameshow,
                     spravka,
                     fond7,
-                    gb_spravka_link
+                    gb_spravka_link,
+                    spiski,
                 ));
         });
     }

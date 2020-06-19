@@ -40,7 +40,8 @@ def main():
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
                 "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
-                "spravka": json.dumps([s["spravka"].replace("\n", " ") for s in spravki], ensure_ascii=False),
+                "lists": json_dumps(p["lists"]),
+                "spravka": json_dumps([s["spravka"].replace("\n", " ") for s in spravki]),
                 "gb_spravka": clean_html(p["gb_spravka"]["html"]),
             }
             content = data2index("persons", doc_id, data)
