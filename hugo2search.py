@@ -21,7 +21,7 @@ def main():
 
 def persons_index():
     rm_file(PERSONS_INDEX)
-    with open(PERSONS_INDEX, "a") as index_file:
+    with open(PERSONS_INDEX, "w") as index_file:
         i = 0
         for doc_id, p in yaml_reader_folder(os.path.join(HUGO_DATA_DIR, "persons")):
             i += 1
@@ -52,7 +52,7 @@ def persons_index():
 
 def lists_index():
     rm_file(LISTS_INDEX)
-    with open(LISTS_INDEX, "a") as index_file:
+    with open(LISTS_INDEX, "w") as index_file:
         for doc_id, r in yaml_reader_folder(os.path.join(HUGO_DATA_DIR, "lists")):
             data = {
                 "date": r["date"],
