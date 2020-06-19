@@ -20,6 +20,7 @@ PERSON2PAGE_YAML="data2hugo/person2page.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
 SPRAVKI_CSV=os.path.join(CSV_DIR, "spravki.csv")
+PRIM_CSV=os.path.join(CSV_DIR, "prim.csv")
 
 # Can be used to debug scripts
 MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
@@ -60,6 +61,10 @@ def csv_reader(file_name):
 
 def yaml_reader(file_name):
     with open(file_name, "r") as f:
+        # TODO: /home/ubuntu/stalin/data2hugo/common.py:64: YAMLLoadWarning:
+        # calling yaml.load() without Loader=... is deprecated, as the default
+        # Loader is unsafe. Please read https://msg.pyyaml.org/load for full
+        # details.
         return yaml.load(f)
 
 def file_writer(file_name, file_content):
@@ -91,10 +96,31 @@ def list2title(lst):
     delo = ""
     if lst["ed_hr"]:
         delo = ", дело %s" % lst["ed_hr"]
-    return "РГАСПИ, ф.{fond}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
+    return "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
 
 def sublist2title(lst, sublst):
     return "Список от {date} [{title}]".format(
         date=sublst["datetext"],
         title=sublst["sublisttitle"],
     )
+def sublist2title_full(lst, sublst):
+    return "%s - %s" % (sublist2title(lst, sublst), list2title(lst))
+
+def person_list2url(person, lst, sublst):
+    # TODO make sublink to line in page
+    # "list_id": pp["listnum"],
+    # "sublist_id": pp["asublistid"],
+    # "pageintom": pp["pageintom"],
+    # "rowinpage": pp["rowinpage"],
+    # "nomer": pp["nomer"],
+    return "/lists/%s" % (list2name(lst))
+
+def clean_date(s):
+    if not s or s == "0000-00-00" or s == "NULL":
+        return None
+    return s
+
+def convert_date(s):
+    s = clean_date(s)
+    # TODO: convert dates to DD.MM.YYYY format
+    return s

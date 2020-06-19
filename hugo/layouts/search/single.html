@@ -1,0 +1,96 @@
+{{ partial "header" . }}
+{{ partial "nav" . }}
+<div class="container">
+    <main class="container">
+        {{ .Content }}
+
+        <form id="search_form">
+            <div class="tabs is-toggle is-fullwidth">
+                <ul>
+                    <li id="search_persons" class="is-active">
+                        <a>Поиск персоналий</a>
+                    </li>
+                    <li id="search_lists">
+                        <a>
+                            Поиск списков
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">ФИО</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="lastname" class="input" type="text" placeholder="Фамилия">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-user"></i>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <input name="firstname" class="input" type="text" placeholder="Имя">
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <input name="midname" class="input" type="text" placeholder="Отчество">
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Поиск по всем данным</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <div class="control">
+                            <input name="global_search" class="input" type="text" placeholder="Например, студент">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Дата списка</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_from" class="input" type="text" placeholder="01.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_to" class="input" type="text" placeholder="31.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </form>
+
+        <div id="results">
+        </div>
+
+    </main>
+    {{ partial "footer" . }}
+</div>
+
+<script type="text/javascript">
+
+</script>

@@ -38,6 +38,7 @@ def main():
         listtitle = lst["listtitle"]
         data = {
             "title": list2title(lst),
+            "date": clean_date(lst["adate"]),
             "delo": {
                 "name": lst["deloname"],
                 "num": lst["delonum"],
@@ -64,8 +65,8 @@ def main():
             ]
         }
         # data file
-        json_writer(
-            os.path.join(HUGO_DATA_DIR, "lists", "%s.json" % list2name(lst)),
+        yaml_writer(
+            os.path.join(HUGO_DATA_DIR, "lists", "%s.yaml" % list2name(lst)),
             data,
         )
 

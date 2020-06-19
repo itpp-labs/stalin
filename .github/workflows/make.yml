@@ -44,6 +44,16 @@ jobs:
           :alien: make hugo
 
           Sent from Github Actions (see .github/workflows/make.yml )
+    - run: |
+        make search
+    - name: Commit updates
+      uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      with:
+        branch: master
+        commit_message: |
+          :alien: make search
+
+          Sent from Github Actions (see .github/workflows/make.yml )
     - uses: jakejarvis/hugo-build-action@v0.57.2
       name: make website
       with:

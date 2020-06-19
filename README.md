@@ -34,18 +34,37 @@ TODO: check this section
       cd /tmp
       wget https://github.com/gohugoio/hugo/releases/download/v0.71.1/hugo_0.71.1_Linux-64bit.deb
       sudo dpkg -i hugo*.deb
+
+* Get and run Elasticsearch
+  
+      docker run -d \
+      --name=elasticsearch \
+      -p 9200:9200 \
+      -p 9300:9300 \
+      -e "discovery.type=single-node" \
+      -e "http.cors.enabled=true" \
+      -e "http.cors.allow-origin=*" \
+      docker.elastic.co/elasticsearch/elasticsearch:7.7.1
+
+  For other options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+
 ## Памятка администраторам
+
+* Don't forget to configure [robots.txt](hugo/static/robots.txt)
 
 * To compile website after changes in ``data``, ``data2hugo`` folders run the following command:
 
       make hugo
 
   -- it will make updates in ``hugo`` folder
+
 * To compile website after changes in ``hugo`` (including ``hugo/data/spravki``) folder run the following command:
 
       make website
 
-  -- it will generate website in ``hugo/public/`` folder
+  -- it will generate website in ``hugo/public/`` folder.
+
+  You may also need to check ``baseURL`` setting in [hugo/config.toml](hugo/config.toml)
   
 * It's recommended to automate CI/CD process. Check [GIthub Actions scripts](.github/workflows/) for examples.
 ## Памятка программистам
@@ -71,6 +90,19 @@ TODO: check this section
 * preview updates
 * make git commit
 * send pull request to this repo
+
+## Elasticsearch
+
+### Загрузка индексов
+
+    # generate index files
+    make search
+    # upload index files to local Elasticsearch
+    make upload_search
+
+### Настройка адреса
+
+    See [hugo/config.toml](hugo/config.toml)
 
 # Добавление списков
 
