@@ -46,7 +46,7 @@ TODO: check this section
       -e "http.cors.allow-origin=*" \
       docker.elastic.co/elasticsearch/elasticsearch:7.7.1
 
-  For other options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+  For other installation options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 ## Памятка администраторам
 
