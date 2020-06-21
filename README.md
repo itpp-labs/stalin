@@ -48,6 +48,7 @@ TODO: check this section
       docker.elastic.co/elasticsearch/elasticsearch:7.7.1
 
   * Under ES_JAVA_OPTS memory heap is set to 1GB. For more information about it, see https://www.elastic.co/guide/en/elasticsearch/reference/current/heap-size.html
+  * For CORS settings check docs: https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-http.html
   * For other installation options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 ## Памятка администраторам
