@@ -102,7 +102,7 @@ TODO: check this section
 
 ### Настройка адреса
 
-    See [hugo/config.toml](hugo/config.toml)
+See [hugo/config.toml](hugo/config.toml)
 
 # Добавление списков
 
