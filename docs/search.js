@@ -196,7 +196,7 @@ $(document).ready(function(){
                 );
             });
             $("#results").append(
-                '<p><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}{5}</p>'.format(
+                '<p class="mt-3"><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}{5}</p>'.format(
                     this._id,
                     this._source.nameshow,
                     spravka,
@@ -212,7 +212,7 @@ $(document).ready(function(){
 
         $.each(records, function(){
             $("#results").append(
-                '<p>{0} <a href="/lists/{1}">{2}</a></p>'.format(
+                '<p class="mt-3">{0} <a href="/lists/{1}">{2}</a></p>'.format(
                     this._source.date,
                     this._id,
                     this._source.title
