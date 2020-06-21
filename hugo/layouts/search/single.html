@@ -1,5 +1,9 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
+<script>
+ ES_URL="{{ .Site.Params.elasticsearch.url }}";
+</script>
+
 <div class="container">
     <main class="container">
         {{ .Content }}
