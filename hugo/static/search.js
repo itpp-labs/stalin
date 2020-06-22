@@ -56,6 +56,10 @@ $(document).ready(function(){
                 query_bool.must.push({
                     "match": get_obj(key, value)
                 });
+            } else if (["underlined", "striked", "pometa"].indexOf(key) != -1) {
+                    query_bool.must.push({
+                        "match": get_obj(key, true)
+                    });
             } else if (key == "global_search") {
                 $.each(["firstname", "midname", "lastname"], function(){
                     query_bool.should.push({

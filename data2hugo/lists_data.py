@@ -56,10 +56,10 @@ def main():
                     "pages": [{
                         "page": page,
                         "page_image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
-                        "persons": [{
+                        "persons": [extend_person({
                             "num": p["nomer"],
                             "name": p["nameshow1"],
-                        } for p in persons]
+                        }, p) for p in persons]
                     } for page, persons in pages_and_persons_by_sublist.get(subl["sublistid"], [])],
                 } for subl in sublists_by_list.get(lst["listid"], [])
             ]

@@ -86,6 +86,7 @@ def main():
                 "html": gb_spravka_html,
             },
         }
+        data = extend_person(data, p)
 
         # data file
         yaml_writer(

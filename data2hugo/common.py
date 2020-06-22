@@ -44,6 +44,12 @@ yaml.add_representer(literal_unicode, literal_unicode_representer)
 
 
 
+def extend_person(data, p):
+    for f in ["striked","underlined","pometa"]:
+        if p[f] == "1":
+            data[f] = True
+    return data
+
 def file2str(file_name, encoding="cp1251"):
     with open(file_name, "r", encoding=encoding) as f:
         return f.read()
