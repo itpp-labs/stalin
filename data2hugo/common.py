@@ -113,7 +113,7 @@ def person_list2url(person, lst, sublst):
     # "pageintom": pp["pageintom"],
     # "rowinpage": pp["rowinpage"],
     # "nomer": pp["nomer"],
-    return "/lists/%s" % (list2name(lst))
+    return "/lists/%s#page-%s-num-%s" % (list2name(lst), person["pageintom"], person["nomer"])
 
 def clean_date(s):
     if not s or s == "0000-00-00" or s == "NULL":

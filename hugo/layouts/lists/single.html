@@ -22,15 +22,18 @@
 <h3> {{ .title }} </h3>
 
   {{ range .pages }}
-  <div id="page{{ .page.pageid }}">
+    {{ $pageid := .page.pageid }}
+    {{ $pageintom := .page.pageintom }}
+
+  <div id="page{{ $pageid }}">
 
 
       <div class="tabs is-toggle is-fullwidth">
           <ul>
-              <li class="is-active" data-tab="page{{ .page.pageid }}-text">
+              <li class="is-active" data-tab="page{{ $pageid }}-text">
                   <a>Расшифровка</a>
               </li>
-              <li data-tab="page{{ .page.pageid }}-image">
+              <li data-tab="page{{ $pageid }}-image">
                   <a>
                       Фотография
                   </a>
@@ -39,14 +42,14 @@
       </div>
 
       <div class="tab-content">
-          <div data-content="page{{ .page.pageid }}-text">
+          <div id="page-{{ $pageintom }}" data-content="page{{ $pageid }}-text">
 
               {{ range .persons }}
-              <p> {{ .num }}. {{ .name }} </p>
+              <p id="page-{{ $pageintom }}-num-{{ .num }}"> {{ .num }}. {{ .name }} </p>
               {{ end }}
 
           </div>
-          <div class="is-hidden" data-content="page{{ .page.pageid }}-image">
+          <div class="is-hidden" data-content="page{{ $pageid }}-image">
               <img src="/disk/pictures/{{ .page_image }}"/>
           </div>
       </div>
