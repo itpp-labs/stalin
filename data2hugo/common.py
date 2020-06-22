@@ -16,6 +16,8 @@ LISTS_CSV=os.path.join(CSV_DIR, "lists.csv")
 SUBLISTS_CSV=os.path.join(CSV_DIR, "sublists.csv")
 LIST_TITLE_CSV=os.path.join(CSV_DIR, "listtitl.csv")
 PAGES_CSV=os.path.join(CSV_DIR, "pages.csv")
+OTHERS_CSV=os.path.join(CSV_DIR, "others.csv")
+POMETY_CSV=os.path.join(CSV_DIR, "pomety.csv")
 PERSON2PAGE_YAML="data2hugo/person2page.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
@@ -44,10 +46,13 @@ yaml.add_representer(literal_unicode, literal_unicode_representer)
 
 
 
-def extend_person(data, p):
+def extend_person(data, p, pometa_text=None):
     for f in ["striked","underlined","pometa"]:
         if p[f] == "1":
             data[f] = True
+    if pometa_text:
+        print ("pometa: ", pometa_text)
+        data["pometa_text"] = pometa_text
     return data
 
 def file2str(file_name, encoding="cp1251"):

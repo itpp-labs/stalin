@@ -45,7 +45,7 @@
           <div id="page-{{ $pageintom }}" data-content="page{{ $pageid }}-text">
 
               {{ range .persons }}
-              <p id="page-{{ $pageintom }}-num-{{ .num }}"> {{ .num }}. {{ .name }} </p>
+              <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"> {{ .num }}. {{ .name }} {{ if .pometa_text }}<span class="pometa">{{.pometa_text}}</span>{{end}}</p>
               {{ end }}
 
           </div>

@@ -5,3 +5,12 @@ p:target {
 div:target {
     box-shadow: 5px 5px 2px;
 }
+.person.striked {
+    text-decoration: line-through;
+}
+.person.underlined {
+    text-decoration: underline;
+}
+.person .pometa {
+    font-style: italic;
+}
