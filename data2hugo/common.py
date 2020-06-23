@@ -51,7 +51,6 @@ def extend_person(data, p, pometa_text=None):
         if p[f] == "1":
             data[f] = True
     if pometa_text:
-        print ("pometa: ", pometa_text)
         data["pometa_text"] = pometa_text
     return data
 

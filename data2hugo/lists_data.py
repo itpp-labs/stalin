@@ -52,6 +52,13 @@ def main():
         pometa_id = other["pometa"]
         return id2pometa_text.get(pometa_id)
 
+    def get_signs(lst):
+        res = {}
+        for key in ["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"]:
+            if lst[key] == "1":
+                res[key[4:]] = True
+        return res
+
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
@@ -61,6 +68,7 @@ def main():
                 "name": lst["deloname"],
                 "num": lst["delonum"],
             },
+            "signs": get_signs(lst),
             "pages": [
                 {
                     "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),

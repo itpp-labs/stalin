@@ -16,7 +16,7 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 
 def main():
-    persons_index()
+#    persons_index()
     lists_index()
 
 def persons_index():
@@ -60,6 +60,14 @@ def lists_index():
             data = {
                 "date": r["date"],
                 "title": r["title"],
+                "signstalin": r["signs"].get("stalin", False),
+                "signmolotov": r["signs"].get("molotov", False),
+                "signjdanov": r["signs"].get("jdanov", False),
+                "signkaganovic": r["signs"].get("kaganovic", False),
+                "signvoroshilov": r["signs"].get("voroshilov", False),
+                "signmikoyan": r["signs"].get("mikoyan", False),
+                "signejov": r["signs"].get("ejov", False),
+                "signkosior": r["signs"].get("kosior", False),
             }
             content = data2index("lists", doc_id, data)
             index_file.write(content)

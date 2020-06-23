@@ -79,8 +79,10 @@ $(document).ready(function(){
 
         }).fail(function( data ) {
             console.log("Error", data);
-            if (!data){
-                clear_results();
+            if (data){
+                error_on_search(data);
+            }else {
+                empty_results();
             }
         });
     }
@@ -110,16 +112,9 @@ $(document).ready(function(){
                     date_range.gte = date;
                 else
                     date_range.lte = date;
-            } else if (key == "global_search") {
-                $.each(["firstname", "midname", "lastname"], function(){
-                    query_bool.should.push({
-                        "match": get_obj(this, value)
-                    });
-                });
-                $.each(["spravka", "gb_spravka"], function(){
-                    query_bool.should.push({
-                        "match_phrase": get_obj(this, value)
-                    });
+            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) != -1) {
+                query_bool.must.push({
+                    "match": get_obj(key, true)
                 });
             }
         });
@@ -159,11 +154,17 @@ $(document).ready(function(){
         }
 
         var data = {
-            "size": 20, // TODO: make pagination
             "query": {
                 "bool": query_bool
             }
         };
+        if (index_name == "persons"){
+            data.size = 20; // TODO: make pagination
+        } else {
+            data.size = 1000;
+        }
+
+
         // TODO: don't load unused fields
         return $.ajax({
             method: "POST",
@@ -225,6 +226,12 @@ $(document).ready(function(){
     }
     function clear_results(){
         $("#results").empty();
+    }
+    function empty_results(){
+        $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
+    }
+    function error_on_search(data){
+        $("#results").html("<h1>Ошибка сервера: {0}".format(data))
     }
 
     // credits: https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
