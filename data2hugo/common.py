@@ -20,6 +20,7 @@ OTHERS_CSV=os.path.join(CSV_DIR, "others.csv")
 POMETY_CSV=os.path.join(CSV_DIR, "pomety.csv")
 TITLES_CSV=os.path.join(CSV_DIR, "titles.csv")
 PERSON2PAGE_YAML="data2hugo/person2page.yaml"
+TITLE2GEOSUB_YAML="data2hugo/title2geosub.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
 SPRAVKI_CSV=os.path.join(CSV_DIR, "spravki.csv")

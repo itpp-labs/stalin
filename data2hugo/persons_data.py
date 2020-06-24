@@ -20,6 +20,7 @@ def main():
     )
 
     person2pages = yaml_reader(PERSON2PAGE_YAML)
+    title2geosub = yaml_reader(TITLE2GEOSUB_YAML)
 
     def fond7(p):
         res = {
@@ -59,6 +60,11 @@ def main():
                 "nameshow": p["nameshow1"],
                 "primname": p["primname"],
             },
+            "kat": int(p["kat"]),
+            "tom": int(p["tom"]),
+            "geo_id": int(p["ageographyid"]),
+            "geosub_id": int(title2geosub.get(p["atitlesid"], "0")),
+            "group_id": int(p["agroupid"]),
             # I assume, that this was original columns which were fixed later
             # into firstname1, midname1, etc. But let's keep them just in case
             # -- @yelizariev

@@ -16,7 +16,7 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 
 def main():
-#    persons_index()
+    persons_index()
     lists_index()
 
 def persons_index():
@@ -43,6 +43,11 @@ def persons_index():
                 "striked": p.get("striked", False),
                 "underlined": p.get("underlined", False),
                 "pometa": p.get("pometa", False),
+                "kat": p.get("kat"),
+                "tom": p.get("tom"),
+                "geo": p.get("geo_id"),
+                "geosub": p.get("geosub_id"),
+                "group": p.get("group_id"),
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
                 "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
