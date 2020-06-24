@@ -9,6 +9,7 @@
 <title>Поиск | Сталинские расстрельные списки</title>
 
 <link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
+<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -145,6 +146,190 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                 </div>
             </div>
 
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Архив</label>
+                </div>
+                <div class="field-body">
+                    <div class="field is-narrow">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="korpus" required>
+                                    <option value="0">[Корпус]</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field is-narrow">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="tom">
+                                    <option value="0">[Том]</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Регионы и Группы</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="geo" required>
+                                    <option value="0">[Регион]</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field is-narrow">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="group">
+                                    <option value="0">[Группа]</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label"></label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <div class="control is-expanded">
+                            <div class="select is-fullwidth">
+                                <select name="geosub" required>
+                                    <option value="0">[Подрегион]</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field is-narrow">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="kat" required>
+                                    <option value="0">[Категория]</option>
+                                    <option value="1">1-я категория</option>
+                                    <option value="2">2-я категория</option>
+                                    <option value="3">3-я категория</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Пометы</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox" style="text-decoration: underline">
+                                <input name="underlined" type="checkbox">
+                                Подчеркнут
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox" style="text-decoration: line-through">
+                                <input name="striked" type="checkbox">
+                                Вычеркнут
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="pometa" type="checkbox">
+                                Пометы<sup>"10 лет" и др.</sup>
+                            </label>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">Подписи</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signstalin" type="checkbox">
+                                Сталин
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signmolotov" type="checkbox">
+                                Молотов
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signjdanov" type="checkbox">
+                                Жданов
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signkaganovic" type="checkbox">
+                                Каганович
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signvoroshilov" type="checkbox">
+                                Ворошилов
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signmikoyan" type="checkbox">
+                                Микоян
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signejov" type="checkbox">
+                                Ежов
+                            </label>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded">
+                            <label class="checkbox">
+                                <input name="signkosior" type="checkbox">
+                                Косиор
+                            </label>
+                        </p>
+                    </div>
+                </div>
+            </div>
 
         </form>
 
