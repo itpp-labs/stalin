@@ -3,6 +3,9 @@ date: '1938-09-29'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v11/17-171-419-216.jpg
 - image: v11/17-171-419-217.jpg
@@ -176,6 +179,7 @@ sublists:
       name: ЛОПАТИН Иван Дионисьевич
     - num: '37'
       name: ЛУКАШИН Сергей Филиппович
+      striked: true
     - num: '38'
       name: МАСЛОВСКИЙ Адам Александрович
     - num: '39'

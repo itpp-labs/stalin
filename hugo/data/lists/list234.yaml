@@ -3,6 +3,10 @@ date: '1937-09-22'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
 pages:
 - image: v03/17-171-411-128.jpg
 - image: v03/17-171-411-129.jpg
@@ -46,6 +50,7 @@ sublists:
       name: АЙЗЕНШТАДТ Ефрем Григорьевич
     - num: '4'
       name: АЛЯКРИЦКИЙ Борис Евгеньевич
+      striked: true
     - num: '5'
       name: АНАНЬЕВ Владимир Николаевич
     - num: '6'

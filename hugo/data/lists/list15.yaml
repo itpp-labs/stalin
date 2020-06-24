@@ -3,6 +3,12 @@ date: '1937-05-06'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
+  kosior: true
 pages:
 - image: v01/17-171-409-123.jpg
 - image: v01/17-171-409-124.jpg
@@ -113,6 +119,7 @@ sublists:
       name: ФИНК Федор Федорович
     - num: '27'
       name: ЧЕРНЫШЕВА Ольга Федоровна
+      striked: true
   - page:
       pageid: '127'
       tom: '1'

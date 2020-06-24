@@ -3,6 +3,9 @@ date: '1937-07-25'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v02/17-171-410-099.jpg
 - image: v02/17-171-410-100.jpg
@@ -50,6 +53,7 @@ sublists:
       name: БАГОКИН Андрей Захарович
     - num: '8'
       name: БЕЛЕНЬКИЙ Абрам Михайлович
+      underlined: true
     - num: '9'
       name: БЕРЕЗИН Александр Иосифович
     - num: '10'

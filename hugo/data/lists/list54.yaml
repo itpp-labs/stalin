@@ -3,6 +3,12 @@ date: '1937-07-31'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v02/17-171-410-149.jpg
 - image: v02/17-171-410-150.jpg
@@ -111,6 +117,7 @@ sublists:
       name: ЛЕВИН Мотель Рафаилович
     - num: '33'
       name: ЛИВИН
+      pometa_text: (китаец, гражданин СССР)
     - num: '34'
       name: ЛЯХОВСКИЙ Самуил Аронович
     - num: '35'

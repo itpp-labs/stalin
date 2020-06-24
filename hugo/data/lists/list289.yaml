@@ -3,6 +3,11 @@ date: '1938-04-19'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
 pages:
 - image: v08/17-171-416-001.jpg
 - image: v08/17-171-416-002.jpg
@@ -29,6 +34,7 @@ sublists:
     persons:
     - num: '1'
       name: БЕРЗИН Эдуард Петрович
+      striked: true
     - num: '2'
       name: БЕРЛЯНТ Иосиф Евсеевич
     - num: '3'

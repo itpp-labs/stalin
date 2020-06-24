@@ -3,6 +3,11 @@ date: '1938-03-05'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  voroshilov: true
 pages:
 - image: v07/17-171-415-010.jpg
 - image: v07/17-171-415-011.jpg
@@ -188,6 +193,7 @@ sublists:
       name: ДЕРБЕР Петр Яковлевич
     - num: '55'
       name: ДЕРЕЧЕЙ Евгений Григорьевич
+      underlined: true
     - num: '56'
       name: ДЖОНСОН-ЯНСОН Карл Эрнстович
     - num: '57'
@@ -256,6 +262,7 @@ sublists:
     persons:
     - num: '81'
       name: КОЖАНОВ Иван Кузьмич
+      striked: true
     - num: '82'
       name: КОЗЛОВ Николай Иванович
     - num: '83'
@@ -572,6 +579,7 @@ sublists:
       name: ШАЦКИЙ Абрам Григорьевич
     - num: '207'
       name: ШЕИН Михаил Дмитриевич
+      underlined: true
     - num: '208'
       name: ШЕН-У-СЕП Климентий Петрович
     - num: '209'

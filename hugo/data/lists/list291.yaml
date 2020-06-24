@@ -3,6 +3,11 @@ date: '1938-04-19'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
 pages:
 - image: v08/17-171-416-028.jpg
 - image: v08/17-171-416-029.jpg
@@ -55,6 +60,9 @@ sublists:
       name: БРЕЙТЕР Лев Моисеевич
     - num: '9'
       name: БУБНОВ Андрей Сергеевич
+      underlined: true
+      pometa: true
+      pometa_text: подождать
     - num: '10'
       name: БУЛАТ Иван Лазаревич
     - num: '11'
@@ -67,6 +75,9 @@ sublists:
       name: ВОЕВУДСКИЙ Сильвестр Ксаверьевич
     - num: '15'
       name: ВОЗНЕСЕНСКИЙ Игорь Александрович
+      underlined: true
+      pometa: true
+      pometa_text: подождать
     - num: '16'
       name: ВОЙТОВИЧ Анатолий Федорович
     - num: '17'
@@ -133,6 +144,8 @@ sublists:
       name: КРИСТИН Адольф Иванович, он же <br />ЛИХТБЛАУ Леон Сигизмундович
     - num: '40'
       name: КУДРЯВЦЕВ Сергей Александрович
+      pometa: true
+      pometa_text: Разст.
     - num: '41'
       name: КУЧЕРОВСКИЙ Александр Евгеньевич
     - num: '42'
@@ -173,6 +186,7 @@ sublists:
     persons:
     - num: '52'
       name: МЕЖЛАУК Валерий Иванович
+      striked: true
     - num: '53'
       name: МЕХАНОШИН Константин Александрович
     - num: '54'
@@ -183,6 +197,7 @@ sublists:
       name: НЕПОМНЯЩИЙ Лазарь Леонтьевич
     - num: '57'
       name: ОСИНСКИЙ-ОБОЛЕНСКИЙ Валерий Валерианович
+      striked: true
     - num: '58'
       name: ОСИПОВ-ШИФМАН Осип Яковлевич
     - num: '59'
@@ -207,6 +222,7 @@ sublists:
       name: РАУШ Евгений Владимирович
     - num: '69'
       name: РУХИМОВИЧ Моисей Львович
+      striked: true
     - num: '70'
       name: РЫБАКОВ Иван Яковлевич
     - num: '71'
@@ -281,6 +297,8 @@ sublists:
       name: ЮРКОВСКИЙ Борис Борисович
     - num: '98'
       name: ЯКОВЛЕВА Варвара Николаевна
+      pometa: true
+      pometa_text: 20 лет
     - num: '99'
       name: ЯНКОВСКИЙ Николай Климентьевич
     - num: '100'

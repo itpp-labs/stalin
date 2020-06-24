@@ -3,6 +3,12 @@ date: '1937-11-01'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v04/17-171-412-120.jpg
 - image: v04/17-171-412-121.jpg
@@ -41,40 +47,52 @@ sublists:
     persons:
     - num: '0'
       name: АНТИПОВ Алексей Кириллович
+      striked: true
     - num: '1'
       name: БАЛИЦКИЙ Всеволод Апполонович
     - num: '0'
       name: БЛАГОНРАВОВ Георгий Иванович
+      striked: true
     - num: '0'
       name: БУБНОВ Андрей Сергеевич
+      striked: true
     - num: '0'
       name: БУЛИН Антон Степанович
+      striked: true
     - num: '0'
       name: БУХАРИН Николай Иванович
+      striked: true
     - num: '2'
       name: БЫКИН Яков Борисович
     - num: '0'
       name: ВАРЕЙКИС Иосиф Михайлович
+      striked: true
     - num: '3'
       name: ВЕГЕР Евгений Ильич
     - num: '4'
       name: ГИКАЛО Николай Федорович
     - num: '0'
       name: ГРИНЬКО Георгий Федорович
+      striked: true
     - num: '0'
       name: ГРЯДИНСКИЙ Федор Павлович
+      striked: true
     - num: '5'
       name: ДЕРИБАС Терентий Дмитриевич
     - num: '6'
       name: ЕРЕМИН Иван Глебович
     - num: '0'
       name: ЗАТОНСКИЙ В. П.
+      striked: true
     - num: '0'
       name: ЗЕЛЕНСКИЙ Исаак Абрамович
+      striked: true
     - num: '0'
       name: ИВАНОВ Владимир Иванович
+      striked: true
     - num: '0'
       name: ИКРАМОВ Акмаль
+      striked: true
     - num: '7'
       name: КАЛМАНОВИЧ Моисей Иосифович
     - num: '8'
@@ -89,6 +107,7 @@ sublists:
       name: КУБЯК Николай Афанасьевич
     - num: '0'
       name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
+      striked: true
     - num: '13'
       name: ЛЕПА Альфред Карлович
   - page:
@@ -111,6 +130,7 @@ sublists:
       name: ЛЮБИМОВ Исидор Евстигнеевич
     - num: '0'
       name: МИХАЙЛОВ Михаил
+      striked: true
     - num: '15'
       name: НОСОВ Иван Петрович
     - num: '16'
@@ -121,14 +141,19 @@ sublists:
       name: ПТУХА Владимир Васильевич
     - num: '0'
       name: ПЯТНИЦКИЙ Иосиф Аронович
+      striked: true
     - num: '0'
       name: РОЗЕНГОЛЬЦ Аркадий Павлович
+      striked: true
     - num: '0'
       name: РУДЗУТАК Ян Эрнестович
+      striked: true
     - num: '0'
       name: РУХИМОВИЧ Моисей Львович
+      striked: true
     - num: '0'
       name: РЫКОВ Алексей Иванович
+      striked: true
     - num: '19'
       name: РЫНДИН Кузьма Васильевич
     - num: '20'
@@ -141,10 +166,13 @@ sublists:
       name: ФИЛАТОВ Николай Алексеевич
     - num: '0'
       name: ЧЕРНОВ Михаил Александрович
+      striked: true
     - num: '0'
       name: ЯКОВЛЕВ Яков Аркадьевич
+      striked: true
     - num: '0'
       name: ЯГОДА Генрих Григорьевич
+      striked: true
 - title: Список от ноября 1937г. [II Быв.члены КПК и КСК и Рев.Ком.ЦК]
   sublisttitle: II Быв.члены КПК и КСК и Рев.Ком.ЦК
   pages:
@@ -166,6 +194,7 @@ sublists:
     persons:
     - num: '0'
       name: АГРАНОВ Яков Саулович
+      striked: true
     - num: '1'
       name: ГЕМЕРВЕРТ М.И.
     - num: '2'
@@ -180,8 +209,10 @@ sublists:
       name: КАХИАНИ Михаил И.
     - num: '0'
       name: КОГАН Исаак Соломонович
+      striked: true
     - num: '0'
       name: ЛЕВИН Александр Андреевич
+      striked: true
     - num: '7'
       name: МАНФРЕД С.А.
     - num: '8'
@@ -192,6 +223,7 @@ sublists:
       name: МОСКВИН Иван Михайлович
     - num: '0'
       name: ПАСКУЦКИЙ Н.А.
+      striked: true
     - num: '11'
       name: РУБЕНОВ Рубен Гукасович
     - num: '12'
@@ -208,6 +240,7 @@ sublists:
       name: ФРЕНКЕЛЬ А.А.
     - num: '0'
       name: '[нрзб]'
+      striked: true
     - num: '18'
       name: ХЛОПЛЯНКИН Михаил Иванович
     - num: '19'
@@ -216,6 +249,7 @@ sublists:
       name: ШАДУНЦ С.К.
     - num: '0'
       name: ШАРАНГОВИЧ Василий Фомич
+      striked: true
     - num: '21'
       name: ШОХИН А.П.
     - num: '22'
@@ -251,12 +285,14 @@ sublists:
       name: КОНТОРИН Дмитрий Алексеевич
     - num: '6'
       name: КОРЫТНЫЙ Семен Захарович
+      striked: true
     - num: '7'
       name: КУДРЯВЦЕВ С.А.
     - num: '8'
       name: ЛУКЬЯНОВ Дмитрий Дмитриевич
     - num: '9'
       name: МАРГОЛИН Натан Вениаминович
+      striked: true
     - num: '10'
       name: НИЗОВЦЕВ Н.Ф.
     - num: '11'
@@ -294,20 +330,24 @@ sublists:
       name: БОНДАРЕНКО Михаил Ильич
     - num: '0'
       name: ВЕЙЦЕР Израиль Яковлевич
+      striked: true
     - num: '6'
       name: ВОЛКОВ Петр Яковлевич
     - num: '7'
       name: ИВАНОВ Вячеслав Федорович
     - num: '8'
       name: КИШКИН Владимир Александрович
+      striked: true
     - num: '9'
       name: КЛЕЙНЕР Израиль Михайлович
     - num: '10'
       name: КОНГЕЛАРИ Валентин Александрович
     - num: '0'
       name: КРЕСТИНСКИЙ Николай Николаевич
+      striked: true
     - num: '0'
       name: КРУГЛИКОВ Соломон Лазаревич
+      striked: true
     - num: '11'
       name: ЛЕВИН Наум Абрамович
     - num: '12'
@@ -318,6 +358,7 @@ sublists:
       name: МАЙОРОВ Михаил Моисеевич
     - num: '15'
       name: МАРЬЯСИН Лев Ефимович
+      striked: true
     - num: '16'
       name: МУКЛЕВИЧ Ромуальд Адамович
     - num: '17'
@@ -328,12 +369,14 @@ sublists:
       name: ПОСТНИКОВ Александр Михайлович
     - num: '0'
       name: РОЗЕНГОЛЬЦ Аркадий Павлович
+      striked: true
     - num: '20'
       name: РЫСКУЛОВ Тураф Рыскулович
     - num: '21'
       name: ХОДЖИБАЕВ Абдурахман
     - num: '0'
       name: ЯКОВЛЕВА Варвара
+      striked: true
 - title: Список от ноября 1937г. [V Быв.ответ.работники Наркоматов]
   sublisttitle: V Быв.ответ.работники Наркоматов
   pages:
@@ -363,6 +406,7 @@ sublists:
       name: АНГАРОВ-ЗЫКОВ Алексей Иванович
     - num: '5'
       name: АНТОНОВ-ОВСЕЕНКО
+      striked: true
     - num: '6'
       name: АНТИКОЛЬ Рафаил Моисеевич
     - num: '7'
@@ -377,6 +421,9 @@ sublists:
       name: БАЖАНОВ Василий Михайлович
     - num: '12'
       name: БАРАНОВ Михаил Иванович
+      striked: true
+      pometa: true
+      pometa_text: (2-ой раз повторяется)
     - num: '13'
       name: БАРИНОВ Михаил Васильевич
     - num: '14'
@@ -389,6 +436,7 @@ sublists:
       name: БЛИЗНИЧЕНКО Андрей Емельянович
     - num: '18'
       name: БОГОМОЛОВ Дмитрий Васильевич
+      striked: true
     - num: '19'
       name: БОРИСЕНКО Николай Евтихиевич
     - num: '20'
@@ -403,6 +451,7 @@ sublists:
       name: ГАЙСТЕР Семен Израилевич
     - num: '25'
       name: ГЕГЕЧКОРИ Михаил Иванович
+      striked: true
     - num: '26'
       name: ГЕНДУН-БУТАЧИ
     - num: '27'
@@ -425,6 +474,7 @@ sublists:
     persons:
     - num: '28'
       name: '[нрзб]'
+      striked: true
     - num: '29'
       name: ДВОЛАЙЦКИЙ Шолом Моисеевич
     - num: '30'
@@ -457,6 +507,7 @@ sublists:
       name: ИЗРАЙЛОВИЧ Абрам Ильич
     - num: '44'
       name: КАГАНЕРОВА Клавдия Емельяновна
+      striked: true
     - num: '45'
       name: КАКТЫНЬ Артур Мартынович
     - num: '46'
@@ -481,6 +532,7 @@ sublists:
       name: КОМИССАРОВ Иван Григорьевич
     - num: '56'
       name: КОСТАКИН Айкоз Аркадьевич
+      striked: true
     - num: '57'
       name: КОЧЕТОВ Владимир Николаевич
   - page:
@@ -541,6 +593,7 @@ sublists:
       name: МЕСЯЦЕВ Павел Александрович
     - num: '78'
       name: МИХАЙЛОВ-МЕЛЛЕР Михаил Лазаревич
+      striked: true
     - num: '79'
       name: МУКЛЕВИЧ Анна Яковлевна
     - num: '80'
@@ -601,6 +654,7 @@ sublists:
       name: РАДЧЕНКО Иван Иванович
     - num: '100'
       name: РАКОВСКИЙ Христиан Георгиевич
+      striked: true
     - num: '101'
       name: РАППОПОРТ Григорий Яковлевич
     - num: '102'
@@ -683,6 +737,7 @@ sublists:
       name: УРЫВАЕВ Михаил Георгиевич
     - num: '133'
       name: ФОМИН Василий Кузьмич
+      pometa: true
     - num: '134'
       name: ФИЛИМОНОВ Наум Гаврилович
     - num: '135'
@@ -729,6 +784,7 @@ sublists:
       name: ШЕРМЕРГОРН Дирк Тимофеевич
     - num: '148'
       name: ЮРЕНЕВ Константин Константинович
+      striked: true
     - num: '149'
       name: ЯКИМОВИЧ Иван Константинович
 - title: Список от ноября 1937г. [VI Быв.военные работники]
@@ -801,35 +857,54 @@ sublists:
     persons:
     - num: '1'
       name: АЛЕКСАНДРОВСКИЙ Михаил Константинович
+      striked: true
     - num: '2'
       name: АУСТРИН Рудольф Иванович
+      striked: true
     - num: '3'
       name: БАЛИЦКИЙ Всеволод Апполонович
+      striked: true
     - num: '4'
       name: БЛАГОНРАВОВ Георгий Иванович
+      striked: true
     - num: '5'
       name: БЛАТ Иосиф Михайлович
+      striked: true
     - num: '6'
       name: БОКИЙ Глеб Иванович
+      striked: true
     - num: '7'
       name: ДОМБРОВСКИЙ Вячеслав Ромуальдович
+      striked: true
     - num: '8'
       name: ЖЕМЧУЖНИКОВ Александр Васильевич
+      striked: true
     - num: '9'
       name: КРЕСТЬЯНКИН Владимир Иванович
+      striked: true
     - num: '10'
       name: МЕДВЕДЬ Филипп Демьянович
+      striked: true
+      pometa: true
+      pometa_text: Медведь
     - num: '11'
       name: МИРОНОВ Лев Григорьевич
+      striked: true
     - num: '12'
       name: ПРУСС Иосиф Францевич
+      striked: true
     - num: '13'
       name: РАЙСКИЙ Наум Маркович
+      striked: true
     - num: '14'
       name: РУДЬ Петр Гаврилович
+      striked: true
     - num: '15'
       name: СОСНОВСКИЙ Игнатий Игнатьевич
+      striked: true
     - num: '16'
       name: СТЫРНЕ Владимир Андреевич
+      striked: true
     - num: '17'
       name: ШИЙРОН Август Петрович
+      striked: true

@@ -3,6 +3,11 @@ date: '1937-08-10'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v02/17-171-410-189.jpg
 - image: v02/17-171-410-190.jpg
@@ -124,6 +129,7 @@ sublists:
       name: ОВЧАРОВ Федор Захарович
     - num: '39'
       name: ОПАРИН Яков Александрович
+      underlined: true
     - num: '40'
       name: ПЕТРОВ Дмитрий Петрович
     - num: '41'

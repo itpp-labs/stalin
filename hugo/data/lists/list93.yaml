@@ -3,6 +3,9 @@ date: '1937-11-01'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v04/17-171-412-135.jpg
 - image: v04/17-171-412-136.jpg
@@ -43,6 +46,8 @@ sublists:
       name: АДАМСКИЙ Ян Людвигович
     - num: '3'
       name: АЙХЕНВАЛЬД Александр Юлиевич
+      pometa: true
+      pometa_text: (15 лет)
     - num: '4'
       name: АКСЕНОВ Николай Васильевич
     - num: '5'
@@ -229,6 +234,9 @@ sublists:
       name: ПЕСТИЧ Георгий Петрович
     - num: '80'
       name: ПЕТРОВСКИЙ Петр Григорьевич
+      underlined: true
+      pometa: true
+      pometa_text: 15 лет
     - num: '81'
       name: ПЕТРОВСКИЙ Станислав Адамович, он же <br />ФРАНК Станислав Станиславович
     - num: '82'

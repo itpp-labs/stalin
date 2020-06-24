@@ -3,6 +3,10 @@ date: '1937-06-14'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
+signs:
+  stalin: true
+  molotov: true
+  voroshilov: true
 pages:
 - image: v01/17-171-409-172.jpg
 - image: v01/17-171-409-173.jpg
@@ -53,6 +57,7 @@ sublists:
       name: ГИТТЕЛЬ Леон Абрамович
     - num: '10'
       name: ГРУШЕВСКИЙ Лев Абрамович
+      underlined: true
     - num: '11'
       name: ДЬЯЧЕНКО Марфа Николаевна
     - num: '12'

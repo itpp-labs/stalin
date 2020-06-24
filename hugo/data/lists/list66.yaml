@@ -3,6 +3,12 @@ date: '1937-08-20'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
+  kosior: true
 pages:
 - image: v02/17-171-410-255.jpg
 - image: v02/17-171-410-256.jpg
@@ -151,6 +157,8 @@ sublists:
       name: КАДЫШ Александр Михайлович
     - num: '7'
       name: КАКТЫНЬ Артур Мартынович
+      pometa: true
+      pometa_text: задержа
     - num: '8'
       name: КЛИМЕНКО Михаил Александрович
     - num: '9'

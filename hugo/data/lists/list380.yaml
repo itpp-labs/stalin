@@ -3,6 +3,11 @@ date: '1938-02-03'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v06/17-171-414-355.jpg
 - image: v06/17-171-414-356.jpg
@@ -209,6 +214,7 @@ sublists:
       name: КАЛИНА Андрей Хрисанфович
     - num: '66'
       name: КАНДЕЛАКИ Давид Владимирович
+      striked: true
     - num: '67'
       name: КАНТОРОВИЧ Яков Аронович
     - num: '68'

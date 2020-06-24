@@ -4,6 +4,11 @@ name:
   lastname: Егоров
   nameshow: ЕГОРОВ Владимир Михайлович
   primname: ''
+kat: 1
+tom: 2
+geo_id: 49
+geosub_id: 8
+group_id: 0
 name_mixed:
   firstname: Егоров
   midlastname: Владимир Михайлович
@@ -18,10 +23,10 @@ fond7:
 lists:
 - title: Список от 15 мая 1937 г. [Московская область] - РГАСПИ, ф.17, т.1, оп.171,
     дело 409, лист 139
-  url: /lists/list17
+  url: /lists/list17#page-143-num-3
 - title: Список от 31 июля 1937 г. [Московская область] - РГАСПИ, ф.17, т.2, оп.171,
     дело 410, лист 116
-  url: /lists/list49
+  url: /lists/list49#page-123-num-1
 gb_spravka:
   pages: []
   html: null

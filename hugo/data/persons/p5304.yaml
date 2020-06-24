@@ -4,6 +4,11 @@ name:
   lastname: Кутузов
   nameshow: КУТУЗОВ Иван Иванович
   primname: ''
+kat: 1
+tom: 2
+geo_id: 49
+geosub_id: 1
+group_id: 0
 name_mixed:
   firstname: Кутузов
   midlastname: Иван Иванович
@@ -18,7 +23,8 @@ fond7:
 lists:
 - title: Список от 10 августа 1937 г. [Москва-центр] - РГАСПИ, ф.17, т.2, оп.171,
     дело 410, лист 195
-  url: /lists/list60
+  url: /lists/list60#page-198-num-46
 gb_spravka:
   pages: []
   html: null
+pometa: true

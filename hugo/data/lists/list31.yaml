@@ -3,6 +3,12 @@ date: '1937-06-26'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
+signs:
+  stalin: true
+  jdanov: true
+  kaganovic: true
+  voroshilov: true
+  mikoyan: true
 pages:
 - image: v01/17-171-409-227.jpg
 - image: v01/17-171-409-228.jpg
@@ -265,6 +271,9 @@ sublists:
       name: УТКИН Александр Васильевич
     - num: '93'
       name: ХВАЩЕВСКАЯ Наталия Осиповна
+      striked: true
+      pometa: true
+      pometa_text: 10 лет
     - num: '94'
       name: ЦВИК Яков Максимович
     - num: '95'

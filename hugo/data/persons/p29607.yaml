@@ -4,6 +4,11 @@ name:
   lastname: Кудрявцев
   nameshow: КУДРЯВЦЕВ Сергей Александрович
   primname: ''
+kat: 1
+tom: 8
+geo_id: 49
+geosub_id: 1
+group_id: 0
 name_mixed:
   firstname: Кудрявцев
   midlastname: Сергей Александрович
@@ -18,10 +23,11 @@ fond7:
 lists:
 - title: Список от ноября 1937г. [III Быв.секретари Обкомов, Крайкомов] - РГАСПИ,
     ф.17, т.4, оп.171, дело 412, лист 120
-  url: /lists/list92
+  url: /lists/list92#page-125-num-7
 - title: Список от 19 апреля 1938г. [Москва-центр] - РГАСПИ, ф.17, т.8, оп.171, дело
     416, лист 28
-  url: /lists/list291
+  url: /lists/list291#page-31-num-40
 gb_spravka:
   pages: []
   html: null
+pometa: true

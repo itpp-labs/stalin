@@ -3,6 +3,10 @@ date: '1937-12-07'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
 pages:
 - image: v05/17-171-413-249.jpg
 - image: v05/17-171-413-250.jpg
@@ -115,6 +119,7 @@ sublists:
       name: БУДАИН Эрдым Баир, он же ЗАБАНОВ
     - num: '29'
       name: БУДНЯК Даниил Филиппович
+      underlined: true
     - num: '30'
       name: БУЗАНОВ Василий Иванович
     - num: '31'
@@ -127,6 +132,9 @@ sublists:
       name: ВАХОНИН Василий Дмитриевич
     - num: '35'
       name: ВЕЛИКАНОВ Иван Михайлович
+      underlined: true
+      pometa: true
+      pometa_text: подождать
     - num: '36'
       name: ВЕЛИЧКИН Николай Федорович
     - num: '37'
@@ -183,6 +191,7 @@ sublists:
       name: ГЕПШТЕЙН Давид Калманович
     - num: '55'
       name: ГИБЕР Лев Семенович
+      underlined: true
     - num: '56'
       name: ГИНЗБУРГ Павел Львович
     - num: '57'
@@ -195,6 +204,7 @@ sublists:
       name: ГОРОХОВ Петр Николаевич
     - num: '61'
       name: ГОРСКИЙ-ЗАЙДЕМАН Илья Миронович
+      underlined: true
     - num: '62'
       name: ГРАГЕРОВ Александр Абрамович
     - num: '63'

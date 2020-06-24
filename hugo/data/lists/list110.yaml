@@ -3,6 +3,11 @@ date: '1937-11-13'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v05/17-171-413-001.jpg
 - image: v05/17-171-413-002.jpg
@@ -75,8 +80,10 @@ sublists:
       name: ИОФФЕ Яков Моисеевич
     - num: '20'
       name: ЛИБИНСОН Соломон Львович
+      underlined: true
     - num: '21'
       name: ЛОВИН Казимир Петрович
+      underlined: true
     - num: '22'
       name: ЛЮБИЧ Алексей Иванович
   - page:
@@ -115,6 +122,7 @@ sublists:
       name: ПОЛУМОРДВИНОВ Дмитрий Федорович
     - num: '32'
       name: РУМЯНЦЕВ Александр Сергеевич
+      underlined: true
     - num: '33'
       name: САБИРОВ Рауер Ахметович
     - num: '34'
@@ -149,6 +157,7 @@ sublists:
     persons:
     - num: '1'
       name: ВИНАВЕР Михаил Львович
+      underlined: true
     - num: '2'
       name: ПЛАТТЕН-ЦИММЕРМАН Берта Георгиевна
     - num: '3'

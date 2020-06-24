@@ -4,6 +4,11 @@ name:
   lastname: Бухарин
   nameshow: БУХАРИН Николай Иванович
   primname: ''
+kat: 1
+tom: 4
+geo_id: 1
+geosub_id: 82
+group_id: 15
 name_mixed:
   firstname: Бухарин
   midlastname: Николай Иванович
@@ -18,7 +23,8 @@ fond7:
 lists:
 - title: Список от ноября 1937г. [I Быв.члены и кандидаты ЦК ВКП(б)] - РГАСПИ, ф.17,
     т.4, оп.171, дело 412, лист 120
-  url: /lists/list92
+  url: /lists/list92#page-122-num-0
 gb_spravka:
   pages: []
   html: null
+striked: true

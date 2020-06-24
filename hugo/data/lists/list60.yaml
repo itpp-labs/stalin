@@ -3,6 +3,11 @@ date: '1937-08-10'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v02/17-171-410-195.jpg
 - image: v02/17-171-410-196.jpg
@@ -102,6 +107,7 @@ sublists:
       name: ЗАБЛОЦКИЙ Павел Ильич
     - num: '28'
       name: ЗАРУДИН Николай Николаевич
+      underlined: true
     - num: '29'
       name: ЗАХОДЕР Владимир Николаевич
     - num: '30'
@@ -138,6 +144,8 @@ sublists:
       name: КУЛИЦКИЙ Иван Петрович
     - num: '46'
       name: КУТУЗОВ Иван Иванович
+      pometa: true
+      pometa_text: 10 лет
     - num: '47'
       name: ЛЕБЕДЕВ Александр Васильевич
     - num: '48'
@@ -190,6 +198,7 @@ sublists:
       name: РАДЛИНСКИЙ Карл Людвигович
     - num: '64'
       name: РАКОВСКИЙ Христиан Георгиевич
+      striked: true
     - num: '65'
       name: РУДАКОВ Емельян Константинович
     - num: '66'
@@ -198,6 +207,7 @@ sublists:
       name: САТИН Аркадий Иванович
     - num: '68'
       name: СВАНИДЗЕ Мария Семеновна
+      striked: true
     - num: '69'
       name: СВОБОДИН Глеб Михайлович
     - num: '70'

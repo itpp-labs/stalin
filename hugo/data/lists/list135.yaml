@@ -3,6 +3,9 @@ date: '1937-12-07'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v05/17-171-413-239.jpg
 - image: v05/17-171-413-240.jpg
@@ -512,6 +515,8 @@ sublists:
       name: ПОЛЯКОВ Николай Николаевич
     - num: '23'
       name: ПРЕДЕ Роберт Яковлевич
+      pometa: true
+      pometa_text: (I) латыш
   - page:
       pageid: '1372'
       tom: '5'

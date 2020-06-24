@@ -3,6 +3,9 @@ date: '1938-08-20'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v09/17-171-417-221.jpg
 - image: v09/17-171-417-222.jpg
@@ -389,6 +392,7 @@ sublists:
       name: КОТИК Михаил Михайлович
     - num: '135'
       name: КОТЛЯР Моисей Исаакович
+      underlined: true
     - num: '136'
       name: КРАВЦОВ Иван Александрович
     - num: '137'

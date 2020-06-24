@@ -3,6 +3,12 @@ date: '1938-03-28'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
+  voroshilov: true
 pages:
 - image: v07/17-171-415-190.jpg
 - image: v07/17-171-415-191.jpg
@@ -279,6 +285,7 @@ sublists:
       name: МЕЛИКЯН Ваге Томасович
     - num: '94'
       name: МИРОШНИКОВ Иван Иванович
+      striked: true
     - num: '95'
       name: НАЙДА Давыд-Виктор Аронович
     - num: '96'

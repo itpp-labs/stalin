@@ -3,6 +3,9 @@ date: '1937-11-22'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v05/17-171-413-119.jpg
 - image: v05/17-171-413-120.jpg
@@ -118,6 +121,9 @@ sublists:
       name: СЕРЕБРОВСКИЙ Алексей Павлович
     - num: '4'
       name: ФИЛАТОВ Николай Алексеевич
+      underlined: true
+      pometa: true
+      pometa_text: '25'
     - num: '5'
       name: ГЕНКИН Ефим Борисович
     - num: '6'
@@ -152,12 +158,16 @@ sublists:
       name: ХОДЖАНОВ Султанбек
     - num: '21'
       name: ДУБОВОЙ Иван Наумович
+      striked: true
     - num: '22'
       name: КАГАНЕРОВА Клавдия Емельяновна
     - num: '23'
       name: СЕМУШКИН Анатолий Дмитриевич
     - num: '24'
       name: БАРАНОВ Михаил Иванович
+      striked: true
+      pometa: true
+      pometa_text: бить-бить
   - page:
       pageid: '1247'
       tom: '5'
@@ -182,6 +192,7 @@ sublists:
       name: ЛОНГВА Роман Войцехович
     - num: '28'
       name: ОРЛОВ Владимир Митрофанович
+      striked: true
     - num: '29'
       name: БЫКИН Яков Борисович
     - num: '30'
@@ -206,8 +217,12 @@ sublists:
       name: ЛЕВИТИН Лев Маркович
     - num: '40'
       name: КРЮЧКОВА Екатерина Алексеевна
+      striked: true
     - num: '41'
       name: РАДЧЕНКО Иван Иванович
+      underlined: true
+      pometa: true
+      pometa_text: '25'
     - num: '42'
       name: ЛУКЬЯНОВ Дмитрий Дмитриевич
     - num: '43'

@@ -3,6 +3,10 @@ date: '1937-06-14'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
+signs:
+  stalin: true
+  molotov: true
+  voroshilov: true
 pages:
 - image: v01/17-171-409-181.jpg
 - image: v01/17-171-409-182.jpg
@@ -36,6 +40,7 @@ sublists:
       name: АЛАДЬИН Андрей Григорьевич
     - num: '3'
       name: АНДРОНИКОВ Николай Семенович
+      underlined: true
     - num: '4'
       name: АРТЕБЯКИН Анатолий Георгиевич
     - num: '5'
@@ -82,6 +87,8 @@ sublists:
       name: КОСТОГЛАДОВ Георгий Семенович
     - num: '26'
       name: КРАУС Арнольд Фридрихович
+      pometa: true
+      pometa_text: (герм. подданный; судить обычным порядком)
     - num: '27'
       name: КУЗНЕЦОВА Анна Федоровна
   - page:

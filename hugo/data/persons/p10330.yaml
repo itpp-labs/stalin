@@ -4,6 +4,11 @@ name:
   lastname: Зеленский
   nameshow: ЗЕЛЕНСКИЙ Исаак Абрамович
   primname: ''
+kat: 1
+tom: 3
+geo_id: 49
+geosub_id: 1
+group_id: 0
 name_mixed:
   firstname: Зеленский
   midlastname: Исаак Абрамович
@@ -18,10 +23,11 @@ fond7:
 lists:
 - title: Список от 21 октября 1937г. [Москва-центр] - РГАСПИ, ф.17, т.3, оп.171, дело
     411, лист 229
-  url: /lists/list247
+  url: /lists/list247#page-230-num-15
 - title: Список от ноября 1937г. [I Быв.члены и кандидаты ЦК ВКП(б)] - РГАСПИ, ф.17,
     т.4, оп.171, дело 412, лист 120
-  url: /lists/list92
+  url: /lists/list92#page-122-num-0
 gb_spravka:
   pages: []
   html: null
+striked: true

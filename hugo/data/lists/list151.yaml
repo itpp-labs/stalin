@@ -3,6 +3,8 @@ date: null
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
+signs:
+  molotov: true
 pages:
 - image: v05/17-171-413-373.jpg
 - image: v05/17-171-413-374.jpg
@@ -333,6 +335,7 @@ sublists:
       name: ЗИНГЕР Михаил Акимович
     - num: '23'
       name: ХРУСТАЛЕВ Георгий Георгиевич
+      striked: true
     - num: '24'
       name: РЕШЕТНИЧЕНКО Владимир Иванович
     - num: '25'
@@ -353,3 +356,4 @@ sublists:
       name: АГАФОНОВ Сергей Петрович
     - num: '33'
       name: АСКИНАЗИ Софья Абрамовна
+      striked: true

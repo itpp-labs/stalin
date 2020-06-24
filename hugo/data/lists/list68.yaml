@@ -3,6 +3,9 @@ date: '1937-08-25'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v02/17-171-410-267.jpg
 - image: v02/17-171-410-268.jpg
@@ -556,6 +559,8 @@ sublists:
       name: БУДЕННЫЙ Георгий Яковлевич
     - num: '2'
       name: ВЕГЕР Елена Ильинична
+      pometa: true
+      pometa_text: (ВМН)
     - num: '3'
       name: ВОРОБЬЕВ Василий Захарович
     - num: '4'

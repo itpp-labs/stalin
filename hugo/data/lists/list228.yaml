@@ -3,6 +3,9 @@ date: '1937-09-15'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v03/17-171-411-086.jpg
 - image: v03/17-171-411-087.jpg
@@ -177,6 +180,9 @@ sublists:
       name: КОСИЛОВ Андрей Федорович
     - num: '55'
       name: КОСТШЕВА Вера Карловна
+      underlined: true
+      pometa: true
+      pometa_text: (10 лет)
     - num: '56'
       name: КРАЕВСКИЙ Антон Павлович
     - num: '57'
@@ -269,6 +275,7 @@ sublists:
       name: СОКОЛ Иван Иванович, он же <br />БУЖИНСКИЙ Станислав Викентьевич
     - num: '93'
       name: СТАРОСТИН Александр Васильевич
+      underlined: true
     - num: '94'
       name: СТРОНСКИЙ-ГЕРЦБЕРГ Григорий Львович
     - num: '95'

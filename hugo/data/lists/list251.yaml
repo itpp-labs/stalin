@@ -3,6 +3,11 @@ date: '1938-03-05'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  voroshilov: true
 pages:
 - image: v07/17-171-415-001.jpg
 - image: v07/17-171-415-002.jpg
@@ -169,6 +174,8 @@ sublists:
       name: ТОМСКИЙ-ЕФРЕМОВ Михаил Михайлович
     - num: '52'
       name: ТОМСКАЯ-ЕФРЕМОВА Мария Ивановна
+      pometa: true
+      pometa_text: 10 лет
     - num: '53'
       name: ТРИФОНОВ Валентин Андреевич
     - num: '54'

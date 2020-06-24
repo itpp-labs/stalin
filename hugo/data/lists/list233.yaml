@@ -3,6 +3,10 @@ date: '1937-09-22'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
 pages:
 - image: v03/17-171-411-122.jpg
 - image: v03/17-171-411-123.jpg
@@ -51,6 +55,8 @@ sublists:
       name: ВАЙСБЕРГ-ЗАВАДОВСКИЙ Михаил-Моисей Иудович
     - num: '10'
       name: ВЕДЕНЯПИН Михаил Александрович
+      pometa: true
+      pometa_text: 10 лет
     - num: '11'
       name: ВОЛЬСКИЙ Владимир Казимирович
     - num: '12'
@@ -65,6 +71,9 @@ sublists:
       name: ГОЛОСОВ Федор Леонтьевич
     - num: '17'
       name: ГОЦ Абрам Рафаилович
+      underlined: true
+      pometa: true
+      pometa_text: 10 лет
     - num: '18'
       name: ГУСЕВ-ЗНАМЕНСКИЙ Африкан Алексеевич
     - num: '19'

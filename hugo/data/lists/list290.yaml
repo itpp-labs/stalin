@@ -3,6 +3,11 @@ date: '1938-04-19'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
+signs:
+  stalin: true
+  molotov: true
+  jdanov: true
+  kaganovic: true
 pages:
 - image: v08/17-171-416-004.jpg
 - image: v08/17-171-416-005.jpg
@@ -114,6 +119,7 @@ sublists:
       name: БЕЛЯЕВ Федор Львович
     - num: '25'
       name: БЕРЗИН Ян Петрович
+      underlined: true
     - num: '26'
       name: БЕРЗИНА Антонина Петровна
     - num: '27'
@@ -350,6 +356,9 @@ sublists:
       name: КАСАТКИН Иван Михайлович
     - num: '119'
       name: КАСИМОВ Юсуф Ибад Оглы
+      underlined: true
+      pometa: true
+      pometa_text: 20 лет
     - num: '120'
       name: КЕДЕР Август Яковлевич
     - num: '121'
@@ -374,6 +383,7 @@ sublists:
       name: КОЗЛОВ Иван Нилович
     - num: '131'
       name: КОЗЛОВСКИЙ-БАТРАК Иван Андреевич
+      underlined: true
     - num: '132'
       name: КОМОР-КАЦБУРГ Имре Максович
     - num: '133'
@@ -584,6 +594,7 @@ sublists:
       name: ПАНКРАТЬЕВ Артемий Корнеевич
     - num: '212'
       name: ПАТРИКЕЕВ Николай Нилович
+      underlined: true
     - num: '213'
       name: ПАХОМОВ Яков Захарович
     - num: '214'
@@ -678,6 +689,7 @@ sublists:
       name: СЕЙСУМ-МИЛЛЕР Карл Карлович
     - num: '251'
       name: СЕЛИВАНОВСКИЙ Алексей Павлович
+      underlined: true
     - num: '252'
       name: СЕМЕНОВ Алексей Иосифович
   - page:

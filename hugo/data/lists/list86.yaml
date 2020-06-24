@@ -3,6 +3,11 @@ date: '1937-10-21'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
+signs:
+  stalin: true
+  molotov: true
+  voroshilov: true
+  mikoyan: true
 pages:
 - image: v04/17-171-412-075.jpg
 - image: v04/17-171-412-076.jpg
@@ -165,6 +170,7 @@ sublists:
       name: ОФИЦЕРОВ Василий Федорович
     - num: '57'
       name: ПОЛБИЦЫН Георгий Трофимович
+      striked: true
     - num: '58'
       name: ПОНАГАЙБО Николай Дмитриевич
   - page:
@@ -189,12 +195,14 @@ sublists:
       name: РАЕВСКИЙ Стефан Александрович
     - num: '61'
       name: РАКИТОВ Георгий Давыдович
+      striked: true
     - num: '62'
       name: РОГАЧЕВ Георгий Пахомович
     - num: '63'
       name: РОДИОНОВ Николай Николаевич
     - num: '64'
       name: РУМЯНЦЕВ Иван Петрович
+      striked: true
     - num: '65'
       name: СВЯТОЩИК Леонид Осипович
     - num: '66'

@@ -3,6 +3,9 @@ date: '1938-07-26'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v09/17-171-417-210.jpg
 - image: v09/17-171-417-211.jpg
@@ -140,6 +143,7 @@ sublists:
       name: ЕВТУШЕНКО Дмитрий Матвеевич
     - num: '46'
       name: ЕГОРОВ Александр Ильич
+      striked: true
     - num: '47'
       name: ЗАТОНСКИЙ Владимир Петрович
     - num: '48'

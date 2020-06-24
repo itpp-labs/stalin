@@ -4,6 +4,11 @@ name:
   lastname: Айхенвальд
   nameshow: АЙХЕНВАЛЬД Александр Юлиевич
   primname: ''
+kat: 1
+tom: 4
+geo_id: 49
+geosub_id: 1
+group_id: 0
 name_mixed:
   firstname: Айхенвальд
   midlastname: Александр Юлиевич
@@ -17,10 +22,11 @@ fond7:
 lists:
 - title: Список от 15 мая 1937 г. [Москва-центр] - РГАСПИ, ф.17, т.1, оп.171, дело
     409, лист 130
-  url: /lists/list16
+  url: /lists/list16#page-137-num-1
 - title: Список от 1 ноября 1937г. [Москва-центр] - РГАСПИ, ф.17, т.4, оп.171, дело
     412, лист 135
-  url: /lists/list93
+  url: /lists/list93#page-137-num-3
 gb_spravka:
   pages: []
   html: null
+pometa: true

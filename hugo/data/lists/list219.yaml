@@ -3,6 +3,12 @@ date: '1937-09-07'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
+signs:
+  stalin: true
+  molotov: true
+  kaganovic: true
+  voroshilov: true
+  ejov: true
 pages:
 - image: v03/17-171-411-019.jpg
 - image: v03/17-171-411-020.jpg
@@ -52,6 +58,7 @@ sublists:
       name: ЖЕЙЦ Иосиф Владиславович
     - num: '12'
       name: ЗЕРНОВ Михаил Николаевич
+      underlined: true
     - num: '13'
       name: ИВАНЮК Никифор Осипович
     - num: '14'

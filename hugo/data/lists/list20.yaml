@@ -3,6 +3,10 @@ date: '1937-06-14'
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
+signs:
+  stalin: true
+  molotov: true
+  voroshilov: true
 pages:
 - image: v01/17-171-409-158.jpg
 - image: v01/17-171-409-159.jpg
@@ -76,10 +80,13 @@ sublists:
       name: ЗИЛЬБЕРМАН Александр Ильич
     - num: '23'
       name: ЗОФ Вячеслав Иванович
+      underlined: true
     - num: '24'
       name: ЗЮК Михаил Осипович
+      underlined: true
     - num: '25'
       name: ИОЭЛЬСОН Фанни Филипповна
+      underlined: true
   - page:
       pageid: '161'
       tom: '1'
@@ -110,6 +117,7 @@ sublists:
       name: КУБАРЕВ Михаил Петрович
     - num: '32'
       name: КУЗЬМИЧЕВ Борис Иванович
+      underlined: true
     - num: '33'
       name: НОВИКОВ Андрей Мартынович
     - num: '34'
@@ -130,6 +138,7 @@ sublists:
       name: РЕМИЗОВ Константин Михайлович
     - num: '42'
       name: САБЛИН Юрий Владимирович
+      underlined: true
     - num: '43'
       name: САМАРЦЕВ Иван Матвеевич
     - num: '44'
@@ -138,12 +147,14 @@ sublists:
       name: СКИБИТСКАЯ-ЦЕЙТЛИН Мария Павловна
     - num: '46'
       name: СТЭН Ян Эрнестович
+      underlined: true
     - num: '47'
       name: ТРОФИМУК Николай Александрович
     - num: '48'
       name: УДАРОВ Алексей Николаевич
     - num: '49'
       name: УРЫВАЕВ Алексей Семенович
+      underlined: true
     - num: '50'
       name: УСОВИЧ Николай Иванович
   - page:
@@ -174,6 +185,7 @@ sublists:
       name: ЯНУШЕВСКИЙ Владимир Павлович
     - num: '56'
       name: ДИТЯТЕВА Людмила Федоровна
+      underlined: true
   - page:
       pageid: '163'
       tom: '1'

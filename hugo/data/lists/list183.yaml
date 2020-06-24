@@ -3,6 +3,9 @@ date: '1938-06-10'
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
+signs:
+  stalin: true
+  molotov: true
 pages:
 - image: v09/17-171-417-201.jpg
 - image: v09/17-171-417-202.jpg
@@ -115,6 +118,7 @@ sublists:
       name: КАРДЫШ Григорий Алексеевич
     - num: '33'
       name: КАШИРИН Николай Дмитриевич
+      underlined: true
     - num: '34'
       name: КЕРЕВИЦ Федор Федорович
     - num: '35'
