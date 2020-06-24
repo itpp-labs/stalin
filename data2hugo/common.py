@@ -16,7 +16,11 @@ LISTS_CSV=os.path.join(CSV_DIR, "lists.csv")
 SUBLISTS_CSV=os.path.join(CSV_DIR, "sublists.csv")
 LIST_TITLE_CSV=os.path.join(CSV_DIR, "listtitl.csv")
 PAGES_CSV=os.path.join(CSV_DIR, "pages.csv")
+OTHERS_CSV=os.path.join(CSV_DIR, "others.csv")
+POMETY_CSV=os.path.join(CSV_DIR, "pomety.csv")
+TITLES_CSV=os.path.join(CSV_DIR, "titles.csv")
 PERSON2PAGE_YAML="data2hugo/person2page.yaml"
+TITLE2GEOSUB_YAML="data2hugo/title2geosub.yaml"
 
 PERSONS_CSV=os.path.join(CSV_DIR, "persons.csv")
 SPRAVKI_CSV=os.path.join(CSV_DIR, "spravki.csv")
@@ -43,6 +47,14 @@ yaml.add_representer(folded_unicode, folded_unicode_representer)
 yaml.add_representer(literal_unicode, literal_unicode_representer)
 
 
+
+def extend_person(data, p, pometa_text=None):
+    for f in ["striked","underlined","pometa"]:
+        if p[f] == "1":
+            data[f] = True
+    if pometa_text:
+        data["pometa_text"] = pometa_text
+    return data
 
 def file2str(file_name, encoding="cp1251"):
     with open(file_name, "r", encoding=encoding) as f:
@@ -71,8 +83,8 @@ def file_writer(file_name, file_content):
     with open(file_name, 'w') as writer:
         writer.write(file_content)
 
-def json_writer(file_name, data):
-    file_writer(file_name, json.dumps(data, ensure_ascii=False))
+def json_writer(file_name, data, **kwargs):
+    file_writer(file_name, json.dumps(data, ensure_ascii=False, **kwargs))
 
 def yaml_writer(file_name, data):
     print ("write file: ", file_name)
@@ -113,7 +125,7 @@ def person_list2url(person, lst, sublst):
     # "pageintom": pp["pageintom"],
     # "rowinpage": pp["rowinpage"],
     # "nomer": pp["nomer"],
-    return "/lists/%s" % (list2name(lst))
+    return "/lists/%s#page-%s-num-%s" % (list2name(lst), person["pageintom"], person["nomer"])
 
 def clean_date(s):
     if not s or s == "0000-00-00" or s == "NULL":

@@ -40,6 +40,14 @@ def persons_index():
                 "midname": p["name"]["midname"],
                 "lastname": p["name"]["lastname"],
                 "nameshow": p["name"]["nameshow"],
+                "striked": p.get("striked", False),
+                "underlined": p.get("underlined", False),
+                "pometa": p.get("pometa", False),
+                "kat": p.get("kat"),
+                "tom": p.get("tom"),
+                "geo": p.get("geo_id"),
+                "geosub": p.get("geosub_id"),
+                "group": p.get("group_id"),
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
                 "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
@@ -57,6 +65,14 @@ def lists_index():
             data = {
                 "date": r["date"],
                 "title": r["title"],
+                "signstalin": r["signs"].get("stalin", False),
+                "signmolotov": r["signs"].get("molotov", False),
+                "signjdanov": r["signs"].get("jdanov", False),
+                "signkaganovic": r["signs"].get("kaganovic", False),
+                "signvoroshilov": r["signs"].get("voroshilov", False),
+                "signmikoyan": r["signs"].get("mikoyan", False),
+                "signejov": r["signs"].get("ejov", False),
+                "signkosior": r["signs"].get("kosior", False),
             }
             content = data2index("lists", doc_id, data)
             index_file.write(content)
