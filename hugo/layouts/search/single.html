@@ -276,9 +276,17 @@
             </div>
 
         </form>
+        <div id="stats" class="level is-hidden">
+            <div class="level-left">
+            </div>
 
+            <div class="level-right">
+                <em class="level-item">Записей найдено:&nbsp;<span id="search_count"></span></em>
+            </div>
+        </div>
         <div id="results">
         </div>
+        <button id="more" class="button is-large is-fullwidth is-hidden">Загрузить ещё</button>
 
     </main>
     {{ partial "footer" . }}

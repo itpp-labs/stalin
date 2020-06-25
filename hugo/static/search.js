@@ -142,14 +142,19 @@ $(document).ready(function(){
         clearTimeout(searchTimer);
         searchTimer = null;
     }
-    function make_search(){
+    function make_search(offset){
         clear_search_timer();
         if (searchPersons)
-            search_persons();
+            search_persons(offset || 0);
         else
             search_lists();
     }
+    $("#more").on("click", function(event){
+        // hide to avoid another click before data is loaded
+        $(this).addClass("is-hidden");
 
+        make_search(search_offset);
+    });
     $("#search_form input").on("input", function(event){
         start_search_timer();
     });
@@ -175,7 +180,11 @@ $(document).ready(function(){
         d[key] = value;
         return d;
     }
-    function search_persons(){
+    // pagination is applied for persons only
+    var search_offset;
+    var SEARCH_SIZE_FIRST = 30;
+    var SEARCH_SIZE = 1000;
+    function search_persons(offset){
         // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
         var query_bool = {
             "must": [],
@@ -196,9 +205,6 @@ $(document).ready(function(){
                     "match": get_obj(key, value)
                 });
             } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
-//                    query_bool.must.push({
-//                        "match": get_obj(key, true)
-//                    });
                 query_bool.must.push({
                     "term": get_obj(key, {"value": true})
                 });
@@ -232,9 +238,20 @@ $(document).ready(function(){
             }
         });
 
-        search("persons", query_bool).done(function( data ) {
-            render_persons(data.hits.hits);
-
+        search("persons", query_bool, offset).done(function( data ) {
+            render_persons(data.hits.hits, offset);
+            var fetched = data.hits.hits.length;
+            // total includes offset
+            var total = data.hits.total.value;
+            if (!offset) {
+                // it's first request
+                render_stats(data.hits.total);
+            }
+            offset += fetched;
+            search_offset = offset;
+            if (search_offset < total) {
+                $("#more").removeClass("is-hidden")
+            }
         }).fail(function( data ) {
             if (data){
                 console.log("Error", data);
@@ -287,6 +304,7 @@ $(document).ready(function(){
 
         search("lists", query_bool).done(function( data ) {
             render_lists(data.hits.hits);
+            render_stats(data.hits.total);
 
         }).fail(function( data ) {
             console.log("Error", data);
@@ -296,7 +314,7 @@ $(document).ready(function(){
         });
     }
 
-    function search(index_name, query_bool){
+    function search(index_name, query_bool, offset){
         if (!query_bool.should.length){
             delete query_bool.should;
         } else {
@@ -313,12 +331,14 @@ $(document).ready(function(){
         }
 
         var data = {
+            "track_total_hits": true,
             "query": {
                 "bool": query_bool
             }
         };
         if (index_name == "persons"){
-            data.size = 20; // TODO: make pagination
+            data.size = offset ? SEARCH_SIZE : SEARCH_SIZE_FIRST;
+            data.from = offset;
         } else {
             data.size = 1000;
         }
@@ -335,8 +355,10 @@ $(document).ready(function(){
         });
     }
 
-    function render_persons(records){
-        $("#results").empty();
+    function render_persons(records, append){
+        if (!append) {
+            $("#results").empty();
+        }
         if (!records.length){
             empty_results();
         }
@@ -388,8 +410,20 @@ $(document).ready(function(){
                 ));
         });
     }
+    function render_stats(total) {
+        $("#stats").removeClass("is-hidden");
+        var text = total.value;
+        if (total.relation != "eq"){
+            // it may happen only when track_total_hits is disabled
+            text += "+";
+        }
+        $("#search_count").text(text);
+    }
+
     function clear_results(){
         $("#results").empty();
+        $("#stats").addClass("is-hidden");
+        $("#more").addClass("is-hidden");
     }
     function empty_results(){
         $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
