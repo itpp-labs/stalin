@@ -95,6 +95,8 @@ $(document).ready(function(){
                 $elem = $("[name='{0}']".format(this));
                 if ($elem.is("select")){
                     $elem.val("0");
+                } else if ($elem.is(":checkbox")){
+                    $elem.prop("checked", false);
                 } else {
                     $elem.val("");
                 }
