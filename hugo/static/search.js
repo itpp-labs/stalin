@@ -16,11 +16,11 @@ PERSON_FIELDS = [
     "global_search",
     "korpus", "tom",
     "geo", "geosub", "group", "kat",
-    "underlined", "striked", "pometa",
-    "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"
+    "underlined", "striked", "pometa"
 ];
 
 LIST_FIELDS = [
+    "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior",
     "date_from", "date_to"
 ];
 
