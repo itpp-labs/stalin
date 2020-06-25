@@ -80,6 +80,11 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                             Поиск списков
                         </a>
                     </li>
+                    <li id="clear_form">
+                        <a>
+                            Очистить
+                        </a>
+                    </li>
                 </ul>
             </div>
 
@@ -129,7 +134,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                 <div class="field-body">
                     <div class="field">
                         <p class="control is-expanded has-icons-left">
-                            <input name="date_from" class="input" type="text" placeholder="01.12.1937">
+                            <input name="date_from" disabled class="input" type="text" placeholder="01.12.1937">
                             <span class="icon is-small is-left">
                                 <i class="fas fa-calendar"></i>
                             </span>
@@ -137,7 +142,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded has-icons-left">
-                            <input name="date_to" class="input" type="text" placeholder="31.12.1937">
+                            <input name="date_to" disabled class="input" type="text" placeholder="31.12.1937">
                             <span class="icon is-small is-left">
                                 <i class="fas fa-calendar"></i>
                             </span>
@@ -267,7 +272,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signstalin" type="checkbox">
+                                <input name="signstalin" type="checkbox" disabled>
                                 Сталин
                             </label>
                         </p>
@@ -275,7 +280,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signmolotov" type="checkbox">
+                                <input name="signmolotov" type="checkbox" disabled>
                                 Молотов
                             </label>
                         </p>
@@ -283,7 +288,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signjdanov" type="checkbox">
+                                <input name="signjdanov" type="checkbox" disabled>
                                 Жданов
                             </label>
                         </p>
@@ -291,7 +296,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signkaganovic" type="checkbox">
+                                <input name="signkaganovic" type="checkbox" disabled>
                                 Каганович
                             </label>
                         </p>
@@ -299,7 +304,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signvoroshilov" type="checkbox">
+                                <input name="signvoroshilov" type="checkbox" disabled>
                                 Ворошилов
                             </label>
                         </p>
@@ -307,7 +312,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signmikoyan" type="checkbox">
+                                <input name="signmikoyan" type="checkbox" disabled>
                                 Микоян
                             </label>
                         </p>
@@ -315,7 +320,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signejov" type="checkbox">
+                                <input name="signejov" type="checkbox" disabled>
                                 Ежов
                             </label>
                         </p>
@@ -323,7 +328,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     <div class="field">
                         <p class="control is-expanded">
                             <label class="checkbox">
-                                <input name="signkosior" type="checkbox">
+                                <input name="signkosior" type="checkbox" disabled>
                                 Косиор
                             </label>
                         </p>
@@ -332,9 +337,17 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
             </div>
 
         </form>
+        <div id="stats" class="level is-hidden">
+            <div class="level-left">
+            </div>
 
+            <div class="level-right">
+                <em class="level-item">Записей найдено:&nbsp;<span id="search_count"></span></em>
+            </div>
+        </div>
         <div id="results">
         </div>
+        <button id="more" class="button is-large is-fullwidth is-hidden">Загрузить ещё</button>
 
     </main>
     
