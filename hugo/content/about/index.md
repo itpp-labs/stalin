@@ -1,5 +1,6 @@
 ---
 type: about
+title: О проекте
 ---
 
 {{< rawhtml >}}
