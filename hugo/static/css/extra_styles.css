@@ -14,3 +14,15 @@ div:target {
 .person .pometa {
     font-style: italic;
 }
+
+
+/* Make tabs responsive
+*/
+@media screen and (max-width: 768px) {
+    .tabs ul {
+	      flex-direction: column;
+    }
+    .tabs ul li {
+	      width: 100%;
+    }
+}
