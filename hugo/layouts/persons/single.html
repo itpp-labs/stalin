@@ -29,7 +29,7 @@
 
 
         {{ if $data.gb_spravka.html }}
-        <h1>Версия следствия</h1>
+        <h1 id="gb">Версия следствия</h1>
         {{ $data.gb_spravka.html | safeHTML }}
         {{ end }}
         {{ range $data.gb_spravka.pages }}
