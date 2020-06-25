@@ -11,6 +11,19 @@ if (!String.prototype.format) {
     };
 }
 
+PERSON_FIELDS = [
+    "firstname", "midname", "lastname",
+    "global_search",
+    "korpus", "tom",
+    "geo", "geosub", "group", "kat",
+    "underlined", "striked", "pometa",
+    "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"
+];
+
+LIST_FIELDS = [
+    "date_from", "date_to"
+];
+
 $(document).ready(function(){
     // korpus, tom
     $.each(KORPUSA, function(id, data){
@@ -61,8 +74,29 @@ $(document).ready(function(){
 
 
     var searchPersons = true;
+    var ALL_FIELDS;
     $('#search_form .tabs li').on('click', function() {
-        searchPersons = $(this).attr('id') == "search_persons";
+        var id = $(this).attr('id');
+        if (id == "clear_form"){
+            clear_results();
+            if (!ALL_FIELDS){
+                ALL_FIELDS = PERSON_FIELDS.concat(LIST_FIELDS);
+                // https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
+                ALL_FIELDS.filter(function(item, pos) {
+                    return ALL_FIELDS.indexOf(item) == pos;
+                });
+            }
+            $.each(ALL_FIELDS, function(){
+                $elem = $("[name='{0}']".format(this));
+                if ($elem.is("select")){
+                    $elem.val("0");
+                } else {
+                    $elem.val("");
+                }
+            });
+            return;
+        }
+        searchPersons = id == "search_persons";
 
         $(this).parent().find('li').removeClass('is-active');
         $(this).addClass('is-active');
@@ -333,7 +367,7 @@ $(document).ready(function(){
         $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
     }
     function error_on_search(data){
-        $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText));
+        $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText || ""));
     }
 
 
