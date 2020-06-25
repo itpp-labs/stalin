@@ -36,7 +36,7 @@ $(document).ready(function(){
     function update_tom_options(korpus_id){
         var toms = KORPUSA[korpus_id].toms;
         var val = $("select[name='tom']").val();
-        if (toms.indexOf(val) == -1)
+        if (toms.indexOf(val) === -1)
             val = "0";
         $("select[name='tom'] option").not(":first").remove();
         $.each(toms, function(){
@@ -63,12 +63,16 @@ $(document).ready(function(){
     function update_geosub_options(geo_id){
         var geosubs = GEOSUB[geo_id] || {};
         $("select[name='geosub'] option").not(":first").remove();
-        // TODO: disable selector, if there is no options
         $.each(geosubs, function(geosub_id, title){
             $("select[name='geosub']").append(
                 '<option value="{0}">{1}</option>'.format(geosub_id, title)
             );
         });
+        if ($.isEmptyObject(geosubs)){
+            $("select[name='geosub']").attr("disabled", "disabled");
+        } else {
+            $("select[name='geosub']").removeAttr("disabled")
+        }
     };
     update_geosub_options("0");
 
@@ -76,16 +80,17 @@ $(document).ready(function(){
     var searchPersons = true;
     var ALL_FIELDS;
     $('#search_form .tabs li').on('click', function() {
+        if (!ALL_FIELDS){
+            ALL_FIELDS = PERSON_FIELDS.concat(LIST_FIELDS);
+            // https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
+            ALL_FIELDS.filter(function(item, pos) {
+                return ALL_FIELDS.indexOf(item) === pos;
+            });
+        }
+
         var id = $(this).attr('id');
         if (id == "clear_form"){
             clear_results();
-            if (!ALL_FIELDS){
-                ALL_FIELDS = PERSON_FIELDS.concat(LIST_FIELDS);
-                // https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
-                ALL_FIELDS.filter(function(item, pos) {
-                    return ALL_FIELDS.indexOf(item) == pos;
-                });
-            }
             $.each(ALL_FIELDS, function(){
                 $elem = $("[name='{0}']".format(this));
                 if ($elem.is("select")){
@@ -101,7 +106,25 @@ $(document).ready(function(){
         $(this).parent().find('li').removeClass('is-active');
         $(this).addClass('is-active');
 
-        // TODO: disable unused fields
+        // disable unused fields
+        var active_fields;
+        if (searchPersons) {
+            active_fields = PERSON_FIELDS;
+        } else {
+            active_fields = LIST_FIELDS;
+        }
+        $.each(ALL_FIELDS, function(i, name){
+            $elem = $("[name='{0}']".format(name));
+            if (active_fields.indexOf(name) !== -1){
+                if (!$elem.is("select") || $elem.find("option").length > 1) {
+                    $elem.removeAttr("disabled");
+                }
+            } else {
+                $elem.attr("disabled", "disabled");
+            }
+        });
+        make_search();
+
     });
 
     var searchTimer;
@@ -125,8 +148,11 @@ $(document).ready(function(){
             search_lists();
     }
 
-    $("#search_form input").on("input propertychange paste", function(event){
+    $("#search_form input").on("input", function(event){
         start_search_timer();
+    });
+    $("#search_form input").on("propertychange paste", function(event){
+        make_search();
     });
     $("#search_form select").on("change", function(event){
         $elem = $(this);
@@ -158,16 +184,16 @@ $(document).ready(function(){
             var value = this.value;
             if (!value)
                 return;
-            if (["korpus", "tom", "geo", "geosub", "group", "kat"].indexOf(key) != -1) {
+            if (["korpus", "tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1) {
                 value = parseInt(value);
                 if (!value)
                     return;
             }
-            if (["firstname", "midname", "lastname"].indexOf(key) != -1) {
+            if (["firstname", "midname", "lastname"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, value)
                 });
-            } else if (["underlined", "striked", "pometa"].indexOf(key) != -1) {
+            } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
 //                    query_bool.must.push({
 //                        "match": get_obj(key, true)
 //                    });
@@ -186,7 +212,7 @@ $(document).ready(function(){
                         }
                     });
                 }
-            } else if (["tom", "geo", "geosub", "group", "kat"].indexOf(key) != -1) {
+            } else if (["tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "term": get_obj(key, {"value": value})
                 });
@@ -230,7 +256,7 @@ $(document).ready(function(){
             var value = this.value;
             if (!value)
                 return;
-            if (["date_from", "date_to"].indexOf(key) != -1) {
+            if (["date_from", "date_to"].indexOf(key) !== -1) {
                 var date = value.split(".");
                 if (date.length != 3)
                     return;
@@ -243,7 +269,7 @@ $(document).ready(function(){
                     date_range.gte = date;
                 else
                     date_range.lte = date;
-            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) != -1) {
+            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, true)
                 });
