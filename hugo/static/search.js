@@ -11,6 +11,19 @@ if (!String.prototype.format) {
     };
 }
 
+PERSON_FIELDS = [
+    "firstname", "midname", "lastname",
+    "global_search",
+    "korpus", "tom",
+    "geo", "geosub", "group", "kat",
+    "underlined", "striked", "pometa"
+];
+
+LIST_FIELDS = [
+    "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior",
+    "date_from", "date_to"
+];
+
 $(document).ready(function(){
     // korpus, tom
     $.each(KORPUSA, function(id, data){
@@ -23,7 +36,7 @@ $(document).ready(function(){
     function update_tom_options(korpus_id){
         var toms = KORPUSA[korpus_id].toms;
         var val = $("select[name='tom']").val();
-        if (toms.indexOf(val) == -1)
+        if (toms.indexOf(val) === -1)
             val = "0";
         $("select[name='tom'] option").not(":first").remove();
         $.each(toms, function(){
@@ -50,24 +63,70 @@ $(document).ready(function(){
     function update_geosub_options(geo_id){
         var geosubs = GEOSUB[geo_id] || {};
         $("select[name='geosub'] option").not(":first").remove();
-        // TODO: disable selector, if there is no options
         $.each(geosubs, function(geosub_id, title){
             $("select[name='geosub']").append(
                 '<option value="{0}">{1}</option>'.format(geosub_id, title)
             );
         });
+        if ($.isEmptyObject(geosubs)){
+            $("select[name='geosub']").attr("disabled", "disabled");
+        } else {
+            $("select[name='geosub']").removeAttr("disabled")
+        }
     };
     update_geosub_options("0");
 
 
     var searchPersons = true;
+    var ALL_FIELDS;
     $('#search_form .tabs li').on('click', function() {
-        searchPersons = $(this).attr('id') == "search_persons";
+        if (!ALL_FIELDS){
+            ALL_FIELDS = PERSON_FIELDS.concat(LIST_FIELDS);
+            // https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
+            ALL_FIELDS.filter(function(item, pos) {
+                return ALL_FIELDS.indexOf(item) === pos;
+            });
+        }
+
+        var id = $(this).attr('id');
+        if (id == "clear_form"){
+            clear_results();
+            $.each(ALL_FIELDS, function(){
+                $elem = $("[name='{0}']".format(this));
+                if ($elem.is("select")){
+                    $elem.val("0");
+                } else if ($elem.is(":checkbox")){
+                    $elem.prop("checked", false);
+                } else {
+                    $elem.val("");
+                }
+            });
+            return;
+        }
+        searchPersons = id == "search_persons";
 
         $(this).parent().find('li').removeClass('is-active');
         $(this).addClass('is-active');
 
-        // TODO: disable unused fields
+        // disable unused fields
+        var active_fields;
+        if (searchPersons) {
+            active_fields = PERSON_FIELDS;
+        } else {
+            active_fields = LIST_FIELDS;
+        }
+        $.each(ALL_FIELDS, function(i, name){
+            $elem = $("[name='{0}']".format(name));
+            if (active_fields.indexOf(name) !== -1){
+                if (!$elem.is("select") || $elem.find("option").length > 1) {
+                    $elem.removeAttr("disabled");
+                }
+            } else {
+                $elem.attr("disabled", "disabled");
+            }
+        });
+        make_search();
+
     });
 
     var searchTimer;
@@ -83,16 +142,24 @@ $(document).ready(function(){
         clearTimeout(searchTimer);
         searchTimer = null;
     }
-    function make_search(){
+    function make_search(offset){
         clear_search_timer();
         if (searchPersons)
-            search_persons();
+            search_persons(offset || 0);
         else
             search_lists();
     }
+    $("#more").on("click", function(event){
+        // hide to avoid another click before data is loaded
+        $(this).addClass("is-hidden");
 
-    $("#search_form input").on("input propertychange paste", function(event){
+        make_search(search_offset);
+    });
+    $("#search_form input").on("input", function(event){
         start_search_timer();
+    });
+    $("#search_form input").on("propertychange paste", function(event){
+        make_search();
     });
     $("#search_form select").on("change", function(event){
         $elem = $(this);
@@ -113,7 +180,11 @@ $(document).ready(function(){
         d[key] = value;
         return d;
     }
-    function search_persons(){
+    // pagination is applied for persons only
+    var search_offset;
+    var SEARCH_SIZE_FIRST = 30;
+    var SEARCH_SIZE = 1000;
+    function search_persons(offset){
         // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
         var query_bool = {
             "must": [],
@@ -124,19 +195,16 @@ $(document).ready(function(){
             var value = this.value;
             if (!value)
                 return;
-            if (["korpus", "tom", "geo", "geosub", "group", "kat"].indexOf(key) != -1) {
+            if (["korpus", "tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1) {
                 value = parseInt(value);
                 if (!value)
                     return;
             }
-            if (["firstname", "midname", "lastname"].indexOf(key) != -1) {
+            if (["firstname", "midname", "lastname"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, value)
                 });
-            } else if (["underlined", "striked", "pometa"].indexOf(key) != -1) {
-//                    query_bool.must.push({
-//                        "match": get_obj(key, true)
-//                    });
+            } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "term": get_obj(key, {"value": true})
                 });
@@ -152,7 +220,7 @@ $(document).ready(function(){
                         }
                     });
                 }
-            } else if (["tom", "geo", "geosub", "group", "kat"].indexOf(key) != -1) {
+            } else if (["tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "term": get_obj(key, {"value": value})
                 });
@@ -170,9 +238,20 @@ $(document).ready(function(){
             }
         });
 
-        search("persons", query_bool).done(function( data ) {
-            render_persons(data.hits.hits);
-
+        search("persons", query_bool, offset).done(function( data ) {
+            render_persons(data.hits.hits, offset);
+            var fetched = data.hits.hits.length;
+            // total includes offset
+            var total = data.hits.total.value;
+            if (!offset) {
+                // it's first request
+                render_stats(data.hits.total);
+            }
+            offset += fetched;
+            search_offset = offset;
+            if (search_offset < total) {
+                $("#more").removeClass("is-hidden")
+            }
         }).fail(function( data ) {
             if (data){
                 console.log("Error", data);
@@ -196,7 +275,7 @@ $(document).ready(function(){
             var value = this.value;
             if (!value)
                 return;
-            if (["date_from", "date_to"].indexOf(key) != -1) {
+            if (["date_from", "date_to"].indexOf(key) !== -1) {
                 var date = value.split(".");
                 if (date.length != 3)
                     return;
@@ -209,7 +288,7 @@ $(document).ready(function(){
                     date_range.gte = date;
                 else
                     date_range.lte = date;
-            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) != -1) {
+            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, true)
                 });
@@ -225,6 +304,7 @@ $(document).ready(function(){
 
         search("lists", query_bool).done(function( data ) {
             render_lists(data.hits.hits);
+            render_stats(data.hits.total);
 
         }).fail(function( data ) {
             console.log("Error", data);
@@ -234,7 +314,7 @@ $(document).ready(function(){
         });
     }
 
-    function search(index_name, query_bool){
+    function search(index_name, query_bool, offset){
         if (!query_bool.should.length){
             delete query_bool.should;
         } else {
@@ -251,12 +331,14 @@ $(document).ready(function(){
         }
 
         var data = {
+            "track_total_hits": true,
             "query": {
                 "bool": query_bool
             }
         };
         if (index_name == "persons"){
-            data.size = 20; // TODO: make pagination
+            data.size = offset ? SEARCH_SIZE : SEARCH_SIZE_FIRST;
+            data.from = offset;
         } else {
             data.size = 1000;
         }
@@ -273,8 +355,10 @@ $(document).ready(function(){
         });
     }
 
-    function render_persons(records){
-        $("#results").empty();
+    function render_persons(records, append){
+        if (!append) {
+            $("#results").empty();
+        }
         if (!records.length){
             empty_results();
         }
@@ -326,14 +410,26 @@ $(document).ready(function(){
                 ));
         });
     }
+    function render_stats(total) {
+        $("#stats").removeClass("is-hidden");
+        var text = total.value;
+        if (total.relation != "eq"){
+            // it may happen only when track_total_hits is disabled
+            text += "+";
+        }
+        $("#search_count").text(text);
+    }
+
     function clear_results(){
         $("#results").empty();
+        $("#stats").addClass("is-hidden");
+        $("#more").addClass("is-hidden");
     }
     function empty_results(){
         $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
     }
     function error_on_search(data){
-        $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText));
+        $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText || ""));
     }
 
 
