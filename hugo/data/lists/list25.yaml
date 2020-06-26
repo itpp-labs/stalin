@@ -31,54 +31,104 @@ sublists:
       pometa: '33'
     page_image: v01/17-171-409-197.jpg
     persons:
-    - num: '1'
+    - id: '2965'
+      num: '1'
       name: БОГУСЛАВСКИЙ Михаил Лазаревич
-    - num: '2'
+      spravka: true
+    - id: '2966'
+      num: '2'
       name: БУКШТЕЙН Иосиф Лазаревич
-    - num: '3'
+      spravka: true
+    - id: '2967'
+      num: '3'
       name: БУЛЫГИН Николай Митрофанович
-    - num: '4'
+      spravka: true
+    - id: '2968'
+      num: '4'
       name: БЫХОВСКИЙ Сергей Матвеевич
-    - num: '5'
+      spravka: true
+    - id: '2969'
+      num: '5'
       name: ВИНЕЦКИЙ Игорь Васильевич
-    - num: '6'
+      spravka: true
+    - id: '5912'
+      num: '6'
       name: ВОЛОВИЧ Захар Ильич
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '2971'
+      num: '7'
       name: ГАЙ Марк Исаевич
-    - num: '8'
+      spravka: true
+    - id: '2972'
+      num: '8'
       name: ГОЛОВ Григорий Васильевич
-    - num: '9'
+      spravka: true
+    - id: '2973'
+      num: '9'
       name: ГОЛЬДФАРБ Ян Владимирович
-    - num: '10'
+      spravka: true
+    - id: '2974'
+      num: '10'
       name: ГРАЦ Николай Николаевич
-    - num: '11'
+      spravka: true
+    - id: '2975'
+      num: '11'
       name: ИВАНОВ Лаврентий Никифорович
-    - num: '12'
+      spravka: true
+    - id: '2976'
+      num: '12'
       name: ИВАНОВ Лев Александрович
-    - num: '13'
+      spravka: true
+    - id: '2977'
+      num: '13'
       name: ИВАНОВ-МАЛЬЦЕВ Александр Александрович
-    - num: '14'
+      spravka: true
+    - id: '2978'
+      num: '14'
       name: ИЛЬК Бертольд Карлович
-    - num: '15'
+      spravka: true
+    - id: '2979'
+      num: '15'
       name: КОРОТКОВ Михаил Петрович
-    - num: '16'
+      spravka: true
+    - id: '2980'
+      num: '16'
       name: КРИВОШЕЕВ Алексей Мартынович
-    - num: '17'
+      spravka: true
+    - id: '2981'
+      num: '17'
       name: ЛАПИН Василий Константинович
-    - num: '18'
+      spravka: true
+    - id: '2982'
+      num: '18'
       name: ЛУРЬЕ Александр Яковлевич
-    - num: '19'
+      spravka: true
+    - id: '2983'
+      num: '19'
       name: НИВОЛИК Макс Иосифович
-    - num: '20'
+      spravka: true
+    - id: '2984'
+      num: '20'
       name: НИКОЛАЕВСКИЙ Сергей Николаевич
-    - num: '21'
+      spravka: true
+    - id: '2985'
+      num: '21'
       name: ОСТРОВСКИЙ Иосиф Маркович
-    - num: '22'
+      spravka: true
+    - id: '2986'
+      num: '22'
       name: ПАКАЛН Петр Петрович
-    - num: '23'
+      spravka: true
+    - id: '5925'
+      num: '23'
       name: ПАУКЕР Карл Викторович
-    - num: '24'
+      doublesexists: true
+      spravka: true
+    - id: '2988'
+      num: '24'
       name: ПУЗИЦКИЙ Сергей Васильевич
+      spravka: true
   - page:
       pageid: '198'
       tom: '1'
@@ -95,23 +145,43 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-198.jpg
     persons:
-    - num: '25'
+    - id: '2989'
+      num: '25'
       name: РОЗЕНШЕЙН Александр Яковлевич
-    - num: '26'
+      spravka: true
+    - id: '5927'
+      num: '26'
       name: САВОЛАЙНЕН Иван Михайлович
       striked: true
       underlined: true
-    - num: '27'
+      doublesexists: true
+      spravka: true
+    - id: '2991'
+      num: '27'
       name: СТАНИСЛАВСКИЙ Макс Оскарович
-    - num: '28'
+      spravka: true
+    - id: '2992'
+      num: '28'
       name: ТКАЧЕВ Михаил Львович
-    - num: '29'
+      spravka: true
+    - id: '2993'
+      num: '29'
       name: УМАНСКИЙ Михаил Васильевич
-    - num: '30'
+      spravka: true
+    - id: '2994'
+      num: '30'
       name: ФРЕНКЕЛЬ Яков Иосифович
-    - num: '31'
+      spravka: true
+    - id: '2995'
+      num: '31'
       name: ФРИДЛЯНД Иосиф Соломонович
-    - num: '32'
+      spravka: true
+    - id: '5933'
+      num: '32'
       name: ШАНИН Александр Михайлович
-    - num: '33'
+      doublesexists: true
+      spravka: true
+    - id: '2997'
+      num: '33'
       name: ЭЙХМАН Альфред Адамович
+      spravka: true

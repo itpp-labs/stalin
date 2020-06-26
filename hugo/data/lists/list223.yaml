@@ -31,56 +31,103 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-051.jpg
     persons:
-    - num: '1'
+    - id: '8186'
+      num: '1'
       name: АВДОНИН Андрей Ефимович
-    - num: '2'
+      spravka: true
+    - id: '8187'
+      num: '2'
       name: АКУНИШНИКОВ Константин Степанович
-    - num: '3'
+      spravka: true
+    - id: '24763'
+      num: '3'
       name: БЕДАВКИН Василий Васильевич
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '8189'
+      num: '4'
       name: БЕЛУГИН Дмитрий Евгеньевич
-    - num: '5'
+      spravka: true
+    - id: '8190'
+      num: '5'
       name: БОГОМОЛОВ Яков Александрович
-    - num: '6'
+      spravka: true
+    - id: '8191'
+      num: '6'
       name: БУРКО Елисей Афонасьевич
-    - num: '7'
+    - id: '8192'
+      num: '7'
       name: ВЕЛЛЕР Моисей Абрамович
-    - num: '8'
+      spravka: true
+    - id: '8193'
+      num: '8'
       name: ВЕНГЕР Карл Степанович
-    - num: '9'
+      spravka: true
+    - id: '8194'
+      num: '9'
       name: ВОЛЕГОЕВ Александр Павлович
-    - num: '10'
+      spravka: true
+    - id: '8195'
+      num: '10'
       name: ГОЛУБЕВ Петр Петрович
-    - num: '11'
+      spravka: true
+    - id: '8196'
+      num: '11'
       name: ГРИБАНОВ Николай Кондратьевич
-    - num: '12'
+    - id: '8197'
+      num: '12'
       name: ДЕДКОВ Андрей Осипович
-    - num: '13'
+      spravka: true
+    - id: '8198'
+      num: '13'
       name: ДЕТКОВ Сергей Васильевич
-    - num: '14'
+    - id: '8199'
+      num: '14'
       name: ДЖИБАЛАДЗЕ Сергей Георгиевич
-    - num: '15'
+      spravka: true
+    - id: '8200'
+      num: '15'
       name: ДИТЮК Анатолий Иванович
-    - num: '16'
+      spravka: true
+    - id: '8201'
+      num: '16'
       name: ДОНЧИК Афанасий Васильевич
-    - num: '17'
+      spravka: true
+    - id: '8202'
+      num: '17'
       name: ЗАПЕВИН Михаил Филиппович
-    - num: '18'
+      spravka: true
+    - id: '8203'
+      num: '18'
       name: ЗОРЬКА Василий Ефимович
-    - num: '19'
+      spravka: true
+    - id: '8204'
+      num: '19'
       name: ИГНАТЕНКО Виктор Николаевич
-    - num: '20'
+      spravka: true
+    - id: '8205'
+      num: '20'
       name: КЛУР Евсей Абрамович
-    - num: '21'
+      spravka: true
+    - id: '8206'
+      num: '21'
       name: КОЛЧАНКИН Михаил Артемьевич
-    - num: '22'
+    - id: '8207'
+      num: '22'
       name: КОЛЬЧЕВСКИЙ Александр Константинович
-    - num: '23'
+      spravka: true
+    - id: '8208'
+      num: '23'
       name: КРИКУНОВСКИЙ Борис Алексеевич
-    - num: '24'
+      spravka: true
+    - id: '8209'
+      num: '24'
       name: КУШЕЛЮК Александр Карпович
-    - num: '25'
+      spravka: true
+    - id: '8210'
+      num: '25'
       name: МАКАРОВ Александр Павлович
+      spravka: true
   - page:
       pageid: '644'
       tom: '3'
@@ -97,43 +144,74 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-052.jpg
     persons:
-    - num: '26'
+    - id: '8211'
+      num: '26'
       name: МАЛЬЦЕВ Михаил Ефимович
-    - num: '27'
+      spravka: true
+    - id: '8212'
+      num: '27'
       name: МАНГУБИ Юрий Абрамович
-    - num: '28'
+    - id: '8213'
+      num: '28'
       name: МАТВЕЕВ Анатолий Александрович
-    - num: '29'
+      spravka: true
+    - id: '8214'
+      num: '29'
       name: МЕТУСАЛЛО Август Кузьмич
-    - num: '30'
+    - id: '8215'
+      num: '30'
       name: НЕГРИСКУЛ Модест Леонидович
-    - num: '31'
+      spravka: true
+    - id: '8216'
+      num: '31'
       name: НИКОЛАЕВ Василий Федорович
-    - num: '32'
+      spravka: true
+    - id: '8217'
+      num: '32'
       name: ПАВЛИЦКИЙ Семен Петрович
-    - num: '33'
+    - id: '8218'
+      num: '33'
       name: РЕЗНИКОВ Иуда Семенович
-    - num: '34'
+      spravka: true
+    - id: '8219'
+      num: '34'
       name: РОЙТМАН Михаил Маркович
-    - num: '35'
+      spravka: true
+    - id: '8220'
+      num: '35'
       name: РОМАНОВ Евдоким Григорьевич
-    - num: '36'
+    - id: '8221'
+      num: '36'
       name: СЕРЕБРЯНЫЙ Авраам Львович
-    - num: '37'
+    - id: '8222'
+      num: '37'
       name: СИЛУАНОВ Боне Петрович
-    - num: '38'
+      spravka: true
+    - id: '8223'
+      num: '38'
       name: СОСНИН Валентин Степанович
-    - num: '39'
+    - id: '8224'
+      num: '39'
       name: ТОЛМЫРЬ Анатолий Васильевич
-    - num: '40'
+    - id: '8225'
+      num: '40'
       name: ФЕРАПОНТОВ Митрофан Васильевич
-    - num: '41'
+      spravka: true
+    - id: '8226'
+      num: '41'
       name: ЧИСТЮХИН Илья Ефимович
-    - num: '42'
+      spravka: true
+    - id: '8227'
+      num: '42'
       name: ЭЙХГОРН Николай Николаевич
-    - num: '1'
+      spravka: true
+    - id: '24774'
+      num: '1'
       name: БЕРЕСТНЕВ Ефим Михайлович
-    - num: '2'
+      doublesexists: true
+    - id: '8229'
+      num: '2'
       name: НЕМКЕВИЧ Константин Осипович
-    - num: '3'
+    - id: '8230'
+      num: '3'
       name: ОЛЕЙНИК Никифор Захарович

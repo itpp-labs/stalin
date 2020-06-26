@@ -40,52 +40,96 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-003.jpg
     persons:
-    - num: '1'
+    - id: '14047'
+      num: '1'
       name: БАБУШКИН Николай Семенович
-    - num: '2'
+      spravka: true
+    - id: '14048'
+      num: '2'
       name: БАРЫШНИКОВ Михаил Васильевич
-    - num: '3'
+      spravka: true
+    - id: '14049'
+      num: '3'
       name: БОГРЯНОВ Михаил Иванович
-    - num: '4'
+      spravka: true
+    - id: '14050'
+      num: '4'
       name: БРИГАДЕР Арвид Арвидович
-    - num: '5'
+      spravka: true
+    - id: '14051'
+      num: '5'
       name: ВАЛЬДЕЙТ Дмитрий Петрович
-    - num: '6'
+      spravka: true
+    - id: '14052'
+      num: '6'
       name: ВИЛЬГЕЛЬМСОН Виктория Рудольфовна
-    - num: '7'
+      spravka: true
+    - id: '14053'
+      num: '7'
       name: ВИННИКОВ Иосиф Менделеевич
-    - num: '8'
+      spravka: true
+    - id: '14054'
+      num: '8'
       name: ВОЛЫНСКАЯ-РЫЛЬСКАЯ Лидия Григорьевна
-    - num: '9'
+      spravka: true
+    - id: '14055'
+      num: '9'
       name: ГОЛОДУБОВ Петр Васильевич
-    - num: '10'
+      spravka: true
+    - id: '14056'
+      num: '10'
       name: ГОЛЬДБЕРГ Самуил Львович
-    - num: '11'
+      spravka: true
+    - id: '14057'
+      num: '11'
       name: ГОЛЬФАРБ Иосиф Давыдович
-    - num: '12'
+      spravka: true
+    - id: '14058'
+      num: '12'
       name: ГОРЕЛИН Александр Петрович
-    - num: '13'
+      spravka: true
+    - id: '14059'
+      num: '13'
       name: ДЛУГАЧ Мария Соломоновна
-    - num: '14'
+      spravka: true
+    - id: '14060'
+      num: '14'
       name: ДЛУГОЦКИЙ Лев Иванович
-    - num: '15'
+      spravka: true
+    - id: '14061'
+      num: '15'
       name: ЕВТЕЕВ Андрей Федорович
-    - num: '16'
+      spravka: true
+    - id: '14062'
+      num: '16'
       name: ЗАКРЖЕВСКИЙ Станислав Петрович, он же <br />ГЕРЦБЕРГ Авраам Львович
-    - num: '17'
+      spravka: true
+    - id: '14063'
+      num: '17'
       name: ЗДОБНОВ Александр Зиновьевич
-    - num: '18'
+      spravka: true
+    - id: '14064'
+      num: '18'
       name: ИЗРАИЛЬСОН Леон Маркович
-    - num: '19'
+      spravka: true
+    - id: '14065'
+      num: '19'
       name: ИОФФЕ Яков Моисеевич
-    - num: '20'
+      spravka: true
+    - id: '14066'
+      num: '20'
       name: ЛИБИНСОН Соломон Львович
       underlined: true
-    - num: '21'
+      spravka: true
+    - id: '14067'
+      num: '21'
       name: ЛОВИН Казимир Петрович
       underlined: true
-    - num: '22'
+      spravka: true
+    - id: '14068'
+      num: '22'
       name: ЛЮБИЧ Алексей Иванович
+      spravka: true
   - page:
       pageid: '1128'
       tom: '5'
@@ -102,43 +146,79 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-004.jpg
     persons:
-    - num: '23'
+    - id: '14069'
+      num: '23'
       name: МАЙОФИС Абрам Григорьевич
-    - num: '24'
+      spravka: true
+    - id: '14070'
+      num: '24'
       name: МАКОВЕЦКАЯ Елена Нестеровна
-    - num: '25'
+      spravka: true
+    - id: '14071'
+      num: '25'
       name: МАЛЕЦКИЙ Александр Маврикеевич
-    - num: '26'
+      spravka: true
+    - id: '14072'
+      num: '26'
       name: МУСИН-ПУШКИН Иван Дмитриевич
-    - num: '27'
+      spravka: true
+    - id: '14073'
+      num: '27'
       name: НЕМЧИНОВ Константин Тихонович
-    - num: '28'
+      spravka: true
+    - id: '14074'
+      num: '28'
       name: НОЖНИЦКАЯ Иэтта Иосифовна
-    - num: '29'
+      spravka: true
+    - id: '14075'
+      num: '29'
       name: ОРТИНСКИЙ Дмитрий Владимирович
-    - num: '30'
+      spravka: true
+    - id: '14076'
+      num: '30'
       name: ПЕСТКОВСКИЙ Станислав Станиславович
-    - num: '31'
+      spravka: true
+    - id: '14077'
+      num: '31'
       name: ПОЛУМОРДВИНОВ Дмитрий Федорович
-    - num: '32'
+      spravka: true
+    - id: '14078'
+      num: '32'
       name: РУМЯНЦЕВ Александр Сергеевич
       underlined: true
-    - num: '33'
+      spravka: true
+    - id: '14079'
+      num: '33'
       name: САБИРОВ Рауер Ахметович
-    - num: '34'
+      spravka: true
+    - id: '14080'
+      num: '34'
       name: СИДОРИН Петр Михайлович
-    - num: '35'
+      spravka: true
+    - id: '14081'
+      num: '35'
       name: СТАНЧАК Василий Валентинович
-    - num: '36'
+    - id: '14082'
+      num: '36'
       name: ФАЙНБЕРГ Михаил Борисович
-    - num: '37'
+      spravka: true
+    - id: '14083'
+      num: '37'
       name: ФРАНКФУРТ Соломон Владимирович
-    - num: '38'
+      spravka: true
+    - id: '14084'
+      num: '38'
       name: ХАРЧЕНКО Павел Павлович
-    - num: '39'
+      spravka: true
+    - id: '14085'
+      num: '39'
       name: ЯСИНСКИЙ Антон Васильевич
-    - num: '40'
+      spravka: true
+    - id: '14086'
+      num: '40'
       name: ШЕРМЕРГОРН Дирк Тимофеевич
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '1129'
       tom: '5'
@@ -155,15 +235,25 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-005.jpg
     persons:
-    - num: '1'
+    - id: '14087'
+      num: '1'
       name: ВИНАВЕР Михаил Львович
       underlined: true
-    - num: '2'
+      gb_spravka: true
+      spravka: true
+    - id: '14088'
+      num: '2'
       name: ПЛАТТЕН-ЦИММЕРМАН Берта Георгиевна
-    - num: '3'
+      gb_spravka: true
+      spravka: true
+    - id: '14089'
+      num: '3'
       name: РУСС Карл Иванович
-    - num: '4'
+      gb_spravka: true
+    - id: '14090'
+      num: '4'
       name: ШТРАУС Вальтер Карлович
+      gb_spravka: true
   - page:
       pageid: '1134'
       tom: '5'
@@ -180,12 +270,17 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-010.jpg
     persons:
-    - num: '1'
+    - id: '14091'
+      num: '1'
       name: ВУНШТЕЙН Александр Евсеевич
-    - num: '2'
+      spravka: true
+    - id: '14092'
+      num: '2'
       name: ПОПОВ Владимир Александрович
-    - num: '3'
+    - id: '14093'
+      num: '3'
       name: САМСОНОВ Николай Григорьевич
+      spravka: true
   - page:
       pageid: '1135'
       tom: '5'
@@ -202,5 +297,6 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-011.jpg
     persons:
-    - num: '1'
+    - id: '14094'
+      num: '1'
       name: КОМАРОВ Василий Сергеевич

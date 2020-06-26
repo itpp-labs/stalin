@@ -33,38 +33,67 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-003.jpg
     persons:
-    - num: '1'
+    - id: '33307'
+      num: '1'
       name: БАТИЕВ Дмитрий Александрович
-    - num: '2'
+      spravka: true
+    - id: '33308'
+      num: '2'
       name: БУЛЫШЕВ Федор Иванович
-    - num: '3'
+      spravka: true
+    - id: '33309'
+      num: '3'
       name: ГУЛЯЕВ-ЗАЙЦЕВ Сергей Александрович
-    - num: '4'
+      spravka: true
+    - id: '33310'
+      num: '4'
       name: ДЕРЯБИН Василий Иванович
-    - num: '5'
+    - id: '33311'
+      num: '5'
       name: КАЛИНИН Михаил Иванович
-    - num: '6'
+    - id: '33312'
+      num: '6'
       name: КОЮШЕВ Иван Григорьевич
-    - num: '7'
+      spravka: true
+    - id: '33313'
+      num: '7'
       name: МАТЮШЕВ Степан Федорович
-    - num: '8'
+      spravka: true
+    - id: '33314'
+      num: '8'
       name: МИНИН Михаил Петрович
-    - num: '9'
+      spravka: true
+    - id: '33315'
+      num: '9'
       name: СИДОРОВ Алексей Семенович
-    - num: '10'
+      spravka: true
+    - id: '33316'
+      num: '10'
       name: СТАРЦЕВ Георгий Афанасьевич
-    - num: '11'
+      spravka: true
+    - id: '33317'
+      num: '11'
       name: ТАРАКАНОВ Федор Гаврилович
-    - num: '12'
+      spravka: true
+    - id: '33318'
+      num: '12'
       name: ТЕРЕНТЬЕВ Михаил Ефимович
-    - num: '13'
+    - id: '33319'
+      num: '13'
       name: ХАРАПОВ Михаил Николаевич
-    - num: '14'
+      spravka: true
+    - id: '33320'
+      num: '14'
       name: ЧЕУСОВ Алексей Александрович
-    - num: '15'
+      spravka: true
+    - id: '33321'
+      num: '15'
       name: ЧИСТАЛЕВ Вениамин Тимофеевич
-    - num: '16'
+      spravka: true
+    - id: '33322'
+      num: '16'
       name: ШВАРЦБУРГ Данил Исакович
+      spravka: true
   - page:
       pageid: '2606'
       tom: '9'
@@ -81,14 +110,19 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-004.jpg
     persons:
-    - num: '1'
+    - id: '33323'
+      num: '1'
       name: ВАСИЛЬЕВ Александр Александрович
-    - num: '2'
+    - id: '33324'
+      num: '2'
       name: КАНЕВ Иов Яковлевич
-    - num: '3'
+    - id: '33325'
+      num: '3'
       name: НАДЕЕВ Алексей Николаевич
-    - num: '4'
+    - id: '33326'
+      num: '4'
       name: ОПЛЕСНИН Прокопий Павлович
+      spravka: true
 - title: Список от 10.VI.38г. [Кабардино-Балкарская АССР]
   sublisttitle: Кабардино-Балкарская АССР
   pages:
@@ -108,12 +142,16 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-005.jpg
     persons:
-    - num: '1'
+    - id: '33327'
+      num: '1'
       name: ВЕРХАМОВ Камбулат Темрюкович
-    - num: '2'
+    - id: '33328'
+      num: '2'
       name: ТЛУПОВ Жираслан Талибович
-    - num: '1'
+    - id: '33329'
+      num: '1'
       name: ТАБУХОВ Мухажир Адильгериевич
+      spravka: true
 - title: Список от 10.VI.38г. [Туркменская ССР]
   sublisttitle: Туркменская ССР
   pages:
@@ -133,5 +171,6 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-006.jpg
     persons:
-    - num: '1'
+    - id: '33330'
+      num: '1'
       name: РУБИНШТЕЙН Яков Генрихович

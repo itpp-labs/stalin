@@ -38,42 +38,78 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-028.jpg
     persons:
-    - num: '1'
+    - id: '19658'
+      num: '1'
       name: АЛЕКСЕЕВ Сергей Васильевич
-    - num: '2'
+      spravka: true
+    - id: '19659'
+      num: '2'
       name: БАЖАНОВ Николай Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '19660'
+      num: '3'
       name: ЖАРКОВ Иван Иосифович
-    - num: '4'
+      spravka: true
+    - id: '19661'
+      num: '4'
       name: КАГАН Григорий Яковлевич
-    - num: '5'
+      spravka: true
+    - id: '19662'
+      num: '5'
       name: КАГАН Давид Соломонович
-    - num: '6'
+      spravka: true
+    - id: '19663'
+      num: '6'
       name: КОГАН Александр Михайлович
-    - num: '7'
+      spravka: true
+    - id: '19664'
+      num: '7'
       name: КОТОВ Николай Яковлевич
-    - num: '8'
+      spravka: true
+    - id: '19665'
+      num: '8'
       name: ЛАВЫГИН Борис Михайлович
-    - num: '9'
+      spravka: true
+    - id: '19666'
+      num: '9'
       name: МИРОВИЦКИЙ Павел Васильевич
-    - num: '10'
+      spravka: true
+    - id: '19667'
+      num: '10'
       name: МИХАЙЛОВ Александр Васильевич
-    - num: '11'
+      spravka: true
+    - id: '19668'
+      num: '11'
       name: ПАРИНОВ Петр Федорович
-    - num: '12'
+      spravka: true
+    - id: '19669'
+      num: '12'
       name: ПЕВЗНЕР Владимир Семенович
-    - num: '13'
+      spravka: true
+    - id: '19670'
+      num: '13'
       name: ПОВОЛОЦКИЙ Михаил Абрамович
-    - num: '14'
+      spravka: true
+    - id: '19671'
+      num: '14'
       name: ПОЛУХИН Даниил Павлович
-    - num: '15'
+      spravka: true
+    - id: '19672'
+      num: '15'
       name: РЕШЕТНЯК Федор Федорович
-    - num: '16'
+      spravka: true
+    - id: '19673'
+      num: '16'
       name: РОДИОНОВ Иван Иванович
-    - num: '17'
+      spravka: true
+    - id: '19674'
+      num: '17'
       name: РОЗЕНЦВЕЙГ Вульф Семенович
-    - num: '18'
+      spravka: true
+    - id: '19675'
+      num: '18'
       name: ФРУМКИН Валерий Соломонович
+      spravka: true
   - page:
       pageid: '1534'
       tom: '6'
@@ -90,12 +126,18 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-029.jpg
     persons:
-    - num: '19'
+    - id: '19676'
+      num: '19'
       name: ШАПИРО Давид Абрамович
-    - num: '20'
+      spravka: true
+    - id: '19677'
+      num: '20'
       name: ШАШИРИН Александр Михайлович
-    - num: '21'
+      spravka: true
+    - id: '19678'
+      num: '21'
       name: ШИППЕР Михаил Борисович
+      spravka: true
   - page:
       pageid: '1535'
       tom: '6'
@@ -112,18 +154,30 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-030.jpg
     persons:
-    - num: '1'
+    - id: '19679'
+      num: '1'
       name: БОЖКО Василий Степанович
-    - num: '2'
+      spravka: true
+    - id: '19680'
+      num: '2'
       name: БУХАРИН Сергей Васильевич
-    - num: '3'
+      spravka: true
+    - id: '19681'
+      num: '3'
       name: ВОРОБЬЕВ Владимир Федорович
-    - num: '4'
+      spravka: true
+    - id: '19682'
+      num: '4'
       name: ПОЛОСУХИН Григорий Иванович
-    - num: '5'
+      spravka: true
+    - id: '19683'
+      num: '5'
       name: СЕРТАКОВ Николай Михайлович
-    - num: '6'
+      spravka: true
+    - id: '19684'
+      num: '6'
       name: УЛЬЯНИШЕВ Владимир Митрофанович
+      spravka: true
 - title: Список от 3 января 1938г. [Калининская область]
   sublisttitle: Калининская область
   pages:
@@ -143,17 +197,23 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-031.jpg
     persons:
-    - num: '1'
+    - id: '19685'
+      num: '1'
       name: БЕЛЯЕВ Иван Степанович
-    - num: '2'
+    - id: '19686'
+      num: '2'
       name: БОРОДИН Семен Семенович
-    - num: '3'
+    - id: '19687'
+      num: '3'
       name: ВОСКРЕСЕНСКИЙ Александр Александрович
-    - num: '4'
+    - id: '19688'
+      num: '4'
       name: ИВАНОВ Василий Федорович
-    - num: '5'
+    - id: '19689'
+      num: '5'
       name: ЧЛЕНОВ Исидор Николаевич
-    - num: '6'
+    - id: '19690'
+      num: '6'
       name: ШТАФИНСКИЙ Аркадий Ильич
 - title: Список от 3 января 1938г. [Северная область]
   sublisttitle: Северная область
@@ -174,11 +234,15 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-032.jpg
     persons:
-    - num: '1'
+    - id: '19691'
+      num: '1'
       name: ПОДОЛЬСКИЙ Исаак Моисеевич
-    - num: '2'
+      spravka: true
+    - id: '19692'
+      num: '2'
       name: СМОРЧКОВ Михаил Алексеевич
-    - num: '3'
+    - id: '19693'
+      num: '3'
       name: ШАГОВ Николай Васильевич
   - page:
       pageid: '1538'
@@ -196,11 +260,15 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-033.jpg
     persons:
-    - num: '1'
+    - id: '19694'
+      num: '1'
       name: ВЕПРЕВ Иван Яковлевич
-    - num: '2'
+      spravka: true
+    - id: '19695'
+      num: '2'
       name: ГОНЧАРОВ Арсений Николаевич
-    - num: '3'
+    - id: '19696'
+      num: '3'
       name: ЦЕЛИНСКИЙ Генрих Александрович
 - title: Список от 3 января 1938г. [Крымская АССР]
   sublisttitle: Крымская АССР
@@ -221,5 +289,7 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-034.jpg
     persons:
-    - num: '1'
+    - id: '19697'
+      num: '1'
       name: ИВАНОВ Василий Григорьевич
+      spravka: true

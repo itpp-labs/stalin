@@ -40,9 +40,11 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-026.jpg
     persons:
-    - num: '1'
+    - id: '37280'
+      num: '1'
       name: КАМИНСКИЙ Яков Петрович
-    - num: '2'
+    - id: '37281'
+      num: '2'
       name: КОРЫГИН Георгий Яковлевич
 - title: Список от 12 сентября 1938г. [Калмыцкая АССР]
   sublisttitle: Калмыцкая АССР
@@ -63,11 +65,15 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-027.jpg
     persons:
-    - num: '1'
+    - id: '37282'
+      num: '1'
       name: КОСИЕВ Хонин Косиевич
-    - num: '1'
+      spravka: true
+    - id: '37283'
+      num: '1'
       name: КОЖИЕВ Бемба Манджиевич
-    - num: '2'
+    - id: '37284'
+      num: '2'
       name: ЭЛЮЕВ Александр Санджиевич
 - title: Список от 12 сентября 1938г. [Коми АССР]
   sublisttitle: Коми АССР
@@ -88,9 +94,11 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-028.jpg
     persons:
-    - num: '1'
+    - id: '37285'
+      num: '1'
       name: САМОЙЛОВ Сергей Яковлевич
-    - num: '2'
+    - id: '37286'
+      num: '2'
       name: ТРЕНЕВ Василий Иванович
 - title: Список от 12 сентября 1938г. [Мордовская АССР]
   sublisttitle: Мордовская АССР
@@ -111,17 +119,24 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-029.jpg
     persons:
-    - num: '1'
+    - id: '37287'
+      num: '1'
       name: КОЖАЕВ Иван Васильевич
-    - num: '2'
+    - id: '37288'
+      num: '2'
       name: МАЙОРОВ Георгий Петрович
-    - num: '3'
+    - id: '37289'
+      num: '3'
       name: МИРОНОВ Никифор Иванович
-    - num: '4'
+    - id: '37290'
+      num: '4'
       name: НЕЛЮБИН Семен Матвеевич
-    - num: '5'
+    - id: '37291'
+      num: '5'
       name: ОХИН Иван Петрович
-    - num: '6'
+      spravka: true
+    - id: '37292'
+      num: '6'
       name: САЛМОВ Григорий Иустинович
   - page:
       pageid: '2885'
@@ -139,9 +154,12 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-030.jpg
     persons:
-    - num: '1'
+    - id: '37293'
+      num: '1'
       name: БАРАНОВ Гордей Степанович
-    - num: '2'
+      spravka: true
+    - id: '37294'
+      num: '2'
       name: ЛЕВКИН Кирилл Павлович
 - title: Список от 12 сентября 1938г. [Рязанская область]
   sublisttitle: Рязанская область
@@ -162,9 +180,12 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-031.jpg
     persons:
-    - num: '1'
+    - id: '37295'
+      num: '1'
       name: ЭЛЬКИНД Григорий Абрамович
-    - num: '2'
+      spravka: true
+    - id: '37296'
+      num: '2'
       name: ЮЗВИК Доминик Яковлевич
 - title: Список от 12 сентября 1938г. [Таджикская ССР]
   sublisttitle: Таджикская ССР
@@ -185,9 +206,11 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-032.jpg
     persons:
-    - num: '1'
+    - id: '37297'
+      num: '1'
       name: СЛУЦКИЙ Борис Макович
-    - num: '1'
+    - id: '37298'
+      num: '1'
       name: КАРИМОВ Мирзо
 - title: Список от 12 сентября 1938г. [г.Тбилиси-Закавказская ж.д.]
   sublisttitle: г.Тбилиси-Закавказская ж.д.
@@ -208,10 +231,14 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-033.jpg
     persons:
-    - num: '1'
+    - id: '37299'
+      num: '1'
       name: БАДЫРОВ Садых Ибадулла Оглы
-    - num: '1'
+      spravka: true
+    - id: '37300'
+      num: '1'
       name: ВАХНЯНСКИЙ Моисей Абрамович
+      spravka: true
 - title: Список от 12 сентября 1938г. [г.Ржев-Калининская ж.д.]
   sublisttitle: г.Ржев-Калининская ж.д.
   pages:
@@ -231,14 +258,20 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-034.jpg
     persons:
-    - num: '1'
+    - id: '37301'
+      num: '1'
       name: КЛЫПУТО Василий Петрович
-    - num: '2'
+    - id: '37302'
+      num: '2'
       name: КОМПАНИЕЦ Иван Антонович
-    - num: '3'
+    - id: '37303'
+      num: '3'
       name: РОЗЕНКО Дмитрий Агеевич
-    - num: '1'
+      spravka: true
+    - id: '37304'
+      num: '1'
       name: ДЫЛДИН Иван Николаевич
+      spravka: true
 - title: Список от 12 сентября 1938г. [г.Куйбышев-Куйбышев.ж.д.]
   sublisttitle: г.Куйбышев-Куйбышев.ж.д.
   pages:
@@ -258,5 +291,7 @@ sublists:
       pometa: '0'
     page_image: v10/17-171-418-035.jpg
     persons:
-    - num: '1'
+    - id: '37305'
+      num: '1'
       name: САНАМЬЯН Сергей Авитисович
+      spravka: true

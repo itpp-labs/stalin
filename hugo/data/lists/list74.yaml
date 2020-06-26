@@ -36,54 +36,102 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-340.jpg
     persons:
-    - num: '1'
+    - id: '7496'
+      num: '1'
       name: АБРАШКИН Матвей Евстафьевич
-    - num: '2'
+      spravka: true
+    - id: '7497'
+      num: '2'
       name: АЛЕКСЕЕВ Петр Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '7498'
+      num: '3'
       name: АНИКЕЕВ Петр Васильевич
-    - num: '4'
+      spravka: true
+    - id: '7499'
+      num: '4'
       name: АНТЮХИН Иван Фокич
-    - num: '5'
+      spravka: true
+    - id: '7500'
+      num: '5'
       name: БАРАНОВ Андрей Григорьевич
-    - num: '6'
+      spravka: true
+    - id: '7501'
+      num: '6'
       name: БЕРЕЗИН Андрей Иванович
-    - num: '7'
+      spravka: true
+    - id: '7502'
+      num: '7'
       name: БОГДАНОВ Роман Павлович
-    - num: '8'
+      spravka: true
+    - id: '7503'
+      num: '8'
       name: БОЛЬШАКОВ Александр Дмитриевич
-    - num: '9'
+      spravka: true
+    - id: '7504'
+      num: '9'
       name: БРАГИН Иван Яковлевич
-    - num: '10'
+      spravka: true
+    - id: '7505'
+      num: '10'
       name: ВИНЕР Владимир Владимирович
-    - num: '11'
+      spravka: true
+    - id: '7506'
+      num: '11'
       name: ВОСТРОКНУТОВ Николай Андрианович
-    - num: '12'
+      spravka: true
+    - id: '7507'
+      num: '12'
       name: ГАЛЬПЕРИН Исаак Яковлевич
-    - num: '13'
+      spravka: true
+    - id: '7508'
+      num: '13'
       name: ГАНИЧЕВ Алексей Иванович
-    - num: '14'
+      spravka: true
+    - id: '7509'
+      num: '14'
       name: ГИРИН Иван Глебович
-    - num: '15'
+      spravka: true
+    - id: '7510'
+      num: '15'
       name: ДЕМБСКИЙ Петр Константинович
-    - num: '16'
+      spravka: true
+    - id: '7511'
+      num: '16'
       name: ЕРМОЛАЕВ Александр Иванович
-    - num: '17'
+      spravka: true
+    - id: '7512'
+      num: '17'
       name: ЗАМОТАЕВ Борис Иванович
-    - num: '18'
+      spravka: true
+    - id: '7513'
+      num: '18'
       name: ЗИМИН Мирон Исакович
-    - num: '19'
+      spravka: true
+    - id: '7514'
+      num: '19'
       name: ИВАНОВ Абрам Михайлович
-    - num: '20'
+      spravka: true
+    - id: '7515'
+      num: '20'
       name: ИВАНОВ Александр Николаевич
-    - num: '21'
+      spravka: true
+    - id: '7516'
+      num: '21'
       name: ИВАНОВ Александр Николаевич
-    - num: '22'
+      spravka: true
+    - id: '7517'
+      num: '22'
       name: ИВАНОВ Аркадий Александрович
-    - num: '23'
+      spravka: true
+    - id: '7518'
+      num: '23'
       name: КАЛАШНИКОВ Василий Иванович
-    - num: '24'
+      spravka: true
+    - id: '7519'
+      num: '24'
       name: КАРПЮК Иван Николаевич
+      spravka: true
   - page:
       pageid: '577'
       tom: '2'
@@ -100,64 +148,123 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-341.jpg
     persons:
-    - num: '25'
+    - id: '7520'
+      num: '25'
       name: КИБИСОВ Николай Федорович
-    - num: '26'
+      spravka: true
+    - id: '17481'
+      num: '26'
       name: КЛОКОВ Федор Алексеевич
-    - num: '27'
+      doublesexists: true
+      spravka: true
+    - id: '7522'
+      num: '27'
       name: КОКЕШКО Федор Степанович
-    - num: '28'
+      spravka: true
+    - id: '7523'
+      num: '28'
       name: КОЛОСУН-ПЫШИНСКИЙ Александр Викентьевич
-    - num: '29'
+      spravka: true
+    - id: '7524'
+      num: '29'
       name: КОЛЬЦОВ Петр Николаевич
-    - num: '30'
+      spravka: true
+    - id: '7525'
+      num: '30'
       name: КОНОНОВ Владимир Иванович
-    - num: '31'
+    - id: '7526'
+      num: '31'
       name: КОСОУРИН Иван Иванович
-    - num: '32'
+      spravka: true
+    - id: '7527'
+      num: '32'
       name: КОСТРОМИТИН Виктор Васильевич
-    - num: '33'
+      spravka: true
+    - id: '7528'
+      num: '33'
       name: КУЗЬМИЦКИЙ Иван Николаевич
-    - num: '34'
+      spravka: true
+    - id: '7529'
+      num: '34'
       name: ЛОПАТИН Иван Степанович
-    - num: '35'
+      spravka: true
+    - id: '7530'
+      num: '35'
       name: ЛУКИН Владимир Михайлович
-    - num: '36'
+      spravka: true
+    - id: '7531'
+      num: '36'
       name: МАРЧЕНКО Евтихий Андреевич
-    - num: '37'
+      spravka: true
+    - id: '7532'
+      num: '37'
       name: МАРКЕВИЧ Алексей Тихонович
-    - num: '38'
+      spravka: true
+    - id: '7533'
+      num: '38'
       name: МОИСЕЕВ Иван Иванович
-    - num: '39'
+      spravka: true
+    - id: '7534'
+      num: '39'
       name: НАУМОВ Николай Григорьевич
-    - num: '40'
+      spravka: true
+    - id: '7535'
+      num: '40'
       name: НЕМАНОВ Анисий Петрович
-    - num: '41'
+      spravka: true
+    - id: '7536'
+      num: '41'
       name: НЕЧАЕВ Алексей Антипович
-    - num: '42'
+      spravka: true
+    - id: '7537'
+      num: '42'
       name: НЕЧАЕВ Михаил Зиновьевич
-    - num: '43'
+      spravka: true
+    - id: '12794'
+      num: '43'
       name: НИЗОВЦЕВ Петр Леонтьевич
-    - num: '44'
+      doublesexists: true
+      spravka: true
+    - id: '7539'
+      num: '44'
       name: НИКОЛАЕВ Николай Николаевич
-    - num: '45'
+      spravka: true
+    - id: '7540'
+      num: '45'
       name: ОРЛОВ Петр Павлович
-    - num: '46'
+      spravka: true
+    - id: '7541'
+      num: '46'
       name: ОШЕРОВ Наум Самойлович
-    - num: '47'
+      spravka: true
+    - id: '7542'
+      num: '47'
       name: РЕПИН Петр Никитич
-    - num: '48'
+      spravka: true
+    - id: '7543'
+      num: '48'
       name: РОЗАНОВ Александр Васильевич
-    - num: '49'
+      spravka: true
+    - id: '7544'
+      num: '49'
       name: РОЗОВ Михаил Никитич
-    - num: '50'
+      spravka: true
+    - id: '7545'
+      num: '50'
       name: РОМБАХ-КАСПАР Ганс Теодорович
-    - num: '51'
+      spravka: true
+    - id: '7546'
+      num: '51'
       name: СЕРГАНИН Михаил Матвеевич
-    - num: '52'
+      spravka: true
+    - id: '7547'
+      num: '52'
       name: СКВОРЦОВ Николай Федотович
-    - num: '53'
+      spravka: true
+    - id: '7548'
+      num: '53'
       name: СКРОБОТОВ Владимир Антонович
+      spravka: true
   - page:
       pageid: '578'
       tom: '2'
@@ -174,26 +281,46 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-342.jpg
     persons:
-    - num: '54'
+    - id: '7549'
+      num: '54'
       name: СМЕТАНИН Лев Федорович
-    - num: '55'
+      spravka: true
+    - id: '7550'
+      num: '55'
       name: СМИРНОВ Александр Михайлович
-    - num: '56'
+      spravka: true
+    - id: '7551'
+      num: '56'
       name: СУРКОВА-РАТНЕР Лидия Петровна
-    - num: '57'
+      spravka: true
+    - id: '7552'
+      num: '57'
       name: ТАБАЛИН Иван Яковлевич
-    - num: '58'
+      spravka: true
+    - id: '7553'
+      num: '58'
       name: ТАРАСЕНКО Адам Исидорович
-    - num: '59'
+      spravka: true
+    - id: '7554'
+      num: '59'
       name: ТАТАРСКИЙ Леонид Абрамович
-    - num: '60'
+      spravka: true
+    - id: '7555'
+      num: '60'
       name: ФЕДОРОВ Константин Федорович
-    - num: '61'
+      spravka: true
+    - id: '7556'
+      num: '61'
       name: ФЕДОРОВ-КОЗЛОВ Филипп Федорович
-    - num: '62'
+      spravka: true
+    - id: '7557'
+      num: '62'
       name: ШАМРЕЙ Николай Константинович
-    - num: '63'
+      spravka: true
+    - id: '7558'
+      num: '63'
       name: ШИЛИН Кузьма Григорьевич
+      spravka: true
   - page:
       pageid: '579'
       tom: '2'
@@ -210,29 +337,45 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-343.jpg
     persons:
-    - num: '1'
+    - id: '7559'
+      num: '1'
       name: БОГДАНОВ Михаил Васильевич
-    - num: '2'
+      spravka: true
+    - id: '7560'
+      num: '2'
       name: ЖИЛОВ Григорий Захарович
-    - num: '3'
+    - id: '7561'
+      num: '3'
       name: КАЛИНА Пинхас Яковлевич
-    - num: '4'
+      spravka: true
+    - id: '7562'
+      num: '4'
       name: КОГАН Ефим Израилевич
-    - num: '5'
+    - id: '7563'
+      num: '5'
       name: КОРОЛЕВ Василий Васильевич
-    - num: '6'
+    - id: '7564'
+      num: '6'
       name: КУТУТЬ Игнатий Игнатьевич
-    - num: '7'
+    - id: '7565'
+      num: '7'
       name: ЛЕБЕДЕВ Егор (Георгий) Давыдович
-    - num: '8'
+    - id: '7566'
+      num: '8'
       name: ПЕТРОВ Константин Михайлович
-    - num: '9'
+    - id: '7567'
+      num: '9'
       name: ПОРТНОЙ Иван Севастьянович
-    - num: '10'
+    - id: '7568'
+      num: '10'
       name: СКОБЛО Макс Соломонович
-    - num: '11'
+    - id: '7569'
+      num: '11'
       name: ТУРЕЦКИЙ Эмануил Моисеевич
-    - num: '12'
+    - id: '7570'
+      num: '12'
       name: ХЛЕБНИКОВ Александр Семенович
-    - num: '13'
+    - id: '7571'
+      num: '13'
       name: ШАМРЕЙ Константин Константинович
+      spravka: true

@@ -34,54 +34,97 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-012.jpg
     persons:
-    - num: '1'
+    - id: '7838'
+      num: '1'
       name: АЛЬШЕР Казимир Оскарович
-    - num: '2'
+      spravka: true
+    - id: '7839'
+      num: '2'
       name: АУЗЕН Альберт Янович
-    - num: '3'
+      spravka: true
+    - id: '7840'
+      num: '3'
       name: БЕРМАН Александр Михайлович
-    - num: '4'
+      spravka: true
+    - id: '7841'
+      num: '4'
       name: БОРДОН Георгий Николаевич
-    - num: '5'
+      spravka: true
+    - id: '7842'
+      num: '5'
       name: БОРТНОВСКИЙ Николай Иванович
-    - num: '6'
+    - id: '7843'
+      num: '6'
       name: БРУК Соломон Соломонович
-    - num: '7'
+      spravka: true
+    - id: '7844'
+      num: '7'
       name: ВЫШИЦКИЙ Мечислав Альбертович
-    - num: '8'
+      spravka: true
+    - id: '7845'
+      num: '8'
       name: ГАФАНОВИЧ Яков Эммануилович
-    - num: '9'
+    - id: '7846'
+      num: '9'
       name: ГРИГОРЕНКО Николай Алексеевич
-    - num: '10'
+      spravka: true
+    - id: '7847'
+      num: '10'
       name: ГРУШЕВСКИЙ Николай Дмитриевич
-    - num: '11'
+      spravka: true
+    - id: '7848'
+      num: '11'
       name: ДЖАВАХОВ Михаил Григорьевич
-    - num: '12'
+      spravka: true
+    - id: '7849'
+      num: '12'
       name: ЕВДОТЬЕВ Владимир Павлович
-    - num: '13'
+      spravka: true
+    - id: '7850'
+      num: '13'
       name: КУЛЕША Николай Игнатьевич
-    - num: '14'
+      spravka: true
+    - id: '7851'
+      num: '14'
       name: КУПЧИК Исаак Юльевич
-    - num: '15'
+      spravka: true
+    - id: '7852'
+      num: '15'
       name: КУРОВСКИЙ Стефан Михайлович
-    - num: '16'
+    - id: '7853'
+      num: '16'
       name: МАЦКЕВИЧ Семен Миронович
-    - num: '17'
+    - id: '7854'
+      num: '17'
       name: НАУМЕНКО Евгений Николаевич
-    - num: '18'
+      spravka: true
+    - id: '7855'
+      num: '18'
       name: ОЛЬШАНСКИЙ Семен Абрамович
-    - num: '19'
+      spravka: true
+    - id: '7856'
+      num: '19'
       name: ОРЕЛОВИЧ Соломон Лазаревич
-    - num: '20'
+      spravka: true
+    - id: '7857'
+      num: '20'
       name: ПАХИЛО Федор Тимофеевич
-    - num: '21'
+    - id: '7858'
+      num: '21'
       name: ПИОТРОВСКИЙ Станислав Иосифович
-    - num: '22'
+      spravka: true
+    - id: '7859'
+      num: '22'
       name: ПИСЬМЕННЫЙ Яков Вульфович
-    - num: '23'
+      spravka: true
+    - id: '7860'
+      num: '23'
       name: ПУСТОВОЙТОВ Сергей Аполлонович
-    - num: '24'
+      spravka: true
+    - id: '7861'
+      num: '24'
       name: РЫКОВ Владимир Васильевич
+      spravka: true
   - page:
       pageid: '605'
       tom: '3'
@@ -98,31 +141,57 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-013.jpg
     persons:
-    - num: '25'
+    - id: '7862'
+      num: '25'
       name: РОДАЛ Меер Бениаминович
-    - num: '26'
+      spravka: true
+    - id: '7863'
+      num: '26'
       name: РОЗАНОВ Александр Борисович, он же <br />РОЗЕНБАРТ Абрам Борисович
-    - num: '27'
+      spravka: true
+    - id: '7864'
+      num: '27'
       name: РУБИНШТЕЙН Наум Львович
-    - num: '28'
+      spravka: true
+    - id: '7865'
+      num: '28'
       name: РУДОМИНО Генрих Генрихович
-    - num: '29'
+    - id: '7866'
+      num: '29'
       name: СЕЛИВАНОВ Петр Максимович
-    - num: '30'
+      spravka: true
+    - id: '7867'
+      num: '30'
       name: СЕМЕНОВ Петр Васильевич
-    - num: '31'
+      spravka: true
+    - id: '7868'
+      num: '31'
       name: СЛОВИНСКИЙ Леонид Геннадиевич
-    - num: '32'
+      spravka: true
+    - id: '7869'
+      num: '32'
       name: СОРОЦКИЙ Лев Моисеевич
-    - num: '33'
+      spravka: true
+    - id: '7870'
+      num: '33'
       name: СТРИЖЕВСКИЙ Леонид Игнатьевич
-    - num: '34'
+      spravka: true
+    - id: '7871'
+      num: '34'
       name: ХАН Наум Моисеевич
-    - num: '35'
+      spravka: true
+    - id: '7872'
+      num: '35'
       name: ШОСТАК Ефим Григорьевич
-    - num: '36'
+      spravka: true
+    - id: '7873'
+      num: '36'
       name: ШОСТАК-СОКОЛОВ Петр Григорьевич
-    - num: '37'
+      spravka: true
+    - id: '7874'
+      num: '37'
       name: ШУЛЬМАН Борис Иосифович
-    - num: '38'
+    - id: '7875'
+      num: '38'
       name: ЭНКЛЕР Константин Константинович
+      spravka: true

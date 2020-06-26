@@ -31,60 +31,112 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-150.jpg
     persons:
-    - num: '1'
+    - id: '12380'
+      num: '1'
       name: АВГУСТАЙТИС Александр Викентьевич
-    - num: '2'
+      spravka: true
+    - id: '12381'
+      num: '2'
       name: БЕЛОШЕВСКИЙ Алексей Никитич
-    - num: '3'
+      spravka: true
+    - id: '12382'
+      num: '3'
       name: БОГОСЛАВСКИЙ Николай Иванович
-    - num: '4'
+      spravka: true
+    - id: '12383'
+      num: '4'
       name: БУРАЧЕВСКИЙ Павел Павлович
-    - num: '5'
+      spravka: true
+    - id: '12384'
+      num: '5'
       name: БЫЧКОВСКИЙ Антон Антонович
-    - num: '6'
+    - id: '12385'
+      num: '6'
       name: ВАСИЛЕВИЧ Иван Антонович
-    - num: '7'
+      spravka: true
+    - id: '12386'
+      num: '7'
       name: ГАЛКОВСКИЙ Иосиф Антонович
-    - num: '8'
+      spravka: true
+    - id: '12387'
+      num: '8'
       name: ГЛЕЗЕРОВ Борис Маркович
-    - num: '9'
+      spravka: true
+    - id: '12388'
+      num: '9'
       name: ГОЛЬДБЕРГ Шолом Меерович
-    - num: '10'
+      spravka: true
+    - id: '12389'
+      num: '10'
       name: ГОМЗЯКОВ Александр Иванович
-    - num: '11'
+      spravka: true
+    - id: '12390'
+      num: '11'
       name: ГУРИНОВИЧ Сергей Михайлович
-    - num: '12'
+      spravka: true
+    - id: '12391'
+      num: '12'
       name: ЗАДЕРНЮК Василий Иванович
-    - num: '13'
+      spravka: true
+    - id: '12392'
+      num: '13'
       name: ЗАЛЕССКИЙ Александр Ксаверьевич
-    - num: '14'
+      spravka: true
+    - id: '12393'
+      num: '14'
       name: КАЛЕНТО Михаил Мирофанович
-    - num: '15'
+      spravka: true
+    - id: '12394'
+      num: '15'
       name: КЛИМЧУК Матвей Иосифович
-    - num: '16'
+      spravka: true
+    - id: '12395'
+      num: '16'
       name: КОЗЛОВ Трофим Калиникович
-    - num: '17'
+      spravka: true
+    - id: '12396'
+      num: '17'
       name: КОНИК Дмитрий Юдович
-    - num: '18'
+      spravka: true
+    - id: '12397'
+      num: '18'
       name: КРЕЙНИН Лазарь Исаакович
-    - num: '19'
+      spravka: true
+    - id: '12398'
+      num: '19'
       name: КРУТОЛЕВИЧ Александр Прохорович
-    - num: '20'
+    - id: '12399'
+      num: '20'
       name: КУЗНЕЦОВ Иван Николаевич
-    - num: '21'
+      spravka: true
+    - id: '12400'
+      num: '21'
       name: КУЗНЕЦОВ Лейба Шлемович
-    - num: '22'
+      spravka: true
+    - id: '12401'
+      num: '22'
       name: КУЗНЕЦОВА Мария Ивановна
-    - num: '23'
+      spravka: true
+    - id: '12402'
+      num: '23'
       name: ЛИТВИНЕНКО Ефим Лукич
-    - num: '24'
+      spravka: true
+    - id: '12403'
+      num: '24'
       name: МЕЛЬЦЕР Абрам Наумович
-    - num: '25'
+      spravka: true
+    - id: '12404'
+      num: '25'
       name: МИНКИН Калмон Маркович
-    - num: '26'
+      spravka: true
+    - id: '12405'
+      num: '26'
       name: НЕМИРСКИЙ Сигизмунд Янович
-    - num: '27'
+      spravka: true
+    - id: '12406'
+      num: '27'
       name: НОЙ Александр Иосифович
+      spravka: true
   - page:
       pageid: '994'
       tom: '4'
@@ -101,29 +153,50 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-151.jpg
     persons:
-    - num: '28'
+    - id: '12407'
+      num: '28'
       name: ПОДОЛЬСКИЙ Давид Юрьевич
-    - num: '29'
+    - id: '12408'
+      num: '29'
       name: РАДУШИНСКИЙ Владимир Семенович
-    - num: '30'
+    - id: '12409'
+      num: '30'
       name: РОГОЖКИН Василий Ефимович
-    - num: '31'
+      spravka: true
+    - id: '12410'
+      num: '31'
       name: РУБИНШТЕЙН Григорий Миронович
-    - num: '32'
+      spravka: true
+    - id: '12411'
+      num: '32'
       name: РЫБАК Иван Маркович
-    - num: '33'
+    - id: '12412'
+      num: '33'
       name: СААКЯН Ашот Михайлович
-    - num: '34'
+    - id: '12413'
+      num: '34'
       name: СЕМЕНОВ Александр Иванович
-    - num: '35'
+    - id: '12414'
+      num: '35'
       name: СТРУНКЕВИЧ Куприян Гурьевич
-    - num: '36'
+      spravka: true
+    - id: '12415'
+      num: '36'
       name: ТАВАКАЛЬЯН Аветис Абгарович
-    - num: '37'
+      spravka: true
+    - id: '12416'
+      num: '37'
       name: ХАСКИН Илья Захарович
-    - num: '38'
+      spravka: true
+    - id: '12417'
+      num: '38'
       name: ХАЦКЕВИЧ Александр Исаакович
-    - num: '39'
+      spravka: true
+    - id: '12418'
+      num: '39'
       name: ХОВРУНОВ Михаил Игнатьевич
-    - num: '40'
+      spravka: true
+    - id: '12419'
+      num: '40'
       name: ЧЕРНЫШЕВ Василий Яковлевич
+      spravka: true

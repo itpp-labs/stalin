@@ -37,13 +37,18 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-169.jpg
     persons:
-    - num: '1'
+    - id: '5028'
+      num: '1'
       name: ДЕНИСОВ Петр Михайлович
-    - num: '2'
+    - id: '5029'
+      num: '2'
       name: ДУБРОВСКИЙ Франц Лаврентьевич
-    - num: '3'
+    - id: '5030'
+      num: '3'
       name: ЗЕЗЮЛИН Георгий Сергеевич
-    - num: '4'
+      spravka: true
+    - id: '5031'
+      num: '4'
       name: НИКИТИН Владимир Кузьмич
 - title: Список от 10 августа 1937 г. [Западно-Сибирский край]
   sublisttitle: Западно-Сибирский край
@@ -64,14 +69,23 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-170.jpg
     persons:
-    - num: '1'
+    - id: '31011'
+      num: '1'
       name: БЕМ Дмитрий Александрович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '5033'
+      num: '2'
       name: ЗИЛЬБЕР Семен Михайлович
-    - num: '3'
+      spravka: true
+    - id: '5034'
+      num: '3'
       name: МОКРИНСКИЙ Матвей Степанович
-    - num: '4'
+      spravka: true
+    - id: '5035'
+      num: '4'
       name: ФИСУН Петр Артемьевич
+      spravka: true
   - page:
       pageid: '407'
       tom: '2'
@@ -88,10 +102,14 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-171.jpg
     persons:
-    - num: '1'
+    - id: '5036'
+      num: '1'
       name: БОЛОТОВА Нина Сергеевна
-    - num: '2'
+      spravka: true
+    - id: '5037'
+      num: '2'
       name: ПРОКОПЕНКО Осанна Христофоровна
+      spravka: true
 - title: Список от 10 августа 1937 г. [Красноярский край]
   sublisttitle: Красноярский край
   pages:
@@ -111,10 +129,14 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-172.jpg
     persons:
-    - num: '1'
+    - id: '5038'
+      num: '1'
       name: ДОЛИДЗЕ Гаврил Самсонович
-    - num: '2'
+      spravka: true
+    - id: '5039'
+      num: '2'
       name: СЕМИН-АЛЕКСАНДРОВСКИЙ Иван Макарович
+      spravka: true
   - page:
       pageid: '409'
       tom: '2'
@@ -131,10 +153,14 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-173.jpg
     persons:
-    - num: '1'
+    - id: '5040'
+      num: '1'
       name: ДОМБРОВСКИЙ Адам Мартынович
-    - num: '2'
+      spravka: true
+    - id: '5041'
+      num: '2'
       name: ОВЧИННИКОВ Павел Павлович
+      spravka: true
 - title: Список от 10 августа 1937 г. [Верхне-Уральская т-ма Особого Назначения]
   sublisttitle: Верхне-Уральская т-ма Особого Назначения
   pages:
@@ -154,5 +180,6 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-174.jpg
     persons:
-    - num: '1'
+    - id: '5042'
+      num: '1'
       name: ГАМРЕКЕЛИ Давид Николаевич

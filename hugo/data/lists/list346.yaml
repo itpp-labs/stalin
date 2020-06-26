@@ -36,44 +36,81 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-099.jpg
     persons:
-    - num: '1'
+    - id: '20594'
+      num: '1'
       name: АЛАЛЫКИН Анатолий Евтихнеевич
-    - num: '2'
+      spravka: true
+    - id: '20595'
+      num: '2'
       name: АРХИПОВ Иван Ефимович
-    - num: '3'
+      spravka: true
+    - id: '20596'
+      num: '3'
       name: БЕЛОВ Иван Алексеевич
-    - num: '4'
+      spravka: true
+    - id: '20597'
+      num: '4'
       name: БОРЩЕНКО Дмитрий Георгиевич
-    - num: '5'
+      spravka: true
+    - id: '20598'
+      num: '5'
       name: ГУСАРОВ Алексей Ефимович
-    - num: '6'
+      spravka: true
+    - id: '20599'
+      num: '6'
       name: ЗЕЛЕНКОВ Лаврентий Фомич
-    - num: '7'
+      spravka: true
+    - id: '20600'
+      num: '7'
       name: КЛАБУНОВСКИЙ Алексей Григорьевич
-    - num: '8'
+      spravka: true
+    - id: '20601'
+      num: '8'
       name: КОМША Леонтий Иванович
-    - num: '9'
+      spravka: true
+    - id: '20602'
+      num: '9'
       name: КОРОЛЕВ Семен Иванович
-    - num: '10'
+      spravka: true
+    - id: '20603'
+      num: '10'
       name: КОРСАКОВ Анатолий Петрович
-    - num: '11'
+      spravka: true
+    - id: '20604'
+      num: '11'
       name: МИХАЛЕНКО Яков Исаакович
-    - num: '12'
+      spravka: true
+    - id: '20605'
+      num: '12'
       name: ОВСЮКОВ Филипп Афанасьевич
-    - num: '13'
+      spravka: true
+    - id: '20606'
+      num: '13'
       name: ПЕТИН Алексей Иванович
-    - num: '14'
+      spravka: true
+    - id: '20607'
+      num: '14'
       name: ПРЕЙС Анна Августовна
-    - num: '15'
+    - id: '20608'
+      num: '15'
       name: РИТТЕР Петр Яковлевич
-    - num: '16'
+      spravka: true
+    - id: '20609'
+      num: '16'
       name: РЫЧКАЛОВ Клавдий Тимофеевич
-    - num: '17'
+      spravka: true
+    - id: '20610'
+      num: '17'
       name: СМАГИН Георгий Иванович
-    - num: '18'
+      spravka: true
+    - id: '20611'
+      num: '18'
       name: СПИРИДОНОВ Петр Петрович
-    - num: '19'
+      spravka: true
+    - id: '20612'
+      num: '19'
       name: ТИХОМИРОВ Павел Иванович
+      spravka: true
   - page:
       pageid: '1605'
       tom: '6'
@@ -90,12 +127,18 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-100.jpg
     persons:
-    - num: '20'
+    - id: '20613'
+      num: '20'
       name: ЧЕРНАВСКИЙ Павел Дмитриевич
-    - num: '21'
+      spravka: true
+    - id: '20614'
+      num: '21'
       name: ШЕМЯКИН Константин Михайлович
-    - num: '22'
+      spravka: true
+    - id: '20615'
+      num: '22'
       name: ЮРАШ Сергей Степанович
+      spravka: true
   - page:
       pageid: '1606'
       tom: '6'
@@ -112,14 +155,22 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-101.jpg
     persons:
-    - num: '1'
+    - id: '20616'
+      num: '1'
       name: АЛЕЕВ Николай Александрович
-    - num: '2'
+      spravka: true
+    - id: '20617'
+      num: '2'
       name: ГРЯЗНОВ Павел Иванович
-    - num: '3'
+      spravka: true
+    - id: '20618'
+      num: '3'
       name: КОЛПИКОВ Константин Михайлович
-    - num: '4'
+      spravka: true
+    - id: '20619'
+      num: '4'
       name: ЯКУШКИН Алексей Макарович
+      spravka: true
 - title: Список от 3 января 1938г. [Башкирская АССР]
   sublisttitle: Башкирская АССР
   pages:
@@ -139,20 +190,32 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-102.jpg
     persons:
-    - num: '1'
+    - id: '20620'
+      num: '1'
       name: ВАЛИКОНИС Андрей Иванович
-    - num: '2'
+      spravka: true
+    - id: '20621'
+      num: '2'
       name: ИОКС Адольф Фридрихович
-    - num: '3'
+      spravka: true
+    - id: '20622'
+      num: '3'
       name: КУЛИС Франц Петрович
-    - num: '4'
+      spravka: true
+    - id: '20623'
+      num: '4'
       name: ЛУНЕВ Иван Георгиевич
-    - num: '5'
+    - id: '20624'
+      num: '5'
       name: РОДЕЙКО Иоган Генрихович
-    - num: '6'
+    - id: '20625'
+      num: '6'
       name: ТОДТЕНГАУНТ Вильгельм Карлович
-    - num: '7'
+      spravka: true
+    - id: '20626'
+      num: '7'
       name: ФРИЦ Николай Генрихович
+      spravka: true
 - title: Список от 3 января 1938г. [Армянская ССР]
   sublisttitle: Армянская ССР
   pages:
@@ -172,7 +235,12 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-103.jpg
     persons:
-    - num: '1'
+    - id: '20627'
+      num: '1'
       name: ХАЧАТРЯН Степан Айрапетович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '20628'
+      num: '2'
       name: ШМИДТ Александр Иванович
+      spravka: true

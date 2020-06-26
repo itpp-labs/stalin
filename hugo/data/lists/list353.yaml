@@ -43,52 +43,102 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-169.jpg
     persons:
-    - num: '1'
+    - id: '21652'
+      num: '1'
       name: АБАШИДЗЕ Леван Константинович
-    - num: '2'
+      spravka: true
+    - id: '21653'
+      num: '2'
       name: АБЕСАДЗЕ Георгий Авксентьевич
-    - num: '3'
+      spravka: true
+    - id: '21654'
+      num: '3'
       name: АБЗИАНИДЗЕ Леонид Герасимович
-    - num: '4'
+      spravka: true
+    - id: '21655'
+      num: '4'
       name: АБРАМОВ Савва Семенович
-    - num: '5'
+      spravka: true
+    - id: '21656'
+      num: '5'
       name: АБРАМЯН Хорен Арутюнович
-    - num: '6'
+      spravka: true
+    - id: '21657'
+      num: '6'
       name: АВАКОВА Мария Васильевна
-    - num: '7'
+      spravka: true
+    - id: '26240'
+      num: '7'
       name: АВАКЯН Баграт Сабатович
-    - num: '8'
+      doublesexists: true
+      spravka: true
+    - id: '21659'
+      num: '8'
       name: АВДЕЕВ Константин Иванович
-    - num: '9'
+      spravka: true
+    - id: '21660'
+      num: '9'
       name: АВИДЗБА Платон Хокиевич
-    - num: '10'
+      spravka: true
+    - id: '21661'
+      num: '10'
       name: АГА БАЗАРК БАЗАРКМАН, он же <br />РИЗАЕВ Ига Бузурк
-    - num: '11'
+      gb_spravka: true
+      spravka: true
+    - id: '21662'
+      num: '11'
       name: АГИРОВ Магомет, он же Михаил Канаматович
-    - num: '12'
+      spravka: true
+    - id: '21663'
+      num: '12'
       name: АГРБА Александр Иванович
-    - num: '13'
+      spravka: true
+    - id: '21664'
+      num: '13'
       name: АДАМИЯ Валерьян Петрович
-    - num: '14'
+      spravka: true
+    - id: '21665'
+      num: '14'
       name: АДАМИЯ Давид Лазаревич
-    - num: '15'
+      spravka: true
+    - id: '21666'
+      num: '15'
       name: АДАМИЯ Иосиф Лазаревич
-    - num: '16'
+      doublesexists: true
+      spravka: true
+    - id: '21667'
+      num: '16'
       name: АДЖАМОВ Георгий Давидович
-    - num: '17'
+      spravka: true
+    - id: '21668'
+      num: '17'
       name: АКОПОВ Иван Александрович
-    - num: '18'
+      doublesexists: true
+      spravka: true
+    - id: '21669'
+      num: '18'
       name: АКШБА Эраст Максимович
-    - num: '19'
+    - id: '30037'
+      num: '19'
       name: АЛЕКСАНДРЯН Врам Мамиконович
-    - num: '20'
+      doublesexists: true
+      spravka: true
+    - id: '21671'
+      num: '20'
       name: АЛИБЕГАШВИЛИ Абрам Семенович
-    - num: '21'
+      spravka: true
+    - id: '21672'
+      num: '21'
       name: АНДЖАПАРИДЗЕ Ипполит Тимофеевич
-    - num: '22'
+      spravka: true
+    - id: '21673'
+      num: '22'
       name: АНИЕВ Иван Степанович
-    - num: '23'
+      spravka: true
+    - id: '21674'
+      num: '23'
       name: АНЧАБАДЗЕ Варлам Тарасович
+      spravka: true
   - page:
       pageid: '1675'
       tom: '6'
@@ -105,64 +155,122 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-170.jpg
     persons:
-    - num: '24'
+    - id: '21675'
+      num: '24'
       name: АНЧАБАДЗЕ Вионор Тарасович
-    - num: '25'
+      spravka: true
+    - id: '21676'
+      num: '25'
       name: АРЬЕВ Михаил Григорьевич
-    - num: '26'
+      spravka: true
+    - id: '21677'
+      num: '26'
       name: АСОЯН Самвел Гаврилович
-    - num: '27'
+      spravka: true
+    - id: '21678'
+      num: '27'
       name: АХВЛЕДИАНИ Варлаам Кириллович
-    - num: '28'
+      spravka: true
+    - id: '21679'
+      num: '28'
       name: АХОБАДЗЕ Авксентий Ильич
-    - num: '29'
+      spravka: true
+    - id: '21680'
+      num: '29'
       name: АШИБОКОВ Фуад Алиевич
-    - num: '30'
+      spravka: true
+    - id: '21681'
+      num: '30'
       name: БАГАЕВ Герсан Ражденович
-    - num: '31'
+      spravka: true
+    - id: '21682'
+      num: '31'
       name: БАГДАСАРОВ Султан Аршакович
-    - num: '32'
+      spravka: true
+    - id: '21683'
+      num: '32'
       name: БАЗИЕРАШВИЛИ Илья Ясонович
-    - num: '33'
+      spravka: true
+    - id: '21684'
+      num: '33'
       name: БАРАМИДЗЕ Влас Васильевич
-    - num: '34'
+      spravka: true
+    - id: '21685'
+      num: '34'
       name: БАХТАДЗЕ Григорий Викторович
-    - num: '35'
+      spravka: true
+    - id: '21686'
+      num: '35'
       name: БАХТАДЗЕ Давид Авакумович
-    - num: '36'
+      spravka: true
+    - id: '21687'
+      num: '36'
       name: БЕГИЗОВ Чермен Давидович
-    - num: '37'
+      spravka: true
+    - id: '21688'
+      num: '37'
       name: БЕЛОЗЕРОВ Иван Михайлович
-    - num: '38'
+      spravka: true
+    - id: '21689'
+      num: '38'
       name: БЕРЕЛИДЗЕ Пармен Кациевич
-    - num: '39'
+      spravka: true
+    - id: '21690'
+      num: '39'
       name: БЕРИШВИЛИ Иван Алексеевич
-    - num: '40'
+      spravka: true
+    - id: '21691'
+      num: '40'
       name: БЕСТАЕВ Николай Иосифович
-    - num: '41'
+      spravka: true
+    - id: '21692'
+      num: '41'
       name: БЖАЛАВА Иосиф Андреевич
-    - num: '42'
+      spravka: true
+    - id: '21693'
+      num: '42'
       name: БИБИЛАШВИЛИ Георгий Еремеевич
-    - num: '43'
+      spravka: true
+    - id: '21694'
+      num: '43'
       name: БИНИАШВИЛИ Шалва Ильич
-    - num: '44'
+      spravka: true
+    - id: '21695'
+      num: '44'
       name: БИТИЕВ Вахтанг Исаакович
-    - num: '45'
+      spravka: true
+    - id: '21696'
+      num: '45'
       name: БЛАГИДЗЕ Давид Иосифович
-    - num: '46'
+      spravka: true
+    - id: '21697'
+      num: '46'
       name: БЛУАШВИЛИ Николай Константинович
-    - num: '47'
+      spravka: true
+    - id: '21698'
+      num: '47'
       name: БОБЫНИН Николай Николаевич
-    - num: '48'
+      spravka: true
+    - id: '21699'
+      num: '48'
       name: БОВА Иван Александрович
-    - num: '49'
+      spravka: true
+    - id: '21700'
+      num: '49'
       name: БОГДАНОВ Василий Васильевич
-    - num: '50'
+      spravka: true
+    - id: '21701'
+      num: '50'
       name: БОЛОТАЕВ Давид Соломонович
-    - num: '51'
+      spravka: true
+    - id: '21702'
+      num: '51'
       name: БРЕГВАДЗЕ Виссарион Парменович
-    - num: '52'
+      spravka: true
+    - id: '21703'
+      num: '52'
       name: ВАЗНЕВСКИЙ Василий Ильич
+      spravka: true
   - page:
       pageid: '1676'
       tom: '6'
@@ -179,66 +287,127 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-171.jpg
     persons:
-    - num: '53'
+    - id: '21704'
+      num: '53'
       name: ВАХАНИЯ Давид Юлонович
-    - num: '54'
+      spravka: true
+    - id: '21705'
+      num: '54'
       name: ВИЗИРЯН Сурен Вартанович
-    - num: '55'
+      spravka: true
+    - id: '21706'
+      num: '55'
       name: ГАБУНИЯ Венедикт Луарсаб
-    - num: '56'
+      spravka: true
+    - id: '21707'
+      num: '56'
       name: ГАБУНИЯ Клементий Луарсабович
-    - num: '57'
+      spravka: true
+    - id: '21708'
+      num: '57'
       name: ГАЛОГРЕ Михаил Иосифович
-    - num: '58'
+      spravka: true
+    - id: '21709'
+      num: '58'
       name: ГАССИЕВ Александр Максимович
-    - num: '59'
+      spravka: true
+    - id: '21710'
+      num: '59'
       name: ГАССИЕВ Исмаил Петрович
-    - num: '60'
+      spravka: true
+    - id: '21711'
+      num: '60'
       name: ГВАНЦЕЛАДЗЕ Николай Мелитонович
-    - num: '61'
+      spravka: true
+    - id: '21712'
+      num: '61'
       name: ГВЕЛЕСИАНИ Олифант Пименович
-    - num: '62'
+      spravka: true
+    - id: '21713'
+      num: '62'
       name: ГЕВОРКЯН Мкртыч Шмавонович
-    - num: '63'
+      spravka: true
+    - id: '21714'
+      num: '63'
       name: ГЕГЕЛАШВИЛИ Иоаким Луарсотович
-    - num: '64'
+      spravka: true
+    - id: '21715'
+      num: '64'
       name: ГЕЛАШВИЛИ Георгий Павлович
-    - num: '65'
+      spravka: true
+    - id: '21716'
+      num: '65'
       name: ГЕОРГАДЗЕ Нестор Иванович
-    - num: '66'
+      spravka: true
+    - id: '21717'
+      num: '66'
       name: ГЕОРГОБИАНИ Захарий Алексеевич
-    - num: '67'
+      spravka: true
+    - id: '21718'
+      num: '67'
       name: ГЕОРГОБИАНИ Иван Алексеевич
-    - num: '68'
+      spravka: true
+    - id: '21719'
+      num: '68'
       name: ГИГИБЕРИЯ Петр Ясонович
-    - num: '69'
+      spravka: true
+    - id: '21720'
+      num: '69'
       name: ГИК Абрам Моисеевич
-    - num: '70'
+      spravka: true
+    - id: '21721'
+      num: '70'
       name: ГОГОЛАШВИЛИ Григорий Гекторович
-    - num: '71'
+      spravka: true
+    - id: '21722'
+      num: '71'
       name: ГОГУА Амвросий Матвеевич
-    - num: '72'
+      spravka: true
+    - id: '21723'
+      num: '72'
       name: ГОГУА Пантелеймон Феофилович
-    - num: '73'
+      spravka: true
+    - id: '21724'
+      num: '73'
       name: ГОГУАДЗЕ Севериан Харлампович
-    - num: '74'
+      doublesexists: true
+      spravka: true
+    - id: '21725'
+      num: '74'
       name: ГОЗАЛОВ Иван Иванович
-    - num: '75'
+      spravka: true
+    - id: '21726'
+      num: '75'
       name: ГОЛМАДЗЕ Александр Максимович
-    - num: '76'
+      spravka: true
+    - id: '21727'
+      num: '76'
       name: ГОЦАДЗЕ Иван Павлович
-    - num: '77'
+      spravka: true
+    - id: '21728'
+      num: '77'
       name: ГОШАДЗЕ Давид Васильевич
-    - num: '78'
+      spravka: true
+    - id: '21729'
+      num: '78'
       name: ГОЯЕВ Михаил Григорьевич
-    - num: '79'
+      spravka: true
+    - id: '21730'
+      num: '79'
       name: ГРИГОРЯН Вагинак Оганезович
-    - num: '80'
+      spravka: true
+    - id: '21731'
+      num: '80'
       name: ГУДАВАДЗЕ Григорий Георгиевич
-    - num: '81'
+      spravka: true
+    - id: '21732'
+      num: '81'
       name: ГУЛИЯ Владимир Онисимович
-    - num: '82'
+      spravka: true
+    - id: '21733'
+      num: '82'
       name: ГУЛУА Владимир Петрович
+      spravka: true
   - page:
       pageid: '1677'
       tom: '6'
@@ -255,66 +424,126 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-172.jpg
     persons:
-    - num: '83'
+    - id: '21734'
+      num: '83'
       name: ГУРЧИАНИ Ражден Николаевич
-    - num: '84'
+      spravka: true
+    - id: '21735'
+      num: '84'
       name: ДАВИТАШВИЛИ Георгий Ильич
-    - num: '85'
+      spravka: true
+    - id: '21736'
+      num: '85'
       name: ДАВИТХАНОВ Иосиф Григорьевич
-    - num: '86'
+      spravka: true
+    - id: '21737'
+      num: '86'
       name: ДВАРЕЛИДЗЕ Георгий Савельевич
-    - num: '87'
+      spravka: true
+    - id: '21738'
+      num: '87'
       name: ДЕЛАВЕРИ Александр Евгеньевич
-    - num: '88'
+      spravka: true
+    - id: '21739'
+      num: '88'
       name: ДЕЛИБАШ Александр Захарьевич
-    - num: '89'
+      spravka: true
+    - id: '21740'
+      num: '89'
       name: ДЖАЛИАШВИЛИ Дмитрий Александрович
-    - num: '90'
+      spravka: true
+    - id: '21741'
+      num: '90'
       name: ДЖАЛИАШВИЛИ Шалва Ражденович
-    - num: '91'
+      spravka: true
+    - id: '21742'
+      num: '91'
       name: ДЖАНЕЛИДЗЕ Нина Давыдовна
-    - num: '92'
+      spravka: true
+    - id: '21743'
+      num: '92'
       name: ДЖАПАРИДЗЕ Владимир Викторович
-    - num: '93'
+      spravka: true
+    - id: '21744'
+      num: '93'
       name: ДЖАРАШНЕЛЯН Аркадий Степанович
-    - num: '94'
+      spravka: true
+    - id: '21745'
+      num: '94'
       name: ДЖАШИ Владимир Самсонович
-    - num: '95'
+      spravka: true
+    - id: '21746'
+      num: '95'
       name: ДЖИХ-ОГЛЫ Гамид Махмедович
-    - num: '96'
+      spravka: true
+    - id: '21747'
+      num: '96'
       name: ДЖОРБЕНАДЗЕ Капитон Семенович
-    - num: '97'
+      spravka: true
+    - id: '21748'
+      num: '97'
       name: ДЗИЛИХОВ Георгий Галусович
-    - num: '98'
+      spravka: true
+    - id: '21749'
+      num: '98'
       name: ДОБРОВОЛЬСКАЯ Мария Владимировна
-    - num: '99'
+      spravka: true
+    - id: '21750'
+      num: '99'
       name: ДОЛИДЗЕ Иван Севастьевич
-    - num: '100'
+      spravka: true
+    - id: '21751'
+      num: '100'
       name: ДОЛИДЗЕ Ипполит Мелитонович
-    - num: '101'
+      spravka: true
+    - id: '21752'
+      num: '101'
       name: ДУГЛАДЗЕ Шалва Томасович
-    - num: '102'
+      spravka: true
+    - id: '21753'
+      num: '102'
       name: ЕВТУХОВ Федор Дмитриевич
-    - num: '103'
+      spravka: true
+    - id: '21754'
+      num: '103'
       name: ЕЖОВ Константин Иванович
-    - num: '104'
+      spravka: true
+    - id: '21755'
+      num: '104'
       name: ЕЛКИН Василий Яковлевич
-    - num: '105'
+      spravka: true
+    - id: '21756'
+      num: '105'
       name: ЕРОГИН Александр Михайлович
-    - num: '106'
+      spravka: true
+    - id: '21757'
+      num: '106'
       name: ЖОЖОЛИАНИ Иван Леванович
-    - num: '107'
+      spravka: true
+    - id: '21758'
+      num: '107'
       name: ЗАКТРЕГЕР Илья Яковлевич
-    - num: '108'
+      spravka: true
+    - id: '21759'
+      num: '108'
       name: ЗАРДАНИЯ Ясон Дмитриевич
-    - num: '109'
+      spravka: true
+    - id: '21760'
+      num: '109'
       name: ЗИБЗИБАДЗЕ Александр Яковлевич
-    - num: '110'
+      spravka: true
+    - id: '21761'
+      num: '110'
       name: ЗЛЫГОСТЕВ Александр Прохорович
-    - num: '111'
+      spravka: true
+    - id: '21762'
+      num: '111'
       name: ИВАНОВ Александр Андреевич
-    - num: '112'
+      spravka: true
+    - id: '21763'
+      num: '112'
       name: ИВАНОВ Семен Григорьевич
+      spravka: true
   - page:
       pageid: '1678'
       tom: '6'
@@ -331,66 +560,127 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-173.jpg
     persons:
-    - num: '113'
+    - id: '21764'
+      num: '113'
       name: ИЗОРИЯ Ясон Михайлович
-    - num: '114'
+      spravka: true
+    - id: '21765'
+      num: '114'
       name: ИСАРЛИШВИЛИ Александр Леванович
-    - num: '115'
+      spravka: true
+    - id: '21766'
+      num: '115'
       name: КАВТАРАДЗЕ Григорий Андреевич
-    - num: '116'
+      spravka: true
+    - id: '21767'
+      num: '116'
       name: КАВТАРАДЗЕ Сардион Андреевич
-    - num: '117'
+      spravka: true
+    - id: '21768'
+      num: '117'
       name: КАНДЕЛАКИ Александр Георгиевич
-    - num: '118'
+      spravka: true
+    - id: '21769'
+      num: '118'
       name: КАРАХАНИШВИЛИ Михаил Николаевич
-    - num: '119'
+      spravka: true
+    - id: '21770'
+      num: '119'
       name: КАРБЕЛОВ Шалва Васильевич
-    - num: '120'
+      spravka: true
+    - id: '21771'
+      num: '120'
       name: КАРГИЕВ Бегизе Макарович
-    - num: '121'
+      spravka: true
+    - id: '21772'
+      num: '121'
       name: КАРСЕЛАДЗЕ Шалва Илларионович
-    - num: '122'
+      spravka: true
+    - id: '21773'
+      num: '122'
       name: КАРТВЕЛИШВИЛИ Давид Александрович
-    - num: '123'
+      spravka: true
+    - id: '21774'
+      num: '123'
       name: КАРЦИВАДЗЕ Вениамин Иссидорович
-    - num: '124'
+      spravka: true
+    - id: '21775'
+      num: '124'
       name: КАТАНОВ Феофан Иванович
-    - num: '125'
+      spravka: true
+    - id: '21776'
+      num: '125'
       name: КАЧАХИДЗЕ Шалва Илларионович
-    - num: '126'
+      spravka: true
+    - id: '21777'
+      num: '126'
       name: КВАРЦХАВА Александр Филиппович
-    - num: '127'
+      spravka: true
+    - id: '21778'
+      num: '127'
       name: КВАЧАДЗЕ Григорий Михайлович
-    - num: '128'
+      spravka: true
+    - id: '21779'
+      num: '128'
       name: КВЕКВЕЦИЯ Арчил Эрастович
-    - num: '129'
+      spravka: true
+    - id: '21780'
+      num: '129'
       name: КВЕРКВЕЛИЯ Леван Александрович
-    - num: '130'
+      spravka: true
+    - id: '21781'
+      num: '130'
       name: КЕИДИЯ Аполлон Петрович
-    - num: '131'
+      spravka: true
+    - id: '21782'
+      num: '131'
       name: КЕЛБАКИАНИ Иосиф Парнаозович
-    - num: '132'
+      spravka: true
+    - id: '21783'
+      num: '132'
       name: КЕНДЖАРАДЗЕ Валериан Антонович
-    - num: '133'
+      spravka: true
+    - id: '21784'
+      num: '133'
       name: КЕНЧАДЗЕ Владимир Лукич
-    - num: '134'
+      doublesexists: true
+      spravka: true
+    - id: '21785'
+      num: '134'
       name: КЕНЧОШВИЛИ Николай Дмитриевич
-    - num: '135'
+      spravka: true
+    - id: '21786'
+      num: '135'
       name: КИГУРАДЗЕ Герман Семенович
-    - num: '136'
+      spravka: true
+    - id: '21787'
+      num: '136'
       name: КИЗИРИЯ Серапион Караманович
-    - num: '137'
+      spravka: true
+    - id: '21788'
+      num: '137'
       name: КИКНАДЗЕ Платон Шалвович
-    - num: '138'
+      spravka: true
+    - id: '21789'
+      num: '138'
       name: КИКНАДЗЕ Севериан Ираклиевич
-    - num: '139'
+      spravka: true
+    - id: '21790'
+      num: '139'
       name: КИКНАДЗЕ Шалва Константинович
-    - num: '140'
+      spravka: true
+    - id: '21791'
+      num: '140'
       name: КИКОБАДЗЕ Владимир Спиридонович
-    - num: '141'
+      spravka: true
+    - id: '21792'
+      num: '141'
       name: КИПИАНИ Илья Георгиевич
-    - num: '142'
+      spravka: true
+    - id: '21793'
+      num: '142'
       name: КИРВАЛИДЗЕ Платон Иванович
+      spravka: true
   - page:
       pageid: '1679'
       tom: '6'
@@ -407,66 +697,127 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-174.jpg
     persons:
-    - num: '143'
+    - id: '21794'
+      num: '143'
       name: КИРИЛОВ Алексей Васильевич
-    - num: '144'
+      spravka: true
+    - id: '21795'
+      num: '144'
       name: КИРИЯ Исидор Иванович
-    - num: '145'
+      spravka: true
+    - id: '21796'
+      num: '145'
       name: КЛЕППЕР Петр Иванович
-    - num: '146'
+      spravka: true
+    - id: '21797'
+      num: '146'
       name: КОБАХИДЗЕ Валентин Елизбарович
-    - num: '147'
+      spravka: true
+    - id: '21798'
+      num: '147'
       name: КОКОСАДЗЕ Константин Васильевич
-    - num: '148'
+      spravka: true
+    - id: '21799'
+      num: '148'
       name: КОМПАНЕЕЦ Иона Моисеевич
-    - num: '149'
+      spravka: true
+    - id: '21800'
+      num: '149'
       name: КОПАШАВИДЗЕ Владимир Константинович
-    - num: '150'
+      spravka: true
+    - id: '21801'
+      num: '150'
       name: КОПТАНАШВИЛИ Шалва Васильевич
-    - num: '151'
+      spravka: true
+    - id: '21802'
+      num: '151'
       name: КОРДЗАЯ Георгий Парменович
-    - num: '152'
+      spravka: true
+    - id: '21803'
+      num: '152'
       name: КОСОВСКИЙ Петр Вильгельмович
-    - num: '153'
+      spravka: true
+    - id: '21804'
+      num: '153'
       name: КОТЧЕНКО Сергей Леонтьевич
-    - num: '154'
+      spravka: true
+    - id: '21805'
+      num: '154'
       name: КРЕМЕР Злата Иосифовна
-    - num: '155'
+      spravka: true
+    - id: '21806'
+      num: '155'
       name: КУЧУБЕРИЯ Еремей Максимович
-    - num: '156'
+      doublesexists: true
+      spravka: true
+    - id: '21807'
+      num: '156'
       name: ЛАГВИЛАВА Тарасий Исидорович
-    - num: '157'
+      spravka: true
+    - id: '21808'
+      num: '157'
       name: ЛАРИОНОВ Иван Георгиевич
-    - num: '158'
+      spravka: true
+    - id: '21809'
+      num: '158'
       name: ЛЕВИНСКИЙ Адольф Александрович
-    - num: '159'
+      spravka: true
+    - id: '21810'
+      num: '159'
       name: ЛЕЖАВА Иосиф Георгиевич
-    - num: '160'
+      spravka: true
+    - id: '21811'
+      num: '160'
       name: ЛЕЖАВА Шалва Михайлович
-    - num: '161'
+      spravka: true
+    - id: '21812'
+      num: '161'
       name: ЛЕЙН Виктор Львович
-    - num: '162'
+      spravka: true
+    - id: '21813'
+      num: '162'
       name: ЛИВДАН Федор Андреевич
-    - num: '163'
+      spravka: true
+    - id: '21814'
+      num: '163'
       name: ЛОЛУА Константин Виссарионович
-    - num: '164'
+      spravka: true
+    - id: '21815'
+      num: '164'
       name: МАЙСАШВИЛИ Георгий Григорьевич
-    - num: '165'
+      spravka: true
+    - id: '21816'
+      num: '165'
       name: МАКИЕВ Платон Гигоевич
-    - num: '166'
+      spravka: true
+    - id: '21817'
+      num: '166'
       name: МАЛАЯН Вартан Захарович
-    - num: '167'
+      spravka: true
+    - id: '21818'
+      num: '167'
       name: МАЛЬСАГИШВИЛИ Василий Яковлевич
-    - num: '168'
+      spravka: true
+    - id: '21819'
+      num: '168'
       name: МАМОНТОВ Василий Алексеевич
-    - num: '169'
+      spravka: true
+    - id: '21820'
+      num: '169'
       name: МАРКОВИЧ Борис Мартирович
-    - num: '170'
+      spravka: true
+    - id: '21821'
+      num: '170'
       name: МАРТЫНОВ Леонид Константинович
-    - num: '171'
+      spravka: true
+    - id: '21822'
+      num: '171'
       name: МАСХУЛИЯ Василий Алексеевич
-    - num: '172'
+      spravka: true
+    - id: '21823'
+      num: '172'
       name: МАТИНЯН Анаида Абрамовна
+      spravka: true
   - page:
       pageid: '1680'
       tom: '6'
@@ -483,62 +834,121 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-175.jpg
     persons:
-    - num: '173'
+    - id: '21824'
+      num: '173'
       name: МАТИТАШВИЛИ Капитон Никифорович
-    - num: '174'
+      spravka: true
+    - id: '21825'
+      num: '174'
       name: МАХЕРИДИ Константин Федорович
-    - num: '175'
+      gb_spravka: true
+      spravka: true
+    - id: '21826'
+      num: '175'
       name: МАЧАВАРИАНИ Владимир Иванович
-    - num: '176'
+      spravka: true
+    - id: '21827'
+      num: '176'
       name: МАЧАВАРИАНИ Илья Георгиевич
-    - num: '177'
+      doublesexists: true
+      spravka: true
+    - id: '21828'
+      num: '177'
       name: МЕДВЕДЕВ Константин Леонтьевич
-    - num: '178'
+      spravka: true
+    - id: '21829'
+      num: '178'
       name: МЕЙШВИЛИ Николай Иванович
-    - num: '179'
+      spravka: true
+    - id: '21830'
+      num: '179'
       name: МЕСОЕД Болеслав Викентьевич
-    - num: '180'
+      spravka: true
+    - id: '21831'
+      num: '180'
       name: МЕЛАДЗЕ Шалва Яковлевич
-    - num: '181'
+      spravka: true
+    - id: '25713'
+      num: '181'
       name: МЕЛУА Георгий Моисеевич
-    - num: '182'
+      doublesexists: true
+      spravka: true
+    - id: '21833'
+      num: '182'
       name: МЖАВАНАДЗЕ Владимир Георгиевич
-    - num: '183'
+      spravka: true
+    - id: '21834'
+      num: '183'
       name: МИКАДЗЕ Шалва Мелитонович
-    - num: '184'
+      spravka: true
+    - id: '21835'
+      num: '184'
       name: МИКЕЛАДЗЕ Шалва Соломонович
-    - num: '185'
+      spravka: true
+    - id: '21836'
+      num: '185'
       name: МИНДИАШВИЛИ Иван Яковлевич
-    - num: '186'
+      spravka: true
+    - id: '21837'
+      num: '186'
       name: МИРВЕЛОВ Рубен
-    - num: '187'
+      spravka: true
+    - id: '21838'
+      num: '187'
       name: МОНДШТЕЙН Людвиг Монович
-    - num: '188'
+      spravka: true
+    - id: '21839'
+      num: '188'
       name: МУМЛАДЗЕ Калистрат Илларионович
-    - num: '189'
+      spravka: true
+    - id: '21840'
+      num: '189'
       name: МУРТАЗАШВИЛИ Реваз Тимофеевич
-    - num: '190'
+      spravka: true
+    - id: '21841'
+      num: '190'
       name: МУРТИДИ Савва Михайлович
-    - num: '191'
+      spravka: true
+    - id: '21842'
+      num: '191'
       name: МУСЕРИДЗЕ Вениамин Илларионович
-    - num: '192'
+      spravka: true
+    - id: '21843'
+      num: '192'
       name: МУСТАКОПУЛО Фалис Георгиевич
-    - num: '193'
+      spravka: true
+    - id: '21844'
+      num: '193'
       name: МУСХЕЛОВ Георгий Ильич
-    - num: '194'
+      spravka: true
+    - id: '21845'
+      num: '194'
       name: МХИТАРОВ Армен Павлович
-    - num: '195'
+      spravka: true
+    - id: '21846'
+      num: '195'
       name: НАДАРЕЙШВИЛИ Баграт Дмитриевич
-    - num: '196'
+      spravka: true
+    - id: '21847'
+      num: '196'
       name: НАЗАРОВ Иван Григорьевич
-    - num: '197'
+      spravka: true
+    - id: '21848'
+      num: '197'
       name: НАКАИДЗЕ Александр Антонович
-    - num: '198'
+      spravka: true
+    - id: '21849'
+      num: '198'
       name: НАКАИДЗЕ Григорий Владимирович
-    - num: '199'
+      spravka: true
+    - id: '21850'
+      num: '199'
       name: НАПЕТВАРИДЗЕ Иовел Калистратович
-    - num: '200'
+      spravka: true
+    - id: '21851'
+      num: '200'
       name: НАРСКИХ Вениамин Иванович
+      spravka: true
   - page:
       pageid: '1681'
       tom: '6'
@@ -555,64 +965,122 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-176.jpg
     persons:
-    - num: '201'
+    - id: '21852'
+      num: '201'
       name: НЕПАРИДЗЕ Ерастий Нестерович
-    - num: '202'
+      spravka: true
+    - id: '21853'
+      num: '202'
       name: НИЖЕРАДЗЕ Александр Михайлович
-    - num: '203'
+      spravka: true
+    - id: '21854'
+      num: '203'
       name: НИКОЛАЕВ Иван Бахвеевич
-    - num: '204'
+      spravka: true
+    - id: '21855'
+      num: '204'
       name: НУРОВ Степан Георгиевич
-    - num: '205'
+      spravka: true
+    - id: '21856'
+      num: '205'
       name: ОВСЕПЯН Шамир Аракелович
-    - num: '206'
+      spravka: true
+    - id: '21857'
+      num: '206'
       name: ОГАНЕЗОВ Георгий Васильевич
-    - num: '207'
+      spravka: true
+    - id: '21858'
+      num: '207'
       name: ОРАГВЕЛИДЗЕ Давид Иосифович
-    - num: '208'
+      spravka: true
+    - id: '21859'
+      num: '208'
       name: ОРДЖОНИКИДЗЕ Савва Валерьянович
-    - num: '209'
+      spravka: true
+    - id: '21860'
+      num: '209'
       name: ПАПИКЯН Артавазд Мкртычевич
-    - num: '210'
+      spravka: true
+    - id: '21861'
+      num: '210'
       name: ПЕТРИДИ Василий Панаотович
-    - num: '211'
+      spravka: true
+    - id: '21862'
+      num: '211'
       name: ПЕТРОСОВ Артем Аветисович
-    - num: '212'
+      spravka: true
+    - id: '21863'
+      num: '212'
       name: ПИЛИЕВ Арсен Александрович
-    - num: '213'
+      spravka: true
+    - id: '21864'
+      num: '213'
       name: ПИРАЛИШВИЛИ Александр Захарович
-    - num: '214'
+      spravka: true
+    - id: '21865'
+      num: '214'
       name: ПИРЦХАЛАШВИЛИ Григорий Платонович
-    - num: '215'
+      spravka: true
+    - id: '21866'
+      num: '215'
       name: ПЛЕШКОВ Виталий Сергеевич
-    - num: '216'
+      spravka: true
+    - id: '21867'
+      num: '216'
       name: ПОКРОВСКИЙ Василий Михайлович
-    - num: '217'
+      spravka: true
+    - id: '21868'
+      num: '217'
       name: ПОПИЛЬСКИЙ Александр Борисович
-    - num: '218'
+      spravka: true
+    - id: '21869'
+      num: '218'
       name: ПРУСЕЦКИЙ Владимир Андреевич
-    - num: '219'
+      spravka: true
+    - id: '21870'
+      num: '219'
       name: ПУГАЧЕВ Сергей Кириллович
-    - num: '220'
+      spravka: true
+    - id: '21871'
+      num: '220'
       name: РАБИНОВИЧ Вениамин Исаакович
-    - num: '221'
+      spravka: true
+    - id: '21872'
+      num: '221'
       name: РАМИШВИЛИ Лаврентий Христофорович
-    - num: '222'
+      spravka: true
+    - id: '21873'
+      num: '222'
       name: РАЧВЕЛИШВИЛИ Христофор Лукич
-    - num: '223'
+      spravka: true
+    - id: '21874'
+      num: '223'
       name: РОЙНИШВИЛИ Василий Михайлович
-    - num: '224'
+      spravka: true
+    - id: '21875'
+      num: '224'
       name: РОМАНИШВИЛИ Александр Ильич
-    - num: '225'
+      spravka: true
+    - id: '21876'
+      num: '225'
       name: РОНЗАНИ Алоис Алоисевич
-    - num: '226'
+      spravka: true
+    - id: '21877'
+      num: '226'
       name: РОСС Евгений Александрович
-    - num: '227'
+      spravka: true
+    - id: '21878'
+      num: '227'
       name: РУХАДЗЕ Шалва Варламович
-    - num: '228'
+      spravka: true
+    - id: '21879'
+      num: '228'
       name: САКВАРЕЛИДЗЕ Вахтанг Захарьевич
-    - num: '229'
+      spravka: true
+    - id: '21880'
+      num: '229'
       name: САЛТХУЦИШВИЛИ Герасим Игнатьевич
+      spravka: true
   - page:
       pageid: '1682'
       tom: '6'
@@ -629,64 +1097,123 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-177.jpg
     persons:
-    - num: '230'
+    - id: '21881'
+      num: '230'
       name: САМАНАШВИЛИ Николай Александрович
-    - num: '231'
+      spravka: true
+    - id: '21882'
+      num: '231'
       name: САМСОНИЯ Георгий Александрович
-    - num: '232'
+      spravka: true
+    - id: '21883'
+      num: '232'
       name: СВАНИДЗЕ Георгий Ерастович
-    - num: '233'
+      spravka: true
+    - id: '21884'
+      num: '233'
       name: СВИРАВА Иона Тогуевич
-    - num: '234'
+      doublesexists: true
+      spravka: true
+    - id: '21885'
+      num: '234'
       name: СЕРДЮКОВ Павел Васильевич
-    - num: '235'
+      spravka: true
+    - id: '21886'
+      num: '235'
       name: СЕРГАЧЕВ Андрей Иванович
-    - num: '236'
+      spravka: true
+    - id: '21887'
+      num: '236'
       name: СИСАУРИ Илья Николаевич
-    - num: '237'
+      spravka: true
+    - id: '21888'
+      num: '237'
       name: СЛОБОДА Константин Иосифович
-    - num: '238'
+      spravka: true
+    - id: '21889'
+      num: '238'
       name: СЛЮСАРЬ Иван Семенович
-    - num: '239'
+      spravka: true
+    - id: '21890'
+      num: '239'
       name: СУЛУХИЯ Михаил Ивлианович
-    - num: '240'
+      spravka: true
+    - id: '21891'
+      num: '240'
       name: СУШЕВСКИЙ Дмитрий Михайлович
-    - num: '241'
+      spravka: true
+    - id: '21892'
+      num: '241'
       name: ТАКТАКИШВИЛИ Дмитрий Георгиевич
-    - num: '242'
+      spravka: true
+    - id: '21893'
+      num: '242'
       name: ТАРБА Виссарион Яковлевич
-    - num: '243'
+      spravka: true
+    - id: '21894'
+      num: '243'
       name: ТАРКИЛ Константин Киакович
-    - num: '244'
+      spravka: true
+    - id: '21895'
+      num: '244'
       name: ТАТИШВИЛИ Георгий Яковлевич
-    - num: '245'
+      spravka: true
+    - id: '21896'
+      num: '245'
       name: ТЕДЕЕВ Владимир Гулич
-    - num: '246'
+      spravka: true
+    - id: '21897'
+      num: '246'
       name: ТЕДЕЕВ Иосиф Васильевич
-    - num: '247'
+      spravka: true
+    - id: '21898'
+      num: '247'
       name: ТЕР-МИНАСОВ Яков Спиридонович
-    - num: '248'
+      spravka: true
+    - id: '21899'
+      num: '248'
       name: ТЕР-СТЕПАНОВ Александр Николаевич
-    - num: '249'
+      spravka: true
+    - id: '21900'
+      num: '249'
       name: ТИМОНИН Михаил Васильевич
-    - num: '250'
+      spravka: true
+    - id: '21901'
+      num: '250'
       name: ТИНТИКОВ Николай Александрович
-    - num: '251'
+      spravka: true
+    - id: '21902'
+      num: '251'
       name: ТОПУРИЯ Давид Петрович
-    - num: '252'
+      spravka: true
+    - id: '21903'
+      num: '252'
       name: ТОПУРИЯ Ипполит Сачинович
-    - num: '253'
+      spravka: true
+    - id: '21904'
+      num: '253'
       name: УБЕРФЕЛЬД Лазарь Моисеевич
-    - num: '254'
+      spravka: true
+    - id: '21905'
+      num: '254'
       name: ФАЙН Зиновий Зейманович
-    - num: '255'
+      spravka: true
+    - id: '21906'
+      num: '255'
       name: ХАРЕБОВ Илья Бадилаевич
-    - num: '256'
+      spravka: true
+    - id: '21907'
+      num: '256'
       name: ХАРИТОВ Владимир Филиппович
-    - num: '257'
+      spravka: true
+    - id: '21908'
+      num: '257'
       name: ХАРЧИЛАВА Давид Семенович
-    - num: '258'
+      spravka: true
+    - id: '21909'
+      num: '258'
       name: ХАРЧИЛАВА Рабидон Учалович
+      spravka: true
   - page:
       pageid: '1683'
       tom: '6'
@@ -703,64 +1230,125 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-178.jpg
     persons:
-    - num: '259'
+    - id: '20627'
+      num: '259'
       name: ХАЧАТРЯН Степан Айрапетович
-    - num: '260'
+      doublesexists: true
+      spravka: true
+    - id: '21911'
+      num: '260'
       name: ХАЧАТУРОВ Сет Павлович
-    - num: '261'
+      spravka: true
+    - id: '21912'
+      num: '261'
       name: ХАШБА Арсентий Константинович
-    - num: '262'
+      spravka: true
+    - id: '21913'
+      num: '262'
       name: ХВАРЦКИЯ Максим Жабович
-    - num: '263'
+      spravka: true
+    - id: '21914'
+      num: '263'
       name: ХВЕДЕЛИДЗЕ Сократ Иванович
-    - num: '264'
+      spravka: true
+    - id: '21915'
+      num: '264'
       name: ХИДЖАКАДЗЕ Абесалом Амберкович
-    - num: '265'
+    - id: '21916'
+      num: '265'
       name: ХОМАСУРИДЗЕ Артем Зосимович
-    - num: '266'
+      spravka: true
+    - id: '21917'
+      num: '266'
       name: ХУДОВЕРДЯН Грайр Ашотович
-    - num: '267'
+      spravka: true
+    - id: '21918'
+      num: '267'
       name: ХУНДАДЗЕ Георгий Герасимович
-    - num: '268'
+      spravka: true
+    - id: '21919'
+      num: '268'
       name: ХУНДАДЗЕ Прокофий Барнабович
-    - num: '269'
+      spravka: true
+    - id: '21920'
+      num: '269'
       name: ХУНТУА Лаврентий Дзвандзванович
-    - num: '270'
+      spravka: true
+    - id: '21921'
+      num: '270'
       name: ЦАКАДЗЕ Павел Тарасиевич
-    - num: '271'
+      doublesexists: true
+      spravka: true
+    - id: '21922'
+      num: '271'
       name: ЦИНЦАДЗЕ Давид Константинович
-    - num: '272'
+      spravka: true
+    - id: '21923'
+      num: '272'
       name: ЦИНЦАДЗЕ Михаил Иванович
-    - num: '273'
+      spravka: true
+    - id: '21924'
+      num: '273'
       name: ЦИРЕКИДЗЕ Валико Константинович
-    - num: '274'
+      spravka: true
+    - id: '21925'
+      num: '274'
       name: ЦИХИСТОВ Фома Владимирович
-    - num: '275'
+      spravka: true
+    - id: '21926'
+      num: '275'
       name: ЦУРКАВА Шалва Ясонович
-    - num: '276'
+      doublesexists: true
+      spravka: true
+    - id: '21927'
+      num: '276'
       name: ЦХАДАДЗЕ Диомид Парменович
-    - num: '277'
+      spravka: true
+    - id: '21928'
+      num: '277'
       name: ЦХОМАРИЯ Александр Михайлович
-    - num: '278'
+      spravka: true
+    - id: '21929'
+      num: '278'
       name: ЧАКВЕТАДЗЕ Сократ Александрович
-    - num: '279'
+      spravka: true
+    - id: '21930'
+      num: '279'
       name: ЧАНАДИРИ Александр Захарович
-    - num: '280'
+      spravka: true
+    - id: '21931'
+      num: '280'
       name: ЧАНТУРИЯ Пармен Бахович
-    - num: '281'
+      spravka: true
+    - id: '21932'
+      num: '281'
       name: ЧАЧИЯ Иона Мелитонович
-    - num: '282'
+      spravka: true
+    - id: '21933'
+      num: '282'
       name: ЧЕЙШВИЛИ Иосиф Июлианович
-    - num: '283'
+      spravka: true
+    - id: '21934'
+      num: '283'
       name: ЧЕЙШВИЛИ Шалва Алексеевич
-    - num: '284'
+      spravka: true
+    - id: '21935'
+      num: '284'
       name: ЧЕРКАЙ Михаил Степанович
-    - num: '285'
+      spravka: true
+    - id: '21936'
+      num: '285'
       name: ЧИТАЯ Александр Вотоевич
-    - num: '286'
+      doublesexists: true
+      spravka: true
+    - id: '21937'
+      num: '286'
       name: ЧИХЛАДЗЕ Шила Евсеевич
-    - num: '287'
+      spravka: true
+    - id: '21938'
+      num: '287'
       name: ЧОЛОКУА Баджга Асланович
+      spravka: true
   - page:
       pageid: '1684'
       tom: '6'
@@ -777,29 +1365,56 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-179.jpg
     persons:
-    - num: '288'
+    - id: '21939'
+      num: '288'
       name: ЧОЧУА Борис Андреевич
-    - num: '289'
+      doublesexists: true
+      spravka: true
+    - id: '21940'
+      num: '289'
       name: ЧУРГУЛИЯ Варлам Арчилович
-    - num: '290'
+      spravka: true
+    - id: '21941'
+      num: '290'
       name: ШАДУРА Федор Гаврилович
-    - num: '291'
+      spravka: true
+    - id: '21942'
+      num: '291'
       name: ШАКЕРБАЯ Константин Захарович
-    - num: '292'
+      spravka: true
+    - id: '21943'
+      num: '292'
       name: ШАХДИНАРОВ Иосиф Арутюнович
-    - num: '293'
+      spravka: true
+    - id: '21944'
+      num: '293'
       name: ШЕЛИЯ Терентий Лукич
-    - num: '294'
+      spravka: true
+    - id: '21945'
+      num: '294'
       name: ШЕНГЕЛИЯ Георгий Филиппович
-    - num: '295'
+      spravka: true
+    - id: '21946'
+      num: '295'
       name: ШЕНГЕЛИЯ Григорий Теймуразович
-    - num: '296'
+      spravka: true
+    - id: '21947'
+      num: '296'
       name: ШУЛЯЦКИЙ Борис Михайлович
-    - num: '297'
+      spravka: true
+    - id: '21948'
+      num: '297'
       name: ЭКУА Семен Мелитонович
-    - num: '298'
+      spravka: true
+    - id: '21949'
+      num: '298'
       name: ЭССЕН Алексей Антонович
-    - num: '299'
+      spravka: true
+    - id: '21950'
+      num: '299'
       name: ЯКОБАШВИЛИ Антон Леонтьевич
-    - num: '300'
+      spravka: true
+    - id: '21951'
+      num: '300'
       name: ЯРЦЕВ Алексей Петрович
+      spravka: true

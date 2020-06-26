@@ -47,10 +47,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-56.jpg
     persons:
-    - num: '1'
+    - id: '45157'
+      num: '1'
       name: ФЕДОСЕЕВ Иван Иванович
-    - num: '2'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45158'
+      num: '2'
       name: МАТУСИС Ирина Владимировна
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4056'
       tom: '16'
@@ -67,8 +75,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-57.jpg
     persons:
-    - num: '3'
+    - id: '45159'
+      num: '3'
       name: РИГЕРМАН Георгий Александрович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4057'
       tom: '16'
@@ -85,10 +97,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-58.jpg
     persons:
-    - num: '4'
+    - id: '45160'
+      num: '4'
       name: ИВИЧ Леонид Абрамович
-    - num: '5'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45161'
+      num: '5'
       name: ЗИНДЕ Михаил Моисеевич, он же Соломон Моисеевич
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4058'
       tom: '16'
@@ -105,8 +125,11 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-59.jpg
     persons:
-    - num: '6'
+    - id: '45162'
+      num: '6'
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
+      doublesexists: true
+      gb_spravka: true
   - page:
       pageid: '4059'
       tom: '16'
@@ -123,10 +146,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-60.jpg
     persons:
-    - num: '7'
+    - id: '45163'
+      num: '7'
       name: ФРИДМАН Сам-Рафаэль Яковлевич
-    - num: '8'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45164'
+      num: '8'
       name: АНДРЕЙЧИН Георгий Ильич
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4060'
       tom: '16'
@@ -143,8 +174,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-61.jpg
     persons:
-    - num: '9'
+    - id: '45165'
+      num: '9'
       name: ХУДЯКОВ Сергей Александрович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4061'
       tom: '16'
@@ -161,10 +196,17 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-62.jpg
     persons:
-    - num: '10'
+    - id: '45166'
+      num: '10'
       name: КОЛЕСНИКОВ Вениамин Петрович
-    - num: '11'
+      doublesexists: true
+      gb_spravka: true
+    - id: '45167'
+      num: '11'
       name: ЕГОРОВ Юрий Федорович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4062'
       tom: '16'
@@ -181,10 +223,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-63.jpg
     persons:
-    - num: '12'
+    - id: '45168'
+      num: '12'
       name: БЕССОНОВ Иван Георгиевич
-    - num: '13'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45169'
+      num: '13'
       name: БУДЫХО Александр Ефимович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4063'
       tom: '16'
@@ -201,8 +251,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-64.jpg
     persons:
-    - num: '14'
+    - id: '45170'
+      num: '14'
       name: БОГДАНОВ Павел Васильевич
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4064'
       tom: '16'
@@ -219,10 +273,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-65.jpg
     persons:
-    - num: '15'
+    - id: '45171'
+      num: '15'
       name: НАУМОВ Андрей Зиновьевич
-    - num: '16'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45172'
+      num: '16'
       name: ЕГОРОВ Евгений Арсеньевич
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4065'
       tom: '16'
@@ -239,10 +301,17 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-66.jpg
     persons:
-    - num: '17'
+    - id: '45173'
+      num: '17'
       name: ЗЫБИН Ефим Сергеевич
-    - num: '18'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45174'
+      num: '18'
       name: БОГДАНОВ Михаил Васильевич
+      doublesexists: true
+      gb_spravka: true
   - page:
       pageid: '4066'
       tom: '16'
@@ -259,10 +328,17 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-67.jpg
     persons:
-    - num: '19'
+    - id: '45175'
+      num: '19'
       name: ТАСОЕВ Ясон Давыдович
-    - num: '20'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45176'
+      num: '20'
       name: САВИНОВ Владимир Александрович
+      doublesexists: true
+      gb_spravka: true
   - page:
       pageid: '4068'
       tom: '16'
@@ -279,10 +355,17 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-69.jpg
     persons:
-    - num: '23'
+    - id: '45177'
+      num: '23'
       name: ГУТГАРЦ Шмиль Григорьевич
-    - num: '24'
+      doublesexists: true
+      gb_spravka: true
+    - id: '45178'
+      num: '24'
       name: БОГОЛЮБОВ Сергей Александрович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4069'
       tom: '16'
@@ -299,10 +382,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-70.jpg
     persons:
-    - num: '25'
+    - id: '45179'
+      num: '25'
       name: КАПУСТИН Михаил Алексеевич
-    - num: '26'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45180'
+      num: '26'
       name: ЯКОБСОН Борис Исаакович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4070'
       tom: '16'
@@ -319,8 +410,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-71.jpg
     persons:
-    - num: '27'
+    - id: '45181'
+      num: '27'
       name: РОСТОВЦЕВА Ольга Михайловна
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4071'
       tom: '16'
@@ -337,10 +432,18 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-72.jpg
     persons:
-    - num: '28'
+    - id: '45182'
+      num: '28'
       name: РОСТОВЦЕВА Ирина Евгеньевна
-    - num: '29'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '45183'
+      num: '29'
       name: ТОПОРКОВА Елена Алексеевна
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4072'
       tom: '16'
@@ -357,10 +460,16 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-73.jpg
     persons:
-    - num: '30'
+    - id: '45184'
+      num: '30'
       name: ЮРКОВСКИЙ Василий Яковлевич
-    - num: '31'
+      doublesexists: true
+      gb_spravka: true
+    - id: '45185'
+      num: '31'
       name: ПОПОВ Назар Анфиногенович
+      doublesexists: true
+      gb_spravka: true
   - page:
       pageid: '4073'
       tom: '16'
@@ -377,10 +486,16 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-74.jpg
     persons:
-    - num: '32'
+    - id: '45186'
+      num: '32'
       name: МАТРЕНИНСКИЙ Василий Иосифович
-    - num: '33'
+      doublesexists: true
+      gb_spravka: true
+    - id: '45187'
+      num: '33'
       name: АМАН Георгий Матвеевич
+      doublesexists: true
+      gb_spravka: true
   - page:
       pageid: '4074'
       tom: '16'
@@ -397,8 +512,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-75.jpg
     persons:
-    - num: '34'
+    - id: '45188'
+      num: '34'
       name: ГААГЕ Александр Георгиевич
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4075'
       tom: '16'
@@ -415,8 +534,12 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-76.jpg
     persons:
-    - num: '35'
+    - id: '45189'
+      num: '35'
       name: ЯНКЕ Курт
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '4067'
       tom: '16'
@@ -433,7 +556,13 @@ sublists:
       pometa: '0'
     page_image: v16/3-57-100-68.jpg
     persons:
-    - num: '21'
+    - id: '45662'
+      num: '21'
       name: КОССА Михаил Ильич
-    - num: '22'
+      doublesexists: true
+      gb_spravka: true
+    - id: '45663'
+      num: '22'
       name: ГЛАВАЦКИЙ Иосиф Иосифович
+      doublesexists: true
+      gb_spravka: true

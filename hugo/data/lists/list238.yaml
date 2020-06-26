@@ -34,22 +34,36 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-168.jpg
     persons:
-    - num: '1'
+    - id: '9614'
+      num: '1'
       name: БАБАЕВ Андрей Нестерович
-    - num: '2'
+      spravka: true
+    - id: '9615'
+      num: '2'
       name: ДЕРЕВЦОВ Сергей Иванович
-    - num: '3'
+      spravka: true
+    - id: '9616'
+      num: '3'
       name: ПАНФИЛОВ Алексей Данилович
-    - num: '4'
+    - id: '9617'
+      num: '4'
       name: ПОПОВ Борис Григорьевич
-    - num: '5'
+    - id: '9618'
+      num: '5'
       name: РОМАНЕНКО Ефим Васильевич
-    - num: '6'
+      spravka: true
+    - id: '9619'
+      num: '6'
       name: ФИЛИППОВ Константин Федорович
-    - num: '7'
+      spravka: true
+    - id: '9620'
+      num: '7'
       name: УРМАН Абрам Самойлович
-    - num: '8'
+      spravka: true
+    - id: '9621'
+      num: '8'
       name: ШИПОВ Александр Павлович
+      spravka: true
 - title: Список от 3 октября 1937г. [Челябинская область]
   sublisttitle: Челябинская область
   pages:
@@ -69,14 +83,20 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-169.jpg
     persons:
-    - num: '1'
+    - id: '9622'
+      num: '1'
       name: КЕДРОВСКИХ Павел Тимофеевич
-    - num: '2'
+      spravka: true
+    - id: '9623'
+      num: '2'
       name: РАЗОРВИН Василий Леонтьевич
-    - num: '3'
+    - id: '9624'
+      num: '3'
       name: ФЕДОРОВ Василий Гаврилович
-    - num: '1'
+    - id: '9625'
+      num: '1'
       name: КАРГАПОЛОВ Михаил Васильевич
+      spravka: true
 - title: Список от 3 октября 1937г. [Башкирская АССР]
   sublisttitle: Башкирская АССР
   pages:
@@ -96,8 +116,10 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-170.jpg
     persons:
-    - num: '1'
+    - id: '9626'
+      num: '1'
       name: МИХАЙЛОВ Александр Ефимович
+      spravka: true
 - title: Список от 3 октября 1937г. [Украинская ССР]
   sublisttitle: Украинская ССР
   pages:
@@ -117,11 +139,16 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-171.jpg
     persons:
-    - num: '1'
+    - id: '9627'
+      num: '1'
       name: ЗАКАБЛУК Дмитрий Сергеевич
-    - num: '2'
+    - id: '9628'
+      num: '2'
       name: РАДЧЕНКО Виктор Федорович
-    - num: '3'
+    - id: '9629'
+      num: '3'
       name: САВАЛОВ Николай Дмитриевич
-    - num: '4'
+      spravka: true
+    - id: '9630'
+      num: '4'
       name: ШВАРЦМАН Иосиф Израилевич

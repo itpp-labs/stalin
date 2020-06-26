@@ -36,45 +36,72 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-268.jpg
     persons:
-    - num: '1'
+    - id: '17910'
+      num: '1'
       name: БАРАНОВСКИЙ Константин Иванович
-    - num: '2'
+      spravka: true
+    - id: '17911'
+      num: '2'
       name: ВАСИЛЬЕВ Александр Васильевич
-    - num: '3'
+    - id: '17912'
+      num: '3'
       name: ВАШКЕВИЧ Николай Константинович
-    - num: '4'
+    - id: '17913'
+      num: '4'
       name: ВИРШИЧ Александр Иванович
-    - num: '5'
+    - id: '17914'
+      num: '5'
       name: ГУНЬ Василий Александрович
-    - num: '6'
+    - id: '17915'
+      num: '6'
       name: ДИК Александр Натанович
-    - num: '7'
+      spravka: true
+    - id: '17916'
+      num: '7'
       name: ДОСЫЧЕВ Афанасий Николаевич
-    - num: '8'
+    - id: '17917'
+      num: '8'
       name: ЕРМОЛЕНКО Юрий Иванович
-    - num: '9'
+    - id: '17918'
+      num: '9'
       name: ЗИНОВЬЕВ Степан Алексеевич
-    - num: '10'
+    - id: '17919'
+      num: '10'
       name: ЗУБРИЦКИЙ Иван Иванович
-    - num: '11'
+    - id: '17920'
+      num: '11'
       name: ИГНАТОВ Василий Сергеевич
-    - num: '12'
+      spravka: true
+    - id: '31826'
+      num: '12'
       name: КАЗАКЕВИЧ Иван Фабианович
-    - num: '13'
+      doublesexists: true
+      spravka: true
+    - id: '17922'
+      num: '13'
       name: КАНДЫБА Антон Иванович
-    - num: '14'
+    - id: '17923'
+      num: '14'
       name: КУНДИН Максим Иванович
-    - num: '15'
+    - id: '17924'
+      num: '15'
       name: ЛОБАЦЕВИЧ Сергей Павлович
-    - num: '16'
+    - id: '17925'
+      num: '16'
       name: МАКАРСКИЙ Андрей Викторович
-    - num: '17'
+      spravka: true
+    - id: '17926'
+      num: '17'
       name: МОСКВИЧ Александр Григорьевич
-    - num: '18'
+    - id: '17927'
+      num: '18'
       name: НАЙМОН Борис Ефимович
-    - num: '19'
+      spravka: true
+    - id: '17928'
+      num: '19'
       name: ПАШКЕВИЧ Митрофан Семенович
-    - num: '20'
+    - id: '17929'
+      num: '20'
       name: ПЕТРОВ Федор Михайлович
   - page:
       pageid: '1393'
@@ -92,22 +119,33 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-269.jpg
     persons:
-    - num: '21'
+    - id: '31828'
+      num: '21'
       name: РАКОВ Павел Николаевич
-    - num: '22'
+      doublesexists: true
+      spravka: true
+    - id: '17931'
+      num: '22'
       name: РАУЗЕ Иван Осипович
-    - num: '23'
+    - id: '17932'
+      num: '23'
       name: РЕНСКИЙ Борис Михайлович
-    - num: '24'
+    - id: '17933'
+      num: '24'
       name: РОЖКО Иван Ефимович
-    - num: '25'
+    - id: '17934'
+      num: '25'
       name: ТАУБЕ Яков Готлибович
-    - num: '26'
+    - id: '17935'
+      num: '26'
       name: ТРУБА Иван Антонович
-    - num: '27'
+    - id: '17936'
+      num: '27'
       name: ФОКИН Петр Николаевич
-    - num: '28'
+    - id: '17937'
+      num: '28'
       name: ХИХЛЯ Василий Федотович
+      spravka: true
   - page:
       pageid: '1394'
       tom: '5'
@@ -124,24 +162,34 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-270.jpg
     persons:
-    - num: '1'
+    - id: '17938'
+      num: '1'
       name: ВАРУЩЕНКО Павел Калинович
-    - num: '2'
+    - id: '17939'
+      num: '2'
       name: ЗИЛЬБЕРШЕР Моисей Соломонович
-    - num: '3'
+    - id: '17940'
+      num: '3'
       name: КОЧЕТОВ Федор Васильевич
-    - num: '4'
+    - id: '17941'
+      num: '4'
       name: КУРИЛО Иван Иванович
-    - num: '5'
+    - id: '17942'
+      num: '5'
       name: ОСИПОВИЧ Александр Васильевич
-    - num: '6'
+    - id: '17943'
+      num: '6'
       name: СИДОРСКИЙ Сергей Максимович
-    - num: '7'
+    - id: '17944'
+      num: '7'
       name: СМОРОДИНСКИЙ Николай Васильевич
-    - num: '8'
+    - id: '17945'
+      num: '8'
       name: ФРОЛОВ Вадим Константинович
-    - num: '9'
+    - id: '17946'
+      num: '9'
       name: ХИМАКОВ Василий Паладьевич
+      spravka: true
 - title: Список от 13 декабря 1937г. [Казань. Казанская ж.д.]
   sublisttitle: Казань. Казанская ж.д.
   pages:
@@ -161,41 +209,77 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-271.jpg
     persons:
-    - num: '1'
+    - id: '17947'
+      num: '1'
       name: АНЗИМИРОВ Лев Владимирович
-    - num: '2'
+      spravka: true
+    - id: '17948'
+      num: '2'
       name: АНУФРИЕВ Николай Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '17949'
+      num: '3'
       name: АШУРКОВ Иван Иванович
-    - num: '4'
+      spravka: true
+    - id: '17950'
+      num: '4'
       name: БУЙЛОВ Александр Георгиевич
-    - num: '5'
+      spravka: true
+    - id: '17951'
+      num: '5'
       name: ГАНЦЕВ Николай Васильевич
-    - num: '6'
+      spravka: true
+    - id: '17952'
+      num: '6'
       name: ГОНТАРЕНКО Василий Павлович
-    - num: '7'
+      spravka: true
+    - id: '17953'
+      num: '7'
       name: ГУСЬКОВ Александр Иванович
-    - num: '8'
+      spravka: true
+    - id: '17954'
+      num: '8'
       name: ДАНИЛИН Иван Герасимович
-    - num: '9'
+      spravka: true
+    - id: '17955'
+      num: '9'
       name: ДОЛГОЛЕНКО Иван Тимофеевич
-    - num: '10'
+      spravka: true
+    - id: '17956'
+      num: '10'
       name: ДРОЗДОВ Петр Харлампьевич
-    - num: '11'
+      spravka: true
+    - id: '17957'
+      num: '11'
       name: ЕФАНОВ Иван Константинович
-    - num: '12'
+      spravka: true
+    - id: '17958'
+      num: '12'
       name: ЕФРЕМОВ Федор Гаврилович
-    - num: '13'
+      spravka: true
+    - id: '17959'
+      num: '13'
       name: ЗЕВАХИН Андрей Васильевич
-    - num: '14'
+      spravka: true
+    - id: '17960'
+      num: '14'
       name: КОНОВАЛОВ Иван Павлович
-    - num: '15'
+      spravka: true
+    - id: '36363'
+      num: '15'
       name: ЛУЦКИЙ Вениамин Моисеевич
-    - num: '16'
+      doublesexists: true
+      spravka: true
+    - id: '17962'
+      num: '16'
       name: МАРКИН Василий Павлович
-    - num: '17'
+      spravka: true
+    - id: '17963'
+      num: '17'
       name: МИРОНОВ Владимир Давыдович
-    - num: '18'
+      spravka: true
+    - id: '17964'
+      num: '18'
       name: МИХАЙЛОВ Петр Петрович
   - page:
       pageid: '1396'
@@ -213,14 +297,22 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-272.jpg
     persons:
-    - num: '19'
+    - id: '17965'
+      num: '19'
       name: МЫСКИН Никифор Леонтьевич
-    - num: '20'
+      spravka: true
+    - id: '17966'
+      num: '20'
       name: СЕННИКОВ Михаил Иванович
-    - num: '21'
+      spravka: true
+    - id: '17967'
+      num: '21'
       name: ТЕПЛЯКОВ Александр Александрович
-    - num: '22'
+      spravka: true
+    - id: '17968'
+      num: '22'
       name: ШЕСТАКОВ Иван Васильевич
+      spravka: true
   - page:
       pageid: '1397'
       tom: '5'
@@ -237,11 +329,19 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-273.jpg
     persons:
-    - num: '1'
+    - id: '17969'
+      num: '1'
       name: БОБКОВСКИЙ Александр Антонович
-    - num: '2'
+      spravka: true
+    - id: '17970'
+      num: '2'
       name: КОРМИЛЬЦЕВ Михаил Васильевич
-    - num: '3'
+      spravka: true
+    - id: '17971'
+      num: '3'
       name: ЧЕРКАСОВ Николай Ануфриевич
-    - num: '4'
+      spravka: true
+    - id: '17972'
+      num: '4'
       name: ШВЕЦОВ Николай Петрович
+      spravka: true

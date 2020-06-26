@@ -31,19 +31,35 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-249.jpg
     persons:
-    - num: '1'
+    - id: '32140'
+      num: '1'
       name: ВЕЙЗАГЕР Сигизмунд Михайлович
-    - num: '2'
+      spravka: true
+    - id: '32141'
+      num: '2'
       name: ВИТКОВСКИЙ Михаил Данилович
-    - num: '3'
+      spravka: true
+    - id: '32142'
+      num: '3'
       name: ГРОССМАН Борис Александрович, он же <br />БОЛЬЦ Семен Львович
-    - num: '4'
+      spravka: true
+    - id: '32143'
+      num: '4'
       name: КРАСНОВ Аркадий Александрович, он же <br />КУРНИК Арон Абрамович
-    - num: '5'
+    - id: '32144'
+      num: '5'
       name: КУРИЦЫН (КУРИЦ) Григорий Семенович
-    - num: '6'
+      spravka: true
+    - id: '32145'
+      num: '6'
       name: РАВИЧ-ТЕРЗИН Яков Александрович
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '32146'
+      num: '7'
       name: ЦИБИЗОВ Владимир Дмитриевич
-    - num: '8'
+      spravka: true
+    - id: '32147'
+      num: '8'
       name: ЭНТИН Борис Григорьевич
+      spravka: true

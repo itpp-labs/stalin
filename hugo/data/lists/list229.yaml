@@ -36,48 +36,89 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-099.jpg
     persons:
-    - num: '1'
+    - id: '8841'
+      num: '1'
       name: ГАЙС Николай Германович
-    - num: '2'
+      spravka: true
+    - id: '8842'
+      num: '2'
       name: КОВТУН Иосиф Михайлович
-    - num: '3'
+      spravka: true
+    - id: '8843'
+      num: '3'
       name: КОХАН Павел Харитонович
-    - num: '4'
+      spravka: true
+    - id: '8844'
+      num: '4'
       name: МАРТЫНЕНКО Василий Федорович
-    - num: '5'
+      spravka: true
+    - id: '8845'
+      num: '5'
       name: НИЧИПОР Николай Иосифович
-    - num: '6'
+      spravka: true
+    - id: '8846'
+      num: '6'
       name: ОНИЩЕНКО Иван Иосифович
-    - num: '7'
+      spravka: true
+    - id: '8847'
+      num: '7'
       name: ОСТАПЕНКО Федор Васильевич
-    - num: '8'
+      spravka: true
+    - id: '8848'
+      num: '8'
       name: ПАВЛОВСКИЙ Стефан Алексеевич
-    - num: '9'
+      spravka: true
+    - id: '8849'
+      num: '9'
       name: ПАСЬКО Петр Дмитриевич
-    - num: '10'
+      spravka: true
+    - id: '8850'
+      num: '10'
       name: ПЕТРУШИН Тихон Моисеевич
-    - num: '11'
+      spravka: true
+    - id: '8851'
+      num: '11'
       name: ПРЯНИЧНИКОВ Михаил Васильевич
-    - num: '12'
+      spravka: true
+    - id: '8852'
+      num: '12'
       name: РОЖКОВ Яков Георгиевич
-    - num: '13'
+      spravka: true
+    - id: '8853'
+      num: '13'
       name: СОКОЛЬСКИЙ Константин Сергеевич
-    - num: '14'
+      spravka: true
+    - id: '8854'
+      num: '14'
       name: СТРАПКО Иван Михайлович
-    - num: '15'
+      spravka: true
+    - id: '8855'
+      num: '15'
       name: ТИТЕНКО Василий Назарович
-    - num: '16'
+      spravka: true
+    - id: '8856'
+      num: '16'
       name: ТЫСИК Павел Григорьевич
-    - num: '17'
+      spravka: true
+    - id: '8857'
+      num: '17'
       name: ФОРМАЗЮК Василий Максимович
-    - num: '18'
+      spravka: true
+    - id: '8858'
+      num: '18'
       name: ХОМА Владимир Григорьевич
-    - num: '19'
+      spravka: true
+    - id: '8859'
+      num: '19'
       name: ЧЕКМАРЕВ Лев Петрович
-    - num: '20'
+      spravka: true
+    - id: '8860'
+      num: '20'
       name: ЧЕПУРКО Григорий Дмитриевич
-    - num: '21'
+    - id: '8861'
+      num: '21'
       name: ШАБЛОВСКИЙ Вацлав Константинович
+      spravka: true
   - page:
       pageid: '692'
       tom: '3'
@@ -94,10 +135,14 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-100.jpg
     persons:
-    - num: '22'
+    - id: '8862'
+      num: '22'
       name: ШВАЙКОВСКИЙ Михаил Антонович
-    - num: '23'
+      spravka: true
+    - id: '8863'
+      num: '23'
       name: ШТИКГОЛЬД Максимилиан Владимирович
+      spravka: true
   - page:
       pageid: '693'
       tom: '3'
@@ -114,10 +159,13 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-101.jpg
     persons:
-    - num: '1'
+    - id: '8864'
+      num: '1'
       name: ЕФИМОВ Василий Андреевич
-    - num: '2'
+    - id: '8865'
+      num: '2'
       name: САВИН Иван Ильич
+      spravka: true
 - title: Список от 22 сентября 1937г. [Киев. Юго-Западная жел. дорога]
   sublisttitle: Киев. Юго-Западная жел. дорога
   pages:
@@ -137,28 +185,46 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-102.jpg
     persons:
-    - num: '1'
+    - id: '8866'
+      num: '1'
       name: ВАРБАНЕЦ Иван Федорович
-    - num: '2'
+      spravka: true
+    - id: '8867'
+      num: '2'
       name: ГАНДЗЕЙ Степан Варфоломеевич
-    - num: '3'
+    - id: '8868'
+      num: '3'
       name: КОЛБАСИН Петр Петрович
-    - num: '4'
+    - id: '8869'
+      num: '4'
       name: КРИВОВЯЗЫЙ Порфирий Феодосеевич
-    - num: '5'
+      spravka: true
+    - id: '8870'
+      num: '5'
       name: ЛУЦЕНКО Николай Яковлевич
-    - num: '6'
+      spravka: true
+    - id: '8871'
+      num: '6'
       name: МАРЦЫШЕВСКИЙ Николай Иванович
-    - num: '7'
+      spravka: true
+    - id: '8872'
+      num: '7'
       name: ПАТЛАХ Николай Степанович
-    - num: '8'
+    - id: '8873'
+      num: '8'
       name: СОКОЛОВ Алексей Иванович
-    - num: '9'
+      spravka: true
+    - id: '8874'
+      num: '9'
       name: ТРОФИМОВ Владимир Яковлевич
-    - num: '10'
+      spravka: true
+    - id: '8875'
+      num: '10'
       name: ТЫТЮК Григорий Павлович
-    - num: '11'
+    - id: '8876'
+      num: '11'
       name: ЦОГЛИН Перец Аронович
+      spravka: true
   - page:
       pageid: '695'
       tom: '3'
@@ -175,23 +241,35 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-103.jpg
     persons:
-    - num: '1'
+    - id: '8877'
+      num: '1'
       name: ЖИЛИНСКИЙ Леонид Николаевич
-    - num: '2'
+    - id: '8878'
+      num: '2'
       name: ЖУРАВЛЕВ Петр Иванович
-    - num: '3'
+    - id: '8879'
+      num: '3'
       name: КИСЕЛЕВСКИЙ Евгений Алексеевич
-    - num: '4'
+      spravka: true
+    - id: '8880'
+      num: '4'
       name: МАЛИНИН Анатолий Васильевич
-    - num: '5'
+    - id: '8881'
+      num: '5'
       name: МАНОХИН Иван Федорович
-    - num: '6'
+    - id: '8882'
+      num: '6'
       name: МАРТЫНОВ Антон Ефимович
-    - num: '7'
+      spravka: true
+    - id: '8883'
+      num: '7'
       name: МОЛОКИШЕР Борис Пинхусович
-    - num: '8'
+      spravka: true
+    - id: '8884'
+      num: '8'
       name: САВЧУК Сергей Антонович
-    - num: '9'
+    - id: '8885'
+      num: '9'
       name: СМАЛЬ Иван Иванович
 - title: Список от 22 сентября 1937г. [Днепропетровск. Сталинская жел. дорога]
   sublisttitle: Днепропетровск. Сталинская жел. дорога
@@ -212,41 +290,76 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-104.jpg
     persons:
-    - num: '1'
+    - id: '8886'
+      num: '1'
       name: БОНДАРЕНКО Николай Лукич
-    - num: '2'
+      spravka: true
+    - id: '8887'
+      num: '2'
       name: БРЮКВА Павел Константинович
-    - num: '3'
+      spravka: true
+    - id: '8888'
+      num: '3'
       name: ГОСТИЩЕВ Григорий Петрович
-    - num: '4'
+      spravka: true
+    - id: '8889'
+      num: '4'
       name: ДЕЛЬОФФ Сигизмунд Генрихович
-    - num: '5'
+    - id: '8890'
+      num: '5'
       name: ДОРОШЕНКО Архип Иосифович
-    - num: '6'
+      spravka: true
+    - id: '8891'
+      num: '6'
       name: ЕРЕМЕНКО Феодосий Митрофанович
-    - num: '7'
+      spravka: true
+    - id: '8892'
+      num: '7'
       name: ЗОЛОТОВ Иван Михайлович
-    - num: '8'
+      spravka: true
+    - id: '8893'
+      num: '8'
       name: КАРЕЛЬСКИХ Анатолий Анатольевич
-    - num: '9'
+      spravka: true
+    - id: '8894'
+      num: '9'
       name: КАРТАШЕВ Владимир Васильевич
-    - num: '10'
+      spravka: true
+    - id: '8895'
+      num: '10'
       name: КИВЕНКО Анисим Никитич
-    - num: '11'
+      spravka: true
+    - id: '8896'
+      num: '11'
       name: КЛИМОВ Евгений Иванович
-    - num: '12'
+      spravka: true
+    - id: '8897'
+      num: '12'
       name: ЛЫСАК Григорий Мефодьевич
-    - num: '13'
+    - id: '8898'
+      num: '13'
       name: МЕЛЬНИКОВ Петр Михайлович
-    - num: '14'
+    - id: '8899'
+      num: '14'
       name: ОРЛОВ Павел Иванович
-    - num: '15'
+      spravka: true
+    - id: '8900'
+      num: '15'
       name: РУСЕЦКИЙ Захарий Яковлевич
-    - num: '16'
+      spravka: true
+    - id: '8901'
+      num: '16'
       name: ТОКВАРОВ Григорий Тарасович
-    - num: '17'
+      spravka: true
+    - id: '8902'
+      num: '17'
       name: ФЕДОРОВ Вениамин Александрович
-    - num: '18'
+      spravka: true
+    - id: '8903'
+      num: '18'
       name: ФОМИН Семен Семенович
-    - num: '19'
+      spravka: true
+    - id: '8904'
+      num: '19'
       name: ШПАДЕРСКИЙ Людвиг Ромуальдович
+      spravka: true

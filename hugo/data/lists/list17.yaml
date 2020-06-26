@@ -36,48 +36,90 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-141.jpg
     persons:
-    - num: '1'
+    - id: '2162'
+      num: '1'
       name: БЕККЕР Анатолий Густавович
-    - num: '2'
+      spravka: true
+    - id: '2163'
+      num: '2'
       name: БОЛХОВИТИН Алексей Константинович
-    - num: '3'
+      spravka: true
+    - id: '2164'
+      num: '3'
       name: БУРГ Густав Августович (он же КЕНИГ)
-    - num: '4'
+      spravka: true
+    - id: '2165'
+      num: '4'
       name: ЗИБЕНГААР Константин Петрович
-    - num: '5'
+      spravka: true
+    - id: '2166'
+      num: '5'
       name: ИПАТОВ Матвей Алексеевич
-    - num: '6'
+      spravka: true
+    - id: '2167'
+      num: '6'
       name: КЛИМ Николай Николаевич
-    - num: '7'
+      spravka: true
+    - id: '2168'
+      num: '7'
       name: КОНЯХИН Яков Романович
-    - num: '8'
+      spravka: true
+    - id: '2169'
+      num: '8'
       name: МАКАРОВ Дмитрий Федорович
-    - num: '9'
+      spravka: true
+    - id: '2170'
+      num: '9'
       name: МАРГИС Рудольф
-    - num: '10'
+      spravka: true
+    - id: '2171'
+      num: '10'
       name: МАРТЫНОВ Николай Иванович
-    - num: '11'
+      spravka: true
+    - id: '2172'
+      num: '11'
       name: НИКОЛАЕВ Николай Ильич
-    - num: '12'
+      spravka: true
+    - id: '2173'
+      num: '12'
       name: РОЗЕНБЛЮМ Абрам Калманович
-    - num: '13'
+      spravka: true
+    - id: '2174'
+      num: '13'
       name: РУБИН Яков Матвеевич
-    - num: '14'
+      spravka: true
+    - id: '2175'
+      num: '14'
       name: САБЕЛЬНИКОВ Владимир Васильевич
-    - num: '15'
+      spravka: true
+    - id: '2176'
+      num: '15'
       name: СЕМЕНЕНКО Петр Исаакович
-    - num: '16'
+      spravka: true
+    - id: '2177'
+      num: '16'
       name: СТАРОСТИН Иван Семенович
-    - num: '17'
+      spravka: true
+    - id: '2178'
+      num: '17'
       name: ТАУБЕНБЕРГЕР Герман Иосифович
-    - num: '18'
+      spravka: true
+    - id: '2179'
+      num: '18'
       name: УВАРОВ Александр Иванович
-    - num: '19'
+      spravka: true
+    - id: '2180'
+      num: '19'
       name: ФЕДОРОВ Павел Иванович
-    - num: '20'
+      spravka: true
+    - id: '2181'
+      num: '20'
       name: ФИЛИППОВ Иван Яковлевич
-    - num: '21'
+      spravka: true
+    - id: '2182'
+      num: '21'
       name: ЧЕРКАШИН Федор Лаврентьевич
+      spravka: true
   - page:
       pageid: '142'
       tom: '1'
@@ -94,28 +136,50 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-142.jpg
     persons:
-    - num: '1'
+    - id: '2183'
+      num: '1'
       name: БАБАЕВ Сергей Федорович
-    - num: '2'
+      spravka: true
+    - id: '2184'
+      num: '2'
       name: БАРМИН Михаил Васильевич
-    - num: '3'
+      spravka: true
+    - id: '2185'
+      num: '3'
       name: ВОИНОВ Николай Иванович
-    - num: '4'
+      spravka: true
+    - id: '2186'
+      num: '4'
       name: ГУСАРОВ Анатолий Федорович
-    - num: '5'
+      spravka: true
+    - id: '2187'
+      num: '5'
       name: ДЕМИН Алексей Михайлович
-    - num: '6'
+      spravka: true
+    - id: '2188'
+      num: '6'
       name: ЗАХАРОВ Игорь Никитич
-    - num: '7'
+      spravka: true
+    - id: '2189'
+      num: '7'
       name: КАЗАКОВ Сергей Кириллович
-    - num: '8'
+      spravka: true
+    - id: '2190'
+      num: '8'
       name: КАШИН Павел Николаевич
-    - num: '9'
+      spravka: true
+    - id: '2191'
+      num: '9'
       name: МАРКОВ Иван Георгиевич
-    - num: '10'
+      spravka: true
+    - id: '2192'
+      num: '10'
       name: МАСЛОВ Павел Петрович
-    - num: '11'
+      spravka: true
+    - id: '2193'
+      num: '11'
       name: СТАНКИН Исаак Захарович
+      spravka: true
   - page:
       pageid: '143'
       tom: '1'
@@ -132,32 +196,59 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-143.jpg
     persons:
-    - num: '1'
+    - id: '2194'
+      num: '1'
       name: БУРГ Альма Калевна (она же КЕНИГ)
-    - num: '2'
+      spravka: true
+    - id: '2195'
+      num: '2'
       name: ГРУДСКАЯ Анна Яковлевна
-    - num: '3'
+      spravka: true
+    - id: '4658'
+      num: '3'
       name: ЕГОРОВ Владимир Михайлович
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '2197'
+      num: '4'
       name: КИЗИЛЬШТЕЙН Мария Самуиловна
-    - num: '5'
+      spravka: true
+    - id: '2198'
+      num: '5'
       name: МАТВЕЕВ Константин Александрович
-    - num: '6'
+      spravka: true
+    - id: '2199'
+      num: '6'
       name: МИРОНСКИЙ Арон Маркович
-    - num: '7'
+      spravka: true
+    - id: '2200'
+      num: '7'
       name: НИКОЛАЕВА Вера Васильевна
-    - num: '8'
+      spravka: true
+    - id: '2201'
+      num: '8'
       name: ПЕТРЕНКО Екатерина Васильевна
-    - num: '9'
+      spravka: true
+    - id: '2202'
+      num: '9'
       name: РУБИНШТЕЙН Цецилия Борисовна
-    - num: '10'
+      spravka: true
+    - id: '2203'
+      num: '10'
       name: ТАУБЕНБЕРГЕР Эльза Евгеньевна
-    - num: '11'
+      spravka: true
+    - id: '2204'
+      num: '11'
       name: ШИМАНСКАЯ Фрида Фрицевна
-    - num: '12'
+      spravka: true
+    - id: '2205'
+      num: '12'
       name: ШИМАНСКИЙ Фриц Альбертович
-    - num: '13'
+      spravka: true
+    - id: '2206'
+      num: '13'
       name: ЭРДМАН Иосиф Николаевич
+      spravka: true
   - page:
       pageid: '144'
       tom: '1'
@@ -174,5 +265,6 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-144.jpg
     persons:
-    - num: '1'
+    - id: '2207'
+      num: '1'
       name: ПЕТРОВ Николай Григорьевич

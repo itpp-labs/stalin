@@ -34,60 +34,112 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-233.jpg
     persons:
-    - num: '1'
+    - id: '13696'
+      num: '1'
       name: АНТОНОВ-ГРОШЕВ Алексей Михайлович
-    - num: '2'
+      spravka: true
+    - id: '13697'
+      num: '2'
       name: АРБУЗОВА Лидия Ивановна
-    - num: '3'
+      spravka: true
+    - id: '13698'
+      num: '3'
       name: БЕЛОСТОЦКИЙ Борис Соломонович
-    - num: '4'
+      spravka: true
+    - id: '13699'
+      num: '4'
       name: БЕЛЯЕВА-БАЙКОВА Валентина Михайловна
-    - num: '5'
+      spravka: true
+    - id: '13700'
+      num: '5'
       name: БЛАТОВА Татьяна Алексеевна
-    - num: '6'
+      spravka: true
+    - id: '13701'
+      num: '6'
       name: ВИТРИЩАК Мария Григорьевна
-    - num: '7'
+      spravka: true
+    - id: '13702'
+      num: '7'
       name: ДАВЫДОВА Полина Васильевна
-    - num: '8'
+      spravka: true
+    - id: '13703'
+      num: '8'
       name: ДОБРОХОТОВА Александра Сергеевна
-    - num: '9'
+      spravka: true
+    - id: '13704'
+      num: '9'
       name: ЕГОРОВ-СУГУТСКИЙ Павел Александрович
-    - num: '10'
+      spravka: true
+    - id: '13705'
+      num: '10'
       name: ИВАНОВ Авраам Павлович
-    - num: '11'
+    - id: '13706'
+      num: '11'
       name: КОРОТНЕВ Игорь Александрович
-    - num: '12'
+      spravka: true
+    - id: '13707'
+      num: '12'
       name: КРАСОВСКАЯ Галина Васильевна
-    - num: '13'
+      spravka: true
+    - id: '13708'
+      num: '13'
       name: КУЗНЕЦОВ Василий Михайлович
-    - num: '14'
+      spravka: true
+    - id: '13709'
+      num: '14'
       name: ЛОБЫЦИН Петр Константинович
-    - num: '15'
+      spravka: true
+    - id: '13710'
+      num: '15'
       name: ЛОНГИНОВ Валентин Сергеевич
-    - num: '16'
+      spravka: true
+    - id: '13711'
+      num: '16'
       name: ЛУЗИН Святослав Александрович
-    - num: '17'
+      spravka: true
+    - id: '13712'
+      num: '17'
       name: ЛУКАШОВ Михаил Сергеевич
-    - num: '18'
+      spravka: true
+    - id: '13713'
+      num: '18'
       name: МАКСИМОВ Алексей Васильевич
-    - num: '19'
+      spravka: true
+    - id: '13714'
+      num: '19'
       name: МАНСВЕТОВ Дмитрий Ильич
-    - num: '20'
+      spravka: true
+    - id: '13715'
+      num: '20'
       name: МАРАМЗИН Алексей Григорьевич
-    - num: '21'
+      spravka: true
+    - id: '13716'
+      num: '21'
       name: МЕДВЕДЕВ Константин Григорьевич
-    - num: '22'
+      spravka: true
+    - id: '13717'
+      num: '22'
       name: МЕДНИКОВ Борис Иванович
-    - num: '23'
+      spravka: true
+    - id: '13718'
+      num: '23'
       name: НОВИКОВ Константин Андреевич
-    - num: '24'
+      spravka: true
+    - id: '13719'
+      num: '24'
       name: ОРЛОВ Константин Порфирьевич
-    - num: '25'
+    - id: '13720'
+      num: '25'
       name: РУССКИХ Харитон Андреевич
-    - num: '26'
+      spravka: true
+    - id: '13721'
+      num: '26'
       name: СИРОТКИН Николай Васильевич
-    - num: '27'
+      spravka: true
+    - id: '13722'
+      num: '27'
       name: СУХАНОВ Александр Иванович
+      spravka: true
   - page:
       pageid: '1077'
       tom: '4'
@@ -104,14 +156,19 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-234.jpg
     persons:
-    - num: '28'
+    - id: '13723'
+      num: '28'
       name: ЧЕРНОВ Николай Петрович
-    - num: '29'
+    - id: '13724'
+      num: '29'
       name: ШИРОБОКОВ Борис Петрович
-    - num: '30'
+    - id: '13725'
+      num: '30'
       name: ШЛЯХОВОЙ Антон Антонович
-    - num: '31'
+    - id: '13726'
+      num: '31'
       name: ШТЮРМЕР Кира Аркадьевна
+      spravka: true
   - page:
       pageid: '1078'
       tom: '4'
@@ -128,21 +185,36 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-235.jpg
     persons:
-    - num: '1'
+    - id: '13727'
+      num: '1'
       name: ГАВРИЛОВ-ГРИГОРЬЕВ Сергей Тимофеевич
-    - num: '2'
+    - id: '13728'
+      num: '2'
       name: ЗАТМИЛОВА Галина Ивановна
-    - num: '3'
+      spravka: true
+    - id: '13729'
+      num: '3'
       name: ИЗМАЙЛОВИЧ Александра Адольфовна
-    - num: '4'
+      spravka: true
+    - id: '13730'
+      num: '4'
       name: КАХОВСКАЯ Ирина Константиновна
-    - num: '5'
+      spravka: true
+    - id: '13731'
+      num: '5'
       name: КИРЕЕВ Константин Георгиевич
-    - num: '6'
+      spravka: true
+    - id: '13732'
+      num: '6'
       name: ЛОБЫЦИНА Надежда Александровна
-    - num: '7'
+      spravka: true
+    - id: '13733'
+      num: '7'
       name: МАЛЫШЕВ-МОЛОТОВ Михаил Васильевич
-    - num: '8'
+    - id: '13734'
+      num: '8'
       name: НОВИКОВА-ЗЕЛЕНСКАЯ Елена Матвеевна
-    - num: '9'
+      spravka: true
+    - id: '13735'
+      num: '9'
       name: СТРУКОВ Георгий Георгиевич

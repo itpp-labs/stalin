@@ -29,11 +29,22 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-220.jpg
     persons:
-    - num: '1'
+    - id: '36196'
+      num: '1'
       name: КАННЕР Григорий Иосифович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '36197'
+      num: '2'
       name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '36198'
+      num: '3'
       name: СОКОЛОВСКАЯ Елена Кирилловна
-    - num: '4'
+      spravka: true
+    - id: '36199'
+      num: '4'
       name: ТАИРОВ, он же ТЕР-ГРИГОРЬЯН Владимир Христофорович
+      doublesexists: true
+      spravka: true

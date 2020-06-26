@@ -32,44 +32,77 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-124.jpg
     persons:
-    - num: '1'
+    - id: '34918'
+      num: '1'
       name: АЛЕКСЕЕВ Кирилл Алексеевич
-    - num: '2'
+      spravka: true
+    - id: '34919'
+      num: '2'
       name: АНТОНОВ Герман Агеевич
-    - num: '3'
+    - id: '34920'
+      num: '3'
       name: БЛОЖКО Константин Николаевич
-    - num: '4'
+    - id: '34921'
+      num: '4'
       name: БОГДАНОВ Сергей Федорович
-    - num: '5'
+    - id: '34922'
+      num: '5'
       name: ДОРОНКИН Алексей Семенович
-    - num: '6'
+      spravka: true
+    - id: '34923'
+      num: '6'
       name: ИВАНОВ Владимир Николаевич
-    - num: '7'
+    - id: '34924'
+      num: '7'
       name: ИГНАТЬЕВ Иосиф Михайлович
-    - num: '8'
+      spravka: true
+    - id: '34925'
+      num: '8'
       name: ИПАТОВ Иван Михайлович
-    - num: '9'
+      spravka: true
+    - id: '34926'
+      num: '9'
       name: КАЗАКОВ Николай Афанасьевич
-    - num: '10'
+      spravka: true
+    - id: '34927'
+      num: '10'
       name: КЛЕПЦОВ Апполон Алексеевич
-    - num: '11'
+      spravka: true
+    - id: '34928'
+      num: '11'
       name: МЕРКУДАНОВ Василий Иванович
-    - num: '12'
+      spravka: true
+    - id: '34929'
+      num: '12'
       name: МОИСЕЕВ Михаил Григорьевич
-    - num: '13'
+    - id: '34930'
+      num: '13'
       name: ОРЕХОВСКИЙ Николай Георгиевич
-    - num: '14'
+      spravka: true
+    - id: '34931'
+      num: '14'
       name: ПАВЛОВ Михаил Григорьевич
-    - num: '15'
+      spravka: true
+    - id: '34932'
+      num: '15'
       name: ПАНКОВ Василий Александрович
-    - num: '16'
+      spravka: true
+    - id: '34933'
+      num: '16'
       name: ПРОКОПЬЕВ Михаил Леонтьевич
-    - num: '17'
+    - id: '34934'
+      num: '17'
       name: РОГОЖНИКОВ Павел Иванович
-    - num: '18'
+      spravka: true
+    - id: '34935'
+      num: '18'
       name: САВАТЬЕВ Василий Васильевич
-    - num: '19'
+      doublesexists: true
+      spravka: true
+    - id: '34936'
+      num: '19'
       name: САЛТЫКОВ Михаил Иванович
+      spravka: true
   - page:
       pageid: '2721'
       tom: '9'
@@ -86,18 +119,31 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-125.jpg
     persons:
-    - num: '20'
+    - id: '34937'
+      num: '20'
       name: САМАРИН Дмитрий Иванович
-    - num: '21'
+      spravka: true
+    - id: '34938'
+      num: '21'
       name: СТАТУТ Антон Иванович
-    - num: '22'
+      spravka: true
+    - id: '34939'
+      num: '22'
       name: ХАБАРОВ Иван Афанасьевич
-    - num: '23'
+      doublesexists: true
+      spravka: true
+    - id: '34940'
+      num: '23'
       name: ХЛЫСТОВ Михаил Григорьевич
-    - num: '24'
+      spravka: true
+    - id: '34941'
+      num: '24'
       name: ЧИСТЯКОВ Анатолий Александрович
-    - num: '25'
+      spravka: true
+    - id: '34942'
+      num: '25'
       name: ЮДИН Алексей Иванович
+      spravka: true
   - page:
       pageid: '2722'
       tom: '9'
@@ -114,21 +160,40 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-126.jpg
     persons:
-    - num: '1'
+    - id: '34943'
+      num: '1'
       name: БОЛОТНИКОВ Иван Васильевич
-    - num: '2'
+      spravka: true
+    - id: '34944'
+      num: '2'
       name: БОРОДИН Николай Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '34945'
+      num: '3'
       name: ГРОЗОВСКИЙ Яков Захарович
-    - num: '4'
+      spravka: true
+    - id: '34946'
+      num: '4'
       name: ЗАВАРИХИН Константин Иванович
-    - num: '5'
+      spravka: true
+    - id: '34947'
+      num: '5'
       name: ЗАМАХИН Владимир Измайлович
-    - num: '6'
+      spravka: true
+    - id: '34948'
+      num: '6'
       name: ЗАРЕЧАНСКИЙ Александр Ипатович
-    - num: '7'
+      spravka: true
+    - id: '34949'
+      num: '7'
       name: ИЗВОЩИКОВ Михаил Петрович
-    - num: '8'
+      spravka: true
+    - id: '34950'
+      num: '8'
       name: ФЕДОРОВ Владимир Александрович
-    - num: '9'
+      spravka: true
+    - id: '34951'
+      num: '9'
       name: ХОХЛОВ Геннадий Павлович
+      doublesexists: true
+      spravka: true

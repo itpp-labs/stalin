@@ -45,54 +45,101 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-265.jpg
     persons:
-    - num: '1'
+    - id: '13935'
+      num: '1'
       name: АБРАМОВ Михаил Афиногенович
-    - num: '2'
+      spravka: true
+    - id: '13936'
+      num: '2'
       name: АЙЗЕНБЕРГ Айзик Саулович
-    - num: '3'
+      spravka: true
+    - id: '13937'
+      num: '3'
       name: АЛУТИН Владимир Андреевич
-    - num: '4'
+      spravka: true
+    - id: '13938'
+      num: '4'
       name: БАБАЯН Анаида Артемьевна
-    - num: '5'
+      spravka: true
+    - id: '13939'
+      num: '5'
       name: БАХИРЕВ Александр Иванович
-    - num: '6'
+      spravka: true
+    - id: '13940'
+      num: '6'
       name: ВАГИН Григорий Николаевич
-    - num: '7'
+      spravka: true
+    - id: '13941'
+      num: '7'
       name: ВАЙСМАН Владимир Львович
-    - num: '8'
+      spravka: true
+    - id: '13942'
+      num: '8'
       name: ГАМАЗОВ Иван Иванович
-    - num: '9'
+      spravka: true
+    - id: '13943'
+      num: '9'
       name: ГОЛОВИН Василий Елпидифорович
-    - num: '10'
+      spravka: true
+    - id: '13944'
+      num: '10'
       name: ГУДИМЕНКО Иван Кузьмич
-    - num: '11'
+      spravka: true
+    - id: '13945'
+      num: '11'
       name: ЕНУКИДЗЕ Владимир Спиридонович
-    - num: '12'
+      spravka: true
+    - id: '13946'
+      num: '12'
       name: ЖИВИЦКИЙ Владимир Иванович
-    - num: '13'
+      spravka: true
+    - id: '13947'
+      num: '13'
       name: ИВАНОВ Виктор Федорович
-    - num: '14'
+    - id: '13948'
+      num: '14'
       name: ИЛЬИН Николай Иванович
-    - num: '15'
+    - id: '13949'
+      num: '15'
       name: КАМЕНСКАЯ-МОРАВСКАЯ Зинаида Александровна
-    - num: '16'
+      spravka: true
+    - id: '13950'
+      num: '16'
       name: КВАШЕНИННИКОВ Иван Иванович
-    - num: '17'
+      spravka: true
+    - id: '13951'
+      num: '17'
       name: КУРДЮМОВ Дмитрий Евгеньевич
-    - num: '18'
+      spravka: true
+    - id: '13952'
+      num: '18'
       name: ЛЕВИН Павел Борисович
-    - num: '19'
+      spravka: true
+    - id: '13953'
+      num: '19'
       name: ЛЕОНОВ Александр Васильевич
-    - num: '20'
+      doublesexists: true
+      spravka: true
+    - id: '13954'
+      num: '20'
       name: ЛИТВИНСКИЙ Вацлав Люцианович
-    - num: '21'
+      spravka: true
+    - id: '13955'
+      num: '21'
       name: ЛУДРИ Иван Мартынович
-    - num: '22'
+      doublesexists: true
+      spravka: true
+    - id: '13956'
+      num: '22'
       name: МАМРИДОВ Иван Сергеевич
-    - num: '23'
+    - id: '13957'
+      num: '23'
       name: МАШКОВСКИЙ Василий Александрович
-    - num: '24'
+      spravka: true
+    - id: '13958'
+      num: '24'
       name: ОБОЛЕНСКИЙ Василий Аркадьевич
+      spravka: true
   - page:
       pageid: '1109'
       tom: '4'
@@ -109,30 +156,54 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-266.jpg
     persons:
-    - num: '25'
+    - id: '13959'
+      num: '25'
       name: ОВЕЛИЯ Отто Петрович
-    - num: '26'
+      spravka: true
+    - id: '13960'
+      num: '26'
       name: ОСКОЛКОВ Георгий Георгиевич
-    - num: '27'
+      spravka: true
+    - id: '13961'
+      num: '27'
       name: ПИСАРЕВ Гавриил Иванович
-    - num: '28'
+      spravka: true
+    - id: '13962'
+      num: '28'
       name: ПОЗДНЯКОВ Сергей Николаевич
-    - num: '29'
+      spravka: true
+    - id: '13963'
+      num: '29'
       name: ПОРТЕНКО Феофан Иустинович
-    - num: '30'
+      spravka: true
+    - id: '13964'
+      num: '30'
       name: ПУСТОХАНОВ Николай Алексеевич
-    - num: '31'
+      spravka: true
+    - id: '13965'
+      num: '31'
       name: РАБИНОВИЧ Иосиф Семенович
-    - num: '32'
+      spravka: true
+    - id: '13966'
+      num: '32'
       name: РАЗГОН Израиль Борисович
-    - num: '33'
+      spravka: true
+    - id: '13967'
+      num: '33'
       name: ТАМАРИН Марк Моисеевич
-    - num: '34'
+      spravka: true
+    - id: '13968'
+      num: '34'
       name: ТОКАРЕВ Африкан Васильевич
-    - num: '35'
+      spravka: true
+    - id: '13969'
+      num: '35'
       name: ХУДАДОВ Александр Николаевич
-    - num: '36'
+      spravka: true
+    - id: '13970'
+      num: '36'
       name: ФУТОРЯН Борис Моисеевич
+      spravka: true
   - page:
       pageid: '1110'
       tom: '4'
@@ -149,10 +220,14 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-267.jpg
     persons:
-    - num: '1'
+    - id: '13971'
+      num: '1'
       name: ГРАМП (АГАНДЖАНОВ) Александр Николаевич
-    - num: '2'
+      spravka: true
+    - id: '13972'
+      num: '2'
       name: ЛЕВИНА-ЩЕРБАЧЕВА Наталия Сергеевна
+      spravka: true
 - title: Список от 13 ноября 1937г. [Москва-Дзержинская ж.д.]
   sublisttitle: Москва-Дзержинская ж.д.
   pages:
@@ -172,44 +247,82 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-268.jpg
     persons:
-    - num: '1'
+    - id: '13973'
+      num: '1'
       name: БЕВЗА Константин Степанович
-    - num: '2'
+      spravka: true
+    - id: '13974'
+      num: '2'
       name: БОВТ Порфирий Никитич
-    - num: '3'
+      spravka: true
+    - id: '13975'
+      num: '3'
       name: БОЧАРОВ Василий Алексеевич
-    - num: '4'
+      spravka: true
+    - id: '13976'
+      num: '4'
       name: БУЛАТНИКОВ Николай Антонович
-    - num: '5'
+      spravka: true
+    - id: '13977'
+      num: '5'
       name: ВАСИЛЬКОВСКИЙ Сергей Семенович
-    - num: '6'
+      spravka: true
+    - id: '13978'
+      num: '6'
       name: ЕРМОЛАЕВ Николай Сергеевич
-    - num: '7'
+      spravka: true
+    - id: '13979'
+      num: '7'
       name: ЗАЙЦЕВ Иван Яковлевич
-    - num: '8'
+      spravka: true
+    - id: '13980'
+      num: '8'
       name: ЗАРЖЕЦКИЙ Сигизмунд Иванович
-    - num: '9'
+      spravka: true
+    - id: '13981'
+      num: '9'
       name: ЗЕНИН Константин Михайлович
-    - num: '10'
+      spravka: true
+    - id: '13982'
+      num: '10'
       name: КАЗАРИН Анатолий Сергеевич
-    - num: '11'
+      spravka: true
+    - id: '13983'
+      num: '11'
       name: КЛЕМЕШОВ Иван Александрович
-    - num: '12'
+      spravka: true
+    - id: '13984'
+      num: '12'
       name: ЛАРЕВ Иван Яковлевич
-    - num: '13'
+      spravka: true
+    - id: '13985'
+      num: '13'
       name: МАМОНОВ Иван Александрович
-    - num: '14'
+      spravka: true
+    - id: '13986'
+      num: '14'
       name: МЕНЬКОВ Николай Дмитриевич
-    - num: '15'
+      spravka: true
+    - id: '13987'
+      num: '15'
       name: МУРАТОВ Андрей Ерофеевич
-    - num: '16'
+      spravka: true
+    - id: '13988'
+      num: '16'
       name: ПРОВОТОРОВ Владимир Григорьевич
-    - num: '17'
+      spravka: true
+    - id: '13989'
+      num: '17'
       name: ТРИФОНОВ Иван Иванович
-    - num: '18'
+      spravka: true
+    - id: '13990'
+      num: '18'
       name: ФЕРЕ Георгий Карлович
-    - num: '19'
+      spravka: true
+    - id: '13991'
+      num: '19'
       name: ФОМИЧЕНКО Емельян Маркович
+      spravka: true
   - page:
       pageid: '1112'
       tom: '4'
@@ -226,8 +339,11 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-269.jpg
     persons:
-    - num: '1'
+    - id: '13992'
+      num: '1'
       name: УНГАР Герман Германович
+      gb_spravka: true
+      spravka: true
 - title: Список от 13 ноября 1937г. [Москва-Ленинская ж.д.]
   sublisttitle: Москва-Ленинская ж.д.
   pages:
@@ -247,54 +363,101 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-271.jpg
     persons:
-    - num: '1'
+    - id: '13993'
+      num: '1'
       name: АЛЕКСАНДРОВ Константин Дмитриевич
-    - num: '2'
+      spravka: true
+    - id: '13994'
+      num: '2'
       name: БАЛИЦКИЙ Зиновий Ильич
-    - num: '3'
+      spravka: true
+    - id: '13995'
+      num: '3'
       name: БРЮХОВЕЦКИЙ Александр Петрович
-    - num: '4'
+      spravka: true
+    - id: '13996'
+      num: '4'
       name: ВАСЕНИН Петр Дементьевич
-    - num: '5'
+      spravka: true
+    - id: '13997'
+      num: '5'
       name: ВЛАСТОВСКИЙ Георгий Теофилович
-    - num: '6'
+      spravka: true
+    - id: '13998'
+      num: '6'
       name: ВОЛКОВ Алексей Яковлевич
-    - num: '7'
+      spravka: true
+    - id: '13999'
+      num: '7'
       name: ГРАЧЕВ Вячеслав Павлович
-    - num: '8'
+      spravka: true
+    - id: '14000'
+      num: '8'
       name: ГУСАРОВ Василий Михайлович
-    - num: '9'
+      spravka: true
+    - id: '14001'
+      num: '9'
       name: ДЕНИСОВ Иван Васильевич
-    - num: '10'
+      spravka: true
+    - id: '14002'
+      num: '10'
       name: ИСАЕВ Иван Александрович
-    - num: '11'
+      spravka: true
+    - id: '14003'
+      num: '11'
       name: КОЗЛОВ Сергей Павлович
-    - num: '12'
+    - id: '14004'
+      num: '12'
       name: КОЛЧИН Петр Корнеевич
-    - num: '13'
+      spravka: true
+    - id: '14005'
+      num: '13'
       name: КОМИССАРОВ Иосиф Иванович
-    - num: '14'
+      spravka: true
+    - id: '14006'
+      num: '14'
       name: КОРНЕЕВ Иван Иванович
-    - num: '15'
+      spravka: true
+    - id: '14007'
+      num: '15'
       name: КОРОЛЕВ Николай Васильевич
-    - num: '16'
+      spravka: true
+    - id: '14008'
+      num: '16'
       name: КОТЫХОВ Федор Самонович
-    - num: '17'
+      spravka: true
+    - id: '14009'
+      num: '17'
       name: КУШНАРЕВ Илья Иванович
-    - num: '18'
+      spravka: true
+    - id: '14010'
+      num: '18'
       name: МАКСИМОВ Яков Яковлевич
-    - num: '19'
+      spravka: true
+    - id: '14011'
+      num: '19'
       name: МАТУШКИН Иван Егорович
-    - num: '20'
+      spravka: true
+    - id: '14012'
+      num: '20'
       name: НАЗАРОВ Николай Васильевич
-    - num: '21'
+      spravka: true
+    - id: '14013'
+      num: '21'
       name: НЕФЕДОВ Филипп Федорович
-    - num: '22'
+      spravka: true
+    - id: '14014'
+      num: '22'
       name: ПЕТРОВ Сергей Иванович
-    - num: '23'
+      spravka: true
+    - id: '14015'
+      num: '23'
       name: ПОПОВ Василий Николаевич
-    - num: '24'
+      spravka: true
+    - id: '14016'
+      num: '24'
       name: ТЕПФЕР Федор Эдуардович
+      spravka: true
   - page:
       pageid: '1115'
       tom: '4'
@@ -311,11 +474,16 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-272.jpg
     persons:
-    - num: '25'
+    - id: '14017'
+      num: '25'
       name: ТОКАРЬ Григорий Миронович
-    - num: '26'
+      spravka: true
+    - id: '14018'
+      num: '26'
       name: ШЕСТАКОВ Захар Захарович
-    - num: '1'
+      spravka: true
+    - id: '14019'
+      num: '1'
       name: КОРОЛЕВ Федор Александрович
 - title: Список от 13 ноября 1937г. [Москва - Метро]
   sublisttitle: Москва - Метро
@@ -336,12 +504,19 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-273.jpg
     persons:
-    - num: '1'
+    - id: '14020'
+      num: '1'
       name: ВЮРЦБУРГЕР Иоган Матвеевич
-    - num: '2'
+      gb_spravka: true
+    - id: '14021'
+      num: '2'
       name: КИЛЬЦ Эрнст Федорович
-    - num: '3'
+      gb_spravka: true
+      spravka: true
+    - id: '14022'
+      num: '3'
       name: ХАССЕ Генрих Генрихович
+      gb_spravka: true
 - title: Список от 13 ноября 1937г. [Калуга - Киевская ж.д.]
   sublisttitle: Калуга - Киевская ж.д.
   pages:
@@ -361,46 +536,86 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-277.jpg
     persons:
-    - num: '1'
+    - id: '14023'
+      num: '1'
       name: АНДРЕЕВ Иван Петрович
-    - num: '2'
+      spravka: true
+    - id: '14024'
+      num: '2'
       name: БОРЕЙШО Николай Васильевич
-    - num: '3'
+      spravka: true
+    - id: '14025'
+      num: '3'
       name: БУНЯКИН Анатолий Александрович
-    - num: '4'
+      spravka: true
+    - id: '14026'
+      num: '4'
       name: ГАРНОВСКИЙ Владимир Степанович
-    - num: '5'
+      spravka: true
+    - id: '14027'
+      num: '5'
       name: ДУБОК Гавриил Игнатьевич
-    - num: '6'
+      spravka: true
+    - id: '14028'
+      num: '6'
       name: ЕРОХИН Владимир Владимирович
-    - num: '7'
+      spravka: true
+    - id: '14029'
+      num: '7'
       name: ЖУКОВ Константин Николаевич
-    - num: '8'
+      spravka: true
+    - id: '14030'
+      num: '8'
       name: ЗАЛЕВСКИЙ Нестер Карпович
-    - num: '9'
+      spravka: true
+    - id: '14031'
+      num: '9'
       name: ИЗОТОВ Влас Максимович
-    - num: '10'
+      spravka: true
+    - id: '14032'
+      num: '10'
       name: КИМСТАЧ Василий Данилович
-    - num: '11'
+      spravka: true
+    - id: '14033'
+      num: '11'
       name: КУЦУРБА (КУЦУУРБА) Иван Маркович
-    - num: '12'
+      spravka: true
+    - id: '14034'
+      num: '12'
       name: ЛЕДЕНЕВ Иван Иванович
-    - num: '13'
+      spravka: true
+    - id: '14035'
+      num: '13'
       name: ПИРУШКО Георгий Францевич
-    - num: '14'
+      spravka: true
+    - id: '14036'
+      num: '14'
       name: САМОШЕНКОВ Андрей Георгиевич
-    - num: '15'
+      spravka: true
+    - id: '14037'
+      num: '15'
       name: СОЛДАТЕНКО Мина Парамонович
-    - num: '16'
+      spravka: true
+    - id: '14038'
+      num: '16'
       name: СОЛОВЬЕВ Глеб Павлович
-    - num: '17'
+      spravka: true
+    - id: '14039'
+      num: '17'
       name: ТАРАСОВ Никифор Кириллович
-    - num: '18'
+      spravka: true
+    - id: '14040'
+      num: '18'
       name: ЧЕБОТАРЕВ Александр Васильевич
-    - num: '19'
+      spravka: true
+    - id: '14041'
+      num: '19'
       name: ШАПИН Иван Михайлович
-    - num: '20'
+      spravka: true
+    - id: '14042'
+      num: '20'
       name: ШМАТОВ Николай Иванович
+      spravka: true
   - page:
       pageid: '1121'
       tom: '4'
@@ -417,11 +632,16 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-278.jpg
     persons:
-    - num: '1'
+    - id: '14043'
+      num: '1'
       name: ГОРЕЛОВ Константин Степанович
-    - num: '2'
+      spravka: true
+    - id: '14044'
+      num: '2'
       name: ГРИШИН Владимир Федорович
-    - num: '3'
+    - id: '14045'
+      num: '3'
       name: ЛЕБЕДЕВ Яков Ильич
-    - num: '4'
+    - id: '14046'
+      num: '4'
       name: САЛТЫКОВ Афанасий Трофимович

@@ -32,46 +32,105 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-120.jpg
     persons:
-    - num: '1'
+    - id: '15469'
+      num: '1'
       name: КАМИНСКИЙ Григорий Наумович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '15472'
+      num: '2'
       name: ФИЛАТОВ Николай Алексеевич
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '15473'
+      num: '3'
       name: ГЕНКИН Ефим Борисович
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '15475'
+      num: '4'
       name: МЕЕРЗОН Жозеф Исаакович
-    - num: '5'
+      doublesexists: true
+      spravka: true
+    - id: '15476'
+      num: '5'
       name: ХЛОПЛЯНКИН Михаил Иванович
-    - num: '6'
+      doublesexists: true
+    - id: '15477'
+      num: '6'
       name: БОНДАРЕНКО Михаил Ильич
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '15478'
+      num: '7'
       name: ИВАНОВ Вячеслав Федорович
-    - num: '8'
+      doublesexists: true
+      spravka: true
+    - id: '15480'
+      num: '8'
       name: АРОСЬЕВ Александр Яковлевич
-    - num: '9'
+      doublesexists: true
+      spravka: true
+    - id: '15481'
+      num: '9'
       name: БАХУТОВ Александр Михайлович
-    - num: '10'
+      doublesexists: true
+      spravka: true
+    - id: '15483'
+      num: '10'
       name: МЕСЯЦЕВ Павел Александрович
-    - num: '11'
+      doublesexists: true
+      spravka: true
+    - id: '15484'
+      num: '11'
       name: ПЕТРОВСКИЙ Даниил Иванович
-    - num: '12'
+      doublesexists: true
+      spravka: true
+    - id: '15485'
+      num: '12'
       name: ПОЛОВИНКИН Иван Матвеевич
-    - num: '13'
+      doublesexists: true
+      spravka: true
+    - id: '15486'
+      num: '13'
       name: РЯБОВ Александр Николаевич
-    - num: '14'
+      doublesexists: true
+      spravka: true
+    - id: '36099'
+      num: '14'
       name: ДУБОВОЙ Иван Наумович
-    - num: '15'
+      doublesexists: true
+      spravka: true
+    - id: '15491'
+      num: '15'
       name: СЕМУШКИН Анатолий Дмитриевич
-    - num: '16'
+      doublesexists: true
+      spravka: true
+    - id: '25983'
+      num: '16'
       name: БАРАНОВ Михаил Иванович
-    - num: '17'
+      doublesexists: true
+      spravka: true
+    - id: '15493'
+      num: '17'
       name: БАКАУРИ Владимир Иванович
-    - num: '18'
+      doublesexists: true
+      spravka: true
+    - id: '36116'
+      num: '18'
       name: КОВТЮХ Епифан Иович
-    - num: '19'
+      doublesexists: true
+      spravka: true
+    - id: '15495'
+      num: '19'
       name: ЛОНГВА Роман Войцехович
-    - num: '20'
+      doublesexists: true
+      spravka: true
+    - id: '36143'
+      num: '20'
       name: ОРЛОВ Владимир Митрофанович
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '1245'
       tom: '5'
@@ -88,12 +147,21 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-121.jpg
     persons:
-    - num: '21'
+    - id: '15466'
+      num: '21'
       name: МАХОВЕР Иосиф Лазаревич
-    - num: '22'
+      doublesexists: true
+      spravka: true
+    - id: '27978'
+      num: '22'
       name: АПРЕСОВ Гарегим Абрамович
-    - num: '23'
+      doublesexists: true
+      spravka: true
+    - id: '15500'
+      num: '23'
       name: ХВЫЛЯ Андрей Ананьевич
+      doublesexists: true
+      spravka: true
 - title: Список от 22 ноября 1937г. [Москва-центр - список]
   sublisttitle: Москва-центр - список
   pages:
@@ -113,61 +181,130 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-122.jpg
     persons:
-    - num: '1'
+    - id: '15469'
+      num: '1'
       name: КАМИНСКИЙ Григорий Наумович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '15470'
+      num: '2'
       name: ПОПОВ Николай Николаевич
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '15471'
+      num: '3'
       name: СЕРЕБРОВСКИЙ Алексей Павлович
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '15472'
+      num: '4'
       name: ФИЛАТОВ Николай Алексеевич
       underlined: true
-      pometa: true
       pometa_text: '25'
-    - num: '5'
+      doublesexists: true
+      spravka: true
+    - id: '15473'
+      num: '5'
       name: ГЕНКИН Ефим Борисович
-    - num: '6'
+      doublesexists: true
+      spravka: true
+    - id: '15474'
+      num: '6'
       name: ЕРБАНОВ Михей Николаевич
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '15475'
+      num: '7'
       name: МЕЕРЗОН Жозеф Исаакович
-    - num: '8'
+      doublesexists: true
+      spravka: true
+    - id: '15476'
+      num: '8'
       name: ХЛОПЛЯНКИН Михаил Иванович
-    - num: '9'
+      doublesexists: true
+    - id: '15477'
+      num: '9'
       name: БОНДАРЕНКО Михаил Ильич
-    - num: '10'
+      doublesexists: true
+      spravka: true
+    - id: '15478'
+      num: '10'
       name: ИВАНОВ Вячеслав Федорович
-    - num: '11'
+      doublesexists: true
+      spravka: true
+    - id: '15479'
+      num: '11'
       name: РЫСКУЛОВ Тураф Рыскулович
-    - num: '12'
+      doublesexists: true
+      spravka: true
+    - id: '15480'
+      num: '12'
       name: АРОСЬЕВ Александр Яковлевич
-    - num: '13'
+      doublesexists: true
+      spravka: true
+    - id: '15481'
+      num: '13'
       name: БАХУТОВ Александр Михайлович
-    - num: '14'
+      doublesexists: true
+      spravka: true
+    - id: '15482'
+      num: '14'
       name: КАУЧУКОВСКИЙ Григорий Данилович
-    - num: '15'
+      doublesexists: true
+      spravka: true
+    - id: '15483'
+      num: '15'
       name: МЕСЯЦЕВ Павел Александрович
-    - num: '16'
+      doublesexists: true
+      spravka: true
+    - id: '15484'
+      num: '16'
       name: ПЕТРОВСКИЙ Даниил Иванович
-    - num: '17'
+      doublesexists: true
+      spravka: true
+    - id: '15485'
+      num: '17'
       name: ПОЛОВИНКИН Иван Матвеевич
-    - num: '18'
+      doublesexists: true
+      spravka: true
+    - id: '15486'
+      num: '18'
       name: РЯБОВ Александр Николаевич
-    - num: '19'
+      doublesexists: true
+      spravka: true
+    - id: '15487'
+      num: '19'
       name: СМИРНОВ Александр Петрович
-    - num: '20'
+      doublesexists: true
+      spravka: true
+    - id: '15488'
+      num: '20'
       name: ХОДЖАНОВ Султанбек
-    - num: '21'
+      doublesexists: true
+      spravka: true
+    - id: '36099'
+      num: '21'
       name: ДУБОВОЙ Иван Наумович
       striked: true
-    - num: '22'
+      doublesexists: true
+      spravka: true
+    - id: '15490'
+      num: '22'
       name: КАГАНЕРОВА Клавдия Емельяновна
-    - num: '23'
+      doublesexists: true
+      spravka: true
+    - id: '15491'
+      num: '23'
       name: СЕМУШКИН Анатолий Дмитриевич
-    - num: '24'
+      doublesexists: true
+      spravka: true
+    - id: '25983'
+      num: '24'
       name: БАРАНОВ Михаил Иванович
       striked: true
-      pometa: true
       pometa_text: бить-бить
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '1247'
       tom: '5'
@@ -184,46 +321,101 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-123.jpg
     persons:
-    - num: '25'
+    - id: '15493'
+      num: '25'
       name: БАКАУРИ Владимир Иванович
-    - num: '26'
+      doublesexists: true
+      spravka: true
+    - id: '36116'
+      num: '26'
       name: КОВТЮХ Епифан Иович
-    - num: '27'
+      doublesexists: true
+      spravka: true
+    - id: '15495'
+      num: '27'
       name: ЛОНГВА Роман Войцехович
-    - num: '28'
+      doublesexists: true
+      spravka: true
+    - id: '36143'
+      num: '28'
       name: ОРЛОВ Владимир Митрофанович
       striked: true
-    - num: '29'
+      doublesexists: true
+      spravka: true
+    - id: '15497'
+      num: '29'
       name: БЫКИН Яков Борисович
-    - num: '30'
+      doublesexists: true
+      spravka: true
+    - id: '15498'
+      num: '30'
       name: МУКЛЕВИЧ Ромуальд Адамович
-    - num: '31'
+      doublesexists: true
+      spravka: true
+    - id: '15499'
+      num: '31'
       name: ГЕРЦМАН Макс Ильич
-    - num: '32'
+      doublesexists: true
+      spravka: true
+    - id: '15500'
+      num: '32'
       name: ХВЫЛЯ Андрей Ананьевич
-    - num: '33'
+      doublesexists: true
+      spravka: true
+    - id: '15501'
+      num: '33'
       name: РАППОПОРТ Григорий Яковлевич
-    - num: '34'
+      doublesexists: true
+      spravka: true
+    - id: '15502'
+      num: '34'
       name: РЫНДИН Кузьма Васильевич
-    - num: '35'
+      doublesexists: true
+      spravka: true
+    - id: '15503'
+      num: '35'
       name: КОНТОРИН Дмитрий Алексеевич
-    - num: '36'
+      doublesexists: true
+      spravka: true
+    - id: '15504'
+      num: '36'
       name: ФОМИН Василий Кузьмич
-    - num: '37'
+      doublesexists: true
+      spravka: true
+    - id: '15505'
+      num: '37'
       name: ОСИПОВ-ШМИДТ Осип Павлович
-    - num: '38'
+      doublesexists: true
+      spravka: true
+    - id: '15506'
+      num: '38'
       name: МАСЛОВ Иван Николаевич
-    - num: '39'
+      doublesexists: true
+      spravka: true
+    - id: '15507'
+      num: '39'
       name: ЛЕВИТИН Лев Маркович
-    - num: '40'
+      doublesexists: true
+      spravka: true
+    - id: '15508'
+      num: '40'
       name: КРЮЧКОВА Екатерина Алексеевна
       striked: true
-    - num: '41'
+      doublesexists: true
+    - id: '15509'
+      num: '41'
       name: РАДЧЕНКО Иван Иванович
       underlined: true
-      pometa: true
       pometa_text: '25'
-    - num: '42'
+      doublesexists: true
+      spravka: true
+    - id: '29354'
+      num: '42'
       name: ЛУКЬЯНОВ Дмитрий Дмитриевич
-    - num: '43'
+      doublesexists: true
+      spravka: true
+    - id: '15511'
+      num: '43'
       name: БЕЛОБОРОДОВ Александр Георгиевич
+      doublesexists: true
+      spravka: true

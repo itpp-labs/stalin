@@ -39,42 +39,77 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-126.jpg
     persons:
-    - num: '1'
+    - id: '4662'
+      num: '1'
       name: БЕЛОЗЕРОВ Алексей Терентьевич
-    - num: '2'
+      spravka: true
+    - id: '4663'
+      num: '2'
       name: БОГДАНОВ Георгий Григорьевич
-    - num: '3'
+      spravka: true
+    - id: '4664'
+      num: '3'
       name: БУЙЛОВ Михаил Георгиевич
-    - num: '4'
+      spravka: true
+    - id: '4665'
+      num: '4'
       name: ГАРИН Петр Никитич
-    - num: '5'
+      spravka: true
+    - id: '4666'
+      num: '5'
       name: ГЛАЗКОВ Александр Гаврилович
-    - num: '6'
+      spravka: true
+    - id: '4667'
+      num: '6'
       name: ГОЛОВАНОВ Николай Сергеевич
-    - num: '7'
+      spravka: true
+    - id: '4668'
+      num: '7'
       name: ГРУЗДЕВСКИЙ Константин Полуэктович
-    - num: '8'
+      spravka: true
+    - id: '4669'
+      num: '8'
       name: ДРИДИГЕР Яков Яковлевич
-    - num: '9'
+      spravka: true
+    - id: '4670'
+      num: '9'
       name: ЗЕФИРОВ Гавриил Иванович
-    - num: '10'
+      spravka: true
+    - id: '4671'
+      num: '10'
       name: КАПУСТИН Геннадий Михайлович
-    - num: '11'
+      spravka: true
+    - id: '4672'
+      num: '11'
       name: КЕДРОВ Павел Романович
-    - num: '12'
+    - id: '4673'
+      num: '12'
       name: КОРНИЛОВ Николай Александрович
-    - num: '13'
+      spravka: true
+    - id: '4674'
+      num: '13'
       name: КОСТАКОВ Михаил Алексеевич
-    - num: '14'
+      spravka: true
+    - id: '4675'
+      num: '14'
       name: МАЛИНИН Павел Алексеевич
-    - num: '15'
+      spravka: true
+    - id: '4676'
+      num: '15'
       name: МУЗЮКИН Иван Федорович
-    - num: '16'
+      spravka: true
+    - id: '4677'
+      num: '16'
       name: СТЕЛЬМАШУК Иван Алексеевич
-    - num: '17'
+      spravka: true
+    - id: '4678'
+      num: '17'
       name: ТЮРЕНКОВ Николай Григорьевич
-    - num: '18'
+      spravka: true
+    - id: '4679'
+      num: '18'
       name: УКРАИНЦЕВ Иван Васильевич
+      spravka: true
   - page:
       pageid: '363'
       tom: '2'
@@ -91,18 +126,29 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-127.jpg
     persons:
-    - num: '1'
+    - id: '4680'
+      num: '1'
       name: ГОРДЕЕВ Иван Матвеевич
-    - num: '2'
+      spravka: true
+    - id: '4681'
+      num: '2'
       name: ЕФИМОВА Вера Яковлевна
-    - num: '3'
+    - id: '4682'
+      num: '3'
       name: ИГНАТОВИЧ Наум Мартынович
-    - num: '4'
+      spravka: true
+    - id: '4683'
+      num: '4'
       name: КОЗЫРИХИН Борис Иванович
-    - num: '5'
+      spravka: true
+    - id: '4684'
+      num: '5'
       name: ЛЫЧАКОВ Сергей Николаевич
-    - num: '6'
+      spravka: true
+    - id: '4685'
+      num: '6'
       name: ШМИДТ Яков Савельевич
+      spravka: true
 - title: Список от 31 июля 1937 г. [Саратовская область]
   sublisttitle: Саратовская область
   pages:
@@ -122,20 +168,41 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-128.jpg
     persons:
-    - num: '1'
+    - id: '4686'
+      num: '1'
       name: АШЕР Эрнст Гугович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '4687'
+      num: '2'
       name: БАЙЕР Ганс Иванович
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '4688'
+      num: '3'
       name: ВИЛЬДЕ Гарри Оттович
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '4689'
+      num: '4'
       name: ВИРГИН-ШТАРКЕ Фриц Густавович
-    - num: '5'
+      doublesexists: true
+      spravka: true
+    - id: '4690'
+      num: '5'
       name: ГОФМАН-ЛЕОВ Вилли
-    - num: '6'
+      doublesexists: true
+      spravka: true
+    - id: '4691'
+      num: '6'
       name: ФАЛЕНТИН Андреас Францевич
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '4692'
+      num: '7'
       name: ШЕЛЕНБЕРГ Пауль Павлович (Берг Клаус)
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '365'
       tom: '2'
@@ -152,9 +219,20 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-129.jpg
     persons:
-    - num: '1'
+    - id: '4693'
+      num: '1'
       name: АККЕРМАН Отто Максович
-    - num: '2'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '4694'
+      num: '2'
       name: БРУНС Петр Артурович (Клозе Вольфрам)
-    - num: '3'
+      doublesexists: true
+      gb_spravka: true
+    - id: '4695'
+      num: '3'
       name: ЯКОБ Эрнст Бертрамович
+      doublesexists: true
+      gb_spravka: true
+      spravka: true

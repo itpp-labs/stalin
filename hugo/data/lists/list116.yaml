@@ -39,46 +39,85 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-058.jpg
     persons:
-    - num: '1'
+    - id: '14849'
+      num: '1'
       name: БРОДСКИЙ Давид Яковлевич
-    - num: '2'
+      spravka: true
+    - id: '14850'
+      num: '2'
       name: ГОНЧАРЕВСКИЙ Михаил Иванович
-    - num: '3'
+    - id: '14851'
+      num: '3'
       name: ГУРЬЯНОВ Николай Тимофеевич
-    - num: '4'
+      spravka: true
+    - id: '14852'
+      num: '4'
       name: ДЕБОЛЬСКИЙ Виктор Павлович
-    - num: '5'
+      spravka: true
+    - id: '14853'
+      num: '5'
       name: ЗАРЖИЦКИЙ Григорий Григорьевич
-    - num: '6'
+      spravka: true
+    - id: '14854'
+      num: '6'
       name: ЖЕЛТОВ Иван Сергеевич
-    - num: '7'
+      spravka: true
+    - id: '14855'
+      num: '7'
       name: КОРШУНОВ Василий Евгеньевич
-    - num: '8'
+      spravka: true
+    - id: '14856'
+      num: '8'
       name: КРЫЛОВ Василий Сергеевич
-    - num: '9'
+      spravka: true
+    - id: '14857'
+      num: '9'
       name: КУБАСОВ Сергей Гаврилович
-    - num: '10'
+      spravka: true
+    - id: '14858'
+      num: '10'
       name: ЛАПКИН Иван Андреевич
-    - num: '11'
+      spravka: true
+    - id: '14859'
+      num: '11'
       name: МОРЕВ Василий Михайлович
-    - num: '12'
+      spravka: true
+    - id: '14860'
+      num: '12'
       name: МУХАЧЕВ Михаил Васильевич
-    - num: '13'
+      spravka: true
+    - id: '14861'
+      num: '13'
       name: НИКОЛЬСКИЙ Вениамин Степанович
-    - num: '14'
+      spravka: true
+    - id: '14862'
+      num: '14'
       name: ПРЕОБРАЖЕНСКИЙ Геннадий Александрович
-    - num: '15'
+      spravka: true
+    - id: '14863'
+      num: '15'
       name: СОКОЛОВ Илья Семенович
-    - num: '16'
+      spravka: true
+    - id: '14864'
+      num: '16'
       name: СТЕПАНОВ Григорий Михайлович
-    - num: '17'
+      spravka: true
+    - id: '14865'
+      num: '17'
       name: ФИЛИППОВ Сергей Иванович
-    - num: '18'
+      spravka: true
+    - id: '14866'
+      num: '18'
       name: ХЛЫБОВ Александр Васильевич
-    - num: '19'
+      spravka: true
+    - id: '14867'
+      num: '19'
       name: ЧЕРНЫХ Петр Иванович
-    - num: '20'
+      spravka: true
+    - id: '14868'
+      num: '20'
       name: ЯМЩИКОВ Александр Иванович
+      spravka: true
   - page:
       pageid: '1183'
       tom: '5'
@@ -95,16 +134,25 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-059.jpg
     persons:
-    - num: '1'
+    - id: '14869'
+      num: '1'
       name: ЕГОРОВ Иван Иванович
-    - num: '2'
+      spravka: true
+    - id: '14870'
+      num: '2'
       name: ПОЛТЕВ Федор Кириллович
-    - num: '3'
+    - id: '14871'
+      num: '3'
       name: САМОЙЛОВ Иван Степанович
-    - num: '4'
+      spravka: true
+    - id: '14872'
+      num: '4'
       name: САМОЙЛОВА Паулина Степановна
-    - num: '5'
+      spravka: true
+    - id: '14873'
+      num: '5'
       name: ТИМОФЕИЧЕВ Леонид Александрович
+      spravka: true
 - title: Список от 22 ноября 1937г. [Калининская область]
   sublisttitle: Калининская область
   pages:
@@ -124,34 +172,55 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-060.jpg
     persons:
-    - num: '1'
+    - id: '14874'
+      num: '1'
       name: АГАТОВ Борис Константинович
-    - num: '2'
+      spravka: true
+    - id: '14875'
+      num: '2'
       name: АЛЕКСАНДРОВ Василий Андреевич
-    - num: '3'
+      spravka: true
+    - id: '14876'
+      num: '3'
       name: АЛИКИН Михаил Ильич
-    - num: '4'
+      spravka: true
+    - id: '14877'
+      num: '4'
       name: ГЕЛЛЕР Владимир Александрович
-    - num: '5'
+      spravka: true
+    - id: '14878'
+      num: '5'
       name: ЕСТИФЕЕВ Владимир Павлович
-    - num: '6'
+    - id: '14879'
+      num: '6'
       name: МИХАЙЛОВ Илья Михайлович
-    - num: '7'
+    - id: '14880'
+      num: '7'
       name: МОЗГОВ Николай Иванович
-    - num: '8'
+    - id: '14881'
+      num: '8'
       name: МОРУГОВ Андрей Павлович
-    - num: '9'
+    - id: '14882'
+      num: '9'
       name: РУДЗИТ Петр Марцевич
-    - num: '10'
+    - id: '14883'
+      num: '10'
       name: РУТКОВСКИЙ Станислав Станиславович
-    - num: '11'
+    - id: '14884'
+      num: '11'
       name: СМИРНОВ Сергей Семенович
-    - num: '12'
+    - id: '14885'
+      num: '12'
       name: ФОНАРЕВ Василий Никитович
-    - num: '13'
+      spravka: true
+    - id: '14886'
+      num: '13'
       name: ЦЕЗЕЛЬСКИЙ Ростислав Федорович
-    - num: '14'
+      spravka: true
+    - id: '14887'
+      num: '14'
       name: ЩУКИН Анатолий Валентинович
+      spravka: true
   - page:
       pageid: '1185'
       tom: '5'
@@ -168,7 +237,8 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-061.jpg
     persons:
-    - num: '1'
+    - id: '14888'
+      num: '1'
       name: САВЕЛЬЕВ Дмитрий Андреевич
 - title: Список от 22 ноября 1937г. [Крымская АССР]
   sublisttitle: Крымская АССР
@@ -189,49 +259,84 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-062.jpg
     persons:
-    - num: '1'
+    - id: '14889'
+      num: '1'
       name: БЕРЕЗИН Александр Давыдович
-    - num: '2'
+      spravka: true
+    - id: '14890'
+      num: '2'
       name: ВЕЙДЕНБАУМ Вильгельм Георгиевич
-    - num: '3'
+      spravka: true
+    - id: '14891'
+      num: '3'
       name: ВИТТ Густав Соломонович
-    - num: '4'
+      spravka: true
+    - id: '14892'
+      num: '4'
       name: ВОРОБЬЕВ Иван Васильевич
-    - num: '5'
+      spravka: true
+    - id: '14893'
+      num: '5'
       name: ГАНЖА Федор Васильевич
-    - num: '6'
+      spravka: true
+    - id: '14894'
+      num: '6'
       name: ГАНСОН Артур Генрихович
-    - num: '7'
+      spravka: true
+    - id: '14895'
+      num: '7'
       name: ГИЛЕВ Андрей Васильевич
-    - num: '8'
+    - id: '14896'
+      num: '8'
       name: ГЛИНКА Василий Васильевич
-    - num: '9'
+      spravka: true
+    - id: '14897'
+      num: '9'
       name: ДАНИЛОВ Павел Федорович
-    - num: '10'
+    - id: '14898'
+      num: '10'
       name: ДРЕГЕР Эмиль Фридрихович
-    - num: '11'
+    - id: '14899'
+      num: '11'
       name: ЕЩЕНКО Михаил Григорьевич
-    - num: '12'
+      spravka: true
+    - id: '14900'
+      num: '12'
       name: ИВАНОВ Дмитрий Дмитриевич
-    - num: '13'
+    - id: '14901'
+      num: '13'
       name: КОЙБАЕВ Николай Давидович
-    - num: '14'
+      spravka: true
+    - id: '14902'
+      num: '14'
       name: ЛОРЕНЦ Вильгельм Вильгельмович
-    - num: '15'
+    - id: '14903'
+      num: '15'
       name: МЕЗДРИКОВ Виктор Николаевич
-    - num: '16'
+      spravka: true
+    - id: '14904'
+      num: '16'
       name: НАГОРНЫЙ Игнат Федорович
-    - num: '17'
+    - id: '14905'
+      num: '17'
       name: НОВИКОВ Максим Васильевич
-    - num: '18'
+    - id: '14906'
+      num: '18'
       name: ПРОХОРОВ Василий Георгиевич
-    - num: '19'
+      spravka: true
+    - id: '14907'
+      num: '19'
       name: РИСТЕР Рудольф Вендеминович
-    - num: '20'
+      spravka: true
+    - id: '14908'
+      num: '20'
       name: СЛАТИНСКИЙ Геннадий Станиславович
-    - num: '21'
+      spravka: true
+    - id: '14909'
+      num: '21'
       name: ЭЛИГЕР Генрих Соломонович
-    - num: '22'
+    - id: '14910'
+      num: '22'
       name: ЮДИЛЕВИЧ Яков Иосифович
   - page:
       pageid: '1187'
@@ -249,12 +354,17 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-063.jpg
     persons:
-    - num: '1'
+    - id: '14911'
+      num: '1'
       name: ГОРБАЧЕВ Илья Прокофьевич
-    - num: '2'
+    - id: '14912'
+      num: '2'
       name: КАРПОВ Евтихий Леонтьевич
-    - num: '3'
+      spravka: true
+    - id: '14913'
+      num: '3'
       name: КРЫЖАНОВСКИЙ Михаил Иванович
+      spravka: true
 - title: Список от 22 ноября 1937г. [Горький - Горьковская ж.д.]
   sublisttitle: Горький - Горьковская ж.д.
   pages:
@@ -274,18 +384,28 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-064.jpg
     persons:
-    - num: '1'
+    - id: '14914'
+      num: '1'
       name: АУРОВ Петр Сергеевич
-    - num: '2'
+      spravka: true
+    - id: '14915'
+      num: '2'
       name: ГОВЕНДО Хлавно Яковлевич
-    - num: '3'
+      spravka: true
+    - id: '14916'
+      num: '3'
       name: ПАНОВ Петр Львович
-    - num: '4'
+      spravka: true
+    - id: '14917'
+      num: '4'
       name: РЕЗНИК Михаил Наумович
-    - num: '5'
+    - id: '14918'
+      num: '5'
       name: САВИН Иосиф Степанович
-    - num: '6'
+    - id: '14919'
+      num: '6'
       name: ШАБАЛИН Николай Васильевич
+      spravka: true
   - page:
       pageid: '1189'
       tom: '5'
@@ -302,10 +422,14 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-065.jpg
     persons:
-    - num: '1'
+    - id: '14920'
+      num: '1'
       name: БОГДАНОВ Федор Васильевич
-    - num: '2'
+      spravka: true
+    - id: '14921'
+      num: '2'
       name: ГАВРИЛОВ Сергей Яковлевич
+      spravka: true
 - title: Список от 22 ноября 1937г. [Смоленская область]
   sublisttitle: Смоленская область
   pages:
@@ -325,7 +449,10 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-066.jpg
     persons:
-    - num: '1'
+    - id: '40118'
+      num: '1'
       name: ОСТРЕЙКО Сергей Семенович
-    - num: '2'
+      doublesexists: true
+    - id: '14923'
+      num: '2'
       name: КОЖАНОВ Влас Дмитриевич

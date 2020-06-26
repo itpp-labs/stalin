@@ -30,17 +30,32 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-179.jpg
     persons:
-    - num: '1'
+    - id: '9724'
+      num: '1'
       name: БУДА Семен Мартемьянович
-    - num: '2'
+      spravka: true
+    - id: '12865'
+      num: '2'
       name: ДОМБРОВСКИЙ Вячеслав Ромуальдович
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '9726'
+      num: '3'
       name: ЗИБРАК Эмиль Александрович
-    - num: '4'
+      spravka: true
+    - id: '9727'
+      num: '4'
       name: ЛИЦКЕВИЧ Ян Иосифович
-    - num: '5'
+      spravka: true
+    - id: '9728'
+      num: '5'
       name: МАРКАРЬЯН Сергей Николаевич
-    - num: '6'
+      spravka: true
+    - id: '9729'
+      num: '6'
       name: МОЛЧАНОВ Георгий Андреевич
-    - num: '7'
+      spravka: true
+    - id: '9730'
+      num: '7'
       name: ТУРКОВСКИЙ Иосиф Иванович
+      spravka: true

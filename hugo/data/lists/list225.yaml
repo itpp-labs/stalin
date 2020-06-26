@@ -35,54 +35,94 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-059.jpg
     persons:
-    - num: '1'
+    - id: '8253'
+      num: '1'
       name: АЛЬПЕРОВИЧ Иосиф Борисович
-    - num: '2'
+      spravka: true
+    - id: '8254'
+      num: '2'
       name: БАТУРКО Александр Иванович
-    - num: '3'
+      spravka: true
+    - id: '8255'
+      num: '3'
       name: БЕККЕР Эмиль Яковлевич
-    - num: '4'
+      spravka: true
+    - id: '8256'
+      num: '4'
       name: БОЛОТОВ Дмитрий Иванович
-    - num: '5'
+      spravka: true
+    - id: '8257'
+      num: '5'
       name: ВЕСЕЛОВСКИЙ Рихард Эрнстович
-    - num: '6'
+    - id: '8258'
+      num: '6'
       name: ВИШНЯ Лев Абрамович
-    - num: '7'
+      spravka: true
+    - id: '8259'
+      num: '7'
       name: ГАБЕРЛ Кристиан Михайлович
-    - num: '8'
+      spravka: true
+    - id: '8260'
+      num: '8'
       name: КЛИШЕВИЧ Николай Васильевич
-    - num: '9'
+      spravka: true
+    - id: '8261'
+      num: '9'
       name: КОНТОРОВИЧ Овзер Нахимович
-    - num: '10'
+      spravka: true
+    - id: '8262'
+      num: '10'
       name: КУЗНЕЦЕВ Сергей Сидорович
-    - num: '11'
+      spravka: true
+    - id: '8263'
+      num: '11'
       name: ЛАНГЕ Генрих Генрихович
-    - num: '12'
+      spravka: true
+    - id: '8264'
+      num: '12'
       name: МАЗУНИН Григорий Михайлович
-    - num: '13'
+      spravka: true
+    - id: '8265'
+      num: '13'
       name: МАЗУТ Иосиф Давидович
-    - num: '14'
+      spravka: true
+    - id: '8266'
+      num: '14'
       name: ОРЛЕНКО Тимофей Афиногенович
-    - num: '15'
+    - id: '8267'
+      num: '15'
       name: ПАСОВСКИЙ Борис Иосифович
-    - num: '16'
+    - id: '8268'
+      num: '16'
       name: ПАСТУХОВ Михаил Петрович
-    - num: '17'
+    - id: '8269'
+      num: '17'
       name: ПЕТЦНИК Август Эрнстович
-    - num: '18'
+      spravka: true
+    - id: '8270'
+      num: '18'
       name: СОФРОНОВ Александр Романович
-    - num: '19'
+    - id: '8271'
+      num: '19'
       name: ХМЕЛЕВ Михаил Матвеевич
-    - num: '20'
+    - id: '8272'
+      num: '20'
       name: ЧАРОМСКАЯ Полина Львовна
-    - num: '21'
+      spravka: true
+    - id: '8273'
+      num: '21'
       name: ЧЕРЕПАНОВ Николай Алексеевич
-    - num: '22'
+    - id: '8274'
+      num: '22'
       name: ЧЕРНЯ Иосиф Миронович
-    - num: '23'
+      spravka: true
+    - id: '8275'
+      num: '23'
       name: ШИКОЛАС Антон Валентинович
-    - num: '24'
+    - id: '8276'
+      num: '24'
       name: ШИЛОВ Григорий Андреевич
+      spravka: true
   - page:
       pageid: '652'
       tom: '3'
@@ -99,8 +139,10 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-060.jpg
     persons:
-    - num: '1'
+    - id: '8277'
+      num: '1'
       name: РЕШ Иосиф Иосифович
+      gb_spravka: true
   - page:
       pageid: '654'
       tom: '3'
@@ -117,19 +159,30 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-062.jpg
     persons:
-    - num: '1'
+    - id: '8278'
+      num: '1'
       name: АДИАНОВ Александр Сигизмундович
-    - num: '2'
+      spravka: true
+    - id: '8279'
+      num: '2'
       name: БАЛАНУЦА Николай Михайлович
-    - num: '3'
+      spravka: true
+    - id: '8280'
+      num: '3'
       name: ВЕЖЕВ Борис Михайлович
-    - num: '4'
+      spravka: true
+    - id: '8281'
+      num: '4'
       name: КАЗЯВИН Леонид Сергеевич
-    - num: '5'
+      spravka: true
+    - id: '8282'
+      num: '5'
       name: РОМОДАНОВ Иван Сергеевич
-    - num: '6'
+    - id: '8283'
+      num: '6'
       name: ФАРБЕРОВ Марк Яковлевич
-    - num: '7'
+    - id: '8284'
+      num: '7'
       name: ХУТОРСКОЙ Дмитрий Петрович
   - page:
       pageid: '655'
@@ -147,5 +200,8 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-063.jpg
     persons:
-    - num: '1'
+    - id: '8285'
+      num: '1'
       name: ШЛЕЙДЕР Ганс Гансович
+      gb_spravka: true
+      spravka: true

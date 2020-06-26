@@ -34,48 +34,96 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-348.jpg
     persons:
-    - num: '1'
+    - id: '23599'
+      num: '1'
       name: БАБЫКИН Александр Сергеевич
-    - num: '2'
+      spravka: true
+    - id: '23600'
+      num: '2'
       name: БАРБАН Иван Андреевич
-    - num: '3'
+      spravka: true
+    - id: '23601'
+      num: '3'
       name: БАРТЕВ Иван Алексеевич
-    - num: '4'
+      spravka: true
+    - id: '32154'
+      num: '4'
       name: БЕЛЯКОВА Анна Федоровна
-    - num: '5'
+      doublesexists: true
+    - id: '32160'
+      num: '5'
       name: ВОЛИН Максим Тимофеевич
-    - num: '6'
+      doublesexists: true
+      spravka: true
+    - id: '32161'
+      num: '6'
       name: ВОРОБЬЕВ Петр Федорович
-    - num: '7'
+      doublesexists: true
+      spravka: true
+    - id: '23605'
+      num: '7'
       name: ДЕСПО Иван Христафонович
-    - num: '8'
+      spravka: true
+    - id: '39643'
+      num: '8'
       name: ДУБРОВИН Яков Михайлович
-    - num: '9'
+      doublesexists: true
+      spravka: true
+    - id: '23607'
+      num: '9'
       name: ДУБЫШКИН Николай Александрович
-    - num: '10'
+      spravka: true
+    - id: '23608'
+      num: '10'
       name: ДУШИН Андрей Михайлович
-    - num: '11'
+      spravka: true
+    - id: '32202'
+      num: '11'
       name: ЕВДОКИМОВ Борис Николаевич
-    - num: '12'
+      doublesexists: true
+    - id: '32165'
+      num: '12'
       name: ЕПИШКИН Дмитрий Павлович
-    - num: '13'
+      doublesexists: true
+      spravka: true
+    - id: '23611'
+      num: '13'
       name: ЖИТЕНЕВ Сергей Федорович
-    - num: '14'
+      spravka: true
+    - id: '32167'
+      num: '14'
       name: ЗАК София Гавриловна
-    - num: '15'
+      doublesexists: true
+      spravka: true
+    - id: '23613'
+      num: '15'
       name: КАСПАРОВ Авак Семенович
-    - num: '16'
+      spravka: true
+    - id: '23614'
+      num: '16'
       name: КОЗЛЕНКОВ Кузьма Ильич
-    - num: '17'
+      spravka: true
+    - id: '32175'
+      num: '17'
       name: КОНОНЫХИН Михаил Иванович
-    - num: '18'
+      doublesexists: true
+      spravka: true
+    - id: '23616'
+      num: '18'
       name: КОПАНЕВИЧ Павел Николаевич
-    - num: '19'
+    - id: '23617'
+      num: '19'
       name: КОСТРИЧЕНКО Михаил Афанасьевич
-    - num: '20'
+      spravka: true
+    - id: '32177'
+      num: '20'
       name: КУДРЯВЦЕВ Павел Абрамович
-    - num: '21'
+      doublesexists: true
+      spravka: true
+    - id: '23619'
+      num: '21'
       name: ЛИХОДЗИЕВСКИЙ Франц Константинович
+      spravka: true
   - page:
       pageid: '1854'
       tom: '6'
@@ -92,46 +140,87 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-349.jpg
     persons:
-    - num: '22'
+    - id: '23620'
+      num: '22'
       name: ЛЮБИМОВ Андрей Васильевич
-    - num: '23'
+      spravka: true
+    - id: '23621'
+      num: '23'
       name: МАЛЬКОВ Иван Алексеевич
-    - num: '24'
+      spravka: true
+    - id: '23622'
+      num: '24'
       name: МАСБЕРГ Герман Карлович
-    - num: '25'
+      spravka: true
+    - id: '23623'
+      num: '25'
       name: МАСТРЮКОВ Михаил Спиридонович
-    - num: '26'
+    - id: '23624'
+      num: '26'
       name: НЕЧИН Михаил Васильевич
-    - num: '27'
+      spravka: true
+    - id: '23625'
+      num: '27'
       name: ОДИНЦОВ Василий Алексеевич
-    - num: '28'
+      spravka: true
+    - id: '32184'
+      num: '28'
       name: ПОЗНЕР Леонид Матвеевич
-    - num: '29'
+      doublesexists: true
+      spravka: true
+    - id: '23627'
+      num: '29'
       name: ПОЛЯКОВ Петр Ефимович
-    - num: '30'
+      spravka: true
+    - id: '32187'
+      num: '30'
       name: ПОПОВ Сергей Афанасьевич
-    - num: '31'
+      doublesexists: true
+      spravka: true
+    - id: '23629'
+      num: '31'
       name: РОЖИН Всеволод Александрович
-    - num: '32'
+    - id: '32190'
+      num: '32'
       name: СКОРИН Гаврил Григорьевич
-    - num: '33'
+      doublesexists: true
+      spravka: true
+    - id: '23631'
+      num: '33'
       name: СТЕПУРА Николай Константинович
-    - num: '34'
+      spravka: true
+    - id: '23632'
+      num: '34'
       name: ФЕДОСЕЕВ Александр Андреевич
-    - num: '35'
+      spravka: true
+    - id: '23633'
+      num: '35'
       name: ХАУСТОВ Александр Алексеевич
-    - num: '36'
+      spravka: true
+    - id: '23634'
+      num: '36'
       name: ХВОСТИКОВ Тимофей Устинович
-    - num: '37'
+      spravka: true
+    - id: '23635'
+      num: '37'
       name: ЧАГОВЕЦ Лидия Васильевна
-    - num: '38'
+      spravka: true
+    - id: '32196'
+      num: '38'
       name: ЧЕРНЯЕВ Михаил Тимофеевич
-    - num: '39'
+      doublesexists: true
+      spravka: true
+    - id: '23637'
+      num: '39'
       name: ЭКТОВ Петр Павлович
-    - num: '40'
+      spravka: true
+    - id: '23638'
+      num: '40'
       name: ЮМАШЕВ Петр Иванович
-    - num: '41'
+    - id: '23639'
+      num: '41'
       name: ЯСТРЖЕМБСКИЙ Николай Эдуардович
+      spravka: true
   - page:
       pageid: '1855'
       tom: '6'
@@ -148,5 +237,7 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-350.jpg
     persons:
-    - num: '1'
+    - id: '23640'
+      num: '1'
       name: РОЩУПКИН Георгий Илларионович
+      spravka: true

@@ -36,40 +36,74 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-330.jpg
     persons:
-    - num: '1'
+    - id: '7427'
+      num: '1'
       name: АНДРЕЕВ Николай Константинович
-    - num: '2'
+      spravka: true
+    - id: '7428'
+      num: '2'
       name: ДЕМИН, он же ЛЕВИН Василий Иванович
-    - num: '3'
+      spravka: true
+    - id: '7429'
+      num: '3'
       name: КОБЕЛЕВ Алексей Парфенович
-    - num: '4'
+      spravka: true
+    - id: '7430'
+      num: '4'
       name: КЛИМЮК Иван Григорьевич
-    - num: '5'
+      spravka: true
+    - id: '7431'
+      num: '5'
       name: КОЛЕМИН Павел Дмитриевич
-    - num: '6'
+      spravka: true
+    - id: '7432'
+      num: '6'
       name: ЛАВРУХИН Михаил Иванович
-    - num: '7'
+      spravka: true
+    - id: '7433'
+      num: '7'
       name: ЛЕШКЕВИЧ Александр Иванович
-    - num: '8'
+      spravka: true
+    - id: '7434'
+      num: '8'
       name: МИХАЙЛОВ Александр Михайлович
-    - num: '9'
+      spravka: true
+    - id: '7435'
+      num: '9'
       name: ПЕКАРСКИЙ Ян Михайлович
-    - num: '10'
+      spravka: true
+    - id: '7436'
+      num: '10'
       name: ПЕТРЯЕВ Алексей Петрович
-    - num: '11'
+      spravka: true
+    - id: '7437'
+      num: '11'
       name: ПОЛУДНЯКОВ Василий Федорович
-    - num: '12'
+      spravka: true
+    - id: '7438'
+      num: '12'
       name: РУЧКИН Дмитрий Гордеевич
-    - num: '13'
+      spravka: true
+    - id: '7439'
+      num: '13'
       name: ТЮЖИН Евдоким Ильич
-    - num: '14'
+      spravka: true
+    - id: '7440'
+      num: '14'
       name: ФЛАВИЕВ Сергей Иванович
-    - num: '15'
+      spravka: true
+    - id: '7441'
+      num: '15'
       name: ХОЛОДКОВ Илья Иванович
-    - num: '16'
+      spravka: true
+    - id: '7442'
+      num: '16'
       name: ШУРУЕВ Василий Васильевич
-    - num: '1'
+      spravka: true
+    - id: '7443'
+      num: '1'
       name: АНДРЕЕВА Прасковья Андреевна
+      spravka: true
 - title: Список от 31 августа 1937 г. [Татарская АССР]
   sublisttitle: Татарская АССР
   pages:
@@ -89,13 +123,20 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-331.jpg
     persons:
-    - num: '1'
+    - id: '7444'
+      num: '1'
       name: ВАЙСБОРД Герц Зунделеевич
-    - num: '2'
+      spravka: true
+    - id: '7445'
+      num: '2'
       name: ЗЛАТОПОЛЬСКИЙ Владимир Самсонович
-    - num: '3'
+      spravka: true
+    - id: '7446'
+      num: '3'
       name: ЛИОКУМОВИЧ Меер Хаймович
-    - num: '4'
+      spravka: true
+    - id: '7447'
+      num: '4'
       name: САЙФИ Шигаб Загрич
 - title: Список от 31 августа 1937 г. [Туркменская АССР]
   sublisttitle: Туркменская АССР
@@ -116,11 +157,14 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-332.jpg
     persons:
-    - num: '1'
+    - id: '7448'
+      num: '1'
       name: МЕЛЬКУМОВ Хачатур Исаевич
-    - num: '2'
+    - id: '7449'
+      num: '2'
       name: ФЕЛЬДМАН Давид Абрамович
-    - num: '3'
+    - id: '7450'
+      num: '3'
       name: ЯБЛОНСКИЙ Михаил Владимирович
 - title: Список от 31 августа 1937 г. [Восточно-Сибирская область]
   sublisttitle: Восточно-Сибирская область
@@ -141,27 +185,45 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-333.jpg
     persons:
-    - num: '1'
+    - id: '7451'
+      num: '1'
       name: ЗАЙЦЕВ Иван Михайлович
-    - num: '2'
+    - id: '7452'
+      num: '2'
       name: КИРЮШКИН Владимир Александрович
-    - num: '3'
+    - id: '7453'
+      num: '3'
       name: КУПРИЯНОВ Александр Михайлович
-    - num: '4'
+    - id: '7454'
+      num: '4'
       name: ЛИ Борис Викторович
-    - num: '5'
+      spravka: true
+    - id: '7455'
+      num: '5'
       name: НЕЧАЕВ Герман Яковлевич
-    - num: '6'
+      spravka: true
+    - id: '7456'
+      num: '6'
       name: ПЛОТНИКОВ Леонид Александрович
-    - num: '7'
+      spravka: true
+    - id: '7457'
+      num: '7'
       name: СОЛОМИН Михаил Семенович
-    - num: '8'
+      spravka: true
+    - id: '7458'
+      num: '8'
       name: СОТСКИЙ Григорий Васильевич
-    - num: '9'
+    - id: '7459'
+      num: '9'
       name: ТАУСОВ Алексей Григорьевич
-    - num: '10'
+    - id: '7460'
+      num: '10'
       name: ТКАЧУК Фотий Иванович
-    - num: '11'
+    - id: '7461'
+      num: '11'
       name: ЧЕРНИКОВ Федор Петрович
-    - num: '12'
+      spravka: true
+    - id: '7462'
+      num: '12'
       name: ШИМЕЛЕВИЧ Владислав Казимирович
+      spravka: true

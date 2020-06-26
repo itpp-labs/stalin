@@ -31,40 +31,72 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-120.jpg
     persons:
-    - num: '1'
+    - id: '34898'
+      num: '1'
       name: БЕЛОЗЕРОВ Василий Николаевич
-    - num: '2'
+      spravka: true
+    - id: '34899'
+      num: '2'
       name: БУШУЕВ Алексей Иванович
-    - num: '3'
+      spravka: true
+    - id: '34900'
+      num: '3'
       name: ВАСИЛЬЕВ Сергей Александрович
-    - num: '4'
+      spravka: true
+    - id: '34901'
+      num: '4'
       name: ГОЛЯКОВ Николай Ипатьевич
-    - num: '5'
+    - id: '34902'
+      num: '5'
       name: ГОРЛОВ Андрей Васильевич
-    - num: '6'
+      spravka: true
+    - id: '34903'
+      num: '6'
       name: ДОЛГОВ Александр Дмитриевич
-    - num: '7'
+      spravka: true
+    - id: '34904'
+      num: '7'
       name: ЕГОРОВ Максим Федорович
-    - num: '8'
+      spravka: true
+    - id: '34905'
+      num: '8'
       name: ЗЕЛЕНОВ Арсений Степанович
-    - num: '9'
+      spravka: true
+    - id: '34906'
+      num: '9'
       name: КАЗАНЦЕВ Иван Васильевич
-    - num: '10'
+      spravka: true
+    - id: '34907'
+      num: '10'
       name: КАРАСЕВ Василий Васильевич
-    - num: '11'
+      spravka: true
+    - id: '34908'
+      num: '11'
       name: КАРАСЕВ Илья Григорьевич
-    - num: '12'
+      spravka: true
+    - id: '34909'
+      num: '12'
       name: КОЗЛОВ Иван Алексеевич
-    - num: '13'
+      spravka: true
+    - id: '34910'
+      num: '13'
       name: МАМАЕВ Александр Павлович
-    - num: '14'
+      spravka: true
+    - id: '34911'
+      num: '14'
       name: МИРОНОВ Владимир Сергеевич
-    - num: '15'
+      spravka: true
+    - id: '34912'
+      num: '15'
       name: РУСАКОВ Иван Васильевич
-    - num: '16'
+    - id: '34913'
+      num: '16'
       name: ФЕРДМАН Борис Григорьевич
-    - num: '17'
+      spravka: true
+    - id: '34914'
+      num: '17'
       name: ЧАЩЕРИН Алексей Васильевич
+      spravka: true
   - page:
       pageid: '2717'
       tom: '9'
@@ -81,9 +113,12 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-121.jpg
     persons:
-    - num: '18'
+    - id: '34915'
+      num: '18'
       name: ШВЕРЦАЙТ Виктор Александрович
-    - num: '19'
+    - id: '34916'
+      num: '19'
       name: ЯРЦЕВ Александр Иванович
-    - num: '1'
+    - id: '34917'
+      num: '1'
       name: ПОЛКОВОЙ Анатолий Михайлович

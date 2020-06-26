@@ -36,53 +36,90 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-212.jpg
     persons:
-    - num: '1'
+    - id: '31780'
+      num: '1'
       name: АНОШКИН Антон Андрианович
-    - num: '2'
+      spravka: true
+    - id: '31781'
+      num: '2'
       name: АНТОНОВ Петр Иосифович
-    - num: '3'
+      spravka: true
+    - id: '31782'
+      num: '3'
       name: БЕЛЯКОВ Николай Алексеевич
-    - num: '4'
+    - id: '31783'
+      num: '4'
       name: БИРУЛЯ Антон Антонович
-    - num: '5'
+      spravka: true
+    - id: '31784'
+      num: '5'
       name: БОДОПРОСТ Антон Никифорович
-    - num: '6'
+      spravka: true
+    - id: '31785'
+      num: '6'
       name: ВОЛКОВ Иван Гаврилович
-    - num: '7'
+    - id: '31786'
+      num: '7'
       name: ГОЛОДНЫЙ Иван Никитович
-    - num: '8'
+      spravka: true
+    - id: '31787'
+      num: '8'
       name: ГОРЧАКОВ Николай Михайлович
-    - num: '9'
+    - id: '31788'
+      num: '9'
       name: ГРОССБЕРГ Рихард Карлович
-    - num: '10'
+      spravka: true
+    - id: '31789'
+      num: '10'
       name: ДРОЗДОВ Николай Иванович
-    - num: '11'
+    - id: '31790'
+      num: '11'
       name: ЗАХАРОВ Михаил Федорович
-    - num: '12'
+    - id: '31791'
+      num: '12'
       name: КАРКЛИН Павел Иванович
-    - num: '13'
+    - id: '31792'
+      num: '13'
       name: КАТОЛУПОВ Петр Маркович
-    - num: '14'
+    - id: '31793'
+      num: '14'
       name: КРЕЙЕР Николай Карлович
-    - num: '15'
+      spravka: true
+    - id: '31794'
+      num: '15'
       name: ЛЕЙМАН Арвид Петрович
-    - num: '16'
+      spravka: true
+    - id: '31795'
+      num: '16'
       name: ЛИСОВСКИЙ Станислав Игнатьевич
-    - num: '17'
+      spravka: true
+    - id: '31796'
+      num: '17'
       name: МАЦЕХА Израиль Самойлович
-    - num: '18'
+    - id: '31797'
+      num: '18'
       name: МЕНДЖЕРИЦКИЙ Леонид Абрамович
-    - num: '19'
+      spravka: true
+    - id: '31798'
+      num: '19'
       name: МОРОЗОВ Василий Федорович
-    - num: '20'
+      spravka: true
+    - id: '31799'
+      num: '20'
       name: МОРОЗОВ Петр Ильич
-    - num: '21'
+      spravka: true
+    - id: '31800'
+      num: '21'
       name: НЕЙМАН Александр Георгиевич
-    - num: '22'
+    - id: '31801'
+      num: '22'
       name: НИКИТЕНКО Александр Константинович
-    - num: '23'
+    - id: '31802'
+      num: '23'
       name: НИКИТИН Владимир Викторович
-    - num: '24'
+      spravka: true
+    - id: '31803'
+      num: '24'
       name: ПАВЛЮЧЕНКО Калистрат Иванович
   - page:
       pageid: '2466'
@@ -100,34 +137,58 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-213.jpg
     persons:
-    - num: '25'
+    - id: '31804'
+      num: '25'
       name: ПЕХОВСКИЙ Петр Иванович
-    - num: '26'
+      spravka: true
+    - id: '31805'
+      num: '26'
       name: ПОВАРОВ Сергей Васильевич
-    - num: '27'
+    - id: '31806'
+      num: '27'
       name: ПОЛЯК Михаил Вениаминович
-    - num: '28'
+    - id: '31807'
+      num: '28'
       name: ПРИЩЕПОВ Федор Андреевич
-    - num: '29'
+      spravka: true
+    - id: '31808'
+      num: '29'
       name: СТУМБУР Вольдемар Давович
-    - num: '30'
+      spravka: true
+    - id: '31809'
+      num: '30'
       name: СУРКОВ Тимофей Феоктистович
-    - num: '31'
+      spravka: true
+    - id: '31810'
+      num: '31'
       name: УРАЕВ Усман Мирсояфович
-    - num: '32'
+      spravka: true
+    - id: '31811'
+      num: '32'
       name: ХАНИН Эмануил Михайлович
-    - num: '33'
+      spravka: true
+    - id: '31812'
+      num: '33'
       name: ХАРЧИКОВ Василий Иванович
-    - num: '34'
+      spravka: true
+    - id: '31813'
+      num: '34'
       name: ЧЕМИС Владислав Игнатьевич
-    - num: '35'
+    - id: '31814'
+      num: '35'
       name: ШАЛИМОВ Александр Дмитриевич
-    - num: '36'
+      spravka: true
+    - id: '31815'
+      num: '36'
       name: ШВАРЦ Владимир Антонович
-    - num: '37'
+      spravka: true
+    - id: '31816'
+      num: '37'
       name: ШЕВЧЕНКО Иван Демьянович
-    - num: '38'
+    - id: '31817'
+      num: '38'
       name: ЮВКО Владимир Кондратьевич
+      spravka: true
   - page:
       pageid: '2467'
       tom: '8'
@@ -144,7 +205,8 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-214.jpg
     persons:
-    - num: '1'
+    - id: '31818'
+      num: '1'
       name: АРОНСКИЙ Абрам Адольфович
 - title: Список от 19 апреля 1938г. [Гомель-Белорусская ж.д.]
   sublisttitle: Гомель-Белорусская ж.д.
@@ -165,26 +227,43 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-215.jpg
     persons:
-    - num: '1'
+    - id: '31819'
+      num: '1'
       name: АДАМОВ Алексей Георгиевич
-    - num: '2'
+    - id: '31820'
+      num: '2'
       name: БАРКОВСКИЙ Казимир Иосифович
-    - num: '3'
+      spravka: true
+    - id: '31821'
+      num: '3'
       name: ВОЛЧКОВ Алексей Петрович
-    - num: '4'
+    - id: '31822'
+      num: '4'
       name: ВОРОНЕЦКИЙ Николай Иванович
-    - num: '5'
+      spravka: true
+    - id: '31823'
+      num: '5'
       name: ГАЙДАШ Константин Яковлевич
-    - num: '6'
+    - id: '31824'
+      num: '6'
       name: ГУПАЙЛОВИЧ Александр Васильевич
-    - num: '7'
+    - id: '31825'
+      num: '7'
       name: ЖАХОВЕЦ Павел Иванович
-    - num: '8'
+      spravka: true
+    - id: '31826'
+      num: '8'
       name: КАЗАКЕВИЧ Иван Фабианович
-    - num: '9'
+      doublesexists: true
+      spravka: true
+    - id: '31827'
+      num: '9'
       name: МАНКЕВИЧ Александр Николаевич
-    - num: '10'
+    - id: '31828'
+      num: '10'
       name: РАКОВ Павел Николаевич
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '2469'
       tom: '8'
@@ -201,11 +280,17 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-216.jpg
     persons:
-    - num: '1'
+    - id: '31829'
+      num: '1'
       name: АЗБУКИН Павел Николаевич
-    - num: '2'
+      spravka: true
+    - id: '31830'
+      num: '2'
       name: МАЙСАК Сергей Исидорович
-    - num: '3'
+      spravka: true
+    - id: '31831'
+      num: '3'
       name: ФИЛОНОВ Сергей Филиппович
-    - num: '4'
+    - id: '31832'
+      num: '4'
       name: ХАЦЬКО Николай Александрович

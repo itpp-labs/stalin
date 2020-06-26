@@ -31,50 +31,93 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-044.jpg
     persons:
-    - num: '1'
+    - id: '3848'
+      num: '1'
       name: АФАНАСЬЕВ Леонид Георгиевич
-    - num: '2'
+      spravka: true
+    - id: '3849'
+      num: '2'
       name: БЕНЦ Илья Семенович
-    - num: '3'
+      spravka: true
+    - id: '3850'
+      num: '3'
       name: ГОЛОДЕЦ Вениамин Гелярдович
-    - num: '4'
+      spravka: true
+    - id: '3851'
+      num: '4'
       name: ЕФИМОВ Виктор Александрович
-    - num: '5'
+    - id: '3852'
+      num: '5'
       name: ЗАЙДЕНШНИР Иван Михайлович
-    - num: '6'
+      spravka: true
+    - id: '3853'
+      num: '6'
       name: ЗЕНЬКОВИЧ Федор Александрович
-    - num: '7'
+      spravka: true
+    - id: '3854'
+      num: '7'
       name: ИВАНОВ Сергей Константинович
-    - num: '8'
+      spravka: true
+    - id: '3855'
+      num: '8'
       name: КАЛЕНКО Евгений Алексеевич
-    - num: '9'
+      spravka: true
+    - id: '3856'
+      num: '9'
       name: КАРОЛЮНАС Бронислав Казимирович
-    - num: '10'
+      spravka: true
+    - id: '3857'
+      num: '10'
       name: КОРОБКИН Константин Никитич
-    - num: '11'
+      spravka: true
+    - id: '3858'
+      num: '11'
       name: ЛИФШИЦ Семен Робертович
-    - num: '12'
+      spravka: true
+    - id: '3859'
+      num: '12'
       name: МАЙСТРАХ Андрей Владимирович
-    - num: '13'
+      spravka: true
+    - id: '3860'
+      num: '13'
       name: МИХАЙЛОВСКИЙ Михаил Евдокимович
-    - num: '14'
+    - id: '3861'
+      num: '14'
       name: НИКОЛАЕВ Сергей Андреевич
-    - num: '15'
+      spravka: true
+    - id: '3862'
+      num: '15'
       name: ОГАНЕЗОВ Павел Багратович
-    - num: '16'
+      spravka: true
+    - id: '3863'
+      num: '16'
       name: ПЧЕЛКИН Андрей Матвеевич
-    - num: '17'
+      spravka: true
+    - id: '3864'
+      num: '17'
       name: СЕВРИКОВ Александр Александрович
-    - num: '18'
+      spravka: true
+    - id: '3865'
+      num: '18'
       name: ФРУМКИН Юлий Федорович
-    - num: '19'
+      spravka: true
+    - id: '3866'
+      num: '19'
       name: ЦИММЕРМАН Илья Михайлович
-    - num: '20'
+      spravka: true
+    - id: '3867'
+      num: '20'
       name: ШАПОВАЛОВ Григорий Иванович
-    - num: '21'
+      spravka: true
+    - id: '3868'
+      num: '21'
       name: ШЕРЕШЕВСКИЙ Леонид Захарович
-    - num: '22'
+      spravka: true
+    - id: '24687'
+      num: '22'
       name: ШКАНДЕЛЬ Алексей Максимович
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '281'
       tom: '2'
@@ -91,5 +134,8 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-045.jpg
     persons:
-    - num: '1'
+    - id: '24678'
+      num: '1'
       name: ШВАРЦБУРГ Семен Борисович
+      doublesexists: true
+      spravka: true

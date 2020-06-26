@@ -39,22 +39,37 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-074.jpg
     persons:
-    - num: '1'
+    - id: '30116'
+      num: '1'
       name: БАЯЗИТОВ Мазит Шакирович
-    - num: '2'
+      spravka: true
+    - id: '30117'
+      num: '2'
       name: ГАЛЕЕВ Ибрагим Шакирович
-    - num: '3'
+      spravka: true
+    - id: '30118'
+      num: '3'
       name: ГРОМЦЕВ Серафим Михайлович
-    - num: '4'
+      spravka: true
+    - id: '30119'
+      num: '4'
       name: КЛЕЙТМАН Григорий Ефимович
-    - num: '5'
+      spravka: true
+    - id: '30120'
+      num: '5'
       name: КУКРЯКОВ Абрам Абдулович
-    - num: '6'
+      spravka: true
+    - id: '30121'
+      num: '6'
       name: МОНАСЫПОВ Абдурахман Заяппарович
-    - num: '7'
+    - id: '30122'
+      num: '7'
       name: САГДЕЕВ Абдулла Саляхович
-    - num: '8'
+      spravka: true
+    - id: '30123'
+      num: '8'
       name: ФАЙЗУЛЛИН Исхак Файзулович
+      spravka: true
   - page:
       pageid: '2328'
       tom: '8'
@@ -71,10 +86,14 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-075.jpg
     persons:
-    - num: '1'
+    - id: '30124'
+      num: '1'
       name: ЖУРАВЛЕВ Яков Семенович
-    - num: '2'
+      spravka: true
+    - id: '30125'
+      num: '2'
       name: ШИРОКОВ Иван Яковлевич
+      spravka: true
 - title: Список от 19 апреля 1938г. [г.Алма-Ата-Турксиб.ж.д.]
   sublisttitle: г.Алма-Ата-Турксиб.ж.д.
   pages:
@@ -94,24 +113,42 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-076.jpg
     persons:
-    - num: '1'
+    - id: '30126'
+      num: '1'
       name: АЖГИРЕВИЧ Петр Васильевич
-    - num: '2'
+      spravka: true
+    - id: '30127'
+      num: '2'
       name: АЛЧАДАЕВСКИЙ Леонтий Рувимович
-    - num: '3'
+      spravka: true
+    - id: '30128'
+      num: '3'
       name: ВИНАВЕР Михаил Маркович
-    - num: '4'
+      spravka: true
+    - id: '30129'
+      num: '4'
       name: ГОРЮНОВ Павел Васильевич
-    - num: '5'
+      spravka: true
+    - id: '30130'
+      num: '5'
       name: ЛАНДЫШЕВ Владимир Дмитриевич
-    - num: '6'
+      spravka: true
+    - id: '30131'
+      num: '6'
       name: ЛИПОВЕЦКИЙ Исаак-Лев Яковлевич
-    - num: '7'
+      spravka: true
+    - id: '30132'
+      num: '7'
       name: ПАЧКОЛИН Александр Михайлович
-    - num: '8'
+      spravka: true
+    - id: '30133'
+      num: '8'
       name: ФЕДОРУК Александр Андреевич
-    - num: '9'
+      spravka: true
+    - id: '30134'
+      num: '9'
       name: ФОМИН Николай Степанович
+      spravka: true
   - page:
       pageid: '2330'
       tom: '8'
@@ -128,12 +165,18 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-077.jpg
     persons:
-    - num: '1'
+    - id: '30135'
+      num: '1'
       name: БАБКО Виктор Павлович
-    - num: '2'
+      spravka: true
+    - id: '30136'
+      num: '2'
       name: ПОЛЯКОВ Георгий Степанович
-    - num: '3'
+      spravka: true
+    - id: '30137'
+      num: '3'
       name: РЯЗАНОВ Владимир Тимофеевич
+      spravka: true
 - title: Список от 19 апреля 1938г. [Карельская АССР]
   sublisttitle: Карельская АССР
   pages:
@@ -153,12 +196,18 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-078.jpg
     persons:
-    - num: '1'
+    - id: '30138'
+      num: '1'
       name: ГРАДУСОВ Василий Митрофанович
-    - num: '2'
+      spravka: true
+    - id: '30139'
+      num: '2'
       name: НИКОЛЬСКИЙ Михаил Николаевич
-    - num: '3'
+      spravka: true
+    - id: '30140'
+      num: '3'
       name: ТАРОЕВ Федор Константинович
+      spravka: true
 - title: Список от 19 апреля 1938г. [Ленинградская область]
   sublisttitle: Ленинградская область
   pages:
@@ -178,7 +227,8 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-079.jpg
     persons:
-    - num: '1'
+    - id: '30141'
+      num: '1'
       name: СТЕПАНОВ Василий Степанович
 - title: Список от 19 апреля 1938г. [Красноярский край]
   sublisttitle: Красноярский край
@@ -199,8 +249,10 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-080.jpg
     persons:
-    - num: '1'
+    - id: '30142'
+      num: '1'
       name: ПАХОЛКИН Георгий Георгиевич
+      spravka: true
 - title: Список от 19 апреля 1938г. [Узбекская ССР]
   sublisttitle: Узбекская ССР
   pages:
@@ -220,5 +272,6 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-081.jpg
     persons:
-    - num: '1'
+    - id: '30143'
+      num: '1'
       name: ХАСАНОВ Назыркул

@@ -34,32 +34,59 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-181.jpg
     persons:
-    - num: '1'
+    - id: '27869'
+      num: '1'
       name: БАСОВ Константин Михайлович, он же <br />АБЕЛТЫНЬ Ян Янович
-    - num: '2'
+      spravka: true
+    - id: '27870'
+      num: '2'
       name: БЕРЛИН Владимир Маркович
-    - num: '3'
+      spravka: true
+    - id: '27871'
+      num: '3'
       name: ГОПФГАРТЕН Эмиль Рихардович
-    - num: '4'
+      spravka: true
+    - id: '27872'
+      num: '4'
       name: ДЕДЮЛИН Александр Григорьевич
-    - num: '5'
+      spravka: true
+    - id: '27873'
+      num: '5'
       name: КЛИБИК Вильгельм Егорович
-    - num: '6'
+      spravka: true
+    - id: '27874'
+      num: '6'
       name: КОРОБОВ Дмитрий Андреевич
-    - num: '7'
+      spravka: true
+    - id: '27875'
+      num: '7'
       name: ОЗОЛИН Отто Альберт Кришьянович
-    - num: '8'
+      spravka: true
+    - id: '27876'
+      num: '8'
       name: ПАНОВ Петр Александрович
-    - num: '9'
+      spravka: true
+    - id: '27877'
+      num: '9'
       name: ПАНЮКОВ Владимир Николаевич
-    - num: '10'
+      spravka: true
+    - id: '27878'
+      num: '10'
       name: РИНК Иван Александрович
-    - num: '11'
+      doublesexists: true
+      spravka: true
+    - id: '27879'
+      num: '11'
       name: СТРЖАЛКОВСКИЙ Павел Карлович
-    - num: '12'
+      spravka: true
+    - id: '27880'
+      num: '12'
       name: ФАУСЕК Николай Викторович
-    - num: '13'
+      spravka: true
+    - id: '27881'
+      num: '13'
       name: ЯНОВ Петр Ильич
+      spravka: true
 - title: Список от 5 марта 1938г. [Москва-центр (б.сотрудники НКВД)]
   sublisttitle: Москва-центр (б.сотрудники НКВД)
   pages:
@@ -79,14 +106,23 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-182.jpg
     persons:
-    - num: '1'
+    - id: '27882'
+      num: '1'
       name: БАЛАШОВ Николай Дмитриевич
-    - num: '2'
+      spravka: true
+    - id: '27883'
+      num: '2'
       name: БОГДАНОВИЧ Петр Андреевич
-    - num: '3'
+      spravka: true
+    - id: '27884'
+      num: '3'
       name: МИЛЬГРАМ Исидор Вольфович
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '27885'
+      num: '4'
       name: ПАРТИН Шолом Моисеевич
+      spravka: true
 - title: Список от 5 марта 1938г. [Московская область]
   sublisttitle: Московская область
   pages:
@@ -106,9 +142,13 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-183.jpg
     persons:
-    - num: '1'
+    - id: '27886'
+      num: '1'
       name: ШУВАЛОВ Иван Григорьевич
-    - num: '1'
+      spravka: true
+    - id: '27887'
+      num: '1'
       name: КУКИН Василий Дмитриевич
-    - num: '2'
+    - id: '27888'
+      num: '2'
       name: ПРОХОРОВ Павел Петрович

@@ -32,24 +32,43 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-003.jpg
     persons:
-    - num: '1'
+    - id: '36070'
+      num: '1'
       name: БЕРЗИН Эдуард Петрович
       striked: true
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '29188'
+      num: '2'
       name: БЕРЛЯНТ Иосиф Евсеевич
-    - num: '3'
+    - id: '29189'
+      num: '3'
       name: ГУСЕВ Александр Георгиевич
-    - num: '4'
+      spravka: true
+    - id: '29190'
+      num: '4'
       name: КАРЛСОН Карл Мартынович
-    - num: '5'
+      spravka: true
+    - id: '29191'
+      num: '5'
       name: КОВАЛЕВ Леонид Петрович
-    - num: '6'
+      spravka: true
+    - id: '29192'
+      num: '6'
       name: КРАУКЛИС Ян Кришьянович
-    - num: '7'
+      spravka: true
+    - id: '29193'
+      num: '7'
       name: ЛАГОДЮК Виктор Иванович
-    - num: '8'
+    - id: '29194'
+      num: '8'
       name: ЛАГОДЮК Яков Иванович
-    - num: '9'
+      spravka: true
+    - id: '29195'
+      num: '9'
       name: СМИЛГА Карл Янович
-    - num: '10'
+      spravka: true
+    - id: '29196'
+      num: '10'
       name: ТИТОВА Александра Васильевна
+      spravka: true

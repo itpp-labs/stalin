@@ -35,48 +35,85 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-227.jpg
     persons:
-    - num: '1'
+    - id: '13639'
+      num: '1'
       name: АБРАМОВ Максим Васильевич
-    - num: '2'
+    - id: '13640'
+      num: '2'
       name: АНАНЬЕВ Алексей Иванович
-    - num: '3'
+      spravka: true
+    - id: '13641'
+      num: '3'
       name: АРХИПОВ Василий Григорьевич
-    - num: '4'
+      spravka: true
+    - id: '13642'
+      num: '4'
       name: БИРЮКОВ Александр Александрович
-    - num: '5'
+    - id: '13643'
+      num: '5'
       name: БОБРОВ Борис Иосифович
-    - num: '6'
+      spravka: true
+    - id: '13644'
+      num: '6'
       name: БОЧКОВОЙ Григорий Григорьевич
-    - num: '7'
+    - id: '13645'
+      num: '7'
       name: БОРИСОВ Григорий Васильевич
-    - num: '8'
+      spravka: true
+    - id: '13646'
+      num: '8'
       name: БРУГЕР Константин Георгиевич
-    - num: '9'
+      spravka: true
+    - id: '13647'
+      num: '9'
       name: ВАСИЛЕВСКАЯ Бася Фишелевна
-    - num: '10'
+      spravka: true
+    - id: '13648'
+      num: '10'
       name: ВИЛКОВ Федор Георгиевич
-    - num: '11'
+      spravka: true
+    - id: '13649'
+      num: '11'
       name: ВОЛКОВ Иван Петрович
-    - num: '12'
+      spravka: true
+    - id: '13650'
+      num: '12'
       name: ГЛАДКОВ Михаил Павлович
-    - num: '13'
+      spravka: true
+    - id: '13651'
+      num: '13'
       name: ГОЛОСКОВ Виктор Дмитриевич
-    - num: '14'
+      spravka: true
+    - id: '13652'
+      num: '14'
       name: ГОЛЬДМАН Иосиф Хаймович
-    - num: '15'
+    - id: '13653'
+      num: '15'
       name: ГРЕБЕНИК Лука Матвеевич
-    - num: '16'
+      spravka: true
+    - id: '13654'
+      num: '16'
       name: ГРОМОВ Алексей Васильевич
-    - num: '17'
+      spravka: true
+    - id: '13655'
+      num: '17'
       name: ГУРОВ Николай Николаевич
-    - num: '18'
+      spravka: true
+    - id: '13656'
+      num: '18'
       name: ДОБРОСЛАВСКИЙ Павел Прокофьевич
-    - num: '19'
+    - id: '13657'
+      num: '19'
       name: ИВАНОВ Родион Севастьянович
-    - num: '20'
+      spravka: true
+    - id: '13658'
+      num: '20'
       name: КАРМАЛЮК Федор Филиппович
-    - num: '21'
+      spravka: true
+    - id: '13659'
+      num: '21'
       name: КАРПУШИН-ЗОРИН Андрей Леонтьевич
+      spravka: true
   - page:
       pageid: '1071'
       tom: '4'
@@ -93,62 +130,111 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-228.jpg
     persons:
-    - num: '22'
+    - id: '13660'
+      num: '22'
       name: КАЦ Танфель Менделевич
-    - num: '23'
+    - id: '13661'
+      num: '23'
       name: КЛЯВС-КЛЯВИН Александр Яковлевич
-    - num: '24'
+      spravka: true
+    - id: '13662'
+      num: '24'
       name: КОГАН Залман Абрамович
-    - num: '25'
+      spravka: true
+    - id: '13663'
+      num: '25'
       name: КОЗЛОВСКИЙ Иосиф Викентьевич
-    - num: '26'
+      spravka: true
+    - id: '13664'
+      num: '26'
       name: КОРОБКОВ Петр Иванович
-    - num: '27'
+    - id: '13665'
+      num: '27'
       name: КРУК Иосиф Михайлович
-    - num: '28'
+      spravka: true
+    - id: '13666'
+      num: '28'
       name: КУЛАКОВ Иван Андреевич
-    - num: '29'
+      spravka: true
+    - id: '13667'
+      num: '29'
       name: ЛЕБЕДЕВ Сергей Николаевич
-    - num: '30'
+      spravka: true
+    - id: '13668'
+      num: '30'
       name: МАКСИМКИН Иван Алексеевич
-    - num: '31'
+      spravka: true
+    - id: '13669'
+      num: '31'
       name: МАРТЫНОВ Иван Федорович
-    - num: '32'
+      spravka: true
+    - id: '13670'
+      num: '32'
       name: МАСАЛЬСКИЙ Яков Афанасьевич
-    - num: '33'
+      spravka: true
+    - id: '13671'
+      num: '33'
       name: МАТЕРАНСКИЙ Николай Мартынович
-    - num: '34'
+    - id: '13672'
+      num: '34'
       name: МИХАЙЛОВ Иван Григорьевич
-    - num: '35'
+      spravka: true
+    - id: '13673'
+      num: '35'
       name: МИХАЙЛОВ Николай Гаврилович
-    - num: '36'
+    - id: '13674'
+      num: '36'
       name: МУЕВ Дмитрий Дмитриевич
-    - num: '37'
+      spravka: true
+    - id: '13675'
+      num: '37'
       name: НИКУЛИН Иван Яковлевич
-    - num: '38'
+      spravka: true
+    - id: '13676'
+      num: '38'
       name: НОВИКОВ Сергей Васильевич
-    - num: '39'
+    - id: '13677'
+      num: '39'
       name: ПЛЮСНИН Александр Михайлович
-    - num: '40'
+      spravka: true
+    - id: '13678'
+      num: '40'
       name: ПОБАЛКИН Яков Васильевич
-    - num: '41'
+    - id: '13679'
+      num: '41'
       name: ПОЛОЗКОВ Тихон Антонович
-    - num: '42'
+      spravka: true
+    - id: '13680'
+      num: '42'
       name: ПОПОВ Михаил Иванович
-    - num: '43'
+      spravka: true
+    - id: '13681'
+      num: '43'
       name: ПРИХОДЬКО Николай Иванович
-    - num: '44'
+      spravka: true
+    - id: '13682'
+      num: '44'
       name: РЕЗНИКОВ Наум Саулович
-    - num: '45'
+      spravka: true
+    - id: '13683'
+      num: '45'
       name: РУДАКОВ Иван Афанасьевич
-    - num: '46'
+      spravka: true
+    - id: '13684'
+      num: '46'
       name: СТЕПАНОВ Константин Васильевич
-    - num: '47'
+    - id: '13685'
+      num: '47'
       name: СТРЕМОУСОВ Иван Васильевич
-    - num: '48'
+      spravka: true
+    - id: '13686'
+      num: '48'
       name: СОСИН Иван Алексеевич
-    - num: '49'
+      spravka: true
+    - id: '13687'
+      num: '49'
       name: СОРОКИН Алексей Андреевич
+      spravka: true
   - page:
       pageid: '1072'
       tom: '4'
@@ -165,16 +251,26 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-229.jpg
     persons:
-    - num: '50'
+    - id: '13688'
+      num: '50'
       name: ФАВИЦКИЙ Владимир Викторович
-    - num: '51'
+      spravka: true
+    - id: '13689'
+      num: '51'
       name: ХУДНИЦКИЙ Евгений Иосифович
-    - num: '52'
+      spravka: true
+    - id: '13690'
+      num: '52'
       name: ШЕЙДЛИНА Сарра Израилевна
-    - num: '53'
+      spravka: true
+    - id: '13691'
+      num: '53'
       name: ЩИПИЛЛО-ПОЛЕССКИЙ Семен Алексеевич
-    - num: '54'
+      spravka: true
+    - id: '13692'
+      num: '54'
       name: ЯКОВЛЕВ Анатолий Федорович
+      spravka: true
   - page:
       pageid: '1073'
       tom: '4'
@@ -191,9 +287,14 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-230.jpg
     persons:
-    - num: '1'
+    - id: '13693'
+      num: '1'
       name: СБУСИН Владимир Борисович
-    - num: '2'
+      spravka: true
+    - id: '13694'
+      num: '2'
       name: СТЕПАНОВА Зинаида Александровна
-    - num: '3'
+      spravka: true
+    - id: '13695'
+      num: '3'
       name: ХЛОПОТУХИН Федор Петрович

@@ -36,18 +36,30 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-316.jpg
     persons:
-    - num: '1'
+    - id: '23271'
+      num: '1'
       name: ВОЙНОВСКИЙ Виктор Кузьмич
-    - num: '2'
+      spravka: true
+    - id: '23272'
+      num: '2'
       name: ГОРУНОВИЧ Афанасий Афанасьевич
-    - num: '3'
+      spravka: true
+    - id: '23273'
+      num: '3'
       name: ЛЕВИН Михаил Маркович
-    - num: '4'
+      spravka: true
+    - id: '23274'
+      num: '4'
       name: РОЗЕНШТЕЙН Александр Иосифович
-    - num: '5'
+      spravka: true
+    - id: '23275'
+      num: '5'
       name: ТИЛЬ Бруно Иванович
-    - num: '6'
+      spravka: true
+    - id: '23276'
+      num: '6'
       name: ФУРМАН Михаил Михайлович
+      spravka: true
 - title: Список от 3 февраля 1938г. [Ржев. Калининская ж.д.]
   sublisttitle: Ржев. Калининская ж.д.
   pages:
@@ -67,18 +79,28 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-317.jpg
     persons:
-    - num: '1'
+    - id: '23277'
+      num: '1'
       name: БОРАТЫНСКИЙ Роман Львович
-    - num: '2'
+      spravka: true
+    - id: '23278'
+      num: '2'
       name: ГОДОВИКОВ Александр Митрофанович
-    - num: '3'
+      spravka: true
+    - id: '23279'
+      num: '3'
       name: ИРБЕНЕК Леонид Карлович
-    - num: '4'
+      spravka: true
+    - id: '23280'
+      num: '4'
       name: ЛОМАНОВ Леонид Гаврилович
-    - num: '5'
+    - id: '23281'
+      num: '5'
       name: МАНДРУКЕВИЧ Николай Иосифович
-    - num: '6'
+    - id: '23282'
+      num: '6'
       name: РУДЕНКО Иван Георгиевич
+      spravka: true
   - page:
       pageid: '1823'
       tom: '6'
@@ -95,8 +117,10 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-318.jpg
     persons:
-    - num: '1'
+    - id: '23283'
+      num: '1'
       name: МУРЛАЕВ Григорий Васильевич
+      spravka: true
 - title: Список от 3 февраля 1938г. [Свердловская область]
   sublisttitle: Свердловская область
   pages:
@@ -116,8 +140,10 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-319.jpg
     persons:
-    - num: '1'
+    - id: '23284'
+      num: '1'
       name: ВОЛКОВА Анна Георгиевна
+      spravka: true
 - title: Список от 3 февраля 1938г. [Сталинградская область]
   sublisttitle: Сталинградская область
   pages:
@@ -137,5 +163,7 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-320.jpg
     persons:
-    - num: '1'
+    - id: '23285'
+      num: '1'
       name: УДАЛОВ Сергей Алексеевич
+      spravka: true

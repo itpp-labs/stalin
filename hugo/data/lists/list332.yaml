@@ -34,40 +34,73 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-342.jpg
     persons:
-    - num: '1'
+    - id: '33278'
+      num: '1'
       name: АККЕРМАН Мартын Рудольфович
-    - num: '2'
+      spravka: true
+    - id: '33279'
+      num: '2'
       name: БЕЧИН Михаил Иванович
-    - num: '3'
+      spravka: true
+    - id: '33280'
+      num: '3'
       name: ДАШЕВСКИЙ Эммануил Давыдович
-    - num: '4'
+      spravka: true
+    - id: '33281'
+      num: '4'
       name: ДРЕЙМАН Федор Францевич
-    - num: '5'
+      spravka: true
+    - id: '33282'
+      num: '5'
       name: ЛЕГОТИН Сергей Никитич
-    - num: '6'
+      spravka: true
+    - id: '33283'
+      num: '6'
       name: МАКЕЕВ Константин Николаевич
-    - num: '7'
+      spravka: true
+    - id: '33284'
+      num: '7'
       name: МАРШАК Филипп Семенович
-    - num: '8'
+      spravka: true
+    - id: '33285'
+      num: '8'
       name: МИНАРСКИЙ Евгений Иванович
-    - num: '9'
+      spravka: true
+    - id: '33286'
+      num: '9'
       name: НАЗАРОВ-АМУРСКИЙ Константин Михайлович
-    - num: '10'
+      spravka: true
+    - id: '33287'
+      num: '10'
       name: ОНШИН Иван Семенович
-    - num: '11'
+      spravka: true
+    - id: '33288'
+      num: '11'
       name: ПАНОВ Александр Дмитриевич
-    - num: '12'
+      spravka: true
+    - id: '33289'
+      num: '12'
       name: ПУЗЫРЕВ Петр Степанович
-    - num: '13'
+      spravka: true
+    - id: '33290'
+      num: '13'
       name: СИЛИН Аркадий Константинович
-    - num: '14'
+    - id: '33291'
+      num: '14'
       name: СМИРНОВ Иван Осипович
-    - num: '15'
+      spravka: true
+    - id: '33292'
+      num: '15'
       name: ХАРИТОНОВ Павел Кузьмич
-    - num: '16'
+      spravka: true
+    - id: '33293'
+      num: '16'
       name: ШАЛАВИН Василий Александрович
-    - num: '17'
+      spravka: true
+    - id: '33294'
+      num: '17'
       name: ШПИЛЕВСКИЙ Юлиан Григорьевич
+      spravka: true
   - page:
       pageid: '2596'
       tom: '8'
@@ -84,8 +117,11 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-343.jpg
     persons:
-    - num: '1'
+    - id: '33295'
+      num: '1'
       name: ГРЕБЛЬ Карл Карлович
+      gb_spravka: true
+      spravka: true
   - page:
       pageid: '2598'
       tom: '8'
@@ -102,20 +138,32 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-345.jpg
     persons:
-    - num: '1'
+    - id: '33296'
+      num: '1'
       name: ВОРОБЬЕВ Иван Александрович
-    - num: '2'
+    - id: '33297'
+      num: '2'
       name: ЖИТОВ Константин Алексеевич
-    - num: '3'
+    - id: '33298'
+      num: '3'
       name: ИВАХНОВ Александр Федорович
-    - num: '4'
+      spravka: true
+    - id: '33299'
+      num: '4'
       name: КУЗНЕЦОВ Михаил Николаевич
-    - num: '5'
+      spravka: true
+    - id: '33300'
+      num: '5'
       name: МИКУЛИН Василий Дмитриевич
-    - num: '6'
+      spravka: true
+    - id: '33301'
+      num: '6'
       name: РОСЛЯКОВ Николай Иванович
-    - num: '7'
+      spravka: true
+    - id: '33302'
+      num: '7'
       name: СМЕТАНИН Семен Васильевич
+      spravka: true
 - title: Список от 3 мая 1938г. [Вологодская область]
   sublisttitle: Вологодская область
   pages:
@@ -135,11 +183,19 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-346.jpg
     persons:
-    - num: '1'
+    - id: '33303'
+      num: '1'
       name: ДУБРОВИН Михаил Иванович
-    - num: '2'
+      spravka: true
+    - id: '33304'
+      num: '2'
       name: КОШУТИН Иван Федорович
-    - num: '1'
+      spravka: true
+    - id: '33305'
+      num: '1'
       name: ДИЕВ Петр Степанович
-    - num: '2'
+      spravka: true
+    - id: '33306'
+      num: '2'
       name: ШЕЛКОВ Кузьма Иванович
+      spravka: true

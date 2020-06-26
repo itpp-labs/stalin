@@ -35,46 +35,86 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-178.jpg
     persons:
-    - num: '1'
+    - id: '35655'
+      num: '1'
       name: АБОЛ Эмиль Фрицевич
-    - num: '2'
+      spravka: true
+    - id: '35656'
+      num: '2'
       name: АБРАМОВ Абрам Иосифович
-    - num: '3'
+      spravka: true
+    - id: '35657'
+      num: '3'
       name: АГАДЖАНОВ Хачик Ваганович
-    - num: '4'
+      spravka: true
+    - id: '35658'
+      num: '4'
       name: АКОПЯН Сурен Петрович
-    - num: '5'
+      spravka: true
+    - id: '35659'
+      num: '5'
       name: АМПИЛОГОВ Михаил Артемьевич
-    - num: '6'
+      spravka: true
+    - id: '35660'
+      num: '6'
       name: АНЦИПО-ЧИКУНСКИЙ Лев Владимирович
-    - num: '7'
+      spravka: true
+    - id: '35661'
+      num: '7'
       name: АРНОЛЬДОВ Арнольд Самуилович
-    - num: '8'
+      spravka: true
+    - id: '35662'
+      num: '8'
       name: АРХИНЧЕЕВ-БАЛДИЕВ Александр Петрович
-    - num: '9'
+      doublesexists: true
+      spravka: true
+    - id: '35663'
+      num: '9'
       name: БАЛАГУЛ Михаил (Хаим) Львович
-    - num: '10'
+      spravka: true
+    - id: '35664'
+      num: '10'
       name: БАРБЭ Антонина Казимировна
-    - num: '11'
+      spravka: true
+    - id: '35665'
+      num: '11'
       name: БЕЛЫХ Александр Аристархович
-    - num: '12'
+      spravka: true
+    - id: '35666'
+      num: '12'
       name: БЕРНАТ Яков Янович
-    - num: '13'
+    - id: '35667'
+      num: '13'
       name: БИЦЕНКО Анастасия Андреевна
-    - num: '14'
+      spravka: true
+    - id: '35668'
+      num: '14'
       name: БОБРОВ Георгий Николаевич
-    - num: '15'
+      spravka: true
+    - id: '35669'
+      num: '15'
       name: БРАГИНСКИЙ Михаил Осипович
-    - num: '16'
+      spravka: true
+    - id: '35670'
+      num: '16'
       name: БУКАН Август Оттович
-    - num: '17'
+      spravka: true
+    - id: '35671'
+      num: '17'
       name: ВАЛХАР Франц Якубович
-    - num: '18'
+      spravka: true
+    - id: '35672'
+      num: '18'
       name: ВАСИЛЬЕВ Василий Львович
-    - num: '19'
+      spravka: true
+    - id: '35673'
+      num: '19'
       name: ВЕЙН Соломон Аркадьевич
-    - num: '20'
+      spravka: true
+    - id: '35674'
+      num: '20'
       name: ВИТСУТ Карл Михайлович
+      spravka: true
   - page:
       pageid: '2775'
       tom: '9'
@@ -91,64 +131,121 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-179.jpg
     persons:
-    - num: '21'
+    - id: '35675'
+      num: '21'
       name: ВОЛКОВ Александр Васильевич
-    - num: '22'
+      spravka: true
+    - id: '35676'
+      num: '22'
       name: ВОЛКОВ Юрий Львович
-    - num: '23'
+      spravka: true
+    - id: '35677'
+      num: '23'
       name: ВОРОХОБИН Александр Иванович
-    - num: '24'
+      spravka: true
+    - id: '35678'
+      num: '24'
       name: ГВОЗДИН Константин Юрьевич
-    - num: '25'
+      spravka: true
+    - id: '35679'
+      num: '25'
       name: ГЕНЕРОЗОВ Павел Евгеньевич
-    - num: '26'
+      spravka: true
+    - id: '35680'
+      num: '26'
       name: ГЕРЛИЧ Здислав Эдмундович
-    - num: '27'
+      spravka: true
+    - id: '35681'
+      num: '27'
       name: ГЕХТМАН Исаак Ефимович
-    - num: '28'
+      spravka: true
+    - id: '35682'
+      num: '28'
       name: ГОЛЬД Геза Дежевич
-    - num: '29'
+      spravka: true
+    - id: '35683'
+      num: '29'
       name: ГОРСКИЙ Михаил Емельянович
-    - num: '30'
+      spravka: true
+    - id: '35684'
+      num: '30'
       name: ГРИНШПАН Борис Иосифович
-    - num: '31'
+      spravka: true
+    - id: '35685'
+      num: '31'
       name: ДЕЙБНЕР Ричард Ричардович
-    - num: '32'
+      spravka: true
+    - id: '35686'
+      num: '32'
       name: ДЕРИНГЕР Рудольф Эдмундович
-    - num: '33'
+      spravka: true
+    - id: '35687'
+      num: '33'
       name: ДУДИНСКАЯ Нина Леонтьевна
-    - num: '34'
+    - id: '35688'
+      num: '34'
       name: ДУДКИН Владимир Васильевич
-    - num: '35'
+      spravka: true
+    - id: '35689'
+      num: '35'
       name: ЕВГЕНЬЕВ-КАГАН Евгений Яковлевич
-    - num: '36'
+      spravka: true
+    - id: '35690'
+      num: '36'
       name: ЕЛЕЦКИЙ Георгий Александрович
-    - num: '37'
+      spravka: true
+    - id: '35691'
+      num: '37'
       name: ЕФИМОВ Алексей Васильевич
-    - num: '38'
+      spravka: true
+    - id: '35692'
+      num: '38'
       name: ЖЕРЕБОВИЧ Семен Соломонович
-    - num: '39'
+      spravka: true
+    - id: '35693'
+      num: '39'
       name: ЖИЛЯЕВ Георгий Петрович
-    - num: '40'
+      spravka: true
+    - id: '35694'
+      num: '40'
       name: ЖУКОВСКИЙ Николай Юльевич
-    - num: '41'
+      spravka: true
+    - id: '35695'
+      num: '41'
       name: ЖУРКИН Никита Терентьевич
-    - num: '42'
+      spravka: true
+    - id: '35696'
+      num: '42'
       name: ЗАМШЕВА-КУЙБЫШЕВА Антонина Ильинична
-    - num: '43'
+      spravka: true
+    - id: '35697'
+      num: '43'
       name: ИОФФЕ Семен Самойлович
-    - num: '44'
+      spravka: true
+    - id: '35698'
+      num: '44'
       name: КАМЕНШТЕЙН Моисей Львович
-    - num: '45'
+      spravka: true
+    - id: '35699'
+      num: '45'
       name: КИРПИКОВ Иван Васильевич
-    - num: '46'
+      spravka: true
+    - id: '35700'
+      num: '46'
       name: КИФНИДИ Павел Анастасьевич
-    - num: '47'
+      spravka: true
+    - id: '35701'
+      num: '47'
       name: КОВАЛЕВ Давид Михайлович
-    - num: '48'
+      spravka: true
+    - id: '35702'
+      num: '48'
       name: КОПЫЛОВ Николай Васильевич
-    - num: '49'
+      spravka: true
+    - id: '35703'
+      num: '49'
       name: КОШКИН Константин Сергеевич
+      spravka: true
   - page:
       pageid: '2776'
       tom: '9'
@@ -165,64 +262,120 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-180.jpg
     persons:
-    - num: '50'
+    - id: '35704'
+      num: '50'
       name: КРИВОНОСОВ Серафим Григорьевич
-    - num: '51'
+      spravka: true
+    - id: '35705'
+      num: '51'
       name: КУРНОСОВ Борис Николаевич
-    - num: '52'
+    - id: '35706'
+      num: '52'
       name: ЛАЗАРЕВИЧ Владимир Саламанович
-    - num: '53'
+      spravka: true
+    - id: '35707'
+      num: '53'
       name: ЛЕВЕНСОН Соломон Абрамович
-    - num: '54'
+      spravka: true
+    - id: '35708'
+      num: '54'
       name: ЛЕВТОНОВ Владимир Николаевич
-    - num: '55'
+      spravka: true
+    - id: '35709'
+      num: '55'
       name: ЛЕНСКИЙ Георгий Андреевич
-    - num: '56'
+      spravka: true
+    - id: '35710'
+      num: '56'
       name: ЛИТВИНСКИЙ Петр Александрович
-    - num: '57'
+      spravka: true
+    - id: '35711'
+      num: '57'
       name: ЛОМАКИН Иван Иванович
-    - num: '58'
+      spravka: true
+    - id: '35712'
+      num: '58'
       name: ЛОПАТИН Игорь Анатольевич
-    - num: '59'
+      spravka: true
+    - id: '35713'
+      num: '59'
       name: ЛЯХОВИЧ Александр Иосифович
-    - num: '60'
+      spravka: true
+    - id: '35714'
+      num: '60'
       name: МАЛИНОВСКИЙ Иван Самойлович
-    - num: '61'
+      spravka: true
+    - id: '35715'
+      num: '61'
       name: МАРКОВ Иван Александрович
-    - num: '62'
+      spravka: true
+    - id: '35716'
+      num: '62'
       name: МАРКОВ Илья Маркович
-    - num: '63'
+      spravka: true
+    - id: '35717'
+      num: '63'
       name: МАРТЮШИН Григорий Алексеевич
-    - num: '64'
+      spravka: true
+    - id: '35718'
+      num: '64'
       name: МАРХОВ Марк Натанович
-    - num: '65'
+      spravka: true
+    - id: '35719'
+      num: '65'
       name: МАСЛОВ Семен Леонтьевич
-    - num: '66'
+      spravka: true
+    - id: '35720'
+      num: '66'
       name: МЕДВЕДЕВ Виктор Сергеевич
-    - num: '67'
+    - id: '35721'
+      num: '67'
       name: МЕДИЧИ-ВОДОНОС Лазарь Ильич
-    - num: '68'
+      spravka: true
+    - id: '35722'
+      num: '68'
       name: МЕНДЕЛЕВ Яков Ильич
-    - num: '69'
+      spravka: true
+    - id: '35723'
+      num: '69'
       name: МИХАЙЛОВ Александр Митрофанович
-    - num: '70'
+      spravka: true
+    - id: '35724'
+      num: '70'
       name: МОСТОВЛЯНСКИЙ Самуил Наумович
-    - num: '71'
+      spravka: true
+    - id: '35725'
+      num: '71'
       name: МЫСЛИН Николай Владимирович
-    - num: '72'
+      spravka: true
+    - id: '35726'
+      num: '72'
       name: НЕПОСТАЕВ Сергей Александрович
-    - num: '73'
+      spravka: true
+    - id: '35727'
+      num: '73'
       name: НИФОНТОВ Георгий Ефимович
-    - num: '74'
+      spravka: true
+    - id: '35728'
+      num: '74'
       name: НОВАКЕВИЧ Александр Казимирович
-    - num: '75'
+      spravka: true
+    - id: '35729'
+      num: '75'
       name: ОЛЬХОВСКИЙ Роман Маркович
-    - num: '76'
+      spravka: true
+    - id: '35730'
+      num: '76'
       name: ПАВЛОВ Василий Георгиевич
-    - num: '77'
+      spravka: true
+    - id: '35731'
+      num: '77'
       name: ПАВЛОВ Дмитрий Иванович
-    - num: '78'
+      spravka: true
+    - id: '35732'
+      num: '78'
       name: ПЕРЕЛЕШИН Лев Николаевич
+      spravka: true
   - page:
       pageid: '2777'
       tom: '9'
@@ -239,64 +392,121 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-181.jpg
     persons:
-    - num: '79'
+    - id: '35733'
+      num: '79'
       name: ПЛОТНИКОВ Евгений Иванович
-    - num: '80'
+      spravka: true
+    - id: '35734'
+      num: '80'
       name: ПОЛОНСКИЙ Рувим Иосифович
-    - num: '81'
+      spravka: true
+    - id: '35735'
+      num: '81'
       name: ПОНОМАРЕНКО Николай Евграфович
-    - num: '82'
+      spravka: true
+    - id: '35736'
+      num: '82'
       name: ПРИТУЛЮК Исидор Емельянович
-    - num: '83'
+      spravka: true
+    - id: '35737'
+      num: '83'
       name: ПУГАЧ Антон Никифорович
-    - num: '84'
+      spravka: true
+    - id: '35738'
+      num: '84'
       name: РАДЗИН Эдуард Фомич
-    - num: '85'
+      spravka: true
+    - id: '35739'
+      num: '85'
       name: РОЖКОВ Василий Федорович
-    - num: '86'
+      spravka: true
+    - id: '35740'
+      num: '86'
       name: РОЗЕНБЕРГ Леонид Давыдович
-    - num: '87'
+      spravka: true
+    - id: '35741'
+      num: '87'
       name: РОЗЕНТАЛЬ Эдуард Фрицевич
-    - num: '88'
+      spravka: true
+    - id: '35742'
+      num: '88'
       name: РОТШТЕЙН Григорий Ефимович
-    - num: '89'
+      spravka: true
+    - id: '35743'
+      num: '89'
       name: РУМЯНЦЕВ Герман Николаевич
-    - num: '90'
+    - id: '35744'
+      num: '90'
       name: САЛОВ Федор Сергеевич
-    - num: '91'
+      spravka: true
+    - id: '35745'
+      num: '91'
       name: СЕМЕНОВ Петр Федорович
-    - num: '92'
+      spravka: true
+    - id: '35746'
+      num: '92'
       name: СИКОРА Юлиан Николаевич
-    - num: '93'
+      spravka: true
+    - id: '35747'
+      num: '93'
       name: СИМАКОВ Семен Алексеевич
-    - num: '94'
+      spravka: true
+    - id: '35748'
+      num: '94'
       name: СКОКОВ Михаил Яковлевич
-    - num: '95'
+      spravka: true
+    - id: '35749'
+      num: '95'
       name: СМОЛЕНКОВ Анатолий Иванович
-    - num: '96'
+      spravka: true
+    - id: '35750'
+      num: '96'
       name: СОКОЛОВ Федор Елисеевич
-    - num: '97'
+      spravka: true
+    - id: '35751'
+      num: '97'
       name: СТЕПАНОВ Михаил Данилович
-    - num: '98'
+      spravka: true
+    - id: '35752'
+      num: '98'
       name: СУМСКИЙ Давид Яковлевич
-    - num: '99'
+      spravka: true
+    - id: '35753'
+      num: '99'
       name: СУРИН Владимир Сергеевич
-    - num: '100'
+      spravka: true
+    - id: '35754'
+      num: '100'
       name: ТАШЛИЦКИЙ Пинхус Мошкович
-    - num: '101'
+      spravka: true
+    - id: '42963'
+      num: '101'
       name: ТИМОШЕНКО Евтихий Диомидович
-    - num: '102'
+      doublesexists: true
+      spravka: true
+    - id: '35756'
+      num: '102'
       name: ТОКАРЕВ Пантелеймон Абрамович
-    - num: '103'
+      spravka: true
+    - id: '35757'
+      num: '103'
       name: ТРУСОВ Александр Александрович
-    - num: '104'
+    - id: '35758'
+      num: '104'
       name: ТУТУНКИН Николай Тимофеевич
-    - num: '105'
+      spravka: true
+    - id: '35759'
+      num: '105'
       name: УСПЕНСКИЙ Константин Яковлевич
-    - num: '106'
+      spravka: true
+    - id: '35760'
+      num: '106'
       name: ФЕДЕРОЛЬФ Владимир Алексеевич
-    - num: '107'
+      spravka: true
+    - id: '35761'
+      num: '107'
       name: ФЕДОРЕНКО Леонид Захарович
+      spravka: true
   - page:
       pageid: '2778'
       tom: '9'
@@ -313,36 +523,66 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-182.jpg
     persons:
-    - num: '108'
+    - id: '35762'
+      num: '108'
       name: ФРЕШЕР Евгений Эдуардович
-    - num: '109'
+      doublesexists: true
+      spravka: true
+    - id: '35763'
+      num: '109'
       name: ФРИЦ Карл Карлович, он же <br />СОПИТ Илья Ильич, он же ИОГАН Гласс
-    - num: '110'
+      spravka: true
+    - id: '35764'
+      num: '110'
       name: ХЛУДОВ Павел Алексеевич
-    - num: '111'
+      spravka: true
+    - id: '35765'
+      num: '111'
       name: ЧЕРЕНОВИЧ Станислав Янович
-    - num: '112'
+      spravka: true
+    - id: '35766'
+      num: '112'
       name: ЧЕРНИХОВ Герцель Борисович
-    - num: '113'
+      spravka: true
+    - id: '35767'
+      num: '113'
       name: ЧИСТЯКОВ Никита Александрович
-    - num: '114'
+      spravka: true
+    - id: '35768'
+      num: '114'
       name: ЧИСТЯКОВ Сергей Семенович
-    - num: '115'
+      spravka: true
+    - id: '35769'
+      num: '115'
       name: ШИЛКИН Павел Терентьевич
-    - num: '116'
+      spravka: true
+    - id: '35770'
+      num: '116'
       name: ШИШЛЯНИКОВ Рафаил Абрамович
-    - num: '117'
+      spravka: true
+    - id: '35771'
+      num: '117'
       name: ШПАН Генрих Генрихович
-    - num: '118'
+    - id: '35772'
+      num: '118'
       name: ШПИЦ Марк Самойлович
-    - num: '119'
+      spravka: true
+    - id: '35773'
+      num: '119'
       name: ШРОТ Адольф Адольфович
-    - num: '120'
+      spravka: true
+    - id: '35774'
+      num: '120'
       name: ШУГАР Андрей Александрович
-    - num: '121'
+      spravka: true
+    - id: '35775'
+      num: '121'
       name: ШУМИЛОВ Иван Михайлович
-    - num: '122'
+      spravka: true
+    - id: '35776'
+      num: '122'
       name: ЯНСОН Николай Михайлович
+      spravka: true
   - page:
       pageid: '2779'
       tom: '9'
@@ -359,13 +599,21 @@ sublists:
       pometa: '0'
     page_image: v09/17-171-417-183.jpg
     persons:
-    - num: '1'
+    - id: '35777'
+      num: '1'
       name: ГОФМАН Павел Александрович
-    - num: '2'
+      spravka: true
+    - id: '35778'
+      num: '2'
       name: МИЛОНОВ Юрий Константинович
-    - num: '3'
+      spravka: true
+    - id: '35779'
+      num: '3'
       name: САРКИСЯН Давид Айрапетович
-    - num: '4'
+      spravka: true
+    - id: '35780'
+      num: '4'
       name: СМИРНОВ Николай Семенович
-    - num: '5'
+    - id: '35781'
+      num: '5'
       name: ТУРЧАНИНОВА Валентина Болеславовна

@@ -38,52 +38,98 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-118.jpg
     persons:
-    - num: '1'
+    - id: '4622'
+      num: '1'
       name: АВИН Рудольф Иванович
-    - num: '2'
+      spravka: true
+    - id: '4623'
+      num: '2'
       name: АДАМОВ Герман Михайлович
-    - num: '3'
+      spravka: true
+    - id: '4624'
+      num: '3'
       name: АДРИАНОВ Николай Павлович
-    - num: '4'
+      spravka: true
+    - id: '4625'
+      num: '4'
       name: БАЛОДИС Ян Петрович
-    - num: '5'
+      spravka: true
+    - id: '4626'
+      num: '5'
       name: БАРСУКОВ Борис Алексеевич
-    - num: '6'
+      spravka: true
+    - id: '4627'
+      num: '6'
       name: БАУЭР Алексей Николаевич
-    - num: '7'
+      spravka: true
+    - id: '4628'
+      num: '7'
       name: БЕККЕР Гуго Эдуардович
-    - num: '8'
+      spravka: true
+    - id: '4629'
+      num: '8'
       name: ВИЛЬКОВЫССКИЙ Владимир Николаевич
-    - num: '9'
+      spravka: true
+    - id: '4630'
+      num: '9'
       name: ВИНКЛЕР Владимир Владимирович
-    - num: '10'
+      spravka: true
+    - id: '4631'
+      num: '10'
       name: ВОЛЯНСКИЙ Николай Владимирович
-    - num: '11'
+      spravka: true
+    - id: '4632'
+      num: '11'
       name: ГЕРАСИМОВ Алексей Федорович
-    - num: '12'
+      spravka: true
+    - id: '4633'
+      num: '12'
       name: ГЮБНЕР Иван Александрович
-    - num: '13'
+      spravka: true
+    - id: '4634'
+      num: '13'
       name: КАПУСТИНСКИЙ Николай Иванович
-    - num: '14'
+      spravka: true
+    - id: '4635'
+      num: '14'
       name: КАРПОВИЧ Дмитрий Александрович
-    - num: '15'
+      spravka: true
+    - id: '4636'
+      num: '15'
       name: КАШТАЛЕВ Владимир Саввич
-    - num: '16'
+      spravka: true
+    - id: '4637'
+      num: '16'
       name: КРАСИНСКИЙ (ЛАДОВСКИЙ) Фердинанд Станиславович
-    - num: '17'
+      spravka: true
+    - id: '4638'
+      num: '17'
       name: КЮНЕР Густав Эдуардович
-    - num: '18'
+      spravka: true
+    - id: '4639'
+      num: '18'
       name: ЛАЙЦЕНЕС Линард Петрович
-    - num: '19'
+      spravka: true
+    - id: '4640'
+      num: '19'
       name: ЛАПИН Артур Петрович
-    - num: '20'
+      spravka: true
+    - id: '4641'
+      num: '20'
       name: МЕЙЕР-ЗАХАРОВ Лев Николаевич
-    - num: '21'
+      spravka: true
+    - id: '4642'
+      num: '21'
       name: МЕЩЕРЯКОВ Козьма Антонович
-    - num: '22'
+      spravka: true
+    - id: '4643'
+      num: '22'
       name: НИКОЛЬСКИЙ Даниил Григорьевич
-    - num: '23'
+      spravka: true
+    - id: '4644'
+      num: '23'
       name: ПАНКРАТОВ Михаил Никанорович
+      spravka: true
   - page:
       pageid: '355'
       tom: '2'
@@ -100,26 +146,46 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-119.jpg
     persons:
-    - num: '24'
+    - id: '4645'
+      num: '24'
       name: ПОПОВ Александр Николаевич
-    - num: '25'
+      spravka: true
+    - id: '4646'
+      num: '25'
       name: РУБЛЕВ Лев Яковлевич
-    - num: '26'
+      spravka: true
+    - id: '4647'
+      num: '26'
       name: САВИЧ, он же КИЗЕНКО Иван Иванович
-    - num: '27'
+      spravka: true
+    - id: '4648'
+      num: '27'
       name: СТРАУТИН-ЦИТРОН Альберт Замелович
-    - num: '28'
+      spravka: true
+    - id: '4649'
+      num: '28'
       name: СУДМАЛС Эмиль Гиртович
-    - num: '29'
+      spravka: true
+    - id: '4650'
+      num: '29'
       name: СУК Алексей Эдуардович
-    - num: '30'
+      spravka: true
+    - id: '4651'
+      num: '30'
       name: ЦИОНСКИЙ Ян Львович
-    - num: '31'
+      spravka: true
+    - id: '4652'
+      num: '31'
       name: ЦОНЕВ Иван Степанович
-    - num: '32'
+      spravka: true
+    - id: '4653'
+      num: '32'
       name: ШЕШЕНЯ-АДАРСКИЙ Леонид Николаевич, он же Данилович
-    - num: '33'
+      spravka: true
+    - id: '4654'
+      num: '33'
       name: ЯНКУС Оскар Фрицевич
+      spravka: true
   - page:
       pageid: '356'
       tom: '2'
@@ -136,10 +202,14 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-120.jpg
     persons:
-    - num: '1'
+    - id: '4655'
+      num: '1'
       name: КИПЕРС Юлий Янович
-    - num: '2'
+      spravka: true
+    - id: '4656'
+      num: '2'
       name: КОРНИЕНКО Иван Осипович
+      spravka: true
   - page:
       pageid: '357'
       tom: '2'
@@ -156,8 +226,11 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-121.jpg
     persons:
-    - num: '1'
+    - id: '4657'
+      num: '1'
       name: РОЗЕНБАХ Фриц Карлович
+      gb_spravka: true
+      spravka: true
 - title: Список от 31 июля 1937 г. [Московская область]
   sublisttitle: Московская область
   pages:
@@ -177,11 +250,19 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-123.jpg
     persons:
-    - num: '1'
+    - id: '4658'
+      num: '1'
       name: ЕГОРОВ Владимир Михайлович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '4659'
+      num: '2'
       name: МАРГОЛИН Гершл Давидович
-    - num: '3'
+      spravka: true
+    - id: '4660'
+      num: '3'
       name: ЦЕНАРИ Альберт Иванович
-    - num: '4'
+      spravka: true
+    - id: '4661'
+      num: '4'
       name: ЧЕРНЫХ Максим Петрович

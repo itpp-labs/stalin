@@ -33,31 +33,56 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-118.jpg
     persons:
-    - num: '1'
+    - id: '11927'
+      num: '1'
       name: БРЫКОВ Александр Петрович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '11928'
+      num: '2'
       name: БУРНАШЕВ Ханиф Хасанович
-    - num: '3'
+      spravka: true
+    - id: '11929'
+      num: '3'
       name: ГОЛИКЕ-МЕСЕЖНИКОВА Фейга Лейбовна
-    - num: '4'
+      spravka: true
+    - id: '11930'
+      num: '4'
       name: ДРЕЗЕН-САЗОНОВА Елена Константиновна
-    - num: '5'
+      spravka: true
+    - id: '11931'
+      num: '5'
       name: ДРОЗДОВ Петр Степанович
-    - num: '6'
+      spravka: true
+    - id: '11932'
+      num: '6'
       name: КОРЫТНЫЙ Леонид Захарович
       striked: true
-    - num: '7'
+      spravka: true
+    - id: '11933'
+      num: '7'
       name: КОЧЕТКОВ Николай Георгиевич
-    - num: '8'
+      spravka: true
+    - id: '11934'
+      num: '8'
       name: ЛОБЭ Эмиль Иванович
-    - num: '9'
+      spravka: true
+    - id: '11935'
+      num: '9'
       name: МОРОЗ Григорий Семенович
-    - num: '10'
+      spravka: true
+    - id: '11936'
+      num: '10'
       name: СНЕЖКО Николай Степанович
-    - num: '11'
+      spravka: true
+    - id: '11937'
+      num: '11'
       name: ФАДДЕЕВ Иван Матвеевич
-    - num: '12'
+      spravka: true
+    - id: '11938'
+      num: '12'
       name: ЧЕРНЯВСКИЙ Андрей Федорович
+      spravka: true
   - page:
       pageid: '962'
       tom: '4'
@@ -74,7 +99,11 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-119.jpg
     persons:
-    - num: '1'
+    - id: '11939'
+      num: '1'
       name: БОРИСКИН Андрей Васильевич
-    - num: '2'
+      spravka: true
+    - id: '11940'
+      num: '2'
       name: ПРОНИН Игнат Степанович
+      spravka: true

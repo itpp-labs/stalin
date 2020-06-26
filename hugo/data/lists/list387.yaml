@@ -35,52 +35,92 @@ sublists:
       pometa: '0'
     page_image: v11/17-171-419-002.jpg
     persons:
-    - num: '1'
+    - id: '40852'
+      num: '1'
       name: АЛЬБРЕХТ Эдуард Андреевич
-    - num: '2'
+      spravka: true
+    - id: '40853'
+      num: '2'
       name: БЕКИРОВ Осман Зеки
-    - num: '3'
+      spravka: true
+    - id: '40854'
+      num: '3'
       name: БИРЗГАЛ Николай Карлович
-    - num: '4'
+      spravka: true
+    - id: '40855'
+      num: '4'
       name: БОЯДЖИЕВ Тейфук Сулейманович
-    - num: '5'
+      spravka: true
+    - id: '40856'
+      num: '5'
       name: БУЛАВЕНКО Алексей Петрович
-    - num: '6'
+      spravka: true
+    - id: '40857'
+      num: '6'
       name: ВАИТОВ Мамут Умер
-    - num: '7'
+    - id: '40858'
+      num: '7'
       name: ВАЩЕНКО Влас Федорович
-    - num: '8'
+      spravka: true
+    - id: '40859'
+      num: '8'
       name: ВЕБЕР Макс Максович
-    - num: '9'
+      spravka: true
+    - id: '40860'
+      num: '9'
       name: ВЕЙС Михаил Робертович
-    - num: '10'
+      spravka: true
+    - id: '40861'
+      num: '10'
       name: ГАУСМАН Александр Эдуардович
-    - num: '11'
+      spravka: true
+    - id: '40862'
+      num: '11'
       name: ГЕЛЬМАН Лев Евсеевич
-    - num: '12'
+      spravka: true
+    - id: '40863'
+      num: '12'
       name: ГРОМОВ Константин Георгиевич
-    - num: '13'
+    - id: '40864'
+      num: '13'
       name: ЗЕЙБЕРЛИХ Герман Александрович
-    - num: '14'
+      spravka: true
+    - id: '40865'
+      num: '14'
       name: ЗУСМАНОВИЧ Эрнест Исаакович
-    - num: '15'
+    - id: '40866'
+      num: '15'
       name: ИЗМАЙЛОВ Ибадулла Исмаилович
-    - num: '16'
+      spravka: true
+    - id: '40867'
+      num: '16'
       name: КАТСУ Иосиф Александрович
-    - num: '17'
+    - id: '40868'
+      num: '17'
       name: КОЗЛОВ Иван Иванович
-    - num: '18'
+      spravka: true
+    - id: '40869'
+      num: '18'
       name: КОПЫЛОВ Семен Михайлович
-    - num: '19'
+    - id: '40870'
+      num: '19'
       name: КРУГЛОВ Павел Васильевич
-    - num: '20'
+    - id: '40871'
+      num: '20'
       name: ЛЮФТ Христиан Иванович
-    - num: '21'
+      spravka: true
+    - id: '40872'
+      num: '21'
       name: МАЛАХОВ Александр Иванович
-    - num: '22'
+      spravka: true
+    - id: '40873'
+      num: '22'
       name: МИХАЙЛОВ Сергей Иванович
-    - num: '23'
+      spravka: true
+    - id: '40874'
+      num: '23'
       name: НЕАБ Эйген Мартынович
+      spravka: true
   - page:
       pageid: '3121'
       tom: '11'
@@ -97,34 +137,57 @@ sublists:
       pometa: '0'
     page_image: v11/17-171-419-003.jpg
     persons:
-    - num: '24'
+    - id: '40875'
+      num: '24'
       name: ОРЛОВ СААР Александр Иванович
-    - num: '25'
+    - id: '40876'
+      num: '25'
       name: ПОЛЯХ Вели Асанович
-    - num: '26'
+      spravka: true
+    - id: '40877'
+      num: '26'
       name: РЕФАТОВ Асан Мамутович
-    - num: '27'
+      spravka: true
+    - id: '40878'
+      num: '27'
       name: РОЗЕНБАУМ Георгий Леопольдович
-    - num: '28'
+      spravka: true
+    - id: '40879'
+      num: '28'
       name: СЕФЕРОВ Зекирья Мустафа
-    - num: '29'
+      spravka: true
+    - id: '40880'
+      num: '29'
       name: СТУПНИКОВ Леонид Ипатьевич
-    - num: '30'
+    - id: '40881'
+      num: '30'
       name: СУЛТАНОВ Джеппар Абдураманович
-    - num: '31'
+      spravka: true
+    - id: '40882'
+      num: '31'
       name: ТАНАБАЙЛЫ Вейс Акмолла
-    - num: '32'
+      spravka: true
+    - id: '40883'
+      num: '32'
       name: ЦЕЙТЛИН Залман Карпович
-    - num: '33'
+      spravka: true
+    - id: '40884'
+      num: '33'
       name: ЧАЧИ АБДУЛЛА МУСТАФА
-    - num: '34'
+    - id: '40885'
+      num: '34'
       name: ШЕРФЕДИНОВ Зекирья
-    - num: '35'
+    - id: '40886'
+      num: '35'
       name: ШПАЙЕР Соломон Маркович
-    - num: '36'
+      spravka: true
+    - id: '40887'
+      num: '36'
       name: ЭЛЬБЕРФЕЛЬД Вальтер Фридрихович
-    - num: '37'
+    - id: '40888'
+      num: '37'
       name: ЭМИР САЛИЕВ МЕМЕТ
+      spravka: true
   - page:
       pageid: '3122'
       tom: '11'
@@ -141,10 +204,14 @@ sublists:
       pometa: '0'
     page_image: v11/17-171-419-004.jpg
     persons:
-    - num: '1'
+    - id: '40889'
+      num: '1'
       name: ШЕЙЕР Пауль Августович
-    - num: '2'
+      gb_spravka: true
+    - id: '40890'
+      num: '2'
       name: ЭПШТЕЙН Герман Тобиасович
+      gb_spravka: true
   - page:
       pageid: '3125'
       tom: '11'
@@ -161,37 +228,64 @@ sublists:
       pometa: '0'
     page_image: v11/17-171-419-007.jpg
     persons:
-    - num: '1'
+    - id: '40891'
+      num: '1'
       name: АСАНОВ Али Асанович
-    - num: '2'
+      spravka: true
+    - id: '40892'
+      num: '2'
       name: АЧКИНАЗИ Ион Лазаревич
-    - num: '3'
+      spravka: true
+    - id: '40893'
+      num: '3'
       name: БЕКИРОВ Мустафа Эбубекирович
-    - num: '4'
+      spravka: true
+    - id: '40894'
+      num: '4'
       name: БРУДНЫЙ Эляким Лейбович
-    - num: '5'
+    - id: '40895'
+      num: '5'
       name: ГАЛЬПЕРИН Ефим Исакович
-    - num: '6'
+      spravka: true
+    - id: '40896'
+      num: '6'
       name: ГРАЛОВ Аблямит
-    - num: '7'
+    - id: '40897'
+      num: '7'
       name: ДЕВЛЕТОВ ШЕМСЕДИН
-    - num: '8'
+    - id: '40898'
+      num: '8'
       name: МЕНКЕС Михаил Самойлович
-    - num: '9'
+      spravka: true
+    - id: '40899'
+      num: '9'
       name: НЕГАМЕТУЛИН Садык Файзрахманович
-    - num: '10'
+      spravka: true
+    - id: '40900'
+      num: '10'
       name: НОВИКОВ Степан Васильевич
-    - num: '11'
+    - id: '40901'
+      num: '11'
       name: ПОЛОТАЙ Николай Исидорович
-    - num: '12'
+      spravka: true
+    - id: '40902'
+      num: '12'
       name: ТЕМНЫЙ Захар Яковлевич
-    - num: '13'
+      spravka: true
+    - id: '40903'
+      num: '13'
       name: ТУПЧИЕНКО Иван Федорович
-    - num: '14'
+      spravka: true
+    - id: '40904'
+      num: '14'
       name: УСЕИНОВ БИЛЯЛ АБЛА
-    - num: '15'
+    - id: '40905'
+      num: '15'
       name: УШАКОВ Исмаил Усеинович
-    - num: '16'
+    - id: '40906'
+      num: '16'
       name: ЦУПКО Василий Герасимович
-    - num: '17'
+      spravka: true
+    - id: '40907'
+      num: '17'
       name: ЯРИЗОВ Василий Павлович

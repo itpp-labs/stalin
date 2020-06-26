@@ -36,9 +36,12 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-034.jpg
     persons:
-    - num: '1'
+    - id: '26231'
+      num: '1'
       name: САМАРСКИЙ Павел Васильевич
-    - num: '1'
+      spravka: true
+    - id: '26232'
+      num: '1'
       name: НИКОЛАЕВ Василий Филиппович
 - title: Список от 5 марта 1938г. [Саратовская область]
   sublisttitle: Саратовская область
@@ -59,16 +62,25 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-035.jpg
     persons:
-    - num: '1'
+    - id: '26233'
+      num: '1'
       name: ГАЙМЛЕР Георгий Генрихович
-    - num: '2'
+      spravka: true
+    - id: '26234'
+      num: '2'
       name: ФРИАУФ Александр Фридрихович
-    - num: '3'
+    - id: '26235'
+      num: '3'
       name: ШНЕЙДЕР Фридрих Конрадович
-    - num: '1'
+      spravka: true
+    - id: '26236'
+      num: '1'
       name: КРУППАН Константин Васильевич
-    - num: '2'
+      spravka: true
+    - id: '26237'
+      num: '2'
       name: ЮРК Давид Давидович
+      spravka: true
 - title: Список от 5 марта 1938г. [Тульская область]
   sublisttitle: Тульская область
   pages:
@@ -88,10 +100,13 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-036.jpg
     persons:
-    - num: '1'
+    - id: '26238'
+      num: '1'
       name: ДИТМАР Гельмут Георгиевич
-    - num: '2'
+    - id: '26239'
+      num: '2'
       name: ДОБРОХОТОВ Константин Дмитриевич
+      spravka: true
 - title: Список от 5 марта 1938г. [Армянская ССР]
   sublisttitle: Армянская ССР
   pages:
@@ -111,12 +126,19 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-037.jpg
     persons:
-    - num: '1'
+    - id: '26240'
+      num: '1'
       name: АВАКЬЯН Баграт Савадович
-    - num: '2'
+      doublesexists: true
+      spravka: true
+    - id: '26241'
+      num: '2'
       name: ЗАХАРЬЯН Ашот Георгиевич
-    - num: '3'
+      spravka: true
+    - id: '26242'
+      num: '3'
       name: КУРАНЯН Гарегин Алексеевич
+      spravka: true
 - title: Список от 5 марта 1938г. [Оренбургская область]
   sublisttitle: Оренбургская область
   pages:
@@ -136,5 +158,7 @@ sublists:
       pometa: '0'
     page_image: v07/17-171-415-038.jpg
     persons:
-    - num: '1'
+    - id: '26243'
+      num: '1'
       name: ЗАБОРОВСКИЙ Виктор Брониславович
+      spravka: true

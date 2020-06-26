@@ -33,34 +33,59 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-231.jpg
     persons:
-    - num: '1'
+    - id: '31977'
+      num: '1'
       name: АНТОНОВ Алексей Яковлевич
-    - num: '2'
+    - id: '31978'
+      num: '2'
       name: АНТУФЬЕВ Иван Митрофанович
-    - num: '3'
+      spravka: true
+    - id: '31979'
+      num: '3'
       name: БАШМАКОВ Николай Николаевич
-    - num: '4'
+      spravka: true
+    - id: '31980'
+      num: '4'
       name: ГОРБУНОВ Леонид Филиппович
-    - num: '5'
+      spravka: true
+    - id: '31981'
+      num: '5'
       name: ЕМЕЛЬЯНОВ Николай Андреевич
-    - num: '6'
+      spravka: true
+    - id: '31982'
+      num: '6'
       name: КЕЗИН Николай Михайлович
-    - num: '7'
+      spravka: true
+    - id: '31983'
+      num: '7'
       name: КОЖИН Евгений Егорович
-    - num: '8'
+      spravka: true
+    - id: '31984'
+      num: '8'
       name: КОРОЛЕВ Павел Степанович
-    - num: '9'
+      spravka: true
+    - id: '31985'
+      num: '9'
       name: ЛУКИН Николай Федорович
-    - num: '10'
+    - id: '31986'
+      num: '10'
       name: МАТВЕЕВ Алексей Петрович
-    - num: '11'
+    - id: '31987'
+      num: '11'
       name: СЛАДКОВ Николай Дмитриевич
-    - num: '12'
+      spravka: true
+    - id: '31988'
+      num: '12'
       name: СОКОЛЬНИКОВ Иван Миронович
-    - num: '13'
+      spravka: true
+    - id: '31989'
+      num: '13'
       name: ТУИСОВ Константин Терентьевич
-    - num: '14'
+      spravka: true
+    - id: '31990'
+      num: '14'
       name: ТЧАННИКОВ Федор Иванович
+      spravka: true
   - page:
       pageid: '2485'
       tom: '8'
@@ -77,5 +102,7 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-232.jpg
     persons:
-    - num: '1'
+    - id: '31991'
+      num: '1'
       name: СУМКИН Василий Николаевич
+      spravka: true

@@ -34,58 +34,100 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-124.jpg
     persons:
-    - num: '1'
+    - id: '9046'
+      num: '1'
       name: АКУЛИНИН Тимофей Николаевич
-    - num: '2'
+      spravka: true
+    - id: '9047'
+      num: '2'
       name: АЛЕКСЕЕВ Петр Павлович
-    - num: '3'
+    - id: '9048'
+      num: '3'
       name: БАТАШЕВ Иван Александрович
-    - num: '4'
+      spravka: true
+    - id: '9049'
+      num: '4'
       name: БЕРМАН Бенциан Исаакович
-    - num: '5'
+      spravka: true
+    - id: '9050'
+      num: '5'
       name: БЛАГОВЕЩЕНСКИЙ Аполлон Евгеньевич
-    - num: '6'
+      spravka: true
+    - id: '9051'
+      num: '6'
       name: БОРИСЕНКО Николай Калинович
-    - num: '7'
+      spravka: true
+    - id: '9052'
+      num: '7'
       name: БУДЫЛЕВ Иван Григорьевич, он же АЛЕКСАНДРОВ, ДАНИЛОВ, АНАНЬЕВ, ГРАНЕВ,
         ЧЕРНЫШЕВ, ВОЛЖИН
-    - num: '8'
+      spravka: true
+    - id: '9053'
+      num: '8'
       name: БЯЛОВСКИЙ Франц Владиславович
-    - num: '9'
+      spravka: true
+    - id: '9054'
+      num: '9'
       name: ВАЙСБЕРГ-ЗАВАДОВСКИЙ Михаил-Моисей Иудович
-    - num: '10'
+      spravka: true
+    - id: '9055'
+      num: '10'
       name: ВЕДЕНЯПИН Михаил Александрович
-      pometa: true
       pometa_text: 10 лет
-    - num: '11'
+      spravka: true
+    - id: '9056'
+      num: '11'
       name: ВОЛЬСКИЙ Владимир Казимирович
-    - num: '12'
+      spravka: true
+    - id: '9057'
+      num: '12'
       name: ВОРОБЬЕВ Иван Васильевич
-    - num: '13'
+      spravka: true
+    - id: '9058'
+      num: '13'
       name: ВЫСОЦКИЙ Павел Викторович
-    - num: '14'
+      spravka: true
+    - id: '9059'
+      num: '14'
       name: ГЕНДЕЛЬМАН Самуэль Яковлевич
-    - num: '15'
+      spravka: true
+    - id: '9060'
+      num: '15'
       name: ГЕРШГОРН Вениамин Константинович
-    - num: '16'
+      spravka: true
+    - id: '9061'
+      num: '16'
       name: ГОЛОСОВ Федор Леонтьевич
-    - num: '17'
+    - id: '9062'
+      num: '17'
       name: ГОЦ Абрам Рафаилович
       underlined: true
-      pometa: true
       pometa_text: 10 лет
-    - num: '18'
+      spravka: true
+    - id: '9063'
+      num: '18'
       name: ГУСЕВ-ЗНАМЕНСКИЙ Африкан Алексеевич
-    - num: '19'
+      spravka: true
+    - id: '9064'
+      num: '19'
       name: ЕРУХИМОВИЧ Исаак Рувимович
-    - num: '20'
+      spravka: true
+    - id: '9065'
+      num: '20'
       name: ЖИГУЛИН Петр Зиновьевич
-    - num: '21'
+      spravka: true
+    - id: '9066'
+      num: '21'
       name: ЗАМЯТИН Николай Александрович
-    - num: '22'
+      spravka: true
+    - id: '9067'
+      num: '22'
       name: ЗАУЭРБРАЙ-КУЗЬМИЧ Елена Васильевна
-    - num: '23'
+      spravka: true
+    - id: '9068'
+      num: '23'
       name: ЗИСМАН Арон Ильич
+      spravka: true
   - page:
       pageid: '717'
       tom: '3'
@@ -102,60 +144,113 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-125.jpg
     persons:
-    - num: '24'
+    - id: '9069'
+      num: '24'
       name: ЗОРИН Евгений Владимирович, он же <br />КОВЕЛЬСКИЙ Игорь Мартынович
-    - num: '25'
+      spravka: true
+    - id: '9070'
+      num: '25'
       name: ИОГАНСЕН Валентин Александрович
-    - num: '26'
+      spravka: true
+    - id: '9071'
+      num: '26'
       name: КАЧОРОВСКИЙ Борис Павлович
-    - num: '27'
+    - id: '9072'
+      num: '27'
       name: КАШИРИН Александр Иванович
-    - num: '28'
+      spravka: true
+    - id: '9073'
+      num: '28'
       name: КОЗЫРИН Василий Петрович
-    - num: '29'
+      spravka: true
+    - id: '9074'
+      num: '29'
       name: КОМАРОВ Николай Николаевич
-    - num: '30'
+      spravka: true
+    - id: '9075'
+      num: '30'
       name: КОНОНОВА-РЫЦАРЕВА Юлия Никитична
-    - num: '31'
+      spravka: true
+    - id: '9076'
+      num: '31'
       name: КОНОНОВ Никита Иванович
-    - num: '32'
+      spravka: true
+    - id: '9077'
+      num: '32'
       name: КОРЕНЕВ Степан Михайлович
-    - num: '33'
+      spravka: true
+    - id: '9078'
+      num: '33'
       name: КОТЛЯР Хаим Маркович
-    - num: '34'
+      spravka: true
+    - id: '9079'
+      num: '34'
       name: КОЧЕРГИНА Тамара Ивановна
-    - num: '35'
+      spravka: true
+    - id: '9080'
+      num: '35'
       name: КУСТАРЕВ Павел Сергеевич
-    - num: '36'
+      spravka: true
+    - id: '9081'
+      num: '36'
       name: ЛЕВИТ-ЛЕВИНА Роза Осиповна
-    - num: '37'
+      spravka: true
+    - id: '9082'
+      num: '37'
       name: ЛИБЕР-ГОЛЬДМАН Михаил Исаакович
-    - num: '38'
+      spravka: true
+    - id: '9083'
+      num: '38'
       name: ЛОЗДОВСКИЙ Александр Григорьевич
-    - num: '39'
+      spravka: true
+    - id: '9084'
+      num: '39'
       name: МАРКЕЛЫЧЕВ Дмитрий Михайлович
-    - num: '40'
+      spravka: true
+    - id: '9085'
+      num: '40'
       name: МОСКВИН Сергей Николаевич
-    - num: '41'
+      spravka: true
+    - id: '9086'
+      num: '41'
       name: МУРАНОВА Прасковья Григорьевна
-    - num: '42'
+      spravka: true
+    - id: '9087'
+      num: '42'
       name: НЕВЛЕР Лазарь Иудович
-    - num: '43'
+      spravka: true
+    - id: '9088'
+      num: '43'
       name: НИКОЛАЕВ Герман Александрович
-    - num: '44'
+      spravka: true
+    - id: '9089'
+      num: '44'
       name: НОВИКОВ-ПОКРОВСКИЙ Николай Александрович
-    - num: '45'
+      spravka: true
+    - id: '9090'
+      num: '45'
       name: ОВСЕЕВИЧ Анатолий Давидович
-    - num: '46'
+      spravka: true
+    - id: '9091'
+      num: '46'
       name: ОСИПОВ Михаил Ливерьевич
-    - num: '47'
+      spravka: true
+    - id: '9092'
+      num: '47'
       name: ПАНКРАТОВ-ГОРБУНОВ Михаил Павлович
-    - num: '48'
+      spravka: true
+    - id: '9093'
+      num: '48'
       name: ПОПОВ Николай Евгеньевич
-    - num: '49'
+      spravka: true
+    - id: '9094'
+      num: '49'
       name: РАСНЕР Саул Моисеевич
-    - num: '50'
+      spravka: true
+    - id: '9095'
+      num: '50'
       name: РУДАКОВ Пантелеймон Александрович
+      spravka: true
   - page:
       pageid: '718'
       tom: '3'
@@ -172,34 +267,62 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-126.jpg
     persons:
-    - num: '51'
+    - id: '9096'
+      num: '51'
       name: САЛОВ Иван Алексеевич
-    - num: '52'
+      spravka: true
+    - id: '9097'
+      num: '52'
       name: САРТАКОВ Александр Иванович
-    - num: '53'
+      spravka: true
+    - id: '9098'
+      num: '53'
       name: СЕМЯТИЦКАЯ Рахиль Калмановна
-    - num: '54'
+      spravka: true
+    - id: '9099'
+      num: '54'
       name: СМОЛЕНСКИЙ Аркадий Петрович
-    - num: '55'
+      spravka: true
+    - id: '9100'
+      num: '55'
       name: СТРАХОВ Дмитрий Александрович
-    - num: '56'
+      spravka: true
+    - id: '9101'
+      num: '56'
       name: ТРУТОВСКИЙ Владимир Евгеньевич
-    - num: '57'
+      spravka: true
+    - id: '9102'
+      num: '57'
       name: ТЯПКИН Ефим Федорович
-    - num: '58'
+      spravka: true
+    - id: '9103'
+      num: '58'
       name: ФИЛАТОВ-БУРЯТОВ Ефим Семенович
-    - num: '59'
+      spravka: true
+    - id: '9104'
+      num: '59'
       name: ФОМИН Иван Васильевич
-    - num: '60'
+      spravka: true
+    - id: '9105'
+      num: '60'
       name: ЧИЖОВ Владимир Петрович
-    - num: '61'
+      spravka: true
+    - id: '9106'
+      num: '61'
       name: ШВАДРОН Ефим Петрович
-    - num: '62'
+      spravka: true
+    - id: '9107'
+      num: '62'
       name: ШУГАЛ Александр Данилович
-    - num: '63'
+      spravka: true
+    - id: '9108'
+      num: '63'
       name: ЭРЕНБУРГ Соломон Леопольдович
-    - num: '64'
+      spravka: true
+    - id: '9109'
+      num: '64'
       name: ЯНКОВСКИЙ Рафаил Акимович
+      spravka: true
   - page:
       pageid: '719'
       tom: '3'
@@ -216,7 +339,11 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-127.jpg
     persons:
-    - num: '1'
+    - id: '9110'
+      num: '1'
       name: ЗАЙДЛЕР Юлий Вениаминович
-    - num: '2'
+      spravka: true
+    - id: '9111'
+      num: '2'
       name: ПЕНТОВ Борис Михайлович
+      spravka: true

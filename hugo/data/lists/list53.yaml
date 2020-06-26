@@ -35,56 +35,106 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-146.jpg
     persons:
-    - num: '1'
+    - id: '4811'
+      num: '1'
       name: БАРЫШЕВ Михаил Семенович
-    - num: '2'
+      spravka: true
+    - id: '4812'
+      num: '2'
       name: БЫЧКОВ Иван Иванович
-    - num: '3'
+      spravka: true
+    - id: '4813'
+      num: '3'
       name: ВАСИЛЬЕВ Наум Иванович
-    - num: '4'
+      spravka: true
+    - id: '4814'
+      num: '4'
       name: ВИЛИНСКИЙ Луи Гергардович
-    - num: '5'
+      spravka: true
+    - id: '4815'
+      num: '5'
       name: ГОЛУБИЦКИЙ Эмиль Моисеевич
-    - num: '6'
+      spravka: true
+    - id: '4816'
+      num: '6'
       name: ГУБЕ Роман Людвигович
-    - num: '7'
+      spravka: true
+    - id: '4817'
+      num: '7'
       name: ГУЩИНСКИЙ Павел Филиппович
-    - num: '8'
+      spravka: true
+    - id: '4818'
+      num: '8'
       name: ЗВОНАРЕВ Константин Алексеевич
-    - num: '9'
+      spravka: true
+    - id: '4819'
+      num: '9'
       name: ЗЕГЖДА Константин Петрович
-    - num: '10'
+      spravka: true
+    - id: '4820'
+      num: '10'
       name: ИГНАТЬЕВ Федор Иванович
-    - num: '11'
+      spravka: true
+    - id: '4821'
+      num: '11'
       name: КАЛМЫКОВ Леонид Степанович
-    - num: '12'
+      spravka: true
+    - id: '4822'
+      num: '12'
       name: КОЛЕСОВ Евгений Дмитриевич
-    - num: '13'
+      spravka: true
+    - id: '4823'
+      num: '13'
       name: КОМАРНИЦКИЙ Ипполит Валерианович
-    - num: '14'
+      spravka: true
+    - id: '4824'
+      num: '14'
       name: КОЧЕРГИН Евгений Емельянович
-    - num: '15'
+      spravka: true
+    - id: '4825'
+      num: '15'
       name: КРИСТСОН Рудольф Янович
-    - num: '16'
+      spravka: true
+    - id: '4826'
+      num: '16'
       name: КРУШЕЛЬНИЦКИЙ Кирилл Семенович
-    - num: '17'
+      spravka: true
+    - id: '4827'
+      num: '17'
       name: КУЗЬМИН Михаил Васильевич
-    - num: '18'
+      spravka: true
+    - id: '4828'
+      num: '18'
       name: ЛИПОВ Василий Васильевич
-    - num: '19'
+      spravka: true
+    - id: '4829'
+      num: '19'
       name: МИНЦИС Михаил Яковлевич
-    - num: '20'
+      spravka: true
+    - id: '4830'
+      num: '20'
       name: НИКОРО Павел Михайлович
-    - num: '21'
+      spravka: true
+    - id: '4831'
+      num: '21'
       name: ПИСКАРЕВ Владимир Терентьевич
-    - num: '22'
+      spravka: true
+    - id: '4832'
+      num: '22'
       name: ПОР Эрнест Яковлевич
-    - num: '23'
+      spravka: true
+    - id: '4833'
+      num: '23'
       name: ПУШНИЦКИЙ Борис Сергеевич
-    - num: '24'
+      spravka: true
+    - id: '4834'
+      num: '24'
       name: РАХМАНИН Дмитрий Капитонович
-    - num: '25'
+      spravka: true
+    - id: '4835'
+      num: '25'
       name: РЕЙНТАЛЬ Леонид Александрович
+      spravka: true
   - page:
       pageid: '383'
       tom: '2'
@@ -101,24 +151,42 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-147.jpg
     persons:
-    - num: '26'
+    - id: '4836'
+      num: '26'
       name: СИМОНОВ Владимир Ильич
-    - num: '27'
+      spravka: true
+    - id: '4837'
+      num: '27'
       name: СИРЕНКО Александр Кириллович
-    - num: '28'
+      spravka: true
+    - id: '4838'
+      num: '28'
       name: СОНИН Иван Федорович
-    - num: '29'
+      spravka: true
+    - id: '4839'
+      num: '29'
       name: СТАРОСЕЛЬСКИЙ Евсей Осипович
-    - num: '30'
+      spravka: true
+    - id: '4840'
+      num: '30'
       name: СУРИН Александр Ефимович
-    - num: '31'
+      spravka: true
+    - id: '4841'
+      num: '31'
       name: ТРЕЙДУБ Михаил Емельянович
-    - num: '32'
+      spravka: true
+    - id: '4842'
+      num: '32'
       name: ЧЕРНЯК Петр Васильевич
-    - num: '33'
+      spravka: true
+    - id: '4843'
+      num: '33'
       name: ШЕВЕРДИН Алексей Иванович
-    - num: '34'
+      spravka: true
+    - id: '4844'
+      num: '34'
       name: ЩЕГЛОВ Федор Михайлович
+      spravka: true
   - page:
       pageid: '384'
       tom: '2'
@@ -135,21 +203,31 @@ sublists:
       pometa: '0'
     page_image: v02/17-171-410-148.jpg
     persons:
-    - num: '1'
+    - id: '4845'
+      num: '1'
       name: АЛЫМЕНКО Лазарь Евдокимович
-    - num: '2'
+    - id: '4846'
+      num: '2'
       name: БОЛОТОВ Леонид Петрович
-    - num: '3'
+      spravka: true
+    - id: '4847'
+      num: '3'
       name: ДОБРОНРАВОВ Николай Петрович
-    - num: '4'
+    - id: '4848'
+      num: '4'
       name: КОТРОВ Василий Иванович
-    - num: '5'
+    - id: '4849'
+      num: '5'
       name: КУЛИКОВ Анатолий Михайлович
-    - num: '6'
+    - id: '4850'
+      num: '6'
       name: ОРЛОВ Андрей Александрович
-    - num: '7'
+    - id: '4851'
+      num: '7'
       name: СЕРЕБРЯННИКОВ Василий Дмитриевич
-    - num: '8'
+    - id: '4852'
+      num: '8'
       name: СУВОРОВ Федор Трофимович
-    - num: '9'
+    - id: '4853'
+      num: '9'
       name: ФИНК Константин Георгиевич

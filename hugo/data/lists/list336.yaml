@@ -35,46 +35,82 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-022.jpg
     persons:
-    - num: '1'
+    - id: '19627'
+      num: '1'
       name: АСТАХОВ Яков Дмитриевич
-    - num: '2'
+      spravka: true
+    - id: '19628'
+      num: '2'
       name: БЕРКИС Ян Андреевич
-    - num: '3'
+    - id: '19629'
+      num: '3'
       name: БОЧЕК Григорий Яковлевич
-    - num: '4'
+      spravka: true
+    - id: '19630'
+      num: '4'
       name: ВЕНКОВ Яков Алексеевич
-    - num: '5'
+    - id: '19631'
+      num: '5'
       name: ДМОХОВСКИЙ Николай Генрихович
-    - num: '6'
+      spravka: true
+    - id: '19632'
+      num: '6'
       name: ДУРНИН Михаил Николаевич
-    - num: '7'
+      spravka: true
+    - id: '19633'
+      num: '7'
       name: КАРПОВ Сергей Васильевич
-    - num: '8'
+      spravka: true
+    - id: '19634'
+      num: '8'
       name: КОВЫРШИН Пантелеймон Александрович
-    - num: '9'
+      spravka: true
+    - id: '19635'
+      num: '9'
       name: КОЗЛОВСКИЙ Павел Алексеевич
-    - num: '10'
+      spravka: true
+    - id: '19636'
+      num: '10'
       name: КУШЛЯНСКИЙ Николай Евлампиевич
-    - num: '11'
+      spravka: true
+    - id: '19637'
+      num: '11'
       name: НИКОЛАЕВ Петр Ефимович
-    - num: '12'
+      spravka: true
+    - id: '19638'
+      num: '12'
       name: ПАРАМОНОВ Михаил Авдеевич
-    - num: '13'
+      spravka: true
+    - id: '19639'
+      num: '13'
       name: ПОКРОВСКИЙ Алексей Васильевич
-    - num: '14'
+      spravka: true
+    - id: '19640'
+      num: '14'
       name: РЕНАРД-ФУКС Адольф Львович
-    - num: '15'
+    - id: '19641'
+      num: '15'
       name: СЕДОВ Геннадий Федорович
-    - num: '16'
+      spravka: true
+    - id: '19642'
+      num: '16'
       name: СЕМЕНОВ Илья Георгиевич
-    - num: '17'
+      spravka: true
+    - id: '19643'
+      num: '17'
       name: ТАРАСОВ Александр Дмитриевич
-    - num: '18'
+      spravka: true
+    - id: '19644'
+      num: '18'
       name: ФИЛАТОВ Петр Федорович
-    - num: '19'
+      spravka: true
+    - id: '19645'
+      num: '19'
       name: ШИШКИН Борис Александрович
-    - num: '20'
+    - id: '19646'
+      num: '20'
       name: ЯНСЕН Елена Ивановна
+      spravka: true
 - title: Список от 3 января 1938г. [Ярославская область]
   sublisttitle: Ярославская область
   pages:
@@ -94,22 +130,38 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-023.jpg
     persons:
-    - num: '1'
+    - id: '19647'
+      num: '1'
       name: ГАЙДУКЕВИЧ Владимир Федорович
-    - num: '2'
+      spravka: true
+    - id: '19648'
+      num: '2'
       name: ЕЛЕНИН Василий Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '19649'
+      num: '3'
       name: ЛИТВИНОВ Алексей Семенович
-    - num: '4'
+      spravka: true
+    - id: '19650'
+      num: '4'
       name: ЛЯПИН Иван Иванович
-    - num: '5'
+      spravka: true
+    - id: '19651'
+      num: '5'
       name: МРОЗ Мартемьян Константинович
-    - num: '6'
+      spravka: true
+    - id: '19652'
+      num: '6'
       name: ЯМПОЛЬСКИЙ Лазарь Хаимович
-    - num: '1'
+      spravka: true
+    - id: '19653'
+      num: '1'
       name: ДЕНИСОВ Павел Васильевич
-    - num: '2'
+      spravka: true
+    - id: '19654'
+      num: '2'
       name: МУРОВАННЫЙ Константин Тихонович
+      spravka: true
 - title: Список от 3 января 1938г. [Ленинградская область]
   sublisttitle: Ленинградская область
   pages:
@@ -129,10 +181,14 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-024.jpg
     persons:
-    - num: '1'
+    - id: '19655'
+      num: '1'
       name: ВАВИЛОВ Михаил Иванович
-    - num: '2'
+      spravka: true
+    - id: '19656'
+      num: '2'
       name: ЯКСОН Ян Петрович
+      spravka: true
 - title: Список от 3 января 1938г. [Белорусская ССР]
   sublisttitle: Белорусская ССР
   pages:
@@ -152,5 +208,7 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-025.jpg
     persons:
-    - num: '1'
+    - id: '19657'
+      num: '1'
       name: СОБЯНИН Арефий Павлович
+      spravka: true

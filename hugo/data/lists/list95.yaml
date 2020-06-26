@@ -34,40 +34,74 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-154.jpg
     persons:
-    - num: '1'
+    - id: '12420'
+      num: '1'
       name: БЕЛЫЙ Илья Петрович
-    - num: '2'
+      spravka: true
+    - id: '12421'
+      num: '2'
       name: ВАНИН Иван Иванович
-    - num: '3'
+      spravka: true
+    - id: '12422'
+      num: '3'
       name: ГОРОХОВ Алексей Андреевич
-    - num: '4'
+      spravka: true
+    - id: '12423'
+      num: '4'
       name: ДОМБРОВСКИЙ Борис Сергеевич
-    - num: '5'
+      spravka: true
+    - id: '12424'
+      num: '5'
       name: ЗИМИН Михаил Федорович
-    - num: '6'
+      spravka: true
+    - id: '12425'
+      num: '6'
       name: КАЩЕЕВ Василий Петрович
-    - num: '7'
+      spravka: true
+    - id: '12426'
+      num: '7'
       name: КЕММЕР Борис Николаевич
-    - num: '8'
+      spravka: true
+    - id: '12427'
+      num: '8'
       name: КУЛЬГАВОВ Сергей Сергеевич
-    - num: '9'
+      spravka: true
+    - id: '12428'
+      num: '9'
       name: ЛАЩЕНКО Порфирий Николаевич
-    - num: '10'
+      spravka: true
+    - id: '12429'
+      num: '10'
       name: ЛОПУХИН Борис Михайлович
-    - num: '11'
+      spravka: true
+    - id: '12430'
+      num: '11'
       name: ОСТРОМЫСЛЕНСКИЙ Владимир Иванович
-    - num: '12'
+      spravka: true
+    - id: '12431'
+      num: '12'
       name: ПАНКРАТОВ Алексей Борисович
-    - num: '13'
+      spravka: true
+    - id: '12432'
+      num: '13'
       name: ПЕНКЕВИЧ Борис Степанович
-    - num: '14'
+      spravka: true
+    - id: '12433'
+      num: '14'
       name: РОТОВ Георгий Михайлович
-    - num: '15'
+      spravka: true
+    - id: '12434'
+      num: '15'
       name: СЕДОВ Петр Григорьевич
-    - num: '16'
+      spravka: true
+    - id: '12435'
+      num: '16'
       name: СУЩИНСКИЙ Петр Петрович
-    - num: '17'
+      spravka: true
+    - id: '12436'
+      num: '17'
       name: ТУШКАНОВ Андрей Гаврилович
+      spravka: true
   - page:
       pageid: '998'
       tom: '4'
@@ -84,5 +118,7 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-155.jpg
     persons:
-    - num: '1'
+    - id: '12437'
+      num: '1'
       name: АУСТ Фридрих Францевич
+      gb_spravka: true

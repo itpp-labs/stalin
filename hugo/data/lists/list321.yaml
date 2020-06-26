@@ -33,48 +33,89 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-252.jpg
     persons:
-    - num: '1'
+    - id: '32148'
+      num: '1'
       name: АЛЕКСЕЕВ Иван Андреевич
-    - num: '2'
+      spravka: true
+    - id: '32149'
+      num: '2'
       name: АЛКСНИС Антон Петрович
-    - num: '3'
+      spravka: true
+    - id: '32150'
+      num: '3'
       name: АНИКИН Георгий Антонович
-    - num: '4'
+      spravka: true
+    - id: '32151'
+      num: '4'
       name: АНИСИМОВ Михаил Ефимович
-    - num: '5'
+    - id: '32152'
+      num: '5'
       name: БАШКАНКОВ Андрей Яковлевич
-    - num: '6'
+      spravka: true
+    - id: '32153'
+      num: '6'
       name: БЕЛИКОВ Яков Алексеевич
-    - num: '7'
+    - id: '32154'
+      num: '7'
       name: БЕЛЯКОВА Анна Федоровна
-    - num: '8'
+      doublesexists: true
+    - id: '32155'
+      num: '8'
       name: БОГАТИКОВ Григорий Григорьевич
-    - num: '9'
+      spravka: true
+    - id: '32156'
+      num: '9'
       name: БОНИЧ Михаил Никитич
-    - num: '10'
+      spravka: true
+    - id: '32157'
+      num: '10'
       name: БУКАНОВ Сергей Васильевич
-    - num: '11'
+      spravka: true
+    - id: '32158'
+      num: '11'
       name: БУРКИН Петр Антонович
-    - num: '12'
+      spravka: true
+    - id: '32159'
+      num: '12'
       name: ВЕСЕЛОВСКИЙ Владимир Александрович
-    - num: '13'
+    - id: '32160'
+      num: '13'
       name: ВОЛИН Максим Тимофеевич
-    - num: '14'
+      doublesexists: true
+      spravka: true
+    - id: '32161'
+      num: '14'
       name: ВОРОБЬЕВ Петр Федорович
-    - num: '15'
+      doublesexists: true
+      spravka: true
+    - id: '32162'
+      num: '15'
       name: ГАВРИНЕВ Михаил Семенович
-    - num: '16'
+    - id: '32163'
+      num: '16'
       name: ГОЛУБЕВ-ГОРСКИЙ Павел Никифорович
-    - num: '17'
+    - id: '32164'
+      num: '17'
       name: ДЕЕВ Федор Васильевич
-    - num: '18'
+      spravka: true
+    - id: '32165'
+      num: '18'
       name: ЕПИШКИН Дмитрий Павлович
-    - num: '19'
+      doublesexists: true
+      spravka: true
+    - id: '32166'
+      num: '19'
       name: ЖЕРЕБЦОВ Никифор Тимофеевич
-    - num: '20'
+      spravka: true
+    - id: '32167'
+      num: '20'
       name: ЗАК София Гавриловна
-    - num: '21'
+      doublesexists: true
+      spravka: true
+    - id: '32168'
+      num: '21'
       name: ИВАНОВ Михаил Сергеевич
+      spravka: true
   - page:
       pageid: '2506'
       tom: '8'
@@ -91,62 +132,118 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-253.jpg
     persons:
-    - num: '22'
+    - id: '32169'
+      num: '22'
       name: ЖИГУНОВ Андрей Максимович
-    - num: '23'
+      spravka: true
+    - id: '32170'
+      num: '23'
       name: ИСАЕНКО Антон Тимофеевич
-    - num: '24'
+    - id: '32171'
+      num: '24'
       name: КАРАСЕВ Павел Арсентьевич
-    - num: '25'
+      spravka: true
+    - id: '32172'
+      num: '25'
       name: КИРЕЕВ Илларион Гаврилович
-    - num: '26'
+      spravka: true
+    - id: '32173'
+      num: '26'
       name: КЛИМКОВ Илья Иванович
-    - num: '27'
+      spravka: true
+    - id: '32174'
+      num: '27'
       name: КОЛПАЧЕВ Василий Иванович
-    - num: '28'
+      spravka: true
+    - id: '32175'
+      num: '28'
       name: КОНОНЫХИН Михаил Иванович
-    - num: '29'
+      doublesexists: true
+      spravka: true
+    - id: '32176'
+      num: '29'
       name: КОТОВ Иван Васильевич
-    - num: '30'
+      spravka: true
+    - id: '32177'
+      num: '30'
       name: КУДРЯВЦЕВ Павел Абрамович
-    - num: '31'
+      doublesexists: true
+      spravka: true
+    - id: '32178'
+      num: '31'
       name: ЛЯКИШЕВ Иван Иванович
-    - num: '32'
+      spravka: true
+    - id: '32179'
+      num: '32'
       name: МИХЛИК Зиновий Спиридонович
-    - num: '33'
+      spravka: true
+    - id: '32180'
+      num: '33'
       name: МОЛОДЦОВ Семен Елисеевич
-    - num: '34'
+      spravka: true
+    - id: '32181'
+      num: '34'
       name: МОСЮКОВ Василий Григорьевич
-    - num: '35'
+      spravka: true
+    - id: '32182'
+      num: '35'
       name: НАЙДЕНКО Степан Терентьевич
-    - num: '36'
+      spravka: true
+    - id: '32183'
+      num: '36'
       name: НЕКРАСОВ Иван Павлович
-    - num: '37'
+    - id: '32184'
+      num: '37'
       name: ПОЗНЕР Леонид Матвеевич
-    - num: '38'
+      doublesexists: true
+      spravka: true
+    - id: '32185'
+      num: '38'
       name: ПОЛОСИН Михаил Петрович
-    - num: '39'
+    - id: '32186'
+      num: '39'
       name: ПОПОВ Михаил Николаевич
-    - num: '40'
+    - id: '32187'
+      num: '40'
       name: ПОПОВ Сергей Афанасьевич
-    - num: '41'
+      doublesexists: true
+      spravka: true
+    - id: '32188'
+      num: '41'
       name: САВЕНКОВ Кузьма Николаевич
-    - num: '42'
+      spravka: true
+    - id: '32189'
+      num: '42'
       name: САВИНКОВ Федор Прокофьевич
-    - num: '43'
+      spravka: true
+    - id: '32190'
+      num: '43'
       name: СКОРИН Гаврил Григорьевич
-    - num: '44'
+      doublesexists: true
+      spravka: true
+    - id: '32191'
+      num: '44'
       name: ТЕЛЕГИН Гавриил Степанович
-    - num: '45'
+    - id: '32192'
+      num: '45'
       name: ТКАЧУК Иван Дмитриевич
-    - num: '46'
+      spravka: true
+    - id: '32193'
+      num: '46'
       name: ТОКАРЕВ Дмитрий Власович
-    - num: '47'
+    - id: '32194'
+      num: '47'
       name: ТОКАРЕВ Николай Дмитриевич
-    - num: '48'
+      spravka: true
+    - id: '32195'
+      num: '48'
       name: ТУНИК Андрей Кондратьевич
-    - num: '49'
+      spravka: true
+    - id: '32196'
+      num: '49'
       name: ЧЕРНЯЕВ Михаил Тимофеевич
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '2507'
       tom: '8'
@@ -163,12 +260,17 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-254.jpg
     persons:
-    - num: '50'
+    - id: '32197'
+      num: '50'
       name: ШЕЙНИН Яков Абрамович
-    - num: '51'
+      spravka: true
+    - id: '32198'
+      num: '51'
       name: ШЛЫГИН Михаил Федорович
-    - num: '52'
+    - id: '32199'
+      num: '52'
       name: ЮДАЕВ Иван Семенович
+      spravka: true
   - page:
       pageid: '2508'
       tom: '8'
@@ -185,39 +287,70 @@ sublists:
       pometa: '0'
     page_image: v08/17-171-416-255.jpg
     persons:
-    - num: '1'
+    - id: '32200'
+      num: '1'
       name: АСТАШОВ Тимофей Яковлевич
-    - num: '2'
+      spravka: true
+    - id: '32201'
+      num: '2'
       name: БОЙКОВ Федор Артемович
-    - num: '3'
+      spravka: true
+    - id: '32202'
+      num: '3'
       name: ЕВДОКИМОВ Борис Николаевич
-    - num: '4'
+      doublesexists: true
+    - id: '32203'
+      num: '4'
       name: ЖУЛЬЕВ Петр Максимович
-    - num: '5'
+      spravka: true
+    - id: '32204'
+      num: '5'
       name: ЖУРАВЛЕВ Георгий Иванович
-    - num: '6'
+      spravka: true
+    - id: '32205'
+      num: '6'
       name: ИГНАТОВ Ермил Иванович
-    - num: '7'
+    - id: '32206'
+      num: '7'
       name: КАРАВАЕВ Иван Федорович
-    - num: '8'
+    - id: '32207'
+      num: '8'
       name: КАРЦЕВ Константин Трофимович
-    - num: '9'
+    - id: '32208'
+      num: '9'
       name: КУЗЕМКИН Иван Игнатьевич
-    - num: '10'
+      spravka: true
+    - id: '32209'
+      num: '10'
       name: МУХОРТОВ Дмитрий Федорович
-    - num: '11'
+    - id: '32210'
+      num: '11'
       name: НАЛИВАЛКИН Владимир Андрианович
-    - num: '12'
+      spravka: true
+    - id: '32211'
+      num: '12'
       name: НАРОЖНЫЙ Василий Иванович
-    - num: '13'
+      spravka: true
+    - id: '32212'
+      num: '13'
       name: ПЛЯСОВ Иван Николаевич
-    - num: '14'
+      spravka: true
+    - id: '32213'
+      num: '14'
       name: СМЫК Дмитрий Минаевич
-    - num: '15'
+      spravka: true
+    - id: '32214'
+      num: '15'
       name: СПЕРАНСКИЙ Сергей Петрович
-    - num: '16'
+      spravka: true
+    - id: '32215'
+      num: '16'
       name: СУГРОБОВ Константин Захарович
-    - num: '17'
+    - id: '32216'
+      num: '17'
       name: ФЕДЧЕНКО Федор Порфирьевич
-    - num: '18'
+      spravka: true
+    - id: '32217'
+      num: '18'
       name: ХЛЮСТОВ Василий Афанасьевич
+      spravka: true

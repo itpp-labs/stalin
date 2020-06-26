@@ -40,19 +40,42 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-276.jpg
     persons:
-    - num: '1'
+    - id: '32548'
+      num: '1'
       name: БИНЕНШТЕЙН Иоганнес Фердинандович
-    - num: '2'
+      doublesexists: true
+      gb_spravka: true
+    - id: '32549'
+      num: '2'
       name: ВАЙДНЕР Вольдемар Оттович
-    - num: '3'
+      doublesexists: true
+      gb_spravka: true
+      spravka: true
+    - id: '32406'
+      num: '3'
       name: ВОЛЬТЕР Шарлота Августовна
-    - num: '4'
+      doublesexists: true
+      spravka: true
+    - id: '32550'
+      num: '4'
       name: ГАНДШУ Альфред Викторович
-    - num: '5'
+      doublesexists: true
+      gb_spravka: true
+    - id: '22910'
+      num: '5'
       name: ГЕЙНИШ Владимир Константинович
-    - num: '6'
+      gb_spravka: true
+      spravka: true
+    - id: '32551'
+      num: '6'
       name: МАРГГРАФ Рихард Карлович
-    - num: '7'
+      doublesexists: true
+      gb_spravka: true
+    - id: '22912'
+      num: '7'
       name: ТАНК Герман Евгеньевич
-    - num: '8'
+      gb_spravka: true
+    - id: '22913'
+      num: '8'
       name: ЭКШТЕЙН Юлий Эдуардович
+      gb_spravka: true

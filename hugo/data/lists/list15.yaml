@@ -37,50 +37,93 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-125.jpg
     persons:
-    - num: '1'
+    - id: '1969'
+      num: '1'
       name: БЕЛОЗЕРОВ Василий Николаевич
-    - num: '2'
+    - id: '1970'
+      num: '2'
       name: ВДОВЕНКО Михаил Николаевич
-    - num: '3'
+      spravka: true
+    - id: '1971'
+      num: '3'
       name: КИСЕЛЕВ Гурий Иванович
-    - num: '4'
+      spravka: true
+    - id: '1972'
+      num: '4'
       name: ЛИС Ефим Самойлович
-    - num: '5'
+      spravka: true
+    - id: '1973'
+      num: '5'
       name: РОДИОНОВ Николай Александрович
-    - num: '6'
+      spravka: true
+    - id: '1974'
+      num: '6'
       name: ЦВИБАК Михаил Миронович
-    - num: '1'
+      spravka: true
+    - id: '1975'
+      num: '1'
       name: АВДАШЕВ Николай Кузьмич
-    - num: '2'
+      spravka: true
+    - id: '1976'
+      num: '2'
       name: АЛЕКСАНДРОВ Александр Григорьевич
-    - num: '3'
+      spravka: true
+    - id: '1977'
+      num: '3'
       name: АЛЕКСАНДРОВ Василий Александрович
-    - num: '4'
+      spravka: true
+    - id: '1978'
+      num: '4'
       name: БРАУХШТЕЙН Михаил Львович
-    - num: '5'
+      spravka: true
+    - id: '1979'
+      num: '5'
       name: ДАВЫДОВ Михаил Петрович
-    - num: '6'
+      spravka: true
+    - id: '1980'
+      num: '6'
       name: ЕВДОКИМОВ Петр Панкратьевич
-    - num: '7'
+      spravka: true
+    - id: '1981'
+      num: '7'
       name: ЗАЙДМАН Александр Михайлович
-    - num: '8'
+      spravka: true
+    - id: '1982'
+      num: '8'
       name: ЗУЕВ Иван Ефремович
-    - num: '9'
+      spravka: true
+    - id: '1983'
+      num: '9'
       name: КОМАРОВ Дмитрий Васильевич
-    - num: '10'
+      spravka: true
+    - id: '1984'
+      num: '10'
       name: КОРОЛЕВ Павел Николаевич
-    - num: '11'
+      spravka: true
+    - id: '1985'
+      num: '11'
       name: КОТОВ Иван Михайлович
-    - num: '12'
+      spravka: true
+    - id: '1986'
+      num: '12'
       name: ЛЕБЕДЕВ Анатолий Николаевич
-    - num: '13'
+      spravka: true
+    - id: '1987'
+      num: '13'
       name: ЛИСКИЕР Моисей Лазаревич
-    - num: '14'
+      spravka: true
+    - id: '1988'
+      num: '14'
       name: ЛУНЕВ Александр Иванович
-    - num: '15'
+      spravka: true
+    - id: '1989'
+      num: '15'
       name: ЛУЦУК Андрей Михайлович
-    - num: '16'
+      spravka: true
+    - id: '1990'
+      num: '16'
       name: МЕДВЕДЕВ Федор Ванифатьевич
+      spravka: true
   - page:
       pageid: '126'
       tom: '1'
@@ -97,29 +140,52 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-126.jpg
     persons:
-    - num: '17'
+    - id: '1991'
+      num: '17'
       name: ПАХНОВ Николай Васильевич
-    - num: '18'
+      spravka: true
+    - id: '1992'
+      num: '18'
       name: ПЕЧНИКОВ Григорий Иванович
-    - num: '19'
+      spravka: true
+    - id: '1993'
+      num: '19'
       name: ПИРОНЕН Николай Иванович
-    - num: '20'
+      spravka: true
+    - id: '1994'
+      num: '20'
       name: СВЕТИКОВ Иван Петрович
-    - num: '21'
+      spravka: true
+    - id: '1995'
+      num: '21'
       name: СЕРПОВ Василий Дмитриевич
-    - num: '22'
+      spravka: true
+    - id: '1996'
+      num: '22'
       name: СТАРЧАКОВ Александр Осипович
-    - num: '23'
+      spravka: true
+    - id: '1997'
+      num: '23'
       name: ТОВКАЧЕВ Антон Григорьевич
-    - num: '24'
+      spravka: true
+    - id: '1998'
+      num: '24'
       name: УВАРОВ Владимир Сергеевич
-    - num: '25'
+      spravka: true
+    - id: '1999'
+      num: '25'
       name: ФЕДОРОВ Иван Гаврилович
-    - num: '26'
+      spravka: true
+    - id: '2000'
+      num: '26'
       name: ФИНК Федор Федорович
-    - num: '27'
+      spravka: true
+    - id: '2029'
+      num: '27'
       name: ЧЕРНЫШЕВА Ольга Федоровна
       striked: true
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '127'
       tom: '1'
@@ -136,50 +202,81 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-127.jpg
     persons:
-    - num: '1'
+    - id: '2002'
+      num: '1'
       name: БЕЛЯЕВ Василий Александрович
-    - num: '2'
+    - id: '2003'
+      num: '2'
       name: ВИШНЯКОВ Иван Игнатьевич
-    - num: '3'
+      spravka: true
+    - id: '2004'
+      num: '3'
       name: ГОРЕЛОВ Анатолий Ефимович
-    - num: '4'
+      spravka: true
+    - id: '2005'
+      num: '4'
       name: ГЮССОН Альберт Густавович
-    - num: '5'
+    - id: '2006'
+      num: '5'
       name: ЕРМАЧЕНКО Николай Фомич
-    - num: '6'
+    - id: '2007'
+      num: '6'
       name: КАЛЕЙС Август Симонович
-    - num: '7'
+      spravka: true
+    - id: '2008'
+      num: '7'
       name: КЛИМЕНКО Вероника Викторовна
-    - num: '8'
+    - id: '2009'
+      num: '8'
       name: МИХАЙЛОВ Александр Михайлович
-    - num: '9'
+    - id: '2010'
+      num: '9'
       name: ПАВЛОВ Михаил Тимофеевич
-    - num: '10'
+    - id: '2011'
+      num: '10'
       name: ПОЛЯК Лев Соломонович
-    - num: '11'
+      spravka: true
+    - id: '2012'
+      num: '11'
       name: РАКИТСКАЯ Елена Никодимовна
-    - num: '12'
+    - id: '2013'
+      num: '12'
       name: РУСАКОВ Иван Васильевич
-    - num: '13'
+      spravka: true
+    - id: '2014'
+      num: '13'
       name: САВИЦКИЙ Георгий Сидорович
-    - num: '14'
+    - id: '2015'
+      num: '14'
       name: СТУКАТАНОВ Петр Васильевич
-    - num: '1'
+    - id: '2016'
+      num: '1'
       name: АРХАРОВА Екатерина Николаевна
-    - num: '2'
+    - id: '12735'
+      num: '2'
       name: ВОЛЬПЕ Александра Петровна
-    - num: '3'
+      doublesexists: true
+      spravka: true
+    - id: '2018'
+      num: '3'
       name: ГОРДЕЕВ Николай Васильевич
-    - num: '4'
+    - id: '2019'
+      num: '4'
       name: КАШИНЦЕВ Александр Семенович
-    - num: '5'
+    - id: '2020'
+      num: '5'
       name: КОРОЛЕВА Надежда Матвеевна
-    - num: '6'
+    - id: '2021'
+      num: '6'
       name: КОТОВА Евгения Афанасьевна
-    - num: '7'
+      spravka: true
+    - id: '2022'
+      num: '7'
       name: КУЛЕШОВ Михаил Федорович
-    - num: '8'
+    - id: '2023'
+      num: '8'
       name: ЛЕОШКО Иосиф Доминикович
+      spravka: true
   - page:
       pageid: '128'
       tom: '1'
@@ -196,18 +293,27 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-128.jpg
     persons:
-    - num: '9'
+    - id: '2024'
+      num: '9'
       name: НИКОЛАЕВ Григорий Иванович
-    - num: '10'
+    - id: '2025'
+      num: '10'
       name: РОЗЕНБЕРГ Александр Максимович
-    - num: '11'
+    - id: '2026'
+      num: '11'
       name: СМИРНОВА-ЗАРАЙСКАЯ Татьяна Ивановна
-    - num: '12'
+    - id: '2027'
+      num: '12'
       name: УГАРОВА Ольга Александровна
-    - num: '13'
+      spravka: true
+    - id: '2028'
+      num: '13'
       name: ФЕДОРОВ Михаил Николаевич
-    - num: '14'
+    - id: '2029'
+      num: '14'
       name: ЧЕРНЫШОВА Ольга Федоровна [вписано от руки - перенесено из 1-й кат.]
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '129'
       tom: '1'
@@ -224,9 +330,12 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-129.jpg
     persons:
-    - num: '1'
+    - id: '2030'
+      num: '1'
       name: ЕРМАЧЕНКОВА Мария Александровна
-    - num: '1'
+    - id: '2031'
+      num: '1'
       name: НИКОЛАЕВА Анастасия Ивановна
-    - num: '2'
+    - id: '2032'
+      num: '2'
       name: СМИРНОВА Серафима Александровна

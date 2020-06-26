@@ -34,50 +34,91 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-276.jpg
     persons:
-    - num: '1'
+    - id: '17973'
+      num: '1'
       name: БАНДИН Михаил Васильевич
-    - num: '2'
+      spravka: true
+    - id: '17974'
+      num: '2'
       name: БОБРОВ Михаил Архипович
-    - num: '3'
+      spravka: true
+    - id: '17975'
+      num: '3'
       name: БОВИН Христофор Павлович
-    - num: '4'
+      spravka: true
+    - id: '17976'
+      num: '4'
       name: ВОЙКИН Петр Селиверстович
-    - num: '5'
+      spravka: true
+    - id: '17977'
+      num: '5'
       name: ДОМОЛАЗОВ Степан Васильевич
-    - num: '6'
+      spravka: true
+    - id: '17978'
+      num: '6'
       name: ЗАХАРОВ Александр Николаевич
-    - num: '7'
+      spravka: true
+    - id: '17979'
+      num: '7'
       name: ЗУДОВ Яков Степанович
-    - num: '8'
+      spravka: true
+    - id: '17980'
+      num: '8'
       name: ЗЫБИН Иван Алексеевич
-    - num: '9'
+      spravka: true
+    - id: '17981'
+      num: '9'
       name: КАМЕНЕВА Ольга Давыдовна
-      pometa: true
       pometa_text: 25 лет
-    - num: '10'
+      spravka: true
+    - id: '17982'
+      num: '10'
       name: КАЩЕЕВ Виктор Дмитриевич
-    - num: '11'
+      spravka: true
+    - id: '17983'
+      num: '11'
       name: КАЩЕЕВ Михаил Григорьевич
-    - num: '12'
+      spravka: true
+    - id: '17984'
+      num: '12'
       name: КОВАЛЕВ Николай Иванович
-    - num: '13'
+      spravka: true
+    - id: '17985'
+      num: '13'
       name: КОВАЛЕВ Николай Николаевич
-    - num: '14'
+      spravka: true
+    - id: '17986'
+      num: '14'
       name: КОЗЛОВ Михаил Иванович
-    - num: '15'
+      spravka: true
+    - id: '17987'
+      num: '15'
       name: КОСТРОВ Дмитрий Андреевич
-    - num: '16'
+      spravka: true
+    - id: '17988'
+      num: '16'
       name: КРЮКОВ Иван Николаевич
-    - num: '17'
+      spravka: true
+    - id: '17989'
+      num: '17'
       name: КУТЯЕВ Иосиф Андреевич
-    - num: '18'
+      spravka: true
+    - id: '17990'
+      num: '18'
       name: ЛЕДНЕВ Михаил Иванович
-    - num: '19'
+      spravka: true
+    - id: '17991'
+      num: '19'
       name: ЛИСТЕНИН Иван Васильевич
-    - num: '20'
+      spravka: true
+    - id: '17992'
+      num: '20'
       name: МАКСАКОВСКИЙ Иван Иванович
-    - num: '21'
+      spravka: true
+    - id: '17993'
+      num: '21'
       name: МАРГОЛИН Иосиф Абрамович
+      spravka: true
   - page:
       pageid: '1401'
       tom: '5'
@@ -94,30 +135,54 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-277.jpg
     persons:
-    - num: '22'
+    - id: '17994'
+      num: '22'
       name: ОБЛОМОВ Иван Максимович
-    - num: '23'
+      spravka: true
+    - id: '17995'
+      num: '23'
       name: ПАВЛОВ Иван Гаврилович
-    - num: '24'
+      spravka: true
+    - id: '17996'
+      num: '24'
       name: ПОРХАЧЕВ Дмитрий Васильевич
-    - num: '25'
+      spravka: true
+    - id: '17997'
+      num: '25'
       name: ПРЕОБРАЖЕНСКИЙ Алексей Иванович
-    - num: '26'
+      spravka: true
+    - id: '17998'
+      num: '26'
       name: РЕПИН Михаил Иванович
-    - num: '27'
+      spravka: true
+    - id: '17999'
+      num: '27'
       name: САВЕЛЬЕВ Михаил Васильевич
-    - num: '28'
+      spravka: true
+    - id: '18000'
+      num: '28'
       name: САМОЙЛОВ Дмитрий Иванович
-    - num: '29'
+      spravka: true
+    - id: '18001'
+      num: '29'
       name: СОКОЛОВ Анатолий Иванович
-    - num: '30'
+      spravka: true
+    - id: '18002'
+      num: '30'
       name: СТЕПАНОВ Павел Сергеевич
-    - num: '31'
+      spravka: true
+    - id: '18003'
+      num: '31'
       name: ТЕЛЕХОВ Виктор Сергеевич
-    - num: '32'
+      spravka: true
+    - id: '18004'
+      num: '32'
       name: ФИЛАТОВ Николай Ильич
-    - num: '33'
+      spravka: true
+    - id: '18005'
+      num: '33'
       name: ШЛЫКОВ Иван Александрович
+      spravka: true
   - page:
       pageid: '1402'
       tom: '5'
@@ -134,14 +199,22 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-278.jpg
     persons:
-    - num: '1'
+    - id: '18006'
+      num: '1'
       name: НИКИТИН Сергей Васильевич
-    - num: '2'
+      spravka: true
+    - id: '18007'
+      num: '2'
       name: СМИРНОВ Константин Алексеевич
-    - num: '3'
+      spravka: true
+    - id: '18008'
+      num: '3'
       name: СОЛОВЬЕВА Елена Николаевна
-    - num: '4'
+      spravka: true
+    - id: '18009'
+      num: '4'
       name: ЩУКИН Николай Петрович
+      spravka: true
 - title: Список от 13 декабря 1937г. [Крымская АССР]
   sublisttitle: Крымская АССР
   pages:
@@ -161,39 +234,70 @@ sublists:
       pometa: '0'
     page_image: v05/17-171-413-279.jpg
     persons:
-    - num: '1'
+    - id: '18010'
+      num: '1'
       name: ГЛОЗМАН Наум Рувимович
-    - num: '2'
+      spravka: true
+    - id: '18011'
+      num: '2'
       name: ГНЕВШЕВ Николай Иванович
-    - num: '3'
+      spravka: true
+    - id: '18012'
+      num: '3'
       name: ГОЛЬДБЕРГ Александр Исаевич
-    - num: '4'
+      spravka: true
+    - id: '18013'
+      num: '4'
       name: КОЗЛОВСКИЙ Антоний Иосифович
-    - num: '5'
+      spravka: true
+    - id: '18014'
+      num: '5'
       name: КОСМАЧЕВ Исай Федорович
-    - num: '6'
+      spravka: true
+    - id: '18015'
+      num: '6'
       name: МАКАРЬЕВСКИЙ Петр Алексеевич
-    - num: '7'
+      spravka: true
+    - id: '18016'
+      num: '7'
       name: ПЕРЧУК Александр Львович
-    - num: '8'
+      spravka: true
+    - id: '18017'
+      num: '8'
       name: ПЕТРОВ Борис Сергеевич
-    - num: '9'
+    - id: '18018'
+      num: '9'
       name: ПЕТРОВ Павел Евсеевич
-    - num: '10'
+      spravka: true
+    - id: '18019'
+      num: '10'
       name: ПЛОТКИН Самарий Львович
-    - num: '11'
+      spravka: true
+    - id: '18020'
+      num: '11'
       name: СВАРИК Евгений Антонович
-    - num: '12'
+    - id: '18021'
+      num: '12'
       name: СМИРНОВ Степан Георгиевич
-    - num: '13'
+    - id: '18022'
+      num: '13'
       name: СУСЛОВ Анатолий Александрович
-    - num: '14'
+      spravka: true
+    - id: '18023'
+      num: '14'
       name: ТИХАНОВ Федор Семенович
-    - num: '15'
+    - id: '18024'
+      num: '15'
       name: ФАБЕЛЬ Александр Петрович
-    - num: '16'
+      spravka: true
+    - id: '18025'
+      num: '16'
       name: ФЛИГЕЛЬМАН Михаил Абрамович
-    - num: '17'
+      spravka: true
+    - id: '18026'
+      num: '17'
       name: ЯГУНОВ Иван Алексеевич
-    - num: '18'
+      spravka: true
+    - id: '18027'
+      num: '18'
       name: ЯКОВЛЕВ Борис Николаевич
