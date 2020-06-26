@@ -2,6 +2,7 @@ import os
 import os.path
 import csv
 import json
+from datetime import datetime
 # https://github.com/wimglenn/oyaml
 import oyaml as yaml
 #import yaml
@@ -134,5 +135,7 @@ def clean_date(s):
 
 def convert_date(s):
     s = clean_date(s)
-    # TODO: convert dates to DD.MM.YYYY format
+    if s:
+        d = datetime.strptime(s, "%Y-%m-%d")
+        s = d.strftime("%d.%m.%Y")
     return s

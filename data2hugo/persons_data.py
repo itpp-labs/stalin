@@ -24,8 +24,8 @@ def main():
 
     def fond7(p):
         res = {
-            "deathdate": convert_date(p["deathdate"]),
-            "sessiondate": convert_date(p["sessiondate"]),
+            "deathdate": clean_date(p["deathdate"]),
+            "sessiondate": clean_date(p["sessiondate"]),
             "primsud": p["primsud"],
             "primtext": prim_by_person_id.get(p["personid"], ""),
         }
@@ -36,10 +36,10 @@ def main():
             elif res["primsud"]:
                 text_lines.append("%s" % res["primsud"])
             elif res["sessiondate"]:
-                text_lines.append("Дата сессии ВК ВС: %s" % res["sessiondate"])
+                text_lines.append("Дата сессии ВК ВС: %s" % convert_date(res["sessiondate"]))
 
             if res["deathdate"]:
-                text_lines.append("Дата расстрела: %s" % res["deathdate"])
+                text_lines.append("Дата расстрела: %s" % convert_date(res["deathdate"]))
         res["text_lines"] = text_lines
         return res
 

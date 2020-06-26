@@ -27,6 +27,12 @@
 
         <p id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></p>
 
+        {{ if $data.fond7.text_lines }}
+        <h1 id="7fond">7-й фонд ЦА ФСБ</h1>
+        {{ range $data.fond7.text_lines }}
+           <p>{{ . }}</p>
+        {{ end }}
+        {{ end }}
 
         {{ if $data.gb_spravka.html }}
         <h1 id="gb">Версия следствия</h1>
@@ -36,7 +42,7 @@
         <img src="/{{ .picture }}"/>
         {{ end }}
 
-        <h1>Списки</h1>
+        <h1 id="spiski">Списки</h1>
         {{ range $data.lists }}
             <p><a href="{{ .url }}">{{ .title }}</a></p>
         {{ end }}
