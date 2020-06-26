@@ -92,7 +92,11 @@ def main():
                 "html": gb_spravka_html,
             },
         }
-        data = extend_person(data, p)
+        data = extend(data,
+            striked=any(pp["striked"] == "1" for pp in persons_by_headperson[p["personid"]]),
+            underlined=any(pp["underlined"] == "1" for pp in persons_by_headperson[p["personid"]]),
+            pometa=any(pp["pometa"] == "1" for pp in persons_by_headperson[p["personid"]])
+        )
 
         # data file
         yaml_writer(

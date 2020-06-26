@@ -96,7 +96,6 @@ def main():
                                 "num": p["nomer"],
                                 "name": p["nameshow1"],
                             },
-                            p,
                             striked=p["striked"] == "1",
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
