@@ -1,7 +1,7 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 <div class="container">
-    <h2 id="person_name" class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h2>
+    <h2 id="spravka" class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h2>
     <div class="content">
 
         {{ $data := index .Site.Data.persons .File.BaseFileName }}
@@ -57,7 +57,7 @@
 
 <script type="text/javascript">
 var ctrlKey;
- $('#person_name').on('dblclick', function(){
+ $('#spravka').on('dblclick', function(){
     if (ctrlKey){
         $('#edit_button').show()
     }

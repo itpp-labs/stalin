@@ -5,7 +5,7 @@ p:target {
 div:target {
     box-shadow: 5px 5px 2px;
 }
-.person.striked {
+.person.striked>.num-name {
     text-decoration: line-through;
 }
 .person.underlined {

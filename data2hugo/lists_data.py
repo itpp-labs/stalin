@@ -1,4 +1,5 @@
 from common import *
+import os.path
 
 def main():
     persons_by_sublist = x2many(
@@ -59,6 +60,13 @@ def main():
                 res[key[4:]] = True
         return res
 
+    person2gb_spravka = {}
+    for p in csv_reader(PERSONS_CSV):
+        if p["personid"] != p["headperson"]:
+            # it's a technical record for a person from another record
+            continue
+        person2gb_spravka[p["personid"]] = p.get("spravkafile") and p.get("spravkafile") != "NULL"
+
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
@@ -82,10 +90,20 @@ def main():
                     "pages": [{
                         "page": page,
                         "page_image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
-                        "persons": [extend_person({
-                            "num": p["nomer"],
-                            "name": p["nameshow1"],
-                        }, p, pometa_text=person2pometa_text(p)) for p in persons]
+                        "persons": [extend(
+                            {
+                                "id": p["headperson"],
+                                "num": p["nomer"],
+                                "name": p["nameshow1"],
+                            },
+                            p,
+                            striked=p["striked"] == "1",
+                            underlined=p["underlined"] == "1",
+                            pometa_text=person2pometa_text(p),
+                            doublesexists=p["doublesexists"] == "1",
+                            gb_spravka=person2gb_spravka[p["headperson"]],
+                            spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),
+                        ) for p in persons]
                     } for page, persons in pages_and_persons_by_sublist.get(subl["sublistid"], [])],
                 } for subl in sublists_by_list.get(lst["listid"], [])
             ]
