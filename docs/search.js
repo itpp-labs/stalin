@@ -374,7 +374,7 @@ $(document).ready(function(){
             }
             var gb_spravka_link = "";
             if (this._source.gb_spravka_preview){
-                gb_spravka_link = '<a href="/persons/{0}#gb"><i class="fas fa-id-card"></i></a><br/>'.format(this._id);
+                gb_spravka_link = '<a href="/persons/{0}#gb" title="Имеется версия следствия"><i class="fas fa-id-card"></i></a><br/>'.format(this._id);
             }
             var spiski_data = JSON.parse(this._source.lists);
             var spiski = "";
@@ -426,6 +426,7 @@ $(document).ready(function(){
         $("#more").addClass("is-hidden");
     }
     function empty_results(){
+        clear_results();
         $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
     }
     function error_on_search(data){
