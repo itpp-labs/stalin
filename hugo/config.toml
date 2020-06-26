@@ -9,8 +9,8 @@ theme = "charaka"
     url = "http://api.odoo-source.com:9200/"
 
 [params.spravki]
-    edit_url = "https://github.com/itpp-labs/stalin/edit/personal-page/hugo/data/spravki/{FILENAME}.yaml"
-    new_url = "https://github.com/itpp-labs/stalin/new/personal-page/hugo/data/spravki/new?filename={FILENAME}.yaml&value={BODY}"
+    edit_url = "https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/{FILENAME}.yaml"
+    new_url = "https://github.com/itpp-labs/stalin/new/master/hugo/data/spravki/new?filename={FILENAME}.yaml&value={BODY}"
     new_body = """
 - repyear: 19XX
   fio: ФАМИЛИЯ ИМЯ ОТЧЕСТВО
