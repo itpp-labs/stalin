@@ -2,6 +2,7 @@ import os
 import os.path
 import csv
 import json
+from datetime import datetime
 # https://github.com/wimglenn/oyaml
 import oyaml as yaml
 #import yaml
@@ -48,12 +49,10 @@ yaml.add_representer(literal_unicode, literal_unicode_representer)
 
 
 
-def extend_person(data, p, pometa_text=None):
-    for f in ["striked","underlined","pometa"]:
-        if p[f] == "1":
-            data[f] = True
-    if pometa_text:
-        data["pometa_text"] = pometa_text
+def extend(data, **kwargs):
+    for k, v in kwargs.items():
+        if v:
+            data[k] = v
     return data
 
 def file2str(file_name, encoding="cp1251"):
@@ -119,7 +118,6 @@ def sublist2title_full(lst, sublst):
     return "%s - %s" % (sublist2title(lst, sublst), list2title(lst))
 
 def person_list2url(person, lst, sublst):
-    # TODO make sublink to line in page
     # "list_id": pp["listnum"],
     # "sublist_id": pp["asublistid"],
     # "pageintom": pp["pageintom"],
@@ -134,5 +132,7 @@ def clean_date(s):
 
 def convert_date(s):
     s = clean_date(s)
-    # TODO: convert dates to DD.MM.YYYY format
+    if s:
+        d = datetime.strptime(s, "%Y-%m-%d")
+        s = d.strftime("%d.%m.%Y")
     return s
