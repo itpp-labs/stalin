@@ -120,9 +120,15 @@ $(document).ready(function(){
             if (active_fields.indexOf(name) !== -1){
                 if (!$elem.is("select") || $elem.find("option").length > 1) {
                     $elem.removeAttr("disabled");
+                    if ($elem.attr("type") === "checkbox"){
+                        $elem.parent().removeAttr("disabled");
+                    }
                 }
             } else {
                 $elem.attr("disabled", "disabled");
+                if ($elem.attr("type") === "checkbox"){
+                    $elem.parent().attr("disabled", "disabled");
+                }
             }
         });
         make_search();
