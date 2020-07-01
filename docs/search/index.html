@@ -45,16 +45,19 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                <a class="navbar-item" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"><h1 class="title is-3">Сталинские расстрельные списки</h1></a>
             </div>
             <div class="navbar-end">
-                <a href="/search/" class="navbar-item">
-                    <h1 class="title is-3">
+                <div class="navbar-item">
+                    <div class="buttons">
+
+                <a id="nav-search-button" href="/search/" class="button is-link">
                         Поиск
-                    </h1>
                 </a>
-                <a href="/about/" class="navbar-item">
-                    <h1 class="title is-3">
+                <a href="/about/" class="button">
                         О проекте
-                    </h1>
                 </a>
+
+                    </div>
+                </div>
+
             </div>
       </div>
 
@@ -123,30 +126,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                         <div class="control">
                             <input name="global_search" class="input" type="text" placeholder="Например, студент">
                         </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="field is-horizontal">
-                <div class="field-label is-normal">
-                    <label class="label">Дата списка</label>
-                </div>
-                <div class="field-body">
-                    <div class="field">
-                        <p class="control is-expanded has-icons-left">
-                            <input name="date_from" disabled class="input" type="text" placeholder="01.12.1937">
-                            <span class="icon is-small is-left">
-                                <i class="fas fa-calendar"></i>
-                            </span>
-                        </p>
-                    </div>
-                    <div class="field">
-                        <p class="control is-expanded has-icons-left">
-                            <input name="date_to" disabled class="input" type="text" placeholder="31.12.1937">
-                            <span class="icon is-small is-left">
-                                <i class="fas fa-calendar"></i>
-                            </span>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -266,12 +245,36 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
             <div class="field is-horizontal">
                 <div class="field-label is-normal">
+                    <label class="label">Дата списка</label>
+                </div>
+                <div class="field-body">
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_from" disabled class="input" type="text" placeholder="01.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="field">
+                        <p class="control is-expanded has-icons-left">
+                            <input name="date_to" disabled class="input" type="text" placeholder="31.12.1937">
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-calendar"></i>
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
                     <label class="label">Подписи</label>
                 </div>
                 <div class="field-body">
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signstalin" type="checkbox" disabled>
                                 Сталин
                             </label>
@@ -279,7 +282,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signmolotov" type="checkbox" disabled>
                                 Молотов
                             </label>
@@ -287,7 +290,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signjdanov" type="checkbox" disabled>
                                 Жданов
                             </label>
@@ -295,7 +298,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signkaganovic" type="checkbox" disabled>
                                 Каганович
                             </label>
@@ -303,7 +306,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signvoroshilov" type="checkbox" disabled>
                                 Ворошилов
                             </label>
@@ -311,7 +314,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signmikoyan" type="checkbox" disabled>
                                 Микоян
                             </label>
@@ -319,7 +322,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signejov" type="checkbox" disabled>
                                 Ежов
                             </label>
@@ -327,7 +330,7 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
                     </div>
                     <div class="field">
                         <p class="control is-expanded">
-                            <label class="checkbox">
+                            <label class="checkbox" disabled>
                                 <input name="signkosior" type="checkbox" disabled>
                                 Косиор
                             </label>
@@ -351,9 +354,15 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
     </main>
     
-<section class="section">
-  <div class="container has-text-centered">
-    <p></p>
+<section class="section section-footer">
+    <div class="container has-text-centered">
+    <p>1989-2020 &copy; Международный Мемориал.<br/>
+При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
+<br/>
+4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
+<br/>
+Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
+</p>
   </div>
 </section>
 <script>
