@@ -43,6 +43,7 @@
 
       <div class="tab-content">
           <div id="page-{{ $pageintom }}" data-content="page{{ $pageid }}-text">
+              <div class="has-text-right is-size-2"><span>{{ $pageintom }}<span></div>
 
               {{ range .persons }}
               <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
