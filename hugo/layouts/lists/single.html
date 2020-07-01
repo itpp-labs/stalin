@@ -27,23 +27,9 @@
 
   <div id="page{{ $pageid }}">
 
+          <div class="text-image-switcher has-text-right is-size-2"><span title="Расшифровка/Фотография" class="js-element">{{ $pageintom }}<span></div>
 
-      <div class="tabs is-toggle is-fullwidth">
-          <ul>
-              <li class="is-active" data-tab="page{{ $pageid }}-text">
-                  <a>Расшифровка</a>
-              </li>
-              <li data-tab="page{{ $pageid }}-image">
-                  <a>
-                      Фотография
-                  </a>
-              </li>
-          </ul>
-      </div>
-
-      <div class="tab-content">
-          <div id="page-{{ $pageintom }}" data-content="page{{ $pageid }}-text">
-              <div class="has-text-right is-size-2"><span>{{ $pageintom }}<span></div>
+          <div id="page-{{ $pageintom }}" class="page-text" data-content="page{{ $pageid }}-text">
 
               {{ range .persons }}
               <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
@@ -55,10 +41,9 @@
               {{ end }}
 
           </div>
-          <div class="is-hidden" data-content="page{{ $pageid }}-image">
+          <div class="is-hidden page-image" data-content="page{{ $pageid }}-image">
               <img src="/disk/pictures/{{ .page_image }}"/>
           </div>
-      </div>
    </div>
   {{ end }}
 
@@ -69,15 +54,9 @@
 
 <script type="text/javascript">
  $(document).ready(function() {
-     $('.tabs li').on('click', function() {
-         var tab = $(this).data('tab');
-
-         $(this).parent().find('li').removeClass('is-active');
-         $(this).addClass('is-active');
-
-         $page = $(this).parent().parent().parent();
-         $page.find('.tab-content > div').addClass('is-hidden');
-         $page.find('div[data-content="' + tab + '"]').removeClass('is-hidden');
+     $('.text-image-switcher').on('click', function() {
+         $page = $(this).parent();
+         $page.find('.page-image, .page-text').toggleClass('is-hidden');
      });
  });
 
