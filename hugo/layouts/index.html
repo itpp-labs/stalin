@@ -12,7 +12,9 @@
       <div class="ml-3">
       {{ range .sub }}
           {{ if .sub }}
-              <p data-action="collapse" data-target="#{{ .id }}"> {{ .name }} </p>
+              <p data-action="collapse" data-target="#{{ .id }}">
+                  <span  class="js-element"> {{ .name }} </span>
+              </p>
               <div class="ml-3 is-collapsible is-hidden" id="{{ .id }}">
               {{ range .sub }}
                   <p>

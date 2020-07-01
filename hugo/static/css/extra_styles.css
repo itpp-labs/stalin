@@ -15,6 +15,11 @@ div:target {
     font-style: italic;
 }
 
+.js-element {
+    border-bottom: 1px dashed #760411;
+    cursor: pointer;
+}
+
 
 /* Make tabs responsive
 */
