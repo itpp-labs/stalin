@@ -104,6 +104,12 @@ def person2name(record):
     return 'p%s' % record['personid']
 
 def list2title(lst):
+    res = lst["listtitle"]
+    if lst["datetext"] and lst["datetext"] != "NULL":
+        res += " // %s" % lst["datetext"]
+    return res
+
+def list2archive(lst):
     delo = ""
     if lst["ed_hr"]:
         delo = ", дело %s" % lst["ed_hr"]

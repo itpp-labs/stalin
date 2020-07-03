@@ -71,6 +71,7 @@ def main():
         listtitle = lst["listtitle"]
         data = {
             "title": list2title(lst),
+            "archive": list2archive(lst),
             "date": clean_date(lst["adate"]),
             "delo": {
                 "name": lst["deloname"],
