@@ -17,8 +17,6 @@
 
         {{ $edit_url = replace $edit_url "{FILENAME}" .File.BaseFileName }}
 
-        <p id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></p>
-
         <div class="columns">
             <div class="column is-4">
                 {{ if $data.fond7.text_lines }}
@@ -40,11 +38,14 @@
 
         {{ range $spravki }}
         <p>
+            <b>{{ .fio }}</b><br/>
             {{ replace .spravka "\n" "<br/>" | safeHTML }}
             <br/>
             <b>Источник:</b> <em>{{ .source }}</em>
         </p>
         {{ end }}
+        <p id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></p>
+
 
 
         {{ if $data.gb_spravka.html }}
