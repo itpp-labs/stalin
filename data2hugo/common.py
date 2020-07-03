@@ -124,7 +124,8 @@ def sublist2title(lst, sublst):
         title=sublst["sublisttitle"],
     )
 def sublist2title_full(lst, sublst):
-    return "%s - %s" % (sublist2title(lst, sublst), list2title(lst))
+    archive = list2archive(lst)
+    return "%s - %s, лист %s" % (sublist2title(lst, sublst), archive["ref"], archive["page1"])
 
 def person_list2url(person, lst, sublst):
     # "list_id": pp["listnum"],
