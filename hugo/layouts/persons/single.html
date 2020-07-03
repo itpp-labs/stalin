@@ -7,14 +7,6 @@
         {{ $data := index .Site.Data.persons .File.BaseFileName }}
         {{ $spravki := index .Site.Data.spravki .File.BaseFileName }}
 
-        {{ range $spravki }}
-        <p>
-        {{ replace .spravka "\n" "<br/>" | safeHTML }}
-        <br/>
-        <b>Источник:</b> <em>{{ .source }}</em>
-        </p>
-        {{ end }}
-
         {{ $edit_url := .Site.Params.spravki.edit_url }}
         {{ $edit_title := "Редактировать справки" }}
         {{ if not $spravki }}
@@ -25,14 +17,36 @@
 
         {{ $edit_url = replace $edit_url "{FILENAME}" .File.BaseFileName }}
 
+        <div class="columns">
+            <div class="column is-4">
+                {{ if $data.fond7.text_lines }}
+                <h1 id="7fond">7-й фонд ЦА ФСБ</h1>
+                {{ range $data.fond7.text_lines }}
+                   <p>{{ . }}</p>
+                {{ end }}
+                {{ end }}
+            </div>
+            <div class="column">
+                <h1 id="spiski">Списки</h1>
+                {{ range $data.lists }}
+                <p><a href="{{ .url }}">{{ .title }}</a></p>
+                {{ end }}
+            </div>
+        </div>
+
+
+
+        {{ range $spravki }}
+        <p>
+            <b>{{ .fio }}</b><br/>
+            {{ replace .spravka "\n" "<br/>" | safeHTML }}
+            <br/>
+            <b>Источник:</b> <em>{{ .source }}</em>
+        </p>
+        {{ end }}
         <p id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></p>
 
-        {{ if $data.fond7.text_lines }}
-        <h1 id="7fond">7-й фонд ЦА ФСБ</h1>
-        {{ range $data.fond7.text_lines }}
-           <p>{{ . }}</p>
-        {{ end }}
-        {{ end }}
+
 
         {{ if $data.gb_spravka.html }}
         <h1 id="gb">Версия следствия</h1>
@@ -42,12 +56,9 @@
         <img src="/{{ .picture }}"/>
         {{ end }}
 
-        <h1 id="spiski">Списки</h1>
-        {{ range $data.lists }}
-            <p><a href="{{ .url }}">{{ .title }}</a></p>
-        {{ end }}
 
-        </div>
+
+     </div>
 </div>
 
 

@@ -104,10 +104,19 @@ def person2name(record):
     return 'p%s' % record['personid']
 
 def list2title(lst):
+    res = lst["listtitle"]
+    if lst["datetext"] and lst["datetext"] != "NULL":
+        res += " // %s" % lst["datetext"]
+    return res
+
+def list2archive(lst):
     delo = ""
     if lst["ed_hr"]:
         delo = ", дело %s" % lst["ed_hr"]
-    return "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}, лист {page1}".format(**lst, delo=delo)
+    return {
+        "ref": "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}".format(**lst, delo=delo),
+        "page1": lst["page1"]
+    }
 
 def sublist2title(lst, sublst):
     return "Список от {date} [{title}]".format(
@@ -115,7 +124,8 @@ def sublist2title(lst, sublst):
         title=sublst["sublisttitle"],
     )
 def sublist2title_full(lst, sublst):
-    return "%s - %s" % (sublist2title(lst, sublst), list2title(lst))
+    archive = list2archive(lst)
+    return "%s - %s, лист %s" % (sublist2title(lst, sublst), archive["ref"], archive["page1"])
 
 def person_list2url(person, lst, sublst):
     # "list_id": pp["listnum"],

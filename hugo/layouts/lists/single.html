@@ -1,10 +1,10 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
+{{ $data := index .Site.Data.lists .File.BaseFileName }}
 <div class="container">
-    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h2>
+    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ $data.archive.ref }}, лист {{ $data.archive.page1 }}</h2>
         <div class="content">
 
-{{ $data := index .Site.Data.lists .File.BaseFileName }}
 
 <div class="pages">
 {{ range $data.pages }}
@@ -25,11 +25,15 @@
     {{ $pageid := .page.pageid }}
     {{ $pageintom := .page.pageintom }}
 
-  <div id="page{{ $pageid }}">
+  <div id="page{{ $pageid }}" class="mt-5 is-clearfix">
 
-          <div class="text-image-switcher has-text-right is-size-2"><span title="Расшифровка/Фотография" class="js-element">{{ $pageintom }}<span></div>
+          <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}<span></h4>
 
-          <div id="page-{{ $pageintom }}" class="page-text" data-content="page{{ $pageid }}-text">
+          <div class="page-image page-image-preview is-pulled-right">
+              <img src="/disk/pictures/{{ .page_image }}"/>
+          </div>
+
+          <div id="page-{{ $pageintom }}" class="page-text">
 
               {{ range .persons }}
               <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
@@ -41,7 +45,7 @@
               {{ end }}
 
           </div>
-          <div class="is-hidden page-image" data-content="page{{ $pageid }}-image">
+          <div class="is-hidden page-image">
               <img src="/disk/pictures/{{ .page_image }}"/>
           </div>
    </div>
@@ -54,7 +58,7 @@
 
 <script type="text/javascript">
  $(document).ready(function() {
-     $('.text-image-switcher').on('click', function() {
+     $('.page-image').on('click', function() {
          $page = $(this).parent();
          $page.find('.page-image, .page-text').toggleClass('is-hidden');
      });
