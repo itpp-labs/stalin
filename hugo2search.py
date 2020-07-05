@@ -34,7 +34,7 @@ def persons_index():
                 pass
 
             if spravki:
-                spravka_preview = spravki[0]["spravka"][:500].replace("\n", " ")
+                spravka_preview = spravki[0]["spravka"][:500].replace("\\t", " ").replace("\n", " ")
             data = {
                 "firstname": p["name"]["firstname"],
                 "midname": p["name"]["midname"],
@@ -52,7 +52,7 @@ def persons_index():
                 "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
                 "lists": json_dumps(p["lists"]),
-                "spravka": json_dumps([s["spravka"].replace("\n", " ") for s in spravki]),
+                "spravka": json_dumps([s["spravka"].replace("\t", " ").replace("\n", " ") for s in spravki]),
                 "gb_spravka": clean_html(p["gb_spravka"]["html"]),
             }
             content = data2index("persons", doc_id, data)
@@ -64,7 +64,19 @@ def lists_index():
         for doc_id, r in yaml_reader_folder(os.path.join(HUGO_DATA_DIR, "lists")):
             data = {
                 "date": r["date"],
-                "title": r["title"],
+                "title": r["title"],  #globalsearch
+                "deloname": r["delo"]["name"],  # globalsearch
+                "delonum": r["delo"]["num"],  # globalsearch
+                "tom": r["tom"],
+                "has_striked": any_person(r, lambda p: p.get("striked")),
+                "has_underlined": any_person(r, lambda p: p.get("underlined")),
+                "has_pometa": any_person(r, lambda p: p.get("pometa_text")),
+                "has_kat1": any_sublist(r, lambda subl: subl["kat1"]),
+                "has_kat2": any_sublist(r, lambda subl: subl["kat2"]),
+                "has_kat3": any_sublist(r, lambda subl: subl["kat3"]),
+                "geo_ids": aggregate_sublists(r, lambda subl: subl["geo_ids"]),
+                "geosub_ids": aggregate_sublists(r, lambda subl: subl["geosub_ids"]),
+                "group_ids": aggregate_sublists(r, lambda subl: subl["group_ids"]),
                 "signstalin": r["signs"].get("stalin", False),
                 "signmolotov": r["signs"].get("molotov", False),
                 "signjdanov": r["signs"].get("jdanov", False),
@@ -76,6 +88,29 @@ def lists_index():
             }
             content = data2index("lists", doc_id, data)
             index_file.write(content)
+
+def aggregate_sublists(list_data, subl2value):
+    res = []
+    for subl in list_data["sublists"]:
+        res += subl2value(subl)
+    return res
+
+def any_person(list_data, check_person):
+    def check(subl):
+        return any(
+            any(
+                check_person(p)
+                for p in page["persons"]
+            )
+            for page in subl["pages"]
+        )
+    return any_sublist(list_data, check)
+
+def any_sublist(list_data, check):
+    return any(
+        check(subl)
+        for subl in list_data["sublists"]
+    )
 
 def data2index(index_name, doc_id, data):
     # see https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html#docs-bulk-api-desc

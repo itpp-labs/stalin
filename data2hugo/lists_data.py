@@ -2,6 +2,7 @@ from common import *
 import os.path
 
 def main():
+    title2geosub = yaml_reader(TITLE2GEOSUB_YAML)
     persons_by_sublist = x2many(
         lambda r: r["asublistid"],
         csv_reader(PERSONS_CSV)
@@ -64,8 +65,18 @@ def main():
     for p in csv_reader(PERSONS_CSV):
         if p["personid"] != p["headperson"]:
             # it's a technical record for a person from another record
+            # FIXME: this should not be skipped
             continue
         person2gb_spravka[p["personid"]] = p.get("spravkafile") and p.get("spravkafile") != "NULL"
+
+    def subl2person_values(subl, p2value):
+        sublistid = subl["sublistid"]
+        persons = persons_by_sublist.get(sublistid, [])
+        values = set()
+        for p in persons:
+            values.add(p2value(p))
+
+        return list(values)
 
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
@@ -73,6 +84,7 @@ def main():
             "title": list2title(lst),
             "archive": list2archive(lst),
             "date": clean_date(lst["adate"]),
+            "tom": int(lst["tom"]),
             "delo": {
                 "name": lst["deloname"],
                 "num": lst["delonum"],
@@ -84,10 +96,16 @@ def main():
                 } for page in pages_by_list[lst["listid"]]
             ],
             "sublists": [
-                # TODO: debug and make Text\Photo switcher
                 {
                     "title": sublist2title(lst, subl),
+                    "listtitle": lst["listtitle"],
                     "sublisttitle": subl["sublisttitle"],
+                    "kat1": subl["kat1"] == "1",
+                    "kat2": subl["kat2"] == "1",
+                    "kat3": subl["kat3"] == "1",
+                    "geo_ids": subl2person_values(subl, lambda p: int(p["ageographyid"])),
+                    "geosub_ids": subl2person_values(subl, lambda p: int(title2geosub.get(p["atitlesid"], "0"))),
+                    "group_ids": subl2person_values(subl, lambda p: int(p["agroupid"])),
                     "pages": [{
                         "page": page,
                         "page_image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
