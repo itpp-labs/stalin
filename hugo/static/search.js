@@ -266,10 +266,13 @@ $(document).ready(function(){
 
         });
         if (! $.isEmptyObject(date_range)){
+            var date_field;
+            if (searchPersons)
+                date_field = "lists_date";
+            else
+                date_field = "date";
             query_bool.must.push({
-                "range": {
-                    "date": date_range
-                }
+                "range": get_obj(date_field, date_range)
             });
         }
 
@@ -333,12 +336,14 @@ $(document).ready(function(){
         if (index_name == "persons"){
             data.size = offset ? SEARCH_SIZE : SEARCH_SIZE_FIRST;
             data.from = offset;
+            data._source = {
+                "excludes": ["spravka", "gb_spravka", "sign*"]
+            };
         } else {
             data.size = 1000;
         }
 
 
-        // TODO: don't load unused fields
         return $.ajax({
             method: "POST",
             url: ES_URL + index_name + "/_search?pretty=true",

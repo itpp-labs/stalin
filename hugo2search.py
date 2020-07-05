@@ -17,7 +17,7 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 def main():
     persons_index()
-    lists_index()
+#    lists_index()
 
 def persons_index():
     rm_file(PERSONS_INDEX)
@@ -48,6 +48,15 @@ def persons_index():
                 "geo": p.get("geo_id"),
                 "geosub": p.get("geosub_id"),
                 "group": p.get("group_id"),
+                "lists_date": aggregate_values(p["lists"], lambda r: r["date"]),
+                "signstalin": p2sign(p, "stalin"),
+                "signmolotov": p2sign(p, "molotov"),
+                "signjdanov": p2sign(p, "jdanov"),
+                "signkaganovic": p2sign(p, "kaganovic"),
+                "signvoroshilov": p2sign(p, "voroshilov"),
+                "signmikoyan": p2sign(p, "mikoyan"),
+                "signejov": p2sign(p, "ejov"),
+                "signkosior": p2sign(p, "kosior"),
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
                 "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
                 "spravka_preview": spravka_preview,
@@ -95,6 +104,12 @@ def aggregate_sublists(list_data, subl2value):
         res += subl2value(subl)
     return res
 
+def aggregate_values(array, r2value):
+    res = []
+    for r in array:
+        res.append(r2value(r))
+    return res
+
 def any_person(list_data, check_person):
     def check(subl):
         return any(
@@ -111,6 +126,12 @@ def any_sublist(list_data, check):
         check(subl)
         for subl in list_data["sublists"]
     )
+
+def any_value(array, check):
+    return any(check(r) for r in array)
+
+def p2sign(p, sign_name):
+    return any_value(p["lists"], lambda r: r["signs"].get(sign_name))
 
 def data2index(index_name, doc_id, data):
     # see https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html#docs-bulk-api-desc

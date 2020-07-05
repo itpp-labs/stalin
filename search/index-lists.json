@@ -1,13 +1,8 @@
 {
 	  "mappings": {
 	      "properties": {
-	          "gb_spravka_preview": {
-	              "type": "text",
-	              "index": false
-	          },
-	          "spravka_preview": {
-	              "type": "text",
-	              "index": false
+	          "date": {
+	              "type": "date"
 	          }
 	      }
 	  }

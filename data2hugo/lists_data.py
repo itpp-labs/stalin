@@ -54,13 +54,6 @@ def main():
         pometa_id = other["pometa"]
         return id2pometa_text.get(pometa_id)
 
-    def get_signs(lst):
-        res = {}
-        for key in ["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"]:
-            if lst[key] == "1":
-                res[key[4:]] = True
-        return res
-
     person2gb_spravka = {}
     for p in csv_reader(PERSONS_CSV):
         if p["personid"] != p["headperson"]:
