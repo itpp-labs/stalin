@@ -133,13 +133,6 @@ $(document).ready(function(){
         clearTimeout(searchTimer);
         searchTimer = null;
     }
-    function make_search(offset){
-        clear_search_timer();
-        if (searchPersons)
-            search_persons(offset || 0);
-        else
-            search_lists();
-    }
     $("#more").on("click", function(event){
         // hide to avoid another click before data is loaded
         $(this).addClass("is-hidden");
@@ -175,12 +168,15 @@ $(document).ready(function(){
     var search_offset;
     var SEARCH_SIZE_FIRST = 30;
     var SEARCH_SIZE = 1000;
-    function search_persons(offset){
+    function make_search(offset){
+        clear_search_timer();
+        offset = offset || 0;
         // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
         var query_bool = {
             "must": [],
             "should": []
         };
+        var date_range = {};
         $.each($("#search_form").serializeArray(), function(){
             var key = this.name;
             var value = this.value;
@@ -191,11 +187,14 @@ $(document).ready(function(){
                 if (!value)
                     return;
             }
-            if (["firstname", "midname", "lastname"].indexOf(key) !== -1) {
+            if (searchPersons && ["firstname", "midname", "lastname"].indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, value)
                 });
             } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
+                if (!searchPersons){
+                    key = "has_" + key;
+                }
                 query_bool.must.push({
                     "term": get_obj(key, {"value": true})
                 });
@@ -211,11 +210,23 @@ $(document).ready(function(){
                         }
                     });
                 }
-            } else if (["tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1) {
+            } else if (searchPersons && ["tom", "geo", "geosub", "group", "kat"].indexOf(key) !== -1
+                       || key == "tom") {
                 query_bool.must.push({
                     "term": get_obj(key, {"value": value})
                 });
-            } else if (key == "global_search") {
+            } else if (!searchPersons && key == "kat") {
+                key = "has_kat" + value;
+                value = true;
+                query_bool.must.push({
+                    "term": get_obj(key, {"value": value})
+                });
+            } else if (!searchPersons && ["geo", "geosub", "group"].indexOf(key) !== -1) {
+                key = key + "_ids";
+                query_bool.must.push({
+                    "match": get_obj(key, value)
+                });
+            } else if (searchPersons && key == "global_search") {
                 $.each(["firstname", "midname", "lastname"], function(){
                     query_bool.should.push({
                         "match": get_obj(this, value)
@@ -226,47 +237,13 @@ $(document).ready(function(){
                         "match_phrase": get_obj(this, value)
                     });
                 });
-            }
-        });
-
-        search("persons", query_bool, offset).done(function( data ) {
-            render_persons(data.hits.hits, offset);
-            var fetched = data.hits.hits.length;
-            // total includes offset
-            var total = data.hits.total.value;
-            if (!offset) {
-                // it's first request
-                render_stats(data.hits.total);
-            }
-            offset += fetched;
-            search_offset = offset;
-            if (search_offset < total) {
-                $("#more").removeClass("is-hidden")
-            }
-        }).fail(function( data ) {
-            if (data){
-                console.log("Error", data);
-                error_on_search(data);
-            }else {
-                // empty request
-                clear_results();
-            }
-        });
-    }
-
-    function search_lists(){
-        // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
-        var query_bool = {
-            "must": [],
-            "should": []
-        };
-        var date_range = {};
-        $.each($("#search_form").serializeArray(), function(){
-            var key = this.name;
-            var value = this.value;
-            if (!value)
-                return;
-            if (["date_from", "date_to"].indexOf(key) !== -1) {
+            } else if (!searchPersons && key == "global_search") {
+                $.each(["title", "deloname", "delonum"], function(){
+                    query_bool.should.push({
+                        "match": get_obj(this, value)
+                    });
+                });
+            } else if (["date_from", "date_to"].indexOf(key) !== -1) {
                 var date = value.split(".");
                 if (date.length != 3)
                     return;
@@ -284,22 +261,51 @@ $(document).ready(function(){
                     "match": get_obj(key, true)
                 });
             }
+
+
+
         });
         if (! $.isEmptyObject(date_range)){
+            var date_field;
+            if (searchPersons)
+                date_field = "lists_date";
+            else
+                date_field = "date";
             query_bool.must.push({
-                "range": {
-                    "date": date_range
-                }
+                "range": get_obj(date_field, date_range)
             });
         }
 
-        search("lists", query_bool).done(function( data ) {
-            render_lists(data.hits.hits);
-            render_stats(data.hits.total);
-
-        }).fail(function( data ) {
-            console.log("Error", data);
-            if (!data){
+        var def;
+        if (searchPersons){
+            def = search("persons", query_bool, offset).done(function( data ) {
+                render_persons(data.hits.hits, offset);
+                var fetched = data.hits.hits.length;
+                // total includes offset
+                var total = data.hits.total.value;
+                if (!offset) {
+                    // it's first request
+                    render_stats(data.hits.total);
+                }
+                offset += fetched;
+                search_offset = offset;
+                if (search_offset < total) {
+                    $("#more").removeClass("is-hidden");
+                }
+            });
+        } else {
+            def = search("lists", query_bool).done(function( data ) {
+                render_lists(data.hits.hits);
+                render_stats(data.hits.total);
+                $("#more").addClass("is-hidden");
+            });
+        }
+        def.fail(function( data ) {
+            if (data){
+                console.log("Error", data);
+                error_on_search(data);
+            }else {
+                // empty request
                 clear_results();
             }
         });
@@ -330,12 +336,14 @@ $(document).ready(function(){
         if (index_name == "persons"){
             data.size = offset ? SEARCH_SIZE : SEARCH_SIZE_FIRST;
             data.from = offset;
+            data._source = {
+                "excludes": ["spravka", "gb_spravka", "sign*"]
+            };
         } else {
             data.size = 1000;
         }
 
 
-        // TODO: don't load unused fields
         return $.ajax({
             method: "POST",
             url: ES_URL + index_name + "/_search?pretty=true",
@@ -395,7 +403,7 @@ $(document).ready(function(){
         $.each(records, function(){
             $("#results").append(
                 '<p class="mt-3">{0} <a href="/lists/{1}">{2}</a></p>'.format(
-                    this._source.date,
+                    format_date(this._source.date),
                     this._id,
                     this._source.title
                 ));
@@ -418,12 +426,26 @@ $(document).ready(function(){
     }
     function empty_results(){
         clear_results();
-        $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>")
+        $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>");
     }
     function error_on_search(data){
         $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText || ""));
     }
 
+    function format_date(value){
+        if (!value)
+            return '';
+        var date = value.split("-");
+        if (date.length != 3)
+            return value;
+        date = "{0}.{1}.{2}".format(
+            date[2],
+            date[1],
+            date[0]
+        );
+        return date;
+
+    }
 
 
 });
@@ -443,18 +465,19 @@ if (!String.prototype.format) {
     };
 }
 
-window.PERSON_FIELDS = [
-    "firstname", "midname", "lastname",
+window.LIST_FIELDS = [
     "global_search",
     "korpus", "tom",
     "geo", "geosub", "group", "kat",
-    "underlined", "striked", "pometa"
-];
-
-window.LIST_FIELDS = [
+    "underlined", "striked", "pometa",
     "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior",
     "date_from", "date_to"
 ];
+
+window.PERSON_FIELDS = LIST_FIELDS.concat([
+    "firstname", "midname", "lastname"
+]);
+
 
 
 // data/db/tables/korpusa.csv

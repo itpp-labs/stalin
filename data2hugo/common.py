@@ -97,6 +97,14 @@ def x2many(get_id, records):
         d[i].append(r)
     return d
 
+
+def get_signs(lst):
+    res = {}
+    for key in ["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"]:
+        if lst[key] == "1":
+            res[key[4:]] = True
+    return res
+
 def list2name(record):
     return 'list%s' % record['listid']
 
