@@ -17,7 +17,7 @@ MAX_ROWS=int(os.environ.get('MAX_ROWS', 0))
 
 def main():
     persons_index()
-#    lists_index()
+    lists_index()
 
 def persons_index():
     rm_file(PERSONS_INDEX)
