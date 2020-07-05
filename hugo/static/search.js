@@ -11,6 +11,7 @@ $(document).ready(function(){
     });
 
     // korpus, tom
+    $("select[name='korpus'] option").not(":first").remove();
     $.each(KORPUSA, function(id, data){
         if (id == "0")
             return;
@@ -34,11 +35,13 @@ $(document).ready(function(){
     update_tom_options("0");
 
     // geo, geosub, groups
+    $("select[name='geo'] option").not(":first").remove();
     $.each(GEO, function(id, name){
         $("select[name='geo']").append(
             '<option value="{0}">{1}</option>'.format(id, name)
         );
     });
+    $("select[name='group'] option").not(":first").remove();
     $.each(GROUPS, function(id, name){
         $("select[name='group']").append(
             '<option value="{0}">{1}</option>'.format(id, name)
