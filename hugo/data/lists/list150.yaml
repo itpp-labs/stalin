@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '360'
 date: '1937-12-22'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -28,7 +29,17 @@ pages:
 - image: v05/17-171-413-372.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Москва - центр]
+  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
   sublisttitle: Москва - центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1486'
@@ -524,7 +535,17 @@ sublists:
       name: ЦЕЛЬНИКЕР Григорий Моисеевич
       spravka: true
 - title: Список от 22 декабря 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
   sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1491'
@@ -556,7 +577,18 @@ sublists:
       num: '4'
       name: ШТЕРН Ладислав Львович
 - title: Список от 22 декабря 1937г. [Москва. Жел.дор.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
   sublisttitle: Москва. Жел.дор.им.Дзержинского
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 2
+  - 13
   pages:
   - page:
       pageid: '1492'

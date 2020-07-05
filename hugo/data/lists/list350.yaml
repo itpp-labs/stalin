@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '142'
 date: '1938-01-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -20,7 +21,17 @@ pages:
 - image: v06/17-171-414-147.jpg
 sublists:
 - title: Список от 3 января 1938г. [Свердловская область]
+  listtitle: Список лиц - Свердловская,Новосибирская области
   sublisttitle: Свердловская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1649'
@@ -122,7 +133,17 @@ sublists:
       name: ЮРКИН Алексей Дмитриевич
       spravka: true
 - title: Список от 3 января 1938г. [Новосибирская область]
+  listtitle: Список лиц - Свердловская,Новосибирская области
   sublisttitle: Новосибирская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 78
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1651'

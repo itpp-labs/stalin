@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '41'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -26,7 +27,17 @@ pages:
 - image: v08/17-171-416-052.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Грузинская ССР]
+  listtitle: Список лиц - Грузинская ССР
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2296'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '124'
 date: '1937-07-31'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -24,7 +25,17 @@ pages:
 - image: v02/17-171-410-132.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Горьковская область]
+  listtitle: 'Список лиц: Горьковская, Саратовская области'
   sublisttitle: Горьковская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 27
+  geosub_ids:
+  - 16
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '362'
@@ -153,7 +164,18 @@ sublists:
       name: ШМИДТ Яков Савельевич
       spravka: true
 - title: Список от 31 июля 1937 г. [Саратовская область]
+  listtitle: 'Список лиц: Горьковская, Саратовская области'
   sublisttitle: Саратовская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 57
+  geosub_ids:
+  - 14
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '364'

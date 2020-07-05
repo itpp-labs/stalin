@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '102'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -21,7 +22,17 @@ pages:
 - image: v08/17-171-416-108.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Вологодская область]
+  listtitle: Список лиц - Вологодская область
   sublisttitle: Вологодская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 24
+  geosub_ids:
+  - 132
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2357'

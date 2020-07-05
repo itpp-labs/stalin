@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '148'
 date: '1938-01-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -22,7 +23,17 @@ pages:
 - image: v06/17-171-414-154.jpg
 sublists:
 - title: Список от 3 января 1938г. [Свердловская область]
+  listtitle: Список лиц - Свердловская область;Свердловск.ж.д.им.Кагановича
   sublisttitle: Свердловская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1655'
@@ -317,7 +328,17 @@ sublists:
       name: ЩЕДРОВ Иван Васильевич
       spravka: true
 - title: Список от 3 января 1938г. [Свердловск - ж.д. им.Кагановича]
+  listtitle: Список лиц - Свердловская область;Свердловск.ж.д.им.Кагановича
   sublisttitle: Свердловск - ж.д. им.Кагановича
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 100
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1658'

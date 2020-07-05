@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '218'
 date: '1938-02-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -29,7 +30,18 @@ pages:
 - image: v06/17-171-414-232.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '1725'
@@ -598,7 +610,17 @@ sublists:
       num: '3'
       name: МОЙРОВ Лев Васильевич
 - title: Список от 3 февраля 1938г. [Москва-центр (б.сотрудн.НКВД)]
+  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
   sublisttitle: Москва-центр (б.сотрудн.НКВД)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
   pages:
   - page:
       pageid: '1734'
@@ -625,7 +647,17 @@ sublists:
       name: ДОЛИНСКИЙ Семен Моисеевич
       spravka: true
 - title: Список от 3 февраля 1938г. [г.Калуга.Моск.Киев.ж.д.]
+  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
   sublisttitle: г.Калуга.Моск.Киев.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 65
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1736'

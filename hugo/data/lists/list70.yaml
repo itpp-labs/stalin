@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '305'
 date: '1937-08-31'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -35,7 +36,18 @@ pages:
 - image: v02/17-171-410-324.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Москва-Центр]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
   sublisttitle: Москва-Центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '543'
@@ -722,7 +734,18 @@ sublists:
       name: АДЛЕР Валентина Альфредовна
       gb_spravka: true
 - title: Список от 31 августа 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '556'

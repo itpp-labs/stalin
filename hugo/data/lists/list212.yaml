@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '235'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -31,7 +32,19 @@ pages:
 - image: v10/17-171-418-251.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ленинградская область]
+  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
+    ж.д.
   sublisttitle: Ленинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '3092'
@@ -829,7 +842,18 @@ sublists:
       doublesexists: true
       spravka: true
 - title: Список от 12 сентября 1938г. [Гор.Ленинград. Октябрьская ж.д.]
+  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
+    ж.д.
   sublisttitle: Гор.Ленинград. Октябрьская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 158
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3103'
@@ -975,7 +999,18 @@ sublists:
       num: '12'
       name: ЩЕБРОВ Иван Арсеньевич
 - title: Список от 12 сентября 1938г. [Гор.Ленинград. Кировская ж.д.]
+  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
+    ж.д.
   sublisttitle: Гор.Ленинград. Кировская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 159
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3105'

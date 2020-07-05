@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '171'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -19,7 +20,17 @@ pages:
 - image: v05/17-171-413-176.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Чечено-Ингушской АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР, Крымская АССР
   sublisttitle: Чечено-Ингушской АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 69
+  geosub_ids:
+  - 108
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1297'
@@ -151,7 +162,17 @@ sublists:
       num: '32'
       name: ШРЕДЕР Петр Яковлевич
 - title: Список от 7 декабря 1937г. [Крымская АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР, Крымская АССР
   sublisttitle: Крымская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1299'

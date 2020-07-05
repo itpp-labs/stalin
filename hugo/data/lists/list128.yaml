@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '177'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -19,7 +20,17 @@ pages:
 - image: v05/17-171-413-182.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Казахская ССР]
+  listtitle: Список лиц - Казахская ССР
   sublisttitle: Казахская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 6
+  geosub_ids:
+  - 18
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1303'

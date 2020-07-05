@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '65'
 date: '1937-07-22'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -19,7 +20,17 @@ pages:
 - image: v02/17-171-410-069.jpg
 sublists:
 - title: Список от 20 июля 1937 г. [Челябинская обл.]
+  listtitle: 'Список лиц: Челябинская обл.'
   sublisttitle: Челябинская обл.
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '302'

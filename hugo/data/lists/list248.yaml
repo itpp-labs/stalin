@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '234'
 date: '1937-10-21'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -30,7 +31,19 @@ pages:
 - image: v03/17-171-411-248.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Сталинградская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
   sublisttitle: Сталинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 15
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '828'
@@ -153,7 +166,18 @@ sublists:
       name: КРОТТЕР Ганс Иоганович
       gb_spravka: true
 - title: Список от 21 октября 1937г. [Татарская АССР]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
   sublisttitle: Татарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 29
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '837'
@@ -307,7 +331,18 @@ sublists:
       name: ЮДАНОВ Иван Дмитриевич
       spravka: true
 - title: Список от 21 октября 1937г. [Башкирская АССР]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
   sublisttitle: Башкирская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '839'
@@ -329,7 +364,18 @@ sublists:
       num: '1'
       name: МАЛЫШЕВ Дмитрий Алексеевич
 - title: Список от 21 октября 1937г. [Ярославская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
   sublisttitle: Ярославская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '840'

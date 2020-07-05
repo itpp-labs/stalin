@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '48'
 date: '1937-11-22'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -22,7 +23,17 @@ pages:
 - image: v05/17-171-413-055.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Красноярский край]
+  listtitle: Список лиц - Красноярский край; Красноярск. Красноярская ж.д.
   sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1174'
@@ -85,7 +96,17 @@ sublists:
       name: ЩЕРБАКОВ Семен Павлович
       spravka: true
 - title: Список от 22 ноября 1937г. [Красноярск-Красноярская ж.д.]
+  listtitle: Список лиц - Красноярский край; Красноярск. Красноярская ж.д.
   sublisttitle: Красноярск-Красноярская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 98
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1175'

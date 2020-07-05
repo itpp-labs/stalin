@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '1'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -23,7 +24,19 @@ pages:
 - image: v07/17-171-415-009.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 1
+  - 2
   pages:
   - page:
       pageid: '1966'
@@ -358,7 +371,17 @@ sublists:
       name: ТОМСКИЙ-ЕФРЕМОВ Юрий Михайлович
       spravka: true
 - title: Список от 5 марта 1938г. [Москва.ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
   sublisttitle: Москва.ж.д.им.Дзержинского
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1972'

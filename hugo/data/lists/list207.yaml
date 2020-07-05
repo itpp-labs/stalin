@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '193'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -21,7 +22,17 @@ pages:
 - image: v10/17-171-418-200.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ростовская область]
+  listtitle: Список лиц - Ростовская область
   sublisttitle: Ростовская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 55
+  geosub_ids:
+  - 81
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3050'

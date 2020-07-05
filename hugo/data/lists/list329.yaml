@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '312'
 date: '1938-05-03'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -16,7 +17,17 @@ pages:
 - image: v08/17-171-416-315.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Алтайский край]
+  listtitle: Список лиц - Алтайский край
   sublisttitle: Алтайский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 19
+  geosub_ids:
+  - 139
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2567'

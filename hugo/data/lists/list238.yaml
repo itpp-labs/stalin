@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '166'
 date: '1937-10-03'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -20,7 +21,18 @@ pages:
 - image: v03/17-171-411-171.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Дальне-Восточный край]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
   sublisttitle: Дальне-Восточный край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 29
+  geosub_ids:
+  - 48
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '760'
@@ -69,7 +81,18 @@ sublists:
       name: ШИПОВ Александр Павлович
       spravka: true
 - title: Список от 3 октября 1937г. [Челябинская область]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
   sublisttitle: Челябинская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '761'
@@ -102,7 +125,18 @@ sublists:
       name: КАРГАПОЛОВ Михаил Васильевич
       spravka: true
 - title: Список от 3 октября 1937г. [Башкирская АССР]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
   sublisttitle: Башкирская АССР
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '762'
@@ -125,7 +159,18 @@ sublists:
       name: МИХАЙЛОВ Александр Ефимович
       spravka: true
 - title: Список от 3 октября 1937г. [Украинская ССР]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 75
+  geosub_ids:
+  - 47
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '763'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '122'
 date: '1937-09-22'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -19,7 +20,17 @@ pages:
 - image: v03/17-171-411-127.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Казахская ССР]
+  listtitle: 'Список лиц: Казахская ССР'
   sublisttitle: Казахская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 6
+  geosub_ids:
+  - 18
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '716'

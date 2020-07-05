@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '138'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -20,7 +21,19 @@ pages:
 - image: v07/17-171-415-143.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Украинская ССР]
+  listtitle: Список лиц - Украинская ССР
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 81
+  - 86
+  geosub_ids:
+  - 52
+  - 92
+  group_ids:
+  - 12
   pages:
   - page:
       pageid: '2110'

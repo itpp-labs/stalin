@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '4'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -39,7 +40,19 @@ pages:
 - image: v08/17-171-416-027.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
+    ж.д.
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '2259'
@@ -1723,7 +1736,18 @@ sublists:
       name: ШУФИР Феофания Яковлевна
       spravka: true
 - title: Список от 19 апреля 1938г. [г.Москва-ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
+    ж.д.
   sublisttitle: г.Москва-ж.д.им.Дзержинского
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2278'
@@ -1757,7 +1781,18 @@ sublists:
       name: ШВАЛЬБЕ Рудольф Янович
       spravka: true
 - title: Список от 19 апреля 1938г. [г.Москва-М.Окружная ж.д.]
+  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
+    ж.д.
   sublisttitle: г.Москва-М.Окружная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 136
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2279'

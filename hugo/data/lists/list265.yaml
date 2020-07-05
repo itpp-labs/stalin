@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '103'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -24,7 +25,17 @@ pages:
 - image: v07/17-171-415-112.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Архангельская область]
+  listtitle: Список лиц - Архангельская,Вологодская области
   sublisttitle: Архангельская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 21
+  geosub_ids:
+  - 131
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2075'
@@ -630,7 +641,17 @@ sublists:
       name: ЮДИН Тимофей Павлович
       spravka: true
 - title: Список от 5 марта 1938г. [Вологодская область]
+  listtitle: Список лиц - Архангельская,Вологодская области
   sublisttitle: Вологодская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 24
+  geosub_ids:
+  - 132
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2081'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '252'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -22,7 +23,17 @@ pages:
 - image: v10/17-171-418-260.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Курская область]
+  listtitle: Список лиц - Курская область
   sublisttitle: Курская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 45
+  geosub_ids:
+  - 32
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3109'

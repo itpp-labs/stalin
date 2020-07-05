@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '262'
 date: '1938-02-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -22,7 +23,17 @@ pages:
 - image: v06/17-171-414-268.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Оренбургская область]
+  listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
   sublisttitle: Оренбургская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 38
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1769'
@@ -245,7 +256,17 @@ sublists:
       name: ОСИПОВА Пелагея Семеновна
       spravka: true
 - title: Список от 3 февраля 1938г. [Оренбург.Оренбургск.ж.д.]
+  listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
   sublisttitle: Оренбург.Оренбургск.ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 116
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1772'

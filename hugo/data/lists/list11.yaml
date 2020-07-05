@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '91'
 date: '1937-04-19'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -21,7 +22,17 @@ pages:
 - image: v01/17-171-409-097.jpg
 sublists:
 - title: Список от 19 апреля 1937 г. [Западно-Сибирский край]
+  listtitle: Список лиц - Западно-Сибирский край
   sublisttitle: Западно-Сибирский край
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 31
+  geosub_ids:
+  - 9
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '93'

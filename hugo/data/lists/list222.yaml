@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '45'
 date: '1937-09-15'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -16,7 +17,17 @@ pages:
 - image: v03/17-171-411-048.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Красноярский край]
+  listtitle: 'Список лиц: Красноярский край'
   sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '639'

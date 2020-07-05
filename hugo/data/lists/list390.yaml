@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
   page1: '18'
 date: '1938-09-12'
+tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
@@ -43,7 +44,34 @@ pages:
 - image: v11/17-171-419-046.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Казахская ССР]
+  listtitle: Список лиц - Казахская ССР,г.Алма-Ата - Турк.-Сибирская ж.д.
   sublisttitle: Казахская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 13
+  - 14
+  - 15
+  geosub_ids:
+  - 160
+  - 134
+  - 135
+  - 74
+  - 112
+  - 18
+  - 119
+  - 120
+  - 121
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '3138'
@@ -1049,7 +1077,17 @@ sublists:
       name: ШЕГЕБАЕВ Абдуразак
       spravka: true
 - title: Список от 12 сентября 1938г. [г.Алма-Ата Турксиб.ж.д.]
+  listtitle: Список лиц - Казахская ССР,г.Алма-Ата - Турк.-Сибирская ж.д.
   sublisttitle: г.Алма-Ата Турксиб.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 8
+  geosub_ids:
+  - 76
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3162'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '326'
 date: '1938-05-03'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -27,7 +28,18 @@ pages:
 - image: v08/17-171-416-339.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр,Московская область
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '2581'
@@ -503,7 +515,17 @@ sublists:
       name: ЧЕРКАСОВ Владимир Николаевич
       spravka: true
 - title: Список от 3 мая 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр,Московская область
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2588'

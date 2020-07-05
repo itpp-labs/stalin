@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '266'
 date: '1937-12-13'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -22,7 +23,17 @@ pages:
 - image: v05/17-171-413-273.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Гомель. Белорусская ж.д.]
+  listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
   sublisttitle: Гомель. Белорусская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 110
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1392'
@@ -195,7 +206,17 @@ sublists:
       name: ХИМАКОВ Василий Паладьевич
       spravka: true
 - title: Список от 13 декабря 1937г. [Казань. Казанская ж.д.]
+  listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
   sublisttitle: Казань. Казанская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 111
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1395'

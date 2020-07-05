@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '239'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -22,7 +23,17 @@ pages:
 - image: v05/17-171-413-248.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Ленинградская область]
+  listtitle: Список лиц - Ленинградская область
   sublisttitle: Ленинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1365'

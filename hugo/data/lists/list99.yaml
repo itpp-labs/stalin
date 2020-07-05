@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '177'
 date: '1937-11-13'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -22,7 +23,17 @@ pages:
 - image: v04/17-171-412-184.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ленинградская область]
+  listtitle: Список лиц - Ленинградская обл.
   sublisttitle: Ленинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1022'

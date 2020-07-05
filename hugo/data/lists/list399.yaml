@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
   page1: '135'
 date: '1938-09-12'
+tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
@@ -18,7 +19,17 @@ pages:
 - image: v11/17-171-419-139.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [г.Ашхабад - Ашхабадская ж.д.]
+  listtitle: Список лиц - г.Ашхабад - Ашхабадская ж.д.
   sublisttitle: г.Ашхабад - Ашхабадская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 73
+  geosub_ids:
+  - 163
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3255'

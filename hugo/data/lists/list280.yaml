@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '229'
 date: '1938-03-28'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -21,7 +22,17 @@ pages:
 - image: v07/17-171-415-234.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Воронежская область]
+  listtitle: Список лиц - Воронежская область
   sublisttitle: Воронежская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 25
+  geosub_ids:
+  - 35
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2201'

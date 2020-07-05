@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '244'
 date: '1938-03-28'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -26,7 +27,18 @@ pages:
 - image: v07/17-171-415-254.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Новосибирская область]
+  listtitle: Список лиц - Новосибирская область
   sublisttitle: Новосибирская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 78
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '2216'

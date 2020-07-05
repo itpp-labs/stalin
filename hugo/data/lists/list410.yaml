@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.14, оп.171, дело 420
   page1: '1'
 date: '1940-09-06'
+tom: 14
 delo:
   name: ''
   num: ''
@@ -78,7 +79,17 @@ pages:
 - image: v14/17-171-420-068.jpg
 sublists:
 - title: Список от  []
+  listtitle: Список арестованных участников антисоветских организаций (категория 2)
   sublisttitle: ''
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 169
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3917'

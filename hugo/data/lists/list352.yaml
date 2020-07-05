@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '155'
 date: '1938-01-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -26,7 +27,17 @@ pages:
 - image: v06/17-171-414-166.jpg
 sublists:
 - title: Список от 3 января 1938г. [Грузинская ССР]
+  listtitle: Список лиц - Грузинская ССР
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1661'

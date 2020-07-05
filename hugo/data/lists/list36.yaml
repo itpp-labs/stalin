@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '21'
 date: '1937-07-10'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -18,7 +19,17 @@ pages:
 - image: v02/17-171-410-026.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Азербайджанская ССР]
+  listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
   sublisttitle: Азербайджанская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 2
+  geosub_ids:
+  - 39
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '259'
@@ -206,7 +217,17 @@ sublists:
       num: '3'
       name: ЦЕЛИКИНА Нина Ивановна
 - title: Список от 10 июля 1937 г. [Грузинская ССР]
+  listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '262'

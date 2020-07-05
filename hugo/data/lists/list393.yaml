@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
   page1: '65'
 date: '1938-09-12'
+tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
@@ -21,7 +22,17 @@ pages:
 - image: v11/17-171-419-072.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [УНКВД по Дальстрою]
+  listtitle: Список лиц - УНКВД по Дальстрою
   sublisttitle: УНКВД по Дальстрою
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 17
+  geosub_ids:
+  - 161
+  group_ids:
+  - 14
   pages:
   - page:
       pageid: '3185'

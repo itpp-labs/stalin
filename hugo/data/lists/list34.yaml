@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '1'
 date: '1937-07-10'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -26,7 +27,18 @@ pages:
 - image: v02/17-171-410-013.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Сталинградская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Куйбышевская обл.,
+    Горьковская обл.'
   sublisttitle: Сталинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 15
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '243'
@@ -309,7 +321,18 @@ sublists:
       num: '16'
       name: ШИШИНА Анна Степановна
 - title: Список от 10 июля 1937 г. [Татарская АССР]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Куйбышевская обл.,
+    Горьковская обл.'
   sublisttitle: Татарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 29
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '239'
@@ -556,7 +579,18 @@ sublists:
       name: ЯКУПОВ Шакир Якупович
       spravka: true
 - title: Список от 10 июля 1937 г. [Куйбышевская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Куйбышевская обл.,
+    Горьковская обл.'
   sublisttitle: Куйбышевская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 44
+  geosub_ids:
+  - 17
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '245'
@@ -749,7 +783,18 @@ sublists:
       num: '21'
       name: ЭСТРОВ Александр Петрович
 - title: Список от 10 июля 1937 г. [Горьковская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Куйбышевская обл.,
+    Горьковская обл.'
   sublisttitle: Горьковская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 27
+  geosub_ids:
+  - 16
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '247'

@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '215'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -22,7 +23,17 @@ pages:
 - image: v05/17-171-413-222.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Челябинская область]
+  listtitle: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д.
   sublisttitle: Челябинская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1341'
@@ -286,7 +297,17 @@ sublists:
       name: ЛЕБЕДЕВ Михаил Филиппович
       spravka: true
 - title: Список от 7 декабря 1937г. [Челябинск- Южно-Уральская ж.д.]
+  listtitle: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д.
   sublisttitle: Челябинск- Южно-Уральская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1345'

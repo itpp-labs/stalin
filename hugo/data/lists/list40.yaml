@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '46'
 date: '1937-07-10'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -15,7 +16,17 @@ pages:
 - image: v02/17-171-410-048.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Калининская обл.]
+  listtitle: 'Список лиц: Калининская обл.'
   sublisttitle: Калининская обл.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 42
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '284'

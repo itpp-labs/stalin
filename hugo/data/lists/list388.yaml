@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
   page1: '8'
 date: '1938-09-12'
+tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
@@ -18,7 +19,17 @@ pages:
 - image: v11/17-171-419-012.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Красноярский край]
+  listtitle: Список лиц - Красноярский край
   sublisttitle: Красноярский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3128'

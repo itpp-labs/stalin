@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '49'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -19,7 +20,17 @@ pages:
 - image: v10/17-171-418-054.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Чечено-Ингушская АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР
   sublisttitle: Чечено-Ингушская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 69
+  geosub_ids:
+  - 108
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2906'

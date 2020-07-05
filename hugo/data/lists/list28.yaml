@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '212'
 date: '1937-06-26'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -18,7 +19,17 @@ pages:
 - image: v01/17-171-409-216.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Украинская ССР]
+  listtitle: Список лиц - Украинская ССР
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 2
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '214'

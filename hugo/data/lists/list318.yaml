@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '233'
 date: '1938-05-03'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -19,7 +20,17 @@ pages:
 - image: v08/17-171-416-238.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Ярославская область]
+  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
   sublisttitle: Ярославская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2488'
@@ -122,7 +133,17 @@ sublists:
       name: ШАШИН Юрий Александрович
       spravka: true
 - title: Список от 3 мая 1938г. [Рязанская область]
+  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
   sublisttitle: Рязанская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 56
+  geosub_ids:
+  - 146
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2490'
@@ -178,7 +199,17 @@ sublists:
       num: '12'
       name: СУПРАНОВИЧ Франц Антонович
 - title: Список от 3 мая 1938г. [Киргизская ССР]
+  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
   sublisttitle: Киргизская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 16
+  geosub_ids:
+  - 142
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2491'

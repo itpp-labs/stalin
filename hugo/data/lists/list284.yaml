@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '262'
 date: '1938-03-28'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -24,7 +25,28 @@ pages:
 - image: v07/17-171-415-270.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Украинская ССР]
+  listtitle: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д.
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 76
+  - 77
+  - 79
+  - 81
+  - 84
+  - 86
+  geosub_ids:
+  - 103
+  - 53
+  - 54
+  - 55
+  - 56
+  - 57
+  - 90
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2234'
@@ -386,7 +408,17 @@ sublists:
       num: '3'
       name: РОЗЕНЦВЕЙГ Даниил Яковлевич
 - title: Список от 28 марта 1938г. [Одесская жел.дор.]
+  listtitle: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д.
   sublisttitle: Одесская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 84
+  geosub_ids:
+  - 101
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2239'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '128'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -19,7 +20,17 @@ pages:
 - image: v08/17-171-416-132.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Сталинград-Сталинградская ж.д.]
+  listtitle: Список лиц - Сталинград-Сталинградская ж.д.
   sublisttitle: Сталинград-Сталинградская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 117
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2383'

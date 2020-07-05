@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '220'
 date: '1937-11-13'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -17,7 +18,17 @@ pages:
 - image: v04/17-171-412-224.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ярославская область]
+  listtitle: Список лиц - Ярославская обл.
   sublisttitle: Ярославская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1065'

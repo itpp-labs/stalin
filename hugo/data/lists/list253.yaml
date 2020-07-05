@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '32'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -22,7 +23,18 @@ pages:
 - image: v07/17-171-415-038.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ленинградская область]
+  listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
+    область
   sublisttitle: Ленинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2004'
@@ -48,7 +60,18 @@ sublists:
       num: '1'
       name: НИКОЛАЕВ Василий Филиппович
 - title: Список от 5 марта 1938г. [Саратовская область]
+  listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
+    область
   sublisttitle: Саратовская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 57
+  geosub_ids:
+  - 14
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2005'
@@ -86,7 +109,18 @@ sublists:
       name: ЮРК Давид Давидович
       spravka: true
 - title: Список от 5 марта 1938г. [Тульская область]
+  listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
+    область
   sublisttitle: Тульская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 66
+  geosub_ids:
+  - 124
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2006'
@@ -112,7 +146,18 @@ sublists:
       name: ДОБРОХОТОВ Константин Дмитриевич
       spravka: true
 - title: Список от 5 марта 1938г. [Армянская ССР]
+  listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
+    область
   sublisttitle: Армянская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 3
+  geosub_ids:
+  - 28
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2007'
@@ -144,7 +189,18 @@ sublists:
       name: КУРАНЯН Гарегин Алексеевич
       spravka: true
 - title: Список от 5 марта 1938г. [Оренбургская область]
+  listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
+    область
   sublisttitle: Оренбургская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 38
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2008'

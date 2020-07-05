@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '180'
 date: '1937-10-03'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -18,7 +19,17 @@ pages:
 - image: v03/17-171-411-184.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Восточно-Сибирская обл.]
+  listtitle: 'Список лиц: Восточно-Сибирская обл.'
   sublisttitle: Восточно-Сибирская обл.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 26
+  geosub_ids:
+  - 34
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '774'

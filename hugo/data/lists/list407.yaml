@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.12, оп.171, дело 377
   page1: '116'
 date: '1940-01-16'
+tom: 12
 delo:
   name: ''
   num: ''
@@ -25,7 +26,17 @@ pages:
 - image: v12/17-171-377-130.jpg
 sublists:
 - title: Список от  []
+  listtitle: Список арестованных (категория 1)
   sublisttitle: ''
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 169
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3405'

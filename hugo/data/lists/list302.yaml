@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '133'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -21,7 +22,17 @@ pages:
 - image: v08/17-171-416-138.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Смоленская область]
+  listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
   sublisttitle: Смоленская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 93
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2388'
@@ -97,7 +108,17 @@ sublists:
       name: ЮНГ Николай Альбертович
       spravka: true
 - title: Список от 19 апреля 1938г. [Смоленск-Западная ж.д.]
+  listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
   sublisttitle: Смоленск-Западная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 143
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2389'

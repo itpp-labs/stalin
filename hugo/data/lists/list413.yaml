@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.13, оп.171, дело 421
   page1: '1'
 date: '1940-09-06'
+tom: 13
 delo:
   name: ''
   num: ''
@@ -502,7 +503,17 @@ pages:
 - image: v13/17-171-421-492.jpg
 sublists:
 - title: Список от  []
+  listtitle: Список арестованных участников антисоветских организаций (категория 1)
   sublisttitle: ''
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 169
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3425'

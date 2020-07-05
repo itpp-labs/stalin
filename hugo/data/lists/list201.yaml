@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '140'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -25,7 +26,17 @@ pages:
 - image: v10/17-171-418-151.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Татарская АССР]
+  listtitle: Список лиц - Татарская АССР
   sublisttitle: Татарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 29
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2997'

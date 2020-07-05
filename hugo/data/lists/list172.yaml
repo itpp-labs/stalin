@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '118'
 date: '1938-06-10'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -16,7 +17,17 @@ pages:
 - image: v09/17-171-417-121.jpg
 sublists:
 - title: Список от 10.VI.38г. [Калининская область]
+  listtitle: Список лиц - Калининская область
   sublisttitle: Калининская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2716'

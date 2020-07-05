@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '146'
 date: '1937-09-26'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -30,7 +31,29 @@ pages:
 - image: v03/17-171-411-163.jpg
 sublists:
 - title: Список от 26 сентября 1937г. [Украинская ССР]
+  listtitle: 'Список лиц: Украинская ССР'
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 76
+  - 77
+  - 78
+  - 81
+  - 84
+  - 86
+  - 87
+  geosub_ids:
+  - 68
+  - 5
+  - 69
+  - 70
+  - 71
+  - 72
+  - 73
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '740'

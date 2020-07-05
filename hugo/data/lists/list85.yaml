@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '61'
 date: '1937-10-21'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -29,7 +30,18 @@ pages:
 - image: v04/17-171-412-074.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр, Московская обл.
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '906'
@@ -328,7 +340,18 @@ sublists:
       name: СЕРБЕНТА Виталий Андреевич
       spravka: true
 - title: Список от 21 октября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская обл.
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '913'

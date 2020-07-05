@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '133'
 date: '1937-07-31'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -20,7 +21,17 @@ pages:
 - image: v02/17-171-410-137.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Азово-Черноморский край]
+  listtitle: 'Список лиц: Азово-Черноморский, Орджоникидзевский края'
   sublisttitle: Азово-Черноморский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 18
+  geosub_ids:
+  - 10
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '371'
@@ -91,7 +102,17 @@ sublists:
       num: '14'
       name: ТРУБНИКОВ Михаил Алексеевич
 - title: Список от 31 июля 1937 г. [Орджоникидзевский край]
+  listtitle: 'Список лиц: Азово-Черноморский, Орджоникидзевский края'
   sublisttitle: Орджоникидзевский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 52
+  geosub_ids:
+  - 22
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '372'

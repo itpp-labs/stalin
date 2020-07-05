@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '221'
 date: '1938-08-20'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -28,7 +29,17 @@ pages:
 - image: v09/17-171-417-235.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 1)]
+  listtitle: 'Записка Ежова с приложением списка лиц: Москва-центр N 1'
   sublisttitle: Москва-центр (Список N 1)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2820'

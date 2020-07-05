@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '162'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -20,7 +21,17 @@ pages:
 - image: v10/17-171-418-167.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Смоленская область]
+  listtitle: Список лиц - Смоленская область, г.Смоленск-Западная ж.д.
   sublisttitle: Смоленская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 93
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '3019'
@@ -192,7 +203,17 @@ sublists:
       num: '13'
       name: ЧУРИЛИН Абрам Маркович
 - title: Список от 12 сентября 1938г. [г.Смоленск, Западная железная дорога]
+  listtitle: Список лиц - Смоленская область, г.Смоленск-Западная ж.д.
   sublisttitle: г.Смоленск, Западная железная дорога
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 143
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3021'

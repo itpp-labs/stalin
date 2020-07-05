@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
   page1: '73'
 date: '1938-09-12'
+tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-11
@@ -39,7 +40,18 @@ pages:
 - image: v11/17-171-419-098.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Грузинская ССР]
+  listtitle: Список лиц - Грузинская ССР
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '3193'

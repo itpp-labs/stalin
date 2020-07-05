@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '127'
 date: '1938-01-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -30,7 +31,18 @@ pages:
 - image: v06/17-171-414-141.jpg
 sublists:
 - title: Список от 3 января 1938г. [Челябинская область]
+  listtitle: Список лиц - Челябинская область;Челябинск.Ю.-Уральская ж.д.
   sublisttitle: Челябинская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '1634'
@@ -695,7 +707,17 @@ sublists:
       num: '8'
       name: ШРЕЙБЕР Владимир Павлович
 - title: Список от 3 января 1938г. [Челябинск-Ю.-Уральск.ж.д.]
+  listtitle: Список лиц - Челябинская область;Челябинск.Ю.-Уральская ж.д.
   sublisttitle: Челябинск-Ю.-Уральск.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1644'

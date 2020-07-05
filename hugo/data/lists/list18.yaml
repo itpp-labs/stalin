@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '145'
 date: '1937-05-31'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -14,7 +15,17 @@ pages:
 - image: v01/17-171-409-147.jpg
 sublists:
 - title: Список от 31 мая 1937 г. [Московская область]
+  listtitle: Список лиц - Московская область
   sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '147'

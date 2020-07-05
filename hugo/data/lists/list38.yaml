@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '39'
 date: '1937-07-10'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -15,7 +16,21 @@ pages:
 - image: v02/17-171-410-041.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Украинская ССР]
+  listtitle: 'Список лиц: Украинская ССР'
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  - 84
+  - 86
+  geosub_ids:
+  - 2
+  - 3
+  - 6
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '277'

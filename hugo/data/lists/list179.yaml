@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '166'
 date: '1938-06-10'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -17,7 +18,17 @@ pages:
 - image: v09/17-171-417-170.jpg
 sublists:
 - title: Список от 10.VI.38г. [Бурято-Монгольская АССР]
+  listtitle: Список лиц - Бурято-Монгольская АССР
   sublisttitle: Бурято-Монгольская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 23
+  geosub_ids:
+  - 153
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2764'

@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '36'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -27,7 +28,17 @@ pages:
 - image: v10/17-171-418-048.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ярославская область]
+  listtitle: Список лиц - Ярославская область,г.Ярославль-Ярославская ж.д.
   sublisttitle: Ярославская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2893'
@@ -1074,7 +1085,17 @@ sublists:
       name: ШПИКОВ Александр Александрович
       spravka: true
 - title: Список от 12 сентября 1938г. [Гор.Ярославль. Ярославская жел.дор.]
+  listtitle: Список лиц - Ярославская область,г.Ярославль-Ярославская ж.д.
   sublisttitle: Гор.Ярославль. Ярославская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 109
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2902'

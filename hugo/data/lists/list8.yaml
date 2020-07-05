@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '72'
 date: '1937-04-05'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -20,7 +21,17 @@ pages:
 - image: v01/17-171-409-077.jpg
 sublists:
 - title: Список от 5 апреля 1937 г. [Омская область]
+  listtitle: Список лиц - Омская область
   sublisttitle: Омская область
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 21
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '74'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '139'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -19,7 +20,17 @@ pages:
 - image: v08/17-171-416-143.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Свердловская область]
+  listtitle: Список лиц - Свердловская область
   sublisttitle: Свердловская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2394'

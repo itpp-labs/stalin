@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
   page1: '35'
 date: '1938-01-03'
+tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-6
@@ -26,7 +27,17 @@ pages:
 - image: v06/17-171-414-045.jpg
 sublists:
 - title: Список от 3 января 1938г. [Красноярский край]
+  listtitle: Список лиц - Красноярский край;Красноярск. Красноярская ж.д.
   sublisttitle: Красноярский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1542'
@@ -800,7 +811,17 @@ sublists:
       name: ШАФРАНСКИЙ Николай Феликсович
       spravka: true
 - title: Список от 3 января 1938г. [г.Красноярск. Красноярская ж.д.]
+  listtitle: Список лиц - Красноярский край;Красноярск. Красноярская ж.д.
   sublisttitle: г.Красноярск. Красноярская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 98
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1549'

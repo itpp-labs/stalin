@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '135'
 date: '1937-11-01'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -25,7 +26,19 @@ pages:
 - image: v04/17-171-412-147.jpg
 sublists:
 - title: Список от 1 ноября 1937г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр, Московская обл.
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 1
+  - 2
   pages:
   - page:
       pageid: '980'
@@ -684,7 +697,17 @@ sublists:
       doublesexists: true
       spravka: true
 - title: Список от 1 ноября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская обл.
   sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '990'

@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '56'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -22,7 +23,17 @@ pages:
 - image: v07/17-171-415-062.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Казань. Казанская ж.д.]
+  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
   sublisttitle: г.Казань. Казанская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 111
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2028'
@@ -81,7 +92,17 @@ sublists:
       name: ЛАЗАРЕВ Василий Иванович
       spravka: true
 - title: Список от 5 марта 1938г. [Марийская АССР]
+  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
   sublisttitle: Марийская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 47
+  geosub_ids:
+  - 126
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2030'
@@ -192,7 +213,17 @@ sublists:
       name: СТРЕЛЬНИКОВ Яков Алексеевич
       spravka: true
 - title: Список от 5 марта 1938г. [Мордовская АССР]
+  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
   sublisttitle: Мордовская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 48
+  geosub_ids:
+  - 127
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2032'

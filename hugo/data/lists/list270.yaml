@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '151'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -19,7 +20,17 @@ pages:
 - image: v07/17-171-415-155.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ленинградская область]
+  listtitle: Список лиц - Ленинградская,Калининская области
   sublisttitle: Ленинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2123'
@@ -149,7 +160,17 @@ sublists:
       num: '9'
       name: ХМЕЛЬНИЦКИЙ Абрам Вениаминович
 - title: Список от 5 марта 1938г. [Калининская область]
+  listtitle: Список лиц - Ленинградская,Калининская области
   sublisttitle: Калининская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2125'

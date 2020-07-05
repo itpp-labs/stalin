@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '230'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -23,7 +24,17 @@ pages:
 - image: v05/17-171-413-238.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Ярославская область]
+  listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
   sublisttitle: Ярославская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1356'
@@ -418,7 +429,17 @@ sublists:
       name: ЦЕПИЛОВ Андрей Яковлевич
       spravka: true
 - title: Список от 7 декабря 1937г. [Ярославль-Ярославская ж.д.]
+  listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
   sublisttitle: Ярославль-Ярославская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 109
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1360'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
   page1: '86'
 date: '1937-09-15'
+tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-3
@@ -23,7 +24,19 @@ pages:
 - image: v03/17-171-411-096.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Москва-центр]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 1
+  - 2
   pages:
   - page:
       pageid: '680'
@@ -622,7 +635,17 @@ sublists:
       name: ПИОТРОВСКИЙ Иосиф Францевич
       spravka: true
 - title: Список от 15 сентября 1937г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
   sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '688'

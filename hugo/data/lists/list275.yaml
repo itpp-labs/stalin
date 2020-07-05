@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '184'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -21,7 +22,17 @@ pages:
 - image: v07/17-171-415-189.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Вологодская область]
+  listtitle: Список лиц - Вологодская область
   sublisttitle: Вологодская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 24
+  geosub_ids:
+  - 132
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2156'

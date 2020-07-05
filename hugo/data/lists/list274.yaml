@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '179'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -19,7 +20,17 @@ pages:
 - image: v07/17-171-415-183.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр,Московская область
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2151'
@@ -91,7 +102,17 @@ sublists:
       name: ЯНОВ Петр Ильич
       spravka: true
 - title: Список от 5 марта 1938г. [Москва-центр (б.сотрудники НКВД)]
+  listtitle: Список лиц - Москва-центр,Московская область
   sublisttitle: Москва-центр (б.сотрудники НКВД)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
   pages:
   - page:
       pageid: '2152'
@@ -127,7 +148,17 @@ sublists:
       name: ПАРТИН Шолом Моисеевич
       spravka: true
 - title: Список от 5 марта 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр,Московская область
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2153'

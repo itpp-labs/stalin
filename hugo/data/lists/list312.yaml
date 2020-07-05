@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
   page1: '193'
 date: '1938-04-19'
+tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-8
@@ -25,7 +26,17 @@ pages:
 - image: v08/17-171-416-203.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Краснодарский край]
+  listtitle: Список лиц - Краснодарский край
   sublisttitle: Краснодарский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 41
+  geosub_ids:
+  - 145
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2448'

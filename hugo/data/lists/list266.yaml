@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '113'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -18,7 +19,17 @@ pages:
 - image: v07/17-171-415-116.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Ярославль.Ярославская ж.д.]
+  listtitle: Список лиц - г.Ярославль.Ярославская ж.д.
   sublisttitle: г.Ярославль.Ярославская ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 109
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2085'

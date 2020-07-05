@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '224'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -25,7 +26,18 @@ pages:
 - image: v10/17-171-418-234.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Новосибирская область]
+  listtitle: Список лиц - Новосибирская область, г.Новосибирск-Томская ж.д.
   sublisttitle: Новосибирская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 78
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '3081'
@@ -535,7 +547,17 @@ sublists:
       num: '44'
       name: ЭКС Август Бернгардович
 - title: Список от 12 сентября 1938г. [Гор.Новосибирск. Томская жел.дор.]
+  listtitle: Список лиц - Новосибирская область, г.Новосибирск-Томская ж.д.
   sublisttitle: Гор.Новосибирск. Томская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 122
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '3088'

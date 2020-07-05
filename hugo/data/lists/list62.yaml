@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '222'
 date: '1937-08-14'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -14,7 +15,17 @@ pages:
 - image: v02/17-171-410-223.jpg
 sublists:
 - title: Список от 14 августа 1937 г. [Список лиц]
+  listtitle: Список лиц
   sublisttitle: Список лиц
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 51
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '459'

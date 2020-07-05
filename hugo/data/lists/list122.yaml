@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '106'
 date: '1937-11-22'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -26,7 +27,18 @@ pages:
 - image: v05/17-171-413-118.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр, Московская область
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '1232'
@@ -625,7 +637,17 @@ sublists:
       name: ЧИЖИКОВ Онисим Лукич
       spravka: true
 - title: Список от 22 ноября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская область
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1241'

@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '75'
 date: '1937-10-21'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -26,7 +27,18 @@ pages:
 - image: v04/17-171-412-085.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '920'
@@ -545,7 +557,17 @@ sublists:
       num: '5'
       name: ФИЛИППОВ Александр Петрович
 - title: Список от 21 октября 1937г. [ДТО ГУГБ Московского узла]
+  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
   sublisttitle: ДТО ГУГБ Московского узла
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 80
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '927'
@@ -642,7 +664,17 @@ sublists:
       num: '1'
       name: ГРЕЧИШНИКОВ Александр Васильевич
 - title: Список от 21 октября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
   sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '928'

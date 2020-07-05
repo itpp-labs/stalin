@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '18'
 date: '1938-06-10'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -26,7 +27,26 @@ pages:
 - image: v09/17-171-417-031.jpg
 sublists:
 - title: Список от 10.VI.38г. [Украинская ССР]
+  listtitle: Список лиц - Украинская ССР, г.Харьков-Южная ж.д.
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 78
+  - 81
+  - 84
+  - 86
+  - 87
+  geosub_ids:
+  - 5
+  - 52
+  - 54
+  - 58
+  - 92
+  group_ids:
+  - 0
+  - 12
   pages:
   - page:
       pageid: '2622'
@@ -533,7 +553,17 @@ sublists:
       num: '13'
       name: ХАРЧЕНКО Марк Акимович
 - title: Список от 10.VI.38г. [г.Харьков-Южная ж.д.]
+  listtitle: Список лиц - Украинская ССР, г.Харьков-Южная ж.д.
   sublisttitle: г.Харьков-Южная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 86
+  geosub_ids:
+  - 61
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2628'

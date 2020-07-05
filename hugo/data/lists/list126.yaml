@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '165'
 date: '1937-12-07'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -19,7 +20,17 @@ pages:
 - image: v05/17-171-413-170.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Свердловская область]
+  listtitle: Список лиц - Свердловская область, Омск-Омская ж.д.
   sublisttitle: Свердловская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1291'
@@ -159,7 +170,17 @@ sublists:
       name: ЭНБЕКОВА Мария Ивановна
       spravka: true
 - title: Список от 7 декабря 1937г. [Омск - Омская ж.д.]
+  listtitle: Список лиц - Свердловская область, Омск-Омская ж.д.
   sublisttitle: Омск - Омская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 107
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1293'

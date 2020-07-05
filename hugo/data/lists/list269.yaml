@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '144'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -22,7 +23,17 @@ pages:
 - image: v07/17-171-415-150.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Орджоникидзевский край]
+  listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
   sublisttitle: Орджоникидзевский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 52
+  geosub_ids:
+  - 22
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2116'
@@ -378,7 +389,17 @@ sublists:
       num: '13'
       name: ЦЫМБАЛЮК Иван Сергеевич
 - title: Список от 5 марта 1938г. [Северо-Осетинская АССР]
+  listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
   sublisttitle: Северо-Осетинская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 60
+  geosub_ids:
+  - 133
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2120'

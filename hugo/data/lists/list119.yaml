@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '80'
 date: '1937-11-22'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -31,7 +32,33 @@ pages:
 - image: v05/17-171-413-097.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Украинская ССР]
+  listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
   sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 76
+  - 77
+  - 78
+  - 81
+  - 83
+  - 84
+  - 86
+  - 87
+  geosub_ids:
+  - 58
+  - 5
+  - 53
+  - 54
+  - 55
+  - 56
+  - 57
+  - 90
+  - 91
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '1206'
@@ -926,7 +953,17 @@ sublists:
       name: ВОКК Иоган Фридрихович
       gb_spravka: true
 - title: Список от 22 ноября 1937г. [Одесса - Одесская ж.д.]
+  listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
   sublisttitle: Одесса - Одесская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 84
+  geosub_ids:
+  - 101
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '1220'

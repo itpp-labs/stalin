@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '1'
 date: '1938-06-10'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -19,7 +20,17 @@ pages:
 - image: v09/17-171-417-006.jpg
 sublists:
 - title: Список от 10.VI.38г. [Коми АССР]
+  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
   sublisttitle: Коми АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 40
+  geosub_ids:
+  - 149
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2605'
@@ -128,7 +139,17 @@ sublists:
       name: ОПЛЕСНИН Прокопий Павлович
       spravka: true
 - title: Список от 10.VI.38г. [Кабардино-Балкарская АССР]
+  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
   sublisttitle: Кабардино-Балкарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 34
+  geosub_ids:
+  - 62
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2607'
@@ -157,7 +178,17 @@ sublists:
       name: ТАБУХОВ Мухажир Адильгериевич
       spravka: true
 - title: Список от 10.VI.38г. [Туркменская ССР]
+  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
   sublisttitle: Туркменская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 73
+  geosub_ids:
+  - 59
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2608'

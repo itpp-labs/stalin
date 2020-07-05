@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
   page1: '12'
 date: '1937-11-22'
+tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-5
@@ -31,7 +32,17 @@ pages:
 - image: v05/17-171-413-029.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Грузинская ССР]
+  listtitle: Список лиц - Грузинская ССР
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '1138'

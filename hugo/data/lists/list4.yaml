@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '30'
 date: '1937-03-19'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -25,7 +26,17 @@ pages:
 - image: v01/17-171-409-039.jpg
 sublists:
 - title: Список от 19 марта 1937 г. [Свердловская область]
+  listtitle: Список лиц - Свердловская область
   sublisttitle: Свердловская область
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '31'

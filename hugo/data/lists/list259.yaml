@@ -4,6 +4,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '69'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -23,7 +24,17 @@ pages:
 - image: v07/17-171-415-076.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Куйбышевская область]
+  listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
   sublisttitle: Куйбышевская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 44
+  geosub_ids:
+  - 17
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2041'
@@ -354,7 +365,17 @@ sublists:
       name: ПРОЛИСКО Петр Максимович
       spravka: true
 - title: Список от 5 марта 1938г. [г.Куйбышев. ж.д. им.Куйбышева]
+  listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
   sublisttitle: г.Куйбышев. ж.д. им.Куйбышева
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 44
+  geosub_ids:
+  - 128
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2045'

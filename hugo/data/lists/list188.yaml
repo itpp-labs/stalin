@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
   page1: '246'
 date: '1938-08-20'
+tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-9
@@ -20,7 +21,17 @@ pages:
 - image: v09/17-171-417-253.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 3)]
+  listtitle: списка лиц N 3 - Москва-центр
   sublisttitle: Москва-центр (Список N 3)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
   pages:
   - page:
       pageid: '2844'

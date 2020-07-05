@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '201'
 date: '1937-08-10'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -34,7 +35,17 @@ pages:
 - image: v02/17-171-410-221.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Грузинская ССР]
+  listtitle: 'Список лиц: Грузинская ССР'
   sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '439'

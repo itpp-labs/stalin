@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
   page1: '99'
 date: '1937-07-25'
+tom: 2
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-2
@@ -22,7 +23,17 @@ pages:
 - image: v02/17-171-410-108.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Азаво-Черноморский край]
+  listtitle: 'Список лиц: Азово-Черноморский край'
   sublisttitle: Азаво-Черноморский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 18
+  geosub_ids:
+  - 10
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '337'

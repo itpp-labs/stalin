@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
   page1: '19'
 date: '1937-10-21'
+tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-4
@@ -19,7 +20,17 @@ pages:
 - image: v04/17-171-412-022.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Белорусская ССР]
+  listtitle: 'Список лиц: Белорусская ССР'
   sublisttitle: Белорусская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 37
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '864'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
   page1: '63'
 date: '1938-03-05'
+tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-7
@@ -20,7 +21,17 @@ pages:
 - image: v07/17-171-415-068.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Омск. Омская ж.д.]
+  listtitle: Список лиц - г.Омск.Омская ж.д.;Красноярский край
   sublisttitle: г.Омск. Омская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 107
+  group_ids:
+  - 13
   pages:
   - page:
       pageid: '2035'
@@ -275,7 +286,17 @@ sublists:
       num: '6'
       name: СОРОКИН Павел Ильич
 - title: Список от 5 марта 1938г. [Красноярский край]
+  listtitle: Список лиц - г.Омск.Омская ж.д.;Красноярский край
   sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '2038'

@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
   page1: '1'
 date: '1938-09-12'
+tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
   num: 9-Л/8-10
@@ -35,7 +36,18 @@ pages:
 - image: v10/17-171-418-023.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Москва-центр]
+  listtitle: Список лиц - Москва-центр
   sublisttitle: Москва-центр
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+  - 2
   pages:
   - page:
       pageid: '2858'

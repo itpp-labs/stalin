@@ -3,6 +3,7 @@ archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
   page1: '114'
 date: '1937-04-28'
+tom: 1
 delo:
   name: Право-троцкистский блок (списки)
   num: 9-Л/8-1
@@ -23,7 +24,18 @@ pages:
 - image: v01/17-171-409-122.jpg
 sublists:
 - title: Список от 28 апреля 1937 г. [Орджоникидзевский край]
+  listtitle: Список лиц - Орджоникидзевский край
   sublisttitle: Орджоникидзевский край
+  kat1: true
+  kat2: true
+  kat3: true
+  geo_ids:
+  - 52
+  geosub_ids:
+  - 22
+  - 23
+  group_ids:
+  - 0
   pages:
   - page:
       pageid: '116'
