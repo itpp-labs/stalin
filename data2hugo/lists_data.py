@@ -27,6 +27,7 @@ def main():
     # sublist -> [(PAGE, [PERSON])]
     pages_and_persons_by_sublist = {}
     for sublist, persons in persons_by_sublist.items():
+        persons = sorted(persons, key=lambda p: int(p['pageintom']))
         persons_by_page = x2many(
             lambda r: get_page_ref(r['tom'], r['pageintom']),
             persons
