@@ -48,12 +48,16 @@
 
 
 
-        {{ if $data.gb_spravka.html }}
-        <h1 id="gb">Версия следствия</h1>
-        {{ $data.gb_spravka.html | safeHTML }}
-        {{ end }}
-        {{ range $data.gb_spravka.pages }}
-        <img src="/{{ .picture }}"/>
+        {{ if $data.gb_spravka }}
+            <h1 id="gb">Версия следствия</h1>
+            {{ range $data.gb_spravka }}
+                 <div id="gb-{{ .list_id }}">
+                     {{ .html | safeHTML }}
+                     {{ range .pictures }}
+                         <img src="/{{ . }}"/>
+                     {{ end }}
+                 </div>
+            {{ end }}
         {{ end }}
 
 

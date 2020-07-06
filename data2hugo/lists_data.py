@@ -26,7 +26,14 @@ def main():
 
     # sublist -> [(PAGE, [PERSON])]
     pages_and_persons_by_sublist = {}
+    def p2nomer(p):
+        nomer = p['nomer'] or 0
+        if nomer == "NULL":
+            nomer = 0
+        return int(nomer)
+
     for sublist, persons in persons_by_sublist.items():
+        persons = sorted(persons, key=lambda p: (int(p['pageintom']), p2nomer(p)))
         persons_by_page = x2many(
             lambda r: get_page_ref(r['tom'], r['pageintom']),
             persons
@@ -56,10 +63,6 @@ def main():
 
     person2gb_spravka = {}
     for p in csv_reader(PERSONS_CSV):
-        if p["personid"] != p["headperson"]:
-            # it's a technical record for a person from another record
-            # FIXME: this should not be skipped
-            continue
         person2gb_spravka[p["personid"]] = p.get("spravkafile") and p.get("spravkafile") != "NULL"
 
     def subl2person_values(subl, p2value):
@@ -74,6 +77,7 @@ def main():
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
+            "id": lst["listid"],
             "title": list2title(lst),
             "archive": list2archive(lst),
             "date": clean_date(lst["adate"]),
@@ -112,7 +116,7 @@ def main():
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
                             doublesexists=p["doublesexists"] == "1",
-                            gb_spravka=person2gb_spravka[p["headperson"]],
+                            gb_spravka=person2gb_spravka[p["personid"]],
                             spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),
                         ) for p in persons]
                     } for page, persons in pages_and_persons_by_sublist.get(subl["sublistid"], [])],
