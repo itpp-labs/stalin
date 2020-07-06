@@ -53,7 +53,9 @@
             {{ range $data.gb_spravka }}
                  <div id="gb-{{ .list_id }}">
                      {{ .html | safeHTML }}
-                     <img src="/{{ .picture }}"/>
+                     {{ range .pictures }}
+                         <img src="/{{ . }}"/>
+                     {{ end }}
                  </div>
             {{ end }}
         {{ end }}

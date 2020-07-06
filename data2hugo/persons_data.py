@@ -43,15 +43,37 @@ def main():
         res["text_lines"] = text_lines
         return res
 
+    # headperson -> [{list_id, html, pages}]
+    gb_index = {}
+    for p in csv_reader(PERSONS_CSV):
+        if not p.get("spravkafile") or p.get("spravkafile") == "NULL":
+            continue
+        html = file2str(os.path.join(GB_SPRAVKI_DIR, p.get("spravkafile").lower()))
+
+        pages = []
+        for page in person2pages.get(p['personid'], []):
+            if page["alistid"] == p["listnum"]:
+                pages.append(page)
+
+        pictures = [
+            "disk/pictures/v{tom:02d}/{picturefile}".format(
+                tom=int(page['tom']),
+                picturefile=page['picturefile']
+            ) for page in pages
+        ]
+
+        gb_index.setdefault(p["headperson"], [])
+        gb_index[p["headperson"]].append({
+            "list_id": p["listnum"],
+            "html": html,
+            "pictures": pictures,
+        })
+
     for p in csv_reader(PERSONS_CSV):
 
         if p["personid"] != p["headperson"]:
             # it's a technical record for a person from another record
             continue
-
-        gb_spravka_html = None
-        if p.get("spravkafile") and p.get("spravkafile") != "NULL":
-            gb_spravka_html = file2str(os.path.join(GB_SPRAVKI_DIR, p.get("spravkafile").lower()))
         data = {
             "name": {
                 "firstname": p["firstname1"],
@@ -82,19 +104,11 @@ def main():
                     "signs": get_signs(list_by_id[pp["listnum"]]),
                 } for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
             ],
-            "gb_spravka": {
-                "pages": [
-                    {
-                        "picture": "disk/pictures/v{tom:02d}/{picturefile}".format(
-                            tom=int(page['tom']),
-                            picturefile=page['picturefile']
-                        )
-                    } for page in person2pages.get(p['personid'], [])
-                ],
-                "html": gb_spravka_html,
-            },
+            "gb_spravka": gb_index.get(p['headperson'], [])
         }
-        data = extend(data,
+        data = extend(
+            data,
+            primname=p["primname"],
             striked=any(pp["striked"] == "1" for pp in persons_by_headperson[p["personid"]]),
             underlined=any(pp["underlined"] == "1" for pp in persons_by_headperson[p["personid"]]),
             pometa=any(pp["pometa"] == "1" for pp in persons_by_headperson[p["personid"]])
