@@ -33,8 +33,7 @@ lists:
     molotov: true
     jdanov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v05/17-171-413-095.jpg
+- list_id: '119'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки</TITLE>\n</HEAD>\n<BODY>\n\n\n<TABLE BORDER=0 CELLSPACING=1\
     \ CELLPADDING=7 WIDTH=610>\n<TR><TD WIDTH=\"39%\" VALIGN=\"TOP\">\n<P>Том 5,стр.\
@@ -55,3 +54,5 @@ gb_spravka:
     \ НКВД УССР<BR>\nпо Николаевской обл.</P>\n<P>СТ.ЛЕЙТЕНАНТ ГОСУД.БЕЗОПАСНОСТИ:<BR>\n\
     \ (ФИШЕР)</P>\n\n<P>ВРИД НАЧ. 3 ОТД. УГБ УНКВД<BR>\nМЛАДШИЙ ЛЕЙТЕНАНТ ГОСБЕЗОПАСНОСТИ:</P>\n\
     <p> (КУШНИР)</TD>\n</TR>\n</TABLE>\n</body></html>\n"
+  pictures:
+  - disk/pictures/v05/17-171-413-095.jpg

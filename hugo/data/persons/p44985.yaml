@@ -27,8 +27,7 @@ lists:
   date: '1942-01-29'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v15/17-171-378-203.jpg
+- list_id: '409'
   html: '<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские
     списки - Список 29.01.1942 (РГАСПИ. Ф.17. Оп.171. Д.378. Лл.196-211)</TITLE></HEAD><BODY>
 
@@ -71,3 +70,5 @@ gb_spravka:
     </BODY></HTML>
 
     '
+  pictures:
+  - disk/pictures/v15/17-171-378-203.jpg

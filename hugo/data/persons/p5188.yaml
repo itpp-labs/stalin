@@ -32,8 +32,7 @@ lists:
     kaganovic: true
     voroshilov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v02/17-171-410-188.jpg
+- list_id: '58'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки</TITLE>\n</HEAD>\n<BODY>\n\n\n<TABLE BORDER=0 CELLSPACING=1\
     \ CELLPADDING=7 WIDTH=610>\n<TR><TD WIDTH=\"39%\" VALIGN=\"TOP\">\n<P>Том 2,стр.\
@@ -47,3 +46,5 @@ gb_spravka:
     <P>ВИНОВНЫМ себя НЕ ПРИЗНАЛ.</P>\n<p>Уличается показаниями ЛЮ-КО-ЖУНА.</P>\n<P>гор.\
     \ Хабаровск.</P>\n\n<P>ВР.НАЧ. 3 ОТДЕЛА ГУГБ НКВД СССР<BR>\nКОМИССАР ГОС. БЕЗОПАСНОСТИ\
     \ 3-го РАНГА -<BR>\n (МИНАЕВ)</TD>\n</TR>\n</TABLE>\n</body></html>\n"
+  pictures:
+  - disk/pictures/v02/17-171-410-188.jpg

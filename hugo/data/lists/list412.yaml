@@ -1,3 +1,4 @@
+id: '412'
 title: Список арестованных МГБ СССР изменников родины, шпионов, подрывников и террористов
 archive:
   ref: РГАСПИ, ф.3, т.16, оп.57, дело 100
@@ -355,6 +356,32 @@ sublists:
       doublesexists: true
       gb_spravka: true
   - page:
+      pageid: '4067'
+      tom: '16'
+      pageintom: '68'
+      alistid: '412'
+      pagekind: '4'
+      arowcount: '2'
+      picturefile: 3-57-100-68.jpg
+      textfile: 16-a68.htm
+      sublisttitle: '0'
+      categorytitle: '0'
+      grouptitle: '1'
+      podpnkvd: '1'
+      pometa: '0'
+    page_image: v16/3-57-100-68.jpg
+    persons:
+    - id: '45662'
+      num: '21'
+      name: КОССА Михаил Ильич
+      doublesexists: true
+      gb_spravka: true
+    - id: '45663'
+      num: '22'
+      name: ГЛАВАЦКИЙ Иосиф Иосифович
+      doublesexists: true
+      gb_spravka: true
+  - page:
       pageid: '4068'
       tom: '16'
       pageintom: '69'
@@ -555,29 +582,3 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4067'
-      tom: '16'
-      pageintom: '68'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-68.jpg
-      textfile: 16-a68.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
-    page_image: v16/3-57-100-68.jpg
-    persons:
-    - id: '45662'
-      num: '21'
-      name: КОССА Михаил Ильич
-      doublesexists: true
-      gb_spravka: true
-    - id: '45663'
-      num: '22'
-      name: ГЛАВАЦКИЙ Иосиф Иосифович
-      doublesexists: true
-      gb_spravka: true

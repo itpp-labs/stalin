@@ -27,8 +27,7 @@ lists:
   date: '1940-09-06'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v13/17-171-421-487.jpg
+- list_id: '413'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки - Список 28.03.1941 (РГАСПИ. Ф.17. Оп.171. Д.421)\
     \ </TITLE>\n</HEAD>\n<BODY>\n\n<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=7 WIDTH=610>\n\
@@ -52,3 +51,5 @@ gb_spravka:
     \ деятельности связался с ЕРМАКОВЫМ (осужден к ВМН).\n<p>Как агент японской разведки\
     \ изобличается показаниями ЕРМАКОВА, КАЛУЖСКОГО (осуждены к ВМН), показаниями\
     \ КЛЕТНОГО и очной ставкой с ним. (КЛЕТНЫЙ арестован).\n</TD> </TR> </TABLE> </body></html>\n"
+  pictures:
+  - disk/pictures/v13/17-171-421-487.jpg

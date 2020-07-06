@@ -31,8 +31,7 @@ lists:
     jdanov: true
     voroshilov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v07/17-171-415-022.jpg
+- list_id: '252'
   html: '<HTML>
 
     <HEAD>
@@ -108,3 +107,5 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v07/17-171-415-022.jpg

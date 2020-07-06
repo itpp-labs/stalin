@@ -1,3 +1,4 @@
+id: '3'
 title: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край, Азово-Черноморский
   край, Свердловская обл., Баку, Красноярский край, Саратовская обл., Сталинградская
   обл., Горьковская обл., Куйбышевская обл., Казахстан, Ивановская обл. // 27 февраля
@@ -497,35 +498,22 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-011.jpg
     persons:
-    - id: '85'
-      num: '52'
-      name: ХАЙЦЕР Павел Борисович
-      spravka: true
-    - id: '86'
-      num: '53'
-      name: ШПОЛЯНСКИЙ Исай Яковлевич
-      spravka: true
-    - id: '87'
-      num: '54'
-      name: АЛЕЙ-ШМУКЛЕР Федор Семенович
-      spravka: true
-    - id: '88'
-      num: '55'
-      name: ЩУПАК Самуил Борисович
-      spravka: true
-    - id: '4353'
-      num: '56'
-      name: ЯРОШЕВСКИЙ Константин Петрович
-      doublesexists: true
-      spravka: true
     - id: '90'
       num: '1'
       name: АВЕРБАХ Григорий Лазаревич
+      spravka: true
+    - id: '106'
+      num: '1'
+      name: ГОЛУБЕНКО Николай Васильевич
       spravka: true
     - id: '4349'
       num: '2'
       name: БОБРОВНИК Александр Николаевич
       doublesexists: true
+      spravka: true
+    - id: '107'
+      num: '2'
+      name: ГУРЕЕВ Иван Семенович
       spravka: true
     - id: '92'
       num: '3'
@@ -583,13 +571,26 @@ sublists:
       num: '16'
       name: ЩЕЛИНСКИЙ Ефим Никифорович
       spravka: true
-    - id: '106'
-      num: '1'
-      name: ГОЛУБЕНКО Николай Васильевич
+    - id: '85'
+      num: '52'
+      name: ХАЙЦЕР Павел Борисович
       spravka: true
-    - id: '107'
-      num: '2'
-      name: ГУРЕЕВ Иван Семенович
+    - id: '86'
+      num: '53'
+      name: ШПОЛЯНСКИЙ Исай Яковлевич
+      spravka: true
+    - id: '87'
+      num: '54'
+      name: АЛЕЙ-ШМУКЛЕР Федор Семенович
+      spravka: true
+    - id: '88'
+      num: '55'
+      name: ЩУПАК Самуил Борисович
+      spravka: true
+    - id: '4353'
+      num: '56'
+      name: ЯРОШЕВСКИЙ Константин Петрович
+      doublesexists: true
       spravka: true
   - page:
       pageid: '12'
@@ -607,17 +608,60 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-012.jpg
     persons:
+    - id: '116'
+      num: '1'
+      name: ВАЙСБЕРГ Фроим Израилевич
+      spravka: true
+    - id: '121'
+      num: '1'
+      name: БРАГИНСКИЙ Иосиф Львович
+      spravka: true
+    - id: '126'
+      num: '1'
+      name: ГЕНКИН Лев Ильич
+      spravka: true
+    - id: '117'
+      num: '2'
+      name: МИХАЙЛИК Михаил Васильевич
+      spravka: true
+    - id: '122'
+      num: '2'
+      name: ВЕЛЬЧАК Вениамин Сергеевич
+      spravka: true
     - id: '108'
       num: '3'
       name: ЗОЛОТОВ Федор Михайлович
       spravka: true
+    - id: '118'
+      num: '3'
+      name: НОВАШ Франц Антонович
+      spravka: true
+    - id: '123'
+      num: '3'
+      name: КЛЕБАНОВА Роза Яковлевна
     - id: '109'
       num: '4'
       name: КОМАРОВСКИЙ Марк Борисович
       spravka: true
+    - id: '119'
+      num: '4'
+      name: СЕРГЕЕВ Сергей Яковлевич
+      spravka: true
+    - id: '124'
+      num: '4'
+      name: КРАСНИЦКИЙ Иосиф Михайлович
+      spravka: true
     - id: '110'
       num: '5'
       name: МИЗЕВИЧ Павел Александрович
+    - id: '120'
+      num: '5'
+      name: ШАЕВ Семен Яковлевич
+      spravka: true
+    - id: '125'
+      num: '5'
+      name: МАРЬЯНСКИЙ Вольф Абрамович
+      spravka: true
     - id: '111'
       num: '6'
       name: НЕЧИТАЙЛО Никифор Алексеевич
@@ -634,49 +678,6 @@ sublists:
     - id: '115'
       num: '10'
       name: ЯНДОВСКИЙ Петр Панфилович
-    - id: '116'
-      num: '1'
-      name: ВАЙСБЕРГ Фроим Израилевич
-      spravka: true
-    - id: '117'
-      num: '2'
-      name: МИХАЙЛИК Михаил Васильевич
-      spravka: true
-    - id: '118'
-      num: '3'
-      name: НОВАШ Франц Антонович
-      spravka: true
-    - id: '119'
-      num: '4'
-      name: СЕРГЕЕВ Сергей Яковлевич
-      spravka: true
-    - id: '120'
-      num: '5'
-      name: ШАЕВ Семен Яковлевич
-      spravka: true
-    - id: '121'
-      num: '1'
-      name: БРАГИНСКИЙ Иосиф Львович
-      spravka: true
-    - id: '122'
-      num: '2'
-      name: ВЕЛЬЧАК Вениамин Сергеевич
-      spravka: true
-    - id: '123'
-      num: '3'
-      name: КЛЕБАНОВА Роза Яковлевна
-    - id: '124'
-      num: '4'
-      name: КРАСНИЦКИЙ Иосиф Михайлович
-      spravka: true
-    - id: '125'
-      num: '5'
-      name: МАРЬЯНСКИЙ Вольф Абрамович
-      spravka: true
-    - id: '126'
-      num: '1'
-      name: ГЕНКИН Лев Ильич
-      spravka: true
 - title: Список от 27 февраля 1937 г. [Московская область]
   listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край,
     Азово-Черноморский край, Свердловская обл., Баку, Красноярский край, Саратовская
@@ -2408,7 +2409,6 @@ sublists:
       num: '12'
       name: АККЕРМАН Отто Максович
       doublesexists: true
-      gb_spravka: true
       spravka: true
     - id: '4686'
       num: '13'
@@ -2424,7 +2424,6 @@ sublists:
       num: '15'
       name: БРУНС Петр Артурович
       doublesexists: true
-      gb_spravka: true
     - id: '4688'
       num: '16'
       name: ВИЛЬДЕ Герри Оттович
@@ -2454,7 +2453,6 @@ sublists:
       num: '21'
       name: ЯКОБ Эрнст Бертрамович
       doublesexists: true
-      gb_spravka: true
       spravka: true
 - title: Список от 27 февраля 1937 г. [Сталинградская область]
   listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край,

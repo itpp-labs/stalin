@@ -26,7 +26,7 @@ lists:
   date: '1940-09-06'
   signs: {}
 gb_spravka:
-  pages: []
+- list_id: '413'
   html: '<HTML>
 
     <HEAD>
@@ -80,3 +80,4 @@ gb_spravka:
     </TD> </TR> </TABLE> </body></html>
 
     '
+  pictures: []

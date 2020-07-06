@@ -31,8 +31,7 @@ lists:
     voroshilov: true
     kosior: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v02/17-171-410-239.jpg
+- list_id: '63'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки</TITLE>\n</HEAD>\n<BODY>\n\n\n<TABLE BORDER=0 CELLSPACING=1\
     \ CELLPADDING=7 WIDTH=610>\n<TR><TD WIDTH=\"39%\" VALIGN=\"TOP\">\n<P>Том 2,стр.\
@@ -59,3 +58,5 @@ gb_spravka:
     \ Рики.</P>\n<p>Созналась.</P>\n<p>Брандлеровка.</P>\n<U>\n</U><P>ЗАМ. НАЧ. 3\
     \ ОТДЕЛА ГУГБ НКВД <BR>\nКОМБРИГ (ДАВЫДОВ)</P>\n\n<P>ВР/НАЧ. 1 ОТДЕЛЕНИЯ Ш ОТДЕЛА\
     \ –<BR>\n КАПИТАН ГОСУД. БЕЗОПАСНОСТИ (НАЙДМАН)</TD>\n</TR>\n</TABLE>\n</body></html>\n"
+  pictures:
+  - disk/pictures/v02/17-171-410-239.jpg

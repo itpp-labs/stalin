@@ -27,8 +27,7 @@ lists:
   date: '1950-03-23'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v16/3-57-100-04.jpg
+- list_id: '411'
   html: '<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские
     списки - Список 23.03.1950 (АП РФ Ф.3 оп.57 д.100 лл.2-54)</TITLE></HEAD><BODY>
 
@@ -67,3 +66,5 @@ gb_spravka:
     </BODY></HTML>
 
     '
+  pictures:
+  - disk/pictures/v16/3-57-100-04.jpg

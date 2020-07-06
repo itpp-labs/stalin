@@ -31,8 +31,7 @@ lists:
     voroshilov: true
     mikoyan: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v04/17-171-412-082.jpg
+- list_id: '86'
   html: '<HTML>
 
     <HEAD>
@@ -98,3 +97,5 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v04/17-171-412-082.jpg

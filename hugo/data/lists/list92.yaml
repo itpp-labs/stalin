@@ -1,3 +1,4 @@
+id: '92'
 title: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
   секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
   военные работники; работники НКВД) // " " ноября 1937 года
@@ -67,11 +68,6 @@ sublists:
       num: '0'
       name: АНТИПОВ Алексей Кириллович
       striked: true
-    - id: '12852'
-      num: '1'
-      name: БАЛИЦКИЙ Всеволод Апполонович
-      doublesexists: true
-      spravka: true
     - id: '12853'
       num: '0'
       name: БЛАГОНРАВОВ Георгий Иванович
@@ -95,24 +91,10 @@ sublists:
       name: БУХАРИН Николай Иванович
       striked: true
       spravka: true
-    - id: '15497'
-      num: '2'
-      name: БЫКИН Яков Борисович
-      doublesexists: true
-      spravka: true
     - id: '36082'
       num: '0'
       name: ВАРЕЙКИС Иосиф Михайлович
       striked: true
-      doublesexists: true
-      spravka: true
-    - id: '11949'
-      num: '3'
-      name: ВЕГЕР Евгений Ильич
-      spravka: true
-    - id: '26007'
-      num: '4'
-      name: ГИКАЛО Николай Федорович
       doublesexists: true
       spravka: true
     - id: '11951'
@@ -125,15 +107,6 @@ sublists:
       name: ГРЯДИНСКИЙ Федор Павлович
       striked: true
       doublesexists: true
-      spravka: true
-    - id: '36098'
-      num: '5'
-      name: ДЕРИБАС Терентий Дмитриевич
-      doublesexists: true
-      spravka: true
-    - id: '11954'
-      num: '6'
-      name: ЕРЕМИН Иван Глебович
       spravka: true
     - id: '36103'
       num: '0'
@@ -156,6 +129,40 @@ sublists:
       num: '0'
       name: ИКРАМОВ Акмаль
       striked: true
+      spravka: true
+    - id: '36197'
+      num: '0'
+      name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '12852'
+      num: '1'
+      name: БАЛИЦКИЙ Всеволод Апполонович
+      doublesexists: true
+      spravka: true
+    - id: '15497'
+      num: '2'
+      name: БЫКИН Яков Борисович
+      doublesexists: true
+      spravka: true
+    - id: '11949'
+      num: '3'
+      name: ВЕГЕР Евгений Ильич
+      spravka: true
+    - id: '26007'
+      num: '4'
+      name: ГИКАЛО Николай Федорович
+      doublesexists: true
+      spravka: true
+    - id: '36098'
+      num: '5'
+      name: ДЕРИБАС Терентий Дмитриевич
+      doublesexists: true
+      spravka: true
+    - id: '11954'
+      num: '6'
+      name: ЕРЕМИН Иван Глебович
       spravka: true
     - id: '11959'
       num: '7'
@@ -184,12 +191,6 @@ sublists:
       num: '12'
       name: КУБЯК Николай Афанасьевич
       spravka: true
-    - id: '36197'
-      num: '0'
-      name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
-      striked: true
-      doublesexists: true
-      spravka: true
     - id: '11966'
       num: '13'
       name: ЛЕПА Альфред Карлович
@@ -210,34 +211,10 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-123.jpg
     persons:
-    - id: '11967'
-      num: '14'
-      name: ЛЮБИМОВ Исидор Евстигнеевич
-      spravka: true
     - id: '11968'
       num: '0'
       name: МИХАЙЛОВ Михаил
       striked: true
-    - id: '11969'
-      num: '15'
-      name: НОСОВ Иван Петрович
-      doublesexists: true
-      spravka: true
-    - id: '36396'
-      num: '16'
-      name: ОСИНСКИЙ Валериан Валерианович
-      doublesexists: true
-      spravka: true
-    - id: '15470'
-      num: '17'
-      name: ПОПОВ Николай Николаевич
-      doublesexists: true
-      spravka: true
-    - id: '29632'
-      num: '18'
-      name: ПТУХА Владимир Васильевич
-      doublesexists: true
-      spravka: true
     - id: '36154'
       num: '0'
       name: ПЯТНИЦКИЙ Иосиф Аронович
@@ -267,6 +244,46 @@ sublists:
       name: РЫКОВ Алексей Иванович
       striked: true
       spravka: true
+    - id: '11983'
+      num: '0'
+      name: ЧЕРНОВ Михаил Александрович
+      striked: true
+      spravka: true
+    - id: '36195'
+      num: '0'
+      name: ЯКОВЛЕВ Яков Аркадьевич
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '11985'
+      num: '0'
+      name: ЯГОДА Генрих Григорьевич
+      striked: true
+      spravka: true
+    - id: '11967'
+      num: '14'
+      name: ЛЮБИМОВ Исидор Евстигнеевич
+      spravka: true
+    - id: '11969'
+      num: '15'
+      name: НОСОВ Иван Петрович
+      doublesexists: true
+      spravka: true
+    - id: '36396'
+      num: '16'
+      name: ОСИНСКИЙ Валериан Валерианович
+      doublesexists: true
+      spravka: true
+    - id: '15470'
+      num: '17'
+      name: ПОПОВ Николай Николаевич
+      doublesexists: true
+      spravka: true
+    - id: '29632'
+      num: '18'
+      name: ПТУХА Владимир Васильевич
+      doublesexists: true
+      spravka: true
     - id: '15502'
       num: '19'
       name: РЫНДИН Кузьма Васильевич
@@ -290,22 +307,6 @@ sublists:
       num: '23'
       name: ФИЛАТОВ Николай Алексеевич
       doublesexists: true
-      spravka: true
-    - id: '11983'
-      num: '0'
-      name: ЧЕРНОВ Михаил Александрович
-      striked: true
-      spravka: true
-    - id: '36195'
-      num: '0'
-      name: ЯКОВЛЕВ Яков Аркадьевич
-      striked: true
-      doublesexists: true
-      spravka: true
-    - id: '11985'
-      num: '0'
-      name: ЯГОДА Генрих Григорьевич
-      striked: true
       spravka: true
 - title: Список от ноября 1937г. [II Быв.члены КПК и КСК и Рев.Ком.ЦК]
   listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
@@ -344,6 +345,34 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
+    - id: '22366'
+      num: '0'
+      name: КОГАН Исаак Соломонович
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '29342'
+      num: '0'
+      name: ЛЕВИН Александр Андреевич
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '36144'
+      num: '0'
+      name: ПАСКУЦКИЙ Н.А.
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '12007'
+      num: '0'
+      name: '[нрзб]'
+      striked: true
+    - id: '12347'
+      num: '0'
+      name: ШАРАНГОВИЧ Василий Фомич
+      striked: true
+      doublesexists: true
+      spravka: true
     - id: '11987'
       num: '1'
       name: ГЕМЕРВЕРТ М.И.
@@ -371,18 +400,6 @@ sublists:
       num: '6'
       name: КАХИАНИ Михаил И.
       spravka: true
-    - id: '22366'
-      num: '0'
-      name: КОГАН Исаак Соломонович
-      striked: true
-      doublesexists: true
-      spravka: true
-    - id: '29342'
-      num: '0'
-      name: ЛЕВИН Александр Андреевич
-      striked: true
-      doublesexists: true
-      spravka: true
     - id: '11995'
       num: '7'
       name: МАНФРЕД С.А.
@@ -399,12 +416,6 @@ sublists:
     - id: '11998'
       num: '10'
       name: МОСКВИН Иван Михайлович
-      spravka: true
-    - id: '36144'
-      num: '0'
-      name: ПАСКУЦКИЙ Н.А.
-      striked: true
-      doublesexists: true
       spravka: true
     - id: '12000'
       num: '11'
@@ -436,10 +447,6 @@ sublists:
       num: '17'
       name: ФРЕНКЕЛЬ А.А.
       spravka: true
-    - id: '12007'
-      num: '0'
-      name: '[нрзб]'
-      striked: true
     - id: '12008'
       num: '18'
       name: ХЛОПЛЯНКИН Михаил Иванович
@@ -450,12 +457,6 @@ sublists:
     - id: '29492'
       num: '20'
       name: ШАДУНЦ С.К.
-      doublesexists: true
-      spravka: true
-    - id: '12347'
-      num: '0'
-      name: ШАРАНГОВИЧ Василий Фомич
-      striked: true
       doublesexists: true
       spravka: true
     - id: '26177'
@@ -587,6 +588,35 @@ sublists:
       pometa: '0'
     page_image: v04/17-171-412-126.jpg
     persons:
+    - id: '33086'
+      num: '0'
+      name: ВЕЙЦЕР Израиль Яковлевич
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '12037'
+      num: '0'
+      name: КРЕСТИНСКИЙ Николай Николаевич
+      striked: true
+      spravka: true
+    - id: '26062'
+      num: '0'
+      name: КРУГЛИКОВ Соломон Лазаревич
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '12048'
+      num: '0'
+      name: РОЗЕНГОЛЬЦ Аркадий Павлович
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '29665'
+      num: '0'
+      name: ЯКОВЛЕВА Варвара
+      striked: true
+      doublesexists: true
+      spravka: true
     - id: '33077'
       num: '1'
       name: АБОЛИН Кристап Кристапович
@@ -609,12 +639,6 @@ sublists:
     - id: '15477'
       num: '5'
       name: БОНДАРЕНКО Михаил Ильич
-      doublesexists: true
-      spravka: true
-    - id: '33086'
-      num: '0'
-      name: ВЕЙЦЕР Израиль Яковлевич
-      striked: true
       doublesexists: true
       spravka: true
     - id: '19134'
@@ -640,17 +664,6 @@ sublists:
     - id: '12036'
       num: '10'
       name: КОНГЕЛАРИ Валентин Александрович
-      doublesexists: true
-      spravka: true
-    - id: '12037'
-      num: '0'
-      name: КРЕСТИНСКИЙ Николай Николаевич
-      striked: true
-      spravka: true
-    - id: '26062'
-      num: '0'
-      name: КРУГЛИКОВ Соломон Лазаревич
-      striked: true
       doublesexists: true
       spravka: true
     - id: '12039'
@@ -696,12 +709,6 @@ sublists:
       num: '19'
       name: ПОСТНИКОВ Александр Михайлович
       spravka: true
-    - id: '12048'
-      num: '0'
-      name: РОЗЕНГОЛЬЦ Аркадий Павлович
-      striked: true
-      doublesexists: true
-      spravka: true
     - id: '15479'
       num: '20'
       name: РЫСКУЛОВ Тураф Рыскулович
@@ -710,12 +717,6 @@ sublists:
     - id: '12050'
       num: '21'
       name: ХОДЖИБАЕВ Абдурахман
-      doublesexists: true
-      spravka: true
-    - id: '29665'
-      num: '0'
-      name: ЯКОВЛЕВА Варвара
-      striked: true
       doublesexists: true
       spravka: true
 - title: Список от ноября 1937г. [V Быв.ответ.работники Наркоматов]

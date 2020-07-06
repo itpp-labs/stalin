@@ -28,8 +28,7 @@ lists:
     stalin: true
     molotov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v09/17-171-417-208.jpg
+- list_id: '183'
   html: '<HTML>
 
     <HEAD>
@@ -100,3 +99,5 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v09/17-171-417-208.jpg

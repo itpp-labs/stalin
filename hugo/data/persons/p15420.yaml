@@ -30,8 +30,7 @@ lists:
     molotov: true
     jdanov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v05/17-171-413-115.jpg
+- list_id: '122'
   html: '<HTML>
 
     <HEAD>
@@ -111,3 +110,5 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v05/17-171-413-115.jpg

@@ -31,8 +31,7 @@ lists:
     molotov: true
     jdanov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v05/17-171-413-199.jpg
+- list_id: '129'
   html: '<HTML>
 
     <HEAD>
@@ -112,3 +111,6 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v05/17-171-413-199.jpg
+primname: Геральдович

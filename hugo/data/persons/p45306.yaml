@@ -26,8 +26,7 @@ lists:
   date: '1940-09-06'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v13/17-171-421-145.jpg
+- list_id: '413'
   html: '<HTML>
 
     <HEAD>
@@ -106,3 +105,5 @@ gb_spravka:
     </TD> </TR> </TABLE> </body></html>
 
     '
+  pictures:
+  - disk/pictures/v13/17-171-421-145.jpg

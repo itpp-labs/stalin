@@ -27,7 +27,7 @@ lists:
   date: '1942-01-29'
   signs: {}
 gb_spravka:
-  pages: []
+- list_id: '409'
   html: "<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     ><TITLE>Сталинские списки - Список 29.01.1942 (РГАСПИ. Ф.17. Оп.171. Д.378. Лл.196-211)</TITLE></HEAD><BODY>\n\
     \n<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=7 WIDTH=638>\n<TR><TD WIDTH=\"41%\"\
@@ -39,3 +39,4 @@ gb_spravka:
     \ себя за сына одного из руководителей ВКП(б) и Советского правительства.<br>\n\
     <dd>Уличается показаниями свидетелей АРХИПОВА, БЛИЦ, ГОНЧАРОВА, ЛУГОВА.<br>\n\
     <dd>Сознался.</TD>\n</TR>\n</TABLE>\n\n</BODY></HTML>\n"
+  pictures: []

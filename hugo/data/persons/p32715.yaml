@@ -28,8 +28,7 @@ lists:
     stalin: true
     molotov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v08/17-171-416-293.jpg
+- list_id: '325'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки</TITLE>\n</HEAD>\n<BODY>\n\n\n<TABLE BORDER=0 CELLSPACING=1\
     \ CELLPADDING=7 WIDTH=610>\n<TR><TD WIDTH=\"39%\" VALIGN=\"TOP\">\n<P>Том 8,стр.\
@@ -67,3 +66,5 @@ gb_spravka:
     \ область).</P></TD>\n</TR>\n</TABLE>\n\n<P>ПОМ НАЧ 3 ОТДЕЛА УГБ УНКВД<BR>\nпо\
     \ Ростовской области<BR>\nМЛ.ЛЕЙТЕНАНТ ГОСУД.БЕЗОПАСН.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\
     \ (МЕЖАНОВ)\n</body></html>\n"
+  pictures:
+  - disk/pictures/v08/17-171-416-293.jpg

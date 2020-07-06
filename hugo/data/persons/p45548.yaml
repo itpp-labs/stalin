@@ -26,8 +26,7 @@ lists:
   date: '1940-09-06'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v13/17-171-421-381.jpg
+- list_id: '413'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки - Список 28.03.1941 (РГАСПИ. Ф.17. Оп.171. Д.421)\
     \ </TITLE>\n</HEAD>\n<BODY>\n\n<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=7 WIDTH=610>\n\
@@ -58,3 +57,6 @@ gb_spravka:
     \ нападения.\n<p>Изобличается показаниями ПРОХОРОВА, МИТРОФАНОВОЙ, ИВАНОВА, ЛИНЕВА,\
     \ КАСПРУК, ШКЛЯРУК, КУГАЙ, ВЕТВИНСКОГО (арестованы) и очными ставками с ними.\n\
     </TD> </TR> </TABLE> </body></html>\n"
+  pictures:
+  - disk/pictures/v13/17-171-421-381.jpg
+primname: р.1917

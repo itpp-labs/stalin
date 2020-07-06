@@ -32,8 +32,7 @@ lists:
     voroshilov: true
     ejov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v03/17-171-411-030.jpg
+- list_id: '220'
   html: "<HTML>\n<HEAD>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=windows-1251\"\
     >\n<TITLE>Сталинские списки</TITLE>\n</HEAD>\n<BODY>\n\n\n<TABLE BORDER=0 CELLSPACING=1\
     \ CELLPADDING=7 WIDTH=610>\n<TR><TD WIDTH=\"39%\" VALIGN=\"TOP\">\n<P>Том 3,стр.\
@@ -56,3 +55,6 @@ gb_spravka:
     <p>Виновной себя признала.</P>\n<p>ШПИОНКА-ТРОЦКИСТСКА.</P>\n<P>ЗАМ.НАЧ. 3 ОТДЕЛА\
     \ ГУГБ НКВД<BR>\n КОМБРИГ (Давыдов)</P>\n<P>НАЧ. 9 ОТД-НИЯ 3 ОТД. ГУГБ НКВД<BR>\n\
     КАПИТАН ГОСУД. БЕЗОПАСНОСТИ (Полячек)</TD>\n</TR>\n</TABLE>\n</body></html>\n"
+  pictures:
+  - disk/pictures/v03/17-171-411-030.jpg
+primname: Мюллер

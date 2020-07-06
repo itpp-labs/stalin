@@ -26,8 +26,7 @@ lists:
   date: '1940-09-06'
   signs: {}
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v14/17-171-420-043.jpg
+- list_id: '410'
   html: '<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские
     списки - Список 06.09.1940 (РГАСПИ. Ф.17. Оп.171. Д.420. Лл.1-68)</TITLE></HEAD><BODY>
 
@@ -89,3 +88,5 @@ gb_spravka:
     </BODY></HTML>
 
     '
+  pictures:
+  - disk/pictures/v14/17-171-420-043.jpg

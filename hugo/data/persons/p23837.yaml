@@ -31,8 +31,7 @@ lists:
     kaganovic: true
     voroshilov: true
 gb_spravka:
-  pages:
-  - picture: disk/pictures/v06/17-171-414-365.jpg
+- list_id: '380'
   html: '<HTML>
 
     <HEAD>
@@ -97,3 +96,5 @@ gb_spravka:
     </body></html>
 
     '
+  pictures:
+  - disk/pictures/v06/17-171-414-365.jpg

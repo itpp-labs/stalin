@@ -1,3 +1,4 @@
+id: '16'
 title: Список лиц - Москва-центр // 15 мая 1937 года
 archive:
   ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
@@ -544,6 +545,36 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-137.jpg
     persons:
+    - id: '12235'
+      num: '1'
+      name: АЙХЕНВАЛЬД Александр Юлиевич
+      striked: true
+      doublesexists: true
+      spravka: true
+    - id: '2152'
+      num: '2'
+      name: АКУЛКИН Леонид Анисимович
+      spravka: true
+    - id: '2153'
+      num: '3'
+      name: БАСЮБИН Василий Григорьевич
+    - id: '2154'
+      num: '4'
+      name: ЕРМОЛОВ Георгий Васильевич
+    - id: '2155'
+      num: '5'
+      name: КОВАЛЕВ Иван Алексеевич
+    - id: '2156'
+      num: '6'
+      name: ЛОСЕВ Петр Филиппович
+    - id: '2157'
+      num: '7'
+      name: МЯКИН Филипп Александрович
+    - id: '36192'
+      num: '8'
+      name: ШМИДТ Василий Владимирович
+      doublesexists: true
+      spravka: true
     - id: '2136'
       num: '25'
       name: МАКСИМОВ Николай Петрович
@@ -595,36 +626,6 @@ sublists:
     - id: '2150'
       num: '39'
       name: ЭПШТЕЙН Самуил Исаакович
-      spravka: true
-    - id: '12235'
-      num: '1'
-      name: АЙХЕНВАЛЬД Александр Юлиевич
-      striked: true
-      doublesexists: true
-      spravka: true
-    - id: '2152'
-      num: '2'
-      name: АКУЛКИН Леонид Анисимович
-      spravka: true
-    - id: '2153'
-      num: '3'
-      name: БАСЮБИН Василий Григорьевич
-    - id: '2154'
-      num: '4'
-      name: ЕРМОЛОВ Георгий Васильевич
-    - id: '2155'
-      num: '5'
-      name: КОВАЛЕВ Иван Алексеевич
-    - id: '2156'
-      num: '6'
-      name: ЛОСЕВ Петр Филиппович
-    - id: '2157'
-      num: '7'
-      name: МЯКИН Филипп Александрович
-    - id: '36192'
-      num: '8'
-      name: ШМИДТ Василий Владимирович
-      doublesexists: true
       spravka: true
   - page:
       pageid: '138'
