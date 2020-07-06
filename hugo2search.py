@@ -35,6 +35,8 @@ def persons_index():
 
             if spravki:
                 spravka_preview = spravki[0]["spravka"][:500].replace("\\t", " ").replace("\n", " ")
+            else:
+                spravka_preview = ""
             data = {
                 "firstname": p["name"]["firstname"],
                 "midname": p["name"]["midname"],
