@@ -25,7 +25,7 @@
     {{ $pageid := .page.pageid }}
     {{ $pageintom := .page.pageintom }}
 
-  <div id="page{{ $pageid }}" class="mt-5 is-clearfix">
+    <div id="page-{{ $pageintom }}" class="mt-5 is-clearfix">
 
           <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}<span></h4>
 
@@ -33,7 +33,7 @@
               <img src="/disk/pictures/{{ .page_image }}"/>
           </div>
 
-          <div id="page-{{ $pageintom }}" class="page-text">
+          <div class="page-text">
 
               {{ range .persons }}
               <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
