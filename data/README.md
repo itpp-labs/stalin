@@ -9,6 +9,8 @@ Additional changes made on files:
 
   * `vkvs/pictures/`
 
+* Information fixes in persons.csv
+
 # db/
 
 Original db files can be found in `disk/vkvs/z2/data/vkvs2`. To load them to mysql do as following:
