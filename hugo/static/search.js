@@ -280,6 +280,7 @@ $(document).ready(function(){
         }
 
         var def;
+        $("#more").addClass("is-hidden");
         if (searchPersons){
             def = search("persons", query_bool, offset).done(function( data ) {
                 render_persons(data.hits.hits, offset);
@@ -300,7 +301,6 @@ $(document).ready(function(){
             def = search("lists", query_bool).done(function( data ) {
                 render_lists(data.hits.hits);
                 render_stats(data.hits.total);
-                $("#more").addClass("is-hidden");
             });
         }
         def.fail(function( data ) {
