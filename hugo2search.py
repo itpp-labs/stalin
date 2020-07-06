@@ -58,11 +58,11 @@ def persons_index():
                 "signejov": p2sign(p, "ejov"),
                 "signkosior": p2sign(p, "kosior"),
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
-                "gb_spravka_preview": bool(p["gb_spravka"]["html"]),
+                "gb_spravka_preview": bool(p["gb_spravka"]),
                 "spravka_preview": spravka_preview,
                 "lists": json_dumps(p["lists"]),
                 "spravka": json_dumps([s["spravka"].replace("\t", " ").replace("\n", " ") for s in spravki]),
-                "gb_spravka": clean_html(p["gb_spravka"]["html"]),
+                "gb_spravka": clean_html(" ".join(data['html'] for data in p["gb_spravka"])),
             }
             content = data2index("persons", doc_id, data)
             index_file.write(content)
