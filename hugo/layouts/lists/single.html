@@ -44,7 +44,7 @@
                   {{ if .doublesexists }} <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>{{end}}
                   {{ if .spravka }} <a href="/persons/p{{ .id }}#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>{{end}}
                   {{ if .gb_spravka }} <a href="/persons/p{{ .id }}#gb-{{ $data.id }}" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>{{end}}
-
+                  {{ if .primcoc }} <span class="pometa">{{ .primcoc }}</span>{{ end }}
               </p>
                   {{ if .primzv }}
                   </div>

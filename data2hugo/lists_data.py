@@ -124,6 +124,7 @@ def main():
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
                             primzv=p["primzv"],
+                            primcoc=p["primcoc"],
                             doublesexists=p["doublesexists"] == "1",
                             gb_spravka=person2gb_spravka[p["personid"]],
                             spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),
