@@ -38,6 +38,24 @@ div:target {
         max-width:50px;
     }
 }
+
+.primzv p{
+    text-align: center;
+}
+
+@media screen and (min-width: 769px) {
+    .primzv-num{
+        width: 30px !important;
+    }
+    .primzv-name{
+        width: 230px !important;
+    }
+    .primzv-zv{
+        width: 230px !important;
+    }
+}
+
+
 /* Make tabs responsive
 */
 @media screen and (max-width: 768px) {

@@ -74,6 +74,14 @@ def main():
 
         return list(values)
 
+    def p2name(p):
+        name = p["nameshow1"]
+        if not p["primzv"]:
+            return name
+        name = name.split(" ")
+        name.insert(1, "<br/>")
+        return " ".join(name)
+
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
@@ -110,11 +118,12 @@ def main():
                             {
                                 "id": p["headperson"],
                                 "num": p["nomer"],
-                                "name": p["nameshow1"],
+                                "name": p2name(p),
                             },
                             striked=p["striked"] == "1",
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
+                            primzv=p["primzv"],
                             doublesexists=p["doublesexists"] == "1",
                             gb_spravka=person2gb_spravka[p["personid"]],
                             spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),

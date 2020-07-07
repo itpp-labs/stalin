@@ -29,20 +29,32 @@
 
           <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}<span></h4>
 
-          <div class="page-image page-image-preview is-pulled-right">
+          <div class="page-image page-image-preview is-pulled-right ml-5">
               <img src="/disk/pictures/{{ .page_image }}"/>
           </div>
 
           <div class="page-text">
 
               {{ range .persons }}
-              {{ if .subtitle1 }}{{ .subtitle1 | safeHTML }}{{ end }}
-              <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
+                  {{ if .subtitle1 }}{{ .subtitle1 | safeHTML }}{{ end }}
+                  {{/* TODO: it's a mess */}}
+              {{ if .primzv }} <div class="columns primzv is-gapless"><div class="column primzv-num is-1">{{ .num }}.</div><div class="column primzv-name is-3">{{ end }}
+              <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ if not .primzv }}{{ .num }}. {{ end }}{{ .name | safeHTML }}</span>&nbsp;
                   {{ if .pometa_text }} <span class="pometa">{{.pometa_text}}</span>{{end}}
                   {{ if .doublesexists }} <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>{{end}}
                   {{ if .spravka }} <a href="/persons/p{{ .id }}#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>{{end}}
                   {{ if .gb_spravka }} <a href="/persons/p{{ .id }}#gb-{{ $data.id }}" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>{{end}}
+
               </p>
+                  {{ if .primzv }}
+                  </div>
+                  <div class="column primzv-zv is-4">
+                      {{ .primzv }}
+                  </div>
+                  </div>
+
+                  {{ end }}
+
               {{ end }}
 
           </div>
