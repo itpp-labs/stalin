@@ -61,6 +61,8 @@ sublists:
       num: '1'
       name: АВЕРБАХ Леонид Николаевич
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '11469'
       num: '2'
       name: АКСЕНОВ Андрей Михайлович
@@ -526,6 +528,8 @@ sublists:
       name: РОМИН Северин Маврикеевич
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>МОСКВА-ЦЕНТР
+        </u></p><p align="right"><u>1-я категория</u>
   - page:
       pageid: '926'
       tom: '4'
@@ -545,6 +549,8 @@ sublists:
     - id: '11566'
       num: '1'
       name: ВЯЛОВ Николай Михайлович
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
+        категория</u>
     - id: '11567'
       num: '2'
       name: КАБАЧНИК Александр Яковлевич
@@ -590,9 +596,8 @@ sublists:
       num: '1'
       name: АГАФОНОВ Иван Дмитриевич
       spravka: true
-    - id: '11590'
-      num: '1'
-      name: ГРЕЧИШНИКОВ Александр Васильевич
+      subtitle1: <p align="center"><u>ДТО ГУГБ МОСКОВСКОГО УЗЛА </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '11572'
       num: '2'
       name: БАЗАНОВ Евгений Михайлович
@@ -664,6 +669,10 @@ sublists:
       num: '19'
       name: СТАНЕВИЧ Михаил Николаевич
       spravka: true
+    - id: '11590'
+      num: '1'
+      name: ГРЕЧИШНИКОВ Александр Васильевич
+      subtitle1: <p align="right"><u>2-я категория</u>
 - title: Список от 21 октября 1937г. [Московская область]
   listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
   sublisttitle: Московская область
@@ -697,16 +706,12 @@ sublists:
       num: '1'
       name: АНДРЕЕВ Константин Максимович
       spravka: true
-    - id: '11597'
-      num: '1'
-      name: ВОРОБЬЕВ Михаил Николаевич
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '11592'
       num: '2'
       name: БОДРОВ Дмитрий Дмитриевич
       spravka: true
-    - id: '11598'
-      num: '2'
-      name: ШЕЙНГАУЗ Исаак Осипович
     - id: '11593'
       num: '3'
       name: КАЛАШНИКОВ Николай Петрович
@@ -723,3 +728,10 @@ sublists:
       num: '6'
       name: ПОПОВ Владимир Николаевич
       spravka: true
+    - id: '11597'
+      num: '1'
+      name: ВОРОБЬЕВ Михаил Николаевич
+      subtitle1: <p align="right"><u>2-я категория</u>
+    - id: '11598'
+      num: '2'
+      name: ШЕЙНГАУЗ Исаак Осипович

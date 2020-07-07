@@ -62,6 +62,8 @@ sublists:
       num: '1'
       name: АДРЕНС Владимир Давыдович
       spravka: true
+      subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
+        ОБЛАСТЬ</u></p><p align="right"><u>Троцкисты.</u>
     - id: '2812'
       num: '2'
       name: АКСЕНОВ Иван Андреевич
@@ -431,61 +433,53 @@ sublists:
       num: '1'
       name: АНТОШКИН Дмитрий Васильевич
       spravka: true
-    - id: '2896'
-      num: '1'
-      name: ИСАЕВ Владимир Петрович
-      spravka: true
-    - id: '4240'
-      num: '1'
-      name: ЛЕЙБЕХЕР Эрнст Августович
-      doublesexists: true
-    - id: '2901'
-      num: '1'
-      name: БОРИСОВ Петр Михайлович
-      spravka: true
-    - id: '2908'
-      num: '1'
-      name: АЛЕКСАНДРОВ Павел Карпович
-      spravka: true
+      subtitle1: <p align="right"><u>Правые.</u>
     - id: '2893'
       num: '2'
       name: ДОМАШИН Пансофий Алексеевич
-      spravka: true
-    - id: '2897'
-      num: '2'
-      name: МАЛЯР Хава Израилевна
-    - id: '4253'
-      num: '2'
-      name: ФРЕБЕЛЬ Альфред Августович
-      doublesexists: true
-      spravka: true
-    - id: '2902'
-      num: '2'
-      name: КУШНИКОВ Георгий Васильевич
-      spravka: true
-    - id: '2909'
-      num: '2'
-      name: АЛЕКСЕЕВСКИЙ Владимир Александрович
       spravka: true
     - id: '2894'
       num: '3'
       name: ЛЕВИН Макс Людвигович
       spravka: true
+    - id: '2895'
+      num: '4'
+      name: СЛАВИНСКИЙ Ювенал Митрофанович
+      spravka: true
+    - id: '2896'
+      num: '1'
+      name: ИСАЕВ Владимир Петрович
+      spravka: true
+      subtitle1: <p align="right"><u>Децисты.</u>
+    - id: '2897'
+      num: '2'
+      name: МАЛЯР Хава Израилевна
     - id: '2898'
       num: '3'
       name: ПИЛИПЕНКО Борис Никифорович
       spravka: true
+    - id: '4240'
+      num: '1'
+      name: ЛЕЙБЕХЕР Эрнст Августович
+      doublesexists: true
+      subtitle1: <p align="right"><u>Брандлеровцы.</u>
+    - id: '4253'
+      num: '2'
+      name: ФРЕБЕЛЬ Альфред Августович
+      doublesexists: true
+      spravka: true
+    - id: '2901'
+      num: '1'
+      name: БОРИСОВ Петр Михайлович
+      spravka: true
+      subtitle1: <p align="right"><u>Меньшевики.</u>
+    - id: '2902'
+      num: '2'
+      name: КУШНИКОВ Георгий Васильевич
+      spravka: true
     - id: '2903'
       num: '3'
       name: МАЛЕВСКИЙ Георгий Михайлович
-      spravka: true
-    - id: '2910'
-      num: '3'
-      name: АНТИШИН Василий Иванович
-      spravka: true
-    - id: '2895'
-      num: '4'
-      name: СЛАВИНСКИЙ Ювенал Митрофанович
       spravka: true
     - id: '2904'
       num: '4'
@@ -501,6 +495,19 @@ sublists:
     - id: '2907'
       num: '7'
       name: ШАТРОВ Василий Александрович
+      spravka: true
+    - id: '2908'
+      num: '1'
+      name: АЛЕКСАНДРОВ Павел Карпович
+      spravka: true
+      subtitle1: <p align="right"><u>Эсеры.</u>
+    - id: '2909'
+      num: '2'
+      name: АЛЕКСЕЕВСКИЙ Владимир Александрович
+      spravka: true
+    - id: '2910'
+      num: '3'
+      name: АНТИШИН Василий Иванович
       spravka: true
   - page:
       pageid: '193'
@@ -680,32 +687,19 @@ sublists:
       num: '1'
       name: АНДРЮЩЕНКО Иван Васильевич
       spravka: true
-    - id: '2958'
-      num: '1'
-      name: БЛЮМЕ Юрий Александрович
-      spravka: true
+      subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
+        ОБЛАСТЬ</u></p><p align="right"><u>Троцкисты.</u>
     - id: '2944'
       num: '2'
       name: ВАККЕР Александр Борисович
-      spravka: true
-    - id: '2959'
-      num: '2'
-      name: ВАКС-ЛОМАНОСЕНКО Екатерина Самойловна
       spravka: true
     - id: '2945'
       num: '3'
       name: ГАПОНЕНКО Захар Петрович
       spravka: true
-    - id: '2960'
-      num: '3'
-      name: ВОРОНИН Олег Андреевич
     - id: '2946'
       num: '4'
       name: КИШИНСКИЙ Григорий Ильич
-      spravka: true
-    - id: '2961'
-      num: '4'
-      name: МАКЕЕВ Борис Максимович
       spravka: true
     - id: '2947'
       num: '5'
@@ -748,6 +742,22 @@ sublists:
     - id: '2957'
       num: '15'
       name: ЭЙЗЕНАХ Генрих Андреевич
+    - id: '2958'
+      num: '1'
+      name: БЛЮМЕ Юрий Александрович
+      spravka: true
+      subtitle1: <p align="right"><u>Эсеры.</u>
+    - id: '2959'
+      num: '2'
+      name: ВАКС-ЛОМАНОСЕНКО Екатерина Самойловна
+      spravka: true
+    - id: '2960'
+      num: '3'
+      name: ВОРОНИН Олег Андреевич
+    - id: '2961'
+      num: '4'
+      name: МАКЕЕВ Борис Максимович
+      spravka: true
   - page:
       pageid: '196'
       tom: '1'

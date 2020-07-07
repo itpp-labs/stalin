@@ -55,6 +55,7 @@ sublists:
       num: '1'
       name: АЛАФУЗО Михаил Иванович
       spravka: true
+      subtitle1: <p align="right"><u>1 КАТЕГОРИЯ.</u></p><p align="center"><u>МОСКВА-ЦЕНТР.</u>
     - id: '3892'
       num: '2'
       name: АНТОШИН Григорий Максимович
@@ -536,6 +537,7 @@ sublists:
     - id: '3996'
       num: '1'
       name: ВИНОКУРОВ Валентин Романович
+      subtitle1: <p align="right"><u>2 КАТЕГОРИЯ.</u></p><p align="center"><u>МОСКВА-ЦЕНТР</u>
     - id: '3997'
       num: '2'
       name: ВОЛКОВ Николай Владимирович
@@ -588,6 +590,8 @@ sublists:
       num: '1'
       name: БУНАКОВ Василий Васильевич
       spravka: true
+      subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
+        ОБЛАСТЬ.</u><br /> (5 отдел УГБ)
     - id: '4004'
       num: '2'
       name: ВАСИЛЕНКО Петр Михайлович
@@ -608,6 +612,7 @@ sublists:
       num: '6'
       name: ЕФИМОВ Михаил Кузьмич
       spravka: true
+      subtitle1: <p align="center">(Калуга)
     - id: '4009'
       num: '7'
       name: КВАША Никифор Нестерович
@@ -639,10 +644,13 @@ sublists:
     - id: '4012'
       num: '1'
       name: ТИТАРЕНКО Мария Иосифовна
+      subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
+        ОБЛАСТЬ.</u> <br />(5 Отд. УГБ)
     - id: '4013'
       num: '2'
       name: БОЛДЫРЕВ Константин Тимофеевич
       spravka: true
+      subtitle1: <p align="center">(Калуга)
     - id: '4014'
       num: '3'
       name: КАЛЯДИН Андрей Михайлович
@@ -654,9 +662,4 @@ sublists:
     - id: '4016'
       num: '5'
       name: ТРУБИЦИН Алексей Федорович
-      spravka: true
-    - id: '4017'
-      num: '6'
-      name: ''
-      doublesexists: true
       spravka: true

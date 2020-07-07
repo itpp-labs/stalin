@@ -72,6 +72,8 @@ sublists:
       name: АБРАМОВИЧ Казимир Францевич
       doublesexists: true
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '23672'
       num: '2'
       name: АВДОЩЕНКОВ Амплий Яковлевич
@@ -795,6 +797,8 @@ sublists:
     - id: '23827'
       num: '1'
       name: БОГДАНОВ Иван Ефимович
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '23828'
       num: '2'
       name: ГЕРАСИМОВ Димитрий Александрович
@@ -843,10 +847,8 @@ sublists:
       name: АКЧАЙ БИЛЯЛ ХИЛЬМИ ХУСЕЙН
       gb_spravka: true
       spravka: true
-    - id: '23842'
-      num: '1'
-      name: ЯНДЕР Альбина Рудольфовна
-      gb_spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(иностранные подданные)</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '23838'
       num: '2'
       name: БУРДЕ Фриц Фридрихович, он же <br />ЭДГАР, он же БУРКАРД Фриц
@@ -865,6 +867,11 @@ sublists:
       num: '5'
       name: РАТЦ Борис Иванович
       gb_spravka: true
+    - id: '23842'
+      num: '1'
+      name: ЯНДЕР Альбина Рудольфовна
+      gb_spravka: true
+      subtitle1: <p align="center"><u>2-я КАТЕГОРИЯ.</u>
 - title: Список от 3 февраля 1938г. [Московская область]
   listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
   sublisttitle: Московская область
@@ -898,6 +905,8 @@ sublists:
       num: '1'
       name: АБРАМОВ Григорий Васильевич
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '23844'
       num: '2'
       name: АКСАКОВ Михаил Георгиевич
@@ -924,6 +933,7 @@ sublists:
     - id: '23850'
       num: '8'
       name: ВИКСНЕ <s>Наум Абрамович</s> Павел Иванович
+      primcoc: '**Павел Иванович'
     - id: '23851'
       num: '9'
       name: ВИТОЛИН Петр Янович
@@ -1233,6 +1243,8 @@ sublists:
     - id: '23918'
       num: '1'
       name: ГЛАГОЛЕВ Евгений Николаевич
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '23919'
       num: '2'
       name: НЕРСЕСОВ Шмагон Моисеевич
@@ -1269,6 +1281,8 @@ sublists:
       num: '1'
       name: БЕРБОРО Святослав Михайлович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА. Жел.дор.им.ДЗЕРЖИНСКОГО </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '23921'
       num: '2'
       name: БОРЦОВ Иван Иванович

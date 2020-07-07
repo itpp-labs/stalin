@@ -64,6 +64,8 @@ sublists:
       num: '1'
       name: БЕЛЯЕВ Алексей Иванович
       spravka: true
+      subtitle1: <p align="right"><u>1 КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
+        С.С.Р. </u><br /><u> гор. Киев.</u>
     - id: '3020'
       num: '2'
       name: БЕРЕЗИН Борис Давыдович
@@ -165,74 +167,76 @@ sublists:
       num: '1'
       name: АГУПОВ Даниил Федорович
       spravka: true
-    - id: '3050'
-      num: '1'
-      name: БОГУЦКИЙ Владимир Никифорович
-      spravka: true
+      subtitle1: <p align="center"><u>гор. Сталино.</u>
     - id: '3041'
       num: '2'
       name: ГАВРИЛЮК Иван Семенович
-      spravka: true
-    - id: '3051'
-      num: '2'
-      name: ЕМЕЦ Павел Федорович
       spravka: true
     - id: '3042'
       num: '3'
       name: ГЕРАСИМЕНКО Алексей Семенович
       spravka: true
-    - id: '3052'
-      num: '3'
-      name: ЗАСЛАВСКИЙ Ефим Шулимович
-      spravka: true
     - id: '3043'
       num: '4'
       name: МАРДЫБАН Владимир Васильевич
       spravka: true
-    - id: '3053'
-      num: '4'
-      name: ЗИНЦОВ Николай Иванович
     - id: '3044'
       num: '5'
       name: ПЕЛИПЕШКО Петр Георгиевич
-      spravka: true
-    - id: '3054'
-      num: '5'
-      name: КАСЬЯН Яков Яковлевич
       spravka: true
     - id: '3045'
       num: '6'
       name: ПЕРЕРВА Алексей Михайлович
       spravka: true
-    - id: '3055'
-      num: '6'
-      name: КЛУПТ Георгий Соломонович
-      spravka: true
     - id: '3046'
       num: '7'
       name: ПРИМЕРОВ Василий Андреевич
       spravka: true
-    - id: '3056'
-      num: '7'
-      name: КОЛЕСНИКОВ Алексей Зиновьевич
     - id: '3047'
       num: '8'
       name: ПРИХОДЬКО Артем Яковлевич
       spravka: true
-    - id: '3057'
-      num: '8'
-      name: ЛЫМАРЕНКО Даниил Семенович
     - id: '3048'
       num: '9'
       name: СИМОНОВ Алексей Иванович
       spravka: true
-    - id: '3058'
-      num: '9'
-      name: МАЕВСКИЙ Николай Захарович
-      spravka: true
     - id: '3049'
       num: '10'
       name: СТАРЦЕВ Антон Антонович
+      spravka: true
+    - id: '3050'
+      num: '1'
+      name: БОГУЦКИЙ Владимир Никифорович
+      spravka: true
+      subtitle1: <p align="center"><u>гор. Харьков</u>
+    - id: '3051'
+      num: '2'
+      name: ЕМЕЦ Павел Федорович
+      spravka: true
+    - id: '3052'
+      num: '3'
+      name: ЗАСЛАВСКИЙ Ефим Шулимович
+      spravka: true
+    - id: '3053'
+      num: '4'
+      name: ЗИНЦОВ Николай Иванович
+    - id: '3054'
+      num: '5'
+      name: КАСЬЯН Яков Яковлевич
+      spravka: true
+    - id: '3055'
+      num: '6'
+      name: КЛУПТ Георгий Соломонович
+      spravka: true
+    - id: '3056'
+      num: '7'
+      name: КОЛЕСНИКОВ Алексей Зиновьевич
+    - id: '3057'
+      num: '8'
+      name: ЛЫМАРЕНКО Даниил Семенович
+    - id: '3058'
+      num: '9'
+      name: МАЕВСКИЙ Николай Захарович
       spravka: true
     - id: '3059'
       num: '10'
@@ -273,48 +277,50 @@ sublists:
     - id: '3064'
       num: '1'
       name: АНОХИН Николай Захарович
+      subtitle1: <p align="center"><u>гор. Днепропетровск</u>
+    - id: '3065'
+      num: '2'
+      name: КЛИГ Григорий Исаакович
+    - id: '3066'
+      num: '3'
+      name: КЛИГ Ефим Исаакович
+    - id: '3067'
+      num: '4'
+      name: КРЫЛОВ Степан Иванович
+    - id: '3068'
+      num: '5'
+      name: ЛАКУТА Владимир Кондратьевич
+    - id: '3069'
+      num: '6'
+      name: МАРЬЯНОВСКИЙ Овсей Ефимович
+    - id: '3070'
+      num: '7'
+      name: ПОНОМАРЕНКО Владимир Степанович
     - id: '7044'
       num: '1'
       name: БЕРБЕКА Александр Тихонович
       doublesexists: true
       spravka: true
-    - id: '3065'
-      num: '2'
-      name: КЛИГ Григорий Исаакович
+      subtitle1: <p align="center"><u>гор. Одесса.</u>
     - id: '3072'
       num: '2'
       name: БУРЛАКОВ Павел Васильевич
       spravka: true
-    - id: '3066'
-      num: '3'
-      name: КЛИГ Ефим Исаакович
     - id: '3073'
       num: '3'
       name: ДУБОВ Ефим Соломонович
       spravka: true
-    - id: '3067'
-      num: '4'
-      name: КРЫЛОВ Степан Иванович
     - id: '3074'
       num: '4'
       name: КУЗНЕЦОВ Николай Павлович
       spravka: true
-    - id: '3068'
-      num: '5'
-      name: ЛАКУТА Владимир Кондратьевич
     - id: '3075'
       num: '5'
       name: МОРОЗОВ-ВОРОНЦОВ Николай Яковлевич
       spravka: true
-    - id: '3069'
-      num: '6'
-      name: МАРЬЯНОВСКИЙ Овсей Ефимович
     - id: '3076'
       num: '6'
       name: ПИСАРЕВ Василий Афанасьевич
-    - id: '3070'
-      num: '7'
-      name: ПОНОМАРЕНКО Владимир Степанович
     - id: '3077'
       num: '7'
       name: ПОГРЕБНОЙ Спиридон Иванович
@@ -341,48 +347,39 @@ sublists:
     - id: '3079'
       num: '1'
       name: БИТТЕЛЬМАХЕР Самуил Абрамович
-    - id: '3084'
-      num: '1'
-      name: АВЕРЬЯНОВ Михаил Матвеевич
-      spravka: true
-    - id: '3093'
-      num: '1'
-      name: БЕЛКИН Даниил Данилович
-      spravka: true
+      subtitle1: <p align="right"><u>1 КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
+        С.С.Р. </u><br /><u> г. Киев.</u>
     - id: '9257'
       num: '2'
       name: ДЗЮБЕНКО Степан Яковлевич
       doublesexists: true
-    - id: '3085'
-      num: '2'
-      name: БЫКАНОВ Иван Трофимович
-      spravka: true
-    - id: '3094'
-      num: '2'
-      name: КРАЗ Юрий Яковлевич
-      spravka: true
     - id: '3081'
       num: '3'
       name: НЕБИЙ Аис Андреевич
+      spravka: true
+    - id: '3082'
+      num: '4'
+      name: РОМАНЕНКО Василий Михайлович
+    - id: '3083'
+      num: '5'
+      name: ЮШМАНОВ Николай Захарович
+      spravka: true
+    - id: '3084'
+      num: '1'
+      name: АВЕРЬЯНОВ Михаил Матвеевич
+      spravka: true
+      subtitle1: <p align="center"><u>гор. Сталино.</u>
+    - id: '3085'
+      num: '2'
+      name: БЫКАНОВ Иван Трофимович
       spravka: true
     - id: '3086'
       num: '3'
       name: ВАСИЛЮК Иван Иванович
       spravka: true
-    - id: '3095'
-      num: '3'
-      name: ТОВАРИЩ Петр Иванович
-      spravka: true
-    - id: '3082'
-      num: '4'
-      name: РОМАНЕНКО Василий Михайлович
     - id: '3087'
       num: '4'
       name: ГУТКОВСКИЙ Дмитрий Иванович
-      spravka: true
-    - id: '3083'
-      num: '5'
-      name: ЮШМАНОВ Николай Захарович
       spravka: true
     - id: '3088'
       num: '5'
@@ -404,6 +401,19 @@ sublists:
       num: '9'
       name: ТОЛСТУШЕНКО Иван Трофимович
       spravka: true
+    - id: '3093'
+      num: '1'
+      name: БЕЛКИН Даниил Данилович
+      spravka: true
+      subtitle1: <p align="center"><u>гор. Харьков.</u>
+    - id: '3094'
+      num: '2'
+      name: КРАЗ Юрий Яковлевич
+      spravka: true
+    - id: '3095'
+      num: '3'
+      name: ТОВАРИЩ Петр Иванович
+      spravka: true
   - page:
       pageid: '210'
       tom: '1'
@@ -423,28 +433,30 @@ sublists:
     - id: '3096'
       num: '1'
       name: ДЗЮБЕНКО Иван Григорьевич
-    - id: '3100'
-      num: '1'
-      name: БЕЛИЛОВСКАЯ Тася Натановна
-      spravka: true
+      subtitle1: <p align="center"><u>гор. Днепропетровск.</u>
     - id: '3097'
       num: '2'
       name: ДУКА Николай Иванович
-    - id: '3101'
-      num: '2'
-      name: КУЗНЕЦОВ Петр Лаврентьевич
     - id: '3098'
       num: '3'
       name: МИЛЛЕР-ЛОКУТА Александра Федоровна
       spravka: true
+    - id: '3099'
+      num: '4'
+      name: СОШКО Михаил Игнатьевич
+    - id: '3100'
+      num: '1'
+      name: БЕЛИЛОВСКАЯ Тася Натановна
+      spravka: true
+      subtitle1: <p align="center"><u>гор. Одесса.</u>
+    - id: '3101'
+      num: '2'
+      name: КУЗНЕЦОВ Петр Лаврентьевич
     - id: '7113'
       num: '3'
       name: ТУЛЬСКИЙ Ефим Владимирович
       doublesexists: true
       spravka: true
-    - id: '3099'
-      num: '4'
-      name: СОШКО Михаил Игнатьевич
     - id: '3103'
       num: '4'
       name: ЮЗЕВИЧ Исаак Осипович
@@ -468,3 +480,5 @@ sublists:
     - id: '3104'
       num: '1'
       name: ПЕРЕПЕЛИЦА Петр Васильевич
+      subtitle1: <p align="right"><u>3-я КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
+        С.С.Р. </u><br /><u> гор. Харьков.</u>

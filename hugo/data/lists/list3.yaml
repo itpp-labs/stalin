@@ -79,6 +79,8 @@ sublists:
       num: '1'
       name: БРОЙДТ Сергей Александрович
       spravka: true
+      subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>СПИСОК.</u><br
+        /><u>МОСКВА-ЦЕНТР</u>
     - id: '2'
       num: '2'
       name: БРОНШТЕЙН Мойсей Иосифович
@@ -271,6 +273,7 @@ sublists:
       num: '1'
       name: АГОЛ Израил Иосифович
       spravka: true
+      subtitle1: <p align="center"><u>УКРАИНА </u><br /><u> КИЕВ</u>
     - id: '35'
       num: '2'
       name: АХМАТОВ Лев Самойлович
@@ -498,22 +501,36 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-011.jpg
     persons:
+    - id: '85'
+      num: '52'
+      name: ХАЙЦЕР Павел Борисович
+      spravka: true
+    - id: '86'
+      num: '53'
+      name: ШПОЛЯНСКИЙ Исай Яковлевич
+      spravka: true
+    - id: '87'
+      num: '54'
+      name: АЛЕЙ-ШМУКЛЕР Федор Семенович
+      spravka: true
+    - id: '88'
+      num: '55'
+      name: ЩУПАК Самуил Борисович
+      spravka: true
+    - id: '4353'
+      num: '56'
+      name: ЯРОШЕВСКИЙ Константин Петрович
+      doublesexists: true
+      spravka: true
     - id: '90'
       num: '1'
       name: АВЕРБАХ Григорий Лазаревич
       spravka: true
-    - id: '106'
-      num: '1'
-      name: ГОЛУБЕНКО Николай Васильевич
-      spravka: true
+      subtitle1: <p align="center"><u>ХАРЬКОВ.</u>
     - id: '4349'
       num: '2'
       name: БОБРОВНИК Александр Николаевич
       doublesexists: true
-      spravka: true
-    - id: '107'
-      num: '2'
-      name: ГУРЕЕВ Иван Семенович
       spravka: true
     - id: '92'
       num: '3'
@@ -571,26 +588,14 @@ sublists:
       num: '16'
       name: ЩЕЛИНСКИЙ Ефим Никифорович
       spravka: true
-    - id: '85'
-      num: '52'
-      name: ХАЙЦЕР Павел Борисович
+    - id: '106'
+      num: '1'
+      name: ГОЛУБЕНКО Николай Васильевич
       spravka: true
-    - id: '86'
-      num: '53'
-      name: ШПОЛЯНСКИЙ Исай Яковлевич
-      spravka: true
-    - id: '87'
-      num: '54'
-      name: АЛЕЙ-ШМУКЛЕР Федор Семенович
-      spravka: true
-    - id: '88'
-      num: '55'
-      name: ЩУПАК Самуил Борисович
-      spravka: true
-    - id: '4353'
-      num: '56'
-      name: ЯРОШЕВСКИЙ Константин Петрович
-      doublesexists: true
+      subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСК.</u>
+    - id: '107'
+      num: '2'
+      name: ГУРЕЕВ Иван Семенович
       spravka: true
   - page:
       pageid: '12'
@@ -608,60 +613,17 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-012.jpg
     persons:
-    - id: '116'
-      num: '1'
-      name: ВАЙСБЕРГ Фроим Израилевич
-      spravka: true
-    - id: '121'
-      num: '1'
-      name: БРАГИНСКИЙ Иосиф Львович
-      spravka: true
-    - id: '126'
-      num: '1'
-      name: ГЕНКИН Лев Ильич
-      spravka: true
-    - id: '117'
-      num: '2'
-      name: МИХАЙЛИК Михаил Васильевич
-      spravka: true
-    - id: '122'
-      num: '2'
-      name: ВЕЛЬЧАК Вениамин Сергеевич
-      spravka: true
     - id: '108'
       num: '3'
       name: ЗОЛОТОВ Федор Михайлович
       spravka: true
-    - id: '118'
-      num: '3'
-      name: НОВАШ Франц Антонович
-      spravka: true
-    - id: '123'
-      num: '3'
-      name: КЛЕБАНОВА Роза Яковлевна
     - id: '109'
       num: '4'
       name: КОМАРОВСКИЙ Марк Борисович
       spravka: true
-    - id: '119'
-      num: '4'
-      name: СЕРГЕЕВ Сергей Яковлевич
-      spravka: true
-    - id: '124'
-      num: '4'
-      name: КРАСНИЦКИЙ Иосиф Михайлович
-      spravka: true
     - id: '110'
       num: '5'
       name: МИЗЕВИЧ Павел Александрович
-    - id: '120'
-      num: '5'
-      name: ШАЕВ Семен Яковлевич
-      spravka: true
-    - id: '125'
-      num: '5'
-      name: МАРЬЯНСКИЙ Вольф Абрамович
-      spravka: true
     - id: '111'
       num: '6'
       name: НЕЧИТАЙЛО Никифор Алексеевич
@@ -678,6 +640,52 @@ sublists:
     - id: '115'
       num: '10'
       name: ЯНДОВСКИЙ Петр Панфилович
+    - id: '116'
+      num: '1'
+      name: ВАЙСБЕРГ Фроим Израилевич
+      spravka: true
+      subtitle1: <u>ДОНБАСС.</u>
+    - id: '117'
+      num: '2'
+      name: МИХАЙЛИК Михаил Васильевич
+      spravka: true
+    - id: '118'
+      num: '3'
+      name: НОВАШ Франц Антонович
+      spravka: true
+    - id: '119'
+      num: '4'
+      name: СЕРГЕЕВ Сергей Яковлевич
+      spravka: true
+    - id: '120'
+      num: '5'
+      name: ШАЕВ Семен Яковлевич
+      spravka: true
+    - id: '121'
+      num: '1'
+      name: БРАГИНСКИЙ Иосиф Львович
+      spravka: true
+      subtitle1: <u>ОДЕССА.</u>
+    - id: '122'
+      num: '2'
+      name: ВЕЛЬЧАК Вениамин Сергеевич
+      spravka: true
+    - id: '123'
+      num: '3'
+      name: КЛЕБАНОВА Роза Яковлевна
+    - id: '124'
+      num: '4'
+      name: КРАСНИЦКИЙ Иосиф Михайлович
+      spravka: true
+    - id: '125'
+      num: '5'
+      name: МАРЬЯНСКИЙ Вольф Абрамович
+      spravka: true
+    - id: '126'
+      num: '1'
+      name: ГЕНКИН Лев Ильич
+      spravka: true
+      subtitle1: <u>А.М. С.С.Р.</u>
 - title: Список от 27 февраля 1937 г. [Московская область]
   listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край,
     Азово-Черноморский край, Свердловская обл., Баку, Красноярский край, Саратовская
@@ -714,6 +722,7 @@ sublists:
       num: '1'
       name: БУРЦЕВ Михаил Петрович
       spravka: true
+      subtitle1: <u>МОСКОВСКАЯ ОБЛАСТЬ.</u>
     - id: '128'
       num: '2'
       name: ВЕРНЕР Владимир Маркович
@@ -848,6 +857,7 @@ sublists:
       num: '1'
       name: БАРЫШЕВ Александр Петрович
       doublesexists: true
+      subtitle1: <u>ЗАПАДНО-СИБИРСКИЙ КРАЙ.</u>
     - id: '686'
       num: '2'
       name: БЕРМАНТ Иосиф Герасимович
@@ -1038,6 +1048,7 @@ sublists:
     - id: '185'
       num: '1'
       name: АБРАМОВ Алексей Андреевич
+      subtitle1: <u>АЗОВО-ЧЕРНОМОРСКИЙ КРАЙ.</u>
     - id: '186'
       num: '2'
       name: АНДРЕЕВ Георгий Георгиевич
@@ -1150,6 +1161,7 @@ sublists:
     - id: '210'
       num: '26'
       name: ГЕСТГУЙЗЕН Вильгельм Вильгельмович
+      primcoc: (герман. поддан.)
       spravka: true
     - id: '211'
       num: '27'
@@ -1479,6 +1491,7 @@ sublists:
       name: АБАЗАПУЛЛО Евгений Павлович
       doublesexists: true
       spravka: true
+      subtitle1: <u>СВЕРДЛОВСКАЯ ОБЛАСТЬ.</u>
     - id: '483'
       num: '2'
       name: АБРАМОВ Яков Константинович
@@ -2027,6 +2040,7 @@ sublists:
       num: '1'
       name: БАГДАСОРОВ Константин Исаевич
       doublesexists: true
+      subtitle1: <u>БАКУ</u>
     - id: '1754'
       num: '2'
       name: БАГИРОВ Халфали Мамед Багир оглы
@@ -2233,6 +2247,7 @@ sublists:
       name: АЛЕКСАНДРОВ Николай Федорович
       doublesexists: true
       spravka: true
+      subtitle1: <u>КРАСНОЯРСКИЙ КРАЙ.</u>
     - id: '1272'
       num: '2'
       name: БАРДИЛОВСКИЙ Иван Иванович
@@ -2356,6 +2371,7 @@ sublists:
       name: АСТРАХАНОВ Виталий Федорович
       doublesexists: true
       spravka: true
+      subtitle1: <u>САРАТОВСКАЯ ОБЛАСТЬ.</u>
     - id: '4259'
       num: '2'
       name: АФАНАСЬЕВ Павел Андреевич
@@ -2408,8 +2424,10 @@ sublists:
     - id: '4693'
       num: '12'
       name: АККЕРМАН Отто Максович
+      primcoc: '**'
       doublesexists: true
       spravka: true
+      subtitle1: <u>(ГРУППА ГОФМАН-ЛЕОВА).</u>
     - id: '4686'
       num: '13'
       name: АШЕР Эрнест Гугович
@@ -2423,6 +2441,7 @@ sublists:
     - id: '4694'
       num: '15'
       name: БРУНС Петр Артурович
+      primcoc: '**'
       doublesexists: true
     - id: '4688'
       num: '16'
@@ -2452,8 +2471,10 @@ sublists:
     - id: '4695'
       num: '21'
       name: ЯКОБ Эрнст Бертрамович
+      primcoc: '**'
       doublesexists: true
       spravka: true
+      subtitle1: '**<u>ПРИМЕЧАНИЕ:-</u><u> АККЕРМАН, БРУНС и ЯКОБ - германские подданные.</u>'
 - title: Список от 27 февраля 1937 г. [Сталинградская область]
   listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край,
     Азово-Черноморский край, Свердловская обл., Баку, Красноярский край, Саратовская
@@ -2491,6 +2512,7 @@ sublists:
       name: АЛТАЕВ-БОГОЯВЛЕНСКИЙ Григорий Павлович
       doublesexists: true
       spravka: true
+      subtitle1: <u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ.</u>
     - id: '3413'
       num: '2'
       name: БОГОСЛОВСКИЙ Семен Александрович
@@ -2577,6 +2599,7 @@ sublists:
       name: АГАФОНОВ Давид Константинович
       doublesexists: true
       spravka: true
+      subtitle1: <u>ГОРЬКОВСКАЯ ОБЛАСТЬ.</u>
     - id: '1424'
       num: '2'
       name: АКАТОВ Геннадий Павлович
@@ -2638,6 +2661,7 @@ sublists:
       num: '1'
       name: ДУДКО Иосиф Аббакумович
       spravka: true
+      subtitle1: <u>КУЙБЫШЕВСКАЯ ОБЛАСТЬ.</u>
     - id: '470'
       num: '2'
       name: ОЛЕСОВ Николай Алексеевич
@@ -2686,6 +2710,7 @@ sublists:
       name: БУХТИК Павел Иванович
       doublesexists: true
       spravka: true
+      subtitle1: <u>КАЗАХСТАН.</u>
     - id: '3760'
       num: '2'
       name: ИОФФЕ Борис Соломонович
@@ -2737,6 +2762,7 @@ sublists:
       num: '1'
       name: ДВОРЯНИНОВ Константин Дмитриевич
       spravka: true
+      subtitle1: <u>ИВАНОВСКАЯ ОБЛАСТЬ.</u>
     - id: '478'
       num: '2'
       name: ДВОРЯНИНОВ Федор Дмитриевич

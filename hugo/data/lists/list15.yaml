@@ -56,45 +56,48 @@ sublists:
     - id: '1969'
       num: '1'
       name: БЕЛОЗЕРОВ Василий Николаевич
-    - id: '1975'
-      num: '1'
-      name: АВДАШЕВ Николай Кузьмич
-      spravka: true
+      subtitle1: <p align="right"><u>1-я категория</u></p><p align="center"><u>Гор.
+        ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '1970'
       num: '2'
       name: ВДОВЕНКО Михаил Николаевич
-      spravka: true
-    - id: '1976'
-      num: '2'
-      name: АЛЕКСАНДРОВ Александр Григорьевич
       spravka: true
     - id: '1971'
       num: '3'
       name: КИСЕЛЕВ Гурий Иванович
       spravka: true
-    - id: '1977'
-      num: '3'
-      name: АЛЕКСАНДРОВ Василий Александрович
-      spravka: true
     - id: '1972'
       num: '4'
       name: ЛИС Ефим Самойлович
-      spravka: true
-    - id: '1978'
-      num: '4'
-      name: БРАУХШТЕЙН Михаил Львович
       spravka: true
     - id: '1973'
       num: '5'
       name: РОДИОНОВ Николай Александрович
       spravka: true
-    - id: '1979'
-      num: '5'
-      name: ДАВЫДОВ Михаил Петрович
-      spravka: true
     - id: '1974'
       num: '6'
       name: ЦВИБАК Михаил Миронович
+      spravka: true
+    - id: '1975'
+      num: '1'
+      name: АВДАШЕВ Николай Кузьмич
+      spravka: true
+      subtitle1: <p align="center"><u>II. Правые:</u>
+    - id: '1976'
+      num: '2'
+      name: АЛЕКСАНДРОВ Александр Григорьевич
+      spravka: true
+    - id: '1977'
+      num: '3'
+      name: АЛЕКСАНДРОВ Василий Александрович
+      spravka: true
+    - id: '1978'
+      num: '4'
+      name: БРАУХШТЕЙН Михаил Львович
+      spravka: true
+    - id: '1979'
+      num: '5'
+      name: ДАВЫДОВ Михаил Петрович
       spravka: true
     - id: '1980'
       num: '6'
@@ -221,58 +224,32 @@ sublists:
     - id: '2002'
       num: '1'
       name: БЕЛЯЕВ Василий Александрович
-    - id: '2016'
-      num: '1'
-      name: АРХАРОВА Екатерина Николаевна
+      subtitle1: <p align="right"><u>II-я категория.</u></p><p align="center"><u>Гор.
+        ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '2003'
       num: '2'
       name: ВИШНЯКОВ Иван Игнатьевич
-      spravka: true
-    - id: '12735'
-      num: '2'
-      name: ВОЛЬПЕ Александра Петровна
-      doublesexists: true
       spravka: true
     - id: '2004'
       num: '3'
       name: ГОРЕЛОВ Анатолий Ефимович
       spravka: true
-    - id: '2018'
-      num: '3'
-      name: ГОРДЕЕВ Николай Васильевич
     - id: '2005'
       num: '4'
       name: ГЮССОН Альберт Густавович
-    - id: '2019'
-      num: '4'
-      name: КАШИНЦЕВ Александр Семенович
     - id: '2006'
       num: '5'
       name: ЕРМАЧЕНКО Николай Фомич
-    - id: '2020'
-      num: '5'
-      name: КОРОЛЕВА Надежда Матвеевна
     - id: '2007'
       num: '6'
       name: КАЛЕЙС Август Симонович
       spravka: true
-    - id: '2021'
-      num: '6'
-      name: КОТОВА Евгения Афанасьевна
-      spravka: true
     - id: '2008'
       num: '7'
       name: КЛИМЕНКО Вероника Викторовна
-    - id: '2022'
-      num: '7'
-      name: КУЛЕШОВ Михаил Федорович
     - id: '2009'
       num: '8'
       name: МИХАЙЛОВ Александр Михайлович
-    - id: '2023'
-      num: '8'
-      name: ЛЕОШКО Иосиф Доминикович
-      spravka: true
     - id: '2010'
       num: '9'
       name: ПАВЛОВ Михаил Тимофеевич
@@ -293,6 +270,35 @@ sublists:
     - id: '2015'
       num: '14'
       name: СТУКАТАНОВ Петр Васильевич
+    - id: '2016'
+      num: '1'
+      name: АРХАРОВА Екатерина Николаевна
+      subtitle1: <p align="center"><u>II. Правые:</u>
+    - id: '12735'
+      num: '2'
+      name: ВОЛЬПЕ Александра Петровна
+      doublesexists: true
+      spravka: true
+    - id: '2018'
+      num: '3'
+      name: ГОРДЕЕВ Николай Васильевич
+    - id: '2019'
+      num: '4'
+      name: КАШИНЦЕВ Александр Семенович
+    - id: '2020'
+      num: '5'
+      name: КОРОЛЕВА Надежда Матвеевна
+    - id: '2021'
+      num: '6'
+      name: КОТОВА Евгения Афанасьевна
+      spravka: true
+    - id: '2022'
+      num: '7'
+      name: КУЛЕШОВ Михаил Федорович
+    - id: '2023'
+      num: '8'
+      name: ЛЕОШКО Иосиф Доминикович
+      spravka: true
   - page:
       pageid: '128'
       tom: '1'
@@ -349,9 +355,12 @@ sublists:
     - id: '2030'
       num: '1'
       name: ЕРМАЧЕНКОВА Мария Александровна
+      subtitle1: <p align="right"><u>III-я категория.</u></p><p align="center"><u>Гор.
+        ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '2031'
       num: '1'
       name: НИКОЛАЕВА Анастасия Ивановна
+      subtitle1: <p align="center"><u>II. Правые:</u>
     - id: '2032'
       num: '2'
       name: СМИРНОВА Серафима Александровна

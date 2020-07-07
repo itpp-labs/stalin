@@ -64,6 +64,8 @@ sublists:
       num: '1'
       name: АБОЛИН Анс Кристианович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '22330'
       num: '2'
       name: АГИШЕВ Идрис Исхакович
@@ -575,6 +577,8 @@ sublists:
       name: КОНСТАНДАКИ Яков Константинович
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(иностранные-подданные)</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '22437'
       num: '2'
       name: ПОПАНДОПУЛО Иван Дмитриевич
@@ -604,6 +608,8 @@ sublists:
     - id: '22441'
       num: '1'
       name: ЛИБИН Гирш Израилевич
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ</u>
     - id: '22442'
       num: '2'
       name: МИЗИШ Константин Антонович
@@ -643,6 +649,8 @@ sublists:
       num: '1'
       name: ГРАХОЛЬСКИЙ Борис Владимирович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(быв.сотрудники НКВД).</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '22440'
       num: '2'
       name: ДОЛИНСКИЙ Семен Моисеевич
@@ -679,6 +687,8 @@ sublists:
     - id: '22444'
       num: '1'
       name: АЛЕКСЕЕВ Стефан Иванович
+      subtitle1: <p align="center"><u>Гор.КАЛУГА - МОСКОВСКО-КИЕВСКАЯ ЖЕЛ.ДОРОГА </u></p><p
+        align="right"><u>1-я категория</u>
     - id: '22445'
       num: '2'
       name: БЕЛЯЕВ Владимир Александрович
@@ -774,13 +784,6 @@ sublists:
       pometa: '0'
     page_image: v06/17-171-414-232.jpg
     persons:
-    - id: '22472'
-      num: '1'
-      name: КАСЬЯНЕНКО Тихон Иванович
-    - id: '22473'
-      num: '2'
-      name: САМКО Кузьма Прокофьевич
-      spravka: true
     - id: '22466'
       num: '23'
       name: ПОМИНОВ Иван Павлович
@@ -804,3 +807,11 @@ sublists:
     - id: '22471'
       num: '28'
       name: ФИЛЬЧАКОВ Герасим Георгиевич
+    - id: '22472'
+      num: '1'
+      name: КАСЬЯНЕНКО Тихон Иванович
+      subtitle1: <p align="right"><u>2-я категория</u>
+    - id: '22473'
+      num: '2'
+      name: САМКО Кузьма Прокофьевич
+      spravka: true

@@ -113,6 +113,8 @@ sublists:
       num: '1'
       name: БААР Густав Иванович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '43620'
       num: '2'
       name: БАЖЕНОВ Валериан Иванович
@@ -401,6 +403,8 @@ sublists:
       num: '1'
       name: АЛЕКСЕЕВ-ЖЕЛЕЗНЯКОВ Владимир Павлович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '43681'
       num: '2'
       name: ГАРИН Леонид Борисович
@@ -533,6 +537,8 @@ sublists:
       num: '1'
       name: АБРАМОВ Андриан Федотович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '43706'
       num: '2'
       name: АБРАМОВ Николай Николаевич
@@ -1025,6 +1031,8 @@ sublists:
       name: ВЕРКМЕЙСТЕР Викентий Викентьевич
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ</u><br />(Иностранные-подданные)</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '43812'
       num: '2'
       name: ЗИНГФОГЕЛЬ Анна, она же <br />РЮСТОВ Фрида
@@ -1050,6 +1058,8 @@ sublists:
       num: '1'
       name: БАЖАНОВ Николай Сергеевич
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '43814'
       num: '2'
       name: БАТА Маргарита Георгиевна
@@ -1155,6 +1165,8 @@ sublists:
       name: ГАУШИЛЬД-ЛЕВЕН Гильда Карловна
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ</u><br />(Иностранные подданные)</p><p
+        align="right"><u>2-я КАТЕГОРИЯ.</u>
     - id: '43832'
       num: '2'
       name: КАЛИС Эрнст Янович
@@ -1195,6 +1207,8 @@ sublists:
       num: '1'
       name: АБРАМЧУК Макар Павлович
       spravka: true
+      subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '43834'
       num: '2'
       name: АВДЕЕВ Николай Алексеевич
@@ -1608,6 +1622,8 @@ sublists:
       num: '1'
       name: АГАПОВ Лаврентий Васильевич
       spravka: true
+      subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ</u>
     - id: '43923'
       num: '2'
       name: АКУЛОВ Иван Яковлевич
@@ -1678,6 +1694,8 @@ sublists:
       num: '1'
       name: АБРАМОВИЧ Рафаил Евелевич
       spravka: true
+      subtitle1: <p align="center"><u>КУЙБЫШЕВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '43933'
       num: '2'
       name: АБРОСИМОВ Мирон Петрович
@@ -2421,6 +2439,8 @@ sublists:
       num: '1'
       name: АЛЛАКИН Николай Дмитриевич
       spravka: true
+      subtitle1: <p align="center"><u>КУЙБЫШЕВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ</u>
     - id: '44096'
       num: '2'
       name: АНОСОВ Иван Иванович
@@ -2566,10 +2586,8 @@ sublists:
       num: '1'
       name: ДАНИЛОВ Иван Гаврилович
       spravka: true
-    - id: '44125'
-      num: '1'
-      name: ДМИТРИЕВ Александр Алексеевич
-      spravka: true
+      subtitle1: <p align="center"><u>ТАТАРСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44121'
       num: '2'
       name: КИТ-ВИТЕНКО Илья Павлович
@@ -2586,6 +2604,11 @@ sublists:
       num: '5'
       name: ПОСТНИКОВ Алексей Никифорович
       spravka: true
+    - id: '44125'
+      num: '1'
+      name: ДМИТРИЕВ Александр Алексеевич
+      spravka: true
+      subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
 - title: Список от 29 сентября 1938г. [Омская область]
   listtitle: Список лиц - Москва-центр,Московская область,Алтайский край,Куйбышевская
     обл.,Татарская АССР,Омская обл.,Украинская ССР,Ярославская обл.,Дагестанская АССР,Калмыцкая
@@ -2620,6 +2643,8 @@ sublists:
     - id: '44126'
       num: '1'
       name: БАБАКОВ Алексей Михайлович
+      subtitle1: <p align="center"><u>ОМСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44127'
       num: '2'
       name: ЗЕНЬКОВ Яков Иванович
@@ -2687,6 +2712,8 @@ sublists:
       num: '1'
       name: ДРОЗДОВСКИЙ Владимир Иванович
       spravka: true
+      subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ. </u></p><p align="center"><u> Гор. Днепропетровск</u>
     - id: '44134'
       num: '2'
       name: ЗАВРАЙСКИЙ Денис Лукьянович
@@ -2741,6 +2768,7 @@ sublists:
       num: '17'
       name: ЗАЛИТ Ерих Иванович
       spravka: true
+      subtitle1: <p align="center"><u>Гор. Киев.</u>
     - id: '44150'
       num: '18'
       name: КАЛИНИН Евгений Федорович
@@ -2774,6 +2802,7 @@ sublists:
       num: '22'
       name: ВЕЛИЧКО Герасим Самсонович
       spravka: true
+      subtitle1: <p align="center"><u>Гор. Полтава.</u>
     - id: '44155'
       num: '23'
       name: ПИВЕНЬ Иван Романович
@@ -2790,6 +2819,7 @@ sublists:
       num: '26'
       name: ДУЛКСНИС Иван Яковлевич (Якубович)
       spravka: true
+      subtitle1: <p align="center"><u>Гор. Сталино.</u>
     - id: '44159'
       num: '27'
       name: КУПЕРМАН Борис Григорьевич
@@ -2801,6 +2831,7 @@ sublists:
     - id: '44161'
       num: '29'
       name: АУШКАП Жан Карлович
+      subtitle1: <p align="center"><u>Гор. Харьков.</u>
     - id: '44162'
       num: '30'
       name: БАЛЮНАС Валерий Иванович
@@ -3008,6 +3039,8 @@ sublists:
       num: '1'
       name: АБРАМОВ Николай Николаевич
       spravka: true
+      subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44202'
       num: '2'
       name: БАРАШКОВ Иван Платонович
@@ -3153,6 +3186,8 @@ sublists:
       num: '1'
       name: АГЖИГИТОВ Абдурахман Ялямович
       spravka: true
+      subtitle1: <p align="center"><u>ДАГЕСТАНСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '45007'
       num: '2'
       name: АЛИЕВ Бейбулла Алиевич
@@ -3427,6 +3462,8 @@ sublists:
     - id: '44280'
       num: '1'
       name: АНПИЛОГОВ Иван Александрович
+      subtitle1: <p align="center"><u>КАЛМЫЦКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44281'
       num: '2'
       name: ОЧИРОВ Долан Боктаевич
@@ -3464,6 +3501,8 @@ sublists:
     - id: '44282'
       num: '1'
       name: АРТЕМЬЕВ Дмитрий Яковлевич
+      subtitle1: <p align="center"><u>КРЫМСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44283'
       num: '2'
       name: БОГОСЛАВСКИЙ Евгений Григорьевич
@@ -3547,6 +3586,8 @@ sublists:
     - id: '44296'
       num: '1'
       name: АБРАМОВ Михаил Сергеевич
+      subtitle1: <p align="center"><u>КРАСНОДАРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44297'
       num: '2'
       name: АВИЛЬЦЕВ Владимир Яковлевич
@@ -4113,6 +4154,8 @@ sublists:
     - id: '44432'
       num: '1'
       name: АБАКУМОВ Михаил Емельянович
+      subtitle1: <p align="center"><u>КРАСНОДАРСКИЙ КРАЙ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ</u>
     - id: '44433'
       num: '2'
       name: АЛЕКСЕЕВ Сергей Валентинович
@@ -4251,6 +4294,8 @@ sublists:
       num: '1'
       name: АДЕЛЬСОН Соля Яковлевич
       spravka: true
+      subtitle1: <p align="center"><u>ИВАНОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
     - id: '44461'
       num: '2'
       name: БАЙБАКОВ Сергей Иванович
@@ -4352,6 +4397,8 @@ sublists:
     - id: '44480'
       num: '1'
       name: БУРДЫКИН Герман Гаврилович
+      subtitle1: <p align="center"><u>ИВАНОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ</u>
     - id: '44481'
       num: '2'
       name: ДОБРОХОТОВ Иван Владимирович
@@ -4393,6 +4440,8 @@ sublists:
     - id: '44483'
       num: '1'
       name: БЕЛЯЕВ Павел Николаевич
+      subtitle1: <p align="center"><u>г.РОСТОВ ж.д. им.ВОРОШИЛОВА </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '44484'
       num: '2'
       name: ГЛЕЙМ Виктор Генрихович
@@ -4447,6 +4496,8 @@ sublists:
       num: '1'
       name: КОЛЬМАЙЕР Теодор Теодорович
       gb_spravka: true
+      subtitle1: <p align="center"><u>г.РОСТОВ ж.д. им.ВОРОШИЛОВА</u><br />(Иноподданные)</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
   - page:
       pageid: '3395'
       tom: '11'
@@ -4467,6 +4518,8 @@ sublists:
       num: '1'
       name: ГЛУХОВ Валентин Алексеевич
       spravka: true
+      subtitle1: <p align="center"><u>г.РОСТОВ ж.д. им. ВОРОШИЛОВА</u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '44497'
       num: '2'
       name: КВАРТОВКИН Константин Яковлевич

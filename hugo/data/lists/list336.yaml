@@ -56,6 +56,8 @@ sublists:
       num: '1'
       name: АСТАХОВ Яков Дмитриевич
       spravka: true
+      subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '19628'
       num: '2'
       name: БЕРКИС Ян Андреевич
@@ -162,17 +164,11 @@ sublists:
       num: '1'
       name: ГАЙДУКЕВИЧ Владимир Федорович
       spravka: true
-    - id: '19653'
-      num: '1'
-      name: ДЕНИСОВ Павел Васильевич
-      spravka: true
+      subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '19648'
       num: '2'
       name: ЕЛЕНИН Василий Алексеевич
-      spravka: true
-    - id: '19654'
-      num: '2'
-      name: МУРОВАННЫЙ Константин Тихонович
       spravka: true
     - id: '19649'
       num: '3'
@@ -189,6 +185,15 @@ sublists:
     - id: '19652'
       num: '6'
       name: ЯМПОЛЬСКИЙ Лазарь Хаимович
+      spravka: true
+    - id: '19653'
+      num: '1'
+      name: ДЕНИСОВ Павел Васильевич
+      spravka: true
+      subtitle1: <p align="right"><u>2-я категория</u>
+    - id: '19654'
+      num: '2'
+      name: МУРОВАННЫЙ Константин Тихонович
       spravka: true
 - title: Список от 3 января 1938г. [Ленинградская область]
   listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
@@ -224,6 +229,8 @@ sublists:
       num: '1'
       name: ВАВИЛОВ Михаил Иванович
       spravka: true
+      subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '19656'
       num: '2'
       name: ЯКСОН Ян Петрович
@@ -262,3 +269,5 @@ sublists:
       num: '1'
       name: СОБЯНИН Арефий Павлович
       spravka: true
+      subtitle1: <p align="center"><u>БЕЛОРУССКАЯ ССР </u></p><p align="right"><u>1-я
+        категория</u>

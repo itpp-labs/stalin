@@ -59,6 +59,8 @@ sublists:
       num: '1'
       name: АВЕРИН Яков Федорович
       spravka: true
+      subtitle1: <p align="right"><u>1-ая категория.</u></p><p align="center"><u>МОСКВА-ЦЕНТР
+        </u><br /><u> I. ТРОЦКИСТЫ.</u>
     - id: '2034'
       num: '2'
       name: БАРКОВ Валерий Ефимович
@@ -279,6 +281,7 @@ sublists:
       num: '1'
       name: АЛЕКСАНДРОВ Павел Константинович
       spravka: true
+      subtitle1: <p align="center"><u>II. ПРАВЫЕ.</u>
     - id: '2081'
       num: '2'
       name: АРЕФЬЕВ Алексей Дмитриевич
@@ -447,6 +450,8 @@ sublists:
       num: '1'
       name: АВЕРБУХ Давид Маркович
       spravka: true
+      subtitle1: <p align="right"><u>2-ая категория.</u></p><p align="center"><u>МОСКВА-ЦЕНТР
+        </u><br /><u> I. ТРОЦКИСТЫ.</u>
     - id: '2113'
       num: '2'
       name: АЛЕКСЕЕВСКИЙ Всеволод Михайлович
@@ -545,36 +550,6 @@ sublists:
       pometa: '0'
     page_image: v01/17-171-409-137.jpg
     persons:
-    - id: '12235'
-      num: '1'
-      name: АЙХЕНВАЛЬД Александр Юлиевич
-      striked: true
-      doublesexists: true
-      spravka: true
-    - id: '2152'
-      num: '2'
-      name: АКУЛКИН Леонид Анисимович
-      spravka: true
-    - id: '2153'
-      num: '3'
-      name: БАСЮБИН Василий Григорьевич
-    - id: '2154'
-      num: '4'
-      name: ЕРМОЛОВ Георгий Васильевич
-    - id: '2155'
-      num: '5'
-      name: КОВАЛЕВ Иван Алексеевич
-    - id: '2156'
-      num: '6'
-      name: ЛОСЕВ Петр Филиппович
-    - id: '2157'
-      num: '7'
-      name: МЯКИН Филипп Александрович
-    - id: '36192'
-      num: '8'
-      name: ШМИДТ Василий Владимирович
-      doublesexists: true
-      spravka: true
     - id: '2136'
       num: '25'
       name: МАКСИМОВ Николай Петрович
@@ -627,6 +602,37 @@ sublists:
       num: '39'
       name: ЭПШТЕЙН Самуил Исаакович
       spravka: true
+    - id: '12235'
+      num: '1'
+      name: АЙХЕНВАЛЬД Александр Юлиевич
+      striked: true
+      doublesexists: true
+      spravka: true
+      subtitle1: <p align="center"><u>II. ПРАВЫЕ.</u>
+    - id: '2152'
+      num: '2'
+      name: АКУЛКИН Леонид Анисимович
+      spravka: true
+    - id: '2153'
+      num: '3'
+      name: БАСЮБИН Василий Григорьевич
+    - id: '2154'
+      num: '4'
+      name: ЕРМОЛОВ Георгий Васильевич
+    - id: '2155'
+      num: '5'
+      name: КОВАЛЕВ Иван Алексеевич
+    - id: '2156'
+      num: '6'
+      name: ЛОСЕВ Петр Филиппович
+    - id: '2157'
+      num: '7'
+      name: МЯКИН Филипп Александрович
+    - id: '36192'
+      num: '8'
+      name: ШМИДТ Василий Владимирович
+      doublesexists: true
+      spravka: true
   - page:
       pageid: '138'
       tom: '1'
@@ -646,6 +652,8 @@ sublists:
     - id: '2159'
       num: '1'
       name: БЕРМАН Яков Борисович
+      subtitle1: <p align="right"><u>3-я категория.</u></p><p align="center"><u>МОСКВА-ЦЕНТР
+        </u><br /><u> I. ТРОЦКИСТЫ</u>
     - id: '2160'
       num: '2'
       name: МАКСИМОВА Александра Сидоровна

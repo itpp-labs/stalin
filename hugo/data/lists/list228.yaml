@@ -59,6 +59,8 @@ sublists:
       num: '1'
       name: АБАЗОВ Николай Сергеевич
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '8721'
       num: '2'
       name: АВДУЛОВ Виктор Дмитриевич
@@ -553,11 +555,13 @@ sublists:
     - id: '8831'
       num: '112'
       name: ЖЕБРОВСКИЙ Юлиан Владиславович
+      primcoc: (бывш.сотрудник НКВД)
       spravka: true
     - id: '8832'
       num: '113'
       name: ПОПОВ Николай Николаевич, он же <br />КОЛЧИН Сергей Семенович, КОЛЧИН
         Николай Николаевич, ВАДБОЛЬСКИЙ Николай Николаевич
+      primcoc: (быв.сотрудник НКВД)
       spravka: true
   - page:
       pageid: '684'
@@ -578,18 +582,22 @@ sublists:
     - id: '8833'
       num: '114'
       name: ПЯТНИЦКИЙ Виктор Дмитриевич
+      primcoc: (бывш.сотрудник НКВД)
       spravka: true
     - id: '8834'
       num: '115'
       name: СМИРНОВ Дмитрий Михайлович
+      primcoc: (бывш.сотрудник НКВД)
       spravka: true
     - id: '8835'
       num: '116'
       name: ФЕДОРОВ Андрей Павлович
+      primcoc: (бывш.сотрудник НКВД)
       spravka: true
     - id: '8836'
       num: '117'
       name: ХВИЮЗОВ Петр Александрович
+      primcoc: (бывш.сотрудник НКВД)
       spravka: true
   - page:
       pageid: '685'
@@ -612,6 +620,8 @@ sublists:
       name: ФРИДЛЯНДЕР Лео Абрамович
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u> <br /> (Иностранные подданные)
+        </p><p align="right"><u>1-я категория</u>
   - page:
       pageid: '687'
       tom: '3'
@@ -631,6 +641,8 @@ sublists:
     - id: '8838'
       num: '1'
       name: КУДРЯВЦЕВ Владимир Егорович
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
+        категория</u>
     - id: '8839'
       num: '2'
       name: ПИОТРОВСКИЙ Иосиф Францевич
@@ -668,3 +680,5 @@ sublists:
       num: '1'
       name: СКРОБ Кирилл Иванович
       spravka: true
+      subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория</u>

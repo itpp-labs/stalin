@@ -54,6 +54,8 @@ sublists:
       num: '1'
       name: АККЕРМАН Мартын Рудольфович
       spravka: true
+      subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '33279'
       num: '2'
       name: БЕЧИН Михаил Иванович
@@ -138,6 +140,8 @@ sublists:
       name: ГРЕБЛЬ Карл Карлович
       gb_spravka: true
       spravka: true
+      subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ</u><br />(Иностранные
+        подданные)</p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
   - page:
       pageid: '2598'
       tom: '8'
@@ -157,6 +161,8 @@ sublists:
     - id: '33296'
       num: '1'
       name: ВОРОБЬЕВ Иван Александрович
+      subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        КАТЕГОРИЯ.</u>
     - id: '33297'
       num: '2'
       name: ЖИТОВ Константин Алексеевич
@@ -213,14 +219,17 @@ sublists:
       num: '1'
       name: ДУБРОВИН Михаил Иванович
       spravka: true
-    - id: '33305'
-      num: '1'
-      name: ДИЕВ Петр Степанович
-      spravka: true
+      subtitle1: <p align="center"><u>ВОЛОГОДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ.</u>
     - id: '33304'
       num: '2'
       name: КОШУТИН Иван Федорович
       spravka: true
+    - id: '33305'
+      num: '1'
+      name: ДИЕВ Петр Степанович
+      spravka: true
+      subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
     - id: '33306'
       num: '2'
       name: ШЕЛКОВ Кузьма Иванович

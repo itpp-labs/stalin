@@ -50,6 +50,8 @@ sublists:
       num: '1'
       name: АВДОНИН Андрей Ефимович
       spravka: true
+      subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ </u></p><p align="right"><u>1-я
+        категория.</u>
     - id: '8187'
       num: '2'
       name: АКУНИШНИКОВ Константин Степанович
@@ -159,16 +161,6 @@ sublists:
       pometa: '0'
     page_image: v03/17-171-411-052.jpg
     persons:
-    - id: '24774'
-      num: '1'
-      name: БЕРЕСТНЕВ Ефим Михайлович
-      doublesexists: true
-    - id: '8229'
-      num: '2'
-      name: НЕМКЕВИЧ Константин Осипович
-    - id: '8230'
-      num: '3'
-      name: ОЛЕЙНИК Никифор Захарович
     - id: '8211'
       num: '26'
       name: МАЛЬЦЕВ Михаил Ефимович
@@ -230,3 +222,14 @@ sublists:
       num: '42'
       name: ЭЙХГОРН Николай Николаевич
       spravka: true
+    - id: '24774'
+      num: '1'
+      name: БЕРЕСТНЕВ Ефим Михайлович
+      doublesexists: true
+      subtitle1: <p align="right"><u>2-я категория</u>
+    - id: '8229'
+      num: '2'
+      name: НЕМКЕВИЧ Константин Осипович
+    - id: '8230'
+      num: '3'
+      name: ОЛЕЙНИК Никифор Захарович

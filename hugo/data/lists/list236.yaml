@@ -76,6 +76,8 @@ sublists:
       num: '1'
       name: БИБИКОВ Борис Львович
       spravka: true
+      subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР </u></p><p align="right"><u>1-я
+        категория. </u></p><p align="center"><u> ЦЕНТРАЛЬНЫЙ АППАРАТ УГБ НКВД УССР</u>
     - id: '9224'
       num: '2'
       name: ВЕКСЛЕР Лев Филиппович
@@ -210,6 +212,7 @@ sublists:
       num: '32'
       name: ВИНОГРАДОВ-МИНЧИН Александр Прокофьевич
       spravka: true
+      subtitle1: <p align="center"><u>КИЕВСКАЯ ОБЛАСТЬ</u>
     - id: '9255'
       num: '33'
       name: ВИШНЯКОВ Александр Петрович
@@ -256,6 +259,7 @@ sublists:
       num: '45'
       name: БЕЛОШИЦКИЙ Антон Андреевич
       spravka: true
+      subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
     - id: '9268'
       num: '46'
       name: ГЛАЗЕБНИК Иосиф Яковлевич
@@ -346,6 +350,7 @@ sublists:
       num: '65'
       name: АЛТУХОВ Спиридон Федорович
       spravka: true
+      subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ</u>
     - id: '9288'
       num: '66'
       name: АСТАШКИН Емельян Емельянович
@@ -486,6 +491,7 @@ sublists:
       num: '98'
       name: АРТАК Артак Абович
       spravka: true
+      subtitle1: <p align="center"><u>ДОНЕЦКАЯ ОБЛАСТЬ.</u>
     - id: '9321'
       num: '99'
       name: БЕЛОКОНОВ Петр Григорьевич
@@ -585,6 +591,7 @@ sublists:
       num: '119'
       name: АВВАКУМОВ Иван Ефимович
       spravka: true
+      subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ</u>
     - id: '9342'
       num: '120'
       name: БАРАБАШ Александр Саввич
@@ -708,6 +715,7 @@ sublists:
       num: '147'
       name: БОРШ Григорий Минович
       spravka: true
+      subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ.</u>
     - id: '9370'
       num: '148'
       name: ВЕРТЫГЕЛ Евсей Трофимович
@@ -763,6 +771,7 @@ sublists:
     - id: '9380'
       num: '158'
       name: ГОЛУБКО Александр Пименович
+      subtitle1: <p align="center"><u>ЧЕРНИГОВСКАЯ ОБЛАСТЬ</u>
     - id: '9381'
       num: '159'
       name: КАНЕВСКИЙ Ананий Иосифович
@@ -792,6 +801,7 @@ sublists:
       num: '167'
       name: АБРАМПОЛЬСКИЙ Георгий Михайлович
       spravka: true
+      subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ</u>
     - id: '9390'
       num: '168'
       name: АРХАНГЕЛЬСКИЙ Алексей Григорьевич
@@ -1119,6 +1129,7 @@ sublists:
     - id: '9463'
       num: '241'
       name: АВЕРБАХ Михаил Абрамович
+      subtitle1: <p align="center"><u>ХАРЬКОВСКИЙ ВОЕННЫЙ ОКРУГ</u>
     - id: '9464'
       num: '242'
       name: АНТОНЕНКО Александр Парфентьевич
@@ -1480,9 +1491,12 @@ sublists:
     - id: '9549'
       num: '1'
       name: КОВАЛЕНКО Михаил Алексеевич
+      subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
+        категория </u></p><p align="center"><u> ЦЕНТРАЛЬНЫЙ АППАРАТ УГБ НКВД УССР</u>
     - id: '9550'
       num: '2'
       name: БЛИЗНЮКОВ Михаил Дмитриевич
+      subtitle1: <p align="center"><u>КИЕВСКАЯ ОБЛАСТЬ</u>
     - id: '9551'
       num: '3'
       name: БОРИСОВ Борис Павлович
@@ -1537,6 +1551,7 @@ sublists:
       num: '18'
       name: БОНДАРЧУК Степан Андреевич
       spravka: true
+      subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ</u>
     - id: '9567'
       num: '19'
       name: КАСЬЯНОВ Федор Васильевич
@@ -1571,6 +1586,7 @@ sublists:
       num: '23'
       name: БЕСПЕЧНЫЙ Николай Иванович
       spravka: true
+      subtitle1: <p align="center"><u>ДОНЕЦКАЯ ОБЛАСТЬ</u>
     - id: '9572'
       num: '24'
       name: ВЛАСЮК Александр Михайлович
@@ -1622,6 +1638,7 @@ sublists:
     - id: '9584'
       num: '36'
       name: БАРКАН Бенцион Наумович
+      subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
     - id: '13087'
       num: '37'
       name: БУЗДАЛИН Сергей Феоктистович
@@ -1644,6 +1661,7 @@ sublists:
       num: '42'
       name: БАРСКИЙ Давид Ильич
       spravka: true
+      subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ</u>
     - id: '9591'
       num: '43'
       name: ВЛАДОВСКИЙ Григорий Яковлевич
@@ -1686,6 +1704,7 @@ sublists:
       num: '49'
       name: БРИЛЛИАНТ Григорий Давидович
       spravka: true
+      subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ</u>
     - id: '9598'
       num: '50'
       name: ВЫСОЦКИЙ Феодосий Михайлович
@@ -1704,6 +1723,7 @@ sublists:
     - id: '9602'
       num: '54'
       name: ДОБРЫНИНА-ОЙГЕНШТЕЙН Татьяна Константиновна
+      subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ</u>
     - id: '9603'
       num: '55'
       name: САВЧЕНКОВ Эммануил Павлович
@@ -1711,6 +1731,7 @@ sublists:
       num: '56'
       name: ОЛЕЙНИЧЕНКО Терентий Петрович
       spravka: true
+      subtitle1: <p align="center"><u>ХАРЬКОВСКИЙ ВОЕННЫЙ ОКРУГ</u>
     - id: '9605'
       num: '57'
       name: ЮЛИН Василий Сергеевич

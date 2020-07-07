@@ -52,6 +52,8 @@ sublists:
       num: '1'
       name: АРТЮХОВ Илларион Борисович
       spravka: true
+      subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
+        категория.</u>
     - id: '15262'
       num: '2'
       name: БЕРЗЦЕМ Альфред Иванович
@@ -127,6 +129,8 @@ sublists:
     - id: '15276'
       num: '1'
       name: НАРБЕКОВА Елизавета Николаевна
+      subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-ая
+        категория.</u>
     - id: '15277'
       num: '2'
       name: СМИРНОВА Елена Николаевна
@@ -166,10 +170,8 @@ sublists:
       num: '1'
       name: АКОПЯН Александр Егорович
       spravka: true
-    - id: '15298'
-      num: '1'
-      name: СКВОРЦОВ Яков Александрович
-      spravka: true
+      subtitle1: <p align="center"><u>КАРЕЛЬСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
+        категория</u>
     - id: '15280'
       num: '2'
       name: АНТОНЕН Эро Андреевич
@@ -242,3 +244,8 @@ sublists:
       num: '19'
       name: ЭКМАН Карл Эммануилович
       spravka: true
+    - id: '15298'
+      num: '1'
+      name: СКВОРЦОВ Яков Александрович
+      spravka: true
+      subtitle1: <p align="right"><u>2-я категория</u>
