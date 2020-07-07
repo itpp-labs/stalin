@@ -39,7 +39,7 @@
                   {{ if .subtitle1 }}{{ .subtitle1 | safeHTML }}{{ end }}
                   {{/* TODO: it's a mess */}}
               {{ if .primzv }} <div class="columns primzv is-gapless"><div class="column primzv-num is-1">{{ .num }}.</div><div class="column primzv-name is-3">{{ end }}
-              <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ if not .primzv }}{{ .num }}. {{ end }}{{ .name | safeHTML }}</span>&nbsp;
+              <p id="page-{{ $pageintom }}-num-{{ .num }}{{ if .rowinpage }}-{{ .rowinpage }}{{ end }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ if not .primzv }}{{ .num }}. {{ end }}{{ .name | safeHTML }}</span>&nbsp;
                   {{ if .pometa_text }} <span class="pometa">{{.pometa_text}}</span>{{end}}
                   {{ if .doublesexists }} <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>{{end}}
                   {{ if .spravka }} <a href="/persons/p{{ .id }}#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>{{end}}

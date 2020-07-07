@@ -33,7 +33,7 @@ def main():
         return int(nomer)
 
     for sublist, persons in persons_by_sublist.items():
-        persons = sorted(persons, key=lambda p: (int(p['pageintom']), p2nomer(p)))
+        persons = sorted(persons, key=lambda p: (int(p['pageintom']), int(p["rowinpage"])))
         persons_by_page = x2many(
             lambda r: get_page_ref(r['tom'], r['pageintom']),
             persons
@@ -120,6 +120,7 @@ def main():
                                 "num": p["nomer"],
                                 "name": p2name(p),
                             },
+                            rowinpage=p['rowinpage'] if p["nomer"] == '0' else None,
                             striked=p["striked"] == "1",
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
