@@ -118,6 +118,7 @@ def main():
                             doublesexists=p["doublesexists"] == "1",
                             gb_spravka=person2gb_spravka[p["personid"]],
                             spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),
+                            subtitle1=p["subtitle1"],
                         ) for p in persons]
                     } for page, persons in pages_and_persons_by_sublist.get(subl["sublistid"], [])],
                 } for subl in sublists_by_list.get(lst["listid"], [])

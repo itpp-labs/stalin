@@ -36,6 +36,7 @@
           <div class="page-text">
 
               {{ range .persons }}
+              {{ if .subtitle1 }}{{ .subtitle1 | safeHTML }}{{ end }}
               <p id="page-{{ $pageintom }}-num-{{ .num }}" class="person{{ if .striked }} striked{{end}}{{ if .underlined }} underlined{{end}}"><span class="num-name">{{ .num }}. {{ .name | safeHTML }}</span>&nbsp;
                   {{ if .pometa_text }} <span class="pometa">{{.pometa_text}}</span>{{end}}
                   {{ if .doublesexists }} <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>{{end}}
