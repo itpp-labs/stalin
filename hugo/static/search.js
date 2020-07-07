@@ -5,6 +5,18 @@ $(document).ready(function(){
     }
     search_init();
 
+    var cal_options = {
+        "dateFormat": "d.m.Y",
+        "disableMobile": true,
+        "locale": "ru"
+    };
+    $("input[name='date_from']").flatpickr($.extend({
+        "defaultDate": "27.02.1937",
+    }, cal_options)).clear();
+    $("input[name='date_to']").flatpickr($.extend({
+        "defaultDate": "29.09.1938",
+    }, cal_options)).clear();
+
     $("#nav-search-button").click(function(e){
         // prevent reloading page if user understand button as "Make Search"
         e.preventDefault();
