@@ -33,7 +33,7 @@ def main():
         return int(nomer)
 
     for sublist, persons in persons_by_sublist.items():
-        persons = sorted(persons, key=lambda p: (int(p['pageintom']), p2nomer(p)))
+        persons = sorted(persons, key=lambda p: (int(p['pageintom']), int(p["rowinpage"])))
         persons_by_page = x2many(
             lambda r: get_page_ref(r['tom'], r['pageintom']),
             persons
@@ -74,6 +74,14 @@ def main():
 
         return list(values)
 
+    def p2name(p):
+        name = p["nameshow1"]
+        if not p["primzv"]:
+            return name
+        name = name.split(" ")
+        name.insert(1, "<br/>")
+        return " ".join(name)
+
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
@@ -110,14 +118,18 @@ def main():
                             {
                                 "id": p["headperson"],
                                 "num": p["nomer"],
-                                "name": p["nameshow1"],
+                                "name": p2name(p),
                             },
+                            rowinpage=p['rowinpage'] if p["nomer"] == '0' else None,
                             striked=p["striked"] == "1",
                             underlined=p["underlined"] == "1",
                             pometa_text=person2pometa_text(p),
+                            primzv=p["primzv"],
+                            primcoc=p["primcoc"],
                             doublesexists=p["doublesexists"] == "1",
                             gb_spravka=person2gb_spravka[p["personid"]],
                             spravka=os.path.isfile("hugo/data/spravki/p%s.yaml" % p["headperson"]),
+                            subtitle1=p["subtitle1"],
                         ) for p in persons]
                     } for page, persons in pages_and_persons_by_sublist.get(subl["sublistid"], [])],
                 } for subl in sublists_by_list.get(lst["listid"], [])

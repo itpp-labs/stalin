@@ -14,8 +14,11 @@ def main():
             spravki = yaml_reader(spravki_file)
         except:
             pass
+        name = data["name"]["nameshow"]
+        if data["name"]["primname"]:
+            name += " (%s)" % data["name"]["primname"]
         meta = {
-            "title": data["name"]["nameshow"],
+            "title": name
         }
         if spravki:
             meta["description"] = spravki[0]["spravka"]

@@ -79,6 +79,7 @@ def yaml_reader(file_name):
         return yaml.load(f)
 
 def file_writer(file_name, file_content):
+    print ("write file: ", file_name)
     with open(file_name, 'w') as writer:
         writer.write(file_content)
 
@@ -86,7 +87,6 @@ def json_writer(file_name, data, **kwargs):
     file_writer(file_name, json.dumps(data, ensure_ascii=False, **kwargs))
 
 def yaml_writer(file_name, data):
-    print ("write file: ", file_name)
     file_writer(file_name, yaml.dump(data, allow_unicode=True))
 
 def x2many(get_id, records):
@@ -141,7 +141,10 @@ def person_list2url(person, lst, sublst):
     # "pageintom": pp["pageintom"],
     # "rowinpage": pp["rowinpage"],
     # "nomer": pp["nomer"],
-    return "/lists/%s#page-%s-num-%s" % (list2name(lst), person["pageintom"], person["nomer"])
+    res = "/lists/%s#page-%s-num-%s" % (list2name(lst), person["pageintom"], person["nomer"])
+    if person["nomer"] == '0':
+        res += "-%s" % person['rowinpage']
+    return res
 
 def clean_date(s):
     if not s or s == "0000-00-00" or s == "NULL":

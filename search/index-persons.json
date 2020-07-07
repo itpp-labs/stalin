@@ -1,6 +1,9 @@
 {
 	  "mappings": {
 	      "properties": {
+	          "sort": {
+	              "type": "keyword"
+	          },
 	          "lists_date": {
 	              "type": "date"
 	          },

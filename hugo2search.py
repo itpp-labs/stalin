@@ -42,6 +42,7 @@ def persons_index():
                 "midname": p["name"]["midname"],
                 "lastname": p["name"]["lastname"],
                 "nameshow": p["name"]["nameshow"],
+                "sort": p["name"]["nameshow"],
                 "striked": p.get("striked", False),
                 "underlined": p.get("underlined", False),
                 "pometa": p.get("pometa", False),

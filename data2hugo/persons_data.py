@@ -97,12 +97,16 @@ def main():
             },
             "fond7": fond7(p),
             "lists": [
-                {
+                extend({
                     "title": sublist2title_full(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                     "url": person_list2url(pp, list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                     "date": clean_date(list_by_id[pp["listnum"]]["adate"]),
                     "signs": get_signs(list_by_id[pp["listnum"]]),
-                } for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
+                },
+                       striked=pp["striked"] == "1",
+                       underlined=pp["underlined"] == "1",
+                       pometa=pp["pometa"] == "1",
+                ) for pp in persons_by_headperson[p["personid"]] if pp["listnum"] != "0"
             ],
             "gb_spravka": gb_index.get(p['headperson'], [])
         }
