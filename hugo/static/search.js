@@ -381,9 +381,22 @@ $(document).ready(function(){
             var spiski_data = JSON.parse(this._source.lists);
             var spiski = "";
             $.each(spiski_data, function(){
-                spiski += '* <a href="{0}">{1}</a><br/>'.format(
+                var style = "";
+                if (this.striked){
+                    style += "text-decoration: line-through;";
+                }
+                if (this.underline){
+                    style += "text-decoration: underline;";
+                }
+                var pometa = "";
+                if (this.pometa){
+                    pometa = "<sup>Есть помета</sup>";
+                }
+                spiski += '* <a href="{0}" style="{1}">{2}</a>{3}<br/>'.format(
                     this.url,
+                    style,
                     this.title,
+                    pometa,
                 );
             });
             $("#results").append(
