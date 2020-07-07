@@ -5,6 +5,18 @@ $(document).ready(function(){
     }
     search_init();
 
+    var cal_options = {
+        "dateFormat": "d.m.Y",
+        "disableMobile": true,
+        "locale": "ru"
+    };
+    $("input[name='date_from']").flatpickr($.extend({
+        "defaultDate": "27.02.1937",
+    }, cal_options)).clear();
+    $("input[name='date_to']").flatpickr($.extend({
+        "defaultDate": "29.09.1938",
+    }, cal_options)).clear();
+
     $("#nav-search-button").click(function(e){
         // prevent reloading page if user understand button as "Make Search"
         e.preventDefault();
@@ -191,9 +203,18 @@ $(document).ready(function(){
                     return;
             }
             if (searchPersons && ["firstname", "midname", "lastname"].indexOf(key) !== -1) {
-                query_bool.must.push({
-                    "match": get_obj(key, value)
-                });
+                if (value.indexOf("*") == -1){
+                    query_bool.must.push({
+                        "match": get_obj(key, value)
+                    });
+                } else {
+                    // see https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-wildcard-query.html
+                    query_bool.must.push({
+                        "wildcard": get_obj(key, {
+                            "value": value,
+                        })
+                    });
+                }
             } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
                 if (!searchPersons){
                     key = "has_" + key;
@@ -342,8 +363,10 @@ $(document).ready(function(){
             data._source = {
                 "excludes": ["spravka", "gb_spravka", "sign*"]
             };
+            data.sort = ["sort"];
         } else {
             data.size = 1000;
+            data.sort = ["date", "_score"];
         }
 
 
@@ -381,9 +404,22 @@ $(document).ready(function(){
             var spiski_data = JSON.parse(this._source.lists);
             var spiski = "";
             $.each(spiski_data, function(){
-                spiski += '* <a href="{0}">{1}</a><br/>'.format(
+                var style = "";
+                if (this.striked){
+                    style += "text-decoration: line-through;";
+                }
+                if (this.underline){
+                    style += "text-decoration: underline;";
+                }
+                var pometa = "";
+                if (this.pometa){
+                    pometa = "<sup>Есть помета</sup>";
+                }
+                spiski += '* <a href="{0}" style="{1}">{2}</a>{3}<br/>'.format(
                     this.url,
+                    style,
                     this.title,
+                    pometa,
                 );
             });
             $("#results").append(
