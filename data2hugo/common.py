@@ -79,6 +79,7 @@ def yaml_reader(file_name):
         return yaml.load(f)
 
 def file_writer(file_name, file_content):
+    print ("write file: ", file_name)
     with open(file_name, 'w') as writer:
         writer.write(file_content)
 
@@ -86,7 +87,6 @@ def json_writer(file_name, data, **kwargs):
     file_writer(file_name, json.dumps(data, ensure_ascii=False, **kwargs))
 
 def yaml_writer(file_name, data):
-    print ("write file: ", file_name)
     file_writer(file_name, yaml.dump(data, allow_unicode=True))
 
 def x2many(get_id, records):
