@@ -191,9 +191,18 @@ $(document).ready(function(){
                     return;
             }
             if (searchPersons && ["firstname", "midname", "lastname"].indexOf(key) !== -1) {
-                query_bool.must.push({
-                    "match": get_obj(key, value)
-                });
+                if (value.indexOf("*") == -1){
+                    query_bool.must.push({
+                        "match": get_obj(key, value)
+                    });
+                } else {
+                    // see https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-wildcard-query.html
+                    query_bool.must.push({
+                        "wildcard": get_obj(key, {
+                            "value": value,
+                        })
+                    });
+                }
             } else if (["underlined", "striked", "pometa"].indexOf(key) !== -1) {
                 if (!searchPersons){
                     key = "has_" + key;
