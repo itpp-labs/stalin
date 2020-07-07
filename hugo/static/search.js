@@ -342,8 +342,10 @@ $(document).ready(function(){
             data._source = {
                 "excludes": ["spravka", "gb_spravka", "sign*"]
             };
+            data.sort = ["sort"];
         } else {
             data.size = 1000;
+            data.sort = ["date", "_score"];
         }
 
 
