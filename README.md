@@ -75,7 +75,11 @@ TODO: check this section
 ### To preview updates
 
       cd hugo
-      hugo server -D
+      hugo server --templateMetrics
+
+To run hugo on remote server, you may need to add following arguments:
+
+      hugo server --templateMetrics --bind="0.0.0.0" --baseURL=your-dev-server.example.com 
 
 ### To update content
 
