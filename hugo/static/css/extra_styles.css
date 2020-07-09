@@ -33,11 +33,19 @@ div:target {
 .page-image-preview{
     max-width:300px;
 }
+
+.tns-nav-active img {
+    border: 3px solid black;
+}
 @media screen and (max-width: 768px) {
     .page-image-preview{
         max-width:50px;
     }
 }
+.pages-preview span{
+    margin: 2px;
+}
+
 
 .primzv p{
     text-align: center;

@@ -11,22 +11,33 @@
     <div id="image-{{ .pageintom }}"><img src="/disk/pictures/{{ .image }}"/></div>
 {{ end }}
 </div>
+<div class="pages-preview is-hidden-mobile">
+    {{ range $data.pages }}
+    <span><img width="30" src="/disk/pictures/{{ .image }}"/></span>
+    {{ end }}
+</div>
 <script type="text/javascript">
- $('.pages').slick({
-     arrows: false,
- })
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
-
  var target = window.location.hash;
+ var target_index = 0;
  if (target.indexOf("#image-") != -1 ){
-     setTimeout(function(){
-         {{/* for some reason slick starts index from -1 */}}
-         var target_index = $('.pages .slick-slide').index($(target));
-         $('.pages').slick('slickGoTo', target_index - 1);
-     }, 1000);
+     target_index = $('.pages > div').index($(target)) - 1;
  }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     //     navPosition: "bottom",
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     //     controlsPosition: "bottom",
+     //     controlsText: ["Предыдущая страница", "Следующая страница"]
+ });
 
 </script>
 
@@ -79,17 +90,6 @@
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         {{ partial "jsshare" . }}
         {{ partial "disqus" . }}
