@@ -12,7 +12,6 @@ $(document).ready(function(){
 
     $('.pages img').on('click', function(e){
         var pos = (e.pageX - $(this).offset().left) / $(this).width();
-        console.log(pos);
         if (pos < 0.25)
             slider.goTo("prev");
         else
