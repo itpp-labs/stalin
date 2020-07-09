@@ -51,10 +51,11 @@
         {{ if $data.gb_spravka }}
             <h1 id="gb">Версия следствия</h1>
             {{ range $data.gb_spravka }}
+                 {{ $list_id := .list_id }}
                  <div id="gb-{{ .list_id }}">
                      {{ .html | safeHTML }}
-                     {{ range .pictures }}
-                         <img src="/{{ . }}"/>
+                     {{ range .pages }}
+                         <a href="/lists/list{{ $list_id }}#image-{{ .pageintom }}"><img src="/{{ .image }}"/></a>
                      {{ end }}
                  </div>
             {{ end }}

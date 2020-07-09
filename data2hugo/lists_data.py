@@ -97,6 +97,7 @@ def main():
             "signs": get_signs(lst),
             "pages": [
                 {
+                    "pageintom": page["pageintom"],
                     "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
                 } for page in pages_by_list[lst["listid"]]
             ],
@@ -112,7 +113,7 @@ def main():
                     "geosub_ids": subl2person_values(subl, lambda p: int(title2geosub.get(p["atitlesid"], "0"))),
                     "group_ids": subl2person_values(subl, lambda p: int(p["agroupid"])),
                     "pages": [{
-                        "page": page,
+                        "pageintom": page["pageintom"],
                         "page_image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
                         "persons": [extend(
                             {
