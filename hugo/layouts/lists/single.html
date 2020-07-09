@@ -20,7 +20,7 @@
  var target = window.location.hash;
  var target_index = 0;
  if (target.indexOf("#image-") != -1 ){
-     target_index = $('.pages > div').index($(target)) - 1;
+     target_index = $('.pages > div').index($(target));
  }
 
  window.slider = tns({
