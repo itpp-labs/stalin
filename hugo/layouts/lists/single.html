@@ -8,22 +8,33 @@
 
 <div class="pages">
 {{ range $data.pages }}
-   <div><img src="/disk/pictures/{{ .image }}"/></div>
+    <div id="image-{{ .pageintom }}"><img src="/disk/pictures/{{ .image }}"/></div>
 {{ end }}
 </div>
 <script type="text/javascript">
- $('.pages').slick()
+ $('.pages').slick({
+     arrows: false,
+ })
  $('.pages img').on('click', function(){
      $('.pages').slick('slickNext')
  })
+
+ var target = window.location.hash;
+ if (target.indexOf("#image-") != -1 ){
+     setTimeout(function(){
+         {{/* for some reason slick starts index from -1 */}}
+         var target_index = $('.pages .slick-slide').index($(target));
+         $('.pages').slick('slickGoTo', target_index - 1);
+     }, 1000);
+ }
+
 </script>
 
 {{ range $data.sublists }}
 <h3> {{ .title }} </h3>
 
   {{ range .pages }}
-    {{ $pageid := .page.pageid }}
-    {{ $pageintom := .page.pageintom }}
+    {{ $pageintom := .pageintom }}
 
     <div id="page-{{ $pageintom }}" class="mt-5 is-clearfix">
 
@@ -71,6 +82,7 @@
 
 <script type="text/javascript">
  $(document).ready(function() {
+
      $('.page-image').on('click', function() {
          $page = $(this).parent();
          $page.find('.page-image, .page-text').toggleClass('is-hidden');

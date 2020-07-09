@@ -55,18 +55,20 @@ def main():
             if page["alistid"] == p["listnum"]:
                 pages.append(page)
 
-        pictures = [
-            "disk/pictures/v{tom:02d}/{picturefile}".format(
+        pages_data = [{
+            "image": "disk/pictures/v{tom:02d}/{picturefile}".format(
                 tom=int(page['tom']),
                 picturefile=page['picturefile']
-            ) for page in pages
+            ),
+            "pageintom": page['pageintom'],
+            } for page in pages
         ]
 
         gb_index.setdefault(p["headperson"], [])
         gb_index[p["headperson"]].append({
             "list_id": p["listnum"],
             "html": html,
-            "pictures": pictures,
+            "pages": pages_data,
         })
 
     for p in csv_reader(PERSONS_CSV):
