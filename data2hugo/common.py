@@ -121,8 +121,11 @@ def list2archive(lst):
     delo = ""
     if lst["ed_hr"]:
         delo = ", дело %s" % lst["ed_hr"]
+    archive_title = "РГАСПИ"
+    if lst["listid"] in ["411", "412"]:
+        archive_title = "АП РФ"
     return {
-        "ref": "РГАСПИ, ф.{fond}, т.{tom}, оп.{opis}{delo}".format(**lst, delo=delo),
+        "ref": "{archive_title}, ф.{fond}, т.{tom}, оп.{opis}{delo}".format(**lst, delo=delo, archive_title=archive_title),
         "page1": lst["page1"]
     }
 
