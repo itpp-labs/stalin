@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,39 +96,79 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v05/17-171-413-291.jpg"/></div>
+    <div id="image-291"><img src="/disk/pictures/v05/17-171-413-291.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-292.jpg"/></div>
+    <div id="image-292"><img src="/disk/pictures/v05/17-171-413-292.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-293.jpg"/></div>
+    <div id="image-293"><img src="/disk/pictures/v05/17-171-413-293.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-294.jpg"/></div>
+    <div id="image-294"><img src="/disk/pictures/v05/17-171-413-294.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-295.jpg"/></div>
+    <div id="image-295"><img src="/disk/pictures/v05/17-171-413-295.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-296.jpg"/></div>
+    <div id="image-296"><img src="/disk/pictures/v05/17-171-413-296.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-297.jpg"/></div>
+    <div id="image-297"><img src="/disk/pictures/v05/17-171-413-297.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-298.jpg"/></div>
+    <div id="image-298"><img src="/disk/pictures/v05/17-171-413-298.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-299.jpg"/></div>
+    <div id="image-299"><img src="/disk/pictures/v05/17-171-413-299.jpg"/></div>
 
-   <div><img src="/disk/pictures/v05/17-171-413-300.jpg"/></div>
+    <div id="image-300"><img src="/disk/pictures/v05/17-171-413-300.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-291.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-292.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-293.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-294.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-295.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-296.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-297.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-298.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-299.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v05/17-171-413-300.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 13 декабря 1937г. [Москва - центр] </h3>
 
   
-    
     
 
     <div id="page-293" class="mt-5 is-clearfix">
@@ -447,7 +488,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-294" class="mt-5 is-clearfix">
@@ -833,7 +873,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-295" class="mt-5 is-clearfix">
 
@@ -1205,7 +1244,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-296" class="mt-5 is-clearfix">
 
@@ -1330,7 +1368,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-297" class="mt-5 is-clearfix">
 
@@ -1368,7 +1405,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 13 декабря 1937г. [Московская область] </h3>
 
   
-    
     
 
     <div id="page-298" class="mt-5 is-clearfix">
@@ -1676,7 +1712,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-299" class="mt-5 is-clearfix">
 
@@ -1905,7 +1940,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-300" class="mt-5 is-clearfix">
 
@@ -1956,16 +1990,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,39 +96,79 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v08/17-171-416-072.jpg"/></div>
+    <div id="image-72"><img src="/disk/pictures/v08/17-171-416-072.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-073.jpg"/></div>
+    <div id="image-73"><img src="/disk/pictures/v08/17-171-416-073.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-074.jpg"/></div>
+    <div id="image-74"><img src="/disk/pictures/v08/17-171-416-074.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-075.jpg"/></div>
+    <div id="image-75"><img src="/disk/pictures/v08/17-171-416-075.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-076.jpg"/></div>
+    <div id="image-76"><img src="/disk/pictures/v08/17-171-416-076.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-077.jpg"/></div>
+    <div id="image-77"><img src="/disk/pictures/v08/17-171-416-077.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-078.jpg"/></div>
+    <div id="image-78"><img src="/disk/pictures/v08/17-171-416-078.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-079.jpg"/></div>
+    <div id="image-79"><img src="/disk/pictures/v08/17-171-416-079.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-080.jpg"/></div>
+    <div id="image-80"><img src="/disk/pictures/v08/17-171-416-080.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-081.jpg"/></div>
+    <div id="image-81"><img src="/disk/pictures/v08/17-171-416-081.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-072.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-073.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-074.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-075.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-076.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-077.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-078.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-079.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-080.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-081.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 19 апреля 1938г. [Татарская АССР] </h3>
 
   
-    
     
 
     <div id="page-74" class="mt-5 is-clearfix">
@@ -253,7 +294,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-75" class="mt-5 is-clearfix">
 
@@ -304,7 +344,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 19 апреля 1938г. [г.Алма-Ата-Турксиб.ж.д.] </h3>
 
   
-    
     
 
     <div id="page-76" class="mt-5 is-clearfix">
@@ -443,7 +482,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-77" class="mt-5 is-clearfix">
 
@@ -507,7 +545,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 19 апреля 1938г. [Карельская АССР] </h3>
 
   
-    
     
 
     <div id="page-78" class="mt-5 is-clearfix">
@@ -573,7 +610,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
   
     
-    
 
     <div id="page-79" class="mt-5 is-clearfix">
 
@@ -611,7 +647,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 19 апреля 1938г. [Красноярский край] </h3>
 
   
-    
     
 
     <div id="page-80" class="mt-5 is-clearfix">
@@ -651,7 +686,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
   
     
-    
 
     <div id="page-81" class="mt-5 is-clearfix">
 
@@ -689,16 +723,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

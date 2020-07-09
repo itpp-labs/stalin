@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,33 +96,67 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v06/17-171-414-097.jpg"/></div>
+    <div id="image-97"><img src="/disk/pictures/v06/17-171-414-097.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-098.jpg"/></div>
+    <div id="image-98"><img src="/disk/pictures/v06/17-171-414-098.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-099.jpg"/></div>
+    <div id="image-99"><img src="/disk/pictures/v06/17-171-414-099.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-100.jpg"/></div>
+    <div id="image-100"><img src="/disk/pictures/v06/17-171-414-100.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-101.jpg"/></div>
+    <div id="image-101"><img src="/disk/pictures/v06/17-171-414-101.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-102.jpg"/></div>
+    <div id="image-102"><img src="/disk/pictures/v06/17-171-414-102.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-103.jpg"/></div>
+    <div id="image-103"><img src="/disk/pictures/v06/17-171-414-103.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-097.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-098.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-099.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-100.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-101.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-102.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-103.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 3 января 1938г. [г.Алма-Ата.Туркестано-Сибирская ж.д.] </h3>
 
   
-    
     
 
     <div id="page-99" class="mt-5 is-clearfix">
@@ -390,7 +425,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-100" class="mt-5 is-clearfix">
 
@@ -449,7 +483,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-101" class="mt-5 is-clearfix">
@@ -527,7 +560,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 3 января 1938г. [Башкирская АССР] </h3>
 
   
-    
     
 
     <div id="page-102" class="mt-5 is-clearfix">
@@ -645,7 +677,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
   
     
-    
 
     <div id="page-103" class="mt-5 is-clearfix">
 
@@ -696,16 +727,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,49 +96,99 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v06/17-171-414-127.jpg"/></div>
+    <div id="image-127"><img src="/disk/pictures/v06/17-171-414-127.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-128.jpg"/></div>
+    <div id="image-128"><img src="/disk/pictures/v06/17-171-414-128.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-129.jpg"/></div>
+    <div id="image-129"><img src="/disk/pictures/v06/17-171-414-129.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-130.jpg"/></div>
+    <div id="image-130"><img src="/disk/pictures/v06/17-171-414-130.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-131.jpg"/></div>
+    <div id="image-131"><img src="/disk/pictures/v06/17-171-414-131.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-132.jpg"/></div>
+    <div id="image-132"><img src="/disk/pictures/v06/17-171-414-132.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-133.jpg"/></div>
+    <div id="image-133"><img src="/disk/pictures/v06/17-171-414-133.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-134.jpg"/></div>
+    <div id="image-134"><img src="/disk/pictures/v06/17-171-414-134.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-135.jpg"/></div>
+    <div id="image-135"><img src="/disk/pictures/v06/17-171-414-135.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-136.jpg"/></div>
+    <div id="image-136"><img src="/disk/pictures/v06/17-171-414-136.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-137.jpg"/></div>
+    <div id="image-137"><img src="/disk/pictures/v06/17-171-414-137.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-138.jpg"/></div>
+    <div id="image-138"><img src="/disk/pictures/v06/17-171-414-138.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-139.jpg"/></div>
+    <div id="image-139"><img src="/disk/pictures/v06/17-171-414-139.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-140.jpg"/></div>
+    <div id="image-140"><img src="/disk/pictures/v06/17-171-414-140.jpg"/></div>
 
-   <div><img src="/disk/pictures/v06/17-171-414-141.jpg"/></div>
+    <div id="image-141"><img src="/disk/pictures/v06/17-171-414-141.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-127.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-128.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-129.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-130.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-131.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-132.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-133.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-134.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-135.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-136.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-137.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-138.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-139.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-140.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v06/17-171-414-141.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 3 января 1938г. [Челябинская область] </h3>
 
   
-    
     
 
     <div id="page-129" class="mt-5 is-clearfix">
@@ -457,7 +508,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-130" class="mt-5 is-clearfix">
@@ -869,7 +919,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-131" class="mt-5 is-clearfix">
 
@@ -1240,7 +1289,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-132" class="mt-5 is-clearfix">
@@ -1626,7 +1674,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-133" class="mt-5 is-clearfix">
 
@@ -1959,7 +2006,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-134" class="mt-5 is-clearfix">
 
@@ -2058,7 +2104,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-135" class="mt-5 is-clearfix">
 
@@ -2104,7 +2149,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-138" class="mt-5 is-clearfix">
@@ -2234,7 +2278,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 3 января 1938г. [Челябинск-Ю.-Уральск.ж.д.] </h3>
 
   
-    
     
 
     <div id="page-139" class="mt-5 is-clearfix">
@@ -2581,7 +2624,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-140" class="mt-5 is-clearfix">
 
@@ -2770,7 +2812,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-141" class="mt-5 is-clearfix">
@@ -3069,16 +3110,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,43 +96,87 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v02/17-171-410-027.jpg"/></div>
+    <div id="image-27"><img src="/disk/pictures/v02/17-171-410-027.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-028.jpg"/></div>
+    <div id="image-28"><img src="/disk/pictures/v02/17-171-410-028.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-029.jpg"/></div>
+    <div id="image-29"><img src="/disk/pictures/v02/17-171-410-029.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-030.jpg"/></div>
+    <div id="image-30"><img src="/disk/pictures/v02/17-171-410-030.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-031.jpg"/></div>
+    <div id="image-31"><img src="/disk/pictures/v02/17-171-410-031.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-032.jpg"/></div>
+    <div id="image-32"><img src="/disk/pictures/v02/17-171-410-032.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-033.jpg"/></div>
+    <div id="image-33"><img src="/disk/pictures/v02/17-171-410-033.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-034.jpg"/></div>
+    <div id="image-34"><img src="/disk/pictures/v02/17-171-410-034.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-035.jpg"/></div>
+    <div id="image-35"><img src="/disk/pictures/v02/17-171-410-035.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-036.jpg"/></div>
+    <div id="image-36"><img src="/disk/pictures/v02/17-171-410-036.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-037.jpg"/></div>
+    <div id="image-37"><img src="/disk/pictures/v02/17-171-410-037.jpg"/></div>
 
-   <div><img src="/disk/pictures/v02/17-171-410-038.jpg"/></div>
+    <div id="image-38"><img src="/disk/pictures/v02/17-171-410-038.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-027.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-028.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-029.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-030.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-031.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-032.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-033.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-034.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-035.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-036.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-037.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v02/17-171-410-038.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 10 июля 1937 г. [Свердловская область] </h3>
 
   
-    
     
 
     <div id="page-29" class="mt-5 is-clearfix">
@@ -490,7 +535,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-30" class="mt-5 is-clearfix">
@@ -889,7 +933,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-31" class="mt-5 is-clearfix">
 
@@ -1287,7 +1330,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-32" class="mt-5 is-clearfix">
 
@@ -1503,7 +1545,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-33" class="mt-5 is-clearfix">
 
@@ -1593,7 +1634,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 10 июля 1937 г. [Казахстанская ССР] </h3>
 
   
-    
     
 
     <div id="page-34" class="mt-5 is-clearfix">
@@ -1992,7 +2032,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-35" class="mt-5 is-clearfix">
 
@@ -2382,7 +2421,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
   
     
-    
 
     <div id="page-36" class="mt-5 is-clearfix">
 
@@ -2741,7 +2779,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-37" class="mt-5 is-clearfix">
 
@@ -2800,7 +2837,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-38" class="mt-5 is-clearfix">
@@ -2865,16 +2901,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

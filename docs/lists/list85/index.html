@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,47 +96,95 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v04/17-171-412-061.jpg"/></div>
+    <div id="image-61"><img src="/disk/pictures/v04/17-171-412-061.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-062.jpg"/></div>
+    <div id="image-62"><img src="/disk/pictures/v04/17-171-412-062.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-063.jpg"/></div>
+    <div id="image-63"><img src="/disk/pictures/v04/17-171-412-063.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-064.jpg"/></div>
+    <div id="image-64"><img src="/disk/pictures/v04/17-171-412-064.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-065.jpg"/></div>
+    <div id="image-65"><img src="/disk/pictures/v04/17-171-412-065.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-066.jpg"/></div>
+    <div id="image-66"><img src="/disk/pictures/v04/17-171-412-066.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-067.jpg"/></div>
+    <div id="image-67"><img src="/disk/pictures/v04/17-171-412-067.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-068.jpg"/></div>
+    <div id="image-68"><img src="/disk/pictures/v04/17-171-412-068.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-069.jpg"/></div>
+    <div id="image-69"><img src="/disk/pictures/v04/17-171-412-069.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-070.jpg"/></div>
+    <div id="image-70"><img src="/disk/pictures/v04/17-171-412-070.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-071.jpg"/></div>
+    <div id="image-71"><img src="/disk/pictures/v04/17-171-412-071.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-072.jpg"/></div>
+    <div id="image-72"><img src="/disk/pictures/v04/17-171-412-072.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-073.jpg"/></div>
+    <div id="image-73"><img src="/disk/pictures/v04/17-171-412-073.jpg"/></div>
 
-   <div><img src="/disk/pictures/v04/17-171-412-074.jpg"/></div>
+    <div id="image-74"><img src="/disk/pictures/v04/17-171-412-074.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-061.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-062.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-063.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-064.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-065.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-066.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-067.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-068.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-069.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-070.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-071.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-072.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-073.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v04/17-171-412-074.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 21 октября 1937г. [Москва-центр] </h3>
 
   
-    
     
 
     <div id="page-63" class="mt-5 is-clearfix">
@@ -508,7 +557,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-64" class="mt-5 is-clearfix">
 
@@ -867,7 +915,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-65" class="mt-5 is-clearfix">
 
@@ -927,7 +974,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-69" class="mt-5 is-clearfix">
 
@@ -978,7 +1024,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 21 октября 1937г. [Московская область] </h3>
 
   
-    
     
 
     <div id="page-70" class="mt-5 is-clearfix">
@@ -1364,7 +1409,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-71" class="mt-5 is-clearfix">
 
@@ -1580,7 +1624,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-72" class="mt-5 is-clearfix">
 
@@ -1613,7 +1656,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-74" class="mt-5 is-clearfix">
@@ -1795,16 +1837,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

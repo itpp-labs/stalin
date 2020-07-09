@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,47 +96,95 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v08/17-171-416-326.jpg"/></div>
+    <div id="image-326"><img src="/disk/pictures/v08/17-171-416-326.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-327.jpg"/></div>
+    <div id="image-327"><img src="/disk/pictures/v08/17-171-416-327.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-328.jpg"/></div>
+    <div id="image-328"><img src="/disk/pictures/v08/17-171-416-328.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-329.jpg"/></div>
+    <div id="image-329"><img src="/disk/pictures/v08/17-171-416-329.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-330.jpg"/></div>
+    <div id="image-330"><img src="/disk/pictures/v08/17-171-416-330.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-331.jpg"/></div>
+    <div id="image-331"><img src="/disk/pictures/v08/17-171-416-331.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-332.jpg"/></div>
+    <div id="image-332"><img src="/disk/pictures/v08/17-171-416-332.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-333.jpg"/></div>
+    <div id="image-333"><img src="/disk/pictures/v08/17-171-416-333.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-334.jpg"/></div>
+    <div id="image-334"><img src="/disk/pictures/v08/17-171-416-334.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-335.jpg"/></div>
+    <div id="image-335"><img src="/disk/pictures/v08/17-171-416-335.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-336.jpg"/></div>
+    <div id="image-336"><img src="/disk/pictures/v08/17-171-416-336.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-337.jpg"/></div>
+    <div id="image-337"><img src="/disk/pictures/v08/17-171-416-337.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-338.jpg"/></div>
+    <div id="image-338"><img src="/disk/pictures/v08/17-171-416-338.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-339.jpg"/></div>
+    <div id="image-339"><img src="/disk/pictures/v08/17-171-416-339.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-326.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-327.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-328.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-329.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-330.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-331.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-332.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-333.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-334.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-335.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-336.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-337.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-338.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-339.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 3 мая 1938г. [Москва-центр] </h3>
 
   
-    
     
 
     <div id="page-328" class="mt-5 is-clearfix">
@@ -429,7 +478,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-329" class="mt-5 is-clearfix">
@@ -814,7 +862,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-330" class="mt-5 is-clearfix">
@@ -1213,7 +1260,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-331" class="mt-5 is-clearfix">
 
@@ -1351,7 +1397,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-332" class="mt-5 is-clearfix">
 
@@ -1384,7 +1429,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-334" class="mt-5 is-clearfix">
@@ -1501,7 +1545,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <h3> Список от 3 мая 1938г. [Московская область] </h3>
 
   
-    
     
 
     <div id="page-335" class="mt-5 is-clearfix">
@@ -1795,7 +1838,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-336" class="mt-5 is-clearfix">
@@ -2207,7 +2249,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-337" class="mt-5 is-clearfix">
 
@@ -2605,7 +2646,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-338" class="mt-5 is-clearfix">
 
@@ -2886,7 +2926,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-339" class="mt-5 is-clearfix">
 
@@ -2989,16 +3028,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

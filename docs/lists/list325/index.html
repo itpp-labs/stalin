@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,43 +96,87 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v08/17-171-416-284.jpg"/></div>
+    <div id="image-284"><img src="/disk/pictures/v08/17-171-416-284.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-285.jpg"/></div>
+    <div id="image-285"><img src="/disk/pictures/v08/17-171-416-285.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-286.jpg"/></div>
+    <div id="image-286"><img src="/disk/pictures/v08/17-171-416-286.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-287.jpg"/></div>
+    <div id="image-287"><img src="/disk/pictures/v08/17-171-416-287.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-288.jpg"/></div>
+    <div id="image-288"><img src="/disk/pictures/v08/17-171-416-288.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-289.jpg"/></div>
+    <div id="image-289"><img src="/disk/pictures/v08/17-171-416-289.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-290.jpg"/></div>
+    <div id="image-290"><img src="/disk/pictures/v08/17-171-416-290.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-291.jpg"/></div>
+    <div id="image-291"><img src="/disk/pictures/v08/17-171-416-291.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-292.jpg"/></div>
+    <div id="image-292"><img src="/disk/pictures/v08/17-171-416-292.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-293.jpg"/></div>
+    <div id="image-293"><img src="/disk/pictures/v08/17-171-416-293.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-294.jpg"/></div>
+    <div id="image-294"><img src="/disk/pictures/v08/17-171-416-294.jpg"/></div>
 
-   <div><img src="/disk/pictures/v08/17-171-416-295.jpg"/></div>
+    <div id="image-295"><img src="/disk/pictures/v08/17-171-416-295.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-284.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-285.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-286.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-287.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-288.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-289.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-290.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-291.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-292.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-293.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-294.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v08/17-171-416-295.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 3 мая 1938г. [Ростовская область] </h3>
 
   
-    
     
 
     <div id="page-286" class="mt-5 is-clearfix">
@@ -425,7 +470,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-287" class="mt-5 is-clearfix">
@@ -784,7 +828,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-288" class="mt-5 is-clearfix">
@@ -1157,7 +1200,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-289" class="mt-5 is-clearfix">
 
@@ -1529,7 +1571,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-290" class="mt-5 is-clearfix">
 
@@ -1758,7 +1799,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-291" class="mt-5 is-clearfix">
 
@@ -1804,7 +1844,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-294" class="mt-5 is-clearfix">
@@ -2086,7 +2125,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-295" class="mt-5 is-clearfix">
 
@@ -2150,16 +2188,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     

@@ -36,11 +36,12 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 
-<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript" src="/js/lists.js"></script>
+
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
@@ -95,39 +96,79 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 <div class="pages">
 
-   <div><img src="/disk/pictures/v09/17-171-417-151.jpg"/></div>
+    <div id="image-151"><img src="/disk/pictures/v09/17-171-417-151.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-152.jpg"/></div>
+    <div id="image-152"><img src="/disk/pictures/v09/17-171-417-152.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-153.jpg"/></div>
+    <div id="image-153"><img src="/disk/pictures/v09/17-171-417-153.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-154.jpg"/></div>
+    <div id="image-154"><img src="/disk/pictures/v09/17-171-417-154.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-155.jpg"/></div>
+    <div id="image-155"><img src="/disk/pictures/v09/17-171-417-155.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-156.jpg"/></div>
+    <div id="image-156"><img src="/disk/pictures/v09/17-171-417-156.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-157.jpg"/></div>
+    <div id="image-157"><img src="/disk/pictures/v09/17-171-417-157.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-158.jpg"/></div>
+    <div id="image-158"><img src="/disk/pictures/v09/17-171-417-158.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-159.jpg"/></div>
+    <div id="image-159"><img src="/disk/pictures/v09/17-171-417-159.jpg"/></div>
 
-   <div><img src="/disk/pictures/v09/17-171-417-160.jpg"/></div>
+    <div id="image-160"><img src="/disk/pictures/v09/17-171-417-160.jpg"/></div>
 
 </div>
+<div class="pages-preview is-hidden-mobile">
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-151.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-152.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-153.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-154.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-155.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-156.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-157.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-158.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-159.jpg"/></span>
+    
+    <span><img width="30" src="/disk/pictures/v09/17-171-417-160.jpg"/></span>
+    
+</div>
 <script type="text/javascript">
- $('.pages').slick()
- $('.pages img').on('click', function(){
-     $('.pages').slick('slickNext')
- })
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target)) - 1;
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     onInit: function(){
+     }
+     
+     
+ });
+
 </script>
 
 
 <h3> Список от 10.VI.38г. [Грузинская ССР] </h3>
 
   
-    
     
 
     <div id="page-153" class="mt-5 is-clearfix">
@@ -447,7 +488,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-154" class="mt-5 is-clearfix">
@@ -846,7 +886,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-155" class="mt-5 is-clearfix">
 
@@ -1244,7 +1283,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-156" class="mt-5 is-clearfix">
 
@@ -1628,7 +1666,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
           </div>
    </div>
   
-    
     
 
     <div id="page-157" class="mt-5 is-clearfix">
@@ -2027,7 +2064,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-158" class="mt-5 is-clearfix">
 
@@ -2425,7 +2461,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
    </div>
   
     
-    
 
     <div id="page-159" class="mt-5 is-clearfix">
 
@@ -2541,16 +2576,6 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
         </div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function() {
-     $('.page-image').on('click', function() {
-         $page = $(this).parent();
-         $page.find('.page-image, .page-text').toggleClass('is-hidden');
-     });
- });
-
-</script>
 
         <div class="container has-text-centered">
     
