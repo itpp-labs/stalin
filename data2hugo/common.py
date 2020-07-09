@@ -127,13 +127,19 @@ def list2archive(lst):
     }
 
 def sublist2title(lst, sublst):
+    if not sublst["datetext"]:
+        return sublst["sublisttitle"]
     return "Список от {date} [{title}]".format(
         date=sublst["datetext"],
         title=sublst["sublisttitle"],
     )
 def sublist2title_full(lst, sublst):
     archive = list2archive(lst)
-    return "%s - %s, лист %s" % (sublist2title(lst, sublst), archive["ref"], archive["page1"])
+    res = "%s, лист %s" % (archive["ref"], archive["page1"])
+    st = sublist2title(lst, sublst)
+    if st:
+        res = "%s - %s" % (st, res)
+    return res
 
 def person_list2url(person, lst, sublst):
     # "list_id": pp["listnum"],
