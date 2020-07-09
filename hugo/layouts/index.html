@@ -2,6 +2,7 @@
   {{ partial "header" . }}
   {{ partial "nav" . }}
   <main class="container">
+  {{ .Content }}
 
   {{ $korps := .Site.Data.korps }}
 
