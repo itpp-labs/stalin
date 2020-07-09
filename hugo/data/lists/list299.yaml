@@ -14,13 +14,20 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-109.jpg
-- image: v08/17-171-416-110.jpg
-- image: v08/17-171-416-111.jpg
-- image: v08/17-171-416-112.jpg
-- image: v08/17-171-416-113.jpg
-- image: v08/17-171-416-114.jpg
-- image: v08/17-171-416-115.jpg
+- pageintom: '109'
+  image: v08/17-171-416-109.jpg
+- pageintom: '110'
+  image: v08/17-171-416-110.jpg
+- pageintom: '111'
+  image: v08/17-171-416-111.jpg
+- pageintom: '112'
+  image: v08/17-171-416-112.jpg
+- pageintom: '113'
+  image: v08/17-171-416-113.jpg
+- pageintom: '114'
+  image: v08/17-171-416-114.jpg
+- pageintom: '115'
+  image: v08/17-171-416-115.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2364'
-      tom: '8'
-      pageintom: '111'
-      alistid: '299'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-416-111.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '111'
     page_image: v08/17-171-416-111.jpg
     persons:
     - id: '30504'
@@ -130,20 +124,7 @@ sublists:
       num: '20'
       name: ГРИНШПУН Григорий Лазаревич
       spravka: true
-  - page:
-      pageid: '2365'
-      tom: '8'
-      pageintom: '112'
-      alistid: '299'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-416-112.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '112'
     page_image: v08/17-171-416-112.jpg
     persons:
     - id: '30524'
@@ -260,20 +241,7 @@ sublists:
     - id: '30553'
       num: '50'
       name: РЕМИЗОВ Павел Николаевич
-  - page:
-      pageid: '2366'
-      tom: '8'
-      pageintom: '113'
-      alistid: '299'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-416-113.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '113'
     page_image: v08/17-171-416-113.jpg
     persons:
     - id: '30554'
@@ -358,20 +326,7 @@ sublists:
     - id: '30578'
       num: '75'
       name: ЮСТИФЕЕВ Федор Александрович
-  - page:
-      pageid: '2367'
-      tom: '8'
-      pageintom: '114'
-      alistid: '299'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-416-114.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '114'
     page_image: v08/17-171-416-114.jpg
     persons:
     - id: '30579'
@@ -436,20 +391,7 @@ sublists:
     - id: '30594'
       num: '16'
       name: ТИХОМИРОВ Василий Федорович
-  - page:
-      pageid: '2368'
-      tom: '8'
-      pageintom: '115'
-      alistid: '299'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-416-115.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '115'
     page_image: v08/17-171-416-115.jpg
     persons:
     - id: '30595'

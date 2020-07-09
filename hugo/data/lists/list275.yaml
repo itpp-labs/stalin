@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-184.jpg
-- image: v07/17-171-415-185.jpg
-- image: v07/17-171-415-186.jpg
-- image: v07/17-171-415-187.jpg
-- image: v07/17-171-415-188.jpg
-- image: v07/17-171-415-189.jpg
+- pageintom: '184'
+  image: v07/17-171-415-184.jpg
+- pageintom: '185'
+  image: v07/17-171-415-185.jpg
+- pageintom: '186'
+  image: v07/17-171-415-186.jpg
+- pageintom: '187'
+  image: v07/17-171-415-187.jpg
+- pageintom: '188'
+  image: v07/17-171-415-188.jpg
+- pageintom: '189'
+  image: v07/17-171-415-189.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Вологодская область]
   listtitle: Список лиц - Вологодская область
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2156'
-      tom: '7'
-      pageintom: '186'
-      alistid: '275'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-186.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '186'
     page_image: v07/17-171-415-186.jpg
     persons:
     - id: '27889'
@@ -149,20 +142,7 @@ sublists:
       num: '24'
       name: КУБЕНСКИЙ Петр Владимирович
       spravka: true
-  - page:
-      pageid: '2157'
-      tom: '7'
-      pageintom: '187'
-      alistid: '275'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-187.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '187'
     page_image: v07/17-171-415-187.jpg
     persons:
     - id: '27913'
@@ -281,20 +261,7 @@ sublists:
       num: '53'
       name: ХВАТАЕВ Тимофей Денисович
       spravka: true
-  - page:
-      pageid: '2158'
-      tom: '7'
-      pageintom: '188'
-      alistid: '275'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-415-188.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '188'
     page_image: v07/17-171-415-188.jpg
     persons:
     - id: '27942'
@@ -332,20 +299,7 @@ sublists:
       num: '62'
       name: ЮЖАКОВ Иван Филиппович
       spravka: true
-  - page:
-      pageid: '2159'
-      tom: '7'
-      pageintom: '189'
-      alistid: '275'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-415-189.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '189'
     page_image: v07/17-171-415-189.jpg
     persons:
     - id: '27951'

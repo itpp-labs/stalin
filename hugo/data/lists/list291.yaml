@@ -14,19 +14,32 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-028.jpg
-- image: v08/17-171-416-029.jpg
-- image: v08/17-171-416-030.jpg
-- image: v08/17-171-416-031.jpg
-- image: v08/17-171-416-032.jpg
-- image: v08/17-171-416-033.jpg
-- image: v08/17-171-416-034.jpg
-- image: v08/17-171-416-035.jpg
-- image: v08/17-171-416-036.jpg
-- image: v08/17-171-416-037.jpg
-- image: v08/17-171-416-038.jpg
-- image: v08/17-171-416-039.jpg
-- image: v08/17-171-416-040.jpg
+- pageintom: '28'
+  image: v08/17-171-416-028.jpg
+- pageintom: '29'
+  image: v08/17-171-416-029.jpg
+- pageintom: '30'
+  image: v08/17-171-416-030.jpg
+- pageintom: '31'
+  image: v08/17-171-416-031.jpg
+- pageintom: '32'
+  image: v08/17-171-416-032.jpg
+- pageintom: '33'
+  image: v08/17-171-416-033.jpg
+- pageintom: '34'
+  image: v08/17-171-416-034.jpg
+- pageintom: '35'
+  image: v08/17-171-416-035.jpg
+- pageintom: '36'
+  image: v08/17-171-416-036.jpg
+- pageintom: '37'
+  image: v08/17-171-416-037.jpg
+- pageintom: '38'
+  image: v08/17-171-416-038.jpg
+- pageintom: '39'
+  image: v08/17-171-416-039.jpg
+- pageintom: '40'
+  image: v08/17-171-416-040.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,Московская область
@@ -42,20 +55,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '2283'
-      tom: '8'
-      pageintom: '30'
-      alistid: '291'
-      pagekind: '5'
-      arowcount: '23'
-      picturefile: 17-171-416-030.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '30'
     page_image: v08/17-171-416-030.jpg
     persons:
     - id: '29568'
@@ -155,20 +155,7 @@ sublists:
       num: '23'
       name: ГРЮНБЕРГ Юлий Густавович
       spravka: true
-  - page:
-      pageid: '2284'
-      tom: '8'
-      pageintom: '31'
-      alistid: '291'
-      pagekind: '5'
-      arowcount: '28'
-      picturefile: 17-171-416-031.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '31'
     page_image: v08/17-171-416-031.jpg
     persons:
     - id: '29591'
@@ -284,20 +271,7 @@ sublists:
       num: '51'
       name: МЕДАЛЬЕ Шмер Лейба Янкелевич
       spravka: true
-  - page:
-      pageid: '2285'
-      tom: '8'
-      pageintom: '32'
-      alistid: '291'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-416-032.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '32'
     page_image: v08/17-171-416-032.jpg
     persons:
     - id: '36136'
@@ -423,20 +397,7 @@ sublists:
       num: '80'
       name: ТАНАКА, он же ЯМОМОТО КЕНДЗО
       spravka: true
-  - page:
-      pageid: '2286'
-      tom: '8'
-      pageintom: '33'
-      alistid: '291'
-      pagekind: '5'
-      arowcount: '20'
-      picturefile: 17-171-416-033.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '33'
     page_image: v08/17-171-416-033.jpg
     persons:
     - id: '29648'
@@ -523,20 +484,7 @@ sublists:
       num: '100'
       name: ЯНУШЕВСКИЙ Диодор Михайлович
       spravka: true
-  - page:
-      pageid: '2287'
-      tom: '8'
-      pageintom: '34'
-      alistid: '291'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-416-034.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '34'
     page_image: v08/17-171-416-034.jpg
     persons:
     - id: '29668'
@@ -560,20 +508,7 @@ sublists:
       num: '4'
       name: ХАСАН ОГЛЫ АХМЕД ДЖЕМАЛЬ, он же АХМЕД БЕКИР АЛЕКС ОГЛЫ
       gb_spravka: true
-  - page:
-      pageid: '2292'
-      tom: '8'
-      pageintom: '39'
-      alistid: '291'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-416-039.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '39'
     page_image: v08/17-171-416-039.jpg
     persons:
     - id: '29672'
@@ -613,20 +548,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2293'
-      tom: '8'
-      pageintom: '40'
-      alistid: '291'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-416-040.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '40'
     page_image: v08/17-171-416-040.jpg
     persons:
     - id: '29679'

@@ -13,11 +13,16 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-145.jpg
-- image: v11/17-171-419-146.jpg
-- image: v11/17-171-419-147.jpg
-- image: v11/17-171-419-148.jpg
-- image: v11/17-171-419-149.jpg
+- pageintom: '145'
+  image: v11/17-171-419-145.jpg
+- pageintom: '146'
+  image: v11/17-171-419-146.jpg
+- pageintom: '147'
+  image: v11/17-171-419-147.jpg
+- pageintom: '148'
+  image: v11/17-171-419-148.jpg
+- pageintom: '149'
+  image: v11/17-171-419-149.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Алтайский край]
   listtitle: Список лиц - Алтайский край
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3265'
-      tom: '11'
-      pageintom: '147'
-      alistid: '401'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-147.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v11/17-171-419-147.jpg
     persons:
     - id: '42612'
@@ -130,20 +122,7 @@ sublists:
       num: '20'
       name: КИЙКО Андрей Сергеевич
       spravka: true
-  - page:
-      pageid: '3266'
-      tom: '11'
-      pageintom: '148'
-      alistid: '401'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-148.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '148'
     page_image: v11/17-171-419-148.jpg
     persons:
     - id: '42632'
@@ -226,20 +205,7 @@ sublists:
       num: '40'
       name: ЧУПИН Федор Федорович
       spravka: true
-  - page:
-      pageid: '3267'
-      tom: '11'
-      pageintom: '149'
-      alistid: '401'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-419-149.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '149'
     page_image: v11/17-171-419-149.jpg
     persons:
     - id: '42652'

@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-108.jpg
-- image: v01/17-171-409-109.jpg
-- image: v01/17-171-409-110.jpg
-- image: v01/17-171-409-111.jpg
-- image: v01/17-171-409-112.jpg
-- image: v01/17-171-409-113.jpg
+- pageintom: '108'
+  image: v01/17-171-409-108.jpg
+- pageintom: '109'
+  image: v01/17-171-409-109.jpg
+- pageintom: '110'
+  image: v01/17-171-409-110.jpg
+- pageintom: '111'
+  image: v01/17-171-409-111.jpg
+- pageintom: '112'
+  image: v01/17-171-409-112.jpg
+- pageintom: '113'
+  image: v01/17-171-409-113.jpg
 sublists:
 - title: Список от 23 апреля 1937 г. [Баку]
   listtitle: Список лиц - Баку
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '110'
-      tom: '1'
-      pageintom: '110'
-      alistid: '13'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-409-110.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '110'
     page_image: v01/17-171-409-110.jpg
     persons:
     - id: '1753'
@@ -156,20 +149,7 @@ sublists:
       num: '26'
       name: ОГАНЕЗОВ Артавазд Вартазарович
       doublesexists: true
-  - page:
-      pageid: '111'
-      tom: '1'
-      pageintom: '111'
-      alistid: '13'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-409-111.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '111'
     page_image: v01/17-171-409-111.jpg
     persons:
     - id: '1779'
@@ -224,20 +204,7 @@ sublists:
       num: '39'
       name: ЧЕРНИКОВ Григорий Иванович
       doublesexists: true
-  - page:
-      pageid: '112'
-      tom: '1'
-      pageintom: '112'
-      alistid: '13'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-409-112.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '112'
     page_image: v01/17-171-409-112.jpg
     persons:
     - id: '1792'
@@ -293,20 +260,7 @@ sublists:
     - id: '1808'
       num: '17'
       name: ХРАМКОВ Михаил Иванович
-  - page:
-      pageid: '113'
-      tom: '1'
-      pageintom: '113'
-      alistid: '13'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-409-113.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '113'
     page_image: v01/17-171-409-113.jpg
     persons:
     - id: '1809'

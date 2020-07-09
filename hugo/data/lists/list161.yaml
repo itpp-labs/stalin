@@ -12,12 +12,18 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-047.jpg
-- image: v09/17-171-417-048.jpg
-- image: v09/17-171-417-049.jpg
-- image: v09/17-171-417-050.jpg
-- image: v09/17-171-417-051.jpg
-- image: v09/17-171-417-052.jpg
+- pageintom: '47'
+  image: v09/17-171-417-047.jpg
+- pageintom: '48'
+  image: v09/17-171-417-048.jpg
+- pageintom: '49'
+  image: v09/17-171-417-049.jpg
+- pageintom: '50'
+  image: v09/17-171-417-050.jpg
+- pageintom: '51'
+  image: v09/17-171-417-051.jpg
+- pageintom: '52'
+  image: v09/17-171-417-052.jpg
 sublists:
 - title: Список от 10.VI.38г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -32,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3400'
-      tom: '9'
-      pageintom: '49'
-      alistid: '161'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-417-049.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '49'
     page_image: v09/17-171-417-049.jpg
     persons:
     - id: '33920'
@@ -130,20 +123,7 @@ sublists:
       num: '20'
       name: ГРАУДИН Ян Адамович
       spravka: true
-  - page:
-      pageid: '3401'
-      tom: '9'
-      pageintom: '50'
-      alistid: '161'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-417-050.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '50'
     page_image: v09/17-171-417-050.jpg
     persons:
     - id: '33940'
@@ -254,20 +234,7 @@ sublists:
       num: '47'
       name: МАЛЬЦЕВ Александр Федорович
       spravka: true
-  - page:
-      pageid: '3402'
-      tom: '9'
-      pageintom: '51'
-      alistid: '161'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-417-051.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '51'
     page_image: v09/17-171-417-051.jpg
     persons:
     - id: '33967'
@@ -378,20 +345,7 @@ sublists:
       num: '74'
       name: ЯГУШЕВСКИЙ Владимир Владиславович
       spravka: true
-  - page:
-      pageid: '3403'
-      tom: '9'
-      pageintom: '52'
-      alistid: '161'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-417-052.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '52'
     page_image: v09/17-171-417-052.jpg
     persons:
     - id: '33994'

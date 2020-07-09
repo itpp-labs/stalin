@@ -27,7 +27,7 @@ lists:
   signs:
     stalin: true
     molotov: true
-- title: Список от  [] - РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
+- title: РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
   url: /lists/list413#page-26-num-383
   date: '1940-09-06'
   signs: {}
@@ -117,5 +117,6 @@ gb_spravka:
     </TD> </TR> </TABLE> </body></html>
 
     '
-  pictures:
-  - disk/pictures/v13/17-171-421-404.jpg
+  pages:
+  - image: disk/pictures/v13/17-171-421-404.jpg
+    pageintom: '404'

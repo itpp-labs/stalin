@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-152.jpg
-- image: v04/17-171-412-153.jpg
-- image: v04/17-171-412-154.jpg
-- image: v04/17-171-412-155.jpg
-- image: v04/17-171-412-156.jpg
+- pageintom: '152'
+  image: v04/17-171-412-152.jpg
+- pageintom: '153'
+  image: v04/17-171-412-153.jpg
+- pageintom: '154'
+  image: v04/17-171-412-154.jpg
+- pageintom: '155'
+  image: v04/17-171-412-155.jpg
+- pageintom: '156'
+  image: v04/17-171-412-156.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ростовская область]
   listtitle: Список лиц - Ростовская обл.
@@ -34,20 +39,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '997'
-      tom: '4'
-      pageintom: '154'
-      alistid: '95'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-412-154.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '154'
     page_image: v04/17-171-412-154.jpg
     persons:
     - id: '12420'
@@ -120,20 +112,7 @@ sublists:
       num: '17'
       name: ТУШКАНОВ Андрей Гаврилович
       spravka: true
-  - page:
-      pageid: '998'
-      tom: '4'
-      pageintom: '155'
-      alistid: '95'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-412-155.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '155'
     page_image: v04/17-171-412-155.jpg
     persons:
     - id: '12437'

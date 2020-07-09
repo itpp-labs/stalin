@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-269.jpg
-- image: v06/17-171-414-270.jpg
-- image: v06/17-171-414-271.jpg
-- image: v06/17-171-414-272.jpg
-- image: v06/17-171-414-273.jpg
+- pageintom: '269'
+  image: v06/17-171-414-269.jpg
+- pageintom: '270'
+  image: v06/17-171-414-270.jpg
+- pageintom: '271'
+  image: v06/17-171-414-271.jpg
+- pageintom: '272'
+  image: v06/17-171-414-272.jpg
+- pageintom: '273'
+  image: v06/17-171-414-273.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1776'
-      tom: '6'
-      pageintom: '271'
-      alistid: '366'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-271.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '271'
     page_image: v06/17-171-414-271.jpg
     persons:
     - id: '22846'
@@ -130,20 +122,7 @@ sublists:
     - id: '22867'
       num: '22'
       name: ДЖАНГУТДИЕВ Шингали Кариевич
-  - page:
-      pageid: '1777'
-      tom: '6'
-      pageintom: '272'
-      alistid: '366'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-272.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '272'
     page_image: v06/17-171-414-272.jpg
     persons:
     - id: '22868'
@@ -245,20 +224,7 @@ sublists:
     - id: '22895'
       num: '50'
       name: ТЕЛЕШЕВ Дмитрий Тимофеевич
-  - page:
-      pageid: '1778'
-      tom: '6'
-      pageintom: '273'
-      alistid: '366'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-414-273.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '273'
     page_image: v06/17-171-414-273.jpg
     persons:
     - id: '22896'

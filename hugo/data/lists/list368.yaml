@@ -15,14 +15,22 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-285.jpg
-- image: v06/17-171-414-286.jpg
-- image: v06/17-171-414-287.jpg
-- image: v06/17-171-414-288.jpg
-- image: v06/17-171-414-289.jpg
-- image: v06/17-171-414-290.jpg
-- image: v06/17-171-414-291.jpg
-- image: v06/17-171-414-292.jpg
+- pageintom: '285'
+  image: v06/17-171-414-285.jpg
+- pageintom: '286'
+  image: v06/17-171-414-286.jpg
+- pageintom: '287'
+  image: v06/17-171-414-287.jpg
+- pageintom: '288'
+  image: v06/17-171-414-288.jpg
+- pageintom: '289'
+  image: v06/17-171-414-289.jpg
+- pageintom: '290'
+  image: v06/17-171-414-290.jpg
+- pageintom: '291'
+  image: v06/17-171-414-291.jpg
+- pageintom: '292'
+  image: v06/17-171-414-292.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР; Алма-Ата.Турк.-Сибирская ж.д.
@@ -39,20 +47,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1792'
-      tom: '6'
-      pageintom: '287'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-414-287.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '287'
     page_image: v06/17-171-414-287.jpg
     persons:
     - id: '22914'
@@ -133,20 +128,7 @@ sublists:
       num: '19'
       name: БУРКИТБАЕВ Ашир
       spravka: true
-  - page:
-      pageid: '1793'
-      tom: '6'
-      pageintom: '288'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-414-288.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '288'
     page_image: v06/17-171-414-288.jpg
     persons:
     - id: '22933'
@@ -252,20 +234,7 @@ sublists:
       num: '45'
       name: КЕНИГ Генрих Генрихович
       spravka: true
-  - page:
-      pageid: '1794'
-      tom: '6'
-      pageintom: '289'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-414-289.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '289'
     page_image: v06/17-171-414-289.jpg
     persons:
     - id: '22959'
@@ -371,20 +340,7 @@ sublists:
       num: '71'
       name: САФАРБЕКОВ Садыкбек
       spravka: true
-  - page:
-      pageid: '1795'
-      tom: '6'
-      pageintom: '290'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-414-290.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '290'
     page_image: v06/17-171-414-290.jpg
     persons:
     - id: '22985'
@@ -493,20 +449,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1796'
-      tom: '6'
-      pageintom: '291'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-414-291.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '291'
     page_image: v06/17-171-414-291.jpg
     persons:
     - id: '23008'
@@ -551,20 +494,7 @@ sublists:
       num: '10'
       name: ЭЛЬБЕРГ Леонид Федорович
       spravka: true
-  - page:
-      pageid: '1797'
-      tom: '6'
-      pageintom: '292'
-      alistid: '368'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-292.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '292'
     page_image: v06/17-171-414-292.jpg
     persons:
     - id: '23018'

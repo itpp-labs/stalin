@@ -13,11 +13,16 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-135.jpg
-- image: v11/17-171-419-136.jpg
-- image: v11/17-171-419-137.jpg
-- image: v11/17-171-419-138.jpg
-- image: v11/17-171-419-139.jpg
+- pageintom: '135'
+  image: v11/17-171-419-135.jpg
+- pageintom: '136'
+  image: v11/17-171-419-136.jpg
+- pageintom: '137'
+  image: v11/17-171-419-137.jpg
+- pageintom: '138'
+  image: v11/17-171-419-138.jpg
+- pageintom: '139'
+  image: v11/17-171-419-139.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [г.Ашхабад - Ашхабадская ж.д.]
   listtitle: Список лиц - г.Ашхабад - Ашхабадская ж.д.
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3255'
-      tom: '11'
-      pageintom: '137'
-      alistid: '399'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-419-137.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v11/17-171-419-137.jpg
     persons:
     - id: '42521'
@@ -108,20 +100,7 @@ sublists:
     - id: '42538'
       num: '18'
       name: ФИЛИППЕНКО Иосиф Васильевич
-  - page:
-      pageid: '3256'
-      tom: '11'
-      pageintom: '138'
-      alistid: '399'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-419-138.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '138'
     page_image: v11/17-171-419-138.jpg
     persons:
     - id: '42539'
@@ -136,20 +115,7 @@ sublists:
     - id: '42542'
       num: '22'
       name: ЩЕПОТКИН Григорий Федорович
-  - page:
-      pageid: '3257'
-      tom: '11'
-      pageintom: '139'
-      alistid: '399'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-419-139.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '139'
     page_image: v11/17-171-419-139.jpg
     persons:
     - id: '42543'

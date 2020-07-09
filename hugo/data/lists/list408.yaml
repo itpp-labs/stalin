@@ -10,14 +10,20 @@ delo:
   num: ''
 signs: {}
 pages:
-- image: v12/17-171-377-131.jpg
-- image: v12/17-171-377-132.jpg
-- image: v12/17-171-377-133.jpg
-- image: v12/17-171-377-134.jpg
-- image: v12/17-171-377-135.jpg
-- image: v12/17-171-377-136.jpg
+- pageintom: '131'
+  image: v12/17-171-377-131.jpg
+- pageintom: '132'
+  image: v12/17-171-377-132.jpg
+- pageintom: '133'
+  image: v12/17-171-377-133.jpg
+- pageintom: '134'
+  image: v12/17-171-377-134.jpg
+- pageintom: '135'
+  image: v12/17-171-377-135.jpg
+- pageintom: '136'
+  image: v12/17-171-377-136.jpg
 sublists:
-- title: Список от  []
+- title: ''
   listtitle: Список арестованных (категория 2)
   sublisttitle: ''
   kat1: true
@@ -30,20 +36,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3419'
-      tom: '12'
-      pageintom: '131'
-      alistid: '408'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-377-131.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '131'
     page_image: v12/17-171-377-131.jpg
     persons:
     - id: '44850'
@@ -137,20 +130,7 @@ sublists:
     - id: '44873'
       num: '24'
       name: ГУВВА Иван Александрович
-  - page:
-      pageid: '3420'
-      tom: '12'
-      pageintom: '132'
-      alistid: '408'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-377-132.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '132'
     page_image: v12/17-171-377-132.jpg
     persons:
     - id: '44874'
@@ -249,20 +229,7 @@ sublists:
       num: '49'
       name: КУРПИЦ Эдуард Карлович
       spravka: true
-  - page:
-      pageid: '3421'
-      tom: '12'
-      pageintom: '133'
-      alistid: '408'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-133.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '133'
     page_image: v12/17-171-377-133.jpg
     persons:
     - id: '44899'
@@ -361,20 +328,7 @@ sublists:
       num: '75'
       name: ПОЛУЯН-ВЕРЕЦКАЯ Елена Матвеевна
       spravka: true
-  - page:
-      pageid: '3422'
-      tom: '12'
-      pageintom: '134'
-      alistid: '408'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-377-134.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '134'
     page_image: v12/17-171-377-134.jpg
     persons:
     - id: '44925'
@@ -480,20 +434,7 @@ sublists:
       num: '102'
       name: ЦЕЛИКОВ Артемий Антонович
       spravka: true
-  - page:
-      pageid: '3423'
-      tom: '12'
-      pageintom: '135'
-      alistid: '408'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-377-135.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '135'
     page_image: v12/17-171-377-135.jpg
     persons:
     - id: '44952'

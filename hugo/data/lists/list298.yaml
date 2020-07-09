@@ -14,13 +14,20 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-102.jpg
-- image: v08/17-171-416-103.jpg
-- image: v08/17-171-416-104.jpg
-- image: v08/17-171-416-105.jpg
-- image: v08/17-171-416-106.jpg
-- image: v08/17-171-416-107.jpg
-- image: v08/17-171-416-108.jpg
+- pageintom: '102'
+  image: v08/17-171-416-102.jpg
+- pageintom: '103'
+  image: v08/17-171-416-103.jpg
+- pageintom: '104'
+  image: v08/17-171-416-104.jpg
+- pageintom: '105'
+  image: v08/17-171-416-105.jpg
+- pageintom: '106'
+  image: v08/17-171-416-106.jpg
+- pageintom: '107'
+  image: v08/17-171-416-107.jpg
+- pageintom: '108'
+  image: v08/17-171-416-108.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Вологодская область]
   listtitle: Список лиц - Вологодская область
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2357'
-      tom: '8'
-      pageintom: '104'
-      alistid: '298'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-416-104.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '104'
     page_image: v08/17-171-416-104.jpg
     persons:
     - id: '30418'
@@ -136,20 +130,7 @@ sublists:
     - id: '30438'
       num: '21'
       name: ЗАПРИЕВ Дмитрий Васильевич
-  - page:
-      pageid: '2358'
-      tom: '8'
-      pageintom: '105'
-      alistid: '298'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-416-105.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '105'
     page_image: v08/17-171-416-105.jpg
     persons:
     - id: '30439'
@@ -268,20 +249,7 @@ sublists:
       num: '50'
       name: СКОТНИКОВ Иван Степанович
       spravka: true
-  - page:
-      pageid: '2359'
-      tom: '8'
-      pageintom: '106'
-      alistid: '298'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-416-106.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '106'
     page_image: v08/17-171-416-106.jpg
     persons:
     - id: '30468'
@@ -339,20 +307,7 @@ sublists:
       num: '64'
       name: ЯНГОСОРОВ Василий Павлович
       spravka: true
-  - page:
-      pageid: '2360'
-      tom: '8'
-      pageintom: '107'
-      alistid: '298'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-416-107.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '107'
     page_image: v08/17-171-416-107.jpg
     persons:
     - id: '30482'
@@ -433,20 +388,7 @@ sublists:
       num: '19'
       name: СТЕПАНОВ Николай Анатольевич
       spravka: true
-  - page:
-      pageid: '2361'
-      tom: '8'
-      pageintom: '108'
-      alistid: '298'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-416-108.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '108'
     page_image: v08/17-171-416-108.jpg
     persons:
     - id: '30501'

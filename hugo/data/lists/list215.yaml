@@ -12,7 +12,10 @@ delo:
   num: 9-Л/8-3
 signs: {}
 pages:
-- image: v03/17-171-411_op_3.jpg
-- image: v03/17-171-411_op_2.jpg
-- image: v03/17-171-411_op_1.jpg
+- pageintom: '0'
+  image: v03/17-171-411_op_3.jpg
+- pageintom: '-1'
+  image: v03/17-171-411_op_2.jpg
+- pageintom: '-2'
+  image: v03/17-171-411_op_1.jpg
 sublists: []

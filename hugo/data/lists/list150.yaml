@@ -15,19 +15,32 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-360.jpg
-- image: v05/17-171-413-361.jpg
-- image: v05/17-171-413-362.jpg
-- image: v05/17-171-413-363.jpg
-- image: v05/17-171-413-364.jpg
-- image: v05/17-171-413-365.jpg
-- image: v05/17-171-413-366.jpg
-- image: v05/17-171-413-367.jpg
-- image: v05/17-171-413-368.jpg
-- image: v05/17-171-413-369.jpg
-- image: v05/17-171-413-370.jpg
-- image: v05/17-171-413-371.jpg
-- image: v05/17-171-413-372.jpg
+- pageintom: '360'
+  image: v05/17-171-413-360.jpg
+- pageintom: '361'
+  image: v05/17-171-413-361.jpg
+- pageintom: '362'
+  image: v05/17-171-413-362.jpg
+- pageintom: '363'
+  image: v05/17-171-413-363.jpg
+- pageintom: '364'
+  image: v05/17-171-413-364.jpg
+- pageintom: '365'
+  image: v05/17-171-413-365.jpg
+- pageintom: '366'
+  image: v05/17-171-413-366.jpg
+- pageintom: '367'
+  image: v05/17-171-413-367.jpg
+- pageintom: '368'
+  image: v05/17-171-413-368.jpg
+- pageintom: '369'
+  image: v05/17-171-413-369.jpg
+- pageintom: '370'
+  image: v05/17-171-413-370.jpg
+- pageintom: '371'
+  image: v05/17-171-413-371.jpg
+- pageintom: '372'
+  image: v05/17-171-413-372.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Москва - центр]
   listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
@@ -42,20 +55,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1486'
-      tom: '5'
-      pageintom: '362'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-413-362.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '362'
     page_image: v05/17-171-413-362.jpg
     persons:
     - id: '19116'
@@ -138,20 +138,7 @@ sublists:
       num: '20'
       name: ВОРОБЬЕВ Сергей Ильич
       spravka: true
-  - page:
-      pageid: '1487'
-      tom: '5'
-      pageintom: '363'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-363.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '363'
     page_image: v05/17-171-413-363.jpg
     persons:
     - id: '19136'
@@ -266,20 +253,7 @@ sublists:
       num: '49'
       name: КОСТРЫКИН Максим Лаврентьевич
       spravka: true
-  - page:
-      pageid: '1488'
-      tom: '5'
-      pageintom: '364'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-364.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '364'
     page_image: v05/17-171-413-364.jpg
     persons:
     - id: '19165'
@@ -390,20 +364,7 @@ sublists:
       num: '77'
       name: РУБЦОВ Василий Степанович
       spravka: true
-  - page:
-      pageid: '1489'
-      tom: '5'
-      pageintom: '365'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-413-365.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '365'
     page_image: v05/17-171-413-365.jpg
     persons:
     - id: '19193'
@@ -498,20 +459,7 @@ sublists:
     - id: '19216'
       num: '101'
       name: ЯСТРЖЕМБСКИЙ Владислав Павлович
-  - page:
-      pageid: '1490'
-      tom: '5'
-      pageintom: '366'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-413-366.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '366'
     page_image: v05/17-171-413-366.jpg
     persons:
     - id: '19217'
@@ -552,20 +500,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1491'
-      tom: '5'
-      pageintom: '367'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-413-367.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '367'
     page_image: v05/17-171-413-367.jpg
     persons:
     - id: '19223'
@@ -597,20 +532,7 @@ sublists:
   - 2
   - 13
   pages:
-  - page:
-      pageid: '1492'
-      tom: '5'
-      pageintom: '368'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-368.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '368'
     page_image: v05/17-171-413-368.jpg
     persons:
     - id: '19227'
@@ -685,20 +607,7 @@ sublists:
       num: '21'
       name: ПЛАТОНОВ Илья Алексеевич
       spravka: true
-  - page:
-      pageid: '1493'
-      tom: '5'
-      pageintom: '369'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-413-369.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '369'
     page_image: v05/17-171-413-369.jpg
     persons:
     - id: '19248'
@@ -748,20 +657,7 @@ sublists:
     - id: '19261'
       num: '35'
       name: ЯШИН Дмитрий Иванович
-  - page:
-      pageid: '1494'
-      tom: '5'
-      pageintom: '370'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-370.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '370'
     page_image: v05/17-171-413-370.jpg
     persons:
     - id: '19262'
@@ -770,20 +666,7 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>МОСКВА. Жел.дор.им.ДЗЕРЖИНСКОГО.</u><br />(Иностранный
         подданный)<u> </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - page:
-      pageid: '1496'
-      tom: '5'
-      pageintom: '372'
-      alistid: '150'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-413-372.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '372'
     page_image: v05/17-171-413-372.jpg
     persons:
     - id: '19263'

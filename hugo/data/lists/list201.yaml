@@ -13,18 +13,30 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-140.jpg
-- image: v10/17-171-418-141.jpg
-- image: v10/17-171-418-142.jpg
-- image: v10/17-171-418-143.jpg
-- image: v10/17-171-418-144.jpg
-- image: v10/17-171-418-145.jpg
-- image: v10/17-171-418-146.jpg
-- image: v10/17-171-418-147.jpg
-- image: v10/17-171-418-148.jpg
-- image: v10/17-171-418-149.jpg
-- image: v10/17-171-418-150.jpg
-- image: v10/17-171-418-151.jpg
+- pageintom: '140'
+  image: v10/17-171-418-140.jpg
+- pageintom: '141'
+  image: v10/17-171-418-141.jpg
+- pageintom: '142'
+  image: v10/17-171-418-142.jpg
+- pageintom: '143'
+  image: v10/17-171-418-143.jpg
+- pageintom: '144'
+  image: v10/17-171-418-144.jpg
+- pageintom: '145'
+  image: v10/17-171-418-145.jpg
+- pageintom: '146'
+  image: v10/17-171-418-146.jpg
+- pageintom: '147'
+  image: v10/17-171-418-147.jpg
+- pageintom: '148'
+  image: v10/17-171-418-148.jpg
+- pageintom: '149'
+  image: v10/17-171-418-149.jpg
+- pageintom: '150'
+  image: v10/17-171-418-150.jpg
+- pageintom: '151'
+  image: v10/17-171-418-151.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Татарская АССР]
   listtitle: Список лиц - Татарская АССР
@@ -39,20 +51,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2997'
-      tom: '10'
-      pageintom: '142'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-142.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v10/17-171-418-142.jpg
     persons:
     - id: '39172'
@@ -140,20 +139,7 @@ sublists:
       num: '21'
       name: БИКТАШЕВ Билял Биктемирович
       spravka: true
-  - page:
-      pageid: '2998'
-      tom: '10'
-      pageintom: '143'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-143.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '143'
     page_image: v10/17-171-418-143.jpg
     persons:
     - id: '39193'
@@ -260,20 +246,7 @@ sublists:
       num: '48'
       name: ГИРФАНОВ Сагит Гирфанович
       spravka: true
-  - page:
-      pageid: '2999'
-      tom: '10'
-      pageintom: '144'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-144.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '144'
     page_image: v10/17-171-418-144.jpg
     persons:
     - id: '39220'
@@ -383,20 +356,7 @@ sublists:
       num: '75'
       name: ЗУБКОВ Леонтий Иванович
       spravka: true
-  - page:
-      pageid: '3000'
-      tom: '10'
-      pageintom: '145'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-145.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '145'
     page_image: v10/17-171-418-145.jpg
     persons:
     - id: '39247'
@@ -507,20 +467,7 @@ sublists:
       num: '102'
       name: ЛЕЖЕПЕКОВ Петр Васильевич
       spravka: true
-  - page:
-      pageid: '3001'
-      tom: '10'
-      pageintom: '146'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-146.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '146'
     page_image: v10/17-171-418-146.jpg
     persons:
     - id: '39274'
@@ -628,20 +575,7 @@ sublists:
       num: '129'
       name: ПАРАНИН Иван Степанович
       spravka: true
-  - page:
-      pageid: '3002'
-      tom: '10'
-      pageintom: '147'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-418-147.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v10/17-171-418-147.jpg
     persons:
     - id: '39301'
@@ -748,20 +682,7 @@ sublists:
       num: '155'
       name: СИДОРОВ Петр Дмитриевич
       spravka: true
-  - page:
-      pageid: '3003'
-      tom: '10'
-      pageintom: '148'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-418-148.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '148'
     page_image: v10/17-171-418-148.jpg
     persons:
     - id: '39327'
@@ -867,20 +788,7 @@ sublists:
       num: '181'
       name: ХУСНУТДИНОВ Хабиб Гильманович
       spravka: true
-  - page:
-      pageid: '3004'
-      tom: '10'
-      pageintom: '149'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-418-149.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '149'
     page_image: v10/17-171-418-149.jpg
     persons:
     - id: '39353'
@@ -947,20 +855,7 @@ sublists:
       num: '197'
       name: ЯРМУХАМЕТОВ Назип Сулейманович
       spravka: true
-  - page:
-      pageid: '3005'
-      tom: '10'
-      pageintom: '150'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-150.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '150'
     page_image: v10/17-171-418-150.jpg
     persons:
     - id: '39369'
@@ -1046,20 +941,7 @@ sublists:
     - id: '39389'
       num: '21'
       name: МИННИБАЕВ Гали Хазиевич
-  - page:
-      pageid: '3006'
-      tom: '10'
-      pageintom: '151'
-      alistid: '201'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-418-151.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '151'
     page_image: v10/17-171-418-151.jpg
     persons:
     - id: '39390'

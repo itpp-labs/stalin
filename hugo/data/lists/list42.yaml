@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-058.jpg
-- image: v02/17-171-410-059.jpg
-- image: v02/17-171-410-060.jpg
-- image: v02/17-171-410-061.jpg
-- image: v02/17-171-410-062.jpg
-- image: v02/17-171-410-063.jpg
-- image: v02/17-171-410-064.jpg
+- pageintom: '58'
+  image: v02/17-171-410-058.jpg
+- pageintom: '59'
+  image: v02/17-171-410-059.jpg
+- pageintom: '60'
+  image: v02/17-171-410-060.jpg
+- pageintom: '61'
+  image: v02/17-171-410-061.jpg
+- pageintom: '62'
+  image: v02/17-171-410-062.jpg
+- pageintom: '63'
+  image: v02/17-171-410-063.jpg
+- pageintom: '64'
+  image: v02/17-171-410-064.jpg
 sublists:
 - title: Список от 13 июля 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '296'
-      tom: '2'
-      pageintom: '60'
-      alistid: '42'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-410-060.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '60'
     page_image: v02/17-171-410-060.jpg
     persons:
     - id: '4018'
@@ -138,20 +132,7 @@ sublists:
       num: '21'
       name: ГУРЛОВ Дмитрий Яковлевич
       spravka: true
-  - page:
-      pageid: '297'
-      tom: '2'
-      pageintom: '61'
-      alistid: '42'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-410-061.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '61'
     page_image: v02/17-171-410-061.jpg
     persons:
     - id: '4039'
@@ -266,20 +247,7 @@ sublists:
       num: '49'
       name: МАНТУРОВ Борис Алексеевич
       spravka: true
-  - page:
-      pageid: '298'
-      tom: '2'
-      pageintom: '62'
-      alistid: '42'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-410-062.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '62'
     page_image: v02/17-171-410-062.jpg
     persons:
     - id: '4067'
@@ -398,20 +366,7 @@ sublists:
       num: '78'
       name: СИВКОВ Александр Николаевич
       spravka: true
-  - page:
-      pageid: '299'
-      tom: '2'
-      pageintom: '63'
-      alistid: '42'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-410-063.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '63'
     page_image: v02/17-171-410-063.jpg
     persons:
     - id: '4096'
@@ -490,20 +445,7 @@ sublists:
       num: '97'
       name: ЯСИНСКИЙ Евгений Феликсович
       spravka: true
-  - page:
-      pageid: '300'
-      tom: '2'
-      pageintom: '64'
-      alistid: '42'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-064.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '64'
     page_image: v02/17-171-410-064.jpg
     persons:
     - id: '4115'

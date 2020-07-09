@@ -14,12 +14,18 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-223.jpg
-- image: v08/17-171-416-224.jpg
-- image: v08/17-171-416-225.jpg
-- image: v08/17-171-416-226.jpg
-- image: v08/17-171-416-227.jpg
-- image: v08/17-171-416-228.jpg
+- pageintom: '223'
+  image: v08/17-171-416-223.jpg
+- pageintom: '224'
+  image: v08/17-171-416-224.jpg
+- pageintom: '225'
+  image: v08/17-171-416-225.jpg
+- pageintom: '226'
+  image: v08/17-171-416-226.jpg
+- pageintom: '227'
+  image: v08/17-171-416-227.jpg
+- pageintom: '228'
+  image: v08/17-171-416-228.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2478'
-      tom: '8'
-      pageintom: '225'
-      alistid: '316'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-416-225.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '225'
     page_image: v08/17-171-416-225.jpg
     persons:
     - id: '31910'
@@ -143,20 +136,7 @@ sublists:
       num: '23'
       name: ИСКАНДАРОВ Абдулла Абдрафикович
       spravka: true
-  - page:
-      pageid: '2479'
-      tom: '8'
-      pageintom: '226'
-      alistid: '316'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-416-226.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '226'
     page_image: v08/17-171-416-226.jpg
     persons:
     - id: '31933'
@@ -269,20 +249,7 @@ sublists:
       num: '51'
       name: СЮЛЕВ Андрей Фомич
       spravka: true
-  - page:
-      pageid: '2480'
-      tom: '8'
-      pageintom: '227'
-      alistid: '316'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-416-227.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '227'
     page_image: v08/17-171-416-227.jpg
     persons:
     - id: '31961'
@@ -325,20 +292,7 @@ sublists:
       num: '61'
       name: ЯНГУРАЗОВ Мухамед-Гади Гиниатуллич
       spravka: true
-  - page:
-      pageid: '2481'
-      tom: '8'
-      pageintom: '228'
-      alistid: '316'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-416-228.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '228'
     page_image: v08/17-171-416-228.jpg
     persons:
     - id: '31971'

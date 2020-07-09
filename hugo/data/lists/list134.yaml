@@ -14,15 +14,24 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-230.jpg
-- image: v05/17-171-413-231.jpg
-- image: v05/17-171-413-232.jpg
-- image: v05/17-171-413-233.jpg
-- image: v05/17-171-413-234.jpg
-- image: v05/17-171-413-235.jpg
-- image: v05/17-171-413-236.jpg
-- image: v05/17-171-413-237.jpg
-- image: v05/17-171-413-238.jpg
+- pageintom: '230'
+  image: v05/17-171-413-230.jpg
+- pageintom: '231'
+  image: v05/17-171-413-231.jpg
+- pageintom: '232'
+  image: v05/17-171-413-232.jpg
+- pageintom: '233'
+  image: v05/17-171-413-233.jpg
+- pageintom: '234'
+  image: v05/17-171-413-234.jpg
+- pageintom: '235'
+  image: v05/17-171-413-235.jpg
+- pageintom: '236'
+  image: v05/17-171-413-236.jpg
+- pageintom: '237'
+  image: v05/17-171-413-237.jpg
+- pageintom: '238'
+  image: v05/17-171-413-238.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
@@ -37,20 +46,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1356'
-      tom: '5'
-      pageintom: '232'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-413-232.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '232'
     page_image: v05/17-171-413-232.jpg
     persons:
     - id: '17286'
@@ -141,20 +137,7 @@ sublists:
       num: '22'
       name: КАДАК Антоний Мартынович
       spravka: true
-  - page:
-      pageid: '1357'
-      tom: '5'
-      pageintom: '233'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-233.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '233'
     page_image: v05/17-171-413-233.jpg
     persons:
     - id: '17308'
@@ -273,20 +256,7 @@ sublists:
       num: '51'
       name: РАТОВ Михаил Арсеньевич
       spravka: true
-  - page:
-      pageid: '1358'
-      tom: '5'
-      pageintom: '234'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-413-234.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '234'
     page_image: v05/17-171-413-234.jpg
     persons:
     - id: '17337'
@@ -357,20 +327,7 @@ sublists:
       num: '68'
       name: ЯКУБЧИК Владимир Николаевич
       spravka: true
-  - page:
-      pageid: '1359'
-      tom: '5'
-      pageintom: '235'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-413-235.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '235'
     page_image: v05/17-171-413-235.jpg
     persons:
     - id: '17354'
@@ -446,20 +403,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1360'
-      tom: '5'
-      pageintom: '236'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-413-236.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '236'
     page_image: v05/17-171-413-236.jpg
     persons:
     - id: '17369'
@@ -546,20 +490,7 @@ sublists:
     - id: '17391'
       num: '23'
       name: РАТНИКОВ Георгий Иванович
-  - page:
-      pageid: '1361'
-      tom: '5'
-      pageintom: '237'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-413-237.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '237'
     page_image: v05/17-171-413-237.jpg
     persons:
     - id: '17392'
@@ -615,20 +546,7 @@ sublists:
       num: '37'
       name: ШИРОКШИН Анатолий Сергеевич
       spravka: true
-  - page:
-      pageid: '1362'
-      tom: '5'
-      pageintom: '238'
-      alistid: '134'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-413-238.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '238'
     page_image: v05/17-171-413-238.jpg
     persons:
     - id: '17406'

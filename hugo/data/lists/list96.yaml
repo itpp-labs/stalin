@@ -12,14 +12,22 @@ signs:
   stalin: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-157.jpg
-- image: v04/17-171-412-158.jpg
-- image: v04/17-171-412-159.jpg
-- image: v04/17-171-412-160.jpg
-- image: v04/17-171-412-161.jpg
-- image: v04/17-171-412-162.jpg
-- image: v04/17-171-412-163.jpg
-- image: v04/17-171-412-164.jpg
+- pageintom: '157'
+  image: v04/17-171-412-157.jpg
+- pageintom: '158'
+  image: v04/17-171-412-158.jpg
+- pageintom: '159'
+  image: v04/17-171-412-159.jpg
+- pageintom: '160'
+  image: v04/17-171-412-160.jpg
+- pageintom: '161'
+  image: v04/17-171-412-161.jpg
+- pageintom: '162'
+  image: v04/17-171-412-162.jpg
+- pageintom: '163'
+  image: v04/17-171-412-163.jpg
+- pageintom: '164'
+  image: v04/17-171-412-164.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская обл., ДТО Томской ж.д.
@@ -34,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1002'
-      tom: '4'
-      pageintom: '159'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-412-159.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '159'
     page_image: v04/17-171-412-159.jpg
     persons:
     - id: '12438'
@@ -134,20 +129,7 @@ sublists:
     - id: '12459'
       num: '22'
       name: ДАНИЛЕНКО Георгий Иванович
-  - page:
-      pageid: '1003'
-      tom: '4'
-      pageintom: '160'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-412-160.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '160'
     page_image: v04/17-171-412-160.jpg
     persons:
     - id: '12460'
@@ -248,20 +230,7 @@ sublists:
     - id: '12487'
       num: '50'
       name: МИЛЮТИНА Наталья Павловна
-  - page:
-      pageid: '1004'
-      tom: '4'
-      pageintom: '161'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-412-161.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '161'
     page_image: v04/17-171-412-161.jpg
     persons:
     - id: '12488'
@@ -364,20 +333,7 @@ sublists:
       name: ЦЕДЕРБАУМ-ЕЖОВ Сергей Осипович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1005'
-      tom: '4'
-      pageintom: '162'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-412-162.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '162'
     page_image: v04/17-171-412-162.jpg
     persons:
     - id: '12516'
@@ -412,20 +368,7 @@ sublists:
       name: ЯГОВ Владимир Яковлевич, он же <br />ШМУШКИН Шая Мейерович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1006'
-      tom: '4'
-      pageintom: '163'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-412-163.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '163'
     page_image: v04/17-171-412-163.jpg
     persons:
     - id: '12524'
@@ -461,20 +404,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1007'
-      tom: '4'
-      pageintom: '164'
-      alistid: '96'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-412-164.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '164'
     page_image: v04/17-171-412-164.jpg
     persons:
     - id: '12529'

@@ -16,12 +16,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-328.jpg
-- image: v02/17-171-410-329.jpg
-- image: v02/17-171-410-330.jpg
-- image: v02/17-171-410-331.jpg
-- image: v02/17-171-410-332.jpg
-- image: v02/17-171-410-333.jpg
+- pageintom: '328'
+  image: v02/17-171-410-328.jpg
+- pageintom: '329'
+  image: v02/17-171-410-329.jpg
+- pageintom: '330'
+  image: v02/17-171-410-330.jpg
+- pageintom: '331'
+  image: v02/17-171-410-331.jpg
+- pageintom: '332'
+  image: v02/17-171-410-332.jpg
+- pageintom: '333'
+  image: v02/17-171-410-333.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Куйбышевская область]
   listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
@@ -37,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '566'
-      tom: '2'
-      pageintom: '330'
-      alistid: '72'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-410-330.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '330'
     page_image: v02/17-171-410-330.jpg
     persons:
     - id: '7427'
@@ -138,20 +131,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '567'
-      tom: '2'
-      pageintom: '331'
-      alistid: '72'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-410-331.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '331'
     page_image: v02/17-171-410-331.jpg
     persons:
     - id: '7444'
@@ -185,20 +165,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '568'
-      tom: '2'
-      pageintom: '332'
-      alistid: '72'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-410-332.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '332'
     page_image: v02/17-171-410-332.jpg
     persons:
     - id: '7448'
@@ -226,20 +193,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '569'
-      tom: '2'
-      pageintom: '333'
-      alistid: '72'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-410-333.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '333'
     page_image: v02/17-171-410-333.jpg
     persons:
     - id: '7451'

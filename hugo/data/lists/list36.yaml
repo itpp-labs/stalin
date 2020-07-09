@@ -12,12 +12,18 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-021.jpg
-- image: v02/17-171-410-022.jpg
-- image: v02/17-171-410-023.jpg
-- image: v02/17-171-410-024.jpg
-- image: v02/17-171-410-025.jpg
-- image: v02/17-171-410-026.jpg
+- pageintom: '21'
+  image: v02/17-171-410-021.jpg
+- pageintom: '22'
+  image: v02/17-171-410-022.jpg
+- pageintom: '23'
+  image: v02/17-171-410-023.jpg
+- pageintom: '24'
+  image: v02/17-171-410-024.jpg
+- pageintom: '25'
+  image: v02/17-171-410-025.jpg
+- pageintom: '26'
+  image: v02/17-171-410-026.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Азербайджанская ССР]
   listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
@@ -32,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '259'
-      tom: '2'
-      pageintom: '23'
-      alistid: '36'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-023.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '23'
     page_image: v02/17-171-410-023.jpg
     persons:
     - id: '3597'
@@ -123,20 +116,7 @@ sublists:
     - id: '3620'
       num: '24'
       name: НЕМЧЕНКО Михаил Лукьянович
-  - page:
-      pageid: '260'
-      tom: '2'
-      pageintom: '24'
-      alistid: '36'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-410-024.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '24'
     page_image: v02/17-171-410-024.jpg
     persons:
     - id: '3621'
@@ -194,20 +174,7 @@ sublists:
     - id: '3638'
       num: '42'
       name: ЮНИН Илья Васильевич
-  - page:
-      pageid: '261'
-      tom: '2'
-      pageintom: '25'
-      alistid: '36'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-410-025.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '25'
     page_image: v02/17-171-410-025.jpg
     persons:
     - id: '3639'
@@ -234,20 +201,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '262'
-      tom: '2'
-      pageintom: '26'
-      alistid: '36'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-410-026.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '26'
     page_image: v02/17-171-410-026.jpg
     persons:
     - id: '3642'

@@ -14,11 +14,16 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-151.jpg
-- image: v07/17-171-415-152.jpg
-- image: v07/17-171-415-153.jpg
-- image: v07/17-171-415-154.jpg
-- image: v07/17-171-415-155.jpg
+- pageintom: '151'
+  image: v07/17-171-415-151.jpg
+- pageintom: '152'
+  image: v07/17-171-415-152.jpg
+- pageintom: '153'
+  image: v07/17-171-415-153.jpg
+- pageintom: '154'
+  image: v07/17-171-415-154.jpg
+- pageintom: '155'
+  image: v07/17-171-415-155.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская,Калининская области
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2123'
-      tom: '7'
-      pageintom: '153'
-      alistid: '270'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-415-153.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '153'
     page_image: v07/17-171-415-153.jpg
     persons:
     - id: '27524'
@@ -115,20 +107,7 @@ sublists:
       num: '16'
       name: ШАТРОВ Иван Федорович
       spravka: true
-  - page:
-      pageid: '2124'
-      tom: '7'
-      pageintom: '154'
-      alistid: '270'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-415-154.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '154'
     page_image: v07/17-171-415-154.jpg
     persons:
     - id: '27540'
@@ -177,20 +156,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2125'
-      tom: '7'
-      pageintom: '155'
-      alistid: '270'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-415-155.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '155'
     page_image: v07/17-171-415-155.jpg
     persons:
     - id: '27549'

@@ -12,10 +12,14 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-042.jpg
-- image: v02/17-171-410-043.jpg
-- image: v02/17-171-410-044.jpg
-- image: v02/17-171-410-045.jpg
+- pageintom: '42'
+  image: v02/17-171-410-042.jpg
+- pageintom: '43'
+  image: v02/17-171-410-043.jpg
+- pageintom: '44'
+  image: v02/17-171-410-044.jpg
+- pageintom: '45'
+  image: v02/17-171-410-045.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [г.Хабаровск]
   listtitle: 'Список лиц: г.Хабаровск'
@@ -30,20 +34,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '280'
-      tom: '2'
-      pageintom: '44'
-      alistid: '39'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-410-044.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '44'
     page_image: v02/17-171-410-044.jpg
     persons:
     - id: '3848'
@@ -135,20 +126,7 @@ sublists:
       name: ШКАНДЕЛЬ Алексей Максимович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '281'
-      tom: '2'
-      pageintom: '45'
-      alistid: '39'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-410-045.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '45'
     page_image: v02/17-171-410-045.jpg
     persons:
     - id: '24678'

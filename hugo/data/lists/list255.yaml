@@ -14,11 +14,16 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-043.jpg
-- image: v07/17-171-415-044.jpg
-- image: v07/17-171-415-045.jpg
-- image: v07/17-171-415-046.jpg
-- image: v07/17-171-415-047.jpg
+- pageintom: '43'
+  image: v07/17-171-415-043.jpg
+- pageintom: '44'
+  image: v07/17-171-415-044.jpg
+- pageintom: '45'
+  image: v07/17-171-415-045.jpg
+- pageintom: '46'
+  image: v07/17-171-415-046.jpg
+- pageintom: '47'
+  image: v07/17-171-415-047.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Ташкент,Ташкентская ж.д.]
   listtitle: Список лиц - г.Ташкент,Ташкентская ж.д.
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2015'
-      tom: '7'
-      pageintom: '45'
-      alistid: '255'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-415-045.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '45'
     page_image: v07/17-171-415-045.jpg
     persons:
     - id: '26287'
@@ -121,20 +113,7 @@ sublists:
     - id: '26309'
       num: '23'
       name: СЕМЕНОВ Иван Павлович
-  - page:
-      pageid: '2016'
-      tom: '7'
-      pageintom: '46'
-      alistid: '255'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-415-046.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '46'
     page_image: v07/17-171-415-046.jpg
     persons:
     - id: '26310'
@@ -150,20 +129,7 @@ sublists:
       num: '27'
       name: ШОФМАН Иосиф Михайлович
       spravka: true
-  - page:
-      pageid: '2017'
-      tom: '7'
-      pageintom: '47'
-      alistid: '255'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-415-047.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '47'
     page_image: v07/17-171-415-047.jpg
     persons:
     - id: '26314'

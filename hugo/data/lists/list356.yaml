@@ -15,15 +15,24 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-200.jpg
-- image: v06/17-171-414-201.jpg
-- image: v06/17-171-414-202.jpg
-- image: v06/17-171-414-203.jpg
-- image: v06/17-171-414-204.jpg
-- image: v06/17-171-414-205.jpg
-- image: v06/17-171-414-206.jpg
-- image: v06/17-171-414-207.jpg
-- image: v06/17-171-414-208.jpg
+- pageintom: '200'
+  image: v06/17-171-414-200.jpg
+- pageintom: '201'
+  image: v06/17-171-414-201.jpg
+- pageintom: '202'
+  image: v06/17-171-414-202.jpg
+- pageintom: '203'
+  image: v06/17-171-414-203.jpg
+- pageintom: '204'
+  image: v06/17-171-414-204.jpg
+- pageintom: '205'
+  image: v06/17-171-414-205.jpg
+- pageintom: '206'
+  image: v06/17-171-414-206.jpg
+- pageintom: '207'
+  image: v06/17-171-414-207.jpg
+- pageintom: '208'
+  image: v06/17-171-414-208.jpg
 sublists:
 - title: Список от 3 января 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Москва-центр(бывш.сотрудники НКВД)
@@ -39,20 +48,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '1707'
-      tom: '6'
-      pageintom: '202'
-      alistid: '356'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-414-202.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '202'
     page_image: v06/17-171-414-202.jpg
     persons:
     - id: '22124'
@@ -139,20 +135,7 @@ sublists:
       num: '21'
       name: ГРИНШТЕЙН Марк Львович
       spravka: true
-  - page:
-      pageid: '1708'
-      tom: '6'
-      pageintom: '203'
-      alistid: '356'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-203.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v06/17-171-414-203.jpg
     persons:
     - id: '22145'
@@ -275,20 +258,7 @@ sublists:
       name: САНДОМИРСКИЙ Арон Соломонович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1709'
-      tom: '6'
-      pageintom: '204'
-      alistid: '356'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-414-204.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '204'
     page_image: v06/17-171-414-204.jpg
     persons:
     - id: '22174'
@@ -372,20 +342,7 @@ sublists:
       num: '70'
       name: ЯНСОН Ян Эрнстович
       spravka: true
-  - page:
-      pageid: '1710'
-      tom: '6'
-      pageintom: '205'
-      alistid: '356'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-414-205.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '205'
     page_image: v06/17-171-414-205.jpg
     persons:
     - id: '22194'
@@ -413,20 +370,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '1713'
-      tom: '6'
-      pageintom: '208'
-      alistid: '356'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-414-208.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '208'
     page_image: v06/17-171-414-208.jpg
     persons:
     - id: '22196'

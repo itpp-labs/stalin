@@ -14,16 +14,26 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-112.jpg
-- image: v11/17-171-419-113.jpg
-- image: v11/17-171-419-114.jpg
-- image: v11/17-171-419-115.jpg
-- image: v11/17-171-419-116.jpg
-- image: v11/17-171-419-117.jpg
-- image: v11/17-171-419-118.jpg
-- image: v11/17-171-419-119.jpg
-- image: v11/17-171-419-120.jpg
-- image: v11/17-171-419-121.jpg
+- pageintom: '112'
+  image: v11/17-171-419-112.jpg
+- pageintom: '113'
+  image: v11/17-171-419-113.jpg
+- pageintom: '114'
+  image: v11/17-171-419-114.jpg
+- pageintom: '115'
+  image: v11/17-171-419-115.jpg
+- pageintom: '116'
+  image: v11/17-171-419-116.jpg
+- pageintom: '117'
+  image: v11/17-171-419-117.jpg
+- pageintom: '118'
+  image: v11/17-171-419-118.jpg
+- pageintom: '119'
+  image: v11/17-171-419-119.jpg
+- pageintom: '120'
+  image: v11/17-171-419-120.jpg
+- pageintom: '121'
+  image: v11/17-171-419-121.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
@@ -39,20 +49,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3232'
-      tom: '11'
-      pageintom: '114'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-114.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '114'
     page_image: v11/17-171-419-114.jpg
     persons:
     - id: '42245'
@@ -136,20 +133,7 @@ sublists:
       num: '20'
       name: КОМАРОВ Александр Александрович
       spravka: true
-  - page:
-      pageid: '3233'
-      tom: '11'
-      pageintom: '115'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-419-115.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '115'
     page_image: v11/17-171-419-115.jpg
     persons:
     - id: '42265'
@@ -264,20 +248,7 @@ sublists:
       num: '48'
       name: СУРАТ Яков Ефимович
       spravka: true
-  - page:
-      pageid: '3234'
-      tom: '11'
-      pageintom: '116'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-419-116.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '116'
     page_image: v11/17-171-419-116.jpg
     persons:
     - id: '42293'
@@ -332,20 +303,7 @@ sublists:
       num: '61'
       name: ЯМЧИНОВ Виктор Константинович
       spravka: true
-  - page:
-      pageid: '3235'
-      tom: '11'
-      pageintom: '117'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-419-117.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '117'
     page_image: v11/17-171-419-117.jpg
     persons:
     - id: '42306'
@@ -437,20 +395,7 @@ sublists:
       num: '22'
       name: ТОРОХОВ Демьян Васильевич
       spravka: true
-  - page:
-      pageid: '3236'
-      tom: '11'
-      pageintom: '118'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-419-118.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '118'
     page_image: v11/17-171-419-118.jpg
     persons:
     - id: '42328'
@@ -483,20 +428,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3237'
-      tom: '11'
-      pageintom: '119'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-419-119.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '119'
     page_image: v11/17-171-419-119.jpg
     persons:
     - id: '42332'
@@ -577,20 +509,7 @@ sublists:
       num: '19'
       name: ЧЕРЕПОВ Василий Иванович
       spravka: true
-  - page:
-      pageid: '3238'
-      tom: '11'
-      pageintom: '120'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-419-120.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '120'
     page_image: v11/17-171-419-120.jpg
     persons:
     - id: '42351'
@@ -660,20 +579,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3239'
-      tom: '11'
-      pageintom: '121'
-      alistid: '396'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-419-121.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '121'
     page_image: v11/17-171-419-121.jpg
     persons:
     - id: '42364'

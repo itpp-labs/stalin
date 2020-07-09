@@ -12,11 +12,16 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v08/17-171-416-263.jpg
-- image: v08/17-171-416-264.jpg
-- image: v08/17-171-416-265.jpg
-- image: v08/17-171-416-266.jpg
-- image: v08/17-171-416-267.jpg
+- pageintom: '263'
+  image: v08/17-171-416-263.jpg
+- pageintom: '264'
+  image: v08/17-171-416-264.jpg
+- pageintom: '265'
+  image: v08/17-171-416-265.jpg
+- pageintom: '266'
+  image: v08/17-171-416-266.jpg
+- pageintom: '267'
+  image: v08/17-171-416-267.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Северо-Осетинская АССР]
   listtitle: Список лиц - Северо-Осетинская АССР
@@ -31,20 +36,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2518'
-      tom: '8'
-      pageintom: '265'
-      alistid: '323'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-416-265.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '265'
     page_image: v08/17-171-416-265.jpg
     persons:
     - id: '32329'
@@ -138,20 +130,7 @@ sublists:
     - id: '32351'
       num: '23'
       name: КАРСАНОВ Хатахцико Сахмурзаевич
-  - page:
-      pageid: '2519'
-      tom: '8'
-      pageintom: '266'
-      alistid: '323'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-266.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '266'
     page_image: v08/17-171-416-266.jpg
     persons:
     - id: '32352'
@@ -242,20 +221,7 @@ sublists:
       num: '45'
       name: ШИПОВ Константин Максимович
       spravka: true
-  - page:
-      pageid: '2520'
-      tom: '8'
-      pageintom: '267'
-      alistid: '323'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-416-267.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '267'
     page_image: v08/17-171-416-267.jpg
     persons:
     - id: '32374'

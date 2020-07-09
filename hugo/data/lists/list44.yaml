@@ -12,13 +12,20 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-070.jpg
-- image: v02/17-171-410-071.jpg
-- image: v02/17-171-410-072.jpg
-- image: v02/17-171-410-073.jpg
-- image: v02/17-171-410-074.jpg
-- image: v02/17-171-410-075.jpg
-- image: v02/17-171-410-076.jpg
+- pageintom: '70'
+  image: v02/17-171-410-070.jpg
+- pageintom: '71'
+  image: v02/17-171-410-071.jpg
+- pageintom: '72'
+  image: v02/17-171-410-072.jpg
+- pageintom: '73'
+  image: v02/17-171-410-073.jpg
+- pageintom: '74'
+  image: v02/17-171-410-074.jpg
+- pageintom: '75'
+  image: v02/17-171-410-075.jpg
+- pageintom: '76'
+  image: v02/17-171-410-076.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -33,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '308'
-      tom: '2'
-      pageintom: '72'
-      alistid: '44'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-410-072.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '72'
     page_image: v02/17-171-410-072.jpg
     persons:
     - id: '4178'
@@ -148,20 +142,7 @@ sublists:
     - id: '4202'
       num: '25'
       name: ПАЛКИН Иван Петрович
-  - page:
-      pageid: '309'
-      tom: '2'
-      pageintom: '73'
-      alistid: '44'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-410-073.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '73'
     page_image: v02/17-171-410-073.jpg
     persons:
     - id: '4203'
@@ -236,20 +217,7 @@ sublists:
       num: '43'
       name: ЯНЧЕВСКИЙ Яков Петрович
       spravka: true
-  - page:
-      pageid: '310'
-      tom: '2'
-      pageintom: '74'
-      alistid: '44'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-410-074.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '74'
     page_image: v02/17-171-410-074.jpg
     persons:
     - id: '4221'
@@ -289,20 +257,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '311'
-      tom: '2'
-      pageintom: '75'
-      alistid: '44'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-410-075.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '75'
     page_image: v02/17-171-410-075.jpg
     persons:
     - id: '4227'
@@ -416,20 +371,7 @@ sublists:
       name: ФРЕБЕЛЬ Альфред Августович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '312'
-      tom: '2'
-      pageintom: '76'
-      alistid: '44'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-410-076.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '76'
     page_image: v02/17-171-410-076.jpg
     persons:
     - id: '4254'

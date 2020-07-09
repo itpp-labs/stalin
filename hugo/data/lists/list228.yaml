@@ -12,17 +12,28 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v03/17-171-411-086.jpg
-- image: v03/17-171-411-087.jpg
-- image: v03/17-171-411-088.jpg
-- image: v03/17-171-411-089.jpg
-- image: v03/17-171-411-090.jpg
-- image: v03/17-171-411-091.jpg
-- image: v03/17-171-411-092.jpg
-- image: v03/17-171-411-093.jpg
-- image: v03/17-171-411-094.jpg
-- image: v03/17-171-411-095.jpg
-- image: v03/17-171-411-096.jpg
+- pageintom: '86'
+  image: v03/17-171-411-086.jpg
+- pageintom: '87'
+  image: v03/17-171-411-087.jpg
+- pageintom: '88'
+  image: v03/17-171-411-088.jpg
+- pageintom: '89'
+  image: v03/17-171-411-089.jpg
+- pageintom: '90'
+  image: v03/17-171-411-090.jpg
+- pageintom: '91'
+  image: v03/17-171-411-091.jpg
+- pageintom: '92'
+  image: v03/17-171-411-092.jpg
+- pageintom: '93'
+  image: v03/17-171-411-093.jpg
+- pageintom: '94'
+  image: v03/17-171-411-094.jpg
+- pageintom: '95'
+  image: v03/17-171-411-095.jpg
+- pageintom: '96'
+  image: v03/17-171-411-096.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -39,20 +50,7 @@ sublists:
   - 1
   - 2
   pages:
-  - page:
-      pageid: '680'
-      tom: '3'
-      pageintom: '88'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-411-088.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '88'
     page_image: v03/17-171-411-088.jpg
     persons:
     - id: '8720'
@@ -152,20 +150,7 @@ sublists:
       num: '24'
       name: ГЕЛЬТМАН Стефан Леонович
       spravka: true
-  - page:
-      pageid: '681'
-      tom: '3'
-      pageintom: '89'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-411-089.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '89'
     page_image: v03/17-171-411-089.jpg
     persons:
     - id: '8744'
@@ -285,20 +270,7 @@ sublists:
       num: '53'
       name: КОРКМАСОВ Джелал-Эд-Дин Асельдер Оглы
       spravka: true
-  - page:
-      pageid: '682'
-      tom: '3'
-      pageintom: '90'
-      alistid: '228'
-      pagekind: '5'
-      arowcount: '31'
-      picturefile: 17-171-411-090.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '90'
     page_image: v03/17-171-411-090.jpg
     persons:
     - id: '8773'
@@ -428,20 +400,7 @@ sublists:
       num: '84'
       name: РАКОВ Леонид Александрович
       spravka: true
-  - page:
-      pageid: '683'
-      tom: '3'
-      pageintom: '91'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-411-091.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '91'
     page_image: v03/17-171-411-091.jpg
     persons:
     - id: '8804'
@@ -563,20 +522,7 @@ sublists:
         Николай Николаевич, ВАДБОЛЬСКИЙ Николай Николаевич
       primcoc: (быв.сотрудник НКВД)
       spravka: true
-  - page:
-      pageid: '684'
-      tom: '3'
-      pageintom: '92'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-411-092.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '92'
     page_image: v03/17-171-411-092.jpg
     persons:
     - id: '8833'
@@ -599,20 +545,7 @@ sublists:
       name: ХВИЮЗОВ Петр Александрович
       primcoc: (бывш.сотрудник НКВД)
       spravka: true
-  - page:
-      pageid: '685'
-      tom: '3'
-      pageintom: '93'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-093.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '93'
     page_image: v03/17-171-411-093.jpg
     persons:
     - id: '8837'
@@ -622,20 +555,7 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u> <br /> (Иностранные подданные)
         </p><p align="right"><u>1-я категория</u>
-  - page:
-      pageid: '687'
-      tom: '3'
-      pageintom: '95'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-411-095.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '95'
     page_image: v03/17-171-411-095.jpg
     persons:
     - id: '8838'
@@ -660,20 +580,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '688'
-      tom: '3'
-      pageintom: '96'
-      alistid: '228'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-096.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '96'
     page_image: v03/17-171-411-096.jpg
     persons:
     - id: '8840'

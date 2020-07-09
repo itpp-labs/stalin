@@ -15,13 +15,20 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-056.jpg
-- image: v07/17-171-415-057.jpg
-- image: v07/17-171-415-058.jpg
-- image: v07/17-171-415-059.jpg
-- image: v07/17-171-415-060.jpg
-- image: v07/17-171-415-061.jpg
-- image: v07/17-171-415-062.jpg
+- pageintom: '56'
+  image: v07/17-171-415-056.jpg
+- pageintom: '57'
+  image: v07/17-171-415-057.jpg
+- pageintom: '58'
+  image: v07/17-171-415-058.jpg
+- pageintom: '59'
+  image: v07/17-171-415-059.jpg
+- pageintom: '60'
+  image: v07/17-171-415-060.jpg
+- pageintom: '61'
+  image: v07/17-171-415-061.jpg
+- pageintom: '62'
+  image: v07/17-171-415-062.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Казань. Казанская ж.д.]
   listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2028'
-      tom: '7'
-      pageintom: '58'
-      alistid: '257'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-058.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '58'
     page_image: v07/17-171-415-058.jpg
     persons:
     - id: '26421'
@@ -74,20 +68,7 @@ sublists:
       num: '5'
       name: МИЛЮТИН Михаил Алексеевич
       spravka: true
-  - page:
-      pageid: '2029'
-      tom: '7'
-      pageintom: '59'
-      alistid: '257'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-059.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '59'
     page_image: v07/17-171-415-059.jpg
     persons:
     - id: '26426'
@@ -109,20 +90,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2030'
-      tom: '7'
-      pageintom: '60'
-      alistid: '257'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-415-060.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '60'
     page_image: v07/17-171-415-060.jpg
     persons:
     - id: '26427'
@@ -199,20 +167,7 @@ sublists:
       num: '18'
       name: ЯНТЕМИР Михаил Николаевич
       spravka: true
-  - page:
-      pageid: '2031'
-      tom: '7'
-      pageintom: '61'
-      alistid: '257'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-061.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '61'
     page_image: v07/17-171-415-061.jpg
     persons:
     - id: '26445'
@@ -234,20 +189,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2032'
-      tom: '7'
-      pageintom: '62'
-      alistid: '257'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-062.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '62'
     page_image: v07/17-171-415-062.jpg
     persons:
     - id: '26446'

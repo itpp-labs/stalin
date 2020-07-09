@@ -20,7 +20,7 @@ fond7:
   primtext: ''
   text_lines: []
 lists:
-- title: Список от  [] - РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
+- title: РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
   url: /lists/list413#page-29-num-435
   date: '1940-09-06'
   signs: {}
@@ -91,5 +91,6 @@ gb_spravka:
     </TD> </TR> </TABLE> </body></html>
 
     '
-  pictures:
-  - disk/pictures/v13/17-171-421-455.jpg
+  pages:
+  - image: disk/pictures/v13/17-171-421-455.jpg
+    pageintom: '455'

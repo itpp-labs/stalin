@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-320.jpg
-- image: v05/17-171-413-321.jpg
-- image: v05/17-171-413-322.jpg
-- image: v05/17-171-413-323.jpg
-- image: v05/17-171-413-324.jpg
-- image: v05/17-171-413-325.jpg
-- image: v05/17-171-413-326.jpg
+- pageintom: '320'
+  image: v05/17-171-413-320.jpg
+- pageintom: '321'
+  image: v05/17-171-413-321.jpg
+- pageintom: '322'
+  image: v05/17-171-413-322.jpg
+- pageintom: '323'
+  image: v05/17-171-413-323.jpg
+- pageintom: '324'
+  image: v05/17-171-413-324.jpg
+- pageintom: '325'
+  image: v05/17-171-413-325.jpg
+- pageintom: '326'
+  image: v05/17-171-413-326.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1446'
-      tom: '5'
-      pageintom: '322'
-      alistid: '145'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-322.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '322'
     page_image: v05/17-171-413-322.jpg
     persons:
     - id: '18551'
@@ -137,20 +131,7 @@ sublists:
       num: '21'
       name: ДУШЕТОВ Рахимбек
       spravka: true
-  - page:
-      pageid: '1447'
-      tom: '5'
-      pageintom: '323'
-      alistid: '145'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-323.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '323'
     page_image: v05/17-171-413-323.jpg
     persons:
     - id: '18572'
@@ -269,20 +250,7 @@ sublists:
       num: '50'
       name: ТАТИМОВ Мухаметгалий
       spravka: true
-  - page:
-      pageid: '1448'
-      tom: '5'
-      pageintom: '324'
-      alistid: '145'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-413-324.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '324'
     page_image: v05/17-171-413-324.jpg
     persons:
     - id: '18601'
@@ -388,20 +356,7 @@ sublists:
       num: '76'
       name: КАИПНАЗАРОВ Мустафа Серекбаевич
       spravka: true
-  - page:
-      pageid: '1449'
-      tom: '5'
-      pageintom: '325'
-      alistid: '145'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-413-325.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '325'
     page_image: v05/17-171-413-325.jpg
     persons:
     - id: '18627'
@@ -494,20 +449,7 @@ sublists:
       num: '99'
       name: ЯХИН Сеитахмет
       spravka: true
-  - page:
-      pageid: '1450'
-      tom: '5'
-      pageintom: '326'
-      alistid: '145'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-413-326.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '326'
     page_image: v05/17-171-413-326.jpg
     persons:
     - id: '18650'

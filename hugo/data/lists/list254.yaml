@@ -14,17 +14,28 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-032.jpg
-- image: v07/17-171-415-033.jpg
-- image: v07/17-171-415-034.jpg
-- image: v07/17-171-415-035.jpg
-- image: v07/17-171-415-036.jpg
-- image: v07/17-171-415-037.jpg
-- image: v07/17-171-415-038.jpg
-- image: v07/17-171-415-039.jpg
-- image: v07/17-171-415-040.jpg
-- image: v07/17-171-415-041.jpg
-- image: v07/17-171-415-042.jpg
+- pageintom: '32'
+  image: v07/17-171-415-032.jpg
+- pageintom: '33'
+  image: v07/17-171-415-033.jpg
+- pageintom: '34'
+  image: v07/17-171-415-034.jpg
+- pageintom: '35'
+  image: v07/17-171-415-035.jpg
+- pageintom: '36'
+  image: v07/17-171-415-036.jpg
+- pageintom: '37'
+  image: v07/17-171-415-037.jpg
+- pageintom: '38'
+  image: v07/17-171-415-038.jpg
+- pageintom: '39'
+  image: v07/17-171-415-039.jpg
+- pageintom: '40'
+  image: v07/17-171-415-040.jpg
+- pageintom: '41'
+  image: v07/17-171-415-041.jpg
+- pageintom: '42'
+  image: v07/17-171-415-042.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -39,20 +50,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2011'
-      tom: '7'
-      pageintom: '41'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-415-041.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '41'
     page_image: v07/17-171-415-041.jpg
     persons:
     - id: '26244'
@@ -139,20 +137,7 @@ sublists:
       num: '22'
       name: КОЗЛОВ Петр Григорьевич
       spravka: true
-  - page:
-      pageid: '2012'
-      tom: '7'
-      pageintom: '42'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-042.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '42'
     page_image: v07/17-171-415-042.jpg
     persons:
     - id: '26266'

@@ -13,13 +13,20 @@ signs:
   molotov: true
   kaganovic: true
 pages:
-- image: v01/17-171-409-065.jpg
-- image: v01/17-171-409-066.jpg
-- image: v01/17-171-409-067.jpg
-- image: v01/17-171-409-068.jpg
-- image: v01/17-171-409-069.jpg
-- image: v01/17-171-409-070.jpg
-- image: v01/17-171-409-071.jpg
+- pageintom: '65'
+  image: v01/17-171-409-065.jpg
+- pageintom: '66'
+  image: v01/17-171-409-066.jpg
+- pageintom: '67'
+  image: v01/17-171-409-067.jpg
+- pageintom: '68'
+  image: v01/17-171-409-068.jpg
+- pageintom: '69'
+  image: v01/17-171-409-069.jpg
+- pageintom: '70'
+  image: v01/17-171-409-070.jpg
+- pageintom: '71'
+  image: v01/17-171-409-071.jpg
 sublists:
 - title: Список от 1 апреля 1937 г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -34,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '67'
-      tom: '1'
-      pageintom: '67'
-      alistid: '7'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-409-067.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '67'
     page_image: v01/17-171-409-067.jpg
     persons:
     - id: '1152'
@@ -149,20 +143,7 @@ sublists:
       num: '25'
       name: МЕРЗЛИКИН Вячеслав Григорьевич
       spravka: true
-  - page:
-      pageid: '68'
-      tom: '1'
-      pageintom: '68'
-      alistid: '7'
-      pagekind: '5'
-      arowcount: '19'
-      picturefile: 17-171-409-068.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '68'
     page_image: v01/17-171-409-068.jpg
     persons:
     - id: '1177'
@@ -240,20 +221,7 @@ sublists:
       num: '44'
       name: ЯГОДКИН Никита Абрамович
       spravka: true
-  - page:
-      pageid: '69'
-      tom: '1'
-      pageintom: '69'
-      alistid: '7'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-409-069.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '69'
     page_image: v01/17-171-409-069.jpg
     persons:
     - id: '1196'
@@ -343,20 +311,7 @@ sublists:
       num: '22'
       name: ФУКС Михаил Исаакович
       spravka: true
-  - page:
-      pageid: '70'
-      tom: '1'
-      pageintom: '70'
-      alistid: '7'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-409-070.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '70'
     page_image: v01/17-171-409-070.jpg
     persons:
     - id: '1218'
@@ -371,20 +326,7 @@ sublists:
       num: '25'
       name: ЯМОВ Иван Николаевич
       spravka: true
-  - page:
-      pageid: '71'
-      tom: '1'
-      pageintom: '71'
-      alistid: '7'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-409-071.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v01/17-171-409-071.jpg
     persons:
     - id: '1221'

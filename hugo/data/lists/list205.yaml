@@ -13,11 +13,16 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-173.jpg
-- image: v10/17-171-418-174.jpg
-- image: v10/17-171-418-175.jpg
-- image: v10/17-171-418-176.jpg
-- image: v10/17-171-418-177.jpg
+- pageintom: '173'
+  image: v10/17-171-418-173.jpg
+- pageintom: '174'
+  image: v10/17-171-418-174.jpg
+- pageintom: '175'
+  image: v10/17-171-418-175.jpg
+- pageintom: '176'
+  image: v10/17-171-418-176.jpg
+- pageintom: '177'
+  image: v10/17-171-418-177.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3030'
-      tom: '10'
-      pageintom: '175'
-      alistid: '205'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-175.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '175'
     page_image: v10/17-171-418-175.jpg
     persons:
     - id: '39659'
@@ -128,20 +120,7 @@ sublists:
       num: '21'
       name: СТАБИН Иван Иванович
       spravka: true
-  - page:
-      pageid: '3031'
-      tom: '10'
-      pageintom: '176'
-      alistid: '205'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-418-176.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '176'
     page_image: v10/17-171-418-176.jpg
     persons:
     - id: '39680'
@@ -159,20 +138,7 @@ sublists:
       num: '25'
       name: ЯРОСЛАВЦЕВ Павел Павлович
       spravka: true
-  - page:
-      pageid: '3032'
-      tom: '10'
-      pageintom: '177'
-      alistid: '205'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-418-177.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '177'
     page_image: v10/17-171-418-177.jpg
     persons:
     - id: '39684'

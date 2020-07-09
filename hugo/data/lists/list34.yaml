@@ -13,19 +13,32 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-001.jpg
-- image: v02/17-171-410-002.jpg
-- image: v02/17-171-410-003.jpg
-- image: v02/17-171-410-004.jpg
-- image: v02/17-171-410-005.jpg
-- image: v02/17-171-410-006.jpg
-- image: v02/17-171-410-007.jpg
-- image: v02/17-171-410-008.jpg
-- image: v02/17-171-410-009.jpg
-- image: v02/17-171-410-010.jpg
-- image: v02/17-171-410-011.jpg
-- image: v02/17-171-410-012.jpg
-- image: v02/17-171-410-013.jpg
+- pageintom: '1'
+  image: v02/17-171-410-001.jpg
+- pageintom: '2'
+  image: v02/17-171-410-002.jpg
+- pageintom: '3'
+  image: v02/17-171-410-003.jpg
+- pageintom: '4'
+  image: v02/17-171-410-004.jpg
+- pageintom: '5'
+  image: v02/17-171-410-005.jpg
+- pageintom: '6'
+  image: v02/17-171-410-006.jpg
+- pageintom: '7'
+  image: v02/17-171-410-007.jpg
+- pageintom: '8'
+  image: v02/17-171-410-008.jpg
+- pageintom: '9'
+  image: v02/17-171-410-009.jpg
+- pageintom: '10'
+  image: v02/17-171-410-010.jpg
+- pageintom: '11'
+  image: v02/17-171-410-011.jpg
+- pageintom: '12'
+  image: v02/17-171-410-012.jpg
+- pageintom: '13'
+  image: v02/17-171-410-013.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Сталинградская область]
   listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Куйбышевская обл.,
@@ -41,20 +54,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '242'
-      tom: '2'
-      pageintom: '6'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-006.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v02/17-171-410-006.jpg
     persons:
     - id: '3406'
@@ -154,20 +154,7 @@ sublists:
       num: '24'
       name: МОХОВ Василий Николаевич
       spravka: true
-  - page:
-      pageid: '243'
-      tom: '2'
-      pageintom: '7'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-410-007.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v02/17-171-410-007.jpg
     persons:
     - id: '3369'
@@ -258,20 +245,7 @@ sublists:
       name: ЭЛИАС Мартин Янович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '244'
-      tom: '2'
-      pageintom: '8'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-410-008.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '8'
     page_image: v02/17-171-410-008.jpg
     persons:
     - id: '3430'
@@ -339,20 +313,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '239'
-      tom: '2'
-      pageintom: '3'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-410-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v02/17-171-410-003.jpg
     persons:
     - id: '3336'
@@ -449,20 +410,7 @@ sublists:
       num: '23'
       name: МУХУТДИНОВ Насых Камалович
       spravka: true
-  - page:
-      pageid: '240'
-      tom: '2'
-      pageintom: '4'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-410-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v02/17-171-410-004.jpg
     persons:
     - id: '3359'
@@ -505,20 +453,7 @@ sublists:
       num: '33'
       name: ЮСУПОВ Муса Рахманович
       spravka: true
-  - page:
-      pageid: '241'
-      tom: '2'
-      pageintom: '5'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-410-005.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v02/17-171-410-005.jpg
     persons:
     - id: '3390'
@@ -601,20 +536,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '245'
-      tom: '2'
-      pageintom: '9'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-410-009.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v02/17-171-410-009.jpg
     persons:
     - id: '29122'
@@ -702,20 +624,7 @@ sublists:
       num: '21'
       name: ШУРЫГИН Федор Николаевич
       spravka: true
-  - page:
-      pageid: '246'
-      tom: '2'
-      pageintom: '10'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-410-010.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v02/17-171-410-010.jpg
     persons:
     - id: '3467'
@@ -809,20 +718,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '247'
-      tom: '2'
-      pageintom: '11'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-410-011.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '11'
     page_image: v02/17-171-410-011.jpg
     persons:
     - id: '3488'
@@ -919,20 +815,7 @@ sublists:
       num: '23'
       name: ПОДОСЕНОВ Борис Сергеевич
       spravka: true
-  - page:
-      pageid: '248'
-      tom: '2'
-      pageintom: '12'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-410-012.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v02/17-171-410-012.jpg
     persons:
     - id: '3511'
@@ -979,20 +862,7 @@ sublists:
       num: '34'
       name: ШИПОВ Василий Матвеевич
       spravka: true
-  - page:
-      pageid: '249'
-      tom: '2'
-      pageintom: '13'
-      alistid: '34'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-410-013.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '13'
     page_image: v02/17-171-410-013.jpg
     persons:
     - id: '3522'

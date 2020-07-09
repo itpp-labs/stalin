@@ -14,17 +14,28 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-274.jpg
-- image: v06/17-171-414-275.jpg
-- image: v06/17-171-414-276.jpg
-- image: v06/17-171-414-277.jpg
-- image: v06/17-171-414-278.jpg
-- image: v06/17-171-414-279.jpg
-- image: v06/17-171-414-280.jpg
-- image: v06/17-171-414-281.jpg
-- image: v06/17-171-414-282.jpg
-- image: v06/17-171-414-283.jpg
-- image: v06/17-171-414-284.jpg
+- pageintom: '274'
+  image: v06/17-171-414-274.jpg
+- pageintom: '275'
+  image: v06/17-171-414-275.jpg
+- pageintom: '276'
+  image: v06/17-171-414-276.jpg
+- pageintom: '277'
+  image: v06/17-171-414-277.jpg
+- pageintom: '278'
+  image: v06/17-171-414-278.jpg
+- pageintom: '279'
+  image: v06/17-171-414-279.jpg
+- pageintom: '280'
+  image: v06/17-171-414-280.jpg
+- pageintom: '281'
+  image: v06/17-171-414-281.jpg
+- pageintom: '282'
+  image: v06/17-171-414-282.jpg
+- pageintom: '283'
+  image: v06/17-171-414-283.jpg
+- pageintom: '284'
+  image: v06/17-171-414-284.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Саратовская область]
   listtitle: Список лиц - Саратовская область
@@ -39,20 +50,7 @@ sublists:
   group_ids:
   - 2
   pages:
-  - page:
-      pageid: '1781'
-      tom: '6'
-      pageintom: '276'
-      alistid: '367'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-414-276.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '276'
     page_image: v06/17-171-414-276.jpg
     persons:
     - id: '32548'

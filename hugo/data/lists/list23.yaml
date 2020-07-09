@@ -13,12 +13,18 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-181.jpg
-- image: v01/17-171-409-182.jpg
-- image: v01/17-171-409-183.jpg
-- image: v01/17-171-409-184.jpg
-- image: v01/17-171-409-185.jpg
-- image: v01/17-171-409-186.jpg
+- pageintom: '181'
+  image: v01/17-171-409-181.jpg
+- pageintom: '182'
+  image: v01/17-171-409-182.jpg
+- pageintom: '183'
+  image: v01/17-171-409-183.jpg
+- pageintom: '184'
+  image: v01/17-171-409-184.jpg
+- pageintom: '185'
+  image: v01/17-171-409-185.jpg
+- pageintom: '186'
+  image: v01/17-171-409-186.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -34,20 +40,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '183'
-      tom: '1'
-      pageintom: '183'
-      alistid: '23'
-      pagekind: '5'
-      arowcount: '27'
-      picturefile: 17-171-409-183.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '183'
     page_image: v01/17-171-409-183.jpg
     persons:
     - id: '2730'
@@ -157,20 +150,7 @@ sublists:
       num: '27'
       name: КУЗНЕЦОВА Анна Федоровна
       spravka: true
-  - page:
-      pageid: '184'
-      tom: '1'
-      pageintom: '184'
-      alistid: '23'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-409-184.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '184'
     page_image: v01/17-171-409-184.jpg
     persons:
     - id: '2757'
@@ -285,20 +265,7 @@ sublists:
       num: '55'
       name: ТИШ Иван Иванович
       spravka: true
-  - page:
-      pageid: '185'
-      tom: '1'
-      pageintom: '185'
-      alistid: '23'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-409-185.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '185'
     page_image: v01/17-171-409-185.jpg
     persons:
     - id: '2785'
@@ -345,20 +312,7 @@ sublists:
       num: '66'
       name: ЩЕРБАК Иван Максимович
       spravka: true
-  - page:
-      pageid: '186'
-      tom: '1'
-      pageintom: '186'
-      alistid: '23'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-409-186.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '186'
     page_image: v01/17-171-409-186.jpg
     persons:
     - id: '2796'

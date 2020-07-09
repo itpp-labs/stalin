@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-262.jpg
-- image: v06/17-171-414-263.jpg
-- image: v06/17-171-414-264.jpg
-- image: v06/17-171-414-265.jpg
-- image: v06/17-171-414-266.jpg
-- image: v06/17-171-414-267.jpg
-- image: v06/17-171-414-268.jpg
+- pageintom: '262'
+  image: v06/17-171-414-262.jpg
+- pageintom: '263'
+  image: v06/17-171-414-263.jpg
+- pageintom: '264'
+  image: v06/17-171-414-264.jpg
+- pageintom: '265'
+  image: v06/17-171-414-265.jpg
+- pageintom: '266'
+  image: v06/17-171-414-266.jpg
+- pageintom: '267'
+  image: v06/17-171-414-267.jpg
+- pageintom: '268'
+  image: v06/17-171-414-268.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1769'
-      tom: '6'
-      pageintom: '264'
-      alistid: '365'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-414-264.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '264'
     page_image: v06/17-171-414-264.jpg
     persons:
     - id: '22777'
@@ -136,20 +130,7 @@ sublists:
     - id: '22799'
       num: '23'
       name: КОРЕНОВСКИЙ Степан Георгиевич
-  - page:
-      pageid: '1770'
-      tom: '6'
-      pageintom: '265'
-      alistid: '365'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-414-265.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '265'
     page_image: v06/17-171-414-265.jpg
     persons:
     - id: '22800'
@@ -238,20 +219,7 @@ sublists:
     - id: '22822'
       num: '46'
       name: ЮХНО Франц Константинович
-  - page:
-      pageid: '1771'
-      tom: '6'
-      pageintom: '266'
-      alistid: '365'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-266.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '266'
     page_image: v06/17-171-414-266.jpg
     persons:
     - id: '22823'
@@ -273,20 +241,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1772'
-      tom: '6'
-      pageintom: '267'
-      alistid: '365'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-414-267.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '267'
     page_image: v06/17-171-414-267.jpg
     persons:
     - id: '22824'
@@ -361,20 +316,7 @@ sublists:
       num: '18'
       name: МУРЗИН Иван Михайлович
       spravka: true
-  - page:
-      pageid: '1773'
-      tom: '6'
-      pageintom: '268'
-      alistid: '365'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-414-268.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '268'
     page_image: v06/17-171-414-268.jpg
     persons:
     - id: '22842'

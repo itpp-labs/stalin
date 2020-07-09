@@ -1,7 +1,7 @@
 id: '412'
 title: Список арестованных МГБ СССР изменников родины, шпионов, подрывников и террористов
 archive:
-  ref: РГАСПИ, ф.3, т.16, оп.57, дело 100
+  ref: АП РФ, ф.3, т.16, оп.57, дело 100
   page1: '55'
 date: '1950-04-11'
 tom: 16
@@ -10,30 +10,52 @@ delo:
   num: ''
 signs: {}
 pages:
-- image: v16/3-57-100-55.jpg
-- image: v16/3-57-100-56.jpg
-- image: v16/3-57-100-57.jpg
-- image: v16/3-57-100-58.jpg
-- image: v16/3-57-100-59.jpg
-- image: v16/3-57-100-60.jpg
-- image: v16/3-57-100-61.jpg
-- image: v16/3-57-100-62.jpg
-- image: v16/3-57-100-63.jpg
-- image: v16/3-57-100-64.jpg
-- image: v16/3-57-100-65.jpg
-- image: v16/3-57-100-66.jpg
-- image: v16/3-57-100-67.jpg
-- image: v16/3-57-100-68.jpg
-- image: v16/3-57-100-69.jpg
-- image: v16/3-57-100-70.jpg
-- image: v16/3-57-100-71.jpg
-- image: v16/3-57-100-72.jpg
-- image: v16/3-57-100-73.jpg
-- image: v16/3-57-100-74.jpg
-- image: v16/3-57-100-75.jpg
-- image: v16/3-57-100-76.jpg
+- pageintom: '55'
+  image: v16/3-57-100-55.jpg
+- pageintom: '56'
+  image: v16/3-57-100-56.jpg
+- pageintom: '57'
+  image: v16/3-57-100-57.jpg
+- pageintom: '58'
+  image: v16/3-57-100-58.jpg
+- pageintom: '59'
+  image: v16/3-57-100-59.jpg
+- pageintom: '60'
+  image: v16/3-57-100-60.jpg
+- pageintom: '61'
+  image: v16/3-57-100-61.jpg
+- pageintom: '62'
+  image: v16/3-57-100-62.jpg
+- pageintom: '63'
+  image: v16/3-57-100-63.jpg
+- pageintom: '64'
+  image: v16/3-57-100-64.jpg
+- pageintom: '65'
+  image: v16/3-57-100-65.jpg
+- pageintom: '66'
+  image: v16/3-57-100-66.jpg
+- pageintom: '67'
+  image: v16/3-57-100-67.jpg
+- pageintom: '68'
+  image: v16/3-57-100-68.jpg
+- pageintom: '69'
+  image: v16/3-57-100-69.jpg
+- pageintom: '70'
+  image: v16/3-57-100-70.jpg
+- pageintom: '71'
+  image: v16/3-57-100-71.jpg
+- pageintom: '72'
+  image: v16/3-57-100-72.jpg
+- pageintom: '73'
+  image: v16/3-57-100-73.jpg
+- pageintom: '74'
+  image: v16/3-57-100-74.jpg
+- pageintom: '75'
+  image: v16/3-57-100-75.jpg
+- pageintom: '76'
+  image: v16/3-57-100-76.jpg
 sublists:
-- title: Список от  []
+- title: ''
   listtitle: Список арестованных МГБ СССР изменников родины, шпионов, подрывников
     и террористов
   sublisttitle: ''
@@ -47,20 +69,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '4055'
-      tom: '16'
-      pageintom: '56'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-56.jpg
-      textfile: 16-a56.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '56'
     page_image: v16/3-57-100-56.jpg
     persons:
     - id: '45157'
@@ -77,20 +86,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4056'
-      tom: '16'
-      pageintom: '57'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-57.jpg
-      textfile: 16-a57.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '57'
     page_image: v16/3-57-100-57.jpg
     persons:
     - id: '45159'
@@ -99,20 +95,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4057'
-      tom: '16'
-      pageintom: '58'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-58.jpg
-      textfile: 16-a58.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '58'
     page_image: v16/3-57-100-58.jpg
     persons:
     - id: '45160'
@@ -127,20 +110,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4058'
-      tom: '16'
-      pageintom: '59'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-59.jpg
-      textfile: 16-a59.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '59'
     page_image: v16/3-57-100-59.jpg
     persons:
     - id: '45162'
@@ -148,20 +118,7 @@ sublists:
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4059'
-      tom: '16'
-      pageintom: '60'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-60.jpg
-      textfile: 16-a60.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '60'
     page_image: v16/3-57-100-60.jpg
     persons:
     - id: '45163'
@@ -176,20 +133,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4060'
-      tom: '16'
-      pageintom: '61'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-61.jpg
-      textfile: 16-a61.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '61'
     page_image: v16/3-57-100-61.jpg
     persons:
     - id: '45165'
@@ -198,20 +142,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4061'
-      tom: '16'
-      pageintom: '62'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-62.jpg
-      textfile: 16-a62.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '62'
     page_image: v16/3-57-100-62.jpg
     persons:
     - id: '45166'
@@ -225,20 +156,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4062'
-      tom: '16'
-      pageintom: '63'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-63.jpg
-      textfile: 16-a63.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '63'
     page_image: v16/3-57-100-63.jpg
     persons:
     - id: '45168'
@@ -253,20 +171,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4063'
-      tom: '16'
-      pageintom: '64'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-64.jpg
-      textfile: 16-a64.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '64'
     page_image: v16/3-57-100-64.jpg
     persons:
     - id: '45170'
@@ -275,20 +180,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4064'
-      tom: '16'
-      pageintom: '65'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-65.jpg
-      textfile: 16-a65.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '65'
     page_image: v16/3-57-100-65.jpg
     persons:
     - id: '45171'
@@ -303,20 +195,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4065'
-      tom: '16'
-      pageintom: '66'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-66.jpg
-      textfile: 16-a66.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '66'
     page_image: v16/3-57-100-66.jpg
     persons:
     - id: '45173'
@@ -330,20 +209,7 @@ sublists:
       name: БОГДАНОВ Михаил Васильевич
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4066'
-      tom: '16'
-      pageintom: '67'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-67.jpg
-      textfile: 16-a67.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '67'
     page_image: v16/3-57-100-67.jpg
     persons:
     - id: '45175'
@@ -357,20 +223,7 @@ sublists:
       name: САВИНОВ Владимир Александрович
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4067'
-      tom: '16'
-      pageintom: '68'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-68.jpg
-      textfile: 16-a68.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '68'
     page_image: v16/3-57-100-68.jpg
     persons:
     - id: '45662'
@@ -383,20 +236,7 @@ sublists:
       name: ГЛАВАЦКИЙ Иосиф Иосифович
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4068'
-      tom: '16'
-      pageintom: '69'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-69.jpg
-      textfile: 16-a69.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '69'
     page_image: v16/3-57-100-69.jpg
     persons:
     - id: '45177'
@@ -410,20 +250,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4069'
-      tom: '16'
-      pageintom: '70'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-70.jpg
-      textfile: 16-a70.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '70'
     page_image: v16/3-57-100-70.jpg
     persons:
     - id: '45179'
@@ -438,20 +265,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4070'
-      tom: '16'
-      pageintom: '71'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-71.jpg
-      textfile: 16-a71.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v16/3-57-100-71.jpg
     persons:
     - id: '45181'
@@ -460,20 +274,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4071'
-      tom: '16'
-      pageintom: '72'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-72.jpg
-      textfile: 16-a72.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '72'
     page_image: v16/3-57-100-72.jpg
     persons:
     - id: '45182'
@@ -488,20 +289,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4072'
-      tom: '16'
-      pageintom: '73'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-73.jpg
-      textfile: 16-a73.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '73'
     page_image: v16/3-57-100-73.jpg
     persons:
     - id: '45184'
@@ -514,20 +302,7 @@ sublists:
       name: ПОПОВ Назар Анфиногенович
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4073'
-      tom: '16'
-      pageintom: '74'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 3-57-100-74.jpg
-      textfile: 16-a74.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '74'
     page_image: v16/3-57-100-74.jpg
     persons:
     - id: '45186'
@@ -540,20 +315,7 @@ sublists:
       name: АМАН Георгий Матвеевич
       doublesexists: true
       gb_spravka: true
-  - page:
-      pageid: '4074'
-      tom: '16'
-      pageintom: '75'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-75.jpg
-      textfile: 16-a75.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '75'
     page_image: v16/3-57-100-75.jpg
     persons:
     - id: '45188'
@@ -562,20 +324,7 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '4075'
-      tom: '16'
-      pageintom: '76'
-      alistid: '412'
-      pagekind: '4'
-      arowcount: '1'
-      picturefile: 3-57-100-76.jpg
-      textfile: 16-a76.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '76'
     page_image: v16/3-57-100-76.jpg
     persons:
     - id: '45189'

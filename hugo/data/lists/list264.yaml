@@ -14,11 +14,16 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-098.jpg
-- image: v07/17-171-415-099.jpg
-- image: v07/17-171-415-100.jpg
-- image: v07/17-171-415-101.jpg
-- image: v07/17-171-415-102.jpg
+- pageintom: '98'
+  image: v07/17-171-415-098.jpg
+- pageintom: '99'
+  image: v07/17-171-415-099.jpg
+- pageintom: '100'
+  image: v07/17-171-415-100.jpg
+- pageintom: '101'
+  image: v07/17-171-415-101.jpg
+- pageintom: '102'
+  image: v07/17-171-415-102.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2070'
-      tom: '7'
-      pageintom: '100'
-      alistid: '264'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-415-100.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '100'
     page_image: v07/17-171-415-100.jpg
     persons:
     - id: '26800'
@@ -130,20 +122,7 @@ sublists:
       num: '20'
       name: РАЧЕВ Александр Леонтьевич
       spravka: true
-  - page:
-      pageid: '2071'
-      tom: '7'
-      pageintom: '101'
-      alistid: '264'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-415-101.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '101'
     page_image: v07/17-171-415-101.jpg
     persons:
     - id: '26820'
@@ -198,20 +177,7 @@ sublists:
       num: '33'
       name: ЯРОСЛАВЦЕВ Вениамин Павлович
       spravka: true
-  - page:
-      pageid: '2072'
-      tom: '7'
-      pageintom: '102'
-      alistid: '264'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-415-102.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '102'
     page_image: v07/17-171-415-102.jpg
     persons:
     - id: '26833'

@@ -13,12 +13,18 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v08/17-171-416-233.jpg
-- image: v08/17-171-416-234.jpg
-- image: v08/17-171-416-235.jpg
-- image: v08/17-171-416-236.jpg
-- image: v08/17-171-416-237.jpg
-- image: v08/17-171-416-238.jpg
+- pageintom: '233'
+  image: v08/17-171-416-233.jpg
+- pageintom: '234'
+  image: v08/17-171-416-234.jpg
+- pageintom: '235'
+  image: v08/17-171-416-235.jpg
+- pageintom: '236'
+  image: v08/17-171-416-236.jpg
+- pageintom: '237'
+  image: v08/17-171-416-237.jpg
+- pageintom: '238'
+  image: v08/17-171-416-238.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Ярославская область]
   listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2488'
-      tom: '8'
-      pageintom: '235'
-      alistid: '318'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-416-235.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '235'
     page_image: v08/17-171-416-235.jpg
     persons:
     - id: '31992'
@@ -99,20 +92,7 @@ sublists:
       num: '12'
       name: ЧАЛЕЕВ Геннадий Геннадиевич
       spravka: true
-  - page:
-      pageid: '2489'
-      tom: '8'
-      pageintom: '236'
-      alistid: '318'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-416-236.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '236'
     page_image: v08/17-171-416-236.jpg
     persons:
     - id: '32004'
@@ -150,20 +130,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2490'
-      tom: '8'
-      pageintom: '237'
-      alistid: '318'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-416-237.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '237'
     page_image: v08/17-171-416-237.jpg
     persons:
     - id: '32010'
@@ -218,20 +185,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2491'
-      tom: '8'
-      pageintom: '238'
-      alistid: '318'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-416-238.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '238'
     page_image: v08/17-171-416-238.jpg
     persons:
     - id: '32022'

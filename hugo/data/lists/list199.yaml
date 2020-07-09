@@ -13,13 +13,20 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-124.jpg
-- image: v10/17-171-418-125.jpg
-- image: v10/17-171-418-126.jpg
-- image: v10/17-171-418-127.jpg
-- image: v10/17-171-418-128.jpg
-- image: v10/17-171-418-129.jpg
-- image: v10/17-171-418-130.jpg
+- pageintom: '124'
+  image: v10/17-171-418-124.jpg
+- pageintom: '125'
+  image: v10/17-171-418-125.jpg
+- pageintom: '126'
+  image: v10/17-171-418-126.jpg
+- pageintom: '127'
+  image: v10/17-171-418-127.jpg
+- pageintom: '128'
+  image: v10/17-171-418-128.jpg
+- pageintom: '129'
+  image: v10/17-171-418-129.jpg
+- pageintom: '130'
+  image: v10/17-171-418-130.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -34,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2981'
-      tom: '10'
-      pageintom: '126'
-      alistid: '199'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-418-126.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v10/17-171-418-126.jpg
     persons:
     - id: '38917'
@@ -138,20 +132,7 @@ sublists:
       num: '22'
       name: ДЗЕРЖИНСКИЙ Бронислав Иосифович
       spravka: true
-  - page:
-      pageid: '2982'
-      tom: '10'
-      pageintom: '127'
-      alistid: '199'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-418-127.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v10/17-171-418-127.jpg
     persons:
     - id: '38939'
@@ -250,20 +231,7 @@ sublists:
       num: '47'
       name: ОРЛОВ Даниил Владимирович
       spravka: true
-  - page:
-      pageid: '2983'
-      tom: '10'
-      pageintom: '128'
-      alistid: '199'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-418-128.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '128'
     page_image: v10/17-171-418-128.jpg
     persons:
     - id: '38964'
@@ -358,20 +326,7 @@ sublists:
     - id: '38987'
       num: '71'
       name: ТОРСКИЙ Иван Самойлович
-  - page:
-      pageid: '2984'
-      tom: '10'
-      pageintom: '129'
-      alistid: '199'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-418-129.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '129'
     page_image: v10/17-171-418-129.jpg
     persons:
     - id: '38988'
@@ -425,20 +380,7 @@ sublists:
     - id: '39000'
       num: '84'
       name: ЯРОШ Ян Войцехович
-  - page:
-      pageid: '2985'
-      tom: '10'
-      pageintom: '130'
-      alistid: '199'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-418-130.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '130'
     page_image: v10/17-171-418-130.jpg
     persons:
     - id: '39001'

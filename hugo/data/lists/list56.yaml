@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-161.jpg
-- image: v02/17-171-410-162.jpg
-- image: v02/17-171-410-163.jpg
-- image: v02/17-171-410-164.jpg
-- image: v02/17-171-410-165.jpg
-- image: v02/17-171-410-166.jpg
+- pageintom: '161'
+  image: v02/17-171-410-161.jpg
+- pageintom: '162'
+  image: v02/17-171-410-162.jpg
+- pageintom: '163'
+  image: v02/17-171-410-163.jpg
+- pageintom: '164'
+  image: v02/17-171-410-164.jpg
+- pageintom: '165'
+  image: v02/17-171-410-165.jpg
+- pageintom: '166'
+  image: v02/17-171-410-166.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '399'
-      tom: '2'
-      pageintom: '163'
-      alistid: '56'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-163.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '163'
     page_image: v02/17-171-410-163.jpg
     persons:
     - id: '4958'
@@ -148,20 +141,7 @@ sublists:
       num: '24'
       name: ДЕРВЕЛЬ Отто Фридрихович
       spravka: true
-  - page:
-      pageid: '400'
-      tom: '2'
-      pageintom: '164'
-      alistid: '56'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-410-164.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '164'
     page_image: v02/17-171-410-164.jpg
     persons:
     - id: '4982'
@@ -280,20 +260,7 @@ sublists:
       num: '53'
       name: ПРОХОРОВ Иван Афанасьевич
       spravka: true
-  - page:
-      pageid: '401'
-      tom: '2'
-      pageintom: '165'
-      alistid: '56'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-410-165.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '165'
     page_image: v02/17-171-410-165.jpg
     persons:
     - id: '5011'
@@ -337,20 +304,7 @@ sublists:
       num: '63'
       name: ШИМАНОВСКИЙ Исаак Яковлевич
       spravka: true
-  - page:
-      pageid: '402'
-      tom: '2'
-      pageintom: '166'
-      alistid: '56'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-410-166.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '166'
     page_image: v02/17-171-410-166.jpg
     persons:
     - id: '40495'

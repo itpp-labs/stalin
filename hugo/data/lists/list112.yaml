@@ -14,14 +14,22 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-030.jpg
-- image: v05/17-171-413-031.jpg
-- image: v05/17-171-413-032.jpg
-- image: v05/17-171-413-033.jpg
-- image: v05/17-171-413-034.jpg
-- image: v05/17-171-413-035.jpg
-- image: v05/17-171-413-036.jpg
-- image: v05/17-171-413-037.jpg
+- pageintom: '30'
+  image: v05/17-171-413-030.jpg
+- pageintom: '31'
+  image: v05/17-171-413-031.jpg
+- pageintom: '32'
+  image: v05/17-171-413-032.jpg
+- pageintom: '33'
+  image: v05/17-171-413-033.jpg
+- pageintom: '34'
+  image: v05/17-171-413-034.jpg
+- pageintom: '35'
+  image: v05/17-171-413-035.jpg
+- pageintom: '36'
+  image: v05/17-171-413-036.jpg
+- pageintom: '37'
+  image: v05/17-171-413-037.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край, Ростов н/Д - ж.д.им.Ворошилова
@@ -36,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1156'
-      tom: '5'
-      pageintom: '32'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-413-032.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '32'
     page_image: v05/17-171-413-032.jpg
     persons:
     - id: '14534'
@@ -129,20 +124,7 @@ sublists:
     - id: '14555'
       num: '22'
       name: ГОГУЕВ Ибрагим Муссаевич
-  - page:
-      pageid: '1157'
-      tom: '5'
-      pageintom: '33'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-033.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '33'
     page_image: v05/17-171-413-033.jpg
     persons:
     - id: '14556'
@@ -240,20 +222,7 @@ sublists:
       num: '51'
       name: ПУХАЛЬСКИЙ-НАЗАРОВ Юрий Михайлович
       spravka: true
-  - page:
-      pageid: '1158'
-      tom: '5'
-      pageintom: '34'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-034.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '34'
     page_image: v05/17-171-413-034.jpg
     persons:
     - id: '14585'
@@ -348,20 +317,7 @@ sublists:
       num: '79'
       name: ЯЩЕНКО Филипп Миронович
       spravka: true
-  - page:
-      pageid: '1159'
-      tom: '5'
-      pageintom: '35'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-413-035.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '35'
     page_image: v05/17-171-413-035.jpg
     persons:
     - id: '14613'
@@ -395,20 +351,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1160'
-      tom: '5'
-      pageintom: '36'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-413-036.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '36'
     page_image: v05/17-171-413-036.jpg
     persons:
     - id: '14618'
@@ -457,20 +400,7 @@ sublists:
       num: '11'
       name: ЯРОШЕВСКИЙ Дмитрий Андреевич
       spravka: true
-  - page:
-      pageid: '1161'
-      tom: '5'
-      pageintom: '37'
-      alistid: '112'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-037.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '37'
     page_image: v05/17-171-413-037.jpg
     persons:
     - id: '14629'

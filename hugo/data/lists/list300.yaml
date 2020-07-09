@@ -15,18 +15,30 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-116.jpg
-- image: v08/17-171-416-117.jpg
-- image: v08/17-171-416-118.jpg
-- image: v08/17-171-416-119.jpg
-- image: v08/17-171-416-120.jpg
-- image: v08/17-171-416-121.jpg
-- image: v08/17-171-416-122.jpg
-- image: v08/17-171-416-123.jpg
-- image: v08/17-171-416-124.jpg
-- image: v08/17-171-416-125.jpg
-- image: v08/17-171-416-126.jpg
-- image: v08/17-171-416-127.jpg
+- pageintom: '116'
+  image: v08/17-171-416-116.jpg
+- pageintom: '117'
+  image: v08/17-171-416-117.jpg
+- pageintom: '118'
+  image: v08/17-171-416-118.jpg
+- pageintom: '119'
+  image: v08/17-171-416-119.jpg
+- pageintom: '120'
+  image: v08/17-171-416-120.jpg
+- pageintom: '121'
+  image: v08/17-171-416-121.jpg
+- pageintom: '122'
+  image: v08/17-171-416-122.jpg
+- pageintom: '123'
+  image: v08/17-171-416-123.jpg
+- pageintom: '124'
+  image: v08/17-171-416-124.jpg
+- pageintom: '125'
+  image: v08/17-171-416-125.jpg
+- pageintom: '126'
+  image: v08/17-171-416-126.jpg
+- pageintom: '127'
+  image: v08/17-171-416-127.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР,ст.Ясиноватая-Юж.Донец.ж.д.
@@ -56,20 +68,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2371'
-      tom: '8'
-      pageintom: '118'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-416-118.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '118'
     page_image: v08/17-171-416-118.jpg
     persons:
     - id: '30598'
@@ -128,20 +127,7 @@ sublists:
       num: '15'
       name: ВОЛКОВ Степан Васильевич
       spravka: true
-  - page:
-      pageid: '2372'
-      tom: '8'
-      pageintom: '119'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-416-119.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '119'
     page_image: v08/17-171-416-119.jpg
     persons:
     - id: '30613'
@@ -237,20 +223,7 @@ sublists:
       num: '41'
       name: КАНФЕР-БЕРКОВИЧ Давид Маркович
       spravka: true
-  - page:
-      pageid: '2373'
-      tom: '8'
-      pageintom: '120'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-416-120.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '120'
     page_image: v08/17-171-416-120.jpg
     persons:
     - id: '30639'
@@ -325,20 +298,7 @@ sublists:
       num: '60'
       name: БИРКО Савелий Павлович
       spravka: true
-  - page:
-      pageid: '2374'
-      tom: '8'
-      pageintom: '121'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-416-121.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '121'
     page_image: v08/17-171-416-121.jpg
     persons:
     - id: '30658'
@@ -421,20 +381,7 @@ sublists:
       num: '80'
       name: ТАРАСЮК Иван Александрович
       spravka: true
-  - page:
-      pageid: '2375'
-      tom: '8'
-      pageintom: '122'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-416-122.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '122'
     page_image: v08/17-171-416-122.jpg
     persons:
     - id: '30678'
@@ -503,20 +450,7 @@ sublists:
     - id: '30697'
       num: '100'
       name: ЮШКЕВИЧ Александр Феофильевич
-  - page:
-      pageid: '2376'
-      tom: '8'
-      pageintom: '123'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-416-123.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '123'
     page_image: v08/17-171-416-123.jpg
     persons:
     - id: '30698'
@@ -570,20 +504,7 @@ sublists:
     - id: '30710'
       num: '13'
       name: ЗАСЛАВСКИЙ Матвей Михайлович
-  - page:
-      pageid: '2377'
-      tom: '8'
-      pageintom: '124'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-416-124.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '124'
     page_image: v08/17-171-416-124.jpg
     persons:
     - id: '30711'
@@ -618,20 +539,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2378'
-      tom: '8'
-      pageintom: '125'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-125.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v08/17-171-416-125.jpg
     persons:
     - id: '30716'
@@ -724,20 +632,7 @@ sublists:
       num: '22'
       name: ЛАСТОВИЧЕНКО Макар Калистратович
       spravka: true
-  - page:
-      pageid: '2379'
-      tom: '8'
-      pageintom: '126'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-416-126.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v08/17-171-416-126.jpg
     persons:
     - id: '30738'
@@ -816,20 +711,7 @@ sublists:
       num: '41'
       name: ЧУЖИКОВ Борис Лазаревич
       spravka: true
-  - page:
-      pageid: '2380'
-      tom: '8'
-      pageintom: '127'
-      alistid: '300'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-416-127.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v08/17-171-416-127.jpg
     persons:
     - id: '30757'

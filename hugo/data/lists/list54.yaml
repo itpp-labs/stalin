@@ -15,11 +15,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-149.jpg
-- image: v02/17-171-410-150.jpg
-- image: v02/17-171-410-151.jpg
-- image: v02/17-171-410-152.jpg
-- image: v02/17-171-410-153.jpg
+- pageintom: '149'
+  image: v02/17-171-410-149.jpg
+- pageintom: '150'
+  image: v02/17-171-410-150.jpg
+- pageintom: '151'
+  image: v02/17-171-410-151.jpg
+- pageintom: '152'
+  image: v02/17-171-410-152.jpg
+- pageintom: '153'
+  image: v02/17-171-410-153.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край'
@@ -34,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '387'
-      tom: '2'
-      pageintom: '151'
-      alistid: '54'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-151.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '151'
     page_image: v02/17-171-410-151.jpg
     persons:
     - id: '4854'
@@ -152,20 +144,7 @@ sublists:
     - id: '4879'
       num: '26'
       name: КРЫЛОВ Дмитрий Афанасьевич
-  - page:
-      pageid: '388'
-      tom: '2'
-      pageintom: '152'
-      alistid: '54'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-152.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '152'
     page_image: v02/17-171-410-152.jpg
     persons:
     - id: '4880'
@@ -282,20 +261,7 @@ sublists:
       num: '56'
       name: УМАНСКИЙ Петр Александрович
       spravka: true
-  - page:
-      pageid: '389'
-      tom: '2'
-      pageintom: '153'
-      alistid: '54'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-410-153.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '153'
     page_image: v02/17-171-410-153.jpg
     persons:
     - id: '4910'

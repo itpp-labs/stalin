@@ -15,15 +15,24 @@ signs:
   voroshilov: true
   ejov: true
 pages:
-- image: v01/17-171-409-130.jpg
-- image: v01/17-171-409-131.jpg
-- image: v01/17-171-409-132.jpg
-- image: v01/17-171-409-133.jpg
-- image: v01/17-171-409-134.jpg
-- image: v01/17-171-409-135.jpg
-- image: v01/17-171-409-136.jpg
-- image: v01/17-171-409-137.jpg
-- image: v01/17-171-409-138.jpg
+- pageintom: '130'
+  image: v01/17-171-409-130.jpg
+- pageintom: '131'
+  image: v01/17-171-409-131.jpg
+- pageintom: '132'
+  image: v01/17-171-409-132.jpg
+- pageintom: '133'
+  image: v01/17-171-409-133.jpg
+- pageintom: '134'
+  image: v01/17-171-409-134.jpg
+- pageintom: '135'
+  image: v01/17-171-409-135.jpg
+- pageintom: '136'
+  image: v01/17-171-409-136.jpg
+- pageintom: '137'
+  image: v01/17-171-409-137.jpg
+- pageintom: '138'
+  image: v01/17-171-409-138.jpg
 sublists:
 - title: Список от 15 мая 1937 г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -39,20 +48,7 @@ sublists:
   - 8
   - 9
   pages:
-  - page:
-      pageid: '132'
-      tom: '1'
-      pageintom: '132'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-409-132.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '132'
     page_image: v01/17-171-409-132.jpg
     persons:
     - id: '2033'
@@ -148,20 +144,7 @@ sublists:
       num: '23'
       name: МАРЬЯСИН Александр Ефимович
       spravka: true
-  - page:
-      pageid: '133'
-      tom: '1'
-      pageintom: '133'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-409-133.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '133'
     page_image: v01/17-171-409-133.jpg
     persons:
     - id: '2056'
@@ -261,20 +244,7 @@ sublists:
       num: '47'
       name: ЮШКЕВИЧ Николай Федорович
       spravka: true
-  - page:
-      pageid: '134'
-      tom: '1'
-      pageintom: '134'
-      alistid: '16'
-      pagekind: '5'
-      arowcount: '25'
-      picturefile: 17-171-409-134.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '134'
     page_image: v01/17-171-409-134.jpg
     persons:
     - id: '2080'
@@ -384,20 +354,7 @@ sublists:
       name: СЛЕПКОВ Александр Николаевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '135'
-      tom: '1'
-      pageintom: '135'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-409-135.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '135'
     page_image: v01/17-171-409-135.jpg
     persons:
     - id: '2105'
@@ -430,20 +387,7 @@ sublists:
       num: '32'
       name: ЯКОВЛЕВ Василий Анисимович
       spravka: true
-  - page:
-      pageid: '136'
-      tom: '1'
-      pageintom: '136'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-409-136.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '136'
     page_image: v01/17-171-409-136.jpg
     persons:
     - id: '2112'
@@ -534,20 +478,7 @@ sublists:
     - id: '2135'
       num: '24'
       name: ЛОЗУТОВ Иван Панферович
-  - page:
-      pageid: '137'
-      tom: '1'
-      pageintom: '137'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-409-137.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v01/17-171-409-137.jpg
     persons:
     - id: '2136'
@@ -633,20 +564,7 @@ sublists:
       name: ШМИДТ Василий Владимирович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '138'
-      tom: '1'
-      pageintom: '138'
-      alistid: '16'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-409-138.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '138'
     page_image: v01/17-171-409-138.jpg
     persons:
     - id: '2159'

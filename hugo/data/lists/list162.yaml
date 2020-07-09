@@ -13,15 +13,24 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-053.jpg
-- image: v09/17-171-417-054.jpg
-- image: v09/17-171-417-055.jpg
-- image: v09/17-171-417-056.jpg
-- image: v09/17-171-417-057.jpg
-- image: v09/17-171-417-058.jpg
-- image: v09/17-171-417-059.jpg
-- image: v09/17-171-417-060.jpg
-- image: v09/17-171-417-061.jpg
+- pageintom: '53'
+  image: v09/17-171-417-053.jpg
+- pageintom: '54'
+  image: v09/17-171-417-054.jpg
+- pageintom: '55'
+  image: v09/17-171-417-055.jpg
+- pageintom: '56'
+  image: v09/17-171-417-056.jpg
+- pageintom: '57'
+  image: v09/17-171-417-057.jpg
+- pageintom: '58'
+  image: v09/17-171-417-058.jpg
+- pageintom: '59'
+  image: v09/17-171-417-059.jpg
+- pageintom: '60'
+  image: v09/17-171-417-060.jpg
+- pageintom: '61'
+  image: v09/17-171-417-061.jpg
 sublists:
 - title: Список от 10.VI.38г. [Свердловская область]
   listtitle: Список лиц - Свердловская область, г.Свердловск-ж.д. им.Кагановича
@@ -36,20 +45,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2651'
-      tom: '9'
-      pageintom: '55'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-417-055.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '55'
     page_image: v09/17-171-417-055.jpg
     persons:
     - id: '34002'
@@ -134,20 +130,7 @@ sublists:
       num: '21'
       name: ЗАСТЕНКЕР Наум Ефимович
       spravka: true
-  - page:
-      pageid: '2652'
-      tom: '9'
-      pageintom: '56'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-417-056.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '56'
     page_image: v09/17-171-417-056.jpg
     persons:
     - id: '34023'
@@ -261,20 +244,7 @@ sublists:
       num: '49'
       name: ТРИФОНОВ Алексей Андреевич
       spravka: true
-  - page:
-      pageid: '2653'
-      tom: '9'
-      pageintom: '57'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-417-057.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '57'
     page_image: v09/17-171-417-057.jpg
     persons:
     - id: '34051'
@@ -292,20 +262,7 @@ sublists:
     - id: '34054'
       num: '53'
       name: ШЛЯПНИКОВ Флор Федорович
-  - page:
-      pageid: '2654'
-      tom: '9'
-      pageintom: '58'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-417-058.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '58'
     page_image: v09/17-171-417-058.jpg
     persons:
     - id: '34055'
@@ -351,20 +308,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2655'
-      tom: '9'
-      pageintom: '59'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-417-059.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '59'
     page_image: v09/17-171-417-059.jpg
     persons:
     - id: '34062'
@@ -455,20 +399,7 @@ sublists:
     - id: '34083'
       num: '22'
       name: КОРЕШКОВ Константин Александрович
-  - page:
-      pageid: '2656'
-      tom: '9'
-      pageintom: '60'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-417-060.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '60'
     page_image: v09/17-171-417-060.jpg
     persons:
     - id: '34084'
@@ -544,20 +475,7 @@ sublists:
       num: '41'
       name: ЯЗЫКОВ Вениамин Геннадьевич
       spravka: true
-  - page:
-      pageid: '2657'
-      tom: '9'
-      pageintom: '61'
-      alistid: '162'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-417-061.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '61'
     page_image: v09/17-171-417-061.jpg
     persons:
     - id: '34103'

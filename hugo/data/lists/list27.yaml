@@ -14,14 +14,22 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-204.jpg
-- image: v01/17-171-409-205.jpg
-- image: v01/17-171-409-206.jpg
-- image: v01/17-171-409-207.jpg
-- image: v01/17-171-409-208.jpg
-- image: v01/17-171-409-209.jpg
-- image: v01/17-171-409-210.jpg
-- image: v01/17-171-409-211.jpg
+- pageintom: '204'
+  image: v01/17-171-409-204.jpg
+- pageintom: '205'
+  image: v01/17-171-409-205.jpg
+- pageintom: '206'
+  image: v01/17-171-409-206.jpg
+- pageintom: '207'
+  image: v01/17-171-409-207.jpg
+- pageintom: '208'
+  image: v01/17-171-409-208.jpg
+- pageintom: '209'
+  image: v01/17-171-409-209.jpg
+- pageintom: '210'
+  image: v01/17-171-409-210.jpg
+- pageintom: '211'
+  image: v01/17-171-409-211.jpg
 sublists:
 - title: Список от 25 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -44,20 +52,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '206'
-      tom: '1'
-      pageintom: '206'
-      alistid: '27'
-      pagekind: '5'
-      arowcount: '21'
-      picturefile: 17-171-409-206.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '206'
     page_image: v01/17-171-409-206.jpg
     persons:
     - id: '3019'
@@ -147,20 +142,7 @@ sublists:
       num: '21'
       name: ЧАБАЙ Григорий Данилович
       spravka: true
-  - page:
-      pageid: '207'
-      tom: '1'
-      pageintom: '207'
-      alistid: '27'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-409-207.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '207'
     page_image: v01/17-171-409-207.jpg
     persons:
     - id: '3040'
@@ -258,20 +240,7 @@ sublists:
       num: '14'
       name: ШАПОШНИКОВ Иван Леонтьевич
       spravka: true
-  - page:
-      pageid: '208'
-      tom: '1'
-      pageintom: '208'
-      alistid: '27'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-409-208.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '208'
     page_image: v01/17-171-409-208.jpg
     persons:
     - id: '3064'
@@ -328,20 +297,7 @@ sublists:
       num: '8'
       name: РОЗГОН Иван Афанасьевич
       spravka: true
-  - page:
-      pageid: '209'
-      tom: '1'
-      pageintom: '209'
-      alistid: '27'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-409-209.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '209'
     page_image: v01/17-171-409-209.jpg
     persons:
     - id: '3079'
@@ -414,20 +370,7 @@ sublists:
       num: '3'
       name: ТОВАРИЩ Петр Иванович
       spravka: true
-  - page:
-      pageid: '210'
-      tom: '1'
-      pageintom: '210'
-      alistid: '27'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-409-210.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '210'
     page_image: v01/17-171-409-210.jpg
     persons:
     - id: '3096'
@@ -461,20 +404,7 @@ sublists:
       num: '4'
       name: ЮЗЕВИЧ Исаак Осипович
       spravka: true
-  - page:
-      pageid: '211'
-      tom: '1'
-      pageintom: '211'
-      alistid: '27'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-409-211.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '211'
     page_image: v01/17-171-409-211.jpg
     persons:
     - id: '3104'

@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-309.jpg
-- image: v06/17-171-414-310.jpg
-- image: v06/17-171-414-311.jpg
-- image: v06/17-171-414-312.jpg
-- image: v06/17-171-414-313.jpg
+- pageintom: '309'
+  image: v06/17-171-414-309.jpg
+- pageintom: '310'
+  image: v06/17-171-414-310.jpg
+- pageintom: '311'
+  image: v06/17-171-414-311.jpg
+- pageintom: '312'
+  image: v06/17-171-414-312.jpg
+- pageintom: '313'
+  image: v06/17-171-414-313.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1816'
-      tom: '6'
-      pageintom: '311'
-      alistid: '372'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-414-311.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '311'
     page_image: v06/17-171-414-311.jpg
     persons:
     - id: '23223'
@@ -123,20 +115,7 @@ sublists:
       num: '20'
       name: КАПУСТИН Иван Ильич
       spravka: true
-  - page:
-      pageid: '1817'
-      tom: '6'
-      pageintom: '312'
-      alistid: '372'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-414-312.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '312'
     page_image: v06/17-171-414-312.jpg
     persons:
     - id: '23243'
@@ -223,20 +202,7 @@ sublists:
     - id: '23267'
       num: '45'
       name: ЧУМАКОВ Валентин Константинович
-  - page:
-      pageid: '1818'
-      tom: '6'
-      pageintom: '313'
-      alistid: '372'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-313.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '313'
     page_image: v06/17-171-414-313.jpg
     persons:
     - id: '23268'

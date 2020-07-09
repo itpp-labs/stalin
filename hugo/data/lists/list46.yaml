@@ -12,13 +12,20 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-092.jpg
-- image: v02/17-171-410-093.jpg
-- image: v02/17-171-410-094.jpg
-- image: v02/17-171-410-095.jpg
-- image: v02/17-171-410-096.jpg
-- image: v02/17-171-410-097.jpg
-- image: v02/17-171-410-098.jpg
+- pageintom: '92'
+  image: v02/17-171-410-092.jpg
+- pageintom: '93'
+  image: v02/17-171-410-093.jpg
+- pageintom: '94'
+  image: v02/17-171-410-094.jpg
+- pageintom: '95'
+  image: v02/17-171-410-095.jpg
+- pageintom: '96'
+  image: v02/17-171-410-096.jpg
+- pageintom: '97'
+  image: v02/17-171-410-097.jpg
+- pageintom: '98'
+  image: v02/17-171-410-098.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Свердловская обл.]
   listtitle: 'Список лиц: Свердловская обл.'
@@ -34,20 +41,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '330'
-      tom: '2'
-      pageintom: '94'
-      alistid: '46'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-094.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '94'
     page_image: v02/17-171-410-094.jpg
     persons:
     - id: '4365'
@@ -156,20 +150,7 @@ sublists:
       num: '26'
       name: ПРЯХИН Иван Васильевич
       spravka: true
-  - page:
-      pageid: '331'
-      tom: '2'
-      pageintom: '95'
-      alistid: '46'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-095.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '95'
     page_image: v02/17-171-410-095.jpg
     persons:
     - id: '4391'
@@ -291,20 +272,7 @@ sublists:
       num: '56'
       name: ЯБЛОНСКИЙ Евгений Николаевич
       spravka: true
-  - page:
-      pageid: '332'
-      tom: '2'
-      pageintom: '96'
-      alistid: '46'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-410-096.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '96'
     page_image: v02/17-171-410-096.jpg
     persons:
     - id: '4421'
@@ -329,20 +297,7 @@ sublists:
       num: '5'
       name: ПОНОМАРЕВ Филипп Иванович
       spravka: true
-  - page:
-      pageid: '333'
-      tom: '2'
-      pageintom: '97'
-      alistid: '46'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-410-097.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '97'
     page_image: v02/17-171-410-097.jpg
     persons:
     - id: '4426'

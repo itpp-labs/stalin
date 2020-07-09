@@ -12,29 +12,52 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-001.jpg
-- image: v10/17-171-418-002.jpg
-- image: v10/17-171-418-003.jpg
-- image: v10/17-171-418-004.jpg
-- image: v10/17-171-418-005.jpg
-- image: v10/17-171-418-006.jpg
-- image: v10/17-171-418-007.jpg
-- image: v10/17-171-418-008.jpg
-- image: v10/17-171-418-009.jpg
-- image: v10/17-171-418-010.jpg
-- image: v10/17-171-418-011.jpg
-- image: v10/17-171-418-012.jpg
-- image: v10/17-171-418-013.jpg
-- image: v10/17-171-418-014.jpg
-- image: v10/17-171-418-015.jpg
-- image: v10/17-171-418-016.jpg
-- image: v10/17-171-418-017.jpg
-- image: v10/17-171-418-018.jpg
-- image: v10/17-171-418-019.jpg
-- image: v10/17-171-418-020.jpg
-- image: v10/17-171-418-021.jpg
-- image: v10/17-171-418-022.jpg
-- image: v10/17-171-418-023.jpg
+- pageintom: '1'
+  image: v10/17-171-418-001.jpg
+- pageintom: '2'
+  image: v10/17-171-418-002.jpg
+- pageintom: '3'
+  image: v10/17-171-418-003.jpg
+- pageintom: '4'
+  image: v10/17-171-418-004.jpg
+- pageintom: '5'
+  image: v10/17-171-418-005.jpg
+- pageintom: '6'
+  image: v10/17-171-418-006.jpg
+- pageintom: '7'
+  image: v10/17-171-418-007.jpg
+- pageintom: '8'
+  image: v10/17-171-418-008.jpg
+- pageintom: '9'
+  image: v10/17-171-418-009.jpg
+- pageintom: '10'
+  image: v10/17-171-418-010.jpg
+- pageintom: '11'
+  image: v10/17-171-418-011.jpg
+- pageintom: '12'
+  image: v10/17-171-418-012.jpg
+- pageintom: '13'
+  image: v10/17-171-418-013.jpg
+- pageintom: '14'
+  image: v10/17-171-418-014.jpg
+- pageintom: '15'
+  image: v10/17-171-418-015.jpg
+- pageintom: '16'
+  image: v10/17-171-418-016.jpg
+- pageintom: '17'
+  image: v10/17-171-418-017.jpg
+- pageintom: '18'
+  image: v10/17-171-418-018.jpg
+- pageintom: '19'
+  image: v10/17-171-418-019.jpg
+- pageintom: '20'
+  image: v10/17-171-418-020.jpg
+- pageintom: '21'
+  image: v10/17-171-418-021.jpg
+- pageintom: '22'
+  image: v10/17-171-418-022.jpg
+- pageintom: '23'
+  image: v10/17-171-418-023.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -50,20 +73,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '2858'
-      tom: '10'
-      pageintom: '3'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v10/17-171-418-003.jpg
     persons:
     - id: '36870'
@@ -144,20 +154,7 @@ sublists:
       num: '20'
       name: БАРАХОВ Исидор Никифорович
       spravka: true
-  - page:
-      pageid: '2859'
-      tom: '10'
-      pageintom: '4'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v10/17-171-418-004.jpg
     persons:
     - id: '36890'
@@ -268,20 +265,7 @@ sublists:
       num: '47'
       name: ВАСИЛЬКОВ Александр Иванович
       spravka: true
-  - page:
-      pageid: '2860'
-      tom: '10'
-      pageintom: '5'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-005.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v10/17-171-418-005.jpg
     persons:
     - id: '36917'
@@ -394,20 +378,7 @@ sublists:
       num: '75'
       name: ГОЛЬДМАН Леон Исаакович
       spravka: true
-  - page:
-      pageid: '2861'
-      tom: '10'
-      pageintom: '6'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-006.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v10/17-171-418-006.jpg
     persons:
     - id: '36945'
@@ -520,20 +491,7 @@ sublists:
       num: '103'
       name: ЕВЗЕРИХИН Зрубавель Моисеевич
       spravka: true
-  - page:
-      pageid: '2862'
-      tom: '10'
-      pageintom: '7'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-007.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v10/17-171-418-007.jpg
     persons:
     - id: '36973'
@@ -643,20 +601,7 @@ sublists:
       num: '130'
       name: КАРРИК-ИРКУТОВ Андрей Дмитриевич
       spravka: true
-  - page:
-      pageid: '2863'
-      tom: '10'
-      pageintom: '8'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-008.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '8'
     page_image: v10/17-171-418-008.jpg
     persons:
     - id: '37000'
@@ -768,20 +713,7 @@ sublists:
       num: '158'
       name: ЛАГО, он же ОЗЕРОВ Борис Федорович
       spravka: true
-  - page:
-      pageid: '2864'
-      tom: '10'
-      pageintom: '9'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-009.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v10/17-171-418-009.jpg
     persons:
     - id: '37028'
@@ -890,20 +822,7 @@ sublists:
       num: '185'
       name: МИЛОВИДОВ Александр Семенович, он же <br />МЕЛАМЕД Абрам Соломонович
       spravka: true
-  - page:
-      pageid: '2865'
-      tom: '10'
-      pageintom: '10'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-010.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v10/17-171-418-010.jpg
     persons:
     - id: '37055'
@@ -1016,20 +935,7 @@ sublists:
       name: ПЕТРИКОВСКИЙ Станислав Антонович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '2866'
-      tom: '10'
-      pageintom: '11'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-011.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '11'
     page_image: v10/17-171-418-011.jpg
     persons:
     - id: '37083'
@@ -1140,20 +1046,7 @@ sublists:
       num: '240'
       name: РОЗОВСКИЙ Израиль Леопольдович
       spravka: true
-  - page:
-      pageid: '2867'
-      tom: '10'
-      pageintom: '12'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-012.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v10/17-171-418-012.jpg
     persons:
     - id: '37110'
@@ -1262,20 +1155,7 @@ sublists:
       num: '267'
       name: СТРЕЛКОВА Зоя Ильинична
       spravka: true
-  - page:
-      pageid: '2868'
-      tom: '10'
-      pageintom: '13'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-013.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '13'
     page_image: v10/17-171-418-013.jpg
     persons:
     - id: '37137'
@@ -1388,20 +1268,7 @@ sublists:
     - id: '37164'
       num: '295'
       name: ХОДАРЕВ Николай Степанович
-  - page:
-      pageid: '2869'
-      tom: '10'
-      pageintom: '14'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-014.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '14'
     page_image: v10/17-171-418-014.jpg
     persons:
     - id: '37165'
@@ -1509,20 +1376,7 @@ sublists:
       num: '322'
       name: ШПОЛЯНСКИЙ Павел Исакович
       spravka: true
-  - page:
-      pageid: '2870'
-      tom: '10'
-      pageintom: '15'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-418-015.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '15'
     page_image: v10/17-171-418-015.jpg
     persons:
     - id: '37192'
@@ -1597,20 +1451,7 @@ sublists:
       num: '340'
       name: УРИЦКИЙ Семен Борисович
       spravka: true
-  - page:
-      pageid: '2871'
-      tom: '10'
-      pageintom: '16'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-418-016.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '16'
     page_image: v10/17-171-418-016.jpg
     persons:
     - id: '37210'
@@ -1633,20 +1474,7 @@ sublists:
       num: '4'
       name: ЭРМИШ Кости Мильтияди
       gb_spravka: true
-  - page:
-      pageid: '2876'
-      tom: '10'
-      pageintom: '21'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-418-021.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '21'
     page_image: v10/17-171-418-021.jpg
     persons:
     - id: '37214'
@@ -1716,20 +1544,7 @@ sublists:
     - id: '37232'
       num: '19'
       name: ДРУСКИН Захар Иосифович
-  - page:
-      pageid: '2877'
-      tom: '10'
-      pageintom: '22'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-022.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '22'
     page_image: v10/17-171-418-022.jpg
     persons:
     - id: '37233'
@@ -1829,20 +1644,7 @@ sublists:
       num: '47'
       name: ПОПОВ Владимир Васильевич
       spravka: true
-  - page:
-      pageid: '2878'
-      tom: '10'
-      pageintom: '23'
-      alistid: '192'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-418-023.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '23'
     page_image: v10/17-171-418-023.jpg
     persons:
     - id: '37261'

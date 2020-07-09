@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-154.jpg
-- image: v02/17-171-410-155.jpg
-- image: v02/17-171-410-156.jpg
-- image: v02/17-171-410-157.jpg
-- image: v02/17-171-410-158.jpg
-- image: v02/17-171-410-159.jpg
-- image: v02/17-171-410-160.jpg
+- pageintom: '154'
+  image: v02/17-171-410-154.jpg
+- pageintom: '155'
+  image: v02/17-171-410-155.jpg
+- pageintom: '156'
+  image: v02/17-171-410-156.jpg
+- pageintom: '157'
+  image: v02/17-171-410-157.jpg
+- pageintom: '158'
+  image: v02/17-171-410-158.jpg
+- pageintom: '159'
+  image: v02/17-171-410-159.jpg
+- pageintom: '160'
+  image: v02/17-171-410-160.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -36,20 +43,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '392'
-      tom: '2'
-      pageintom: '156'
-      alistid: '55'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-156.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '156'
     page_image: v02/17-171-410-156.jpg
     persons:
     - id: '4920'
@@ -150,20 +144,7 @@ sublists:
       num: '24'
       name: СКОРНЯКОВ Александр Николаевич
       spravka: true
-  - page:
-      pageid: '393'
-      tom: '2'
-      pageintom: '157'
-      alistid: '55'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-410-157.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '157'
     page_image: v02/17-171-410-157.jpg
     persons:
     - id: '4944'
@@ -186,20 +167,7 @@ sublists:
       num: '29'
       name: ФРИДЛЯНД Симон Львович
       spravka: true
-  - page:
-      pageid: '394'
-      tom: '2'
-      pageintom: '158'
-      alistid: '55'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-410-158.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '158'
     page_image: v02/17-171-410-158.jpg
     persons:
     - id: '4949'
@@ -209,20 +177,7 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ </u><br /><u> КАЗАХСКАЯ
         С.С.Р. </u></p><p align="right"><u>1-я категория</u>
-  - page:
-      pageid: '396'
-      tom: '2'
-      pageintom: '160'
-      alistid: '55'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-410-160.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '160'
     page_image: v02/17-171-410-160.jpg
     persons:
     - id: '4950'

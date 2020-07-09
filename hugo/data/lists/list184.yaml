@@ -12,14 +12,22 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-210.jpg
-- image: v09/17-171-417-211.jpg
-- image: v09/17-171-417-212.jpg
-- image: v09/17-171-417-213.jpg
-- image: v09/17-171-417-214.jpg
-- image: v09/17-171-417-215.jpg
-- image: v09/17-171-417-216.jpg
-- image: v09/17-171-417-217.jpg
+- pageintom: '210'
+  image: v09/17-171-417-210.jpg
+- pageintom: '211'
+  image: v09/17-171-417-211.jpg
+- pageintom: '212'
+  image: v09/17-171-417-212.jpg
+- pageintom: '213'
+  image: v09/17-171-417-213.jpg
+- pageintom: '214'
+  image: v09/17-171-417-214.jpg
+- pageintom: '215'
+  image: v09/17-171-417-215.jpg
+- pageintom: '216'
+  image: v09/17-171-417-216.jpg
+- pageintom: '217'
+  image: v09/17-171-417-217.jpg
 sublists:
 - title: Список от 26.VII.38г. [Москва-центр]
   listtitle: Записка Ежова с приложением списка лиц - Москва-центр
@@ -34,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2809'
-      tom: '9'
-      pageintom: '213'
-      alistid: '184'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-417-213.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '213'
     page_image: v09/17-171-417-213.jpg
     persons:
     - id: '36057'
@@ -146,20 +141,7 @@ sublists:
       name: БУЛИН Антон Степанович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '2810'
-      tom: '9'
-      pageintom: '214'
-      alistid: '184'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-417-214.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '214'
     page_image: v09/17-171-417-214.jpg
     persons:
     - id: '36079'
@@ -289,20 +271,7 @@ sublists:
       name: КАНДЕЛАКИ Давид Владимирович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '2811'
-      tom: '9'
-      pageintom: '215'
-      alistid: '184'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-417-215.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '215'
     page_image: v09/17-171-417-215.jpg
     persons:
     - id: '36109'
@@ -434,20 +403,7 @@ sublists:
       num: '82'
       name: МИФ Павел Александрович
       spravka: true
-  - page:
-      pageid: '2812'
-      tom: '9'
-      pageintom: '216'
-      alistid: '184'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-417-216.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '216'
     page_image: v09/17-171-417-216.jpg
     persons:
     - id: '36139'
@@ -577,20 +533,7 @@ sublists:
       num: '112'
       name: СКОБЕЛЕВ Матвей Иванович
       spravka: true
-  - page:
-      pageid: '2813'
-      tom: '9'
-      pageintom: '217'
-      alistid: '184'
-      pagekind: '5'
-      arowcount: '27'
-      picturefile: 17-171-417-217.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '217'
     page_image: v09/17-171-417-217.jpg
     persons:
     - id: '36169'

@@ -29,7 +29,7 @@ lists:
     molotov: true
     jdanov: true
     kaganovic: true
-- title: Список от  [] - РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
+- title: РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
   url: /lists/list410#page-3-num-41
   date: '1940-09-06'
   signs: {}
@@ -87,5 +87,6 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v14/17-171-420-045.jpg
+  pages:
+  - image: disk/pictures/v14/17-171-420-045.jpg
+    pageintom: '45'

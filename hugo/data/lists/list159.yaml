@@ -12,12 +12,18 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-032.jpg
-- image: v09/17-171-417-033.jpg
-- image: v09/17-171-417-034.jpg
-- image: v09/17-171-417-035.jpg
-- image: v09/17-171-417-036.jpg
-- image: v09/17-171-417-037.jpg
+- pageintom: '32'
+  image: v09/17-171-417-032.jpg
+- pageintom: '33'
+  image: v09/17-171-417-033.jpg
+- pageintom: '34'
+  image: v09/17-171-417-034.jpg
+- pageintom: '35'
+  image: v09/17-171-417-035.jpg
+- pageintom: '36'
+  image: v09/17-171-417-036.jpg
+- pageintom: '37'
+  image: v09/17-171-417-037.jpg
 sublists:
 - title: Список от 10.VI.38г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2636'
-      tom: '9'
-      pageintom: '34'
-      alistid: '159'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-417-034.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '34'
     page_image: v09/17-171-417-034.jpg
     persons:
     - id: '33675'
@@ -110,20 +103,7 @@ sublists:
     - id: '33690'
       num: '16'
       name: ЕРМОЛИН Александр Вуколович
-  - page:
-      pageid: '2637'
-      tom: '9'
-      pageintom: '35'
-      alistid: '159'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-035.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '35'
     page_image: v09/17-171-417-035.jpg
     persons:
     - id: '33691'
@@ -234,20 +214,7 @@ sublists:
       num: '45'
       name: ФЕЛЕНКОВСКИЙ Владимир Иосифович
       spravka: true
-  - page:
-      pageid: '2638'
-      tom: '9'
-      pageintom: '36'
-      alistid: '159'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-417-036.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '36'
     page_image: v09/17-171-417-036.jpg
     persons:
     - id: '33720'
@@ -280,20 +247,7 @@ sublists:
       num: '53'
       name: ШИШКО Иван Афанасьевич
       spravka: true
-  - page:
-      pageid: '2639'
-      tom: '9'
-      pageintom: '37'
-      alistid: '159'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-417-037.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '37'
     page_image: v09/17-171-417-037.jpg
     persons:
     - id: '33728'

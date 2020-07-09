@@ -27,7 +27,7 @@ lists:
   signs:
     stalin: true
     molotov: true
-- title: Список от  [] - РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
+- title: РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
   url: /lists/list410#page-1-num-1
   date: '1940-09-06'
   signs: {}
@@ -100,5 +100,6 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v14/17-171-420-007.jpg
+  pages:
+  - image: disk/pictures/v14/17-171-420-007.jpg
+    pageintom: '7'

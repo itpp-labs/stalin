@@ -14,9 +14,12 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-235.jpg
-- image: v06/17-171-414-236.jpg
-- image: v06/17-171-414-237.jpg
+- pageintom: '235'
+  image: v06/17-171-414-235.jpg
+- pageintom: '236'
+  image: v06/17-171-414-236.jpg
+- pageintom: '237'
+  image: v06/17-171-414-237.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -31,20 +34,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1742'
-      tom: '6'
-      pageintom: '237'
-      alistid: '361'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-414-237.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '237'
     page_image: v06/17-171-414-237.jpg
     persons:
     - id: '22476'

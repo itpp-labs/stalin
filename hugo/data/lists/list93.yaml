@@ -12,19 +12,32 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v04/17-171-412-135.jpg
-- image: v04/17-171-412-136.jpg
-- image: v04/17-171-412-137.jpg
-- image: v04/17-171-412-138.jpg
-- image: v04/17-171-412-139.jpg
-- image: v04/17-171-412-140.jpg
-- image: v04/17-171-412-141.jpg
-- image: v04/17-171-412-142.jpg
-- image: v04/17-171-412-143.jpg
-- image: v04/17-171-412-144.jpg
-- image: v04/17-171-412-145.jpg
-- image: v04/17-171-412-146.jpg
-- image: v04/17-171-412-147.jpg
+- pageintom: '135'
+  image: v04/17-171-412-135.jpg
+- pageintom: '136'
+  image: v04/17-171-412-136.jpg
+- pageintom: '137'
+  image: v04/17-171-412-137.jpg
+- pageintom: '138'
+  image: v04/17-171-412-138.jpg
+- pageintom: '139'
+  image: v04/17-171-412-139.jpg
+- pageintom: '140'
+  image: v04/17-171-412-140.jpg
+- pageintom: '141'
+  image: v04/17-171-412-141.jpg
+- pageintom: '142'
+  image: v04/17-171-412-142.jpg
+- pageintom: '143'
+  image: v04/17-171-412-143.jpg
+- pageintom: '144'
+  image: v04/17-171-412-144.jpg
+- pageintom: '145'
+  image: v04/17-171-412-145.jpg
+- pageintom: '146'
+  image: v04/17-171-412-146.jpg
+- pageintom: '147'
+  image: v04/17-171-412-147.jpg
 sublists:
 - title: Список от 1 ноября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Московская обл.
@@ -41,20 +54,7 @@ sublists:
   - 1
   - 2
   pages:
-  - page:
-      pageid: '980'
-      tom: '4'
-      pageintom: '137'
-      alistid: '93'
-      pagekind: '5'
-      arowcount: '27'
-      picturefile: 17-171-412-137.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v04/17-171-412-137.jpg
     persons:
     - id: '12233'
@@ -167,20 +167,7 @@ sublists:
       num: '27'
       name: ВОСТОКОВ Сергей Николаевич
       spravka: true
-  - page:
-      pageid: '981'
-      tom: '4'
-      pageintom: '138'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-412-138.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '138'
     page_image: v04/17-171-412-138.jpg
     persons:
     - id: '12260'
@@ -301,20 +288,7 @@ sublists:
       num: '57'
       name: КОРОЛЕВ Николай Иванович
       spravka: true
-  - page:
-      pageid: '982'
-      tom: '4'
-      pageintom: '139'
-      alistid: '93'
-      pagekind: '5'
-      arowcount: '30'
-      picturefile: 17-171-412-139.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '139'
     page_image: v04/17-171-412-139.jpg
     persons:
     - id: '12290'
@@ -435,20 +409,7 @@ sublists:
       num: '87'
       name: РОССИНСКИЙ Рувим Анчелев
       spravka: true
-  - page:
-      pageid: '983'
-      tom: '4'
-      pageintom: '140'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-412-140.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '140'
     page_image: v04/17-171-412-140.jpg
     persons:
     - id: '12320'
@@ -569,20 +530,7 @@ sublists:
     - id: '12349'
       num: '117'
       name: ШМИДЕН Олег Леонидович
-  - page:
-      pageid: '984'
-      tom: '4'
-      pageintom: '141'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-412-141.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '141'
     page_image: v04/17-171-412-141.jpg
     persons:
     - id: '12350'
@@ -608,20 +556,7 @@ sublists:
       num: '123'
       name: ЯНТАРОВ Сергей Юльевич
       spravka: true
-  - page:
-      pageid: '985'
-      tom: '4'
-      pageintom: '142'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-412-142.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v04/17-171-412-142.jpg
     persons:
     - id: '12356'
@@ -636,20 +571,7 @@ sublists:
       name: ПАСКАЛЬ-ДЮБИ Лидия Яковлевна
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '988'
-      tom: '4'
-      pageintom: '145'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-412-145.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '145'
     page_image: v04/17-171-412-145.jpg
     persons:
     - id: '12358'
@@ -674,20 +596,7 @@ sublists:
       num: '5'
       name: ШЕПТУНОВ Леонид Сергеевич
       spravka: true
-  - page:
-      pageid: '989'
-      tom: '4'
-      pageintom: '146'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-412-146.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '146'
     page_image: v04/17-171-412-146.jpg
     persons:
     - id: '17775'
@@ -718,20 +627,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '990'
-      tom: '4'
-      pageintom: '147'
-      alistid: '93'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-412-147.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v04/17-171-412-147.jpg
     persons:
     - id: '12366'

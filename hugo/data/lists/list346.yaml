@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-097.jpg
-- image: v06/17-171-414-098.jpg
-- image: v06/17-171-414-099.jpg
-- image: v06/17-171-414-100.jpg
-- image: v06/17-171-414-101.jpg
-- image: v06/17-171-414-102.jpg
-- image: v06/17-171-414-103.jpg
+- pageintom: '97'
+  image: v06/17-171-414-097.jpg
+- pageintom: '98'
+  image: v06/17-171-414-098.jpg
+- pageintom: '99'
+  image: v06/17-171-414-099.jpg
+- pageintom: '100'
+  image: v06/17-171-414-100.jpg
+- pageintom: '101'
+  image: v06/17-171-414-101.jpg
+- pageintom: '102'
+  image: v06/17-171-414-102.jpg
+- pageintom: '103'
+  image: v06/17-171-414-103.jpg
 sublists:
 - title: Список от 3 января 1938г. [г.Алма-Ата.Туркестано-Сибирская ж.д.]
   listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1604'
-      tom: '6'
-      pageintom: '99'
-      alistid: '346'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-414-099.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '99'
     page_image: v06/17-171-414-099.jpg
     persons:
     - id: '20594'
@@ -130,20 +124,7 @@ sublists:
       num: '19'
       name: ТИХОМИРОВ Павел Иванович
       spravka: true
-  - page:
-      pageid: '1605'
-      tom: '6'
-      pageintom: '100'
-      alistid: '346'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-100.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '100'
     page_image: v06/17-171-414-100.jpg
     persons:
     - id: '20613'
@@ -158,20 +139,7 @@ sublists:
       num: '22'
       name: ЮРАШ Сергей Степанович
       spravka: true
-  - page:
-      pageid: '1606'
-      tom: '6'
-      pageintom: '101'
-      alistid: '346'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-414-101.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '101'
     page_image: v06/17-171-414-101.jpg
     persons:
     - id: '20616'
@@ -206,20 +174,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1607'
-      tom: '6'
-      pageintom: '102'
-      alistid: '346'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-414-102.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '102'
     page_image: v06/17-171-414-102.jpg
     persons:
     - id: '20620'
@@ -264,20 +219,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1608'
-      tom: '6'
-      pageintom: '103'
-      alistid: '346'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-414-103.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '103'
     page_image: v06/17-171-414-103.jpg
     persons:
     - id: '20627'

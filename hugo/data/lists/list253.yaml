@@ -15,13 +15,20 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-032.jpg
-- image: v07/17-171-415-033.jpg
-- image: v07/17-171-415-034.jpg
-- image: v07/17-171-415-035.jpg
-- image: v07/17-171-415-036.jpg
-- image: v07/17-171-415-037.jpg
-- image: v07/17-171-415-038.jpg
+- pageintom: '32'
+  image: v07/17-171-415-032.jpg
+- pageintom: '33'
+  image: v07/17-171-415-033.jpg
+- pageintom: '34'
+  image: v07/17-171-415-034.jpg
+- pageintom: '35'
+  image: v07/17-171-415-035.jpg
+- pageintom: '36'
+  image: v07/17-171-415-036.jpg
+- pageintom: '37'
+  image: v07/17-171-415-037.jpg
+- pageintom: '38'
+  image: v07/17-171-415-038.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ленинградская область]
   listtitle: Список лиц -Ленинградская,Саратовская,Тульская области,Армянская ССР,Оренбургская
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2004'
-      tom: '7'
-      pageintom: '34'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-415-034.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '34'
     page_image: v07/17-171-415-034.jpg
     persons:
     - id: '26231'
@@ -77,20 +71,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2005'
-      tom: '7'
-      pageintom: '35'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-035.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '35'
     page_image: v07/17-171-415-035.jpg
     persons:
     - id: '26233'
@@ -130,20 +111,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2006'
-      tom: '7'
-      pageintom: '36'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-415-036.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '36'
     page_image: v07/17-171-415-036.jpg
     persons:
     - id: '26238'
@@ -169,20 +137,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2007'
-      tom: '7'
-      pageintom: '37'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-415-037.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '37'
     page_image: v07/17-171-415-037.jpg
     persons:
     - id: '26240'
@@ -214,20 +169,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2008'
-      tom: '7'
-      pageintom: '38'
-      alistid: '254'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-038.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '38'
     page_image: v07/17-171-415-038.jpg
     persons:
     - id: '26243'

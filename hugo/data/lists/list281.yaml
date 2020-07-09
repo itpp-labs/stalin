@@ -15,15 +15,24 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-235.jpg
-- image: v07/17-171-415-236.jpg
-- image: v07/17-171-415-237.jpg
-- image: v07/17-171-415-238.jpg
-- image: v07/17-171-415-239.jpg
-- image: v07/17-171-415-240.jpg
-- image: v07/17-171-415-241.jpg
-- image: v07/17-171-415-242.jpg
-- image: v07/17-171-415-243.jpg
+- pageintom: '235'
+  image: v07/17-171-415-235.jpg
+- pageintom: '236'
+  image: v07/17-171-415-236.jpg
+- pageintom: '237'
+  image: v07/17-171-415-237.jpg
+- pageintom: '238'
+  image: v07/17-171-415-238.jpg
+- pageintom: '239'
+  image: v07/17-171-415-239.jpg
+- pageintom: '240'
+  image: v07/17-171-415-240.jpg
+- pageintom: '241'
+  image: v07/17-171-415-241.jpg
+- pageintom: '242'
+  image: v07/17-171-415-242.jpg
+- pageintom: '243'
+  image: v07/17-171-415-243.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Алтайский край]
   listtitle: Список лиц - Алтайский край
@@ -39,20 +48,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '2207'
-      tom: '7'
-      pageintom: '237'
-      alistid: '281'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-237.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '237'
     page_image: v07/17-171-415-237.jpg
     persons:
     - id: '28641'
@@ -153,20 +149,7 @@ sublists:
       num: '24'
       name: КОМАРИЧЕВ Сергей Петрович
       spravka: true
-  - page:
-      pageid: '2208'
-      tom: '7'
-      pageintom: '238'
-      alistid: '281'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-238.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '238'
     page_image: v07/17-171-415-238.jpg
     persons:
     - id: '28665'
@@ -284,20 +267,7 @@ sublists:
       num: '53'
       name: ПШЕГОРЛИНСКИЙ Виктор Владимирович
       spravka: true
-  - page:
-      pageid: '2209'
-      tom: '7'
-      pageintom: '239'
-      alistid: '281'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-415-239.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '239'
     page_image: v07/17-171-415-239.jpg
     persons:
     - id: '28694'
@@ -403,20 +373,7 @@ sublists:
       num: '79'
       name: ЮФЕРОВ Андрей Петрович
       spravka: true
-  - page:
-      pageid: '2210'
-      tom: '7'
-      pageintom: '240'
-      alistid: '281'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-240.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '240'
     page_image: v07/17-171-415-240.jpg
     persons:
     - id: '28720'
@@ -426,20 +383,7 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ</u><br />(иностранные подданные)</p><p
         align="right"><u>1-я категория.</u>
-  - page:
-      pageid: '2213'
-      tom: '7'
-      pageintom: '243'
-      alistid: '281'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-243.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '243'
     page_image: v07/17-171-415-243.jpg
     persons:
     - id: '28721'

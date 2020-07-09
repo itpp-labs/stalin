@@ -14,12 +14,18 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-087.jpg
-- image: v07/17-171-415-088.jpg
-- image: v07/17-171-415-089.jpg
-- image: v07/17-171-415-090.jpg
-- image: v07/17-171-415-091.jpg
-- image: v07/17-171-415-092.jpg
+- pageintom: '87'
+  image: v07/17-171-415-087.jpg
+- pageintom: '88'
+  image: v07/17-171-415-088.jpg
+- pageintom: '89'
+  image: v07/17-171-415-089.jpg
+- pageintom: '90'
+  image: v07/17-171-415-090.jpg
+- pageintom: '91'
+  image: v07/17-171-415-091.jpg
+- pageintom: '92'
+  image: v07/17-171-415-092.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Горький.Горьковская ж.д.]
   listtitle: Список лиц - г.Горький.Горьковская ж.д.
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2059'
-      tom: '7'
-      pageintom: '89'
-      alistid: '262'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-415-089.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '89'
     page_image: v07/17-171-415-089.jpg
     persons:
     - id: '26674'
@@ -144,20 +137,7 @@ sublists:
       num: '23'
       name: ИВАНОВ Федор Николаевич
       spravka: true
-  - page:
-      pageid: '2060'
-      tom: '7'
-      pageintom: '90'
-      alistid: '262'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-415-090.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '90'
     page_image: v07/17-171-415-090.jpg
     persons:
     - id: '26697'
@@ -266,20 +246,7 @@ sublists:
       num: '50'
       name: САВЕНКОВ Андрей Павлович
       spravka: true
-  - page:
-      pageid: '2061'
-      tom: '7'
-      pageintom: '91'
-      alistid: '262'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-091.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '91'
     page_image: v07/17-171-415-091.jpg
     persons:
     - id: '26724'
@@ -375,20 +342,7 @@ sublists:
       num: '74'
       name: ЩЕРБИНИН Григорий Иванович
       spravka: true
-  - page:
-      pageid: '2062'
-      tom: '7'
-      pageintom: '92'
-      alistid: '262'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-092.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '92'
     page_image: v07/17-171-415-092.jpg
     persons:
     - id: '26748'

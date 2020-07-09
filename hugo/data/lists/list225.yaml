@@ -12,14 +12,22 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v03/17-171-411-057.jpg
-- image: v03/17-171-411-058.jpg
-- image: v03/17-171-411-059.jpg
-- image: v03/17-171-411-060.jpg
-- image: v03/17-171-411-061.jpg
-- image: v03/17-171-411-062.jpg
-- image: v03/17-171-411-063.jpg
-- image: v03/17-171-411-064.jpg
+- pageintom: '57'
+  image: v03/17-171-411-057.jpg
+- pageintom: '58'
+  image: v03/17-171-411-058.jpg
+- pageintom: '59'
+  image: v03/17-171-411-059.jpg
+- pageintom: '60'
+  image: v03/17-171-411-060.jpg
+- pageintom: '61'
+  image: v03/17-171-411-061.jpg
+- pageintom: '62'
+  image: v03/17-171-411-062.jpg
+- pageintom: '63'
+  image: v03/17-171-411-063.jpg
+- pageintom: '64'
+  image: v03/17-171-411-064.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Челябинская область]
   listtitle: 'Список лиц: Челябинская область'
@@ -35,20 +43,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '651'
-      tom: '3'
-      pageintom: '59'
-      alistid: '225'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-411-059.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '59'
     page_image: v03/17-171-411-059.jpg
     persons:
     - id: '8253'
@@ -141,20 +136,7 @@ sublists:
       num: '24'
       name: ШИЛОВ Григорий Андреевич
       spravka: true
-  - page:
-      pageid: '652'
-      tom: '3'
-      pageintom: '60'
-      alistid: '225'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-060.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '60'
     page_image: v03/17-171-411-060.jpg
     persons:
     - id: '8277'
@@ -163,20 +145,7 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>ЧЕЛЯБИНСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
-  - page:
-      pageid: '654'
-      tom: '3'
-      pageintom: '62'
-      alistid: '225'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-411-062.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '62'
     page_image: v03/17-171-411-062.jpg
     persons:
     - id: '8278'
@@ -206,20 +175,7 @@ sublists:
     - id: '8284'
       num: '7'
       name: ХУТОРСКОЙ Дмитрий Петрович
-  - page:
-      pageid: '655'
-      tom: '3'
-      pageintom: '63'
-      alistid: '225'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-063.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '63'
     page_image: v03/17-171-411-063.jpg
     persons:
     - id: '8285'

@@ -13,24 +13,42 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-012.jpg
-- image: v05/17-171-413-013.jpg
-- image: v05/17-171-413-014.jpg
-- image: v05/17-171-413-015.jpg
-- image: v05/17-171-413-016.jpg
-- image: v05/17-171-413-017.jpg
-- image: v05/17-171-413-018.jpg
-- image: v05/17-171-413-019.jpg
-- image: v05/17-171-413-020.jpg
-- image: v05/17-171-413-021.jpg
-- image: v05/17-171-413-022.jpg
-- image: v05/17-171-413-023.jpg
-- image: v05/17-171-413-024.jpg
-- image: v05/17-171-413-025.jpg
-- image: v05/17-171-413-026.jpg
-- image: v05/17-171-413-027.jpg
-- image: v05/17-171-413-028.jpg
-- image: v05/17-171-413-029.jpg
+- pageintom: '12'
+  image: v05/17-171-413-012.jpg
+- pageintom: '13'
+  image: v05/17-171-413-013.jpg
+- pageintom: '14'
+  image: v05/17-171-413-014.jpg
+- pageintom: '15'
+  image: v05/17-171-413-015.jpg
+- pageintom: '16'
+  image: v05/17-171-413-016.jpg
+- pageintom: '17'
+  image: v05/17-171-413-017.jpg
+- pageintom: '18'
+  image: v05/17-171-413-018.jpg
+- pageintom: '19'
+  image: v05/17-171-413-019.jpg
+- pageintom: '20'
+  image: v05/17-171-413-020.jpg
+- pageintom: '21'
+  image: v05/17-171-413-021.jpg
+- pageintom: '22'
+  image: v05/17-171-413-022.jpg
+- pageintom: '23'
+  image: v05/17-171-413-023.jpg
+- pageintom: '24'
+  image: v05/17-171-413-024.jpg
+- pageintom: '25'
+  image: v05/17-171-413-025.jpg
+- pageintom: '26'
+  image: v05/17-171-413-026.jpg
+- pageintom: '27'
+  image: v05/17-171-413-027.jpg
+- pageintom: '28'
+  image: v05/17-171-413-028.jpg
+- pageintom: '29'
+  image: v05/17-171-413-029.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -45,20 +63,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1138'
-      tom: '5'
-      pageintom: '14'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-413-014.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '14'
     page_image: v05/17-171-413-014.jpg
     persons:
     - id: '14095'
@@ -163,20 +168,7 @@ sublists:
       num: '25'
       name: АРХАНГЕЛЬСКИЙ Николай Павлович
       spravka: true
-  - page:
-      pageid: '1139'
-      tom: '5'
-      pageintom: '15'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-015.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '15'
     page_image: v05/17-171-413-015.jpg
     persons:
     - id: '14120'
@@ -288,20 +280,7 @@ sublists:
       num: '52'
       name: БОРИСОВ Василий Захарьевич
       spravka: true
-  - page:
-      pageid: '1140'
-      tom: '5'
-      pageintom: '16'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-016.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '16'
     page_image: v05/17-171-413-016.jpg
     persons:
     - id: '14147'
@@ -414,20 +393,7 @@ sublists:
       num: '79'
       name: ГВЕЛЕСИАНИ Андрей Георгиевич
       spravka: true
-  - page:
-      pageid: '1141'
-      tom: '5'
-      pageintom: '17'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-017.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '17'
     page_image: v05/17-171-413-017.jpg
     persons:
     - id: '14174'
@@ -549,20 +515,7 @@ sublists:
       num: '108'
       name: ГУГУШВИЛИ Николай Александрович
       spravka: true
-  - page:
-      pageid: '1142'
-      tom: '5'
-      pageintom: '18'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-413-018.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '18'
     page_image: v05/17-171-413-018.jpg
     persons:
     - id: '14203'
@@ -670,20 +623,7 @@ sublists:
       num: '134'
       name: ДЖИНОРИДЗЕ Шалва Мелитонович
       spravka: true
-  - page:
-      pageid: '1143'
-      tom: '5'
-      pageintom: '19'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-019.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '19'
     page_image: v05/17-171-413-019.jpg
     persons:
     - id: '14229'
@@ -795,20 +735,7 @@ sublists:
       num: '161'
       name: ИВАНЯН Арам Исакович
       spravka: true
-  - page:
-      pageid: '1144'
-      tom: '5'
-      pageintom: '20'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-020.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '20'
     page_image: v05/17-171-413-020.jpg
     persons:
     - id: '14256'
@@ -918,20 +845,7 @@ sublists:
       num: '188'
       name: КАСУМОВ Али Абдул Баги Оглы
       spravka: true
-  - page:
-      pageid: '1145'
-      tom: '5'
-      pageintom: '21'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-021.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '21'
     page_image: v05/17-171-413-021.jpg
     persons:
     - id: '14283'
@@ -1051,20 +965,7 @@ sublists:
       num: '217'
       name: ЛАЗАРЕВ Игорь Владимирович
       spravka: true
-  - page:
-      pageid: '1146'
-      tom: '5'
-      pageintom: '22'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-022.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '22'
     page_image: v05/17-171-413-022.jpg
     persons:
     - id: '21490'
@@ -1184,20 +1085,7 @@ sublists:
       num: '246'
       name: МЕЙСЕР Николай Андреевич
       spravka: true
-  - page:
-      pageid: '1147'
-      tom: '5'
-      pageintom: '23'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-023.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '23'
     page_image: v05/17-171-413-023.jpg
     persons:
     - id: '14341'
@@ -1316,20 +1204,7 @@ sublists:
       num: '275'
       name: НИЖАРАДЗЕ Анаподист Асланович
       spravka: true
-  - page:
-      pageid: '1148'
-      tom: '5'
-      pageintom: '24'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-024.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '24'
     page_image: v05/17-171-413-024.jpg
     persons:
     - id: '14370'
@@ -1448,20 +1323,7 @@ sublists:
       num: '304'
       name: ПОТКОВ Владимир Абрамович
       spravka: true
-  - page:
-      pageid: '1149'
-      tom: '5'
-      pageintom: '25'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-025.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '25'
     page_image: v05/17-171-413-025.jpg
     persons:
     - id: '14399'
@@ -1576,20 +1438,7 @@ sublists:
       num: '332'
       name: СОСЕЛИЯ Мелитон Михайлович
       spravka: true
-  - page:
-      pageid: '1150'
-      tom: '5'
-      pageintom: '26'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-026.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '26'
     page_image: v05/17-171-413-026.jpg
     persons:
     - id: '14427'
@@ -1709,20 +1558,7 @@ sublists:
       num: '361'
       name: ФОРЕР Христофор Христофорович
       spravka: true
-  - page:
-      pageid: '1151'
-      tom: '5'
-      pageintom: '27'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-027.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '27'
     page_image: v05/17-171-413-027.jpg
     persons:
     - id: '14456'
@@ -1838,20 +1674,7 @@ sublists:
       num: '389'
       name: ЦХОВРЕБАШВИЛИ Александр Андреевич
       spravka: true
-  - page:
-      pageid: '1152'
-      tom: '5'
-      pageintom: '28'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-028.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '28'
     page_image: v05/17-171-413-028.jpg
     persons:
     - id: '14484'
@@ -1971,20 +1794,7 @@ sublists:
       num: '418'
       name: ЧХИКВИШВИЛИ Петр Моисеевич
       spravka: true
-  - page:
-      pageid: '1153'
-      tom: '5'
-      pageintom: '29'
-      alistid: '111'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-029.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v05/17-171-413-029.jpg
     persons:
     - id: '14513'

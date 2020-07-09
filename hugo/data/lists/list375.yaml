@@ -14,14 +14,22 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-325.jpg
-- image: v06/17-171-414-326.jpg
-- image: v06/17-171-414-327.jpg
-- image: v06/17-171-414-328.jpg
-- image: v06/17-171-414-329.jpg
-- image: v06/17-171-414-330.jpg
-- image: v06/17-171-414-331.jpg
-- image: v06/17-171-414-332.jpg
+- pageintom: '325'
+  image: v06/17-171-414-325.jpg
+- pageintom: '326'
+  image: v06/17-171-414-326.jpg
+- pageintom: '327'
+  image: v06/17-171-414-327.jpg
+- pageintom: '328'
+  image: v06/17-171-414-328.jpg
+- pageintom: '329'
+  image: v06/17-171-414-329.jpg
+- pageintom: '330'
+  image: v06/17-171-414-330.jpg
+- pageintom: '331'
+  image: v06/17-171-414-331.jpg
+- pageintom: '332'
+  image: v06/17-171-414-332.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область
@@ -36,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1832'
-      tom: '6'
-      pageintom: '327'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-327.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '327'
     page_image: v06/17-171-414-327.jpg
     persons:
     - id: '23302'
@@ -142,20 +137,7 @@ sublists:
       num: '22'
       name: ГИЛЬЯШОВ Николай Аркадьевич
       spravka: true
-  - page:
-      pageid: '1833'
-      tom: '6'
-      pageintom: '328'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-328.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '328'
     page_image: v06/17-171-414-328.jpg
     persons:
     - id: '23324'
@@ -274,20 +256,7 @@ sublists:
       num: '51'
       name: МАЗУРОВСКИЙ Зиновий Львович
       spravka: true
-  - page:
-      pageid: '1834'
-      tom: '6'
-      pageintom: '329'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-329.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '329'
     page_image: v06/17-171-414-329.jpg
     persons:
     - id: '23353'
@@ -404,20 +373,7 @@ sublists:
       num: '80'
       name: РУДНЕВ Василий Васильевич
       spravka: true
-  - page:
-      pageid: '1835'
-      tom: '6'
-      pageintom: '330'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-330.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '330'
     page_image: v06/17-171-414-330.jpg
     persons:
     - id: '23382'
@@ -534,20 +490,7 @@ sublists:
       num: '109'
       name: ЧЕКУЛАЕВ Михаил Васильевич
       spravka: true
-  - page:
-      pageid: '1836'
-      tom: '6'
-      pageintom: '331'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-414-331.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '331'
     page_image: v06/17-171-414-331.jpg
     persons:
     - id: '23411'
@@ -585,20 +528,7 @@ sublists:
       num: '118'
       name: ЯРЫГИН Александр Ефимович
       spravka: true
-  - page:
-      pageid: '1837'
-      tom: '6'
-      pageintom: '332'
-      alistid: '375'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-414-332.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '332'
     page_image: v06/17-171-414-332.jpg
     persons:
     - id: '23420'

@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-142.jpg
-- image: v06/17-171-414-143.jpg
-- image: v06/17-171-414-144.jpg
-- image: v06/17-171-414-145.jpg
-- image: v06/17-171-414-146.jpg
-- image: v06/17-171-414-147.jpg
+- pageintom: '142'
+  image: v06/17-171-414-142.jpg
+- pageintom: '143'
+  image: v06/17-171-414-143.jpg
+- pageintom: '144'
+  image: v06/17-171-414-144.jpg
+- pageintom: '145'
+  image: v06/17-171-414-145.jpg
+- pageintom: '146'
+  image: v06/17-171-414-146.jpg
+- pageintom: '147'
+  image: v06/17-171-414-147.jpg
 sublists:
 - title: Список от 3 января 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская,Новосибирская области
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1649'
-      tom: '6'
-      pageintom: '144'
-      alistid: '350'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-414-144.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '144'
     page_image: v06/17-171-414-144.jpg
     persons:
     - id: '21195'
@@ -111,20 +104,7 @@ sublists:
       num: '15'
       name: ЧЕРЕПАНОВ Александр Андреевич
       spravka: true
-  - page:
-      pageid: '1650'
-      tom: '6'
-      pageintom: '145'
-      alistid: '350'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-414-145.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '145'
     page_image: v06/17-171-414-145.jpg
     persons:
     - id: '21210'
@@ -150,20 +130,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1651'
-      tom: '6'
-      pageintom: '146'
-      alistid: '350'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-414-146.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '146'
     page_image: v06/17-171-414-146.jpg
     persons:
     - id: '21212'
@@ -256,20 +223,7 @@ sublists:
     - id: '21235'
       num: '24'
       name: ЯРСС Ильмар Иванович
-  - page:
-      pageid: '1652'
-      tom: '6'
-      pageintom: '147'
-      alistid: '350'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-147.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v06/17-171-414-147.jpg
     persons:
     - id: '21236'

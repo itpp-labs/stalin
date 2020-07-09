@@ -14,14 +14,22 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-297.jpg
-- image: v06/17-171-414-298.jpg
-- image: v06/17-171-414-299.jpg
-- image: v06/17-171-414-300.jpg
-- image: v06/17-171-414-301.jpg
-- image: v06/17-171-414-302.jpg
-- image: v06/17-171-414-303.jpg
-- image: v06/17-171-414-304.jpg
+- pageintom: '297'
+  image: v06/17-171-414-297.jpg
+- pageintom: '298'
+  image: v06/17-171-414-298.jpg
+- pageintom: '299'
+  image: v06/17-171-414-299.jpg
+- pageintom: '300'
+  image: v06/17-171-414-300.jpg
+- pageintom: '301'
+  image: v06/17-171-414-301.jpg
+- pageintom: '302'
+  image: v06/17-171-414-302.jpg
+- pageintom: '303'
+  image: v06/17-171-414-303.jpg
+- pageintom: '304'
+  image: v06/17-171-414-304.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -36,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1804'
-      tom: '6'
-      pageintom: '299'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-299.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '299'
     page_image: v06/17-171-414-299.jpg
     persons:
     - id: '23045'
@@ -142,20 +137,7 @@ sublists:
       num: '22'
       name: БУЛЛЕ Мильда Оттовна
       spravka: true
-  - page:
-      pageid: '1805'
-      tom: '6'
-      pageintom: '300'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-300.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '300'
     page_image: v06/17-171-414-300.jpg
     persons:
     - id: '23067'
@@ -274,20 +256,7 @@ sublists:
       num: '51'
       name: ЗУБАРЕВ Михаил Гаврилович
       spravka: true
-  - page:
-      pageid: '1806'
-      tom: '6'
-      pageintom: '301'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-301.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '301'
     page_image: v06/17-171-414-301.jpg
     persons:
     - id: '23096'
@@ -405,20 +374,7 @@ sublists:
       num: '80'
       name: МУЛАШЕВ Амир Минниярович
       spravka: true
-  - page:
-      pageid: '1807'
-      tom: '6'
-      pageintom: '302'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-302.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '302'
     page_image: v06/17-171-414-302.jpg
     persons:
     - id: '23125'
@@ -533,20 +489,7 @@ sublists:
       num: '109'
       name: ФАЗЛЕТДИНОВ Муса Бадретдинович
       spravka: true
-  - page:
-      pageid: '1808'
-      tom: '6'
-      pageintom: '303'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-414-303.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '303'
     page_image: v06/17-171-414-303.jpg
     persons:
     - id: '23154'
@@ -651,20 +594,7 @@ sublists:
       num: '135'
       name: ЯКУПОВ Саидельхужа Юмагужинович
       spravka: true
-  - page:
-      pageid: '1809'
-      tom: '6'
-      pageintom: '304'
-      alistid: '370'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-414-304.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '304'
     page_image: v06/17-171-414-304.jpg
     persons:
     - id: '23180'

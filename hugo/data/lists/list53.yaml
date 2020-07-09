@@ -15,11 +15,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-144.jpg
-- image: v02/17-171-410-145.jpg
-- image: v02/17-171-410-146.jpg
-- image: v02/17-171-410-147.jpg
-- image: v02/17-171-410-148.jpg
+- pageintom: '144'
+  image: v02/17-171-410-144.jpg
+- pageintom: '145'
+  image: v02/17-171-410-145.jpg
+- pageintom: '146'
+  image: v02/17-171-410-146.jpg
+- pageintom: '147'
+  image: v02/17-171-410-147.jpg
+- pageintom: '148'
+  image: v02/17-171-410-148.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -34,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '382'
-      tom: '2'
-      pageintom: '146'
-      alistid: '53'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-410-146.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '146'
     page_image: v02/17-171-410-146.jpg
     persons:
     - id: '4811'
@@ -152,20 +144,7 @@ sublists:
       num: '25'
       name: РЕЙНТАЛЬ Леонид Александрович
       spravka: true
-  - page:
-      pageid: '383'
-      tom: '2'
-      pageintom: '147'
-      alistid: '53'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-410-147.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v02/17-171-410-147.jpg
     persons:
     - id: '4836'
@@ -204,20 +183,7 @@ sublists:
       num: '34'
       name: ЩЕГЛОВ Федор Михайлович
       spravka: true
-  - page:
-      pageid: '384'
-      tom: '2'
-      pageintom: '148'
-      alistid: '53'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-410-148.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '148'
     page_image: v02/17-171-410-148.jpg
     persons:
     - id: '4845'

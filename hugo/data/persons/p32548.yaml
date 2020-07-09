@@ -117,8 +117,9 @@ gb_spravka:
     </body></html>
 
     '
-  pictures:
-  - disk/pictures/v06/17-171-414-277.jpg
+  pages:
+  - image: disk/pictures/v06/17-171-414-277.jpg
+    pageintom: '277'
 - list_id: '324'
   html: '<HTML>
 
@@ -197,5 +198,6 @@ gb_spravka:
     </body></html>
 
     '
-  pictures:
-  - disk/pictures/v08/17-171-416-278.jpg
+  pages:
+  - image: disk/pictures/v08/17-171-416-278.jpg
+    pageintom: '278'

@@ -13,14 +13,22 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-193.jpg
-- image: v10/17-171-418-194.jpg
-- image: v10/17-171-418-195.jpg
-- image: v10/17-171-418-196.jpg
-- image: v10/17-171-418-197.jpg
-- image: v10/17-171-418-198.jpg
-- image: v10/17-171-418-199.jpg
-- image: v10/17-171-418-200.jpg
+- pageintom: '193'
+  image: v10/17-171-418-193.jpg
+- pageintom: '194'
+  image: v10/17-171-418-194.jpg
+- pageintom: '195'
+  image: v10/17-171-418-195.jpg
+- pageintom: '196'
+  image: v10/17-171-418-196.jpg
+- pageintom: '197'
+  image: v10/17-171-418-197.jpg
+- pageintom: '198'
+  image: v10/17-171-418-198.jpg
+- pageintom: '199'
+  image: v10/17-171-418-199.jpg
+- pageintom: '200'
+  image: v10/17-171-418-200.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ростовская область]
   listtitle: Список лиц - Ростовская область
@@ -35,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3050'
-      tom: '10'
-      pageintom: '195'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-195.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '195'
     page_image: v10/17-171-418-195.jpg
     persons:
     - id: '39887'
@@ -120,20 +115,7 @@ sublists:
     - id: '39906'
       num: '20'
       name: ГРИБАНОВ Василий Никифорович
-  - page:
-      pageid: '3051'
-      tom: '10'
-      pageintom: '196'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-418-196.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '196'
     page_image: v10/17-171-418-196.jpg
     persons:
     - id: '39907'
@@ -219,20 +201,7 @@ sublists:
     - id: '39932'
       num: '46'
       name: ЛЬВОВ Александр Сергеевич
-  - page:
-      pageid: '3052'
-      tom: '10'
-      pageintom: '197'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-418-197.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '197'
     page_image: v10/17-171-418-197.jpg
     persons:
     - id: '39933'
@@ -314,20 +283,7 @@ sublists:
     - id: '39957'
       num: '71'
       name: РОЖКОВ Алексей Николаевич
-  - page:
-      pageid: '3053'
-      tom: '10'
-      pageintom: '198'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-198.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '198'
     page_image: v10/17-171-418-198.jpg
     persons:
     - id: '39958'
@@ -400,20 +356,7 @@ sublists:
     - id: '39978'
       num: '92'
       name: ЯЦЕНКО Кирилл Михайлович
-  - page:
-      pageid: '3054'
-      tom: '10'
-      pageintom: '199'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-199.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '199'
     page_image: v10/17-171-418-199.jpg
     persons:
     - id: '39979'
@@ -480,20 +423,7 @@ sublists:
     - id: '39998'
       num: '20'
       name: ЧУМАКОВ Владимир Семенович
-  - page:
-      pageid: '3055'
-      tom: '10'
-      pageintom: '200'
-      alistid: '207'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-418-200.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '200'
     page_image: v10/17-171-418-200.jpg
     persons:
     - id: '39999'

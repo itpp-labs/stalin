@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-209.jpg
-- image: v06/17-171-414-210.jpg
-- image: v06/17-171-414-211.jpg
-- image: v06/17-171-414-212.jpg
-- image: v06/17-171-414-213.jpg
-- image: v06/17-171-414-214.jpg
-- image: v06/17-171-414-215.jpg
+- pageintom: '209'
+  image: v06/17-171-414-209.jpg
+- pageintom: '210'
+  image: v06/17-171-414-210.jpg
+- pageintom: '211'
+  image: v06/17-171-414-211.jpg
+- pageintom: '212'
+  image: v06/17-171-414-212.jpg
+- pageintom: '213'
+  image: v06/17-171-414-213.jpg
+- pageintom: '214'
+  image: v06/17-171-414-214.jpg
+- pageintom: '215'
+  image: v06/17-171-414-215.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '1716'
-      tom: '6'
-      pageintom: '211'
-      alistid: '357'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-211.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '211'
     page_image: v06/17-171-414-211.jpg
     persons:
     - id: '22198'
@@ -140,20 +134,7 @@ sublists:
     - id: '22219'
       num: '22'
       name: ВОИНОВА Енапа Андреевна
-  - page:
-      pageid: '1717'
-      tom: '6'
-      pageintom: '212'
-      alistid: '357'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-212.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '212'
     page_image: v06/17-171-414-212.jpg
     persons:
     - id: '22220'
@@ -271,20 +252,7 @@ sublists:
       num: '51'
       name: КАЦЕНТ Иосиф Соломонович
       spravka: true
-  - page:
-      pageid: '1718'
-      tom: '6'
-      pageintom: '213'
-      alistid: '357'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-213.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '213'
     page_image: v06/17-171-414-213.jpg
     persons:
     - id: '22249'
@@ -391,20 +359,7 @@ sublists:
       num: '78'
       name: МУН Прохор Михайлович
       spravka: true
-  - page:
-      pageid: '1719'
-      tom: '6'
-      pageintom: '214'
-      alistid: '357'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-214.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '214'
     page_image: v06/17-171-414-214.jpg
     persons:
     - id: '22276'
@@ -515,20 +470,7 @@ sublists:
     - id: '22302'
       num: '105'
       name: ТАФРАЛОВ Николай Константинович
-  - page:
-      pageid: '1720'
-      tom: '6'
-      pageintom: '215'
-      alistid: '357'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-215.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '215'
     page_image: v06/17-171-414-215.jpg
     persons:
     - id: '22303'

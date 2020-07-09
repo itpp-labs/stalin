@@ -22,7 +22,7 @@ fond7:
   - предписание на расстрел 22.07.1941, акта нет
   - 'Дата расстрела: 22.07.1941'
 lists:
-- title: Список от  [] - РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
+- title: РГАСПИ, ф.17, т.13, оп.171, дело 421, лист 1
   url: /lists/list413#page-21-num-318
   date: '1940-09-06'
   signs: {}
@@ -83,6 +83,7 @@ gb_spravka:
     </TD> </TR> </TABLE> </body></html>
 
     '
-  pictures:
-  - disk/pictures/v13/17-171-421-342.jpg
+  pages:
+  - image: disk/pictures/v13/17-171-421-342.jpg
+    pageintom: '342'
 primname: р.1906

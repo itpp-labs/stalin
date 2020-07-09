@@ -13,24 +13,42 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-080.jpg
-- image: v05/17-171-413-081.jpg
-- image: v05/17-171-413-082.jpg
-- image: v05/17-171-413-083.jpg
-- image: v05/17-171-413-084.jpg
-- image: v05/17-171-413-085.jpg
-- image: v05/17-171-413-086.jpg
-- image: v05/17-171-413-087.jpg
-- image: v05/17-171-413-088.jpg
-- image: v05/17-171-413-089.jpg
-- image: v05/17-171-413-090.jpg
-- image: v05/17-171-413-091.jpg
-- image: v05/17-171-413-092.jpg
-- image: v05/17-171-413-093.jpg
-- image: v05/17-171-413-094.jpg
-- image: v05/17-171-413-095.jpg
-- image: v05/17-171-413-096.jpg
-- image: v05/17-171-413-097.jpg
+- pageintom: '80'
+  image: v05/17-171-413-080.jpg
+- pageintom: '81'
+  image: v05/17-171-413-081.jpg
+- pageintom: '82'
+  image: v05/17-171-413-082.jpg
+- pageintom: '83'
+  image: v05/17-171-413-083.jpg
+- pageintom: '84'
+  image: v05/17-171-413-084.jpg
+- pageintom: '85'
+  image: v05/17-171-413-085.jpg
+- pageintom: '86'
+  image: v05/17-171-413-086.jpg
+- pageintom: '87'
+  image: v05/17-171-413-087.jpg
+- pageintom: '88'
+  image: v05/17-171-413-088.jpg
+- pageintom: '89'
+  image: v05/17-171-413-089.jpg
+- pageintom: '90'
+  image: v05/17-171-413-090.jpg
+- pageintom: '91'
+  image: v05/17-171-413-091.jpg
+- pageintom: '92'
+  image: v05/17-171-413-092.jpg
+- pageintom: '93'
+  image: v05/17-171-413-093.jpg
+- pageintom: '94'
+  image: v05/17-171-413-094.jpg
+- pageintom: '95'
+  image: v05/17-171-413-095.jpg
+- pageintom: '96'
+  image: v05/17-171-413-096.jpg
+- pageintom: '97'
+  image: v05/17-171-413-097.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
@@ -61,20 +79,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '1206'
-      tom: '5'
-      pageintom: '82'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-413-082.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '82'
     page_image: v05/17-171-413-082.jpg
     persons:
     - id: '15051'
@@ -137,20 +142,7 @@ sublists:
     - id: '15067'
       num: '17'
       name: КОЗИЦКИЙ Иван Игнатьевич
-  - page:
-      pageid: '1207'
-      tom: '5'
-      pageintom: '83'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-083.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '83'
     page_image: v05/17-171-413-083.jpg
     persons:
     - id: '15068'
@@ -258,20 +250,7 @@ sublists:
       num: '45'
       name: КОРОТАЕВ Михаил Тихонович
       spravka: true
-  - page:
-      pageid: '1208'
-      tom: '5'
-      pageintom: '84'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-084.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '84'
     page_image: v05/17-171-413-084.jpg
     persons:
     - id: '15096'
@@ -386,20 +365,7 @@ sublists:
       num: '74'
       name: РЫЛЬЦЕВ Георгий Никитич
       spravka: true
-  - page:
-      pageid: '1209'
-      tom: '5'
-      pageintom: '85'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-085.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '85'
     page_image: v05/17-171-413-085.jpg
     persons:
     - id: '15125'
@@ -501,20 +467,7 @@ sublists:
       num: '101'
       name: ГУЛЯЕВ Иван Гаврилович
       spravka: true
-  - page:
-      pageid: '1210'
-      tom: '5'
-      pageintom: '86'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-413-086.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '86'
     page_image: v05/17-171-413-086.jpg
     persons:
     - id: '15152'
@@ -638,20 +591,7 @@ sublists:
       num: '131'
       name: ХОВАНСКИЙ Сергей Львович
       spravka: true
-  - page:
-      pageid: '1211'
-      tom: '5'
-      pageintom: '87'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-413-087.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '87'
     page_image: v05/17-171-413-087.jpg
     persons:
     - id: '15182'
@@ -725,20 +665,7 @@ sublists:
     - id: '15201'
       num: '151'
       name: ШУБИН Федор Иринеевич
-  - page:
-      pageid: '1212'
-      tom: '5'
-      pageintom: '88'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-088.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '88'
     page_image: v05/17-171-413-088.jpg
     persons:
     - id: '15202'
@@ -747,20 +674,7 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР (иноподданные)  </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u></p><p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ.</u>
-  - page:
-      pageid: '1215'
-      tom: '5'
-      pageintom: '91'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-413-091.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '91'
     page_image: v05/17-171-413-091.jpg
     persons:
     - id: '15203'
@@ -817,20 +731,7 @@ sublists:
       num: '13'
       name: БУРОВ Михаил Захарович
       spravka: true
-  - page:
-      pageid: '1216'
-      tom: '5'
-      pageintom: '92'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-413-092.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '92'
     page_image: v05/17-171-413-092.jpg
     persons:
     - id: '15216'
@@ -917,20 +818,7 @@ sublists:
       num: '35'
       name: ЧИРВА Вера Емельяновна
       subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ</u>
-  - page:
-      pageid: '1217'
-      tom: '5'
-      pageintom: '93'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-413-093.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '93'
     page_image: v05/17-171-413-093.jpg
     persons:
     - id: '15238'
@@ -950,20 +838,7 @@ sublists:
     - id: '15242'
       num: '40'
       name: ЯЛИН Александр Федорович
-  - page:
-      pageid: '1218'
-      tom: '5'
-      pageintom: '94'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-094.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '94'
     page_image: v05/17-171-413-094.jpg
     persons:
     - id: '15243'
@@ -985,20 +860,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1220'
-      tom: '5'
-      pageintom: '96'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-413-096.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '96'
     page_image: v05/17-171-413-096.jpg
     persons:
     - id: '15244'
@@ -1043,20 +905,7 @@ sublists:
       num: '10'
       name: СВИДЗИНСКИЙ Казимир Иванович
       spravka: true
-  - page:
-      pageid: '1221'
-      tom: '5'
-      pageintom: '97'
-      alistid: '119'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-413-097.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '97'
     page_image: v05/17-171-413-097.jpg
     persons:
     - id: '15254'

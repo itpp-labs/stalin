@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-327.jpg
-- image: v05/17-171-413-328.jpg
-- image: v05/17-171-413-329.jpg
-- image: v05/17-171-413-330.jpg
-- image: v05/17-171-413-331.jpg
-- image: v05/17-171-413-332.jpg
-- image: v05/17-171-413-333.jpg
+- pageintom: '327'
+  image: v05/17-171-413-327.jpg
+- pageintom: '328'
+  image: v05/17-171-413-328.jpg
+- pageintom: '329'
+  image: v05/17-171-413-329.jpg
+- pageintom: '330'
+  image: v05/17-171-413-330.jpg
+- pageintom: '331'
+  image: v05/17-171-413-331.jpg
+- pageintom: '332'
+  image: v05/17-171-413-332.jpg
+- pageintom: '333'
+  image: v05/17-171-413-333.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1453'
-      tom: '5'
-      pageintom: '329'
-      alistid: '146'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-413-329.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '329'
     page_image: v05/17-171-413-329.jpg
     persons:
     - id: '18660'
@@ -94,20 +88,7 @@ sublists:
       num: '10'
       name: ШТЕССЕЛЬ Иван Францевич
       spravka: true
-  - page:
-      pageid: '1454'
-      tom: '5'
-      pageintom: '330'
-      alistid: '146'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-330.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '330'
     page_image: v05/17-171-413-330.jpg
     persons:
     - id: '18670'
@@ -157,20 +138,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1455'
-      tom: '5'
-      pageintom: '331'
-      alistid: '146'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-413-331.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '331'
     page_image: v05/17-171-413-331.jpg
     persons:
     - id: '18678'
@@ -222,20 +190,7 @@ sublists:
     - id: '18690'
       num: '13'
       name: ЦАТХАЛАНГОВ Анир Цатхалангович
-  - page:
-      pageid: '1456'
-      tom: '5'
-      pageintom: '332'
-      alistid: '146'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-332.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '332'
     page_image: v05/17-171-413-332.jpg
     persons:
     - id: '18691'
@@ -263,20 +218,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1457'
-      tom: '5'
-      pageintom: '333'
-      alistid: '146'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-333.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '333'
     page_image: v05/17-171-413-333.jpg
     persons:
     - id: '18694'

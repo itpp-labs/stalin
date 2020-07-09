@@ -15,25 +15,44 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-001.jpg
-- image: v06/17-171-414-002.jpg
-- image: v06/17-171-414-003.jpg
-- image: v06/17-171-414-004.jpg
-- image: v06/17-171-414-005.jpg
-- image: v06/17-171-414-006.jpg
-- image: v06/17-171-414-007.jpg
-- image: v06/17-171-414-008.jpg
-- image: v06/17-171-414-009.jpg
-- image: v06/17-171-414-010.jpg
-- image: v06/17-171-414-011.jpg
-- image: v06/17-171-414-012.jpg
-- image: v06/17-171-414-013.jpg
-- image: v06/17-171-414-014.jpg
-- image: v06/17-171-414-015.jpg
-- image: v06/17-171-414-016.jpg
-- image: v06/17-171-414-017.jpg
-- image: v06/17-171-414-018.jpg
-- image: v06/17-171-414-019.jpg
+- pageintom: '1'
+  image: v06/17-171-414-001.jpg
+- pageintom: '2'
+  image: v06/17-171-414-002.jpg
+- pageintom: '3'
+  image: v06/17-171-414-003.jpg
+- pageintom: '4'
+  image: v06/17-171-414-004.jpg
+- pageintom: '5'
+  image: v06/17-171-414-005.jpg
+- pageintom: '6'
+  image: v06/17-171-414-006.jpg
+- pageintom: '7'
+  image: v06/17-171-414-007.jpg
+- pageintom: '8'
+  image: v06/17-171-414-008.jpg
+- pageintom: '9'
+  image: v06/17-171-414-009.jpg
+- pageintom: '10'
+  image: v06/17-171-414-010.jpg
+- pageintom: '11'
+  image: v06/17-171-414-011.jpg
+- pageintom: '12'
+  image: v06/17-171-414-012.jpg
+- pageintom: '13'
+  image: v06/17-171-414-013.jpg
+- pageintom: '14'
+  image: v06/17-171-414-014.jpg
+- pageintom: '15'
+  image: v06/17-171-414-015.jpg
+- pageintom: '16'
+  image: v06/17-171-414-016.jpg
+- pageintom: '17'
+  image: v06/17-171-414-017.jpg
+- pageintom: '18'
+  image: v06/17-171-414-018.jpg
+- pageintom: '19'
+  image: v06/17-171-414-019.jpg
 sublists:
 - title: Список от 3 января 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
@@ -49,20 +68,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '1508'
-      tom: '6'
-      pageintom: '3'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-414-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v06/17-171-414-003.jpg
     persons:
     - id: '19428'
@@ -143,20 +149,7 @@ sublists:
     - id: '19446'
       num: '19'
       name: БЕРГ, он же ОШЕНЕК Борис Карлович, он же <br />Бахман Эдгарт
-  - page:
-      pageid: '1509'
-      tom: '6'
-      pageintom: '4'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v06/17-171-414-004.jpg
     persons:
     - id: '19447'
@@ -266,20 +259,7 @@ sublists:
     - id: '19473'
       num: '46'
       name: ДОБРОВОЛЬСКАЯ-ФАЙНБЕРГ Антонина Михайловна
-  - page:
-      pageid: '1510'
-      tom: '6'
-      pageintom: '5'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-005.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v06/17-171-414-005.jpg
     persons:
     - id: '19474'
@@ -394,20 +374,7 @@ sublists:
       num: '74'
       name: ЛАШКОВ Александр Кузьмич
       spravka: true
-  - page:
-      pageid: '1511'
-      tom: '6'
-      pageintom: '6'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-006.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v06/17-171-414-006.jpg
     persons:
     - id: '19502'
@@ -526,20 +493,7 @@ sublists:
       num: '103'
       name: ПЕРЫШКИН Григорий Иванович
       spravka: true
-  - page:
-      pageid: '1512'
-      tom: '6'
-      pageintom: '7'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-007.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v06/17-171-414-007.jpg
     persons:
     - id: '19531'
@@ -653,20 +607,7 @@ sublists:
       num: '131'
       name: СОЛДАТОВ Никифор Антонович
       spravka: true
-  - page:
-      pageid: '1513'
-      tom: '6'
-      pageintom: '8'
-      alistid: '335'
-      pagekind: '5'
-      arowcount: '28'
-      picturefile: 17-171-414-008.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '8'
     page_image: v06/17-171-414-008.jpg
     persons:
     - id: '19559'
@@ -783,20 +724,7 @@ sublists:
       num: '159'
       name: ЭСТРИН Семен Ильич
       spravka: true
-  - page:
-      pageid: '1514'
-      tom: '6'
-      pageintom: '9'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-414-009.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v06/17-171-414-009.jpg
     persons:
     - id: '19587'
@@ -815,20 +743,7 @@ sublists:
       num: '163'
       name: ЯЦЕВИЧ Леонид Иосифович
       spravka: true
-  - page:
-      pageid: '1515'
-      tom: '6'
-      pageintom: '10'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-414-010.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v06/17-171-414-010.jpg
     persons:
     - id: '19591'
@@ -857,20 +772,7 @@ sublists:
       name: ОСМАН ОГЛЫ ХАЙДАР ИБРАГИМ, он же ЯЛАНЖИ ОГЛЫ
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '1521'
-      tom: '6'
-      pageintom: '16'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-414-016.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '16'
     page_image: v06/17-171-414-016.jpg
     persons:
     - id: '19596'
@@ -935,20 +837,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1522'
-      tom: '6'
-      pageintom: '17'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-414-017.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '17'
     page_image: v06/17-171-414-017.jpg
     persons:
     - id: '19610'
@@ -984,20 +873,7 @@ sublists:
       num: '8'
       name: ШОЛОХОВ Борис Иванович
       spravka: true
-  - page:
-      pageid: '1523'
-      tom: '6'
-      pageintom: '18'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-414-018.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '18'
     page_image: v06/17-171-414-018.jpg
     persons:
     - id: '19618'
@@ -1030,20 +906,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1524'
-      tom: '6'
-      pageintom: '19'
-      alistid: '335'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-414-019.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '19'
     page_image: v06/17-171-414-019.jpg
     persons:
     - id: '19623'

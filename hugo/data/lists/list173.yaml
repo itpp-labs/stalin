@@ -12,11 +12,16 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-122.jpg
-- image: v09/17-171-417-123.jpg
-- image: v09/17-171-417-124.jpg
-- image: v09/17-171-417-125.jpg
-- image: v09/17-171-417-126.jpg
+- pageintom: '122'
+  image: v09/17-171-417-122.jpg
+- pageintom: '123'
+  image: v09/17-171-417-123.jpg
+- pageintom: '124'
+  image: v09/17-171-417-124.jpg
+- pageintom: '125'
+  image: v09/17-171-417-125.jpg
+- pageintom: '126'
+  image: v09/17-171-417-126.jpg
 sublists:
 - title: Список от 10.VI.38г. [Иркутская область]
   listtitle: Список лиц - Иркутская область
@@ -31,20 +36,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2720'
-      tom: '9'
-      pageintom: '124'
-      alistid: '173'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-417-124.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '124'
     page_image: v09/17-171-417-124.jpg
     persons:
     - id: '34918'
@@ -120,20 +112,7 @@ sublists:
       num: '19'
       name: САЛТЫКОВ Михаил Иванович
       spravka: true
-  - page:
-      pageid: '2721'
-      tom: '9'
-      pageintom: '125'
-      alistid: '173'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-417-125.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v09/17-171-417-125.jpg
     persons:
     - id: '34937'
@@ -161,20 +140,7 @@ sublists:
       num: '25'
       name: ЮДИН Алексей Иванович
       spravka: true
-  - page:
-      pageid: '2722'
-      tom: '9'
-      pageintom: '126'
-      alistid: '173'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-417-126.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v09/17-171-417-126.jpg
     persons:
     - id: '34943'

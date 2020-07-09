@@ -14,14 +14,22 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-266.jpg
-- image: v05/17-171-413-267.jpg
-- image: v05/17-171-413-268.jpg
-- image: v05/17-171-413-269.jpg
-- image: v05/17-171-413-270.jpg
-- image: v05/17-171-413-271.jpg
-- image: v05/17-171-413-272.jpg
-- image: v05/17-171-413-273.jpg
+- pageintom: '266'
+  image: v05/17-171-413-266.jpg
+- pageintom: '267'
+  image: v05/17-171-413-267.jpg
+- pageintom: '268'
+  image: v05/17-171-413-268.jpg
+- pageintom: '269'
+  image: v05/17-171-413-269.jpg
+- pageintom: '270'
+  image: v05/17-171-413-270.jpg
+- pageintom: '271'
+  image: v05/17-171-413-271.jpg
+- pageintom: '272'
+  image: v05/17-171-413-272.jpg
+- pageintom: '273'
+  image: v05/17-171-413-273.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Гомель. Белорусская ж.д.]
   listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
@@ -36,20 +44,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1392'
-      tom: '5'
-      pageintom: '268'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-413-268.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '268'
     page_image: v05/17-171-413-268.jpg
     persons:
     - id: '17910'
@@ -121,20 +116,7 @@ sublists:
     - id: '17929'
       num: '20'
       name: ПЕТРОВ Федор Михайлович
-  - page:
-      pageid: '1393'
-      tom: '5'
-      pageintom: '269'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-269.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '269'
     page_image: v05/17-171-413-269.jpg
     persons:
     - id: '31828'
@@ -164,20 +146,7 @@ sublists:
       num: '28'
       name: ХИХЛЯ Василий Федотович
       spravka: true
-  - page:
-      pageid: '1394'
-      tom: '5'
-      pageintom: '270'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-413-270.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '270'
     page_image: v05/17-171-413-270.jpg
     persons:
     - id: '17938'
@@ -223,20 +192,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1395'
-      tom: '5'
-      pageintom: '271'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-413-271.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '271'
     page_image: v05/17-171-413-271.jpg
     persons:
     - id: '17947'
@@ -313,20 +269,7 @@ sublists:
     - id: '17964'
       num: '18'
       name: МИХАЙЛОВ Петр Петрович
-  - page:
-      pageid: '1396'
-      tom: '5'
-      pageintom: '272'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-413-272.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '272'
     page_image: v05/17-171-413-272.jpg
     persons:
     - id: '17965'
@@ -345,20 +288,7 @@ sublists:
       num: '22'
       name: ШЕСТАКОВ Иван Васильевич
       spravka: true
-  - page:
-      pageid: '1397'
-      tom: '5'
-      pageintom: '273'
-      alistid: '137'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-413-273.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '273'
     page_image: v05/17-171-413-273.jpg
     persons:
     - id: '17969'

@@ -13,11 +13,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-212.jpg
-- image: v01/17-171-409-213.jpg
-- image: v01/17-171-409-214.jpg
-- image: v01/17-171-409-215.jpg
-- image: v01/17-171-409-216.jpg
+- pageintom: '212'
+  image: v01/17-171-409-212.jpg
+- pageintom: '213'
+  image: v01/17-171-409-213.jpg
+- pageintom: '214'
+  image: v01/17-171-409-214.jpg
+- pageintom: '215'
+  image: v01/17-171-409-215.jpg
+- pageintom: '216'
+  image: v01/17-171-409-216.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '214'
-      tom: '1'
-      pageintom: '214'
-      alistid: '28'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-409-214.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '214'
     page_image: v01/17-171-409-214.jpg
     persons:
     - id: '3105'
@@ -126,20 +118,7 @@ sublists:
       num: '20'
       name: ЧИЧВЯНСКИЙ-ГУБЕНКО Иван Дмитриевич
       spravka: true
-  - page:
-      pageid: '215'
-      tom: '1'
-      pageintom: '215'
-      alistid: '28'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-409-215.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '215'
     page_image: v01/17-171-409-215.jpg
     persons:
     - id: '3125'
@@ -156,20 +135,7 @@ sublists:
     - id: '3128'
       num: '24'
       name: ЯРУТА Никанор Степанович
-  - page:
-      pageid: '216'
-      tom: '1'
-      pageintom: '216'
-      alistid: '28'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-409-216.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '216'
     page_image: v01/17-171-409-216.jpg
     persons:
     - id: '3129'

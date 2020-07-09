@@ -14,12 +14,18 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-066.jpg
-- image: v08/17-171-416-067.jpg
-- image: v08/17-171-416-068.jpg
-- image: v08/17-171-416-069.jpg
-- image: v08/17-171-416-070.jpg
-- image: v08/17-171-416-071.jpg
+- pageintom: '66'
+  image: v08/17-171-416-066.jpg
+- pageintom: '67'
+  image: v08/17-171-416-067.jpg
+- pageintom: '68'
+  image: v08/17-171-416-068.jpg
+- pageintom: '69'
+  image: v08/17-171-416-069.jpg
+- pageintom: '70'
+  image: v08/17-171-416-070.jpg
+- pageintom: '71'
+  image: v08/17-171-416-071.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Армянская ССР]
   listtitle: Список лиц - Армянская ССР
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2321'
-      tom: '8'
-      pageintom: '68'
-      alistid: '294'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-068.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '68'
     page_image: v08/17-171-416-068.jpg
     persons:
     - id: '30034'
@@ -139,20 +132,7 @@ sublists:
       num: '22'
       name: ДЖАЛАТЯН Гайк Арутюнович
       spravka: true
-  - page:
-      pageid: '2322'
-      tom: '8'
-      pageintom: '69'
-      alistid: '294'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-416-069.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '69'
     page_image: v08/17-171-416-069.jpg
     persons:
     - id: '30056'
@@ -267,20 +247,7 @@ sublists:
       num: '51'
       name: СААКЯН Гарик Казарович
       spravka: true
-  - page:
-      pageid: '2323'
-      tom: '8'
-      pageintom: '70'
-      alistid: '294'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-416-070.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '70'
     page_image: v08/17-171-416-070.jpg
     persons:
     - id: '30085'
@@ -354,20 +321,7 @@ sublists:
       num: '69'
       name: ШАХНАЗАРЯН Василий Петрович
       spravka: true
-  - page:
-      pageid: '2324'
-      tom: '8'
-      pageintom: '71'
-      alistid: '294'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-416-071.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v08/17-171-416-071.jpg
     persons:
     - id: '30103'

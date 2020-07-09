@@ -15,13 +15,20 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-144.jpg
-- image: v07/17-171-415-145.jpg
-- image: v07/17-171-415-146.jpg
-- image: v07/17-171-415-147.jpg
-- image: v07/17-171-415-148.jpg
-- image: v07/17-171-415-149.jpg
-- image: v07/17-171-415-150.jpg
+- pageintom: '144'
+  image: v07/17-171-415-144.jpg
+- pageintom: '145'
+  image: v07/17-171-415-145.jpg
+- pageintom: '146'
+  image: v07/17-171-415-146.jpg
+- pageintom: '147'
+  image: v07/17-171-415-147.jpg
+- pageintom: '148'
+  image: v07/17-171-415-148.jpg
+- pageintom: '149'
+  image: v07/17-171-415-149.jpg
+- pageintom: '150'
+  image: v07/17-171-415-150.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2116'
-      tom: '7'
-      pageintom: '146'
-      alistid: '269'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-146.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '146'
     page_image: v07/17-171-415-146.jpg
     persons:
     - id: '40203'
@@ -148,20 +142,7 @@ sublists:
       num: '24'
       name: ДЯТЛОВ Василий Федорович
       spravka: true
-  - page:
-      pageid: '2117'
-      tom: '7'
-      pageintom: '147'
-      alistid: '269'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-147.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '147'
     page_image: v07/17-171-415-147.jpg
     persons:
     - id: '27466'
@@ -270,20 +251,7 @@ sublists:
     - id: '27494'
       num: '53'
       name: СОЛДАТОВ Василий Иванович
-  - page:
-      pageid: '2118'
-      tom: '7'
-      pageintom: '148'
-      alistid: '269'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-415-148.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '148'
     page_image: v07/17-171-415-148.jpg
     persons:
     - id: '27495'
@@ -327,20 +295,7 @@ sublists:
       num: '64'
       name: ЯКОВЛЕВ Михаил Яковлевич
       spravka: true
-  - page:
-      pageid: '2119'
-      tom: '7'
-      pageintom: '149'
-      alistid: '269'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-415-149.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '149'
     page_image: v07/17-171-415-149.jpg
     persons:
     - id: '27506'
@@ -406,20 +361,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2120'
-      tom: '7'
-      pageintom: '150'
-      alistid: '269'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-150.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '150'
     page_image: v07/17-171-415-150.jpg
     persons:
     - id: '27519'

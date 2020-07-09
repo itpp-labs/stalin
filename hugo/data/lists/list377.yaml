@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-340.jpg
-- image: v06/17-171-414-341.jpg
-- image: v06/17-171-414-342.jpg
-- image: v06/17-171-414-343.jpg
-- image: v06/17-171-414-344.jpg
-- image: v06/17-171-414-345.jpg
+- pageintom: '340'
+  image: v06/17-171-414-340.jpg
+- pageintom: '341'
+  image: v06/17-171-414-341.jpg
+- pageintom: '342'
+  image: v06/17-171-414-342.jpg
+- pageintom: '343'
+  image: v06/17-171-414-343.jpg
+- pageintom: '344'
+  image: v06/17-171-414-344.jpg
+- pageintom: '345'
+  image: v06/17-171-414-345.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1847'
-      tom: '6'
-      pageintom: '342'
-      alistid: '377'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-342.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '342'
     page_image: v06/17-171-414-342.jpg
     persons:
     - id: '23516'
@@ -140,20 +133,7 @@ sublists:
       num: '22'
       name: ЕМЕЛЬЯНОВ Иван Андреевич
       spravka: true
-  - page:
-      pageid: '1848'
-      tom: '6'
-      pageintom: '343'
-      alistid: '377'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-343.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '343'
     page_image: v06/17-171-414-343.jpg
     persons:
     - id: '23538'
@@ -272,20 +252,7 @@ sublists:
       num: '51'
       name: РАПУТОВ Яков Соломонович
       spravka: true
-  - page:
-      pageid: '1849'
-      tom: '6'
-      pageintom: '344'
-      alistid: '377'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-414-344.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '344'
     page_image: v06/17-171-414-344.jpg
     persons:
     - id: '23567'
@@ -384,20 +351,7 @@ sublists:
       num: '75'
       name: ЯКОВЛЕВ Иван Николаевич
       spravka: true
-  - page:
-      pageid: '1850'
-      tom: '6'
-      pageintom: '345'
-      alistid: '377'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-414-345.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '345'
     page_image: v06/17-171-414-345.jpg
     persons:
     - id: '23591'

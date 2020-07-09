@@ -15,13 +15,20 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-077.jpg
-- image: v07/17-171-415-078.jpg
-- image: v07/17-171-415-079.jpg
-- image: v07/17-171-415-080.jpg
-- image: v07/17-171-415-081.jpg
-- image: v07/17-171-415-082.jpg
-- image: v07/17-171-415-083.jpg
+- pageintom: '77'
+  image: v07/17-171-415-077.jpg
+- pageintom: '78'
+  image: v07/17-171-415-078.jpg
+- pageintom: '79'
+  image: v07/17-171-415-079.jpg
+- pageintom: '80'
+  image: v07/17-171-415-080.jpg
+- pageintom: '81'
+  image: v07/17-171-415-081.jpg
+- pageintom: '82'
+  image: v07/17-171-415-082.jpg
+- pageintom: '83'
+  image: v07/17-171-415-083.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область;г.Воронеж.М.Донбасская ж.д.;г.Воронеж.Ю.Восточная
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2049'
-      tom: '7'
-      pageintom: '79'
-      alistid: '260'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-079.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '79'
     page_image: v07/17-171-415-079.jpg
     persons:
     - id: '26615'
@@ -73,20 +67,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2050'
-      tom: '7'
-      pageintom: '80'
-      alistid: '260'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-415-080.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '80'
     page_image: v07/17-171-415-080.jpg
     persons:
     - id: '26616'
@@ -149,20 +130,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2051'
-      tom: '7'
-      pageintom: '81'
-      alistid: '260'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-081.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '81'
     page_image: v07/17-171-415-081.jpg
     persons:
     - id: '26627'
@@ -251,20 +219,7 @@ sublists:
       num: '21'
       name: КУРДЮМОВ Валентин Иванович
       spravka: true
-  - page:
-      pageid: '2052'
-      tom: '7'
-      pageintom: '82'
-      alistid: '260'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-415-082.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '82'
     page_image: v07/17-171-415-082.jpg
     persons:
     - id: '26648'
@@ -303,20 +258,7 @@ sublists:
       num: '30'
       name: ЮРЬЕВ Александр Иосифович
       spravka: true
-  - page:
-      pageid: '2053'
-      tom: '7'
-      pageintom: '83'
-      alistid: '260'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-083.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '83'
     page_image: v07/17-171-415-083.jpg
     persons:
     - id: '26657'

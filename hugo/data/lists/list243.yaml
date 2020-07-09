@@ -13,12 +13,18 @@ signs:
   molotov: true
   kaganovic: true
 pages:
-- image: v03/17-171-411-191.jpg
-- image: v03/17-171-411-192.jpg
-- image: v03/17-171-411-193.jpg
-- image: v03/17-171-411-194.jpg
-- image: v03/17-171-411-195.jpg
-- image: v03/17-171-411-196.jpg
+- pageintom: '191'
+  image: v03/17-171-411-191.jpg
+- pageintom: '192'
+  image: v03/17-171-411-192.jpg
+- pageintom: '193'
+  image: v03/17-171-411-193.jpg
+- pageintom: '194'
+  image: v03/17-171-411-194.jpg
+- pageintom: '195'
+  image: v03/17-171-411-195.jpg
+- pageintom: '196'
+  image: v03/17-171-411-196.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -37,20 +43,7 @@ sublists:
   - 0
   - 13
   pages:
-  - page:
-      pageid: '785'
-      tom: '3'
-      pageintom: '193'
-      alistid: '243'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-411-193.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '193'
     page_image: v03/17-171-411-193.jpg
     persons:
     - id: '9853'
@@ -149,20 +142,7 @@ sublists:
       num: '23'
       name: ИСАЕВ Николай Тимофеевич
       spravka: true
-  - page:
-      pageid: '786'
-      tom: '3'
-      pageintom: '194'
-      alistid: '243'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-411-194.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '194'
     page_image: v03/17-171-411-194.jpg
     persons:
     - id: '9876'
@@ -261,20 +241,7 @@ sublists:
       num: '47'
       name: ШАВРИН Иван Архипович
       spravka: true
-  - page:
-      pageid: '787'
-      tom: '3'
-      pageintom: '195'
-      alistid: '243'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-411-195.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '195'
     page_image: v03/17-171-411-195.jpg
     persons:
     - id: '9900'
@@ -378,20 +345,7 @@ sublists:
       num: '72'
       name: ФИЛАТОВ Никита Романович
       spravka: true
-  - page:
-      pageid: '788'
-      tom: '3'
-      pageintom: '196'
-      alistid: '243'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-411-196.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '196'
     page_image: v03/17-171-411-196.jpg
     persons:
     - id: '9925'

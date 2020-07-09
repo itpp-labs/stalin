@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-199.jpg
-- image: v01/17-171-409-200.jpg
-- image: v01/17-171-409-201.jpg
-- image: v01/17-171-409-202.jpg
-- image: v01/17-171-409-203.jpg
+- pageintom: '199'
+  image: v01/17-171-409-199.jpg
+- pageintom: '200'
+  image: v01/17-171-409-200.jpg
+- pageintom: '201'
+  image: v01/17-171-409-201.jpg
+- pageintom: '202'
+  image: v01/17-171-409-202.jpg
+- pageintom: '203'
+  image: v01/17-171-409-203.jpg
 sublists:
 - title: Список от 25 июня 1937 г. [Армения]
   listtitle: Список лиц - Армения
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '201'
-      tom: '1'
-      pageintom: '201'
-      alistid: '26'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-409-201.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '201'
     page_image: v01/17-171-409-201.jpg
     persons:
     - id: '2998'
@@ -94,20 +86,7 @@ sublists:
       num: '11'
       name: ХАЧАТРЯН Мнацакан (Мнац) Оганесович
       spravka: true
-  - page:
-      pageid: '202'
-      tom: '1'
-      pageintom: '202'
-      alistid: '26'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-409-202.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '202'
     page_image: v01/17-171-409-202.jpg
     persons:
     - id: '3009'
@@ -146,20 +125,7 @@ sublists:
     - id: '3017'
       num: '9'
       name: МАХБАЗЯН Сатрак Овсепович
-  - page:
-      pageid: '203'
-      tom: '1'
-      pageintom: '203'
-      alistid: '26'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-409-203.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v01/17-171-409-203.jpg
     persons:
     - id: '3018'

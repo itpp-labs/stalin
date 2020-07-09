@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-275.jpg
-- image: v07/17-171-415-276.jpg
-- image: v07/17-171-415-277.jpg
-- image: v07/17-171-415-278.jpg
-- image: v07/17-171-415-279.jpg
-- image: v07/17-171-415-280.jpg
+- pageintom: '275'
+  image: v07/17-171-415-275.jpg
+- pageintom: '276'
+  image: v07/17-171-415-276.jpg
+- pageintom: '277'
+  image: v07/17-171-415-277.jpg
+- pageintom: '278'
+  image: v07/17-171-415-278.jpg
+- pageintom: '279'
+  image: v07/17-171-415-279.jpg
+- pageintom: '280'
+  image: v07/17-171-415-280.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2247'
-      tom: '7'
-      pageintom: '277'
-      alistid: '286'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-277.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '277'
     page_image: v07/17-171-415-277.jpg
     persons:
     - id: '29120'
@@ -149,20 +142,7 @@ sublists:
       num: '24'
       name: ЗЫКОВ Александр Андреевич
       spravka: true
-  - page:
-      pageid: '2248'
-      tom: '7'
-      pageintom: '278'
-      alistid: '286'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-415-278.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '278'
     page_image: v07/17-171-415-278.jpg
     persons:
     - id: '29144'
@@ -273,20 +253,7 @@ sublists:
       num: '52'
       name: СИРОТИНСКИЙ Николай Георгиевич
       spravka: true
-  - page:
-      pageid: '2249'
-      tom: '7'
-      pageintom: '279'
-      alistid: '286'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-415-279.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '279'
     page_image: v07/17-171-415-279.jpg
     persons:
     - id: '29172'
@@ -329,20 +296,7 @@ sublists:
       num: '62'
       name: ЭЛЬБАУМ Миней Исаевич
       spravka: true
-  - page:
-      pageid: '2250'
-      tom: '7'
-      pageintom: '280'
-      alistid: '286'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-280.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '280'
     page_image: v07/17-171-415-280.jpg
     persons:
     - id: '29182'

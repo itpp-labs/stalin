@@ -15,13 +15,20 @@ signs:
   voroshilov: true
   kosior: true
 pages:
-- image: v01/17-171-409-123.jpg
-- image: v01/17-171-409-124.jpg
-- image: v01/17-171-409-125.jpg
-- image: v01/17-171-409-126.jpg
-- image: v01/17-171-409-127.jpg
-- image: v01/17-171-409-128.jpg
-- image: v01/17-171-409-129.jpg
+- pageintom: '123'
+  image: v01/17-171-409-123.jpg
+- pageintom: '124'
+  image: v01/17-171-409-124.jpg
+- pageintom: '125'
+  image: v01/17-171-409-125.jpg
+- pageintom: '126'
+  image: v01/17-171-409-126.jpg
+- pageintom: '127'
+  image: v01/17-171-409-127.jpg
+- pageintom: '128'
+  image: v01/17-171-409-128.jpg
+- pageintom: '129'
+  image: v01/17-171-409-129.jpg
 sublists:
 - title: Список от 6 мая 1937 г. [г.Ленинград]
   listtitle: Список лиц - г.Ленинград
@@ -37,20 +44,7 @@ sublists:
   - 8
   - 9
   pages:
-  - page:
-      pageid: '125'
-      tom: '1'
-      pageintom: '125'
-      alistid: '15'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-409-125.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v01/17-171-409-125.jpg
     persons:
     - id: '1969'
@@ -143,20 +137,7 @@ sublists:
       num: '16'
       name: МЕДВЕДЕВ Федор Ванифатьевич
       spravka: true
-  - page:
-      pageid: '126'
-      tom: '1'
-      pageintom: '126'
-      alistid: '15'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-409-126.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v01/17-171-409-126.jpg
     persons:
     - id: '1991'
@@ -205,20 +186,7 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '127'
-      tom: '1'
-      pageintom: '127'
-      alistid: '15'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-409-127.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v01/17-171-409-127.jpg
     persons:
     - id: '2002'
@@ -299,20 +267,7 @@ sublists:
       num: '8'
       name: ЛЕОШКО Иосиф Доминикович
       spravka: true
-  - page:
-      pageid: '128'
-      tom: '1'
-      pageintom: '128'
-      alistid: '15'
-      pagekind: '5'
-      arowcount: '6'
-      picturefile: 17-171-409-128.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '128'
     page_image: v01/17-171-409-128.jpg
     persons:
     - id: '2024'
@@ -336,20 +291,7 @@ sublists:
       name: ЧЕРНЫШОВА Ольга Федоровна [вписано от руки - перенесено из 1-й кат.]
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '129'
-      tom: '1'
-      pageintom: '129'
-      alistid: '15'
-      pagekind: '5'
-      arowcount: '3'
-      picturefile: 17-171-409-129.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '129'
     page_image: v01/17-171-409-129.jpg
     persons:
     - id: '2030'

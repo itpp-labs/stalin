@@ -14,17 +14,28 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-001.jpg
-- image: v05/17-171-413-002.jpg
-- image: v05/17-171-413-003.jpg
-- image: v05/17-171-413-004.jpg
-- image: v05/17-171-413-005.jpg
-- image: v05/17-171-413-006.jpg
-- image: v05/17-171-413-007.jpg
-- image: v05/17-171-413-008.jpg
-- image: v05/17-171-413-009.jpg
-- image: v05/17-171-413-010.jpg
-- image: v05/17-171-413-011.jpg
+- pageintom: '1'
+  image: v05/17-171-413-001.jpg
+- pageintom: '2'
+  image: v05/17-171-413-002.jpg
+- pageintom: '3'
+  image: v05/17-171-413-003.jpg
+- pageintom: '4'
+  image: v05/17-171-413-004.jpg
+- pageintom: '5'
+  image: v05/17-171-413-005.jpg
+- pageintom: '6'
+  image: v05/17-171-413-006.jpg
+- pageintom: '7'
+  image: v05/17-171-413-007.jpg
+- pageintom: '8'
+  image: v05/17-171-413-008.jpg
+- pageintom: '9'
+  image: v05/17-171-413-009.jpg
+- pageintom: '10'
+  image: v05/17-171-413-010.jpg
+- pageintom: '11'
+  image: v05/17-171-413-011.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Моква-центр]
   listtitle: Список лиц - Москва-центр
@@ -41,20 +52,7 @@ sublists:
   - 1
   - 2
   pages:
-  - page:
-      pageid: '1127'
-      tom: '5'
-      pageintom: '3'
-      alistid: '110'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-413-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v05/17-171-413-003.jpg
     persons:
     - id: '14047'
@@ -149,20 +147,7 @@ sublists:
       num: '22'
       name: ЛЮБИЧ Алексей Иванович
       spravka: true
-  - page:
-      pageid: '1128'
-      tom: '5'
-      pageintom: '4'
-      alistid: '110'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-413-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v05/17-171-413-004.jpg
     persons:
     - id: '14069'
@@ -238,20 +223,7 @@ sublists:
       name: ШЕРМЕРГОРН Дирк Тимофеевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1129'
-      tom: '5'
-      pageintom: '5'
-      alistid: '110'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-413-005.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v05/17-171-413-005.jpg
     persons:
     - id: '14087'
@@ -275,20 +247,7 @@ sublists:
       num: '4'
       name: ШТРАУС Вальтер Карлович
       gb_spravka: true
-  - page:
-      pageid: '1134'
-      tom: '5'
-      pageintom: '10'
-      alistid: '110'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-010.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v05/17-171-413-010.jpg
     persons:
     - id: '14091'
@@ -304,20 +263,7 @@ sublists:
       num: '3'
       name: САМСОНОВ Николай Григорьевич
       spravka: true
-  - page:
-      pageid: '1135'
-      tom: '5'
-      pageintom: '11'
-      alistid: '110'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-011.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '11'
     page_image: v05/17-171-413-011.jpg
     persons:
     - id: '14094'

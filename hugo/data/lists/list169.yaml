@@ -12,9 +12,12 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-099.jpg
-- image: v09/17-171-417-100.jpg
-- image: v09/17-171-417-101.jpg
+- pageintom: '99'
+  image: v09/17-171-417-099.jpg
+- pageintom: '100'
+  image: v09/17-171-417-100.jpg
+- pageintom: '101'
+  image: v09/17-171-417-101.jpg
 sublists:
 - title: Список от 10.VI.38г. [Омская область]
   listtitle: Список лиц - Омская область
@@ -29,20 +32,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2697'
-      tom: '9'
-      pageintom: '101'
-      alistid: '169'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-417-101.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '101'
     page_image: v09/17-171-417-101.jpg
     persons:
     - id: '34609'

@@ -13,16 +13,26 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-291.jpg
-- image: v05/17-171-413-292.jpg
-- image: v05/17-171-413-293.jpg
-- image: v05/17-171-413-294.jpg
-- image: v05/17-171-413-295.jpg
-- image: v05/17-171-413-296.jpg
-- image: v05/17-171-413-297.jpg
-- image: v05/17-171-413-298.jpg
-- image: v05/17-171-413-299.jpg
-- image: v05/17-171-413-300.jpg
+- pageintom: '291'
+  image: v05/17-171-413-291.jpg
+- pageintom: '292'
+  image: v05/17-171-413-292.jpg
+- pageintom: '293'
+  image: v05/17-171-413-293.jpg
+- pageintom: '294'
+  image: v05/17-171-413-294.jpg
+- pageintom: '295'
+  image: v05/17-171-413-295.jpg
+- pageintom: '296'
+  image: v05/17-171-413-296.jpg
+- pageintom: '297'
+  image: v05/17-171-413-297.jpg
+- pageintom: '298'
+  image: v05/17-171-413-298.jpg
+- pageintom: '299'
+  image: v05/17-171-413-299.jpg
+- pageintom: '300'
+  image: v05/17-171-413-300.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Москва - центр]
   listtitle: Список лиц - Москва-центр, Московская область
@@ -37,20 +47,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1417'
-      tom: '5'
-      pageintom: '293'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-413-293.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '293'
     page_image: v05/17-171-413-293.jpg
     persons:
     - id: '18135'
@@ -145,20 +142,7 @@ sublists:
       num: '23'
       name: ЗОРИЧ Василий Тимофеевич
       spravka: true
-  - page:
-      pageid: '1418'
-      tom: '5'
-      pageintom: '294'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-294.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '294'
     page_image: v05/17-171-413-294.jpg
     persons:
     - id: '18158'
@@ -266,20 +250,7 @@ sublists:
       num: '51'
       name: ОРЛОВ Николай Михайлович
       spravka: true
-  - page:
-      pageid: '1419'
-      tom: '5'
-      pageintom: '295'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-413-295.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '295'
     page_image: v05/17-171-413-295.jpg
     persons:
     - id: '18186'
@@ -377,20 +348,7 @@ sublists:
     - id: '18212'
       num: '78'
       name: ЦИНОВСКАЯ Елена Ивановна
-  - page:
-      pageid: '1420'
-      tom: '5'
-      pageintom: '296'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-296.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '296'
     page_image: v05/17-171-413-296.jpg
     persons:
     - id: '18213'
@@ -423,20 +381,7 @@ sublists:
       num: '86'
       name: ЯКОВЛЕВ Борис Алексеевич
       spravka: true
-  - page:
-      pageid: '1421'
-      tom: '5'
-      pageintom: '297'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-297.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '297'
     page_image: v05/17-171-413-297.jpg
     persons:
     - id: '18221'
@@ -458,20 +403,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1422'
-      tom: '5'
-      pageintom: '298'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-413-298.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '298'
     page_image: v05/17-171-413-298.jpg
     persons:
     - id: '18222'
@@ -560,20 +492,7 @@ sublists:
     - id: '18243'
       num: '22'
       name: ПЕШКОВ Иван Васильевич
-  - page:
-      pageid: '1423'
-      tom: '5'
-      pageintom: '299'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-413-299.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '299'
     page_image: v05/17-171-413-299.jpg
     persons:
     - id: '18244'
@@ -637,20 +556,7 @@ sublists:
     - id: '18259'
       num: '38'
       name: ЯКОВЛЕВ Сергей Владимирович
-  - page:
-      pageid: '1424'
-      tom: '5'
-      pageintom: '300'
-      alistid: '141'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-413-300.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '300'
     page_image: v05/17-171-413-300.jpg
     persons:
     - id: '18260'

@@ -15,23 +15,40 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-150.jpg
-- image: v11/17-171-419-151.jpg
-- image: v11/17-171-419-152.jpg
-- image: v11/17-171-419-153.jpg
-- image: v11/17-171-419-154.jpg
-- image: v11/17-171-419-155.jpg
-- image: v11/17-171-419-156.jpg
-- image: v11/17-171-419-157.jpg
-- image: v11/17-171-419-158.jpg
-- image: v11/17-171-419-159.jpg
-- image: v11/17-171-419-160.jpg
-- image: v11/17-171-419-161.jpg
-- image: v11/17-171-419-162.jpg
-- image: v11/17-171-419-163.jpg
-- image: v11/17-171-419-164.jpg
-- image: v11/17-171-419-165.jpg
-- image: v11/17-171-419-166.jpg
+- pageintom: '150'
+  image: v11/17-171-419-150.jpg
+- pageintom: '151'
+  image: v11/17-171-419-151.jpg
+- pageintom: '152'
+  image: v11/17-171-419-152.jpg
+- pageintom: '153'
+  image: v11/17-171-419-153.jpg
+- pageintom: '154'
+  image: v11/17-171-419-154.jpg
+- pageintom: '155'
+  image: v11/17-171-419-155.jpg
+- pageintom: '156'
+  image: v11/17-171-419-156.jpg
+- pageintom: '157'
+  image: v11/17-171-419-157.jpg
+- pageintom: '158'
+  image: v11/17-171-419-158.jpg
+- pageintom: '159'
+  image: v11/17-171-419-159.jpg
+- pageintom: '160'
+  image: v11/17-171-419-160.jpg
+- pageintom: '161'
+  image: v11/17-171-419-161.jpg
+- pageintom: '162'
+  image: v11/17-171-419-162.jpg
+- pageintom: '163'
+  image: v11/17-171-419-163.jpg
+- pageintom: '164'
+  image: v11/17-171-419-164.jpg
+- pageintom: '165'
+  image: v11/17-171-419-165.jpg
+- pageintom: '166'
+  image: v11/17-171-419-166.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Московская область]
   listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
@@ -47,20 +64,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3270'
-      tom: '11'
-      pageintom: '152'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-152.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '152'
     page_image: v11/17-171-419-152.jpg
     persons:
     - id: '42668'
@@ -145,20 +149,7 @@ sublists:
       num: '20'
       name: ВАСНЕЦОВА Серафима Александровна
       spravka: true
-  - page:
-      pageid: '3271'
-      tom: '11'
-      pageintom: '153'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-419-153.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '153'
     page_image: v11/17-171-419-153.jpg
     persons:
     - id: '42688'
@@ -269,20 +260,7 @@ sublists:
       num: '48'
       name: КОРЕНЕВ Мирон Васильевич
       spravka: true
-  - page:
-      pageid: '3272'
-      tom: '11'
-      pageintom: '154'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-419-154.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '154'
     page_image: v11/17-171-419-154.jpg
     persons:
     - id: '42716'
@@ -395,20 +373,7 @@ sublists:
     - id: '42743'
       num: '76'
       name: ОВЧИННИКОВ Борис Михайлович
-  - page:
-      pageid: '3273'
-      tom: '11'
-      pageintom: '155'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-419-155.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '155'
     page_image: v11/17-171-419-155.jpg
     persons:
     - id: '42744'
@@ -514,20 +479,7 @@ sublists:
     - id: '42771'
       num: '104'
       name: СИМКИН Павел Борисович
-  - page:
-      pageid: '3274'
-      tom: '11'
-      pageintom: '156'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-419-156.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '156'
     page_image: v11/17-171-419-156.jpg
     persons:
     - id: '42772'
@@ -635,20 +587,7 @@ sublists:
       num: '133'
       name: ШУХЕР Моисей Михайлович
       spravka: true
-  - page:
-      pageid: '3275'
-      tom: '11'
-      pageintom: '157'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-419-157.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '157'
     page_image: v11/17-171-419-157.jpg
     persons:
     - id: '42801'
@@ -664,20 +603,7 @@ sublists:
       num: '137'
       name: ЯНКИЛОВИЧ Марк Михайлович
       spravka: true
-  - page:
-      pageid: '3276'
-      tom: '11'
-      pageintom: '158'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-419-158.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '158'
     page_image: v11/17-171-419-158.jpg
     persons:
     - id: '42805'
@@ -715,20 +641,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3277'
-      tom: '11'
-      pageintom: '159'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-419-159.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '159'
     page_image: v11/17-171-419-159.jpg
     persons:
     - id: '42811'
@@ -783,20 +696,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3278'
-      tom: '11'
-      pageintom: '160'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-419-160.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '160'
     page_image: v11/17-171-419-160.jpg
     persons:
     - id: '42821'
@@ -843,20 +743,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3279'
-      tom: '11'
-      pageintom: '161'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-419-161.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '161'
     page_image: v11/17-171-419-161.jpg
     persons:
     - id: '42828'
@@ -886,20 +773,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '3280'
-      tom: '11'
-      pageintom: '162'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-162.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '162'
     page_image: v11/17-171-419-162.jpg
     persons:
     - id: '42831'
@@ -983,20 +857,7 @@ sublists:
       num: '20'
       name: ОДИНОКОВ Василий Федорович
       spravka: true
-  - page:
-      pageid: '3281'
-      tom: '11'
-      pageintom: '163'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-419-163.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '163'
     page_image: v11/17-171-419-163.jpg
     persons:
     - id: '42851'
@@ -1024,20 +885,7 @@ sublists:
       num: '27'
       name: ХИТРИНСКИЙ Андрей Иосифович
       spravka: true
-  - page:
-      pageid: '3282'
-      tom: '11'
-      pageintom: '164'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-419-164.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '164'
     page_image: v11/17-171-419-164.jpg
     persons:
     - id: '42858'
@@ -1091,20 +939,7 @@ sublists:
   group_ids:
   - 14
   pages:
-  - page:
-      pageid: '3283'
-      tom: '11'
-      pageintom: '165'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-419-165.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '165'
     page_image: v11/17-171-419-165.jpg
     persons:
     - id: '42867'
@@ -1126,20 +961,7 @@ sublists:
   group_ids:
   - 14
   pages:
-  - page:
-      pageid: '3284'
-      tom: '11'
-      pageintom: '166'
-      alistid: '402'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-419-166.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '166'
     page_image: v11/17-171-419-166.jpg
     persons:
     - id: '42868'

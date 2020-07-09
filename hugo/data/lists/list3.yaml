@@ -17,31 +17,56 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-005.jpg
-- image: v01/17-171-409-006.jpg
-- image: v01/17-171-409-007.jpg
-- image: v01/17-171-409-008.jpg
-- image: v01/17-171-409-009.jpg
-- image: v01/17-171-409-010.jpg
-- image: v01/17-171-409-011.jpg
-- image: v01/17-171-409-012.jpg
-- image: v01/17-171-409-013.jpg
-- image: v01/17-171-409-014.jpg
-- image: v01/17-171-409-015.jpg
-- image: v01/17-171-409-016.jpg
-- image: v01/17-171-409-017.jpg
-- image: v01/17-171-409-018.jpg
-- image: v01/17-171-409-019.jpg
-- image: v01/17-171-409-020.jpg
-- image: v01/17-171-409-021.jpg
-- image: v01/17-171-409-022.jpg
-- image: v01/17-171-409-023.jpg
-- image: v01/17-171-409-024.jpg
-- image: v01/17-171-409-025.jpg
-- image: v01/17-171-409-026.jpg
-- image: v01/17-171-409-027.jpg
-- image: v01/17-171-409-028.jpg
-- image: v01/17-171-409-029.jpg
+- pageintom: '5'
+  image: v01/17-171-409-005.jpg
+- pageintom: '6'
+  image: v01/17-171-409-006.jpg
+- pageintom: '7'
+  image: v01/17-171-409-007.jpg
+- pageintom: '8'
+  image: v01/17-171-409-008.jpg
+- pageintom: '9'
+  image: v01/17-171-409-009.jpg
+- pageintom: '10'
+  image: v01/17-171-409-010.jpg
+- pageintom: '11'
+  image: v01/17-171-409-011.jpg
+- pageintom: '12'
+  image: v01/17-171-409-012.jpg
+- pageintom: '13'
+  image: v01/17-171-409-013.jpg
+- pageintom: '14'
+  image: v01/17-171-409-014.jpg
+- pageintom: '15'
+  image: v01/17-171-409-015.jpg
+- pageintom: '16'
+  image: v01/17-171-409-016.jpg
+- pageintom: '17'
+  image: v01/17-171-409-017.jpg
+- pageintom: '18'
+  image: v01/17-171-409-018.jpg
+- pageintom: '19'
+  image: v01/17-171-409-019.jpg
+- pageintom: '20'
+  image: v01/17-171-409-020.jpg
+- pageintom: '21'
+  image: v01/17-171-409-021.jpg
+- pageintom: '22'
+  image: v01/17-171-409-022.jpg
+- pageintom: '23'
+  image: v01/17-171-409-023.jpg
+- pageintom: '24'
+  image: v01/17-171-409-024.jpg
+- pageintom: '25'
+  image: v01/17-171-409-025.jpg
+- pageintom: '26'
+  image: v01/17-171-409-026.jpg
+- pageintom: '27'
+  image: v01/17-171-409-027.jpg
+- pageintom: '28'
+  image: v01/17-171-409-028.jpg
+- pageintom: '29'
+  image: v01/17-171-409-029.jpg
 sublists:
 - title: Список от 27 февраля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Украина, Московская обл., Зап.-Сибирский край,
@@ -59,20 +84,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '7'
-      tom: '1'
-      pageintom: '7'
-      alistid: '3'
-      pagekind: '5'
-      arowcount: '24'
-      picturefile: 17-171-409-007.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '25'
+  - pageintom: '7'
     page_image: v01/17-171-409-007.jpg
     persons:
     - id: '1'
@@ -175,20 +187,7 @@ sublists:
       name: СЛЕПКОВ Александр Николаевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '8'
-      tom: '1'
-      pageintom: '8'
-      alistid: '3'
-      pagekind: '5'
-      arowcount: '9'
-      picturefile: 17-171-409-008.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '26'
+  - pageintom: '8'
     page_image: v01/17-171-409-008.jpg
     persons:
     - id: '2446'
@@ -253,20 +252,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '9'
-      tom: '1'
-      pageintom: '9'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-409-009.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v01/17-171-409-009.jpg
     persons:
     - id: '34'
@@ -361,20 +347,7 @@ sublists:
       num: '24'
       name: КОЦЮБИНСКИЙ Юрий Михайлович
       spravka: true
-  - page:
-      pageid: '10'
-      tom: '1'
-      pageintom: '10'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-409-010.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v01/17-171-409-010.jpg
     persons:
     - id: '58'
@@ -485,20 +458,7 @@ sublists:
       num: '51'
       name: ФРИД Давид Соломонович
       spravka: true
-  - page:
-      pageid: '11'
-      tom: '1'
-      pageintom: '11'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-409-011.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '11'
     page_image: v01/17-171-409-011.jpg
     persons:
     - id: '85'
@@ -597,20 +557,7 @@ sublists:
       num: '2'
       name: ГУРЕЕВ Иван Семенович
       spravka: true
-  - page:
-      pageid: '12'
-      tom: '1'
-      pageintom: '12'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-409-012.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v01/17-171-409-012.jpg
     persons:
     - id: '108'
@@ -702,20 +649,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '13'
-      tom: '1'
-      pageintom: '13'
-      alistid: '3'
-      pagekind: '5'
-      arowcount: '26'
-      picturefile: 17-171-409-013.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '27'
+  - pageintom: '13'
     page_image: v01/17-171-409-013.jpg
     persons:
     - id: '127'
@@ -837,20 +771,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '14'
-      tom: '1'
-      pageintom: '14'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-409-014.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '14'
     page_image: v01/17-171-409-014.jpg
     persons:
     - id: '684'
@@ -970,20 +891,7 @@ sublists:
       name: ФРАНКОНТЕЛЬ Семен Ефимович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '15'
-      tom: '1'
-      pageintom: '15'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-409-015.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '15'
     page_image: v01/17-171-409-015.jpg
     persons:
     - id: '834'
@@ -1029,20 +937,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '16'
-      tom: '1'
-      pageintom: '16'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-409-016.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '28'
+  - pageintom: '16'
     page_image: v01/17-171-409-016.jpg
     persons:
     - id: '185'
@@ -1142,20 +1037,7 @@ sublists:
       num: '25'
       name: ВУЛЬФОВИЧ Яков Максимович
       spravka: true
-  - page:
-      pageid: '17'
-      tom: '1'
-      pageintom: '17'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-409-017.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '17'
     page_image: v01/17-171-409-017.jpg
     persons:
     - id: '210'
@@ -1268,20 +1150,7 @@ sublists:
       num: '53'
       name: ЛОБОВ Карл Пименович
       spravka: true
-  - page:
-      pageid: '18'
-      tom: '1'
-      pageintom: '18'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-409-018.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '18'
     page_image: v01/17-171-409-018.jpg
     persons:
     - id: '238'
@@ -1386,20 +1255,7 @@ sublists:
     - id: '264'
       num: '80'
       name: СМЕЛОВ Сергей Петрович
-  - page:
-      pageid: '19'
-      tom: '1'
-      pageintom: '19'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-409-019.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '19'
     page_image: v01/17-171-409-019.jpg
     persons:
     - id: '265'
@@ -1470,20 +1326,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '20'
-      tom: '1'
-      pageintom: '20'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-409-020.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '20'
     page_image: v01/17-171-409-020.jpg
     persons:
     - id: '481'
@@ -1617,20 +1460,7 @@ sublists:
       name: ДАЙБОВ Петр Степанович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '21'
-      tom: '1'
-      pageintom: '21'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-409-021.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '21'
     page_image: v01/17-171-409-021.jpg
     persons:
     - id: '510'
@@ -1772,20 +1602,7 @@ sublists:
       name: МРАЧКОВСКИЙ Леонид Витальевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '22'
-      tom: '1'
-      pageintom: '22'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-409-022.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '22'
     page_image: v01/17-171-409-022.jpg
     persons:
     - id: '544'
@@ -1938,20 +1755,7 @@ sublists:
       name: ФИЛИППОВИЧ Иосиф Константинович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '23'
-      tom: '1'
-      pageintom: '23'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-409-023.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '23'
     page_image: v01/17-171-409-023.jpg
     persons:
     - id: '579'
@@ -2020,20 +1824,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '24'
-      tom: '1'
-      pageintom: '24'
-      alistid: '3'
-      pagekind: '5'
-      arowcount: '27'
-      picturefile: 17-171-409-024.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '29'
+  - pageintom: '24'
     page_image: v01/17-171-409-024.jpg
     persons:
     - id: '1753'
@@ -2146,20 +1937,7 @@ sublists:
       num: '27'
       name: ПАКИН Григорий Тимофеевич
       doublesexists: true
-  - page:
-      pageid: '25'
-      tom: '1'
-      pageintom: '25'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-409-025.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '25'
     page_image: v01/17-171-409-025.jpg
     persons:
     - id: '1780'
@@ -2226,20 +2004,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '26'
-      tom: '1'
-      pageintom: '26'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-409-026.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '26'
     page_image: v01/17-171-409-026.jpg
     persons:
     - id: '1269'
@@ -2350,20 +2115,7 @@ sublists:
   - 0
   - 11
   pages:
-  - page:
-      pageid: '27'
-      tom: '1'
-      pageintom: '27'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-409-027.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '27'
     page_image: v01/17-171-409-027.jpg
     persons:
     - id: '4258'
@@ -2491,20 +2243,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '28'
-      tom: '1'
-      pageintom: '28'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-409-028.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '28'
     page_image: v01/17-171-409-028.jpg
     persons:
     - id: '3409'
@@ -2578,20 +2317,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '28'
-      tom: '1'
-      pageintom: '28'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-409-028.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '28'
     page_image: v01/17-171-409-028.jpg
     persons:
     - id: '1423'
@@ -2641,20 +2367,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '29'
-      tom: '1'
-      pageintom: '29'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-409-029.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v01/17-171-409-029.jpg
     persons:
     - id: '469'
@@ -2689,20 +2402,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '29'
-      tom: '1'
-      pageintom: '29'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-409-029.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v01/17-171-409-029.jpg
     persons:
     - id: '3752'
@@ -2742,20 +2442,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '29'
-      tom: '1'
-      pageintom: '29'
-      alistid: '3'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-409-029.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v01/17-171-409-029.jpg
     persons:
     - id: '477'

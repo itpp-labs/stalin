@@ -12,15 +12,24 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-049.jpg
-- image: v02/17-171-410-050.jpg
-- image: v02/17-171-410-051.jpg
-- image: v02/17-171-410-052.jpg
-- image: v02/17-171-410-053.jpg
-- image: v02/17-171-410-054.jpg
-- image: v02/17-171-410-055.jpg
-- image: v02/17-171-410-056.jpg
-- image: v02/17-171-410-057.jpg
+- pageintom: '49'
+  image: v02/17-171-410-049.jpg
+- pageintom: '50'
+  image: v02/17-171-410-050.jpg
+- pageintom: '51'
+  image: v02/17-171-410-051.jpg
+- pageintom: '52'
+  image: v02/17-171-410-052.jpg
+- pageintom: '53'
+  image: v02/17-171-410-053.jpg
+- pageintom: '54'
+  image: v02/17-171-410-054.jpg
+- pageintom: '55'
+  image: v02/17-171-410-055.jpg
+- pageintom: '56'
+  image: v02/17-171-410-056.jpg
+- pageintom: '57'
+  image: v02/17-171-410-057.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -35,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '287'
-      tom: '2'
-      pageintom: '51'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-410-051.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '51'
     page_image: v02/17-171-410-051.jpg
     persons:
     - id: '3891'
@@ -151,20 +147,7 @@ sublists:
       num: '25'
       name: ГОРБУНОВ Леонид Михайлович
       spravka: true
-  - page:
-      pageid: '288'
-      tom: '2'
-      pageintom: '52'
-      alistid: '41'
-      pagekind: '5'
-      arowcount: '27'
-      picturefile: 17-171-410-052.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '52'
     page_image: v02/17-171-410-052.jpg
     persons:
     - id: '3916'
@@ -275,20 +258,7 @@ sublists:
       num: '52'
       name: КУДРЕВАТОВ Сергей Кузьмич
       spravka: true
-  - page:
-      pageid: '289'
-      tom: '2'
-      pageintom: '53'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-410-053.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '53'
     page_image: v02/17-171-410-053.jpg
     persons:
     - id: '3943'
@@ -398,20 +368,7 @@ sublists:
       num: '79'
       name: РАБИНОВИЧ Лазарь Львович
       spravka: true
-  - page:
-      pageid: '290'
-      tom: '2'
-      pageintom: '54'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-054.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '54'
     page_image: v02/17-171-410-054.jpg
     persons:
     - id: '3970'
@@ -518,20 +475,7 @@ sublists:
       num: '105'
       name: ЯКОВЛЕВ Григорий Антонович
       spravka: true
-  - page:
-      pageid: '291'
-      tom: '2'
-      pageintom: '55'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-410-055.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '55'
     page_image: v02/17-171-410-055.jpg
     persons:
     - id: '3996'
@@ -570,20 +514,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '292'
-      tom: '2'
-      pageintom: '56'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-410-056.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '56'
     page_image: v02/17-171-410-056.jpg
     persons:
     - id: '4003'
@@ -625,20 +556,7 @@ sublists:
       num: '9'
       name: РУДЫЙ Николай Александрович
       spravka: true
-  - page:
-      pageid: '293'
-      tom: '2'
-      pageintom: '57'
-      alistid: '41'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-410-057.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '57'
     page_image: v02/17-171-410-057.jpg
     persons:
     - id: '4012'

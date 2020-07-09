@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-120.jpg
-- image: v06/17-171-414-121.jpg
-- image: v06/17-171-414-122.jpg
-- image: v06/17-171-414-123.jpg
-- image: v06/17-171-414-124.jpg
-- image: v06/17-171-414-125.jpg
-- image: v06/17-171-414-126.jpg
+- pageintom: '120'
+  image: v06/17-171-414-120.jpg
+- pageintom: '121'
+  image: v06/17-171-414-121.jpg
+- pageintom: '122'
+  image: v06/17-171-414-122.jpg
+- pageintom: '123'
+  image: v06/17-171-414-123.jpg
+- pageintom: '124'
+  image: v06/17-171-414-124.jpg
+- pageintom: '125'
+  image: v06/17-171-414-125.jpg
+- pageintom: '126'
+  image: v06/17-171-414-126.jpg
 sublists:
 - title: Список от 3 января 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -36,20 +43,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '1627'
-      tom: '6'
-      pageintom: '122'
-      alistid: '348'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-414-122.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '122'
     page_image: v06/17-171-414-122.jpg
     persons:
     - id: '20915'
@@ -133,20 +127,7 @@ sublists:
     - id: '20935'
       num: '21'
       name: ИВАНОВ Дмитрий Васильевич
-  - page:
-      pageid: '1628'
-      tom: '6'
-      pageintom: '123'
-      alistid: '348'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-123.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '123'
     page_image: v06/17-171-414-123.jpg
     persons:
     - id: '20936'
@@ -256,20 +237,7 @@ sublists:
       num: '50'
       name: ПИАНСКИЙ Рихард Фрицевич
       spravka: true
-  - page:
-      pageid: '1629'
-      tom: '6'
-      pageintom: '124'
-      alistid: '348'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-124.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '124'
     page_image: v06/17-171-414-124.jpg
     persons:
     - id: '20965'
@@ -341,20 +309,7 @@ sublists:
     - id: '20986'
       num: '72'
       name: ЯРОВСКИЙ Александр Васильевич
-  - page:
-      pageid: '1630'
-      tom: '6'
-      pageintom: '125'
-      alistid: '348'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-125.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v06/17-171-414-125.jpg
     persons:
     - id: '20987'

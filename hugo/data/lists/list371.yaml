@@ -14,10 +14,14 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-305.jpg
-- image: v06/17-171-414-306.jpg
-- image: v06/17-171-414-307.jpg
-- image: v06/17-171-414-308.jpg
+- pageintom: '305'
+  image: v06/17-171-414-305.jpg
+- pageintom: '306'
+  image: v06/17-171-414-306.jpg
+- pageintom: '307'
+  image: v06/17-171-414-307.jpg
+- pageintom: '308'
+  image: v06/17-171-414-308.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [г.Свердловск,ж.д. им.Кагановича]
   listtitle: Список лиц - г.Свердловск,ж.д. им.Кагановича
@@ -32,20 +36,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1812'
-      tom: '6'
-      pageintom: '307'
-      alistid: '371'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-414-307.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '307'
     page_image: v06/17-171-414-307.jpg
     persons:
     - id: '23197'
@@ -130,20 +121,7 @@ sublists:
       num: '21'
       name: СУББОТИН Иван Иванович
       spravka: true
-  - page:
-      pageid: '1813'
-      tom: '6'
-      pageintom: '308'
-      alistid: '371'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-414-308.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '308'
     page_image: v06/17-171-414-308.jpg
     persons:
     - id: '23218'

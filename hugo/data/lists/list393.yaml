@@ -13,14 +13,22 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-065.jpg
-- image: v11/17-171-419-066.jpg
-- image: v11/17-171-419-067.jpg
-- image: v11/17-171-419-068.jpg
-- image: v11/17-171-419-069.jpg
-- image: v11/17-171-419-070.jpg
-- image: v11/17-171-419-071.jpg
-- image: v11/17-171-419-072.jpg
+- pageintom: '65'
+  image: v11/17-171-419-065.jpg
+- pageintom: '66'
+  image: v11/17-171-419-066.jpg
+- pageintom: '67'
+  image: v11/17-171-419-067.jpg
+- pageintom: '68'
+  image: v11/17-171-419-068.jpg
+- pageintom: '69'
+  image: v11/17-171-419-069.jpg
+- pageintom: '70'
+  image: v11/17-171-419-070.jpg
+- pageintom: '71'
+  image: v11/17-171-419-071.jpg
+- pageintom: '72'
+  image: v11/17-171-419-072.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [УНКВД по Дальстрою]
   listtitle: Список лиц - УНКВД по Дальстрою
@@ -35,20 +43,7 @@ sublists:
   group_ids:
   - 14
   pages:
-  - page:
-      pageid: '3185'
-      tom: '11'
-      pageintom: '67'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-419-067.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '67'
     page_image: v11/17-171-419-067.jpg
     persons:
     - id: '41532'
@@ -132,20 +127,7 @@ sublists:
       num: '23'
       name: ГЛАЗЕНАП Михаил Сергеевич
       spravka: true
-  - page:
-      pageid: '3186'
-      tom: '11'
-      pageintom: '68'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-419-068.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '68'
     page_image: v11/17-171-419-068.jpg
     persons:
     - id: '41555'
@@ -237,20 +219,7 @@ sublists:
     - id: '41581'
       num: '50'
       name: КОНДАКОВ Григорий Евстигнеевич
-  - page:
-      pageid: '3187'
-      tom: '11'
-      pageintom: '69'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-419-069.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '69'
     page_image: v11/17-171-419-069.jpg
     persons:
     - id: '41582'
@@ -349,20 +318,7 @@ sublists:
     - id: '41609'
       num: '78'
       name: МЮЛЛЕР Константин Густавович
-  - page:
-      pageid: '3188'
-      tom: '11'
-      pageintom: '70'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-419-070.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '70'
     page_image: v11/17-171-419-070.jpg
     persons:
     - id: '41610'
@@ -466,20 +422,7 @@ sublists:
       num: '108'
       name: ТЮТРИН Апполинарий Васильевич
       spravka: true
-  - page:
-      pageid: '3189'
-      tom: '11'
-      pageintom: '71'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-419-071.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v11/17-171-419-071.jpg
     persons:
     - id: '41640'
@@ -559,20 +502,7 @@ sublists:
     - id: '41662'
       num: '131'
       name: ЯШВИЛИ Михаил Ясонович
-  - page:
-      pageid: '3190'
-      tom: '11'
-      pageintom: '72'
-      alistid: '393'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-419-072.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '72'
     page_image: v11/17-171-419-072.jpg
     persons:
     - id: '41663'

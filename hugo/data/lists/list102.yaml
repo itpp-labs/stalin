@@ -12,11 +12,16 @@ signs:
   stalin: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-220.jpg
-- image: v04/17-171-412-221.jpg
-- image: v04/17-171-412-222.jpg
-- image: v04/17-171-412-223.jpg
-- image: v04/17-171-412-224.jpg
+- pageintom: '220'
+  image: v04/17-171-412-220.jpg
+- pageintom: '221'
+  image: v04/17-171-412-221.jpg
+- pageintom: '222'
+  image: v04/17-171-412-222.jpg
+- pageintom: '223'
+  image: v04/17-171-412-223.jpg
+- pageintom: '224'
+  image: v04/17-171-412-224.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская обл.
@@ -31,20 +36,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1065'
-      tom: '4'
-      pageintom: '222'
-      alistid: '102'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-412-222.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '222'
     page_image: v04/17-171-412-222.jpg
     persons:
     - id: '13589'
@@ -152,20 +144,7 @@ sublists:
       num: '26'
       name: МЕНЬШАКОВ Сергей Александрович
       spravka: true
-  - page:
-      pageid: '1066'
-      tom: '4'
-      pageintom: '223'
-      alistid: '102'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-412-223.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '223'
     page_image: v04/17-171-412-223.jpg
     persons:
     - id: '13615'
@@ -240,20 +219,7 @@ sublists:
       num: '44'
       name: ШИМАН Рудольф Генрихович
       spravka: true
-  - page:
-      pageid: '1067'
-      tom: '4'
-      pageintom: '224'
-      alistid: '102'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-412-224.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '224'
     page_image: v04/17-171-412-224.jpg
     persons:
     - id: '13633'

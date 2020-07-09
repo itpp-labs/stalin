@@ -12,11 +12,16 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v05/17-171-413-119.jpg
-- image: v05/17-171-413-120.jpg
-- image: v05/17-171-413-121.jpg
-- image: v05/17-171-413-122.jpg
-- image: v05/17-171-413-123.jpg
+- pageintom: '119'
+  image: v05/17-171-413-119.jpg
+- pageintom: '120'
+  image: v05/17-171-413-120.jpg
+- pageintom: '121'
+  image: v05/17-171-413-121.jpg
+- pageintom: '122'
+  image: v05/17-171-413-122.jpg
+- pageintom: '123'
+  image: v05/17-171-413-123.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Москва-центр (выписка)]
   listtitle: Список лиц (выписка) - Москва-центр
@@ -31,20 +36,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1244'
-      tom: '5'
-      pageintom: '120'
-      alistid: '123'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-413-120.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '120'
     page_image: v05/17-171-413-120.jpg
     persons:
     - id: '15469'
@@ -149,20 +141,7 @@ sublists:
       name: ОРЛОВ Владимир Митрофанович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1245'
-      tom: '5'
-      pageintom: '121'
-      alistid: '123'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-121.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '121'
     page_image: v05/17-171-413-121.jpg
     persons:
     - id: '15466'
@@ -193,20 +172,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1246'
-      tom: '5'
-      pageintom: '122'
-      alistid: '123'
-      pagekind: '5'
-      arowcount: '24'
-      picturefile: 17-171-413-122.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '122'
     page_image: v05/17-171-413-122.jpg
     persons:
     - id: '15469'
@@ -334,20 +300,7 @@ sublists:
       pometa_text: бить-бить
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1247'
-      tom: '5'
-      pageintom: '123'
-      alistid: '123'
-      pagekind: '5'
-      arowcount: '19'
-      picturefile: 17-171-413-123.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '123'
     page_image: v05/17-171-413-123.jpg
     persons:
     - id: '15493'

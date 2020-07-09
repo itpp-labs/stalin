@@ -15,13 +15,20 @@ signs:
   voroshilov: true
   mikoyan: true
 pages:
-- image: v01/17-171-409-227.jpg
-- image: v01/17-171-409-228.jpg
-- image: v01/17-171-409-229.jpg
-- image: v01/17-171-409-230.jpg
-- image: v01/17-171-409-231.jpg
-- image: v01/17-171-409-232.jpg
-- image: v01/17-171-409-233.jpg
+- pageintom: '227'
+  image: v01/17-171-409-227.jpg
+- pageintom: '228'
+  image: v01/17-171-409-228.jpg
+- pageintom: '229'
+  image: v01/17-171-409-229.jpg
+- pageintom: '230'
+  image: v01/17-171-409-230.jpg
+- pageintom: '231'
+  image: v01/17-171-409-231.jpg
+- pageintom: '232'
+  image: v01/17-171-409-232.jpg
+- pageintom: '233'
+  image: v01/17-171-409-233.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -36,20 +43,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '229'
-      tom: '1'
-      pageintom: '229'
-      alistid: '31'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-409-229.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '229'
     page_image: v01/17-171-409-229.jpg
     persons:
     - id: '3229'
@@ -153,20 +147,7 @@ sublists:
     - id: '3253'
       num: '25'
       name: ДИКОВ Николай Прокофьевич
-  - page:
-      pageid: '230'
-      tom: '1'
-      pageintom: '230'
-      alistid: '31'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-409-230.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '230'
     page_image: v01/17-171-409-230.jpg
     persons:
     - id: '3254'
@@ -280,20 +261,7 @@ sublists:
       num: '53'
       name: МАНАКОВ Василий Христофорович
       spravka: true
-  - page:
-      pageid: '231'
-      tom: '1'
-      pageintom: '231'
-      alistid: '31'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-409-231.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '231'
     page_image: v01/17-171-409-231.jpg
     persons:
     - id: '3282'
@@ -407,20 +375,7 @@ sublists:
       num: '81'
       name: РОЗЫНКО Анатолий Францевич
       spravka: true
-  - page:
-      pageid: '232'
-      tom: '1'
-      pageintom: '232'
-      alistid: '31'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-409-232.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '232'
     page_image: v01/17-171-409-232.jpg
     persons:
     - id: '3310'
@@ -507,20 +462,7 @@ sublists:
       num: '102'
       name: ЯНБОРИСОВ Абубакир Фасхутдинович
       spravka: true
-  - page:
-      pageid: '233'
-      tom: '1'
-      pageintom: '233'
-      alistid: '31'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-409-233.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '233'
     page_image: v01/17-171-409-233.jpg
     persons:
     - id: '3331'

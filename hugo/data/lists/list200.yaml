@@ -13,15 +13,24 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-131.jpg
-- image: v10/17-171-418-132.jpg
-- image: v10/17-171-418-133.jpg
-- image: v10/17-171-418-134.jpg
-- image: v10/17-171-418-135.jpg
-- image: v10/17-171-418-136.jpg
-- image: v10/17-171-418-137.jpg
-- image: v10/17-171-418-138.jpg
-- image: v10/17-171-418-139.jpg
+- pageintom: '131'
+  image: v10/17-171-418-131.jpg
+- pageintom: '132'
+  image: v10/17-171-418-132.jpg
+- pageintom: '133'
+  image: v10/17-171-418-133.jpg
+- pageintom: '134'
+  image: v10/17-171-418-134.jpg
+- pageintom: '135'
+  image: v10/17-171-418-135.jpg
+- pageintom: '136'
+  image: v10/17-171-418-136.jpg
+- pageintom: '137'
+  image: v10/17-171-418-137.jpg
+- pageintom: '138'
+  image: v10/17-171-418-138.jpg
+- pageintom: '139'
+  image: v10/17-171-418-139.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Тульская область]
   listtitle: Список лиц - Тульская область
@@ -36,20 +45,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2988'
-      tom: '10'
-      pageintom: '133'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-133.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '133'
     page_image: v10/17-171-418-133.jpg
     persons:
     - id: '39003'
@@ -124,20 +120,7 @@ sublists:
       num: '20'
       name: БЫЛЬЦОВ Дорофей Иванович
       spravka: true
-  - page:
-      pageid: '2989'
-      tom: '10'
-      pageintom: '134'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-134.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '134'
     page_image: v10/17-171-418-134.jpg
     persons:
     - id: '39023'
@@ -238,20 +221,7 @@ sublists:
     - id: '39050'
       num: '48'
       name: ЗУБОВ Сергей Николаевич
-  - page:
-      pageid: '2990'
-      tom: '10'
-      pageintom: '135'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-135.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '135'
     page_image: v10/17-171-418-135.jpg
     persons:
     - id: '39051'
@@ -354,20 +324,7 @@ sublists:
       num: '76'
       name: НЕРЕЗОВ Петр Александрович
       spravka: true
-  - page:
-      pageid: '2991'
-      tom: '10'
-      pageintom: '136'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-418-136.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '136'
     page_image: v10/17-171-418-136.jpg
     persons:
     - id: '39079'
@@ -468,20 +425,7 @@ sublists:
       num: '103'
       name: СОЛНЦЕВ Яков Васильевич
       spravka: true
-  - page:
-      pageid: '2992'
-      tom: '10'
-      pageintom: '137'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-418-137.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v10/17-171-418-137.jpg
     persons:
     - id: '39106'
@@ -560,20 +504,7 @@ sublists:
     - id: '39128'
       num: '126'
       name: ЯДЧУК-АНДРЕЕВА Елизавета Павловна
-  - page:
-      pageid: '2993'
-      tom: '10'
-      pageintom: '138'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-138.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '138'
     page_image: v10/17-171-418-138.jpg
     persons:
     - id: '39129'
@@ -656,20 +587,7 @@ sublists:
       num: '21'
       name: КУЗНЕЦОВ Алексей Васильевич
       spravka: true
-  - page:
-      pageid: '2994'
-      tom: '10'
-      pageintom: '139'
-      alistid: '200'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-418-139.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '139'
     page_image: v10/17-171-418-139.jpg
     persons:
     - id: '39150'

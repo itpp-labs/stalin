@@ -13,20 +13,34 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v03/17-171-411-128.jpg
-- image: v03/17-171-411-129.jpg
-- image: v03/17-171-411-130.jpg
-- image: v03/17-171-411-131.jpg
-- image: v03/17-171-411-132.jpg
-- image: v03/17-171-411-133.jpg
-- image: v03/17-171-411-134.jpg
-- image: v03/17-171-411-135.jpg
-- image: v03/17-171-411-136.jpg
-- image: v03/17-171-411-137.jpg
-- image: v03/17-171-411-138.jpg
-- image: v03/17-171-411-139.jpg
-- image: v03/17-171-411-140.jpg
-- image: v03/17-171-411-141.jpg
+- pageintom: '128'
+  image: v03/17-171-411-128.jpg
+- pageintom: '129'
+  image: v03/17-171-411-129.jpg
+- pageintom: '130'
+  image: v03/17-171-411-130.jpg
+- pageintom: '131'
+  image: v03/17-171-411-131.jpg
+- pageintom: '132'
+  image: v03/17-171-411-132.jpg
+- pageintom: '133'
+  image: v03/17-171-411-133.jpg
+- pageintom: '134'
+  image: v03/17-171-411-134.jpg
+- pageintom: '135'
+  image: v03/17-171-411-135.jpg
+- pageintom: '136'
+  image: v03/17-171-411-136.jpg
+- pageintom: '137'
+  image: v03/17-171-411-137.jpg
+- pageintom: '138'
+  image: v03/17-171-411-138.jpg
+- pageintom: '139'
+  image: v03/17-171-411-139.jpg
+- pageintom: '140'
+  image: v03/17-171-411-140.jpg
+- pageintom: '141'
+  image: v03/17-171-411-141.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -42,20 +56,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '722'
-      tom: '3'
-      pageintom: '130'
-      alistid: '234'
-      pagekind: '5'
-      arowcount: '24'
-      picturefile: 17-171-411-130.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '130'
     page_image: v03/17-171-411-130.jpg
     persons:
     - id: '9112'
@@ -159,20 +160,7 @@ sublists:
       num: '24'
       name: ГРОЗДЕВ-ТОКАРЕНКО Григорий Никонорович
       spravka: true
-  - page:
-      pageid: '723'
-      tom: '3'
-      pageintom: '131'
-      alistid: '234'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-411-131.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '131'
     page_image: v03/17-171-411-131.jpg
     persons:
     - id: '9136'
@@ -295,20 +283,7 @@ sublists:
       num: '54'
       name: РАВИЧ-РУДЗЕЕВСКИЙ Григорий Иосифович
       spravka: true
-  - page:
-      pageid: '724'
-      tom: '3'
-      pageintom: '132'
-      alistid: '234'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-411-132.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '132'
     page_image: v03/17-171-411-132.jpg
     persons:
     - id: '9166'
@@ -363,20 +338,7 @@ sublists:
       num: '67'
       name: ЯСЕНСКАЯ Клара Германовна
       spravka: true
-  - page:
-      pageid: '725'
-      tom: '3'
-      pageintom: '133'
-      alistid: '234'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-411-133.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '133'
     page_image: v03/17-171-411-133.jpg
     persons:
     - id: '9179'
@@ -390,20 +352,7 @@ sublists:
       name: ФЛЕЙШЕР Стефан Петрович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '728'
-      tom: '3'
-      pageintom: '136'
-      alistid: '234'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-411-136.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '136'
     page_image: v03/17-171-411-136.jpg
     persons:
     - id: '9181'
@@ -443,20 +392,7 @@ sublists:
       name: СТЕПАНКОВ Михаил Игнатьевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '729'
-      tom: '3'
-      pageintom: '137'
-      alistid: '234'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-411-137.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v03/17-171-411-137.jpg
     persons:
     - id: '9191'

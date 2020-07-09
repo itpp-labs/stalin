@@ -12,15 +12,24 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-201.jpg
-- image: v09/17-171-417-202.jpg
-- image: v09/17-171-417-203.jpg
-- image: v09/17-171-417-204.jpg
-- image: v09/17-171-417-205.jpg
-- image: v09/17-171-417-206.jpg
-- image: v09/17-171-417-207.jpg
-- image: v09/17-171-417-208.jpg
-- image: v09/17-171-417-209.jpg
+- pageintom: '201'
+  image: v09/17-171-417-201.jpg
+- pageintom: '202'
+  image: v09/17-171-417-202.jpg
+- pageintom: '203'
+  image: v09/17-171-417-203.jpg
+- pageintom: '204'
+  image: v09/17-171-417-204.jpg
+- pageintom: '205'
+  image: v09/17-171-417-205.jpg
+- pageintom: '206'
+  image: v09/17-171-417-206.jpg
+- pageintom: '207'
+  image: v09/17-171-417-207.jpg
+- pageintom: '208'
+  image: v09/17-171-417-208.jpg
+- pageintom: '209'
+  image: v09/17-171-417-209.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -36,20 +45,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '2799'
-      tom: '9'
-      pageintom: '203'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-417-203.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v09/17-171-417-203.jpg
     persons:
     - id: '35964'
@@ -134,20 +130,7 @@ sublists:
       num: '20'
       name: ГОФМАН Борис Федорович
       spravka: true
-  - page:
-      pageid: '2800'
-      tom: '9'
-      pageintom: '204'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-204.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '204'
     page_image: v09/17-171-417-204.jpg
     persons:
     - id: '35984'
@@ -268,20 +251,7 @@ sublists:
       num: '49'
       name: МУЛЕВИЧ Максим Николаевич
       spravka: true
-  - page:
-      pageid: '2801'
-      tom: '9'
-      pageintom: '205'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-417-205.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '205'
     page_image: v09/17-171-417-205.jpg
     persons:
     - id: '36013'
@@ -402,20 +372,7 @@ sublists:
       num: '79'
       name: ЧЕКУНОВ Иван Гаврилович
       spravka: true
-  - page:
-      pageid: '2802'
-      tom: '9'
-      pageintom: '206'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-417-206.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '206'
     page_image: v09/17-171-417-206.jpg
     persons:
     - id: '36043'
@@ -454,20 +411,7 @@ sublists:
       num: '88'
       name: ЯНСОН Арвид Симонович
       spravka: true
-  - page:
-      pageid: '2803'
-      tom: '9'
-      pageintom: '207'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-417-207.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '207'
     page_image: v09/17-171-417-207.jpg
     persons:
     - id: '36052'
@@ -477,20 +421,7 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(Иностранные подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - page:
-      pageid: '2805'
-      tom: '9'
-      pageintom: '209'
-      alistid: '183'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-417-209.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '209'
     page_image: v09/17-171-417-209.jpg
     persons:
     - id: '36053'

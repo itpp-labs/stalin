@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-138.jpg
-- image: v02/17-171-410-139.jpg
-- image: v02/17-171-410-140.jpg
-- image: v02/17-171-410-141.jpg
-- image: v02/17-171-410-142.jpg
-- image: v02/17-171-410-143.jpg
+- pageintom: '138'
+  image: v02/17-171-410-138.jpg
+- pageintom: '139'
+  image: v02/17-171-410-139.jpg
+- pageintom: '140'
+  image: v02/17-171-410-140.jpg
+- pageintom: '141'
+  image: v02/17-171-410-141.jpg
+- pageintom: '142'
+  image: v02/17-171-410-142.jpg
+- pageintom: '143'
+  image: v02/17-171-410-143.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Свердловская обл.]
   listtitle: 'Список лиц: Свердловская обл.'
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '376'
-      tom: '2'
-      pageintom: '140'
-      alistid: '52'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-140.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '140'
     page_image: v02/17-171-410-140.jpg
     persons:
     - id: '4741'
@@ -157,20 +150,7 @@ sublists:
       num: '26'
       name: КАРИН Борис Алексеевич
       spravka: true
-  - page:
-      pageid: '377'
-      tom: '2'
-      pageintom: '141'
-      alistid: '52'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-410-141.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '141'
     page_image: v02/17-171-410-141.jpg
     persons:
     - id: '4767'
@@ -285,20 +265,7 @@ sublists:
       num: '54'
       name: ПЫСТОГОВ Илларион Григорьевич
       spravka: true
-  - page:
-      pageid: '378'
-      tom: '2'
-      pageintom: '142'
-      alistid: '52'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-410-142.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v02/17-171-410-142.jpg
     persons:
     - id: '4795'
@@ -357,20 +324,7 @@ sublists:
       num: '68'
       name: ШАРАПОВ Петр Иванович
       spravka: true
-  - page:
-      pageid: '379'
-      tom: '2'
-      pageintom: '143'
-      alistid: '52'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-410-143.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '143'
     page_image: v02/17-171-410-143.jpg
     persons:
     - id: '4809'

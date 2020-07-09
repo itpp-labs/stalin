@@ -15,14 +15,22 @@ signs:
   voroshilov: true
   kosior: true
 pages:
-- image: v02/17-171-410-241.jpg
-- image: v02/17-171-410-242.jpg
-- image: v02/17-171-410-243.jpg
-- image: v02/17-171-410-244.jpg
-- image: v02/17-171-410-245.jpg
-- image: v02/17-171-410-246.jpg
-- image: v02/17-171-410-247.jpg
-- image: v02/17-171-410-248.jpg
+- pageintom: '241'
+  image: v02/17-171-410-241.jpg
+- pageintom: '242'
+  image: v02/17-171-410-242.jpg
+- pageintom: '243'
+  image: v02/17-171-410-243.jpg
+- pageintom: '244'
+  image: v02/17-171-410-244.jpg
+- pageintom: '245'
+  image: v02/17-171-410-245.jpg
+- pageintom: '246'
+  image: v02/17-171-410-246.jpg
+- pageintom: '247'
+  image: v02/17-171-410-247.jpg
+- pageintom: '248'
+  image: v02/17-171-410-248.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Сталинградская обл.]
   listtitle: 'Список лиц: Сталинградская обл.'
@@ -38,20 +46,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '479'
-      tom: '2'
-      pageintom: '243'
-      alistid: '64'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-243.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '243'
     page_image: v02/17-171-410-243.jpg
     persons:
     - id: '6077'
@@ -157,20 +152,7 @@ sublists:
       num: '26'
       name: КРАСНОВ Захар Иванович
       spravka: true
-  - page:
-      pageid: '480'
-      tom: '2'
-      pageintom: '244'
-      alistid: '64'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-410-244.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '244'
     page_image: v02/17-171-410-244.jpg
     persons:
     - id: '6103'
@@ -260,20 +242,7 @@ sublists:
       num: '48'
       name: ЯЦКИН Николай Иванович
       spravka: true
-  - page:
-      pageid: '481'
-      tom: '2'
-      pageintom: '245'
-      alistid: '64'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-410-245.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '245'
     page_image: v02/17-171-410-245.jpg
     persons:
     - id: '6125'
@@ -288,20 +257,7 @@ sublists:
       name: ГЮБНЕР Иоганн Бейта
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '484'
-      tom: '2'
-      pageintom: '248'
-      alistid: '64'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-410-248.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '248'
     page_image: v02/17-171-410-248.jpg
     persons:
     - id: '6127'

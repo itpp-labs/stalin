@@ -13,13 +13,20 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-201.jpg
-- image: v05/17-171-413-202.jpg
-- image: v05/17-171-413-203.jpg
-- image: v05/17-171-413-204.jpg
-- image: v05/17-171-413-205.jpg
-- image: v05/17-171-413-206.jpg
-- image: v05/17-171-413-207.jpg
+- pageintom: '201'
+  image: v05/17-171-413-201.jpg
+- pageintom: '202'
+  image: v05/17-171-413-202.jpg
+- pageintom: '203'
+  image: v05/17-171-413-203.jpg
+- pageintom: '204'
+  image: v05/17-171-413-204.jpg
+- pageintom: '205'
+  image: v05/17-171-413-205.jpg
+- pageintom: '206'
+  image: v05/17-171-413-206.jpg
+- pageintom: '207'
+  image: v05/17-171-413-207.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -34,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1327'
-      tom: '5'
-      pageintom: '203'
-      alistid: '130'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-413-203.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v05/17-171-413-203.jpg
     persons:
     - id: '16898'
@@ -139,20 +133,7 @@ sublists:
       num: '23'
       name: ГРОСС Эдуард Болеславович
       spravka: true
-  - page:
-      pageid: '1328'
-      tom: '5'
-      pageintom: '204'
-      alistid: '130'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-204.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '204'
     page_image: v05/17-171-413-204.jpg
     persons:
     - id: '16921'
@@ -259,20 +240,7 @@ sublists:
       num: '51'
       name: МЕЛЬНИКОВ Арсений Ефремович
       spravka: true
-  - page:
-      pageid: '1329'
-      tom: '5'
-      pageintom: '205'
-      alistid: '130'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-205.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '205'
     page_image: v05/17-171-413-205.jpg
     persons:
     - id: '16949'
@@ -380,20 +348,7 @@ sublists:
       num: '80'
       name: СТРУПИНСКИЙ Мордух Давидович
       spravka: true
-  - page:
-      pageid: '1330'
-      tom: '5'
-      pageintom: '206'
-      alistid: '130'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-206.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '206'
     page_image: v05/17-171-413-206.jpg
     persons:
     - id: '16978'
@@ -473,20 +428,7 @@ sublists:
       num: '101'
       name: ЯКИМОВИЧ Федор Иванович
       spravka: true
-  - page:
-      pageid: '1331'
-      tom: '5'
-      pageintom: '207'
-      alistid: '130'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-207.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '207'
     page_image: v05/17-171-413-207.jpg
     persons:
     - id: '16999'

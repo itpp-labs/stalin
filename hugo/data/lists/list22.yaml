@@ -13,15 +13,24 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-172.jpg
-- image: v01/17-171-409-173.jpg
-- image: v01/17-171-409-174.jpg
-- image: v01/17-171-409-175.jpg
-- image: v01/17-171-409-176.jpg
-- image: v01/17-171-409-177.jpg
-- image: v01/17-171-409-178.jpg
-- image: v01/17-171-409-179.jpg
-- image: v01/17-171-409-180.jpg
+- pageintom: '172'
+  image: v01/17-171-409-172.jpg
+- pageintom: '173'
+  image: v01/17-171-409-173.jpg
+- pageintom: '174'
+  image: v01/17-171-409-174.jpg
+- pageintom: '175'
+  image: v01/17-171-409-175.jpg
+- pageintom: '176'
+  image: v01/17-171-409-176.jpg
+- pageintom: '177'
+  image: v01/17-171-409-177.jpg
+- pageintom: '178'
+  image: v01/17-171-409-178.jpg
+- pageintom: '179'
+  image: v01/17-171-409-179.jpg
+- pageintom: '180'
+  image: v01/17-171-409-180.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -48,20 +57,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '174'
-      tom: '1'
-      pageintom: '174'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-409-174.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '174'
     page_image: v01/17-171-409-174.jpg
     persons:
     - id: '2597'
@@ -168,20 +164,7 @@ sublists:
     - id: '2626'
       num: '30'
       name: ЯНКОВСКИЙ Абрам Менделевич
-  - page:
-      pageid: '175'
-      tom: '1'
-      pageintom: '175'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-409-175.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '175'
     page_image: v01/17-171-409-175.jpg
     persons:
     - id: '2627'
@@ -268,20 +251,7 @@ sublists:
       num: '21'
       name: МАЛЬКОВ Геннадий Евтрапович
       spravka: true
-  - page:
-      pageid: '176'
-      tom: '1'
-      pageintom: '176'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-409-176.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '176'
     page_image: v01/17-171-409-176.jpg
     persons:
     - id: '2648'
@@ -374,20 +344,7 @@ sublists:
     - id: '2672'
       num: '9'
       name: СИМСКИЙ Виктор Михайлович
-  - page:
-      pageid: '177'
-      tom: '1'
-      pageintom: '177'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-409-177.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '177'
     page_image: v01/17-171-409-177.jpg
     persons:
     - id: '2673'
@@ -436,20 +393,7 @@ sublists:
       name: ИЛЬЧИКЕС Гедалий Самойлович
       spravka: true
       subtitle1: <p align="center"><u>Гор. ТИРАСПОЛЬ.</u>
-  - page:
-      pageid: '178'
-      tom: '1'
-      pageintom: '178'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-409-178.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '178'
     page_image: v01/17-171-409-178.jpg
     persons:
     - id: '7169'
@@ -540,20 +484,7 @@ sublists:
       num: '9'
       name: ОБРУЧЕВ Александр Степанович
       spravka: true
-  - page:
-      pageid: '179'
-      tom: '1'
-      pageintom: '179'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-409-179.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '179'
     page_image: v01/17-171-409-179.jpg
     persons:
     - id: '11023'
@@ -636,20 +567,7 @@ sublists:
     - id: '2728'
       num: '7'
       name: ХЕЙФЕЦ Моисей Зиновьевич
-  - page:
-      pageid: '180'
-      tom: '1'
-      pageintom: '180'
-      alistid: '22'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-409-180.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '180'
     page_image: v01/17-171-409-180.jpg
     persons:
     - id: '2729'

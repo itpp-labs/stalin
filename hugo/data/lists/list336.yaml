@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-020.jpg
-- image: v06/17-171-414-021.jpg
-- image: v06/17-171-414-022.jpg
-- image: v06/17-171-414-023.jpg
-- image: v06/17-171-414-024.jpg
-- image: v06/17-171-414-025.jpg
+- pageintom: '20'
+  image: v06/17-171-414-020.jpg
+- pageintom: '21'
+  image: v06/17-171-414-021.jpg
+- pageintom: '22'
+  image: v06/17-171-414-022.jpg
+- pageintom: '23'
+  image: v06/17-171-414-023.jpg
+- pageintom: '24'
+  image: v06/17-171-414-024.jpg
+- pageintom: '25'
+  image: v06/17-171-414-025.jpg
 sublists:
 - title: Список от 3 января 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
@@ -36,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1527'
-      tom: '6'
-      pageintom: '22'
-      alistid: '336'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-414-022.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '22'
     page_image: v06/17-171-414-022.jpg
     persons:
     - id: '19627'
@@ -144,20 +137,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1528'
-      tom: '6'
-      pageintom: '23'
-      alistid: '336'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-414-023.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '23'
     page_image: v06/17-171-414-023.jpg
     persons:
     - id: '19647'
@@ -209,20 +189,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1529'
-      tom: '6'
-      pageintom: '24'
-      alistid: '336'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-414-024.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '24'
     page_image: v06/17-171-414-024.jpg
     persons:
     - id: '19655'
@@ -249,20 +216,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1530'
-      tom: '6'
-      pageintom: '25'
-      alistid: '336'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-025.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '25'
     page_image: v06/17-171-414-025.jpg
     persons:
     - id: '19657'

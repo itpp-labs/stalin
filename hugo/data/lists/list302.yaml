@@ -15,12 +15,18 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-133.jpg
-- image: v08/17-171-416-134.jpg
-- image: v08/17-171-416-135.jpg
-- image: v08/17-171-416-136.jpg
-- image: v08/17-171-416-137.jpg
-- image: v08/17-171-416-138.jpg
+- pageintom: '133'
+  image: v08/17-171-416-133.jpg
+- pageintom: '134'
+  image: v08/17-171-416-134.jpg
+- pageintom: '135'
+  image: v08/17-171-416-135.jpg
+- pageintom: '136'
+  image: v08/17-171-416-136.jpg
+- pageintom: '137'
+  image: v08/17-171-416-137.jpg
+- pageintom: '138'
+  image: v08/17-171-416-138.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2388'
-      tom: '8'
-      pageintom: '135'
-      alistid: '302'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-416-135.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '135'
     page_image: v08/17-171-416-135.jpg
     persons:
     - id: '30802'
@@ -123,20 +116,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2389'
-      tom: '8'
-      pageintom: '136'
-      alistid: '302'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-136.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '136'
     page_image: v08/17-171-416-136.jpg
     persons:
     - id: '30817'
@@ -228,20 +208,7 @@ sublists:
       num: '22'
       name: САФРОНОВ Константин Дмитриевич
       spravka: true
-  - page:
-      pageid: '2390'
-      tom: '8'
-      pageintom: '137'
-      alistid: '302'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-416-137.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '137'
     page_image: v08/17-171-416-137.jpg
     persons:
     - id: '30839'
@@ -272,20 +239,7 @@ sublists:
       num: '29'
       name: ЩЕКОЛДИН Андрей Васильевич
       spravka: true
-  - page:
-      pageid: '2391'
-      tom: '8'
-      pageintom: '138'
-      alistid: '302'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-416-138.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '138'
     page_image: v08/17-171-416-138.jpg
     persons:
     - id: '30846'

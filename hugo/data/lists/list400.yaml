@@ -13,11 +13,16 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-140.jpg
-- image: v11/17-171-419-141.jpg
-- image: v11/17-171-419-142.jpg
-- image: v11/17-171-419-143.jpg
-- image: v11/17-171-419-144.jpg
+- pageintom: '140'
+  image: v11/17-171-419-140.jpg
+- pageintom: '141'
+  image: v11/17-171-419-141.jpg
+- pageintom: '142'
+  image: v11/17-171-419-142.jpg
+- pageintom: '143'
+  image: v11/17-171-419-143.jpg
+- pageintom: '144'
+  image: v11/17-171-419-144.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Армянская ССР]
   listtitle: Список лиц - Армянская ССР
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3260'
-      tom: '11'
-      pageintom: '142'
-      alistid: '400'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-419-142.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v11/17-171-419-142.jpg
     persons:
     - id: '42551'
@@ -135,20 +127,7 @@ sublists:
       num: '21'
       name: ЕСАЯН Гарегин Левонович
       spravka: true
-  - page:
-      pageid: '3261'
-      tom: '11'
-      pageintom: '143'
-      alistid: '400'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-419-143.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '143'
     page_image: v11/17-171-419-143.jpg
     persons:
     - id: '42572'
@@ -233,20 +212,7 @@ sublists:
       num: '42'
       name: ШАХСУВАРОВ Александр Арутюнович
       spravka: true
-  - page:
-      pageid: '3262'
-      tom: '11'
-      pageintom: '144'
-      alistid: '400'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-419-144.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '144'
     page_image: v11/17-171-419-144.jpg
     persons:
     - id: '42593'

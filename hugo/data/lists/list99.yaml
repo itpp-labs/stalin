@@ -14,14 +14,22 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-177.jpg
-- image: v04/17-171-412-178.jpg
-- image: v04/17-171-412-179.jpg
-- image: v04/17-171-412-180.jpg
-- image: v04/17-171-412-181.jpg
-- image: v04/17-171-412-182.jpg
-- image: v04/17-171-412-183.jpg
-- image: v04/17-171-412-184.jpg
+- pageintom: '177'
+  image: v04/17-171-412-177.jpg
+- pageintom: '178'
+  image: v04/17-171-412-178.jpg
+- pageintom: '179'
+  image: v04/17-171-412-179.jpg
+- pageintom: '180'
+  image: v04/17-171-412-180.jpg
+- pageintom: '181'
+  image: v04/17-171-412-181.jpg
+- pageintom: '182'
+  image: v04/17-171-412-182.jpg
+- pageintom: '183'
+  image: v04/17-171-412-183.jpg
+- pageintom: '184'
+  image: v04/17-171-412-184.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская обл.
@@ -36,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1022'
-      tom: '4'
-      pageintom: '179'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-412-179.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '179'
     page_image: v04/17-171-412-179.jpg
     persons:
     - id: '12712'
@@ -157,20 +152,7 @@ sublists:
       num: '26'
       name: ВОРОНОВ Гавриил Дмитриевич
       spravka: true
-  - page:
-      pageid: '1023'
-      tom: '4'
-      pageintom: '180'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-412-180.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '180'
     page_image: v04/17-171-412-180.jpg
     persons:
     - id: '12738'
@@ -287,20 +269,7 @@ sublists:
       num: '55'
       name: КАРПОВ Григорий Семенович
       spravka: true
-  - page:
-      pageid: '1024'
-      tom: '4'
-      pageintom: '181'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '31'
-      picturefile: 17-171-412-181.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '181'
     page_image: v04/17-171-412-181.jpg
     persons:
     - id: '12767'
@@ -428,20 +397,7 @@ sublists:
       num: '86'
       name: НОРКИН Николай Павлович
       spravka: true
-  - page:
-      pageid: '1025'
-      tom: '4'
-      pageintom: '182'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-412-182.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '182'
     page_image: v04/17-171-412-182.jpg
     persons:
     - id: '12798'
@@ -559,20 +515,7 @@ sublists:
       num: '115'
       name: УСКОВ Николай Андреевич
       spravka: true
-  - page:
-      pageid: '1026'
-      tom: '4'
-      pageintom: '183'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-412-183.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '183'
     page_image: v04/17-171-412-183.jpg
     persons:
     - id: '12827'
@@ -647,20 +590,7 @@ sublists:
       num: '133'
       name: ЭСКИН Михаил Захарович
       spravka: true
-  - page:
-      pageid: '1027'
-      tom: '4'
-      pageintom: '184'
-      alistid: '99'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-412-184.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '184'
     page_image: v04/17-171-412-184.jpg
     persons:
     - id: '12845'

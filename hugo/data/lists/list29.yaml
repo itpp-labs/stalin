@@ -13,11 +13,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v01/17-171-409-217.jpg
-- image: v01/17-171-409-218.jpg
-- image: v01/17-171-409-219.jpg
-- image: v01/17-171-409-220.jpg
-- image: v01/17-171-409-221.jpg
+- pageintom: '217'
+  image: v01/17-171-409-217.jpg
+- pageintom: '218'
+  image: v01/17-171-409-218.jpg
+- pageintom: '219'
+  image: v01/17-171-409-219.jpg
+- pageintom: '220'
+  image: v01/17-171-409-220.jpg
+- pageintom: '221'
+  image: v01/17-171-409-221.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -35,20 +40,7 @@ sublists:
   - 10
   - 7
   pages:
-  - page:
-      pageid: '219'
-      tom: '1'
-      pageintom: '219'
-      alistid: '29'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-409-219.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '219'
     page_image: v01/17-171-409-219.jpg
     persons:
     - id: '3133'
@@ -119,20 +111,7 @@ sublists:
       num: '4'
       name: МИХАЙЛОВ Иван Михайлович
       spravka: true
-  - page:
-      pageid: '220'
-      tom: '1'
-      pageintom: '220'
-      alistid: '29'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-409-220.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '220'
     page_image: v01/17-171-409-220.jpg
     persons:
     - id: '3149'
@@ -158,20 +137,7 @@ sublists:
       num: '10'
       name: ЮМАШЕВ Георгий Захарович
       spravka: true
-  - page:
-      pageid: '221'
-      tom: '1'
-      pageintom: '221'
-      alistid: '29'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-409-221.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '221'
     page_image: v01/17-171-409-221.jpg
     persons:
     - id: '3155'

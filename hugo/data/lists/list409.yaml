@@ -10,24 +10,40 @@ delo:
   num: ''
 signs: {}
 pages:
-- image: v15/17-171-378-196.jpg
-- image: v15/17-171-378-197.jpg
-- image: v15/17-171-378-198.jpg
-- image: v15/17-171-378-199.jpg
-- image: v15/17-171-378-200.jpg
-- image: v15/17-171-378-201.jpg
-- image: v15/17-171-378-202.jpg
-- image: v15/17-171-378-203.jpg
-- image: v15/17-171-378-204.jpg
-- image: v15/17-171-378-205.jpg
-- image: v15/17-171-378-206.jpg
-- image: v15/17-171-378-207.jpg
-- image: v15/17-171-378-208.jpg
-- image: v15/17-171-378-209.jpg
-- image: v15/17-171-378-210.jpg
-- image: v15/17-171-378-211.jpg
+- pageintom: '196'
+  image: v15/17-171-378-196.jpg
+- pageintom: '197'
+  image: v15/17-171-378-197.jpg
+- pageintom: '198'
+  image: v15/17-171-378-198.jpg
+- pageintom: '199'
+  image: v15/17-171-378-199.jpg
+- pageintom: '200'
+  image: v15/17-171-378-200.jpg
+- pageintom: '201'
+  image: v15/17-171-378-201.jpg
+- pageintom: '202'
+  image: v15/17-171-378-202.jpg
+- pageintom: '203'
+  image: v15/17-171-378-203.jpg
+- pageintom: '204'
+  image: v15/17-171-378-204.jpg
+- pageintom: '205'
+  image: v15/17-171-378-205.jpg
+- pageintom: '206'
+  image: v15/17-171-378-206.jpg
+- pageintom: '207'
+  image: v15/17-171-378-207.jpg
+- pageintom: '208'
+  image: v15/17-171-378-208.jpg
+- pageintom: '209'
+  image: v15/17-171-378-209.jpg
+- pageintom: '210'
+  image: v15/17-171-378-210.jpg
+- pageintom: '211'
+  image: v15/17-171-378-211.jpg
 sublists:
-- title: Список от  []
+- title: ''
   listtitle: Список арестованных, числящихся за НКВД СССР
   sublisttitle: ''
   kat1: true
@@ -40,20 +56,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3985'
-      tom: '15'
-      pageintom: '196'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-196.jpg
-      textfile: 15-a196.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '196'
     page_image: v15/17-171-378-196.jpg
     persons:
     - id: '44961'
@@ -73,20 +76,7 @@ sublists:
       name: ПТУХИН Евгений Саввич
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3986'
-      tom: '15'
-      pageintom: '197'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-197.jpg
-      textfile: 15-a197.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '197'
     page_image: v15/17-171-378-197.jpg
     persons:
     - id: '44964'
@@ -104,20 +94,7 @@ sublists:
       name: ГУСЕВ Константин Михайлович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3987'
-      tom: '15'
-      pageintom: '198'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-198.jpg
-      textfile: 15-a198.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '198'
     page_image: v15/17-171-378-198.jpg
     persons:
     - id: '44967'
@@ -135,20 +112,7 @@ sublists:
       name: ПЕТРОВ Макарий Иванович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3988'
-      tom: '15'
-      pageintom: '199'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '4'
-      picturefile: 17-171-378-199.jpg
-      textfile: 15-a199.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '199'
     page_image: v15/17-171-378-199.jpg
     persons:
     - id: '44970'
@@ -171,20 +135,7 @@ sublists:
       name: ЛЕВИН Александр Алексеевич
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3989'
-      tom: '15'
-      pageintom: '200'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 17-171-378-200.jpg
-      textfile: 15-a200.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '200'
     page_image: v15/17-171-378-200.jpg
     persons:
     - id: '44974'
@@ -197,20 +148,7 @@ sublists:
       name: ИОНОВ Алексей Павлович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3990'
-      tom: '15'
-      pageintom: '201'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '4'
-      picturefile: 17-171-378-201.jpg
-      textfile: 15-a201.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '201'
     page_image: v15/17-171-378-201.jpg
     persons:
     - id: '44976'
@@ -233,20 +171,7 @@ sublists:
       name: ТАЛЬКОВСКИЙ Александр Александрович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3991'
-      tom: '15'
-      pageintom: '202'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '4'
-      picturefile: 17-171-378-202.jpg
-      textfile: 15-a202.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '202'
     page_image: v15/17-171-378-202.jpg
     persons:
     - id: '44980'
@@ -269,20 +194,7 @@ sublists:
       name: МИХНО Григорий Федорович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3992'
-      tom: '15'
-      pageintom: '203'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-203.jpg
-      textfile: 15-a203.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v15/17-171-378-203.jpg
     persons:
     - id: '44984'
@@ -300,20 +212,7 @@ sublists:
       name: ОНИСЬКО Сергей Григорьевич
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3993'
-      tom: '15'
-      pageintom: '204'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-204.jpg
-      textfile: 15-a204.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '204'
     page_image: v15/17-171-378-204.jpg
     persons:
     - id: '44987'
@@ -331,20 +230,7 @@ sublists:
       name: ХОДЯКОВ Александр Константинович
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '3994'
-      tom: '15'
-      pageintom: '205'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 17-171-378-205.jpg
-      textfile: 15-a205.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '205'
     page_image: v15/17-171-378-205.jpg
     persons:
     - id: '44990'
@@ -355,20 +241,7 @@ sublists:
       num: '31'
       name: ШИБАНОВ Василий Яковлевич
       gb_spravka: true
-  - page:
-      pageid: '3995'
-      tom: '15'
-      pageintom: '206'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 17-171-378-206.jpg
-      textfile: 15-a206.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '206'
     page_image: v15/17-171-378-206.jpg
     persons:
     - id: '44992'
@@ -379,20 +252,7 @@ sublists:
       num: '33'
       name: ИРЛИН Даниил Аркадьевич
       gb_spravka: true
-  - page:
-      pageid: '3996'
-      tom: '15'
-      pageintom: '207'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-207.jpg
-      textfile: 15-a207.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '207'
     page_image: v15/17-171-378-207.jpg
     persons:
     - id: '44994'
@@ -407,20 +267,7 @@ sublists:
       num: '36'
       name: ГОРИН Сергей Петрович
       gb_spravka: true
-  - page:
-      pageid: '3997'
-      tom: '15'
-      pageintom: '208'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-208.jpg
-      textfile: 15-a208.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '208'
     page_image: v15/17-171-378-208.jpg
     persons:
     - id: '44997'
@@ -435,20 +282,7 @@ sublists:
       num: '39'
       name: КАМИНСКИЙ Анисим Владимирович
       gb_spravka: true
-  - page:
-      pageid: '3998'
-      tom: '15'
-      pageintom: '209'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 17-171-378-209.jpg
-      textfile: 15-a209.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '209'
     page_image: v15/17-171-378-209.jpg
     persons:
     - id: '45000'
@@ -459,20 +293,7 @@ sublists:
       num: '41'
       name: АКИМОВ Борис Владимирович
       gb_spravka: true
-  - page:
-      pageid: '3999'
-      tom: '15'
-      pageintom: '210'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '3'
-      picturefile: 17-171-378-210.jpg
-      textfile: 15-a210.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '210'
     page_image: v15/17-171-378-210.jpg
     persons:
     - id: '45002'
@@ -488,20 +309,7 @@ sublists:
       num: '44'
       name: УЛЬЯНОВ Анатолий Петрович
       gb_spravka: true
-  - page:
-      pageid: '4000'
-      tom: '15'
-      pageintom: '211'
-      alistid: '409'
-      pagekind: '4'
-      arowcount: '2'
-      picturefile: 17-171-378-211.jpg
-      textfile: 15-a211.htm
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '211'
     page_image: v15/17-171-378-211.jpg
     persons:
     - id: '45005'

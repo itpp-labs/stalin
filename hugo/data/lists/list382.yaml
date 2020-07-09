@@ -12,34 +12,62 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v06/17-171-414-381.jpg
-- image: v06/17-171-414-382.jpg
-- image: v06/17-171-414-383.jpg
-- image: v06/17-171-414-384.jpg
-- image: v06/17-171-414-385.jpg
-- image: v06/17-171-414-386.jpg
-- image: v06/17-171-414-387.jpg
-- image: v06/17-171-414-388.jpg
-- image: v06/17-171-414-389.jpg
-- image: v06/17-171-414-390.jpg
-- image: v06/17-171-414-391.jpg
-- image: v06/17-171-414-392.jpg
-- image: v06/17-171-414-393.jpg
-- image: v06/17-171-414-394.jpg
-- image: v06/17-171-414-395.jpg
-- image: v06/17-171-414-396.jpg
-- image: v06/17-171-414-397.jpg
-- image: v06/17-171-414-398.jpg
-- image: v06/17-171-414-399.jpg
-- image: v06/17-171-414-400.jpg
-- image: v06/17-171-414-401.jpg
-- image: v06/17-171-414-402.jpg
-- image: v06/17-171-414-403.jpg
-- image: v06/17-171-414-404.jpg
-- image: v06/17-171-414-405.jpg
-- image: v06/17-171-414-406.jpg
-- image: v06/17-171-414-407.jpg
-- image: v06/17-171-414-408.jpg
+- pageintom: '381'
+  image: v06/17-171-414-381.jpg
+- pageintom: '382'
+  image: v06/17-171-414-382.jpg
+- pageintom: '383'
+  image: v06/17-171-414-383.jpg
+- pageintom: '384'
+  image: v06/17-171-414-384.jpg
+- pageintom: '385'
+  image: v06/17-171-414-385.jpg
+- pageintom: '386'
+  image: v06/17-171-414-386.jpg
+- pageintom: '387'
+  image: v06/17-171-414-387.jpg
+- pageintom: '388'
+  image: v06/17-171-414-388.jpg
+- pageintom: '389'
+  image: v06/17-171-414-389.jpg
+- pageintom: '390'
+  image: v06/17-171-414-390.jpg
+- pageintom: '391'
+  image: v06/17-171-414-391.jpg
+- pageintom: '392'
+  image: v06/17-171-414-392.jpg
+- pageintom: '393'
+  image: v06/17-171-414-393.jpg
+- pageintom: '394'
+  image: v06/17-171-414-394.jpg
+- pageintom: '395'
+  image: v06/17-171-414-395.jpg
+- pageintom: '396'
+  image: v06/17-171-414-396.jpg
+- pageintom: '397'
+  image: v06/17-171-414-397.jpg
+- pageintom: '398'
+  image: v06/17-171-414-398.jpg
+- pageintom: '399'
+  image: v06/17-171-414-399.jpg
+- pageintom: '400'
+  image: v06/17-171-414-400.jpg
+- pageintom: '401'
+  image: v06/17-171-414-401.jpg
+- pageintom: '402'
+  image: v06/17-171-414-402.jpg
+- pageintom: '403'
+  image: v06/17-171-414-403.jpg
+- pageintom: '404'
+  image: v06/17-171-414-404.jpg
+- pageintom: '405'
+  image: v06/17-171-414-405.jpg
+- pageintom: '406'
+  image: v06/17-171-414-406.jpg
+- pageintom: '407'
+  image: v06/17-171-414-407.jpg
+- pageintom: '408'
+  image: v06/17-171-414-408.jpg
 sublists:
 - title: Список от 9 февраля 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -54,20 +82,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1888'
-      tom: '6'
-      pageintom: '383'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-414-383.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '383'
     page_image: v06/17-171-414-383.jpg
     persons:
     - id: '24002'
@@ -162,20 +177,7 @@ sublists:
       name: АНИСИМОВ Николай Николаевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1889'
-      tom: '6'
-      pageintom: '384'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-384.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '384'
     page_image: v06/17-171-414-384.jpg
     persons:
     - id: '24025'
@@ -287,20 +289,7 @@ sublists:
       num: '51'
       name: БЕДРИН Василий Иосифович
       spravka: true
-  - page:
-      pageid: '1890'
-      tom: '6'
-      pageintom: '385'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-385.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '385'
     page_image: v06/17-171-414-385.jpg
     persons:
     - id: '24053'
@@ -414,20 +403,7 @@ sublists:
       num: '80'
       name: БОРИСОВ Петр Алексеевич
       spravka: true
-  - page:
-      pageid: '1891'
-      tom: '6'
-      pageintom: '386'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-386.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '386'
     page_image: v06/17-171-414-386.jpg
     persons:
     - id: '24082'
@@ -535,20 +511,7 @@ sublists:
       num: '109'
       name: ВЕДМЕДЬ Иван Антонович
       spravka: true
-  - page:
-      pageid: '1892'
-      tom: '6'
-      pageintom: '387'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-387.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '387'
     page_image: v06/17-171-414-387.jpg
     persons:
     - id: '24111'
@@ -663,20 +626,7 @@ sublists:
       num: '138'
       name: ГЛУШКО Федор Харитонович
       spravka: true
-  - page:
-      pageid: '1893'
-      tom: '6'
-      pageintom: '388'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-388.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '388'
     page_image: v06/17-171-414-388.jpg
     persons:
     - id: '24140'
@@ -785,20 +735,7 @@ sublists:
       num: '166'
       name: ГУЩИН Николай Семенович
       spravka: true
-  - page:
-      pageid: '1894'
-      tom: '6'
-      pageintom: '389'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-389.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '389'
     page_image: v06/17-171-414-389.jpg
     persons:
     - id: '24168'
@@ -910,20 +847,7 @@ sublists:
       num: '195'
       name: ЕСИН Константин Тимофеевич
       spravka: true
-  - page:
-      pageid: '1895'
-      tom: '6'
-      pageintom: '390'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-390.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '390'
     page_image: v06/17-171-414-390.jpg
     persons:
     - id: '24197'
@@ -1040,20 +964,7 @@ sublists:
       num: '224'
       name: ИГОНИН Иван Алексеевич
       spravka: true
-  - page:
-      pageid: '1896'
-      tom: '6'
-      pageintom: '391'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-391.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '391'
     page_image: v06/17-171-414-391.jpg
     persons:
     - id: '24226'
@@ -1165,20 +1076,7 @@ sublists:
     - id: '24253'
       num: '252'
       name: КИМ Гурий Семенович
-  - page:
-      pageid: '1897'
-      tom: '6'
-      pageintom: '392'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-392.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '392'
     page_image: v06/17-171-414-392.jpg
     persons:
     - id: '24254'
@@ -1292,20 +1190,7 @@ sublists:
       num: '280'
       name: КОНКУЛЬ Абрам Яковлевич
       spravka: true
-  - page:
-      pageid: '1898'
-      tom: '6'
-      pageintom: '393'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-393.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '393'
     page_image: v06/17-171-414-393.jpg
     persons:
     - id: '24282'
@@ -1422,20 +1307,7 @@ sublists:
       name: КРЕМЯНСКИЙ Владимир Моисеевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1899'
-      tom: '6'
-      pageintom: '394'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-394.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '394'
     page_image: v06/17-171-414-394.jpg
     persons:
     - id: '24311'
@@ -1555,20 +1427,7 @@ sublists:
     - id: '24339'
       num: '338'
       name: ЛАШКОВ Сергей Иванович
-  - page:
-      pageid: '1900'
-      tom: '6'
-      pageintom: '395'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-395.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '395'
     page_image: v06/17-171-414-395.jpg
     persons:
     - id: '24340'
@@ -1677,20 +1536,7 @@ sublists:
       num: '366'
       name: ЛЯЩЕВСКИЙ Павел Ананьевич
       spravka: true
-  - page:
-      pageid: '1901'
-      tom: '6'
-      pageintom: '396'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-396.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '396'
     page_image: v06/17-171-414-396.jpg
     persons:
     - id: '24368'
@@ -1808,20 +1654,7 @@ sublists:
       num: '395'
       name: МИНАКОВ Иван Федорович
       spravka: true
-  - page:
-      pageid: '1902'
-      tom: '6'
-      pageintom: '397'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-397.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '397'
     page_image: v06/17-171-414-397.jpg
     persons:
     - id: '24397'
@@ -1932,20 +1765,7 @@ sublists:
       num: '423'
       name: НИКИТИН Юрий Константинович
       spravka: true
-  - page:
-      pageid: '1903'
-      tom: '6'
-      pageintom: '398'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-398.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '398'
     page_image: v06/17-171-414-398.jpg
     persons:
     - id: '24425'
@@ -2062,20 +1882,7 @@ sublists:
       num: '452'
       name: ОСИПОВ Николай Иванович
       spravka: true
-  - page:
-      pageid: '1904'
-      tom: '6'
-      pageintom: '399'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-399.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '399'
     page_image: v06/17-171-414-399.jpg
     persons:
     - id: '24454'
@@ -2191,20 +1998,7 @@ sublists:
       name: ПОДОЛЬСКИЙ Елизар Семенович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1905'
-      tom: '6'
-      pageintom: '400'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-400.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '400'
     page_image: v06/17-171-414-400.jpg
     persons:
     - id: '24482'
@@ -2316,20 +2110,7 @@ sublists:
       num: '509'
       name: РЕБРОВ Гавриил Гавриилович
       spravka: true
-  - page:
-      pageid: '1906'
-      tom: '6'
-      pageintom: '401'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-401.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '401'
     page_image: v06/17-171-414-401.jpg
     persons:
     - id: '24511'
@@ -2440,20 +2221,7 @@ sublists:
     - id: '24539'
       num: '538'
       name: САВИНОВ Евгений Александрович
-  - page:
-      pageid: '1907'
-      tom: '6'
-      pageintom: '402'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-402.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '402'
     page_image: v06/17-171-414-402.jpg
     persons:
     - id: '24540'
@@ -2555,20 +2323,7 @@ sublists:
       num: '565'
       name: СИМОНЕНКО Григорий Иванович
       spravka: true
-  - page:
-      pageid: '1908'
-      tom: '6'
-      pageintom: '403'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-403.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '403'
     page_image: v06/17-171-414-403.jpg
     persons:
     - id: '24567'
@@ -2671,20 +2426,7 @@ sublists:
     - id: '24593'
       num: '592'
       name: СТАРОВОЙЧЭ Яков Яковлевич
-  - page:
-      pageid: '1909'
-      tom: '6'
-      pageintom: '404'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-404.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '404'
     page_image: v06/17-171-414-404.jpg
     persons:
     - id: '24594'
@@ -2791,20 +2533,7 @@ sublists:
       num: '619'
       name: ТЫЧКОВ Георгий Матвеевич
       spravka: true
-  - page:
-      pageid: '1910'
-      tom: '6'
-      pageintom: '405'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-414-405.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '405'
     page_image: v06/17-171-414-405.jpg
     persons:
     - id: '24621'
@@ -2919,20 +2648,7 @@ sublists:
       num: '648'
       name: ХОЛЕЦКИЙ Рафаил Львович
       spravka: true
-  - page:
-      pageid: '1911'
-      tom: '6'
-      pageintom: '406'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-406.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '406'
     page_image: v06/17-171-414-406.jpg
     persons:
     - id: '24650'
@@ -3037,20 +2753,7 @@ sublists:
       num: '675'
       name: ШВАЙКОВСКИЙ Николай Ануфриевич
       doublesexists: true
-  - page:
-      pageid: '1912'
-      tom: '6'
-      pageintom: '407'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-414-407.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '407'
     page_image: v06/17-171-414-407.jpg
     persons:
     - id: '24677'
@@ -3161,20 +2864,7 @@ sublists:
       num: '703'
       name: ЮРЬЕВ Феодосий Степанович
       spravka: true
-  - page:
-      pageid: '1913'
-      tom: '6'
-      pageintom: '408'
-      alistid: '382'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-414-408.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '408'
     page_image: v06/17-171-414-408.jpg
     persons:
     - id: '24705'

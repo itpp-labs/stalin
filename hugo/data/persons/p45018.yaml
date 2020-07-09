@@ -22,7 +22,7 @@ fond7:
   - ВТ МВО
   - 'Дата расстрела: 14.07.1941'
 lists:
-- title: Список от  [] - РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
+- title: РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
   url: /lists/list410#page-1-num-12
   date: '1940-09-06'
   signs: {}
@@ -78,5 +78,6 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v14/17-171-420-018.jpg
+  pages:
+  - image: disk/pictures/v14/17-171-420-018.jpg
+    pageintom: '18'

@@ -15,23 +15,40 @@ signs:
   voroshilov: true
   kosior: true
 pages:
-- image: v02/17-171-410-224.jpg
-- image: v02/17-171-410-225.jpg
-- image: v02/17-171-410-226.jpg
-- image: v02/17-171-410-227.jpg
-- image: v02/17-171-410-228.jpg
-- image: v02/17-171-410-229.jpg
-- image: v02/17-171-410-230.jpg
-- image: v02/17-171-410-231.jpg
-- image: v02/17-171-410-232.jpg
-- image: v02/17-171-410-233.jpg
-- image: v02/17-171-410-234.jpg
-- image: v02/17-171-410-235.jpg
-- image: v02/17-171-410-236.jpg
-- image: v02/17-171-410-237.jpg
-- image: v02/17-171-410-238.jpg
-- image: v02/17-171-410-239.jpg
-- image: v02/17-171-410-240.jpg
+- pageintom: '224'
+  image: v02/17-171-410-224.jpg
+- pageintom: '225'
+  image: v02/17-171-410-225.jpg
+- pageintom: '226'
+  image: v02/17-171-410-226.jpg
+- pageintom: '227'
+  image: v02/17-171-410-227.jpg
+- pageintom: '228'
+  image: v02/17-171-410-228.jpg
+- pageintom: '229'
+  image: v02/17-171-410-229.jpg
+- pageintom: '230'
+  image: v02/17-171-410-230.jpg
+- pageintom: '231'
+  image: v02/17-171-410-231.jpg
+- pageintom: '232'
+  image: v02/17-171-410-232.jpg
+- pageintom: '233'
+  image: v02/17-171-410-233.jpg
+- pageintom: '234'
+  image: v02/17-171-410-234.jpg
+- pageintom: '235'
+  image: v02/17-171-410-235.jpg
+- pageintom: '236'
+  image: v02/17-171-410-236.jpg
+- pageintom: '237'
+  image: v02/17-171-410-237.jpg
+- pageintom: '238'
+  image: v02/17-171-410-238.jpg
+- pageintom: '239'
+  image: v02/17-171-410-239.jpg
+- pageintom: '240'
+  image: v02/17-171-410-240.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -47,20 +64,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '462'
-      tom: '2'
-      pageintom: '226'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-410-226.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '226'
     page_image: v02/17-171-410-226.jpg
     persons:
     - id: '5934'
@@ -173,20 +177,7 @@ sublists:
       num: '27'
       name: ДЗЮБЕК Марк Францевич
       spravka: true
-  - page:
-      pageid: '463'
-      tom: '2'
-      pageintom: '227'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-410-227.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '227'
     page_image: v02/17-171-410-227.jpg
     persons:
     - id: '5961'
@@ -308,20 +299,7 @@ sublists:
       num: '56'
       name: МИСЕВИЧ Станислав Андреевич
       spravka: true
-  - page:
-      pageid: '464'
-      tom: '2'
-      pageintom: '228'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-228.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '228'
     page_image: v02/17-171-410-228.jpg
     persons:
     - id: '5990'
@@ -428,20 +406,7 @@ sublists:
       num: '82'
       name: СОСНОВСКИЙ Ян Федорович
       spravka: true
-  - page:
-      pageid: '465'
-      tom: '2'
-      pageintom: '229'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-410-229.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '229'
     page_image: v02/17-171-410-229.jpg
     persons:
     - id: '6016'
@@ -507,20 +472,7 @@ sublists:
       num: '98'
       name: ЯРСКИЙ Стефан Стефанович, он же <br />ЯРОШ Игнатий Стефанович
       spravka: true
-  - page:
-      pageid: '466'
-      tom: '2'
-      pageintom: '230'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-410-230.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '230'
     page_image: v02/17-171-410-230.jpg
     persons:
     - id: '6032'
@@ -549,20 +501,7 @@ sublists:
       name: ШИМКЕВИЧ Эмилия Марковна
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '472'
-      tom: '2'
-      pageintom: '236'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-410-236.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '236'
     page_image: v02/17-171-410-236.jpg
     persons:
     - id: '6037'
@@ -630,20 +569,7 @@ sublists:
       num: '18'
       name: УСТИНОВ Михаил Алексеевич
       spravka: true
-  - page:
-      pageid: '473'
-      tom: '2'
-      pageintom: '237'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-410-237.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '237'
     page_image: v02/17-171-410-237.jpg
     persons:
     - id: '6055'
@@ -669,20 +595,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '476'
-      tom: '2'
-      pageintom: '240'
-      alistid: '63'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-410-240.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '240'
     page_image: v02/17-171-410-240.jpg
     persons:
     - id: '6057'

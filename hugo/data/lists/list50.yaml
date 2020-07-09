@@ -15,15 +15,24 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-124.jpg
-- image: v02/17-171-410-125.jpg
-- image: v02/17-171-410-126.jpg
-- image: v02/17-171-410-127.jpg
-- image: v02/17-171-410-128.jpg
-- image: v02/17-171-410-129.jpg
-- image: v02/17-171-410-130.jpg
-- image: v02/17-171-410-131.jpg
-- image: v02/17-171-410-132.jpg
+- pageintom: '124'
+  image: v02/17-171-410-124.jpg
+- pageintom: '125'
+  image: v02/17-171-410-125.jpg
+- pageintom: '126'
+  image: v02/17-171-410-126.jpg
+- pageintom: '127'
+  image: v02/17-171-410-127.jpg
+- pageintom: '128'
+  image: v02/17-171-410-128.jpg
+- pageintom: '129'
+  image: v02/17-171-410-129.jpg
+- pageintom: '130'
+  image: v02/17-171-410-130.jpg
+- pageintom: '131'
+  image: v02/17-171-410-131.jpg
+- pageintom: '132'
+  image: v02/17-171-410-132.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Горьковская область]
   listtitle: 'Список лиц: Горьковская, Саратовская области'
@@ -38,20 +47,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '362'
-      tom: '2'
-      pageintom: '126'
-      alistid: '50'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-410-126.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v02/17-171-410-126.jpg
     persons:
     - id: '4662'
@@ -127,20 +123,7 @@ sublists:
       num: '18'
       name: УКРАИНЦЕВ Иван Васильевич
       spravka: true
-  - page:
-      pageid: '363'
-      tom: '2'
-      pageintom: '127'
-      alistid: '50'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-410-127.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v02/17-171-410-127.jpg
     persons:
     - id: '4680'
@@ -182,20 +165,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '364'
-      tom: '2'
-      pageintom: '128'
-      alistid: '50'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-410-128.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '128'
     page_image: v02/17-171-410-128.jpg
     persons:
     - id: '4686'
@@ -235,20 +205,7 @@ sublists:
       name: ШЕЛЕНБЕРГ Пауль Павлович (Берг Клаус)
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '365'
-      tom: '2'
-      pageintom: '129'
-      alistid: '50'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-410-129.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '129'
     page_image: v02/17-171-410-129.jpg
     persons:
     - id: '4693'

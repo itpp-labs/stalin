@@ -13,12 +13,18 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-001.jpg
-- image: v09/17-171-417-002.jpg
-- image: v09/17-171-417-003.jpg
-- image: v09/17-171-417-004.jpg
-- image: v09/17-171-417-005.jpg
-- image: v09/17-171-417-006.jpg
+- pageintom: '1'
+  image: v09/17-171-417-001.jpg
+- pageintom: '2'
+  image: v09/17-171-417-002.jpg
+- pageintom: '3'
+  image: v09/17-171-417-003.jpg
+- pageintom: '4'
+  image: v09/17-171-417-004.jpg
+- pageintom: '5'
+  image: v09/17-171-417-005.jpg
+- pageintom: '6'
+  image: v09/17-171-417-006.jpg
 sublists:
 - title: Список от 10.VI.38г. [Коми АССР]
   listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2605'
-      tom: '9'
-      pageintom: '3'
-      alistid: '155'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-417-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v09/17-171-417-003.jpg
     persons:
     - id: '33307'
@@ -111,20 +104,7 @@ sublists:
       num: '16'
       name: ШВАРЦБУРГ Данил Исакович
       spravka: true
-  - page:
-      pageid: '2606'
-      tom: '9'
-      pageintom: '4'
-      alistid: '155'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-417-004.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v09/17-171-417-004.jpg
     persons:
     - id: '33323'
@@ -154,20 +134,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2607'
-      tom: '9'
-      pageintom: '5'
-      alistid: '155'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-417-005.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v09/17-171-417-005.jpg
     persons:
     - id: '33327'
@@ -196,20 +163,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2608'
-      tom: '9'
-      pageintom: '6'
-      alistid: '155'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-417-006.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v09/17-171-417-006.jpg
     persons:
     - id: '33330'

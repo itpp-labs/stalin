@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-013.jpg
-- image: v04/17-171-412-014.jpg
-- image: v04/17-171-412-015.jpg
-- image: v04/17-171-412-016.jpg
-- image: v04/17-171-412-017.jpg
-- image: v04/17-171-412-018.jpg
+- pageintom: '13'
+  image: v04/17-171-412-013.jpg
+- pageintom: '14'
+  image: v04/17-171-412-014.jpg
+- pageintom: '15'
+  image: v04/17-171-412-015.jpg
+- pageintom: '16'
+  image: v04/17-171-412-016.jpg
+- pageintom: '17'
+  image: v04/17-171-412-017.jpg
+- pageintom: '18'
+  image: v04/17-171-412-018.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Восточно-Сибирская область]
   listtitle: 'Список лиц: Восточно-Сибирская область'
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '858'
-      tom: '4'
-      pageintom: '15'
-      alistid: '80'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-412-015.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '15'
     page_image: v04/17-171-412-015.jpg
     persons:
     - id: '10516'
@@ -142,20 +135,7 @@ sublists:
       num: '23'
       name: ЗАПОРОЖСКИЙ Анисим Гордеевич
       spravka: true
-  - page:
-      pageid: '859'
-      tom: '4'
-      pageintom: '16'
-      alistid: '80'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-412-016.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '16'
     page_image: v04/17-171-412-016.jpg
     persons:
     - id: '10539'
@@ -275,20 +255,7 @@ sublists:
       num: '53'
       name: ПУШКАРЕВ Григорий Михайлович
       spravka: true
-  - page:
-      pageid: '860'
-      tom: '4'
-      pageintom: '17'
-      alistid: '80'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-412-017.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '17'
     page_image: v04/17-171-412-017.jpg
     persons:
     - id: '10569'
@@ -400,20 +367,7 @@ sublists:
       num: '80'
       name: ЮШКОВ Николай Матвеевич
       spravka: true
-  - page:
-      pageid: '861'
-      tom: '4'
-      pageintom: '18'
-      alistid: '80'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-412-018.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '18'
     page_image: v04/17-171-412-018.jpg
     persons:
     - id: '10596'

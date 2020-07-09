@@ -15,12 +15,18 @@ signs:
   voroshilov: true
   kosior: true
 pages:
-- image: v02/17-171-410-249.jpg
-- image: v02/17-171-410-250.jpg
-- image: v02/17-171-410-251.jpg
-- image: v02/17-171-410-252.jpg
-- image: v02/17-171-410-253.jpg
-- image: v02/17-171-410-254.jpg
+- pageintom: '249'
+  image: v02/17-171-410-249.jpg
+- pageintom: '250'
+  image: v02/17-171-410-250.jpg
+- pageintom: '251'
+  image: v02/17-171-410-251.jpg
+- pageintom: '252'
+  image: v02/17-171-410-252.jpg
+- pageintom: '253'
+  image: v02/17-171-410-253.jpg
+- pageintom: '254'
+  image: v02/17-171-410-254.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '487'
-      tom: '2'
-      pageintom: '251'
-      alistid: '65'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-251.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '251'
     page_image: v02/17-171-410-251.jpg
     persons:
     - id: '6141'
@@ -157,20 +150,7 @@ sublists:
       num: '26'
       name: КЛЯМЕРОВ Анатолий Павлович
       spravka: true
-  - page:
-      pageid: '488'
-      tom: '2'
-      pageintom: '252'
-      alistid: '65'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-252.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '252'
     page_image: v02/17-171-410-252.jpg
     persons:
     - id: '6167'
@@ -293,20 +273,7 @@ sublists:
       num: '56'
       name: САФРОНОВ Сергей Васильевич
       spravka: true
-  - page:
-      pageid: '489'
-      tom: '2'
-      pageintom: '253'
-      alistid: '65'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-410-253.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '253'
     page_image: v02/17-171-410-253.jpg
     persons:
     - id: '6197'
@@ -357,20 +324,7 @@ sublists:
       num: '68'
       name: ЮШКОВ Борис Владимирович
       spravka: true
-  - page:
-      pageid: '490'
-      tom: '2'
-      pageintom: '254'
-      alistid: '65'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-410-254.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '254'
     page_image: v02/17-171-410-254.jpg
     persons:
     - id: '6209'

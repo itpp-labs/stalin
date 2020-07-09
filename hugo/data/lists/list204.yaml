@@ -13,11 +13,16 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-168.jpg
-- image: v10/17-171-418-169.jpg
-- image: v10/17-171-418-170.jpg
-- image: v10/17-171-418-171.jpg
-- image: v10/17-171-418-172.jpg
+- pageintom: '168'
+  image: v10/17-171-418-168.jpg
+- pageintom: '169'
+  image: v10/17-171-418-169.jpg
+- pageintom: '170'
+  image: v10/17-171-418-170.jpg
+- pageintom: '171'
+  image: v10/17-171-418-171.jpg
+- pageintom: '172'
+  image: v10/17-171-418-172.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская область
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3025'
-      tom: '10'
-      pageintom: '170'
-      alistid: '204'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-418-170.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '170'
     page_image: v10/17-171-418-170.jpg
     persons:
     - id: '39608'
@@ -131,20 +123,7 @@ sublists:
       num: '22'
       name: РОМАНОВ-СКОРОХОД Григорий Трофимович
       spravka: true
-  - page:
-      pageid: '3026'
-      tom: '10'
-      pageintom: '171'
-      alistid: '204'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-418-171.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '171'
     page_image: v10/17-171-418-171.jpg
     persons:
     - id: '39630'
@@ -172,20 +151,7 @@ sublists:
       num: '29'
       name: ЧЕТЫРИН Федор Дмитриевич
       spravka: true
-  - page:
-      pageid: '3027'
-      tom: '10'
-      pageintom: '172'
-      alistid: '204'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-418-172.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '172'
     page_image: v10/17-171-418-172.jpg
     persons:
     - id: '39637'

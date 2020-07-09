@@ -12,14 +12,22 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-176.jpg
-- image: v09/17-171-417-177.jpg
-- image: v09/17-171-417-178.jpg
-- image: v09/17-171-417-179.jpg
-- image: v09/17-171-417-180.jpg
-- image: v09/17-171-417-181.jpg
-- image: v09/17-171-417-182.jpg
-- image: v09/17-171-417-183.jpg
+- pageintom: '176'
+  image: v09/17-171-417-176.jpg
+- pageintom: '177'
+  image: v09/17-171-417-177.jpg
+- pageintom: '178'
+  image: v09/17-171-417-178.jpg
+- pageintom: '179'
+  image: v09/17-171-417-179.jpg
+- pageintom: '180'
+  image: v09/17-171-417-180.jpg
+- pageintom: '181'
+  image: v09/17-171-417-181.jpg
+- pageintom: '182'
+  image: v09/17-171-417-182.jpg
+- pageintom: '183'
+  image: v09/17-171-417-183.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-Центр]
   listtitle: Список лиц - Москва-центр
@@ -34,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2774'
-      tom: '9'
-      pageintom: '178'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-417-178.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '178'
     page_image: v09/17-171-417-178.jpg
     persons:
     - id: '35655'
@@ -132,20 +127,7 @@ sublists:
       num: '20'
       name: ВИТСУТ Карл Михайлович
       spravka: true
-  - page:
-      pageid: '2775'
-      tom: '9'
-      pageintom: '179'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-179.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '179'
     page_image: v09/17-171-417-179.jpg
     persons:
     - id: '35675'
@@ -263,20 +245,7 @@ sublists:
       num: '49'
       name: КОШКИН Константин Сергеевич
       spravka: true
-  - page:
-      pageid: '2776'
-      tom: '9'
-      pageintom: '180'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-180.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '180'
     page_image: v09/17-171-417-180.jpg
     persons:
     - id: '35704'
@@ -393,20 +362,7 @@ sublists:
       num: '78'
       name: ПЕРЕЛЕШИН Лев Николаевич
       spravka: true
-  - page:
-      pageid: '2777'
-      tom: '9'
-      pageintom: '181'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-181.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '181'
     page_image: v09/17-171-417-181.jpg
     persons:
     - id: '35733'
@@ -524,20 +480,7 @@ sublists:
       num: '107'
       name: ФЕДОРЕНКО Леонид Захарович
       spravka: true
-  - page:
-      pageid: '2778'
-      tom: '9'
-      pageintom: '182'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-417-182.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '182'
     page_image: v09/17-171-417-182.jpg
     persons:
     - id: '35762'
@@ -600,20 +543,7 @@ sublists:
       num: '122'
       name: ЯНСОН Николай Михайлович
       spravka: true
-  - page:
-      pageid: '2779'
-      tom: '9'
-      pageintom: '183'
-      alistid: '181'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-417-183.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '183'
     page_image: v09/17-171-417-183.jpg
     persons:
     - id: '35777'

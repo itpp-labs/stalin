@@ -13,12 +13,18 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-274.jpg
-- image: v05/17-171-413-275.jpg
-- image: v05/17-171-413-276.jpg
-- image: v05/17-171-413-277.jpg
-- image: v05/17-171-413-278.jpg
-- image: v05/17-171-413-279.jpg
+- pageintom: '274'
+  image: v05/17-171-413-274.jpg
+- pageintom: '275'
+  image: v05/17-171-413-275.jpg
+- pageintom: '276'
+  image: v05/17-171-413-276.jpg
+- pageintom: '277'
+  image: v05/17-171-413-277.jpg
+- pageintom: '278'
+  image: v05/17-171-413-278.jpg
+- pageintom: '279'
+  image: v05/17-171-413-279.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Горьковская область]
   listtitle: Список лиц - Горьковская область, Крымская АССР
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1400'
-      tom: '5'
-      pageintom: '276'
-      alistid: '138'
-      pagekind: '5'
-      arowcount: '21'
-      picturefile: 17-171-413-276.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '276'
     page_image: v05/17-171-413-276.jpg
     persons:
     - id: '17973'
@@ -136,20 +129,7 @@ sublists:
       num: '21'
       name: МАРГОЛИН Иосиф Абрамович
       spravka: true
-  - page:
-      pageid: '1401'
-      tom: '5'
-      pageintom: '277'
-      alistid: '138'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-413-277.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '277'
     page_image: v05/17-171-413-277.jpg
     persons:
     - id: '17994'
@@ -200,20 +180,7 @@ sublists:
       num: '33'
       name: ШЛЫКОВ Иван Александрович
       spravka: true
-  - page:
-      pageid: '1402'
-      tom: '5'
-      pageintom: '278'
-      alistid: '138'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-413-278.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '278'
     page_image: v05/17-171-413-278.jpg
     persons:
     - id: '18006'
@@ -247,20 +214,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1403'
-      tom: '5'
-      pageintom: '279'
-      alistid: '138'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-413-279.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '279'
     page_image: v05/17-171-413-279.jpg
     persons:
     - id: '18010'

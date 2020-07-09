@@ -12,16 +12,26 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-099.jpg
-- image: v02/17-171-410-100.jpg
-- image: v02/17-171-410-101.jpg
-- image: v02/17-171-410-102.jpg
-- image: v02/17-171-410-103.jpg
-- image: v02/17-171-410-104.jpg
-- image: v02/17-171-410-105.jpg
-- image: v02/17-171-410-106.jpg
-- image: v02/17-171-410-107.jpg
-- image: v02/17-171-410-108.jpg
+- pageintom: '99'
+  image: v02/17-171-410-099.jpg
+- pageintom: '100'
+  image: v02/17-171-410-100.jpg
+- pageintom: '101'
+  image: v02/17-171-410-101.jpg
+- pageintom: '102'
+  image: v02/17-171-410-102.jpg
+- pageintom: '103'
+  image: v02/17-171-410-103.jpg
+- pageintom: '104'
+  image: v02/17-171-410-104.jpg
+- pageintom: '105'
+  image: v02/17-171-410-105.jpg
+- pageintom: '106'
+  image: v02/17-171-410-106.jpg
+- pageintom: '107'
+  image: v02/17-171-410-107.jpg
+- pageintom: '108'
+  image: v02/17-171-410-108.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Азаво-Черноморский край]
   listtitle: 'Список лиц: Азово-Черноморский край'
@@ -36,20 +46,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '337'
-      tom: '2'
-      pageintom: '101'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-410-101.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '101'
     page_image: v02/17-171-410-101.jpg
     persons:
     - id: '4427'
@@ -141,20 +138,7 @@ sublists:
       num: '23'
       name: ГИБЕР Борис Владимирович
       spravka: true
-  - page:
-      pageid: '338'
-      tom: '2'
-      pageintom: '102'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-102.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '102'
     page_image: v02/17-171-410-102.jpg
     persons:
     - id: '4450'
@@ -273,20 +257,7 @@ sublists:
       num: '53'
       name: ЗОРИЧ Абрам Федорович
       spravka: true
-  - page:
-      pageid: '339'
-      tom: '2'
-      pageintom: '103'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '31'
-      picturefile: 17-171-410-103.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '103'
     page_image: v02/17-171-410-103.jpg
     persons:
     - id: '4480'
@@ -411,20 +382,7 @@ sublists:
       num: '84'
       name: МАНЖУРА Николай Кириллович
       spravka: true
-  - page:
-      pageid: '340'
-      tom: '2'
-      pageintom: '104'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-104.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '104'
     page_image: v02/17-171-410-104.jpg
     persons:
     - id: '4511'
@@ -540,20 +498,7 @@ sublists:
       num: '114'
       name: СИДОРОВ Иван Григорьевич
       spravka: true
-  - page:
-      pageid: '341'
-      tom: '2'
-      pageintom: '105'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-105.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '105'
     page_image: v02/17-171-410-105.jpg
     persons:
     - id: '4541'
@@ -668,20 +613,7 @@ sublists:
       num: '144'
       name: ЧЕРЕПНЕВ Никифор Георгиевич
       spravka: true
-  - page:
-      pageid: '342'
-      tom: '2'
-      pageintom: '106'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-410-106.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '106'
     page_image: v02/17-171-410-106.jpg
     persons:
     - id: '4571'
@@ -732,20 +664,7 @@ sublists:
     - id: '4583'
       num: '157'
       name: ЯХОНТОВ Семен Евдокимович
-  - page:
-      pageid: '343'
-      tom: '2'
-      pageintom: '107'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-107.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '107'
     page_image: v02/17-171-410-107.jpg
     persons:
     - id: '4584'
@@ -846,20 +765,7 @@ sublists:
       num: '26'
       name: СМИРНОВ Василий Васильевич
       spravka: true
-  - page:
-      pageid: '344'
-      tom: '2'
-      pageintom: '108'
-      alistid: '47'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-410-108.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '108'
     page_image: v02/17-171-410-108.jpg
     persons:
     - id: '4610'

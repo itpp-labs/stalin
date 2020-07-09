@@ -15,14 +15,22 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-069.jpg
-- image: v07/17-171-415-070.jpg
-- image: v07/17-171-415-071.jpg
-- image: v07/17-171-415-072.jpg
-- image: v07/17-171-415-073.jpg
-- image: v07/17-171-415-074.jpg
-- image: v07/17-171-415-075.jpg
-- image: v07/17-171-415-076.jpg
+- pageintom: '69'
+  image: v07/17-171-415-069.jpg
+- pageintom: '70'
+  image: v07/17-171-415-070.jpg
+- pageintom: '71'
+  image: v07/17-171-415-071.jpg
+- pageintom: '72'
+  image: v07/17-171-415-072.jpg
+- pageintom: '73'
+  image: v07/17-171-415-073.jpg
+- pageintom: '74'
+  image: v07/17-171-415-074.jpg
+- pageintom: '75'
+  image: v07/17-171-415-075.jpg
+- pageintom: '76'
+  image: v07/17-171-415-076.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
@@ -37,20 +45,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2041'
-      tom: '7'
-      pageintom: '71'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-071.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v07/17-171-415-071.jpg
     persons:
     - id: '26503'
@@ -138,20 +133,7 @@ sublists:
       num: '21'
       name: КАЗАКОВ Иван Петрович
       spravka: true
-  - page:
-      pageid: '2042'
-      tom: '7'
-      pageintom: '72'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-072.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '72'
     page_image: v07/17-171-415-072.jpg
     persons:
     - id: '26524'
@@ -267,20 +249,7 @@ sublists:
       num: '50'
       name: ТАРАСОВ Николай Васильевич
       spravka: true
-  - page:
-      pageid: '2043'
-      tom: '7'
-      pageintom: '73'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-415-073.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '73'
     page_image: v07/17-171-415-073.jpg
     persons:
     - id: '26553'
@@ -319,20 +288,7 @@ sublists:
       num: '59'
       name: ЯПРЫНЦЕВ Андрей Петрович
       spravka: true
-  - page:
-      pageid: '2044'
-      tom: '7'
-      pageintom: '74'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-415-074.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '74'
     page_image: v07/17-171-415-074.jpg
     persons:
     - id: '26562'
@@ -382,20 +338,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2045'
-      tom: '7'
-      pageintom: '75'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-415-075.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '75'
     page_image: v07/17-171-415-075.jpg
     persons:
     - id: '26570'
@@ -490,20 +433,7 @@ sublists:
       num: '23'
       name: МУДИР Сергей Пантелеймонович
       spravka: true
-  - page:
-      pageid: '2046'
-      tom: '7'
-      pageintom: '76'
-      alistid: '259'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-415-076.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '76'
     page_image: v07/17-171-415-076.jpg
     persons:
     - id: '26593'

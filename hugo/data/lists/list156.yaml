@@ -12,13 +12,20 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-007.jpg
-- image: v09/17-171-417-008.jpg
-- image: v09/17-171-417-009.jpg
-- image: v09/17-171-417-010.jpg
-- image: v09/17-171-417-011.jpg
-- image: v09/17-171-417-012.jpg
-- image: v09/17-171-417-013.jpg
+- pageintom: '7'
+  image: v09/17-171-417-007.jpg
+- pageintom: '8'
+  image: v09/17-171-417-008.jpg
+- pageintom: '9'
+  image: v09/17-171-417-009.jpg
+- pageintom: '10'
+  image: v09/17-171-417-010.jpg
+- pageintom: '11'
+  image: v09/17-171-417-011.jpg
+- pageintom: '12'
+  image: v09/17-171-417-012.jpg
+- pageintom: '13'
+  image: v09/17-171-417-013.jpg
 sublists:
 - title: Список от 10.VI.38г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -33,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2611'
-      tom: '9'
-      pageintom: '9'
-      alistid: '156'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-417-009.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v09/17-171-417-009.jpg
     persons:
     - id: '33331'
@@ -134,20 +128,7 @@ sublists:
       num: '21'
       name: ГАВРИЛОВ Андрей Ефимович
       spravka: true
-  - page:
-      pageid: '2612'
-      tom: '9'
-      pageintom: '10'
-      alistid: '156'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-010.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '10'
     page_image: v09/17-171-417-010.jpg
     persons:
     - id: '33352'
@@ -259,20 +240,7 @@ sublists:
       num: '50'
       name: МАКАРОВ Игнатий Иванович
       spravka: true
-  - page:
-      pageid: '2613'
-      tom: '9'
-      pageintom: '11'
-      alistid: '156'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-011.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '11'
     page_image: v09/17-171-417-011.jpg
     persons:
     - id: '33381'
@@ -377,20 +345,7 @@ sublists:
     - id: '33409'
       num: '79'
       name: СТАВИНСКИЙ Филипп Исакович
-  - page:
-      pageid: '2614'
-      tom: '9'
-      pageintom: '12'
-      alistid: '156'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-417-012.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v09/17-171-417-012.jpg
     persons:
     - id: '33410'
@@ -438,20 +393,7 @@ sublists:
     - id: '33422'
       num: '92'
       name: ЯРРУЛИН Киям Яруллович
-  - page:
-      pageid: '2615'
-      tom: '9'
-      pageintom: '13'
-      alistid: '156'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-417-013.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '13'
     page_image: v09/17-171-417-013.jpg
     persons:
     - id: '33423'

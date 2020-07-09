@@ -15,15 +15,24 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-026.jpg
-- image: v06/17-171-414-027.jpg
-- image: v06/17-171-414-028.jpg
-- image: v06/17-171-414-029.jpg
-- image: v06/17-171-414-030.jpg
-- image: v06/17-171-414-031.jpg
-- image: v06/17-171-414-032.jpg
-- image: v06/17-171-414-033.jpg
-- image: v06/17-171-414-034.jpg
+- pageintom: '26'
+  image: v06/17-171-414-026.jpg
+- pageintom: '27'
+  image: v06/17-171-414-027.jpg
+- pageintom: '28'
+  image: v06/17-171-414-028.jpg
+- pageintom: '29'
+  image: v06/17-171-414-029.jpg
+- pageintom: '30'
+  image: v06/17-171-414-030.jpg
+- pageintom: '31'
+  image: v06/17-171-414-031.jpg
+- pageintom: '32'
+  image: v06/17-171-414-032.jpg
+- pageintom: '33'
+  image: v06/17-171-414-033.jpg
+- pageintom: '34'
+  image: v06/17-171-414-034.jpg
 sublists:
 - title: Список от 3 января 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
@@ -38,20 +47,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1533'
-      tom: '6'
-      pageintom: '28'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-414-028.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '28'
     page_image: v06/17-171-414-028.jpg
     persons:
     - id: '19658'
@@ -128,20 +124,7 @@ sublists:
       num: '18'
       name: ФРУМКИН Валерий Соломонович
       spravka: true
-  - page:
-      pageid: '1534'
-      tom: '6'
-      pageintom: '29'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-029.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v06/17-171-414-029.jpg
     persons:
     - id: '19676'
@@ -156,20 +139,7 @@ sublists:
       num: '21'
       name: ШИППЕР Михаил Борисович
       spravka: true
-  - page:
-      pageid: '1535'
-      tom: '6'
-      pageintom: '30'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-414-030.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '30'
     page_image: v06/17-171-414-030.jpg
     persons:
     - id: '19679'
@@ -211,20 +181,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1536'
-      tom: '6'
-      pageintom: '31'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-414-031.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '31'
     page_image: v06/17-171-414-031.jpg
     persons:
     - id: '19685'
@@ -260,20 +217,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1537'
-      tom: '6'
-      pageintom: '32'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-032.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '32'
     page_image: v06/17-171-414-032.jpg
     persons:
     - id: '19691'
@@ -288,20 +232,7 @@ sublists:
     - id: '19693'
       num: '3'
       name: ШАГОВ Николай Васильевич
-  - page:
-      pageid: '1538'
-      tom: '6'
-      pageintom: '33'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-414-033.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '33'
     page_image: v06/17-171-414-033.jpg
     persons:
     - id: '19694'
@@ -329,20 +260,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1539'
-      tom: '6'
-      pageintom: '34'
-      alistid: '337'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-034.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '34'
     page_image: v06/17-171-414-034.jpg
     persons:
     - id: '19697'

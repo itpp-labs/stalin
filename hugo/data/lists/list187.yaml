@@ -12,16 +12,26 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v09/17-171-417-236.jpg
-- image: v09/17-171-417-237.jpg
-- image: v09/17-171-417-238.jpg
-- image: v09/17-171-417-239.jpg
-- image: v09/17-171-417-240.jpg
-- image: v09/17-171-417-241.jpg
-- image: v09/17-171-417-242.jpg
-- image: v09/17-171-417-243.jpg
-- image: v09/17-171-417-244.jpg
-- image: v09/17-171-417-245.jpg
+- pageintom: '236'
+  image: v09/17-171-417-236.jpg
+- pageintom: '237'
+  image: v09/17-171-417-237.jpg
+- pageintom: '238'
+  image: v09/17-171-417-238.jpg
+- pageintom: '239'
+  image: v09/17-171-417-239.jpg
+- pageintom: '240'
+  image: v09/17-171-417-240.jpg
+- pageintom: '241'
+  image: v09/17-171-417-241.jpg
+- pageintom: '242'
+  image: v09/17-171-417-242.jpg
+- pageintom: '243'
+  image: v09/17-171-417-243.jpg
+- pageintom: '244'
+  image: v09/17-171-417-244.jpg
+- pageintom: '245'
+  image: v09/17-171-417-245.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 2)]
   listtitle: списка лиц N 2 - Москва-центр
@@ -36,20 +46,7 @@ sublists:
   group_ids:
   - 3
   pages:
-  - page:
-      pageid: '2834'
-      tom: '9'
-      pageintom: '238'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-417-238.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '238'
     page_image: v09/17-171-417-238.jpg
     persons:
     - id: '36513'
@@ -148,20 +145,7 @@ sublists:
       num: '23'
       name: ВАЙНБЕРГ Михаил Яковлевич
       spravka: true
-  - page:
-      pageid: '2835'
-      tom: '9'
-      pageintom: '239'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-417-239.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '239'
     page_image: v09/17-171-417-239.jpg
     persons:
     - id: '36536'
@@ -278,20 +262,7 @@ sublists:
       num: '51'
       name: ЕМЕЛЬЯНОВ-СУРИК Александр Васильевич
       spravka: true
-  - page:
-      pageid: '2836'
-      tom: '9'
-      pageintom: '240'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-417-240.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '240'
     page_image: v09/17-171-417-240.jpg
     persons:
     - id: '36564'
@@ -403,20 +374,7 @@ sublists:
       num: '78'
       name: КОКАДЕЕВ Александр Николаевич
       spravka: true
-  - page:
-      pageid: '2837'
-      tom: '9'
-      pageintom: '241'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-417-241.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '241'
     page_image: v09/17-171-417-241.jpg
     persons:
     - id: '36591'
@@ -531,20 +489,7 @@ sublists:
       num: '106'
       name: МАРТЫНОВ Владимир Петрович
       spravka: true
-  - page:
-      pageid: '2838'
-      tom: '9'
-      pageintom: '242'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-417-242.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '242'
     page_image: v09/17-171-417-242.jpg
     persons:
     - id: '36619'
@@ -658,20 +603,7 @@ sublists:
       num: '134'
       name: ПЛОТНИКОВ Марк Семенович
       spravka: true
-  - page:
-      pageid: '2839'
-      tom: '9'
-      pageintom: '243'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-417-243.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '243'
     page_image: v09/17-171-417-243.jpg
     persons:
     - id: '36647'
@@ -792,20 +724,7 @@ sublists:
       num: '163'
       name: СИНЯВСКИЙ Леонтий Петрович
       spravka: true
-  - page:
-      pageid: '2840'
-      tom: '9'
-      pageintom: '244'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-417-244.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '244'
     page_image: v09/17-171-417-244.jpg
     persons:
     - id: '36676'
@@ -915,20 +834,7 @@ sublists:
       num: '189'
       name: УРАЛОВ Семен Григорьевич
       spravka: true
-  - page:
-      pageid: '2841'
-      tom: '9'
-      pageintom: '245'
-      alistid: '187'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-417-245.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '245'
     page_image: v09/17-171-417-245.jpg
     persons:
     - id: '36702'

@@ -13,13 +13,20 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-223.jpg
-- image: v05/17-171-413-224.jpg
-- image: v05/17-171-413-225.jpg
-- image: v05/17-171-413-226.jpg
-- image: v05/17-171-413-227.jpg
-- image: v05/17-171-413-228.jpg
-- image: v05/17-171-413-229.jpg
+- pageintom: '223'
+  image: v05/17-171-413-223.jpg
+- pageintom: '224'
+  image: v05/17-171-413-224.jpg
+- pageintom: '225'
+  image: v05/17-171-413-225.jpg
+- pageintom: '226'
+  image: v05/17-171-413-226.jpg
+- pageintom: '227'
+  image: v05/17-171-413-227.jpg
+- pageintom: '228'
+  image: v05/17-171-413-228.jpg
+- pageintom: '229'
+  image: v05/17-171-413-229.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область
@@ -34,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1349'
-      tom: '5'
-      pageintom: '225'
-      alistid: '133'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-413-225.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '225'
     page_image: v05/17-171-413-225.jpg
     persons:
     - id: '17197'
@@ -140,20 +134,7 @@ sublists:
       num: '23'
       name: ГЕБЕРТ Вильгельм Робертович
       spravka: true
-  - page:
-      pageid: '1350'
-      tom: '5'
-      pageintom: '226'
-      alistid: '133'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-226.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '226'
     page_image: v05/17-171-413-226.jpg
     persons:
     - id: '17220'
@@ -268,20 +249,7 @@ sublists:
       num: '52'
       name: МУРАВЬЕВ Сергей Сергеевич
       spravka: true
-  - page:
-      pageid: '1351'
-      tom: '5'
-      pageintom: '227'
-      alistid: '133'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-227.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '227'
     page_image: v05/17-171-413-227.jpg
     persons:
     - id: '17249'
@@ -398,20 +366,7 @@ sublists:
     - id: '17277'
       num: '81'
       name: ЧИСТЯКОВ Михаил Иванович
-  - page:
-      pageid: '1352'
-      tom: '5'
-      pageintom: '228'
-      alistid: '133'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-413-228.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '228'
     page_image: v05/17-171-413-228.jpg
     persons:
     - id: '17278'
@@ -442,20 +397,7 @@ sublists:
       num: '88'
       name: ЯКШЕВ Иван Максимович
       spravka: true
-  - page:
-      pageid: '1353'
-      tom: '5'
-      pageintom: '229'
-      alistid: '133'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-413-229.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '229'
     page_image: v05/17-171-413-229.jpg
     persons:
     - id: '17285'

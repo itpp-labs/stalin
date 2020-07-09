@@ -13,8 +13,10 @@ signs:
   molotov: true
   kaganovic: true
 pages:
-- image: v03/17-171-411-178.jpg
-- image: v03/17-171-411-179.jpg
+- pageintom: '178'
+  image: v03/17-171-411-178.jpg
+- pageintom: '179'
+  image: v03/17-171-411-179.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -29,20 +31,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '771'
-      tom: '3'
-      pageintom: '179'
-      alistid: '240'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-411-179.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '179'
     page_image: v03/17-171-411-179.jpg
     persons:
     - id: '9724'

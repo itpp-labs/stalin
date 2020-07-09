@@ -14,11 +14,16 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-171.jpg
-- image: v08/17-171-416-172.jpg
-- image: v08/17-171-416-173.jpg
-- image: v08/17-171-416-174.jpg
-- image: v08/17-171-416-175.jpg
+- pageintom: '171'
+  image: v08/17-171-416-171.jpg
+- pageintom: '172'
+  image: v08/17-171-416-172.jpg
+- pageintom: '173'
+  image: v08/17-171-416-173.jpg
+- pageintom: '174'
+  image: v08/17-171-416-174.jpg
+- pageintom: '175'
+  image: v08/17-171-416-175.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2426'
-      tom: '8'
-      pageintom: '173'
-      alistid: '308'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-173.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '173'
     page_image: v08/17-171-416-173.jpg
     persons:
     - id: '31243'
@@ -128,20 +120,7 @@ sublists:
     - id: '31264'
       num: '22'
       name: НАДЛЕРМАН Абрам Яковлевич
-  - page:
-      pageid: '2427'
-      tom: '8'
-      pageintom: '174'
-      alistid: '308'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-416-174.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '174'
     page_image: v08/17-171-416-174.jpg
     persons:
     - id: '31265'
@@ -237,20 +216,7 @@ sublists:
       num: '47'
       name: ЯКОВЛЕВ Василий Борисович
       spravka: true
-  - page:
-      pageid: '2428'
-      tom: '8'
-      pageintom: '175'
-      alistid: '308'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-416-175.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '175'
     page_image: v08/17-171-416-175.jpg
     persons:
     - id: '31290'

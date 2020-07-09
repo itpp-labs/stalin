@@ -14,12 +14,18 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-138.jpg
-- image: v07/17-171-415-139.jpg
-- image: v07/17-171-415-140.jpg
-- image: v07/17-171-415-141.jpg
-- image: v07/17-171-415-142.jpg
-- image: v07/17-171-415-143.jpg
+- pageintom: '138'
+  image: v07/17-171-415-138.jpg
+- pageintom: '139'
+  image: v07/17-171-415-139.jpg
+- pageintom: '140'
+  image: v07/17-171-415-140.jpg
+- pageintom: '141'
+  image: v07/17-171-415-141.jpg
+- pageintom: '142'
+  image: v07/17-171-415-142.jpg
+- pageintom: '143'
+  image: v07/17-171-415-143.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -36,20 +42,7 @@ sublists:
   group_ids:
   - 12
   pages:
-  - page:
-      pageid: '2110'
-      tom: '7'
-      pageintom: '140'
-      alistid: '268'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-415-140.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '140'
     page_image: v07/17-171-415-140.jpg
     persons:
     - id: '27366'
@@ -117,20 +110,7 @@ sublists:
     - id: '27384'
       num: '19'
       name: ЛЕВИТ Израиль Петрович
-  - page:
-      pageid: '2111'
-      tom: '7'
-      pageintom: '141'
-      alistid: '268'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-415-141.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '141'
     page_image: v07/17-171-415-141.jpg
     persons:
     - id: '27385'
@@ -222,20 +202,7 @@ sublists:
       num: '44'
       name: ДИМИТРИС Эрнест Петрович
       spravka: true
-  - page:
-      pageid: '2112'
-      tom: '7'
-      pageintom: '142'
-      alistid: '268'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-142.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v07/17-171-415-142.jpg
     persons:
     - id: '27410'
@@ -342,20 +309,7 @@ sublists:
     - id: '27438'
       num: '73'
       name: ТОЛКУШКИН Владимир Петрович
-  - page:
-      pageid: '2113'
-      tom: '7'
-      pageintom: '143'
-      alistid: '268'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-415-143.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '143'
     page_image: v07/17-171-415-143.jpg
     persons:
     - id: '27439'

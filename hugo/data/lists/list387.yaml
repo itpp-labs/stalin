@@ -13,13 +13,20 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v11/17-171-419-001.jpg
-- image: v11/17-171-419-002.jpg
-- image: v11/17-171-419-003.jpg
-- image: v11/17-171-419-004.jpg
-- image: v11/17-171-419-005.jpg
-- image: v11/17-171-419-006.jpg
-- image: v11/17-171-419-007.jpg
+- pageintom: '1'
+  image: v11/17-171-419-001.jpg
+- pageintom: '2'
+  image: v11/17-171-419-002.jpg
+- pageintom: '3'
+  image: v11/17-171-419-003.jpg
+- pageintom: '4'
+  image: v11/17-171-419-004.jpg
+- pageintom: '5'
+  image: v11/17-171-419-005.jpg
+- pageintom: '6'
+  image: v11/17-171-419-006.jpg
+- pageintom: '7'
+  image: v11/17-171-419-007.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Крымская АССР]
   listtitle: Список лиц - Крымская АССР
@@ -35,20 +42,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '3120'
-      tom: '11'
-      pageintom: '2'
-      alistid: '387'
-      pagekind: '1'
-      arowcount: '23'
-      picturefile: 17-171-419-002.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '2'
     page_image: v11/17-171-419-002.jpg
     persons:
     - id: '40852'
@@ -139,20 +133,7 @@ sublists:
       num: '23'
       name: НЕАБ Эйген Мартынович
       spravka: true
-  - page:
-      pageid: '3121'
-      tom: '11'
-      pageintom: '3'
-      alistid: '387'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-419-003.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v11/17-171-419-003.jpg
     persons:
     - id: '40875'
@@ -206,20 +187,7 @@ sublists:
       num: '37'
       name: ЭМИР САЛИЕВ МЕМЕТ
       spravka: true
-  - page:
-      pageid: '3122'
-      tom: '11'
-      pageintom: '4'
-      alistid: '387'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-419-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v11/17-171-419-004.jpg
     persons:
     - id: '40889'
@@ -232,20 +200,7 @@ sublists:
       num: '2'
       name: ЭПШТЕЙН Герман Тобиасович
       gb_spravka: true
-  - page:
-      pageid: '3125'
-      tom: '11'
-      pageintom: '7'
-      alistid: '387'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-419-007.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v11/17-171-419-007.jpg
     persons:
     - id: '40891'

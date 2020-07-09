@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-001.jpg
-- image: v04/17-171-412-002.jpg
-- image: v04/17-171-412-003.jpg
-- image: v04/17-171-412-004.jpg
-- image: v04/17-171-412-005.jpg
-- image: v04/17-171-412-006.jpg
-- image: v04/17-171-412-007.jpg
+- pageintom: '1'
+  image: v04/17-171-412-001.jpg
+- pageintom: '2'
+  image: v04/17-171-412-002.jpg
+- pageintom: '3'
+  image: v04/17-171-412-003.jpg
+- pageintom: '4'
+  image: v04/17-171-412-004.jpg
+- pageintom: '5'
+  image: v04/17-171-412-005.jpg
+- pageintom: '6'
+  image: v04/17-171-412-006.jpg
+- pageintom: '7'
+  image: v04/17-171-412-007.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Новосибирская область]
   listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '846'
-      tom: '4'
-      pageintom: '3'
-      alistid: '78'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-412-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v04/17-171-412-003.jpg
     persons:
     - id: '10434'
@@ -129,20 +123,7 @@ sublists:
     - id: '10455'
       num: '22'
       name: СЕЛИВАНОВ Владимир Семенович
-  - page:
-      pageid: '847'
-      tom: '4'
-      pageintom: '4'
-      alistid: '78'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-412-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v04/17-171-412-004.jpg
     persons:
     - id: '10456'
@@ -155,20 +136,7 @@ sublists:
     - id: '10458'
       num: '25'
       name: ЧЕРНОВИЧ Лазарь Борисович
-  - page:
-      pageid: '848'
-      tom: '4'
-      pageintom: '5'
-      alistid: '78'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-412-005.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v04/17-171-412-005.jpg
     persons:
     - id: '31080'
@@ -194,20 +162,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '849'
-      tom: '4'
-      pageintom: '6'
-      alistid: '78'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-412-006.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v04/17-171-412-006.jpg
     persons:
     - id: '10461'
@@ -254,20 +209,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '850'
-      tom: '4'
-      pageintom: '7'
-      alistid: '78'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-412-007.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v04/17-171-412-007.jpg
     persons:
     - id: '10468'

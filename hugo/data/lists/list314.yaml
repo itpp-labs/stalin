@@ -14,13 +14,20 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-210.jpg
-- image: v08/17-171-416-211.jpg
-- image: v08/17-171-416-212.jpg
-- image: v08/17-171-416-213.jpg
-- image: v08/17-171-416-214.jpg
-- image: v08/17-171-416-215.jpg
-- image: v08/17-171-416-216.jpg
+- pageintom: '210'
+  image: v08/17-171-416-210.jpg
+- pageintom: '211'
+  image: v08/17-171-416-211.jpg
+- pageintom: '212'
+  image: v08/17-171-416-212.jpg
+- pageintom: '213'
+  image: v08/17-171-416-213.jpg
+- pageintom: '214'
+  image: v08/17-171-416-214.jpg
+- pageintom: '215'
+  image: v08/17-171-416-215.jpg
+- pageintom: '216'
+  image: v08/17-171-416-216.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР,Гомель-Белорусская ж.д.
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2465'
-      tom: '8'
-      pageintom: '212'
-      alistid: '314'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-416-212.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '212'
     page_image: v08/17-171-416-212.jpg
     persons:
     - id: '31780'
@@ -138,20 +132,7 @@ sublists:
     - id: '31803'
       num: '24'
       name: ПАВЛЮЧЕНКО Калистрат Иванович
-  - page:
-      pageid: '2466'
-      tom: '8'
-      pageintom: '213'
-      alistid: '314'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-416-213.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '213'
     page_image: v08/17-171-416-213.jpg
     persons:
     - id: '31804'
@@ -206,20 +187,7 @@ sublists:
       num: '38'
       name: ЮВКО Владимир Кондратьевич
       spravka: true
-  - page:
-      pageid: '2467'
-      tom: '8'
-      pageintom: '214'
-      alistid: '314'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-416-214.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '214'
     page_image: v08/17-171-416-214.jpg
     persons:
     - id: '31818'
@@ -240,20 +208,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2468'
-      tom: '8'
-      pageintom: '215'
-      alistid: '314'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-416-215.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '215'
     page_image: v08/17-171-416-215.jpg
     persons:
     - id: '31819'
@@ -295,20 +250,7 @@ sublists:
       name: РАКОВ Павел Николаевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '2469'
-      tom: '8'
-      pageintom: '216'
-      alistid: '314'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-416-216.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '216'
     page_image: v08/17-171-416-216.jpg
     persons:
     - id: '31829'

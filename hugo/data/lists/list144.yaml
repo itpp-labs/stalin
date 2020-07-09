@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-313.jpg
-- image: v05/17-171-413-314.jpg
-- image: v05/17-171-413-315.jpg
-- image: v05/17-171-413-316.jpg
-- image: v05/17-171-413-317.jpg
-- image: v05/17-171-413-318.jpg
-- image: v05/17-171-413-319.jpg
+- pageintom: '313'
+  image: v05/17-171-413-313.jpg
+- pageintom: '314'
+  image: v05/17-171-413-314.jpg
+- pageintom: '315'
+  image: v05/17-171-413-315.jpg
+- pageintom: '316'
+  image: v05/17-171-413-316.jpg
+- pageintom: '317'
+  image: v05/17-171-413-317.jpg
+- pageintom: '318'
+  image: v05/17-171-413-318.jpg
+- pageintom: '319'
+  image: v05/17-171-413-319.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Азербайджанская ССР]
   listtitle: Список лиц - Азербайджанская ССР
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1439'
-      tom: '5'
-      pageintom: '315'
-      alistid: '144'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-315.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '315'
     page_image: v05/17-171-413-315.jpg
     persons:
     - id: '18447'
@@ -119,20 +113,7 @@ sublists:
     - id: '18467'
       num: '21'
       name: ВАЙНШТЕЙН Иосиф Владимирович
-  - page:
-      pageid: '1440'
-      tom: '5'
-      pageintom: '316'
-      alistid: '144'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-413-316.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '316'
     page_image: v05/17-171-413-316.jpg
     persons:
     - id: '18468'
@@ -224,20 +205,7 @@ sublists:
     - id: '18496'
       num: '50'
       name: КУРОВЕРОВ Михаил Яковлевич
-  - page:
-      pageid: '1441'
-      tom: '5'
-      pageintom: '317'
-      alistid: '144'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-413-317.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '317'
     page_image: v05/17-171-413-317.jpg
     persons:
     - id: '18497'
@@ -329,20 +297,7 @@ sublists:
     - id: '18524'
       num: '78'
       name: ФАХРАДОВ Джавад Кербалай Асад Оглы
-  - page:
-      pageid: '1442'
-      tom: '5'
-      pageintom: '318'
-      alistid: '144'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-413-318.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '318'
     page_image: v05/17-171-413-318.jpg
     persons:
     - id: '18525'
@@ -383,20 +338,7 @@ sublists:
     - id: '18536'
       num: '90'
       name: ЯКУБОВ Усейн Мамед Оглы
-  - page:
-      pageid: '1443'
-      tom: '5'
-      pageintom: '319'
-      alistid: '144'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-413-319.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '319'
     page_image: v05/17-171-413-319.jpg
     persons:
     - id: '18537'

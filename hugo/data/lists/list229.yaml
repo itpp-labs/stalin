@@ -14,14 +14,22 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v03/17-171-411-097.jpg
-- image: v03/17-171-411-098.jpg
-- image: v03/17-171-411-099.jpg
-- image: v03/17-171-411-100.jpg
-- image: v03/17-171-411-101.jpg
-- image: v03/17-171-411-102.jpg
-- image: v03/17-171-411-103.jpg
-- image: v03/17-171-411-104.jpg
+- pageintom: '97'
+  image: v03/17-171-411-097.jpg
+- pageintom: '98'
+  image: v03/17-171-411-098.jpg
+- pageintom: '99'
+  image: v03/17-171-411-099.jpg
+- pageintom: '100'
+  image: v03/17-171-411-100.jpg
+- pageintom: '101'
+  image: v03/17-171-411-101.jpg
+- pageintom: '102'
+  image: v03/17-171-411-102.jpg
+- pageintom: '103'
+  image: v03/17-171-411-103.jpg
+- pageintom: '104'
+  image: v03/17-171-411-104.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Калуга. Московско-Киевская жел. дорога]
   listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
@@ -37,20 +45,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '691'
-      tom: '3'
-      pageintom: '99'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-411-099.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '99'
     page_image: v03/17-171-411-099.jpg
     persons:
     - id: '8841'
@@ -138,20 +133,7 @@ sublists:
       num: '21'
       name: ШАБЛОВСКИЙ Вацлав Константинович
       spravka: true
-  - page:
-      pageid: '692'
-      tom: '3'
-      pageintom: '100'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-411-100.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '100'
     page_image: v03/17-171-411-100.jpg
     persons:
     - id: '8862'
@@ -162,20 +144,7 @@ sublists:
       num: '23'
       name: ШТИКГОЛЬД Максимилиан Владимирович
       spravka: true
-  - page:
-      pageid: '693'
-      tom: '3'
-      pageintom: '101'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-411-101.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '101'
     page_image: v03/17-171-411-101.jpg
     persons:
     - id: '8864'
@@ -201,20 +170,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '694'
-      tom: '3'
-      pageintom: '102'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-411-102.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '102'
     page_image: v03/17-171-411-102.jpg
     persons:
     - id: '8866'
@@ -259,20 +215,7 @@ sublists:
       num: '11'
       name: ЦОГЛИН Перец Аронович
       spravka: true
-  - page:
-      pageid: '695'
-      tom: '3'
-      pageintom: '103'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-411-103.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '103'
     page_image: v03/17-171-411-103.jpg
     persons:
     - id: '8877'
@@ -321,20 +264,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '696'
-      tom: '3'
-      pageintom: '104'
-      alistid: '229'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-411-104.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '104'
     page_image: v03/17-171-411-104.jpg
     persons:
     - id: '8886'

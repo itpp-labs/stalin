@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-229.jpg
-- image: v07/17-171-415-230.jpg
-- image: v07/17-171-415-231.jpg
-- image: v07/17-171-415-232.jpg
-- image: v07/17-171-415-233.jpg
-- image: v07/17-171-415-234.jpg
+- pageintom: '229'
+  image: v07/17-171-415-229.jpg
+- pageintom: '230'
+  image: v07/17-171-415-230.jpg
+- pageintom: '231'
+  image: v07/17-171-415-231.jpg
+- pageintom: '232'
+  image: v07/17-171-415-232.jpg
+- pageintom: '233'
+  image: v07/17-171-415-233.jpg
+- pageintom: '234'
+  image: v07/17-171-415-234.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2201'
-      tom: '7'
-      pageintom: '231'
-      alistid: '280'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-415-231.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '231'
     page_image: v07/17-171-415-231.jpg
     persons:
     - id: '28541'
@@ -153,20 +146,7 @@ sublists:
       num: '25'
       name: КАВЕРИН Иван Васильевич
       spravka: true
-  - page:
-      pageid: '2202'
-      tom: '7'
-      pageintom: '232'
-      alistid: '280'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-232.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '232'
     page_image: v07/17-171-415-232.jpg
     persons:
     - id: '28566'
@@ -285,20 +265,7 @@ sublists:
       num: '54'
       name: РАСТВОРЦЕВ Григорий Гаврилович
       spravka: true
-  - page:
-      pageid: '2203'
-      tom: '7'
-      pageintom: '233'
-      alistid: '280'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-415-233.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '233'
     page_image: v07/17-171-415-233.jpg
     persons:
     - id: '28595'
@@ -402,20 +369,7 @@ sublists:
       num: '79'
       name: ЯРЫГИН Илья Георгиевич
       spravka: true
-  - page:
-      pageid: '2204'
-      tom: '7'
-      pageintom: '234'
-      alistid: '280'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-234.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '234'
     page_image: v07/17-171-415-234.jpg
     persons:
     - id: '28620'

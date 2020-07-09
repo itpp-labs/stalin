@@ -14,15 +14,24 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-001.jpg
-- image: v07/17-171-415-002.jpg
-- image: v07/17-171-415-003.jpg
-- image: v07/17-171-415-004.jpg
-- image: v07/17-171-415-005.jpg
-- image: v07/17-171-415-006.jpg
-- image: v07/17-171-415-007.jpg
-- image: v07/17-171-415-008.jpg
-- image: v07/17-171-415-009.jpg
+- pageintom: '1'
+  image: v07/17-171-415-001.jpg
+- pageintom: '2'
+  image: v07/17-171-415-002.jpg
+- pageintom: '3'
+  image: v07/17-171-415-003.jpg
+- pageintom: '4'
+  image: v07/17-171-415-004.jpg
+- pageintom: '5'
+  image: v07/17-171-415-005.jpg
+- pageintom: '6'
+  image: v07/17-171-415-006.jpg
+- pageintom: '7'
+  image: v07/17-171-415-007.jpg
+- pageintom: '8'
+  image: v07/17-171-415-008.jpg
+- pageintom: '9'
+  image: v07/17-171-415-009.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
@@ -39,20 +48,7 @@ sublists:
   - 1
   - 2
   pages:
-  - page:
-      pageid: '1966'
-      tom: '7'
-      pageintom: '3'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v07/17-171-415-003.jpg
     persons:
     - id: '25898'
@@ -140,20 +136,7 @@ sublists:
       num: '21'
       name: ДЗЮБИН Александр Юлианович
       spravka: true
-  - page:
-      pageid: '1967'
-      tom: '7'
-      pageintom: '4'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-004.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v07/17-171-415-004.jpg
     persons:
     - id: '25919'
@@ -271,20 +254,7 @@ sublists:
       num: '50'
       name: ТОМСКИЙ-ЕФРЕМОВ Виктор Михайлович
       spravka: true
-  - page:
-      pageid: '1968'
-      tom: '7'
-      pageintom: '5'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-415-005.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v07/17-171-415-005.jpg
     persons:
     - id: '25948'
@@ -333,20 +303,7 @@ sublists:
       name: БРАДУЛОВ-ГОРЬКИЙ Андрей Иванович
       primcoc: (бывший сотрудник НКВД)
       spravka: true
-  - page:
-      pageid: '1969'
-      tom: '7'
-      pageintom: '6'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-006.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v07/17-171-415-006.jpg
     persons:
     - id: '25959'
@@ -356,20 +313,7 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(иностранные-подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - page:
-      pageid: '1971'
-      tom: '7'
-      pageintom: '8'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-008.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '8'
     page_image: v07/17-171-415-008.jpg
     persons:
     - id: '25960'
@@ -391,20 +335,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1972'
-      tom: '7'
-      pageintom: '9'
-      alistid: '251'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-009.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v07/17-171-415-009.jpg
     persons:
     - id: '25961'

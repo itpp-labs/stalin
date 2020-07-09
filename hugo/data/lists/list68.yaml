@@ -14,22 +14,38 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-267.jpg
-- image: v02/17-171-410-268.jpg
-- image: v02/17-171-410-269.jpg
-- image: v02/17-171-410-270.jpg
-- image: v02/17-171-410-271.jpg
-- image: v02/17-171-410-272.jpg
-- image: v02/17-171-410-273.jpg
-- image: v02/17-171-410-274.jpg
-- image: v02/17-171-410-275.jpg
-- image: v02/17-171-410-276.jpg
-- image: v02/17-171-410-277.jpg
-- image: v02/17-171-410-278.jpg
-- image: v02/17-171-410-279.jpg
-- image: v02/17-171-410-280.jpg
-- image: v02/17-171-410-281.jpg
-- image: v02/17-171-410-282.jpg
+- pageintom: '267'
+  image: v02/17-171-410-267.jpg
+- pageintom: '268'
+  image: v02/17-171-410-268.jpg
+- pageintom: '269'
+  image: v02/17-171-410-269.jpg
+- pageintom: '270'
+  image: v02/17-171-410-270.jpg
+- pageintom: '271'
+  image: v02/17-171-410-271.jpg
+- pageintom: '272'
+  image: v02/17-171-410-272.jpg
+- pageintom: '273'
+  image: v02/17-171-410-273.jpg
+- pageintom: '274'
+  image: v02/17-171-410-274.jpg
+- pageintom: '275'
+  image: v02/17-171-410-275.jpg
+- pageintom: '276'
+  image: v02/17-171-410-276.jpg
+- pageintom: '277'
+  image: v02/17-171-410-277.jpg
+- pageintom: '278'
+  image: v02/17-171-410-278.jpg
+- pageintom: '279'
+  image: v02/17-171-410-279.jpg
+- pageintom: '280'
+  image: v02/17-171-410-280.jpg
+- pageintom: '281'
+  image: v02/17-171-410-281.jpg
+- pageintom: '282'
+  image: v02/17-171-410-282.jpg
 sublists:
 - title: Список от 25 августа 1937 г. [Харьковский Военный Округ]
   listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
@@ -45,20 +61,7 @@ sublists:
   group_ids:
   - 12
   pages:
-  - page:
-      pageid: '504'
-      tom: '2'
-      pageintom: '268'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-410-268.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '268'
     page_image: v02/17-171-410-268.jpg
     persons:
     - id: '6375'
@@ -124,20 +127,7 @@ sublists:
       name: ГАМПТОМСКИЙ <br/> Гуго-Альберт Готфридович
       primzv: Бригадный комиссар
       spravka: true
-  - page:
-      pageid: '505'
-      tom: '2'
-      pageintom: '269'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-410-269.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '269'
     page_image: v02/17-171-410-269.jpg
     persons:
     - id: '6390'
@@ -258,20 +248,7 @@ sublists:
       name: МОЧАЛОВ <br/> Константин Константинович
       primzv: Полковник
       spravka: true
-  - page:
-      pageid: '506'
-      tom: '2'
-      pageintom: '270'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-410-270.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '270'
     page_image: v02/17-171-410-270.jpg
     persons:
     - id: '6418'
@@ -396,20 +373,7 @@ sublists:
       num: '71'
       name: ЩЕРБАКОВ <br/> Максим Федорович
       primzv: Капитан
-  - page:
-      pageid: '518'
-      tom: '2'
-      pageintom: '282'
-      alistid: '68'
-      pagekind: '5'
-      arowcount: '7'
-      picturefile: 17-171-410-282.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '282'
     page_image: v02/17-171-410-282.jpg
     persons:
     - id: '6641'
@@ -437,20 +401,7 @@ sublists:
   group_ids:
   - 12
   pages:
-  - page:
-      pageid: '507'
-      tom: '2'
-      pageintom: '271'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-410-271.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '271'
     page_image: v02/17-171-410-271.jpg
     persons:
     - id: '6446'
@@ -578,20 +529,7 @@ sublists:
     - id: '6472'
       num: '98'
       name: ЗИЛЬБЕРМАН Роман Иосифович
-  - page:
-      pageid: '508'
-      tom: '2'
-      pageintom: '272'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-410-272.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '272'
     page_image: v02/17-171-410-272.jpg
     persons:
     - id: '6473'
@@ -739,20 +677,7 @@ sublists:
       name: ОЙГЕНШТЕЙН <br/> Борис Михайлович
       primzv: Интендант 1 ранга
       spravka: true
-  - page:
-      pageid: '509'
-      tom: '2'
-      pageintom: '273'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-410-273.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '273'
     page_image: v02/17-171-410-273.jpg
     persons:
     - id: '6503'
@@ -882,20 +807,7 @@ sublists:
       name: СИДОРОВ <br/> Александр Георгиевич
       primzv: Интендант 1 ранга
       spravka: true
-  - page:
-      pageid: '510'
-      tom: '2'
-      pageintom: '274'
-      alistid: '68'
-      pagekind: '5'
-      arowcount: '18'
-      picturefile: 17-171-410-274.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '274'
     page_image: v02/17-171-410-274.jpg
     persons:
     - id: '6531'
@@ -974,20 +886,7 @@ sublists:
       num: '174'
       name: ЯНУШЕВСКИЙ Антон Константинович
       doublesexists: true
-  - page:
-      pageid: '518'
-      tom: '2'
-      pageintom: '282'
-      alistid: '68'
-      pagekind: '5'
-      arowcount: '7'
-      picturefile: 17-171-410-282.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '282'
     page_image: v02/17-171-410-282.jpg
     persons:
     - id: '6643'
@@ -1023,20 +922,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '512'
-      tom: '2'
-      pageintom: '276'
-      alistid: '68'
-      pagekind: '5'
-      arowcount: '17'
-      picturefile: 17-171-410-276.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '276'
     page_image: v02/17-171-410-276.jpg
     persons:
     - id: '6549'
@@ -1115,20 +1001,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '513'
-      tom: '2'
-      pageintom: '277'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-410-277.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '277'
     page_image: v02/17-171-410-277.jpg
     persons:
     - id: '6566'
@@ -1225,20 +1098,7 @@ sublists:
     - id: '6592'
       num: '44'
       name: СУЛИМ Тимофей Кириллович
-  - page:
-      pageid: '514'
-      tom: '2'
-      pageintom: '278'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-410-278.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '278'
     page_image: v02/17-171-410-278.jpg
     persons:
     - id: '6593'
@@ -1269,20 +1129,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '514'
-      tom: '2'
-      pageintom: '278'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-410-278.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '278'
     page_image: v02/17-171-410-278.jpg
     persons:
     - id: '6597'
@@ -1353,20 +1200,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '514'
-      tom: '2'
-      pageintom: '278'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-410-278.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '278'
     page_image: v02/17-171-410-278.jpg
     persons:
     - id: '6611'
@@ -1384,20 +1218,7 @@ sublists:
       num: '66'
       name: МУСИЯК Спиридон Афанасьевич
       spravka: true
-  - page:
-      pageid: '515'
-      tom: '2'
-      pageintom: '279'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-410-279.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '279'
     page_image: v02/17-171-410-279.jpg
     persons:
     - id: '6615'
@@ -1429,20 +1250,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '515'
-      tom: '2'
-      pageintom: '279'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-410-279.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '279'
     page_image: v02/17-171-410-279.jpg
     persons:
     - id: '6619'
@@ -1503,20 +1311,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '515'
-      tom: '2'
-      pageintom: '279'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-410-279.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '279'
     page_image: v02/17-171-410-279.jpg
     persons:
     - id: '6630'
@@ -1538,20 +1333,7 @@ sublists:
     - id: '6634'
       num: '86'
       name: ПИРОГОВ Даниил Петрович
-  - page:
-      pageid: '516'
-      tom: '2'
-      pageintom: '280'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-410-280.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '280'
     page_image: v02/17-171-410-280.jpg
     persons:
     - id: '6635'
@@ -1574,20 +1356,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '516'
-      tom: '2'
-      pageintom: '280'
-      alistid: '68'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-410-280.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '280'
     page_image: v02/17-171-410-280.jpg
     persons:
     - id: '6637'

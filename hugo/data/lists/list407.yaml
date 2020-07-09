@@ -10,23 +10,38 @@ delo:
   num: ''
 signs: {}
 pages:
-- image: v12/17-171-377-116.jpg
-- image: v12/17-171-377-117.jpg
-- image: v12/17-171-377-118.jpg
-- image: v12/17-171-377-119.jpg
-- image: v12/17-171-377-120.jpg
-- image: v12/17-171-377-121.jpg
-- image: v12/17-171-377-122.jpg
-- image: v12/17-171-377-123.jpg
-- image: v12/17-171-377-124.jpg
-- image: v12/17-171-377-125.jpg
-- image: v12/17-171-377-126.jpg
-- image: v12/17-171-377-127.jpg
-- image: v12/17-171-377-128.jpg
-- image: v12/17-171-377-129.jpg
-- image: v12/17-171-377-130.jpg
+- pageintom: '116'
+  image: v12/17-171-377-116.jpg
+- pageintom: '117'
+  image: v12/17-171-377-117.jpg
+- pageintom: '118'
+  image: v12/17-171-377-118.jpg
+- pageintom: '119'
+  image: v12/17-171-377-119.jpg
+- pageintom: '120'
+  image: v12/17-171-377-120.jpg
+- pageintom: '121'
+  image: v12/17-171-377-121.jpg
+- pageintom: '122'
+  image: v12/17-171-377-122.jpg
+- pageintom: '123'
+  image: v12/17-171-377-123.jpg
+- pageintom: '124'
+  image: v12/17-171-377-124.jpg
+- pageintom: '125'
+  image: v12/17-171-377-125.jpg
+- pageintom: '126'
+  image: v12/17-171-377-126.jpg
+- pageintom: '127'
+  image: v12/17-171-377-127.jpg
+- pageintom: '128'
+  image: v12/17-171-377-128.jpg
+- pageintom: '129'
+  image: v12/17-171-377-129.jpg
+- pageintom: '130'
+  image: v12/17-171-377-130.jpg
 sublists:
-- title: Список от  []
+- title: ''
   listtitle: Список арестованных (категория 1)
   sublisttitle: ''
   kat1: true
@@ -39,20 +54,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3405'
-      tom: '12'
-      pageintom: '117'
-      alistid: '407'
-      pagekind: '5'
-      arowcount: '24'
-      picturefile: 17-171-377-117.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '36'
+  - pageintom: '117'
     page_image: v12/17-171-377-117.jpg
     persons:
     - id: '44504'
@@ -152,20 +154,7 @@ sublists:
       num: '24'
       name: БАТЦ Александр Фридрихович
       spravka: true
-  - page:
-      pageid: '3406'
-      tom: '12'
-      pageintom: '118'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-118.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '118'
     page_image: v12/17-171-377-118.jpg
     persons:
     - id: '44528'
@@ -272,20 +261,7 @@ sublists:
       num: '50'
       name: ВОЛЯ Владимир Федорович
       spravka: true
-  - page:
-      pageid: '3407'
-      tom: '12'
-      pageintom: '119'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-119.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '119'
     page_image: v12/17-171-377-119.jpg
     persons:
     - id: '44554'
@@ -387,20 +363,7 @@ sublists:
     - id: '44579'
       num: '76'
       name: ДЕГТЯРЕВ Леонид Сергеевич
-  - page:
-      pageid: '3408'
-      tom: '12'
-      pageintom: '120'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-377-120.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '120'
     page_image: v12/17-171-377-120.jpg
     persons:
     - id: '44580'
@@ -499,20 +462,7 @@ sublists:
       num: '100'
       name: ЕРШОВ Андрей Мартемьянович
       spravka: true
-  - page:
-      pageid: '3409'
-      tom: '12'
-      pageintom: '121'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-121.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '121'
     page_image: v12/17-171-377-121.jpg
     persons:
     - id: '44604'
@@ -617,20 +567,7 @@ sublists:
       num: '126'
       name: КАРАТЫГИН Петр Петрович
       spravka: true
-  - page:
-      pageid: '3410'
-      tom: '12'
-      pageintom: '122'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-122.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '122'
     page_image: v12/17-171-377-122.jpg
     persons:
     - id: '44630'
@@ -737,20 +674,7 @@ sublists:
       num: '152'
       name: КРЫМСКИЙ-УДАРОВ Яков Петрович
       spravka: true
-  - page:
-      pageid: '3411'
-      tom: '12'
-      pageintom: '123'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-123.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '123'
     page_image: v12/17-171-377-123.jpg
     persons:
     - id: '44656'
@@ -856,20 +780,7 @@ sublists:
       num: '178'
       name: МАРУСИНОВ-БЕРНШТЕЙН Александр Иванович
       spravka: true
-  - page:
-      pageid: '3412'
-      tom: '12'
-      pageintom: '124'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-124.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '124'
     page_image: v12/17-171-377-124.jpg
     persons:
     - id: '44682'
@@ -973,20 +884,7 @@ sublists:
       num: '204'
       name: МОСИНА Нина Васильевна
       spravka: true
-  - page:
-      pageid: '3413'
-      tom: '12'
-      pageintom: '125'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-125.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v12/17-171-377-125.jpg
     persons:
     - id: '44708'
@@ -1093,20 +991,7 @@ sublists:
       num: '230'
       name: ПАСТУХОВ Сергей Константинович
       spravka: true
-  - page:
-      pageid: '3414'
-      tom: '12'
-      pageintom: '126'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-126.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v12/17-171-377-126.jpg
     persons:
     - id: '44734'
@@ -1210,20 +1095,7 @@ sublists:
       num: '256'
       name: САДОВСКИЙ Павел Яковлевич
       spravka: true
-  - page:
-      pageid: '3415'
-      tom: '12'
-      pageintom: '127'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-377-127.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v12/17-171-377-127.jpg
     persons:
     - id: '44760'
@@ -1327,20 +1199,7 @@ sublists:
       num: '282'
       name: СТРЕЛКОВ Яков Иванович
       spravka: true
-  - page:
-      pageid: '3416'
-      tom: '12'
-      pageintom: '128'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-377-128.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '128'
     page_image: v12/17-171-377-128.jpg
     persons:
     - id: '44786'
@@ -1440,20 +1299,7 @@ sublists:
       num: '307'
       name: ФИНКЕЛЬШТЕЙН Борис Анатольевич
       spravka: true
-  - page:
-      pageid: '3417'
-      tom: '12'
-      pageintom: '129'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-377-129.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '129'
     page_image: v12/17-171-377-129.jpg
     persons:
     - id: '44811'
@@ -1552,20 +1398,7 @@ sublists:
       num: '331'
       name: ШВАРЦ Сергей Соломонович
       spravka: true
-  - page:
-      pageid: '3418'
-      tom: '12'
-      pageintom: '130'
-      alistid: '407'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-377-130.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '1'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '130'
     page_image: v12/17-171-377-130.jpg
     persons:
     - id: '44835'

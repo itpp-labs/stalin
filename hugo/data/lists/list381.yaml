@@ -13,11 +13,16 @@ signs:
   molotov: true
   kaganovic: true
 pages:
-- image: v06/17-171-414-376.jpg
-- image: v06/17-171-414-377.jpg
-- image: v06/17-171-414-378.jpg
-- image: v06/17-171-414-379.jpg
-- image: v06/17-171-414-380.jpg
+- pageintom: '376'
+  image: v06/17-171-414-376.jpg
+- pageintom: '377'
+  image: v06/17-171-414-377.jpg
+- pageintom: '378'
+  image: v06/17-171-414-378.jpg
+- pageintom: '379'
+  image: v06/17-171-414-379.jpg
+- pageintom: '380'
+  image: v06/17-171-414-380.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1883'
-      tom: '6'
-      pageintom: '378'
-      alistid: '381'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-414-378.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '378'
     page_image: v06/17-171-414-378.jpg
     persons:
     - id: '23930'
@@ -138,20 +130,7 @@ sublists:
       num: '22'
       name: ВУЛЬ Михаил Давыдович
       spravka: true
-  - page:
-      pageid: '1884'
-      tom: '6'
-      pageintom: '379'
-      alistid: '381'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-414-379.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '379'
     page_image: v06/17-171-414-379.jpg
     persons:
     - id: '23952'
@@ -273,20 +252,7 @@ sublists:
       num: '52'
       name: САРЫЧЕВ Никита Николаевич
       spravka: true
-  - page:
-      pageid: '1885'
-      tom: '6'
-      pageintom: '380'
-      alistid: '381'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-414-380.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '380'
     page_image: v06/17-171-414-380.jpg
     persons:
     - id: '23982'

@@ -12,13 +12,20 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v02/17-171-410-109.jpg
-- image: v02/17-171-410-110.jpg
-- image: v02/17-171-410-111.jpg
-- image: v02/17-171-410-112.jpg
-- image: v02/17-171-410-113.jpg
-- image: v02/17-171-410-114.jpg
-- image: v02/17-171-410-115.jpg
+- pageintom: '109'
+  image: v02/17-171-410-109.jpg
+- pageintom: '110'
+  image: v02/17-171-410-110.jpg
+- pageintom: '111'
+  image: v02/17-171-410-111.jpg
+- pageintom: '112'
+  image: v02/17-171-410-112.jpg
+- pageintom: '113'
+  image: v02/17-171-410-113.jpg
+- pageintom: '114'
+  image: v02/17-171-410-114.jpg
+- pageintom: '115'
+  image: v02/17-171-410-115.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -33,20 +40,7 @@ sublists:
   group_ids:
   - 2
   pages:
-  - page:
-      pageid: '347'
-      tom: '2'
-      pageintom: '111'
-      alistid: '48'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-410-111.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '111'
     page_image: v02/17-171-410-111.jpg
     persons:
     - id: '4618'

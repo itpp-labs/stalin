@@ -14,13 +14,20 @@ signs:
   jdanov: true
   kaganovic: true
 pages:
-- image: v08/17-171-416-176.jpg
-- image: v08/17-171-416-177.jpg
-- image: v08/17-171-416-178.jpg
-- image: v08/17-171-416-179.jpg
-- image: v08/17-171-416-180.jpg
-- image: v08/17-171-416-181.jpg
-- image: v08/17-171-416-182.jpg
+- pageintom: '176'
+  image: v08/17-171-416-176.jpg
+- pageintom: '177'
+  image: v08/17-171-416-177.jpg
+- pageintom: '178'
+  image: v08/17-171-416-178.jpg
+- pageintom: '179'
+  image: v08/17-171-416-179.jpg
+- pageintom: '180'
+  image: v08/17-171-416-180.jpg
+- pageintom: '181'
+  image: v08/17-171-416-181.jpg
+- pageintom: '182'
+  image: v08/17-171-416-182.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Мордовская АССР]
   listtitle: Список лиц - Мордовская АССР
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2431'
-      tom: '8'
-      pageintom: '178'
-      alistid: '309'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-416-178.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '178'
     page_image: v08/17-171-416-178.jpg
     persons:
     - id: '31300'
@@ -141,20 +135,7 @@ sublists:
       num: '22'
       name: ЕВЛЮКОВ Павел Тихонович
       spravka: true
-  - page:
-      pageid: '2432'
-      tom: '8'
-      pageintom: '179'
-      alistid: '309'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-416-179.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '179'
     page_image: v08/17-171-416-179.jpg
     persons:
     - id: '31322'
@@ -271,20 +252,7 @@ sublists:
       num: '51'
       name: МИРОНОВ Тихон Петрович
       spravka: true
-  - page:
-      pageid: '2433'
-      tom: '8'
-      pageintom: '180'
-      alistid: '309'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-416-180.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '180'
     page_image: v08/17-171-416-180.jpg
     persons:
     - id: '31351'
@@ -403,20 +371,7 @@ sublists:
       num: '80'
       name: ЧАСОВНИКОВ Александр Васильевич
       spravka: true
-  - page:
-      pageid: '2434'
-      tom: '8'
-      pageintom: '181'
-      alistid: '309'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-416-181.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '181'
     page_image: v08/17-171-416-181.jpg
     persons:
     - id: '31380'
@@ -435,20 +390,7 @@ sublists:
       num: '84'
       name: ШИПОВСКИЙ Сергей Назарович
       spravka: true
-  - page:
-      pageid: '2435'
-      tom: '8'
-      pageintom: '182'
-      alistid: '309'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-416-182.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '182'
     page_image: v08/17-171-416-182.jpg
     persons:
     - id: '31384'

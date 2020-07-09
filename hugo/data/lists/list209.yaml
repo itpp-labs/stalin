@@ -13,12 +13,18 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-212.jpg
-- image: v10/17-171-418-213.jpg
-- image: v10/17-171-418-214.jpg
-- image: v10/17-171-418-215.jpg
-- image: v10/17-171-418-216.jpg
-- image: v10/17-171-418-217.jpg
+- pageintom: '212'
+  image: v10/17-171-418-212.jpg
+- pageintom: '213'
+  image: v10/17-171-418-213.jpg
+- pageintom: '214'
+  image: v10/17-171-418-214.jpg
+- pageintom: '215'
+  image: v10/17-171-418-215.jpg
+- pageintom: '216'
+  image: v10/17-171-418-216.jpg
+- pageintom: '217'
+  image: v10/17-171-418-217.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3069'
-      tom: '10'
-      pageintom: '214'
-      alistid: '209'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-418-214.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '214'
     page_image: v10/17-171-418-214.jpg
     persons:
     - id: '40203'
@@ -127,20 +120,7 @@ sublists:
     - id: '40223'
       num: '21'
       name: ДОХОВ Исмаил Ногаевич
-  - page:
-      pageid: '3070'
-      tom: '10'
-      pageintom: '215'
-      alistid: '209'
-      pagekind: '1'
-      arowcount: '25'
-      picturefile: 17-171-418-215.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '215'
     page_image: v10/17-171-418-215.jpg
     persons:
     - id: '40224'
@@ -234,20 +214,7 @@ sublists:
       num: '46'
       name: ПЛОТНИКОВ Федор Андреевич
       spravka: true
-  - page:
-      pageid: '3071'
-      tom: '10'
-      pageintom: '216'
-      alistid: '209'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-418-216.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '216'
     page_image: v10/17-171-418-216.jpg
     persons:
     - id: '40249'
@@ -334,20 +301,7 @@ sublists:
     - id: '40272'
       num: '70'
       name: ЯНДЫШЕВСКИЙ Борис Леонидович
-  - page:
-      pageid: '3072'
-      tom: '10'
-      pageintom: '217'
-      alistid: '209'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-418-217.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '217'
     page_image: v10/17-171-418-217.jpg
     persons:
     - id: '40273'

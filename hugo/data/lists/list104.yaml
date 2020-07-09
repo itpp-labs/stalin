@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-231.jpg
-- image: v04/17-171-412-232.jpg
-- image: v04/17-171-412-233.jpg
-- image: v04/17-171-412-234.jpg
-- image: v04/17-171-412-235.jpg
+- pageintom: '231'
+  image: v04/17-171-412-231.jpg
+- pageintom: '232'
+  image: v04/17-171-412-232.jpg
+- pageintom: '233'
+  image: v04/17-171-412-233.jpg
+- pageintom: '234'
+  image: v04/17-171-412-234.jpg
+- pageintom: '235'
+  image: v04/17-171-412-235.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1076'
-      tom: '4'
-      pageintom: '233'
-      alistid: '104'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-412-233.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '233'
     page_image: v04/17-171-412-233.jpg
     persons:
     - id: '13696'
@@ -157,20 +149,7 @@ sublists:
       num: '27'
       name: СУХАНОВ Александр Иванович
       spravka: true
-  - page:
-      pageid: '1077'
-      tom: '4'
-      pageintom: '234'
-      alistid: '104'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-412-234.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '234'
     page_image: v04/17-171-412-234.jpg
     persons:
     - id: '13723'
@@ -186,20 +165,7 @@ sublists:
       num: '31'
       name: ШТЮРМЕР Кира Аркадьевна
       spravka: true
-  - page:
-      pageid: '1078'
-      tom: '4'
-      pageintom: '235'
-      alistid: '104'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-412-235.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '235'
     page_image: v04/17-171-412-235.jpg
     persons:
     - id: '13727'

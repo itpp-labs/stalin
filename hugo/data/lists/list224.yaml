@@ -12,10 +12,14 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v03/17-171-411-053.jpg
-- image: v03/17-171-411-054.jpg
-- image: v03/17-171-411-055.jpg
-- image: v03/17-171-411-056.jpg
+- pageintom: '53'
+  image: v03/17-171-411-053.jpg
+- pageintom: '54'
+  image: v03/17-171-411-054.jpg
+- pageintom: '55'
+  image: v03/17-171-411-055.jpg
+- pageintom: '56'
+  image: v03/17-171-411-056.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Ленинградская область]
   listtitle: 'Список лиц: Ленинградская область'
@@ -30,20 +34,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '647'
-      tom: '3'
-      pageintom: '55'
-      alistid: '224'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-411-055.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '55'
     page_image: v03/17-171-411-055.jpg
     persons:
     - id: '8231'
@@ -132,20 +123,7 @@ sublists:
       num: '21'
       name: ШИТИКОВ Василий Михайлович
       spravka: true
-  - page:
-      pageid: '648'
-      tom: '3'
-      pageintom: '56'
-      alistid: '224'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-056.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '56'
     page_image: v03/17-171-411-056.jpg
     persons:
     - id: '8252'

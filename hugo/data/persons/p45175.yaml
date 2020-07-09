@@ -21,11 +21,11 @@ fond7:
   text_lines:
   - 'Дата расстрела: 19.04.1950'
 lists:
-- title: Список от  [] - РГАСПИ, ф.3, т.16, оп.57, дело 100, лист 2
+- title: АП РФ, ф.3, т.16, оп.57, дело 100, лист 2
   url: /lists/list411#page-44-num-69
   date: '1950-03-23'
   signs: {}
-- title: Список от  [] - РГАСПИ, ф.3, т.16, оп.57, дело 100, лист 55
+- title: АП РФ, ф.3, т.16, оп.57, дело 100, лист 55
   url: /lists/list412#page-67-num-19
   date: '1950-04-11'
   signs: {}
@@ -73,8 +73,9 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v16/3-57-100-44.jpg
+  pages:
+  - image: disk/pictures/v16/3-57-100-44.jpg
+    pageintom: '44'
 - list_id: '412'
   html: '<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские
     списки - Список 11.04.1950 (АП РФ Ф.3 оп.57 д.100 лл.55-76)</TITLE></HEAD><BODY>
@@ -118,5 +119,6 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v16/3-57-100-67.jpg
+  pages:
+  - image: disk/pictures/v16/3-57-100-67.jpg
+    pageintom: '67'

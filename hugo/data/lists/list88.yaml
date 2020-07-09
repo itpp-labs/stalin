@@ -14,8 +14,10 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v04/17-171-412-088.jpg
-- image: v04/17-171-412-089.jpg
+- pageintom: '88'
+  image: v04/17-171-412-088.jpg
+- pageintom: '89'
+  image: v04/17-171-412-089.jpg
 sublists:
 - title: Список от 27 октября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -30,20 +32,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '932'
-      tom: '4'
-      pageintom: '89'
-      alistid: '88'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-412-089.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '89'
     page_image: v04/17-171-412-089.jpg
     persons:
     - id: '11607'

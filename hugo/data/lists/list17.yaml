@@ -15,12 +15,18 @@ signs:
   voroshilov: true
   ejov: true
 pages:
-- image: v01/17-171-409-139.jpg
-- image: v01/17-171-409-140.jpg
-- image: v01/17-171-409-141.jpg
-- image: v01/17-171-409-142.jpg
-- image: v01/17-171-409-143.jpg
-- image: v01/17-171-409-144.jpg
+- pageintom: '139'
+  image: v01/17-171-409-139.jpg
+- pageintom: '140'
+  image: v01/17-171-409-140.jpg
+- pageintom: '141'
+  image: v01/17-171-409-141.jpg
+- pageintom: '142'
+  image: v01/17-171-409-142.jpg
+- pageintom: '143'
+  image: v01/17-171-409-143.jpg
+- pageintom: '144'
+  image: v01/17-171-409-144.jpg
 sublists:
 - title: Список от 15 мая 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -36,20 +42,7 @@ sublists:
   - 8
   - 9
   pages:
-  - page:
-      pageid: '141'
-      tom: '1'
-      pageintom: '141'
-      alistid: '17'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-409-141.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '141'
     page_image: v01/17-171-409-141.jpg
     persons:
     - id: '2162'
@@ -138,20 +131,7 @@ sublists:
       num: '21'
       name: ЧЕРКАШИН Федор Лаврентьевич
       spravka: true
-  - page:
-      pageid: '142'
-      tom: '1'
-      pageintom: '142'
-      alistid: '17'
-      pagekind: '1'
-      arowcount: '11'
-      picturefile: 17-171-409-142.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '142'
     page_image: v01/17-171-409-142.jpg
     persons:
     - id: '2183'
@@ -199,20 +179,7 @@ sublists:
       num: '11'
       name: СТАНКИН Исаак Захарович
       spravka: true
-  - page:
-      pageid: '143'
-      tom: '1'
-      pageintom: '143'
-      alistid: '17'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-409-143.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '143'
     page_image: v01/17-171-409-143.jpg
     persons:
     - id: '2194'
@@ -270,20 +237,7 @@ sublists:
       num: '13'
       name: ЭРДМАН Иосиф Николаевич
       spravka: true
-  - page:
-      pageid: '144'
-      tom: '1'
-      pageintom: '144'
-      alistid: '17'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-409-144.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '144'
     page_image: v01/17-171-409-144.jpg
     persons:
     - id: '2207'

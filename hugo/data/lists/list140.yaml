@@ -13,11 +13,16 @@ signs:
   molotov: true
   voroshilov: true
 pages:
-- image: v05/17-171-413-286.jpg
-- image: v05/17-171-413-287.jpg
-- image: v05/17-171-413-288.jpg
-- image: v05/17-171-413-289.jpg
-- image: v05/17-171-413-290.jpg
+- pageintom: '286'
+  image: v05/17-171-413-286.jpg
+- pageintom: '287'
+  image: v05/17-171-413-287.jpg
+- pageintom: '288'
+  image: v05/17-171-413-288.jpg
+- pageintom: '289'
+  image: v05/17-171-413-289.jpg
+- pageintom: '290'
+  image: v05/17-171-413-290.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Ивановская область]
   listtitle: Список лиц - Ивановская область
@@ -32,20 +37,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1412'
-      tom: '5'
-      pageintom: '288'
-      alistid: '140'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-288.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '288'
     page_image: v05/17-171-413-288.jpg
     persons:
     - id: '18092'
@@ -128,20 +120,7 @@ sublists:
       num: '21'
       name: МАХЛОВ Александр Георгиевич
       spravka: true
-  - page:
-      pageid: '1413'
-      tom: '5'
-      pageintom: '289'
-      alistid: '140'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-413-289.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '289'
     page_image: v05/17-171-413-289.jpg
     persons:
     - id: '18113'
@@ -195,20 +174,7 @@ sublists:
       num: '35'
       name: ЯСАКОВ Иван Корнеевич
       spravka: true
-  - page:
-      pageid: '1414'
-      tom: '5'
-      pageintom: '290'
-      alistid: '140'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-290.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '290'
     page_image: v05/17-171-413-290.jpg
     persons:
     - id: '18127'

@@ -11,11 +11,14 @@ delo:
 signs:
   molotov: true
 pages:
-- image: v05/17-171-413-373.jpg
-- image: v05/17-171-413-374.jpg
-- image: v05/17-171-413-375.jpg
+- pageintom: '373'
+  image: v05/17-171-413-373.jpg
+- pageintom: '374'
+  image: v05/17-171-413-374.jpg
+- pageintom: '375'
+  image: v05/17-171-413-375.jpg
 sublists:
-- title: Список от  [Список]
+- title: Список
   listtitle: Список лиц
   sublisttitle: Список
   kat1: true
@@ -30,20 +33,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1497'
-      tom: '5'
-      pageintom: '373'
-      alistid: '151'
-      pagekind: '5'
-      arowcount: '56'
-      picturefile: 17-171-413-373.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '34'
+  - pageintom: '373'
     page_image: v05/17-171-413-373.jpg
     persons:
     - id: '19278'
@@ -228,20 +218,7 @@ sublists:
     - id: '19333'
       num: '56'
       name: МИНИН Иван Васильевич
-  - page:
-      pageid: '1498'
-      tom: '5'
-      pageintom: '374'
-      alistid: '151'
-      pagekind: '5'
-      arowcount: '58'
-      picturefile: 17-171-413-374.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '374'
     page_image: v05/17-171-413-374.jpg
     persons:
     - id: '19334'
@@ -439,20 +416,7 @@ sublists:
       num: '114'
       name: ЯЦЕНКО Александр Петрович
       spravka: true
-  - page:
-      pageid: '1499'
-      tom: '5'
-      pageintom: '375'
-      alistid: '151'
-      pagekind: '5'
-      arowcount: '36'
-      picturefile: 17-171-413-375.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '35'
+  - pageintom: '375'
     page_image: v05/17-171-413-375.jpg
     persons:
     - id: '19392'

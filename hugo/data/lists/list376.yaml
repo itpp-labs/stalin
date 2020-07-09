@@ -14,13 +14,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-333.jpg
-- image: v06/17-171-414-334.jpg
-- image: v06/17-171-414-335.jpg
-- image: v06/17-171-414-336.jpg
-- image: v06/17-171-414-337.jpg
-- image: v06/17-171-414-338.jpg
-- image: v06/17-171-414-339.jpg
+- pageintom: '333'
+  image: v06/17-171-414-333.jpg
+- pageintom: '334'
+  image: v06/17-171-414-334.jpg
+- pageintom: '335'
+  image: v06/17-171-414-335.jpg
+- pageintom: '336'
+  image: v06/17-171-414-336.jpg
+- pageintom: '337'
+  image: v06/17-171-414-337.jpg
+- pageintom: '338'
+  image: v06/17-171-414-338.jpg
+- pageintom: '339'
+  image: v06/17-171-414-339.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область
@@ -35,20 +42,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1840'
-      tom: '6'
-      pageintom: '335'
-      alistid: '376'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-414-335.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '335'
     page_image: v06/17-171-414-335.jpg
     persons:
     - id: '23428'
@@ -129,20 +123,7 @@ sublists:
       num: '19'
       name: ДАХНО-ДАХНОВ Николай Александрович
       spravka: true
-  - page:
-      pageid: '1841'
-      tom: '6'
-      pageintom: '336'
-      alistid: '376'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-414-336.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '336'
     page_image: v06/17-171-414-336.jpg
     persons:
     - id: '23447'
@@ -253,20 +234,7 @@ sublists:
       num: '46'
       name: ПЕРЕЛЬМАН Александр Львович
       spravka: true
-  - page:
-      pageid: '1842'
-      tom: '6'
-      pageintom: '337'
-      alistid: '376'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-414-337.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '337'
     page_image: v06/17-171-414-337.jpg
     persons:
     - id: '23474'
@@ -373,20 +341,7 @@ sublists:
       num: '72'
       name: ФОМЕНКО Михаил Михайлович
       spravka: true
-  - page:
-      pageid: '1843'
-      tom: '6'
-      pageintom: '338'
-      alistid: '376'
-      pagekind: '1'
-      arowcount: '9'
-      picturefile: 17-171-414-338.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '338'
     page_image: v06/17-171-414-338.jpg
     persons:
     - id: '23500'
@@ -426,20 +381,7 @@ sublists:
       num: '81'
       name: ЯРЫШКИН Роман Михайлович
       spravka: true
-  - page:
-      pageid: '1844'
-      tom: '6'
-      pageintom: '339'
-      alistid: '376'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-414-339.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '339'
     page_image: v06/17-171-414-339.jpg
     persons:
     - id: '23509'

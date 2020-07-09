@@ -14,10 +14,14 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-113.jpg
-- image: v07/17-171-415-114.jpg
-- image: v07/17-171-415-115.jpg
-- image: v07/17-171-415-116.jpg
+- pageintom: '113'
+  image: v07/17-171-415-113.jpg
+- pageintom: '114'
+  image: v07/17-171-415-114.jpg
+- pageintom: '115'
+  image: v07/17-171-415-115.jpg
+- pageintom: '116'
+  image: v07/17-171-415-116.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Ярославль.Ярославская ж.д.]
   listtitle: Список лиц - г.Ярославль.Ярославская ж.д.
@@ -32,20 +36,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '2085'
-      tom: '7'
-      pageintom: '115'
-      alistid: '266'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-415-115.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '115'
     page_image: v07/17-171-415-115.jpg
     persons:
     - id: '26992'
@@ -130,20 +121,7 @@ sublists:
       num: '20'
       name: РОМАНОВ Михаил Николаевич
       spravka: true
-  - page:
-      pageid: '2086'
-      tom: '7'
-      pageintom: '116'
-      alistid: '266'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-116.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '116'
     page_image: v07/17-171-415-116.jpg
     persons:
     - id: '27012'

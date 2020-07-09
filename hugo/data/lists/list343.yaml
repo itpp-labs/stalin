@@ -14,9 +14,12 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-083.jpg
-- image: v06/17-171-414-084.jpg
-- image: v06/17-171-414-085.jpg
+- pageintom: '83'
+  image: v06/17-171-414-083.jpg
+- pageintom: '84'
+  image: v06/17-171-414-084.jpg
+- pageintom: '85'
+  image: v06/17-171-414-085.jpg
 sublists:
 - title: Список от 3 января 1938г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -31,20 +34,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '1589'
-      tom: '6'
-      pageintom: '84'
-      alistid: '343'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-414-084.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '84'
     page_image: v06/17-171-414-084.jpg
     persons:
     - id: '20413'
@@ -124,20 +114,7 @@ sublists:
       num: '19'
       name: МАТЮТА Андрей Митрофанович
       spravka: true
-  - page:
-      pageid: '1590'
-      tom: '6'
-      pageintom: '85'
-      alistid: '343'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-414-085.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '85'
     page_image: v06/17-171-414-085.jpg
     persons:
     - id: '20432'

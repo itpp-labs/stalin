@@ -22,7 +22,7 @@ fond7:
   - 'Дата сессии ВК ВС: 29.05.1941'
   - 'Дата расстрела: 21.06.1941'
 lists:
-- title: Список от  [] - РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
+- title: РГАСПИ, ф.17, т.14, оп.171, дело 420, лист 1
   url: /lists/list410#page-4-num-55
   date: '1940-09-06'
   signs: {}
@@ -82,6 +82,7 @@ gb_spravka:
     </BODY></HTML>
 
     '
-  pictures:
-  - disk/pictures/v14/17-171-420-059.jpg
+  pages:
+  - image: disk/pictures/v14/17-171-420-059.jpg
+    pageintom: '59'
 primname: р.1903

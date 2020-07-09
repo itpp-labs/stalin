@@ -13,13 +13,20 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-073.jpg
-- image: v05/17-171-413-074.jpg
-- image: v05/17-171-413-075.jpg
-- image: v05/17-171-413-076.jpg
-- image: v05/17-171-413-077.jpg
-- image: v05/17-171-413-078.jpg
-- image: v05/17-171-413-079.jpg
+- pageintom: '73'
+  image: v05/17-171-413-073.jpg
+- pageintom: '74'
+  image: v05/17-171-413-074.jpg
+- pageintom: '75'
+  image: v05/17-171-413-075.jpg
+- pageintom: '76'
+  image: v05/17-171-413-076.jpg
+- pageintom: '77'
+  image: v05/17-171-413-077.jpg
+- pageintom: '78'
+  image: v05/17-171-413-078.jpg
+- pageintom: '79'
+  image: v05/17-171-413-079.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Свердловская область]
   listtitle: Список лиц - Свердловская область, ж.д.им.Кагановича
@@ -34,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1199'
-      tom: '5'
-      pageintom: '75'
-      alistid: '118'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-413-075.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '75'
     page_image: v05/17-171-413-075.jpg
     persons:
     - id: '14972'
@@ -156,20 +150,7 @@ sublists:
       num: '26'
       name: МЕРМАН Ефим Михайлович
       spravka: true
-  - page:
-      pageid: '1200'
-      tom: '5'
-      pageintom: '76'
-      alistid: '118'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-413-076.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '76'
     page_image: v05/17-171-413-076.jpg
     persons:
     - id: '14998'
@@ -254,20 +235,7 @@ sublists:
       num: '47'
       name: ЯЦИНО Константин Францевич
       spravka: true
-  - page:
-      pageid: '1201'
-      tom: '5'
-      pageintom: '77'
-      alistid: '118'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-413-077.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '77'
     page_image: v05/17-171-413-077.jpg
     persons:
     - id: '15019'
@@ -349,20 +317,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1202'
-      tom: '5'
-      pageintom: '78'
-      alistid: '118'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-078.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '78'
     page_image: v05/17-171-413-078.jpg
     persons:
     - id: '15035'
@@ -399,20 +354,7 @@ sublists:
       num: '8'
       name: ЩЕРБА Константин Кондратьевич
       spravka: true
-  - page:
-      pageid: '1203'
-      tom: '5'
-      pageintom: '79'
-      alistid: '118'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-079.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '79'
     page_image: v05/17-171-413-079.jpg
     persons:
     - id: '15043'

@@ -16,15 +16,24 @@ signs:
   voroshilov: true
   ejov: true
 pages:
-- image: v03/17-171-411-001.jpg
-- image: v03/17-171-411-002.jpg
-- image: v03/17-171-411-003.jpg
-- image: v03/17-171-411-004.jpg
-- image: v03/17-171-411-005.jpg
-- image: v03/17-171-411-006.jpg
-- image: v03/17-171-411-007.jpg
-- image: v03/17-171-411-008.jpg
-- image: v03/17-171-411-009.jpg
+- pageintom: '1'
+  image: v03/17-171-411-001.jpg
+- pageintom: '2'
+  image: v03/17-171-411-002.jpg
+- pageintom: '3'
+  image: v03/17-171-411-003.jpg
+- pageintom: '4'
+  image: v03/17-171-411-004.jpg
+- pageintom: '5'
+  image: v03/17-171-411-005.jpg
+- pageintom: '6'
+  image: v03/17-171-411-006.jpg
+- pageintom: '7'
+  image: v03/17-171-411-007.jpg
+- pageintom: '8'
+  image: v03/17-171-411-008.jpg
+- pageintom: '9'
+  image: v03/17-171-411-009.jpg
 sublists:
 - title: Список от 7 сентября 1937г. [Татарская АССР]
   listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
@@ -40,20 +49,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '595'
-      tom: '3'
-      pageintom: '3'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '22'
-      picturefile: 17-171-411-003.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '3'
     page_image: v03/17-171-411-003.jpg
     persons:
     - id: '7771'
@@ -158,20 +154,7 @@ sublists:
       num: '25'
       name: ЭЛЬВОВ Николай Наумович
       spravka: true
-  - page:
-      pageid: '596'
-      tom: '3'
-      pageintom: '4'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '16'
-      picturefile: 17-171-411-004.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '4'
     page_image: v03/17-171-411-004.jpg
     persons:
     - id: '7796'
@@ -254,20 +237,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '597'
-      tom: '3'
-      pageintom: '5'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-411-005.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '5'
     page_image: v03/17-171-411-005.jpg
     persons:
     - id: '7812'
@@ -301,20 +271,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '598'
-      tom: '3'
-      pageintom: '6'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-411-006.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '6'
     page_image: v03/17-171-411-006.jpg
     persons:
     - id: '7816'
@@ -356,20 +313,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '599'
-      tom: '3'
-      pageintom: '7'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-411-007.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '7'
     page_image: v03/17-171-411-007.jpg
     persons:
     - id: '7823'
@@ -392,20 +336,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '600'
-      tom: '3'
-      pageintom: '8'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-411-008.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '8'
     page_image: v03/17-171-411-008.jpg
     persons:
     - id: '7824'
@@ -444,20 +375,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '601'
-      tom: '3'
-      pageintom: '9'
-      alistid: '216'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-411-009.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '9'
     page_image: v03/17-171-411-009.jpg
     persons:
     - id: '7830'

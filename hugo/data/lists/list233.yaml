@@ -13,12 +13,18 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v03/17-171-411-122.jpg
-- image: v03/17-171-411-123.jpg
-- image: v03/17-171-411-124.jpg
-- image: v03/17-171-411-125.jpg
-- image: v03/17-171-411-126.jpg
-- image: v03/17-171-411-127.jpg
+- pageintom: '122'
+  image: v03/17-171-411-122.jpg
+- pageintom: '123'
+  image: v03/17-171-411-123.jpg
+- pageintom: '124'
+  image: v03/17-171-411-124.jpg
+- pageintom: '125'
+  image: v03/17-171-411-125.jpg
+- pageintom: '126'
+  image: v03/17-171-411-126.jpg
+- pageintom: '127'
+  image: v03/17-171-411-127.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '716'
-      tom: '3'
-      pageintom: '124'
-      alistid: '233'
-      pagekind: '5'
-      arowcount: '23'
-      picturefile: 17-171-411-124.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '124'
     page_image: v03/17-171-411-124.jpg
     persons:
     - id: '9046'
@@ -145,20 +138,7 @@ sublists:
       num: '23'
       name: ЗИСМАН Арон Ильич
       spravka: true
-  - page:
-      pageid: '717'
-      tom: '3'
-      pageintom: '125'
-      alistid: '233'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-411-125.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '125'
     page_image: v03/17-171-411-125.jpg
     persons:
     - id: '9069'
@@ -268,20 +248,7 @@ sublists:
       num: '50'
       name: РУДАКОВ Пантелеймон Александрович
       spravka: true
-  - page:
-      pageid: '718'
-      tom: '3'
-      pageintom: '126'
-      alistid: '233'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-411-126.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '126'
     page_image: v03/17-171-411-126.jpg
     persons:
     - id: '9096'
@@ -340,20 +307,7 @@ sublists:
       num: '64'
       name: ЯНКОВСКИЙ Рафаил Акимович
       spravka: true
-  - page:
-      pageid: '719'
-      tom: '3'
-      pageintom: '127'
-      alistid: '233'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-411-127.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '127'
     page_image: v03/17-171-411-127.jpg
     persons:
     - id: '9110'

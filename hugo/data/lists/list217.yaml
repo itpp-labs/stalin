@@ -15,10 +15,14 @@ signs:
   voroshilov: true
   ejov: true
 pages:
-- image: v03/17-171-411-010.jpg
-- image: v03/17-171-411-011.jpg
-- image: v03/17-171-411-012.jpg
-- image: v03/17-171-411-013.jpg
+- pageintom: '10'
+  image: v03/17-171-411-010.jpg
+- pageintom: '11'
+  image: v03/17-171-411-011.jpg
+- pageintom: '12'
+  image: v03/17-171-411-012.jpg
+- pageintom: '13'
+  image: v03/17-171-411-013.jpg
 sublists:
 - title: Список от сентябрь 1937г. [Украинская ССР]
   listtitle: 'Список лиц: Украинская ССР'
@@ -33,20 +37,7 @@ sublists:
   group_ids:
   - 1
   pages:
-  - page:
-      pageid: '604'
-      tom: '3'
-      pageintom: '12'
-      alistid: '217'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-411-012.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v03/17-171-411-012.jpg
     persons:
     - id: '7838'
@@ -142,20 +133,7 @@ sublists:
       num: '24'
       name: РЫКОВ Владимир Васильевич
       spravka: true
-  - page:
-      pageid: '605'
-      tom: '3'
-      pageintom: '13'
-      alistid: '217'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-411-013.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '13'
     page_image: v03/17-171-411-013.jpg
     persons:
     - id: '7862'

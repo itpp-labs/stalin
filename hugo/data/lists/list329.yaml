@@ -12,10 +12,14 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v08/17-171-416-312.jpg
-- image: v08/17-171-416-313.jpg
-- image: v08/17-171-416-314.jpg
-- image: v08/17-171-416-315.jpg
+- pageintom: '312'
+  image: v08/17-171-416-312.jpg
+- pageintom: '313'
+  image: v08/17-171-416-313.jpg
+- pageintom: '314'
+  image: v08/17-171-416-314.jpg
+- pageintom: '315'
+  image: v08/17-171-416-315.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Алтайский край]
   listtitle: Список лиц - Алтайский край
@@ -30,20 +34,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2567'
-      tom: '8'
-      pageintom: '314'
-      alistid: '329'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-416-314.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '314'
     page_image: v08/17-171-416-314.jpg
     persons:
     - id: '32870'
@@ -120,20 +111,7 @@ sublists:
       num: '18'
       name: ЧЕРКАСОВ Алексей Афанасьевич
       spravka: true
-  - page:
-      pageid: '2568'
-      tom: '8'
-      pageintom: '315'
-      alistid: '329'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-416-315.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '315'
     page_image: v08/17-171-416-315.jpg
     persons:
     - id: '32888'

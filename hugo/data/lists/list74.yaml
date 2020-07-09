@@ -15,12 +15,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-338.jpg
-- image: v02/17-171-410-339.jpg
-- image: v02/17-171-410-340.jpg
-- image: v02/17-171-410-341.jpg
-- image: v02/17-171-410-342.jpg
-- image: v02/17-171-410-343.jpg
+- pageintom: '338'
+  image: v02/17-171-410-338.jpg
+- pageintom: '339'
+  image: v02/17-171-410-339.jpg
+- pageintom: '340'
+  image: v02/17-171-410-340.jpg
+- pageintom: '341'
+  image: v02/17-171-410-341.jpg
+- pageintom: '342'
+  image: v02/17-171-410-342.jpg
+- pageintom: '343'
+  image: v02/17-171-410-343.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -35,20 +41,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '576'
-      tom: '2'
-      pageintom: '340'
-      alistid: '74'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-340.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '340'
     page_image: v02/17-171-410-340.jpg
     persons:
     - id: '7496'
@@ -151,20 +144,7 @@ sublists:
       num: '24'
       name: КАРПЮК Иван Николаевич
       spravka: true
-  - page:
-      pageid: '577'
-      tom: '2'
-      pageintom: '341'
-      alistid: '74'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-410-341.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '341'
     page_image: v02/17-171-410-341.jpg
     persons:
     - id: '7520'
@@ -284,20 +264,7 @@ sublists:
       num: '53'
       name: СКРОБОТОВ Владимир Антонович
       spravka: true
-  - page:
-      pageid: '578'
-      tom: '2'
-      pageintom: '342'
-      alistid: '74'
-      pagekind: '1'
-      arowcount: '10'
-      picturefile: 17-171-410-342.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '342'
     page_image: v02/17-171-410-342.jpg
     persons:
     - id: '7549'
@@ -340,20 +307,7 @@ sublists:
       num: '63'
       name: ШИЛИН Кузьма Григорьевич
       spravka: true
-  - page:
-      pageid: '579'
-      tom: '2'
-      pageintom: '343'
-      alistid: '74'
-      pagekind: '1'
-      arowcount: '13'
-      picturefile: 17-171-410-343.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '343'
     page_image: v02/17-171-410-343.jpg
     persons:
     - id: '7559'

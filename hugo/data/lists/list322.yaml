@@ -12,13 +12,20 @@ signs:
   stalin: true
   molotov: true
 pages:
-- image: v08/17-171-416-256.jpg
-- image: v08/17-171-416-257.jpg
-- image: v08/17-171-416-258.jpg
-- image: v08/17-171-416-259.jpg
-- image: v08/17-171-416-260.jpg
-- image: v08/17-171-416-261.jpg
-- image: v08/17-171-416-262.jpg
+- pageintom: '256'
+  image: v08/17-171-416-256.jpg
+- pageintom: '257'
+  image: v08/17-171-416-257.jpg
+- pageintom: '258'
+  image: v08/17-171-416-258.jpg
+- pageintom: '259'
+  image: v08/17-171-416-259.jpg
+- pageintom: '260'
+  image: v08/17-171-416-260.jpg
+- pageintom: '261'
+  image: v08/17-171-416-261.jpg
+- pageintom: '262'
+  image: v08/17-171-416-262.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Таджикская ССР]
   listtitle: Список лиц - Таджикская ССР
@@ -33,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2511'
-      tom: '8'
-      pageintom: '258'
-      alistid: '322'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-416-258.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '258'
     page_image: v08/17-171-416-258.jpg
     persons:
     - id: '32218'
@@ -120,20 +114,7 @@ sublists:
     - id: '32238'
       num: '21'
       name: БАБАДЖАНОВ Исмат
-  - page:
-      pageid: '2512'
-      tom: '8'
-      pageintom: '259'
-      alistid: '322'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-416-259.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '259'
     page_image: v08/17-171-416-259.jpg
     persons:
     - id: '32239'
@@ -234,20 +215,7 @@ sublists:
       num: '51'
       name: КУЗНЕЦОВ Федор Алексеевич
       spravka: true
-  - page:
-      pageid: '2513'
-      tom: '8'
-      pageintom: '260'
-      alistid: '322'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-416-260.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '260'
     page_image: v08/17-171-416-260.jpg
     persons:
     - id: '32269'
@@ -344,20 +312,7 @@ sublists:
     - id: '32298'
       num: '81'
       name: САЙФИЕВ-ЯКШИМБЕТОВ Гасым Ходжи Мухамедович
-  - page:
-      pageid: '2514'
-      tom: '8'
-      pageintom: '261'
-      alistid: '322'
-      pagekind: '1'
-      arowcount: '27'
-      picturefile: 17-171-416-261.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '261'
     page_image: v08/17-171-416-261.jpg
     persons:
     - id: '32299'
@@ -451,20 +406,7 @@ sublists:
     - id: '32325'
       num: '108'
       name: ЮСУФБЕКОВ Мамед Махмудович
-  - page:
-      pageid: '2515'
-      tom: '8'
-      pageintom: '262'
-      alistid: '322'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-416-262.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '262'
     page_image: v08/17-171-416-262.jpg
     persons:
     - id: '32326'

@@ -14,12 +14,18 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v02/17-171-410-195.jpg
-- image: v02/17-171-410-196.jpg
-- image: v02/17-171-410-197.jpg
-- image: v02/17-171-410-198.jpg
-- image: v02/17-171-410-199.jpg
-- image: v02/17-171-410-200.jpg
+- pageintom: '195'
+  image: v02/17-171-410-195.jpg
+- pageintom: '196'
+  image: v02/17-171-410-196.jpg
+- pageintom: '197'
+  image: v02/17-171-410-197.jpg
+- pageintom: '198'
+  image: v02/17-171-410-198.jpg
+- pageintom: '199'
+  image: v02/17-171-410-199.jpg
+- pageintom: '200'
+  image: v02/17-171-410-200.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '433'
-      tom: '2'
-      pageintom: '197'
-      alistid: '60'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-410-197.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '197'
     page_image: v02/17-171-410-197.jpg
     persons:
     - id: '5259'
@@ -156,20 +149,7 @@ sublists:
       num: '26'
       name: ЗАБЛОЦКИЙ Василий Александрович
       spravka: true
-  - page:
-      pageid: '434'
-      tom: '2'
-      pageintom: '198'
-      alistid: '60'
-      pagekind: '1'
-      arowcount: '31'
-      picturefile: 17-171-410-198.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '198'
     page_image: v02/17-171-410-198.jpg
     persons:
     - id: '5285'
@@ -296,20 +276,7 @@ sublists:
       num: '57'
       name: ОЛЬШЕВСКИЙ Фаддей Иванович
       spravka: true
-  - page:
-      pageid: '435'
-      tom: '2'
-      pageintom: '199'
-      alistid: '60'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-410-199.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '199'
     page_image: v02/17-171-410-199.jpg
     persons:
     - id: '5316'
@@ -425,20 +392,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '436'
-      tom: '2'
-      pageintom: '200'
-      alistid: '60'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-410-200.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '200'
     page_image: v02/17-171-410-200.jpg
     persons:
     - id: '5340'

@@ -13,12 +13,18 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v05/17-171-413-067.jpg
-- image: v05/17-171-413-068.jpg
-- image: v05/17-171-413-069.jpg
-- image: v05/17-171-413-070.jpg
-- image: v05/17-171-413-071.jpg
-- image: v05/17-171-413-072.jpg
+- pageintom: '67'
+  image: v05/17-171-413-067.jpg
+- pageintom: '68'
+  image: v05/17-171-413-068.jpg
+- pageintom: '69'
+  image: v05/17-171-413-069.jpg
+- pageintom: '70'
+  image: v05/17-171-413-070.jpg
+- pageintom: '71'
+  image: v05/17-171-413-071.jpg
+- pageintom: '72'
+  image: v05/17-171-413-072.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР, Челябинская область
@@ -33,20 +39,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1193'
-      tom: '5'
-      pageintom: '69'
-      alistid: '117'
-      pagekind: '1'
-      arowcount: '19'
-      picturefile: 17-171-413-069.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '69'
     page_image: v05/17-171-413-069.jpg
     persons:
     - id: '14924'
@@ -123,20 +116,7 @@ sublists:
     - id: '14942'
       num: '19'
       name: ЮФЕРОВ Александр Степанович
-  - page:
-      pageid: '1194'
-      tom: '5'
-      pageintom: '70'
-      alistid: '117'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-413-070.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '70'
     page_image: v05/17-171-413-070.jpg
     persons:
     - id: '14943'
@@ -186,20 +166,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1195'
-      tom: '5'
-      pageintom: '71'
-      alistid: '117'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-413-071.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '71'
     page_image: v05/17-171-413-071.jpg
     persons:
     - id: '14951'
@@ -269,20 +236,7 @@ sublists:
     - id: '14968'
       num: '18'
       name: ЯПРИНЦЕВ Сергей Сергеевич
-  - page:
-      pageid: '1196'
-      tom: '5'
-      pageintom: '72'
-      alistid: '117'
-      pagekind: '1'
-      arowcount: '3'
-      picturefile: 17-171-413-072.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '72'
     page_image: v05/17-171-413-072.jpg
     persons:
     - id: '14969'

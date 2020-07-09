@@ -14,12 +14,18 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-156.jpg
-- image: v07/17-171-415-157.jpg
-- image: v07/17-171-415-158.jpg
-- image: v07/17-171-415-159.jpg
-- image: v07/17-171-415-160.jpg
-- image: v07/17-171-415-161.jpg
+- pageintom: '156'
+  image: v07/17-171-415-156.jpg
+- pageintom: '157'
+  image: v07/17-171-415-157.jpg
+- pageintom: '158'
+  image: v07/17-171-415-158.jpg
+- pageintom: '159'
+  image: v07/17-171-415-159.jpg
+- pageintom: '160'
+  image: v07/17-171-415-160.jpg
+- pageintom: '161'
+  image: v07/17-171-415-161.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Крымская АССР]
   listtitle: Список лиц - Крымская АССР
@@ -34,20 +40,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '2128'
-      tom: '7'
-      pageintom: '158'
-      alistid: '271'
-      pagekind: '1'
-      arowcount: '24'
-      picturefile: 17-171-415-158.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '158'
     page_image: v07/17-171-415-158.jpg
     persons:
     - id: '27564'
@@ -142,20 +135,7 @@ sublists:
     - id: '27587'
       num: '24'
       name: КУРТ Мемет Рамазан
-  - page:
-      pageid: '2129'
-      tom: '7'
-      pageintom: '159'
-      alistid: '271'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-415-159.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '159'
     page_image: v07/17-171-415-159.jpg
     persons:
     - id: '27588'
@@ -256,20 +236,7 @@ sublists:
     - id: '27613'
       num: '50'
       name: ЭВЛИЯЕВ Абдульбер
-  - page:
-      pageid: '2130'
-      tom: '7'
-      pageintom: '160'
-      alistid: '271'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-415-160.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '160'
     page_image: v07/17-171-415-160.jpg
     persons:
     - id: '27614'
@@ -285,20 +252,7 @@ sublists:
     - id: '27617'
       num: '54'
       name: ЭПШТЕЙН Леонид Харитонович
-  - page:
-      pageid: '2131'
-      tom: '7'
-      pageintom: '161'
-      alistid: '271'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-415-161.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '161'
     page_image: v07/17-171-415-161.jpg
     persons:
     - id: '27618'

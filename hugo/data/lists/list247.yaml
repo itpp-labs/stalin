@@ -14,11 +14,16 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v03/17-171-411-229.jpg
-- image: v03/17-171-411-230.jpg
-- image: v03/17-171-411-231.jpg
-- image: v03/17-171-411-232.jpg
-- image: v03/17-171-411-233.jpg
+- pageintom: '229'
+  image: v03/17-171-411-229.jpg
+- pageintom: '230'
+  image: v03/17-171-411-230.jpg
+- pageintom: '231'
+  image: v03/17-171-411-231.jpg
+- pageintom: '232'
+  image: v03/17-171-411-232.jpg
+- pageintom: '233'
+  image: v03/17-171-411-233.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -33,20 +38,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '822'
-      tom: '3'
-      pageintom: '230'
-      alistid: '247'
-      pagekind: '1'
-      arowcount: '18'
-      picturefile: 17-171-411-230.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '230'
     page_image: v03/17-171-411-230.jpg
     persons:
     - id: '10316'
@@ -130,20 +122,7 @@ sublists:
       name: ИВАНОВ Вячеслав Федорович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '823'
-      tom: '3'
-      pageintom: '231'
-      alistid: '247'
-      pagekind: '1'
-      arowcount: '17'
-      picturefile: 17-171-411-231.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '231'
     page_image: v03/17-171-411-231.jpg
     persons:
     - id: '10334'
@@ -223,20 +202,7 @@ sublists:
       num: '35'
       name: МЕДВЕДЕВ Алексей Васильевич
       spravka: true
-  - page:
-      pageid: '824'
-      tom: '3'
-      pageintom: '232'
-      alistid: '247'
-      pagekind: '1'
-      arowcount: '26'
-      picturefile: 17-171-411-232.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '232'
     page_image: v03/17-171-411-232.jpg
     persons:
     - id: '11516'
@@ -355,20 +321,7 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '825'
-      tom: '3'
-      pageintom: '233'
-      alistid: '247'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-411-233.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '233'
     page_image: v03/17-171-411-233.jpg
     persons:
     - id: '10377'

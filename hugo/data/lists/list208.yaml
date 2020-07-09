@@ -13,17 +13,28 @@ signs:
   molotov: true
   jdanov: true
 pages:
-- image: v10/17-171-418-201.jpg
-- image: v10/17-171-418-202.jpg
-- image: v10/17-171-418-203.jpg
-- image: v10/17-171-418-204.jpg
-- image: v10/17-171-418-205.jpg
-- image: v10/17-171-418-206.jpg
-- image: v10/17-171-418-207.jpg
-- image: v10/17-171-418-208.jpg
-- image: v10/17-171-418-209.jpg
-- image: v10/17-171-418-210.jpg
-- image: v10/17-171-418-211.jpg
+- pageintom: '201'
+  image: v10/17-171-418-201.jpg
+- pageintom: '202'
+  image: v10/17-171-418-202.jpg
+- pageintom: '203'
+  image: v10/17-171-418-203.jpg
+- pageintom: '204'
+  image: v10/17-171-418-204.jpg
+- pageintom: '205'
+  image: v10/17-171-418-205.jpg
+- pageintom: '206'
+  image: v10/17-171-418-206.jpg
+- pageintom: '207'
+  image: v10/17-171-418-207.jpg
+- pageintom: '208'
+  image: v10/17-171-418-208.jpg
+- pageintom: '209'
+  image: v10/17-171-418-209.jpg
+- pageintom: '210'
+  image: v10/17-171-418-210.jpg
+- pageintom: '211'
+  image: v10/17-171-418-211.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Орловская область]
   listtitle: Список лиц - Орловская область
@@ -38,20 +49,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '3058'
-      tom: '10'
-      pageintom: '203'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-203.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '203'
     page_image: v10/17-171-418-203.jpg
     persons:
     - id: '40001'
@@ -128,20 +126,7 @@ sublists:
     - id: '40020'
       num: '20'
       name: ВДОВИН Василий Емельянович
-  - page:
-      pageid: '3059'
-      tom: '10'
-      pageintom: '204'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-204.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '204'
     page_image: v10/17-171-418-204.jpg
     persons:
     - id: '40021'
@@ -242,20 +227,7 @@ sublists:
       num: '48'
       name: ДУХАНОВ Сергей Арефьевич
       spravka: true
-  - page:
-      pageid: '3060'
-      tom: '10'
-      pageintom: '205'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-205.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '205'
     page_image: v10/17-171-418-205.jpg
     persons:
     - id: '40049'
@@ -359,20 +331,7 @@ sublists:
       num: '76'
       name: КРОПОТОВ Вячеслав Андреевич
       spravka: true
-  - page:
-      pageid: '3061'
-      tom: '10'
-      pageintom: '206'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-206.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '206'
     page_image: v10/17-171-418-206.jpg
     persons:
     - id: '40077'
@@ -474,20 +433,7 @@ sublists:
     - id: '40104'
       num: '104'
       name: МОРОЗОВ Анатолий Сергеевич
-  - page:
-      pageid: '3062'
-      tom: '10'
-      pageintom: '207'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-207.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '207'
     page_image: v10/17-171-418-207.jpg
     persons:
     - id: '40105'
@@ -583,20 +529,7 @@ sublists:
     - id: '40132'
       num: '132'
       name: ПУТЯТО Никита Григорьевич
-  - page:
-      pageid: '3063'
-      tom: '10'
-      pageintom: '208'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '28'
-      picturefile: 17-171-418-208.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '208'
     page_image: v10/17-171-418-208.jpg
     persons:
     - id: '40133'
@@ -694,20 +627,7 @@ sublists:
     - id: '40160'
       num: '160'
       name: ХАРЬКОВ Александр Иванович
-  - page:
-      pageid: '3064'
-      tom: '10'
-      pageintom: '209'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '15'
-      picturefile: 17-171-418-209.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '209'
     page_image: v10/17-171-418-209.jpg
     persons:
     - id: '40161'
@@ -763,20 +683,7 @@ sublists:
       num: '175'
       name: ЭПШТЕЙН Яков Ефимович
       spravka: true
-  - page:
-      pageid: '3065'
-      tom: '10'
-      pageintom: '210'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '20'
-      picturefile: 17-171-418-210.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '210'
     page_image: v10/17-171-418-210.jpg
     persons:
     - id: '40176'
@@ -852,20 +759,7 @@ sublists:
     - id: '40195'
       num: '20'
       name: СМИРНОВ Сергей Михайлович
-  - page:
-      pageid: '3066'
-      tom: '10'
-      pageintom: '211'
-      alistid: '208'
-      pagekind: '1'
-      arowcount: '7'
-      picturefile: 17-171-418-211.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '211'
     page_image: v10/17-171-418-211.jpg
     persons:
     - id: '40196'

@@ -15,13 +15,20 @@ signs:
   kaganovic: true
   voroshilov: true
 pages:
-- image: v06/17-171-414-314.jpg
-- image: v06/17-171-414-315.jpg
-- image: v06/17-171-414-316.jpg
-- image: v06/17-171-414-317.jpg
-- image: v06/17-171-414-318.jpg
-- image: v06/17-171-414-319.jpg
-- image: v06/17-171-414-320.jpg
+- pageintom: '314'
+  image: v06/17-171-414-314.jpg
+- pageintom: '315'
+  image: v06/17-171-414-315.jpg
+- pageintom: '316'
+  image: v06/17-171-414-316.jpg
+- pageintom: '317'
+  image: v06/17-171-414-317.jpg
+- pageintom: '318'
+  image: v06/17-171-414-318.jpg
+- pageintom: '319'
+  image: v06/17-171-414-319.jpg
+- pageintom: '320'
+  image: v06/17-171-414-320.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
@@ -37,20 +44,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1821'
-      tom: '6'
-      pageintom: '316'
-      alistid: '373'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-414-316.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '316'
     page_image: v06/17-171-414-316.jpg
     persons:
     - id: '23271'
@@ -93,20 +87,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1822'
-      tom: '6'
-      pageintom: '317'
-      alistid: '373'
-      pagekind: '1'
-      arowcount: '6'
-      picturefile: 17-171-414-317.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '317'
     page_image: v06/17-171-414-317.jpg
     persons:
     - id: '23277'
@@ -133,20 +114,7 @@ sublists:
       num: '6'
       name: РУДЕНКО Иван Георгиевич
       spravka: true
-  - page:
-      pageid: '1823'
-      tom: '6'
-      pageintom: '318'
-      alistid: '373'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-318.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '318'
     page_image: v06/17-171-414-318.jpg
     persons:
     - id: '23283'
@@ -169,20 +137,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1824'
-      tom: '6'
-      pageintom: '319'
-      alistid: '373'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-319.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '319'
     page_image: v06/17-171-414-319.jpg
     persons:
     - id: '23284'
@@ -205,20 +160,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1825'
-      tom: '6'
-      pageintom: '320'
-      alistid: '373'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-414-320.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '320'
     page_image: v06/17-171-414-320.jpg
     persons:
     - id: '23285'

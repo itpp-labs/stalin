@@ -15,28 +15,50 @@ signs:
   jdanov: true
   voroshilov: true
 pages:
-- image: v07/17-171-415-010.jpg
-- image: v07/17-171-415-011.jpg
-- image: v07/17-171-415-012.jpg
-- image: v07/17-171-415-013.jpg
-- image: v07/17-171-415-014.jpg
-- image: v07/17-171-415-015.jpg
-- image: v07/17-171-415-016.jpg
-- image: v07/17-171-415-017.jpg
-- image: v07/17-171-415-018.jpg
-- image: v07/17-171-415-019.jpg
-- image: v07/17-171-415-020.jpg
-- image: v07/17-171-415-021.jpg
-- image: v07/17-171-415-022.jpg
-- image: v07/17-171-415-023.jpg
-- image: v07/17-171-415-024.jpg
-- image: v07/17-171-415-025.jpg
-- image: v07/17-171-415-026.jpg
-- image: v07/17-171-415-027.jpg
-- image: v07/17-171-415-028.jpg
-- image: v07/17-171-415-029.jpg
-- image: v07/17-171-415-030.jpg
-- image: v07/17-171-415-031.jpg
+- pageintom: '10'
+  image: v07/17-171-415-010.jpg
+- pageintom: '11'
+  image: v07/17-171-415-011.jpg
+- pageintom: '12'
+  image: v07/17-171-415-012.jpg
+- pageintom: '13'
+  image: v07/17-171-415-013.jpg
+- pageintom: '14'
+  image: v07/17-171-415-014.jpg
+- pageintom: '15'
+  image: v07/17-171-415-015.jpg
+- pageintom: '16'
+  image: v07/17-171-415-016.jpg
+- pageintom: '17'
+  image: v07/17-171-415-017.jpg
+- pageintom: '18'
+  image: v07/17-171-415-018.jpg
+- pageintom: '19'
+  image: v07/17-171-415-019.jpg
+- pageintom: '20'
+  image: v07/17-171-415-020.jpg
+- pageintom: '21'
+  image: v07/17-171-415-021.jpg
+- pageintom: '22'
+  image: v07/17-171-415-022.jpg
+- pageintom: '23'
+  image: v07/17-171-415-023.jpg
+- pageintom: '24'
+  image: v07/17-171-415-024.jpg
+- pageintom: '25'
+  image: v07/17-171-415-025.jpg
+- pageintom: '26'
+  image: v07/17-171-415-026.jpg
+- pageintom: '27'
+  image: v07/17-171-415-027.jpg
+- pageintom: '28'
+  image: v07/17-171-415-028.jpg
+- pageintom: '29'
+  image: v07/17-171-415-029.jpg
+- pageintom: '30'
+  image: v07/17-171-415-030.jpg
+- pageintom: '31'
+  image: v07/17-171-415-031.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр;Московская область;г.Москва.ж.д.им.Дзержинского;г.Москва.Ленинская
@@ -53,20 +75,7 @@ sublists:
   - 0
   - 2
   pages:
-  - page:
-      pageid: '1975'
-      tom: '7'
-      pageintom: '12'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-012.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '12'
     page_image: v07/17-171-415-012.jpg
     persons:
     - id: '25966'
@@ -157,20 +166,7 @@ sublists:
       num: '21'
       name: БЕРЗИН Рейнгольд Иосифович
       spravka: true
-  - page:
-      pageid: '1976'
-      tom: '7'
-      pageintom: '13'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-013.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '13'
     page_image: v07/17-171-415-013.jpg
     persons:
     - id: '25987'
@@ -290,20 +286,7 @@ sublists:
       num: '50'
       name: ГРИНЕВИЧ Петр Антонович
       spravka: true
-  - page:
-      pageid: '1977'
-      tom: '7'
-      pageintom: '14'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-415-014.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '14'
     page_image: v07/17-171-415-014.jpg
     persons:
     - id: '26016'
@@ -428,20 +411,7 @@ sublists:
       num: '80'
       name: КОВАЛЬСКИЙ Николай Иванович
       spravka: true
-  - page:
-      pageid: '1978'
-      tom: '7'
-      pageintom: '15'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-015.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '15'
     page_image: v07/17-171-415-015.jpg
     persons:
     - id: '36588'
@@ -565,20 +535,7 @@ sublists:
       num: '109'
       name: ЛЕУШИН Николай Дмитриевич
       spravka: true
-  - page:
-      pageid: '1979'
-      tom: '7'
-      pageintom: '16'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-016.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '16'
     page_image: v07/17-171-415-016.jpg
     persons:
     - id: '26075'
@@ -696,20 +653,7 @@ sublists:
       num: '138'
       name: ПАВЛОВ Михаил Федорович
       spravka: true
-  - page:
-      pageid: '1980'
-      tom: '7'
-      pageintom: '17'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '29'
-      picturefile: 17-171-415-017.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '17'
     page_image: v07/17-171-415-017.jpg
     persons:
     - id: '26104'
@@ -829,20 +773,7 @@ sublists:
       num: '167'
       name: СЛИВКИН Альберт Моисеевич
       spravka: true
-  - page:
-      pageid: '1981'
-      tom: '7'
-      pageintom: '18'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '30'
-      picturefile: 17-171-415-018.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '0'
-      pometa: '0'
+  - pageintom: '18'
     page_image: v07/17-171-415-018.jpg
     persons:
     - id: '26133'
@@ -962,20 +893,7 @@ sublists:
       num: '197'
       name: ЦЕГЕ-ФОН-МАНТЕЙФЕЛЬ Александр Николаевич
       spravka: true
-  - page:
-      pageid: '1982'
-      tom: '7'
-      pageintom: '19'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '21'
-      picturefile: 17-171-415-019.jpg
-      textfile: ''
-      sublisttitle: '0'
-      categorytitle: '0'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '19'
     page_image: v07/17-171-415-019.jpg
     persons:
     - id: '26163'
@@ -1066,20 +984,7 @@ sublists:
       name: ЯКИМОВИЧ Иван Константинович
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1983'
-      tom: '7'
-      pageintom: '20'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '4'
-      picturefile: 17-171-415-020.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '20'
     page_image: v07/17-171-415-020.jpg
     persons:
     - id: '26184'
@@ -1103,20 +1008,7 @@ sublists:
       name: СЕЙФУЛА ЗАДЕ (ХАШАНИ) Гулям Риза
       gb_spravka: true
       spravka: true
-  - page:
-      pageid: '1988'
-      tom: '7'
-      pageintom: '25'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '8'
-      picturefile: 17-171-415-025.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '25'
     page_image: v07/17-171-415-025.jpg
     persons:
     - id: '26188'
@@ -1162,20 +1054,7 @@ sublists:
   group_ids:
   - 0
   pages:
-  - page:
-      pageid: '1989'
-      tom: '7'
-      pageintom: '26'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '14'
-      picturefile: 17-171-415-026.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '26'
     page_image: v07/17-171-415-026.jpg
     persons:
     - id: '26196'
@@ -1236,20 +1115,7 @@ sublists:
       name: УСКОВ Тимофей Сергеевич
       doublesexists: true
       spravka: true
-  - page:
-      pageid: '1990'
-      tom: '7'
-      pageintom: '27'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '2'
-      picturefile: 17-171-415-027.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '27'
     page_image: v07/17-171-415-027.jpg
     persons:
     - id: '26210'
@@ -1274,20 +1140,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1991'
-      tom: '7'
-      pageintom: '28'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-028.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '28'
     page_image: v07/17-171-415-028.jpg
     persons:
     - id: '26212'
@@ -1295,20 +1148,7 @@ sublists:
       name: ОНУФРИЕВ Федор Александрович
       subtitle1: <p align="center"><u>Гор.МОСКВА.ЖЕЛ.ДОР.им.ДЗЕРЖИНСКОГО </u></p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - page:
-      pageid: '1992'
-      tom: '7'
-      pageintom: '29'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '5'
-      picturefile: 17-171-415-029.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '29'
     page_image: v07/17-171-415-029.jpg
     persons:
     - id: '25961'
@@ -1351,20 +1191,7 @@ sublists:
   group_ids:
   - 13
   pages:
-  - page:
-      pageid: '1993'
-      tom: '7'
-      pageintom: '30'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '12'
-      picturefile: 17-171-415-030.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '30'
     page_image: v07/17-171-415-030.jpg
     persons:
     - id: '26218'
@@ -1414,20 +1241,7 @@ sublists:
       num: '12'
       name: СТРУКОВ Петр Артемьевич
       spravka: true
-  - page:
-      pageid: '1994'
-      tom: '7'
-      pageintom: '31'
-      alistid: '252'
-      pagekind: '1'
-      arowcount: '1'
-      picturefile: 17-171-415-031.jpg
-      textfile: ''
-      sublisttitle: '1'
-      categorytitle: '1'
-      grouptitle: '0'
-      podpnkvd: '1'
-      pometa: '0'
+  - pageintom: '31'
     page_image: v07/17-171-415-031.jpg
     persons:
     - id: '26230'
