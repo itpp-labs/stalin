@@ -9,7 +9,7 @@ Additional changes made on files:
 
   * `vkvs/pictures/`
 
-* Information fixes in persons.csv
+* Information fixes in persons.csv (see commits history)
 
 # db/
 
