@@ -47,20 +47,19 @@ div:target {
 }
 
 
-.primzv p{
+.primzv-name{
     text-align: center;
 }
 
 @media screen and (min-width: 769px) {
     .primzv-num{
-        width: 30px !important;
+        text-align: right;
     }
-    .primzv-name{
-        width: 230px !important;
+
+    .page-text{
+        width: 490px;
     }
-    .primzv-zv{
-        width: 230px !important;
-    }
+
 }
 
 
