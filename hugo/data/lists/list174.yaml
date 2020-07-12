@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '127'
-  image: v09/17-171-417-127.jpg
-- pageintom: '128'
-  image: v09/17-171-417-128.jpg
-- pageintom: '129'
-  image: v09/17-171-417-129.jpg
-- pageintom: '130'
-  image: v09/17-171-417-130.jpg
-- pageintom: '131'
-  image: v09/17-171-417-131.jpg
-- pageintom: '132'
-  image: v09/17-171-417-132.jpg
-- pageintom: '133'
-  image: v09/17-171-417-133.jpg
-- pageintom: '134'
-  image: v09/17-171-417-134.jpg
-- pageintom: '135'
-  image: v09/17-171-417-135.jpg
-- pageintom: '136'
-  image: v09/17-171-417-136.jpg
 sublists:
 - title: Список от 10.VI.38г. [Иркутская область]
   listtitle: Список лиц - Иркутская область
@@ -45,9 +24,17 @@ sublists:
   - 151
   group_ids:
   - 0
-  pages:
-  - pageintom: '129'
-    page_image: v09/17-171-417-129.jpg
+pages:
+- pageintom: '127'
+  image: v09/17-171-417-127.jpg
+  sublists: []
+- pageintom: '128'
+  image: v09/17-171-417-128.jpg
+  sublists: []
+- pageintom: '129'
+  image: v09/17-171-417-129.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '34952'
       num: '1'
@@ -126,8 +113,10 @@ sublists:
       num: '21'
       name: ВЕРБИЦКИЙ Михаил Федорович
       spravka: true
-  - pageintom: '130'
-    page_image: v09/17-171-417-130.jpg
+- pageintom: '130'
+  image: v09/17-171-417-130.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '34973'
       num: '22'
@@ -244,8 +233,10 @@ sublists:
       num: '50'
       name: ЗАНДАНОВ Никита Иванович
       spravka: true
-  - pageintom: '131'
-    page_image: v09/17-171-417-131.jpg
+- pageintom: '131'
+  image: v09/17-171-417-131.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35002'
       num: '51'
@@ -362,8 +353,10 @@ sublists:
       num: '79'
       name: КРИВОУСОВ Александр Александрович
       spravka: true
-  - pageintom: '132'
-    page_image: v09/17-171-417-132.jpg
+- pageintom: '132'
+  image: v09/17-171-417-132.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35031'
       num: '80'
@@ -477,8 +470,10 @@ sublists:
       num: '108'
       name: ПЕТЕЛИН Михаил Харлампиевич
       spravka: true
-  - pageintom: '133'
-    page_image: v09/17-171-417-133.jpg
+- pageintom: '133'
+  image: v09/17-171-417-133.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35060'
       num: '109'
@@ -597,8 +592,10 @@ sublists:
       num: '137'
       name: СИМБИРЦЕВ Иван Ильич
       spravka: true
-  - pageintom: '134'
-    page_image: v09/17-171-417-134.jpg
+- pageintom: '134'
+  image: v09/17-171-417-134.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35089'
       num: '138'
@@ -710,8 +707,10 @@ sublists:
       num: '166'
       name: ЧУЙКИН Борис Константинович
       spravka: true
-  - pageintom: '135'
-    page_image: v09/17-171-417-135.jpg
+- pageintom: '135'
+  image: v09/17-171-417-135.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35118'
       num: '167'
@@ -768,8 +767,10 @@ sublists:
       num: '180'
       name: ЯКОВЛЕВ Иван Константинович
       spravka: true
-  - pageintom: '136'
-    page_image: v09/17-171-417-136.jpg
+- pageintom: '136'
+  image: v09/17-171-417-136.jpg
+  sublists:
+  - sublid: '115'
     persons:
     - id: '35132'
       num: '1'

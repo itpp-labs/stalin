@@ -13,11 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '216'
-  image: v06/17-171-414-216.jpg
-- pageintom: '217'
-  image: v06/17-171-414-217.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -31,9 +26,14 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '217'
-    page_image: v06/17-171-414-217.jpg
+pages:
+- pageintom: '216'
+  image: v06/17-171-414-216.jpg
+  sublists: []
+- pageintom: '217'
+  image: v06/17-171-414-217.jpg
+  sublists:
+  - sublid: '412'
     persons:
     - id: '22325'
       num: '1'

@@ -14,33 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '53'
-  image: v08/17-171-416-053.jpg
-- pageintom: '54'
-  image: v08/17-171-416-054.jpg
-- pageintom: '55'
-  image: v08/17-171-416-055.jpg
-- pageintom: '56'
-  image: v08/17-171-416-056.jpg
-- pageintom: '57'
-  image: v08/17-171-416-057.jpg
-- pageintom: '58'
-  image: v08/17-171-416-058.jpg
-- pageintom: '59'
-  image: v08/17-171-416-059.jpg
-- pageintom: '60'
-  image: v08/17-171-416-060.jpg
-- pageintom: '61'
-  image: v08/17-171-416-061.jpg
-- pageintom: '62'
-  image: v08/17-171-416-062.jpg
-- pageintom: '63'
-  image: v08/17-171-416-063.jpg
-- pageintom: '64'
-  image: v08/17-171-416-064.jpg
-- pageintom: '65'
-  image: v08/17-171-416-065.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Чечено-Ингушская АССР]
   listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
@@ -55,9 +28,82 @@ sublists:
   - 108
   group_ids:
   - 0
-  pages:
-  - pageintom: '55'
-    page_image: v08/17-171-416-055.jpg
+- title: Список от 19 апреля 1938г. [г.Тбилиси.Закавказская ж.д.]
+  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
+    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
+  sublisttitle: г.Тбилиси.Закавказская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 141
+  group_ids:
+  - 13
+- title: Список от 19 апреля 1938г. [Армянская ССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
+    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
+  sublisttitle: Армянская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 3
+  geosub_ids:
+  - 28
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Марийская АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
+    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
+  sublisttitle: Марийская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 47
+  geosub_ids:
+  - 126
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Тульская область]
+  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
+    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
+  sublisttitle: Тульская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 66
+  geosub_ids:
+  - 124
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Кабардино-Балкарская АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
+    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
+  sublisttitle: Кабардино-Балкарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 34
+  geosub_ids:
+  - 62
+  group_ids:
+  - 0
+pages:
+- pageintom: '53'
+  image: v08/17-171-416-053.jpg
+  sublists: []
+- pageintom: '54'
+  image: v08/17-171-416-054.jpg
+  sublists: []
+- pageintom: '55'
+  image: v08/17-171-416-055.jpg
+  sublists:
+  - sublid: '582'
     persons:
     - id: '29942'
       num: '1'
@@ -138,8 +184,10 @@ sublists:
     - id: '29966'
       num: '25'
       name: ТИТОВСКИЙ Федор Ефимович
-  - pageintom: '56'
-    page_image: v08/17-171-416-056.jpg
+- pageintom: '56'
+  image: v08/17-171-416-056.jpg
+  sublists:
+  - sublid: '582'
     persons:
     - id: '29967'
       num: '26'
@@ -156,8 +204,10 @@ sublists:
     - id: '29971'
       num: '30'
       name: ЩУРОВ Иван Кузьмич
-  - pageintom: '57'
-    page_image: v08/17-171-416-057.jpg
+- pageintom: '57'
+  image: v08/17-171-416-057.jpg
+  sublists:
+  - sublid: '582'
     persons:
     - id: '29972'
       num: '1'
@@ -192,22 +242,10 @@ sublists:
     - id: '29981'
       num: '10'
       name: ТАРАСОВ Борис Константинович
-- title: Список от 19 апреля 1938г. [г.Тбилиси.Закавказская ж.д.]
-  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
-    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
-  sublisttitle: г.Тбилиси.Закавказская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 5
-  geosub_ids:
-  - 141
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '58'
-    page_image: v08/17-171-416-058.jpg
+- pageintom: '58'
+  image: v08/17-171-416-058.jpg
+  sublists:
+  - sublid: '583'
     persons:
     - id: '29982'
       num: '1'
@@ -305,8 +343,10 @@ sublists:
       num: '24'
       name: СЕИД РЗАЕВ МИР АБДУЛ МИР КОДЫ ОГЛЫ
       spravka: true
-  - pageintom: '59'
-    page_image: v08/17-171-416-059.jpg
+- pageintom: '59'
+  image: v08/17-171-416-059.jpg
+  sublists:
+  - sublid: '583'
     persons:
     - id: '30006'
       num: '25'
@@ -340,8 +380,10 @@ sublists:
       num: '32'
       name: ЯКШИБЕКОВ Гурген Григорьевич
       spravka: true
-  - pageintom: '60'
-    page_image: v08/17-171-416-060.jpg
+- pageintom: '60'
+  image: v08/17-171-416-060.jpg
+  sublists:
+  - sublid: '583'
     persons:
     - id: '30014'
       num: '1'
@@ -365,22 +407,10 @@ sublists:
       num: '5'
       name: КОМАРНИЦКИЙ Всеволод Гаврилович
       spravka: true
-- title: Список от 19 апреля 1938г. [Армянская ССР]
-  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
-    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
-  sublisttitle: Армянская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 3
-  geosub_ids:
-  - 28
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '61'
-    page_image: v08/17-171-416-061.jpg
+- pageintom: '61'
+  image: v08/17-171-416-061.jpg
+  sublists:
+  - sublid: '584'
     persons:
     - id: '30019'
       num: '1'
@@ -393,22 +423,10 @@ sublists:
       name: ГЮЗАЛЯН Губен Тигранович
       doublesexists: true
       spravka: true
-- title: Список от 19 апреля 1938г. [Марийская АССР]
-  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
-    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
-  sublisttitle: Марийская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 47
-  geosub_ids:
-  - 126
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '62'
-    page_image: v08/17-171-416-062.jpg
+- pageintom: '62'
+  image: v08/17-171-416-062.jpg
+  sublists:
+  - sublid: '585'
     persons:
     - id: '30021'
       num: '1'
@@ -424,8 +442,10 @@ sublists:
       num: '3'
       name: МУХИН Владимир Алексеевич
       spravka: true
-  - pageintom: '63'
-    page_image: v08/17-171-416-063.jpg
+- pageintom: '63'
+  image: v08/17-171-416-063.jpg
+  sublists:
+  - sublid: '585'
     persons:
     - id: '30024'
       num: '1'
@@ -437,22 +457,10 @@ sublists:
       num: '2'
       name: РОМАНОВ Иван Ефимович
       spravka: true
-- title: Список от 19 апреля 1938г. [Тульская область]
-  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
-    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
-  sublisttitle: Тульская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 66
-  geosub_ids:
-  - 124
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '64'
-    page_image: v08/17-171-416-064.jpg
+- pageintom: '64'
+  image: v08/17-171-416-064.jpg
+  sublists:
+  - sublid: '586'
     persons:
     - id: '30026'
       num: '1'
@@ -472,22 +480,10 @@ sublists:
       num: '5'
       name: ШУМИЛКИН Александр Васильевич
       spravka: true
-- title: Список от 19 апреля 1938г. [Кабардино-Балкарская АССР]
-  listtitle: Список лиц - Чечено-Ингушская АССР,г.Тбилиси-Закавказская ж.д.,Армянская
-    ССР,Марийская АССР,Тульская область,Каб.-Балкарская АССР
-  sublisttitle: Кабардино-Балкарская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 34
-  geosub_ids:
-  - 62
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '65'
-    page_image: v08/17-171-416-065.jpg
+- pageintom: '65'
+  image: v08/17-171-416-065.jpg
+  sublists:
+  - sublid: '587'
     persons:
     - id: '30031'
       num: '1'

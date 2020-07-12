@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '223'
-  image: v08/17-171-416-223.jpg
-- pageintom: '224'
-  image: v08/17-171-416-224.jpg
-- pageintom: '225'
-  image: v08/17-171-416-225.jpg
-- pageintom: '226'
-  image: v08/17-171-416-226.jpg
-- pageintom: '227'
-  image: v08/17-171-416-227.jpg
-- pageintom: '228'
-  image: v08/17-171-416-228.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -39,9 +26,17 @@ sublists:
   - 60
   group_ids:
   - 0
-  pages:
-  - pageintom: '225'
-    page_image: v08/17-171-416-225.jpg
+pages:
+- pageintom: '223'
+  image: v08/17-171-416-223.jpg
+  sublists: []
+- pageintom: '224'
+  image: v08/17-171-416-224.jpg
+  sublists: []
+- pageintom: '225'
+  image: v08/17-171-416-225.jpg
+  sublists:
+  - sublid: '563'
     persons:
     - id: '31910'
       num: '1'
@@ -136,8 +131,10 @@ sublists:
       num: '23'
       name: ИСКАНДАРОВ Абдулла Абдрафикович
       spravka: true
-  - pageintom: '226'
-    page_image: v08/17-171-416-226.jpg
+- pageintom: '226'
+  image: v08/17-171-416-226.jpg
+  sublists:
+  - sublid: '563'
     persons:
     - id: '31933'
       num: '24'
@@ -249,8 +246,10 @@ sublists:
       num: '51'
       name: СЮЛЕВ Андрей Фомич
       spravka: true
-  - pageintom: '227'
-    page_image: v08/17-171-416-227.jpg
+- pageintom: '227'
+  image: v08/17-171-416-227.jpg
+  sublists:
+  - sublid: '563'
     persons:
     - id: '31961'
       num: '52'
@@ -292,8 +291,10 @@ sublists:
       num: '61'
       name: ЯНГУРАЗОВ Мухамед-Гади Гиниатуллич
       spravka: true
-  - pageintom: '228'
-    page_image: v08/17-171-416-228.jpg
+- pageintom: '228'
+  image: v08/17-171-416-228.jpg
+  sublists:
+  - sublid: '563'
     persons:
     - id: '31971'
       num: '1'

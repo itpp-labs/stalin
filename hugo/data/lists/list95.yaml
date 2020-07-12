@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '152'
-  image: v04/17-171-412-152.jpg
-- pageintom: '153'
-  image: v04/17-171-412-153.jpg
-- pageintom: '154'
-  image: v04/17-171-412-154.jpg
-- pageintom: '155'
-  image: v04/17-171-412-155.jpg
-- pageintom: '156'
-  image: v04/17-171-412-156.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ростовская область]
   listtitle: Список лиц - Ростовская обл.
@@ -38,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '154'
-    page_image: v04/17-171-412-154.jpg
+pages:
+- pageintom: '152'
+  image: v04/17-171-412-152.jpg
+  sublists: []
+- pageintom: '153'
+  image: v04/17-171-412-153.jpg
+  sublists: []
+- pageintom: '154'
+  image: v04/17-171-412-154.jpg
+  sublists:
+  - sublid: '66'
     persons:
     - id: '12420'
       num: '1'
@@ -112,8 +109,10 @@ sublists:
       num: '17'
       name: ТУШКАНОВ Андрей Гаврилович
       spravka: true
-  - pageintom: '155'
-    page_image: v04/17-171-412-155.jpg
+- pageintom: '155'
+  image: v04/17-171-412-155.jpg
+  sublists:
+  - sublid: '66'
     persons:
     - id: '12437'
       num: '1'
@@ -121,3 +120,6 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>РОСТОВСКАЯ ОБЛАСТЬ </u><br /><u> ИНОСТРАННЫЕ
         ПОДДАННЫЕ </u></p><p align="right"><u>1-я категория</u>
+- pageintom: '156'
+  image: v04/17-171-412-156.jpg
+  sublists: []

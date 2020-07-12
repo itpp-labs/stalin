@@ -12,35 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '128'
-  image: v03/17-171-411-128.jpg
-- pageintom: '129'
-  image: v03/17-171-411-129.jpg
-- pageintom: '130'
-  image: v03/17-171-411-130.jpg
-- pageintom: '131'
-  image: v03/17-171-411-131.jpg
-- pageintom: '132'
-  image: v03/17-171-411-132.jpg
-- pageintom: '133'
-  image: v03/17-171-411-133.jpg
-- pageintom: '134'
-  image: v03/17-171-411-134.jpg
-- pageintom: '135'
-  image: v03/17-171-411-135.jpg
-- pageintom: '136'
-  image: v03/17-171-411-136.jpg
-- pageintom: '137'
-  image: v03/17-171-411-137.jpg
-- pageintom: '138'
-  image: v03/17-171-411-138.jpg
-- pageintom: '139'
-  image: v03/17-171-411-139.jpg
-- pageintom: '140'
-  image: v03/17-171-411-140.jpg
-- pageintom: '141'
-  image: v03/17-171-411-141.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -55,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '130'
-    page_image: v03/17-171-411-130.jpg
+pages:
+- pageintom: '128'
+  image: v03/17-171-411-128.jpg
+  sublists: []
+- pageintom: '129'
+  image: v03/17-171-411-129.jpg
+  sublists: []
+- pageintom: '130'
+  image: v03/17-171-411-130.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9112'
       num: '1'
@@ -160,8 +139,10 @@ sublists:
       num: '24'
       name: ГРОЗДЕВ-ТОКАРЕНКО Григорий Никонорович
       spravka: true
-  - pageintom: '131'
-    page_image: v03/17-171-411-131.jpg
+- pageintom: '131'
+  image: v03/17-171-411-131.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9136'
       num: '25'
@@ -283,8 +264,10 @@ sublists:
       num: '54'
       name: РАВИЧ-РУДЗЕЕВСКИЙ Григорий Иосифович
       spravka: true
-  - pageintom: '132'
-    page_image: v03/17-171-411-132.jpg
+- pageintom: '132'
+  image: v03/17-171-411-132.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9166'
       num: '55'
@@ -338,8 +321,10 @@ sublists:
       num: '67'
       name: ЯСЕНСКАЯ Клара Германовна
       spravka: true
-  - pageintom: '133'
-    page_image: v03/17-171-411-133.jpg
+- pageintom: '133'
+  image: v03/17-171-411-133.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9179'
       num: '1'
@@ -352,8 +337,16 @@ sublists:
       name: ФЛЕЙШЕР Стефан Петрович
       gb_spravka: true
       spravka: true
-  - pageintom: '136'
-    page_image: v03/17-171-411-136.jpg
+- pageintom: '134'
+  image: v03/17-171-411-134.jpg
+  sublists: []
+- pageintom: '135'
+  image: v03/17-171-411-135.jpg
+  sublists: []
+- pageintom: '136'
+  image: v03/17-171-411-136.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9181'
       num: '1'
@@ -392,8 +385,10 @@ sublists:
       name: СТЕПАНКОВ Михаил Игнатьевич
       doublesexists: true
       spravka: true
-  - pageintom: '137'
-    page_image: v03/17-171-411-137.jpg
+- pageintom: '137'
+  image: v03/17-171-411-137.jpg
+  sublists:
+  - sublid: '354'
     persons:
     - id: '9191'
       num: '1'
@@ -415,3 +410,15 @@ sublists:
       name: ХАУЭР Бела Яковлевич
       gb_spravka: true
       spravka: true
+- pageintom: '138'
+  image: v03/17-171-411-138.jpg
+  sublists: []
+- pageintom: '139'
+  image: v03/17-171-411-139.jpg
+  sublists: []
+- pageintom: '140'
+  image: v03/17-171-411-140.jpg
+  sublists: []
+- pageintom: '141'
+  image: v03/17-171-411-141.jpg
+  sublists: []

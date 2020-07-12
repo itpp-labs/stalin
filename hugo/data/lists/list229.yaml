@@ -13,23 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '97'
-  image: v03/17-171-411-097.jpg
-- pageintom: '98'
-  image: v03/17-171-411-098.jpg
-- pageintom: '99'
-  image: v03/17-171-411-099.jpg
-- pageintom: '100'
-  image: v03/17-171-411-100.jpg
-- pageintom: '101'
-  image: v03/17-171-411-101.jpg
-- pageintom: '102'
-  image: v03/17-171-411-102.jpg
-- pageintom: '103'
-  image: v03/17-171-411-103.jpg
-- pageintom: '104'
-  image: v03/17-171-411-104.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Калуга. Московско-Киевская жел. дорога]
   listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
@@ -44,9 +27,43 @@ sublists:
   - 65
   group_ids:
   - 13
-  pages:
-  - pageintom: '99'
-    page_image: v03/17-171-411-099.jpg
+- title: Список от 22 сентября 1937г. [Киев. Юго-Западная жел. дорога]
+  listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
+    Сталинская ж.д.'
+  sublisttitle: Киев. Юго-Западная жел. дорога
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 66
+  group_ids:
+  - 13
+- title: Список от 22 сентября 1937г. [Днепропетровск. Сталинская жел. дорога]
+  listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
+    Сталинская ж.д.'
+  sublisttitle: Днепропетровск. Сталинская жел. дорога
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 77
+  geosub_ids:
+  - 67
+  group_ids:
+  - 13
+pages:
+- pageintom: '97'
+  image: v03/17-171-411-097.jpg
+  sublists: []
+- pageintom: '98'
+  image: v03/17-171-411-098.jpg
+  sublists: []
+- pageintom: '99'
+  image: v03/17-171-411-099.jpg
+  sublists:
+  - sublid: '382'
     persons:
     - id: '8841'
       num: '1'
@@ -133,8 +150,10 @@ sublists:
       num: '21'
       name: ШАБЛОВСКИЙ Вацлав Константинович
       spravka: true
-  - pageintom: '100'
-    page_image: v03/17-171-411-100.jpg
+- pageintom: '100'
+  image: v03/17-171-411-100.jpg
+  sublists:
+  - sublid: '382'
     persons:
     - id: '8862'
       num: '22'
@@ -144,8 +163,10 @@ sublists:
       num: '23'
       name: ШТИКГОЛЬД Максимилиан Владимирович
       spravka: true
-  - pageintom: '101'
-    page_image: v03/17-171-411-101.jpg
+- pageintom: '101'
+  image: v03/17-171-411-101.jpg
+  sublists:
+  - sublid: '382'
     persons:
     - id: '8864'
       num: '1'
@@ -156,22 +177,10 @@ sublists:
       num: '2'
       name: САВИН Иван Ильич
       spravka: true
-- title: Список от 22 сентября 1937г. [Киев. Юго-Западная жел. дорога]
-  listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
-    Сталинская ж.д.'
-  sublisttitle: Киев. Юго-Западная жел. дорога
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 81
-  geosub_ids:
-  - 66
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '102'
-    page_image: v03/17-171-411-102.jpg
+- pageintom: '102'
+  image: v03/17-171-411-102.jpg
+  sublists:
+  - sublid: '383'
     persons:
     - id: '8866'
       num: '1'
@@ -215,8 +224,10 @@ sublists:
       num: '11'
       name: ЦОГЛИН Перец Аронович
       spravka: true
-  - pageintom: '103'
-    page_image: v03/17-171-411-103.jpg
+- pageintom: '103'
+  image: v03/17-171-411-103.jpg
+  sublists:
+  - sublid: '383'
     persons:
     - id: '8877'
       num: '1'
@@ -250,22 +261,10 @@ sublists:
     - id: '8885'
       num: '9'
       name: СМАЛЬ Иван Иванович
-- title: Список от 22 сентября 1937г. [Днепропетровск. Сталинская жел. дорога]
-  listtitle: 'Список лиц: Калуга.Московско-Киевская ж.д.; Киев. Западная ж.д.;  Днепропетровск.
-    Сталинская ж.д.'
-  sublisttitle: Днепропетровск. Сталинская жел. дорога
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 77
-  geosub_ids:
-  - 67
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '104'
-    page_image: v03/17-171-411-104.jpg
+- pageintom: '104'
+  image: v03/17-171-411-104.jpg
+  sublists:
+  - sublid: '384'
     persons:
     - id: '8886'
       num: '1'

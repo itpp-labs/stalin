@@ -13,27 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '103'
-  image: v07/17-171-415-103.jpg
-- pageintom: '104'
-  image: v07/17-171-415-104.jpg
-- pageintom: '105'
-  image: v07/17-171-415-105.jpg
-- pageintom: '106'
-  image: v07/17-171-415-106.jpg
-- pageintom: '107'
-  image: v07/17-171-415-107.jpg
-- pageintom: '108'
-  image: v07/17-171-415-108.jpg
-- pageintom: '109'
-  image: v07/17-171-415-109.jpg
-- pageintom: '110'
-  image: v07/17-171-415-110.jpg
-- pageintom: '111'
-  image: v07/17-171-415-111.jpg
-- pageintom: '112'
-  image: v07/17-171-415-112.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Архангельская область]
   listtitle: Список лиц - Архангельская,Вологодская области
@@ -47,9 +26,29 @@ sublists:
   - 131
   group_ids:
   - 0
-  pages:
-  - pageintom: '105'
-    page_image: v07/17-171-415-105.jpg
+- title: Список от 5 марта 1938г. [Вологодская область]
+  listtitle: Список лиц - Архангельская,Вологодская области
+  sublisttitle: Вологодская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 24
+  geosub_ids:
+  - 132
+  group_ids:
+  - 0
+pages:
+- pageintom: '103'
+  image: v07/17-171-415-103.jpg
+  sublists: []
+- pageintom: '104'
+  image: v07/17-171-415-104.jpg
+  sublists: []
+- pageintom: '105'
+  image: v07/17-171-415-105.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26836'
       num: '1'
@@ -130,8 +129,10 @@ sublists:
       num: '20'
       name: ГАБОВ Нахим Зеликович
       spravka: true
-  - pageintom: '106'
-    page_image: v07/17-171-415-106.jpg
+- pageintom: '106'
+  image: v07/17-171-415-106.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26856'
       num: '21'
@@ -241,8 +242,10 @@ sublists:
       num: '49'
       name: КИБРИК Борис Самойлович
       spravka: true
-  - pageintom: '107'
-    page_image: v07/17-171-415-107.jpg
+- pageintom: '107'
+  image: v07/17-171-415-107.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26885'
       num: '50'
@@ -347,8 +350,10 @@ sublists:
       num: '78'
       name: ПЕТРОПАВЛОВСКИЙ Владимир Владимирович
       spravka: true
-  - pageintom: '108'
-    page_image: v07/17-171-415-108.jpg
+- pageintom: '108'
+  image: v07/17-171-415-108.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26914'
       num: '79'
@@ -460,8 +465,10 @@ sublists:
       num: '107'
       name: УМАЙСКИЙ Евгений Михайлович
       spravka: true
-  - pageintom: '109'
-    page_image: v07/17-171-415-109.jpg
+- pageintom: '109'
+  image: v07/17-171-415-109.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26943'
       num: '108'
@@ -520,8 +527,10 @@ sublists:
     - id: '26958'
       num: '123'
       name: ЯДРИХИНСКИЙ Александр Иванович
-  - pageintom: '110'
-    page_image: v07/17-171-415-110.jpg
+- pageintom: '110'
+  image: v07/17-171-415-110.jpg
+  sublists:
+  - sublid: '528'
     persons:
     - id: '26959'
       num: '1'
@@ -577,21 +586,10 @@ sublists:
       num: '14'
       name: ЮДИН Тимофей Павлович
       spravka: true
-- title: Список от 5 марта 1938г. [Вологодская область]
-  listtitle: Список лиц - Архангельская,Вологодская области
-  sublisttitle: Вологодская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 24
-  geosub_ids:
-  - 132
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '111'
-    page_image: v07/17-171-415-111.jpg
+- pageintom: '111'
+  image: v07/17-171-415-111.jpg
+  sublists:
+  - sublid: '529'
     persons:
     - id: '26973'
       num: '1'
@@ -661,8 +659,10 @@ sublists:
       num: '17'
       name: СОКОЛОВ Арсений Васильевич
       spravka: true
-  - pageintom: '112'
-    page_image: v07/17-171-415-112.jpg
+- pageintom: '112'
+  image: v07/17-171-415-112.jpg
+  sublists:
+  - sublid: '529'
     persons:
     - id: '26990'
       num: '18'

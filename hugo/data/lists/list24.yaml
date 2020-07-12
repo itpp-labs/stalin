@@ -12,27 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '187'
-  image: v01/17-171-409-187.jpg
-- pageintom: '188'
-  image: v01/17-171-409-188.jpg
-- pageintom: '189'
-  image: v01/17-171-409-189.jpg
-- pageintom: '190'
-  image: v01/17-171-409-190.jpg
-- pageintom: '191'
-  image: v01/17-171-409-191.jpg
-- pageintom: '192'
-  image: v01/17-171-409-192.jpg
-- pageintom: '193'
-  image: v01/17-171-409-193.jpg
-- pageintom: '194'
-  image: v01/17-171-409-194.jpg
-- pageintom: '195'
-  image: v01/17-171-409-195.jpg
-- pageintom: '196'
-  image: v01/17-171-409-196.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -51,9 +30,17 @@ sublists:
   - 8
   - 9
   - 10
-  pages:
-  - pageintom: '189'
-    page_image: v01/17-171-409-189.jpg
+pages:
+- pageintom: '187'
+  image: v01/17-171-409-187.jpg
+  sublists: []
+- pageintom: '188'
+  image: v01/17-171-409-188.jpg
+  sublists: []
+- pageintom: '189'
+  image: v01/17-171-409-189.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2811'
       num: '1'
@@ -158,8 +145,10 @@ sublists:
       num: '25'
       name: ЗЕМСКИЙ Михаил Васильевич
       spravka: true
-  - pageintom: '190'
-    page_image: v01/17-171-409-190.jpg
+- pageintom: '190'
+  image: v01/17-171-409-190.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2836'
       num: '26'
@@ -274,8 +263,10 @@ sublists:
       num: '54'
       name: ПАШКОВ Алексей Ильич
       spravka: true
-  - pageintom: '191'
-    page_image: v01/17-171-409-191.jpg
+- pageintom: '191'
+  image: v01/17-171-409-191.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2865'
       num: '55'
@@ -384,8 +375,10 @@ sublists:
       num: '81'
       name: ЯКОБСОН Михаил Александрович
       spravka: true
-  - pageintom: '192'
-    page_image: v01/17-171-409-192.jpg
+- pageintom: '192'
+  image: v01/17-171-409-192.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2892'
       num: '1'
@@ -467,8 +460,10 @@ sublists:
       num: '3'
       name: АНТИШИН Василий Иванович
       spravka: true
-  - pageintom: '193'
-    page_image: v01/17-171-409-193.jpg
+- pageintom: '193'
+  image: v01/17-171-409-193.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2911'
       num: '4'
@@ -584,8 +579,10 @@ sublists:
       num: '32'
       name: ТРИШЕЧКИН Михаил Петрович
       spravka: true
-  - pageintom: '194'
-    page_image: v01/17-171-409-194.jpg
+- pageintom: '194'
+  image: v01/17-171-409-194.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2940'
       num: '33'
@@ -599,8 +596,10 @@ sublists:
       num: '35'
       name: ЧИБИСОВ Герасим Григорьевич
       spravka: true
-  - pageintom: '195'
-    page_image: v01/17-171-409-195.jpg
+- pageintom: '195'
+  image: v01/17-171-409-195.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2943'
       num: '1'
@@ -677,8 +676,10 @@ sublists:
       num: '4'
       name: МАКЕЕВ Борис Максимович
       spravka: true
-  - pageintom: '196'
-    page_image: v01/17-171-409-196.jpg
+- pageintom: '196'
+  image: v01/17-171-409-196.jpg
+  sublists:
+  - sublid: '21'
     persons:
     - id: '2962'
       num: '5'

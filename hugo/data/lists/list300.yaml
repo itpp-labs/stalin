@@ -14,31 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '116'
-  image: v08/17-171-416-116.jpg
-- pageintom: '117'
-  image: v08/17-171-416-117.jpg
-- pageintom: '118'
-  image: v08/17-171-416-118.jpg
-- pageintom: '119'
-  image: v08/17-171-416-119.jpg
-- pageintom: '120'
-  image: v08/17-171-416-120.jpg
-- pageintom: '121'
-  image: v08/17-171-416-121.jpg
-- pageintom: '122'
-  image: v08/17-171-416-122.jpg
-- pageintom: '123'
-  image: v08/17-171-416-123.jpg
-- pageintom: '124'
-  image: v08/17-171-416-124.jpg
-- pageintom: '125'
-  image: v08/17-171-416-125.jpg
-- pageintom: '126'
-  image: v08/17-171-416-126.jpg
-- pageintom: '127'
-  image: v08/17-171-416-127.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР,ст.Ясиноватая-Юж.Донец.ж.д.
@@ -67,9 +42,29 @@ sublists:
   - 91
   group_ids:
   - 0
-  pages:
-  - pageintom: '118'
-    page_image: v08/17-171-416-118.jpg
+- title: Список от 19 апреля 1938г. [ст.Ясиноватая-Юж.Донец.ж.д.]
+  listtitle: Список лиц - Украинская ССР,ст.Ясиноватая-Юж.Донец.ж.д.
+  sublisttitle: ст.Ясиноватая-Юж.Донец.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 78
+  geosub_ids:
+  - 5
+  group_ids:
+  - 13
+pages:
+- pageintom: '116'
+  image: v08/17-171-416-116.jpg
+  sublists: []
+- pageintom: '117'
+  image: v08/17-171-416-117.jpg
+  sublists: []
+- pageintom: '118'
+  image: v08/17-171-416-118.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30598'
       num: '1'
@@ -127,8 +122,10 @@ sublists:
       num: '15'
       name: ВОЛКОВ Степан Васильевич
       spravka: true
-  - pageintom: '119'
-    page_image: v08/17-171-416-119.jpg
+- pageintom: '119'
+  image: v08/17-171-416-119.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30613'
       num: '16'
@@ -223,8 +220,10 @@ sublists:
       num: '41'
       name: КАНФЕР-БЕРКОВИЧ Давид Маркович
       spravka: true
-  - pageintom: '120'
-    page_image: v08/17-171-416-120.jpg
+- pageintom: '120'
+  image: v08/17-171-416-120.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30639'
       num: '42'
@@ -298,8 +297,10 @@ sublists:
       num: '60'
       name: БИРКО Савелий Павлович
       spravka: true
-  - pageintom: '121'
-    page_image: v08/17-171-416-121.jpg
+- pageintom: '121'
+  image: v08/17-171-416-121.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30658'
       num: '61'
@@ -381,8 +382,10 @@ sublists:
       num: '80'
       name: ТАРАСЮК Иван Александрович
       spravka: true
-  - pageintom: '122'
-    page_image: v08/17-171-416-122.jpg
+- pageintom: '122'
+  image: v08/17-171-416-122.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30678'
       num: '81'
@@ -450,8 +453,10 @@ sublists:
     - id: '30697'
       num: '100'
       name: ЮШКЕВИЧ Александр Феофильевич
-  - pageintom: '123'
-    page_image: v08/17-171-416-123.jpg
+- pageintom: '123'
+  image: v08/17-171-416-123.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30698'
       num: '1'
@@ -504,8 +509,10 @@ sublists:
     - id: '30710'
       num: '13'
       name: ЗАСЛАВСКИЙ Матвей Михайлович
-  - pageintom: '124'
-    page_image: v08/17-171-416-124.jpg
+- pageintom: '124'
+  image: v08/17-171-416-124.jpg
+  sublists:
+  - sublid: '598'
     persons:
     - id: '30711'
       num: '14'
@@ -526,21 +533,10 @@ sublists:
     - id: '30715'
       num: '18'
       name: ДОЛГИН Лев Залманович
-- title: Список от 19 апреля 1938г. [ст.Ясиноватая-Юж.Донец.ж.д.]
-  listtitle: Список лиц - Украинская ССР,ст.Ясиноватая-Юж.Донец.ж.д.
-  sublisttitle: ст.Ясиноватая-Юж.Донец.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 78
-  geosub_ids:
-  - 5
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '125'
-    page_image: v08/17-171-416-125.jpg
+- pageintom: '125'
+  image: v08/17-171-416-125.jpg
+  sublists:
+  - sublid: '599'
     persons:
     - id: '30716'
       num: '1'
@@ -632,8 +628,10 @@ sublists:
       num: '22'
       name: ЛАСТОВИЧЕНКО Макар Калистратович
       spravka: true
-  - pageintom: '126'
-    page_image: v08/17-171-416-126.jpg
+- pageintom: '126'
+  image: v08/17-171-416-126.jpg
+  sublists:
+  - sublid: '599'
     persons:
     - id: '30738'
       num: '23'
@@ -711,8 +709,10 @@ sublists:
       num: '41'
       name: ЧУЖИКОВ Борис Лазаревич
       spravka: true
-  - pageintom: '127'
-    page_image: v08/17-171-416-127.jpg
+- pageintom: '127'
+  image: v08/17-171-416-127.jpg
+  sublists:
+  - sublid: '599'
     persons:
     - id: '30757'
       num: '1'

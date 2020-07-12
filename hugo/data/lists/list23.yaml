@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '181'
-  image: v01/17-171-409-181.jpg
-- pageintom: '182'
-  image: v01/17-171-409-182.jpg
-- pageintom: '183'
-  image: v01/17-171-409-183.jpg
-- pageintom: '184'
-  image: v01/17-171-409-184.jpg
-- pageintom: '185'
-  image: v01/17-171-409-185.jpg
-- pageintom: '186'
-  image: v01/17-171-409-186.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -39,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '183'
-    page_image: v01/17-171-409-183.jpg
+pages:
+- pageintom: '181'
+  image: v01/17-171-409-181.jpg
+  sublists: []
+- pageintom: '182'
+  image: v01/17-171-409-182.jpg
+  sublists: []
+- pageintom: '183'
+  image: v01/17-171-409-183.jpg
+  sublists:
+  - sublid: '20'
     persons:
     - id: '2730'
       num: '1'
@@ -150,8 +145,10 @@ sublists:
       num: '27'
       name: КУЗНЕЦОВА Анна Федоровна
       spravka: true
-  - pageintom: '184'
-    page_image: v01/17-171-409-184.jpg
+- pageintom: '184'
+  image: v01/17-171-409-184.jpg
+  sublists:
+  - sublid: '20'
     persons:
     - id: '2757'
       num: '28'
@@ -265,8 +262,10 @@ sublists:
       num: '55'
       name: ТИШ Иван Иванович
       spravka: true
-  - pageintom: '185'
-    page_image: v01/17-171-409-185.jpg
+- pageintom: '185'
+  image: v01/17-171-409-185.jpg
+  sublists:
+  - sublid: '20'
     persons:
     - id: '2785'
       num: '56'
@@ -312,8 +311,10 @@ sublists:
       num: '66'
       name: ЩЕРБАК Иван Максимович
       spravka: true
-  - pageintom: '186'
-    page_image: v01/17-171-409-186.jpg
+- pageintom: '186'
+  image: v01/17-171-409-186.jpg
+  sublists:
+  - sublid: '20'
     persons:
     - id: '2796'
       num: '1'

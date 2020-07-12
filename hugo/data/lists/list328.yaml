@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '306'
-  image: v08/17-171-416-306.jpg
-- pageintom: '307'
-  image: v08/17-171-416-307.jpg
-- pageintom: '308'
-  image: v08/17-171-416-308.jpg
-- pageintom: '309'
-  image: v08/17-171-416-309.jpg
-- pageintom: '310'
-  image: v08/17-171-416-310.jpg
-- pageintom: '311'
-  image: v08/17-171-416-311.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -37,9 +24,17 @@ sublists:
   - 60
   group_ids:
   - 0
-  pages:
-  - pageintom: '308'
-    page_image: v08/17-171-416-308.jpg
+pages:
+- pageintom: '306'
+  image: v08/17-171-416-306.jpg
+  sublists: []
+- pageintom: '307'
+  image: v08/17-171-416-307.jpg
+  sublists: []
+- pageintom: '308'
+  image: v08/17-171-416-308.jpg
+  sublists:
+  - sublid: '574'
     persons:
     - id: '32814'
       num: '1'
@@ -127,8 +122,10 @@ sublists:
       num: '21'
       name: ИВАЩЕНКОВ Леонид Никитич
       spravka: true
-  - pageintom: '309'
-    page_image: v08/17-171-416-309.jpg
+- pageintom: '309'
+  image: v08/17-171-416-309.jpg
+  sublists:
+  - sublid: '574'
     persons:
     - id: '32835'
       num: '22'
@@ -233,8 +230,10 @@ sublists:
       num: '47'
       name: ЮЗЫКАИН Александр Васильевич
       spravka: true
-  - pageintom: '310'
-    page_image: v08/17-171-416-310.jpg
+- pageintom: '310'
+  image: v08/17-171-416-310.jpg
+  sublists:
+  - sublid: '574'
     persons:
     - id: '32861'
       num: '48'
@@ -248,8 +247,10 @@ sublists:
       num: '50'
       name: ЯНЫПОВ Токмурза Яныпович
       spravka: true
-  - pageintom: '311'
-    page_image: v08/17-171-416-311.jpg
+- pageintom: '311'
+  image: v08/17-171-416-311.jpg
+  sublists:
+  - sublid: '574'
     persons:
     - id: '32864'
       num: '1'

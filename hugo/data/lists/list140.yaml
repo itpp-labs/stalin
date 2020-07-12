@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '286'
-  image: v05/17-171-413-286.jpg
-- pageintom: '287'
-  image: v05/17-171-413-287.jpg
-- pageintom: '288'
-  image: v05/17-171-413-288.jpg
-- pageintom: '289'
-  image: v05/17-171-413-289.jpg
-- pageintom: '290'
-  image: v05/17-171-413-290.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Ивановская область]
   listtitle: Список лиц - Ивановская область
@@ -36,9 +25,17 @@ sublists:
   - 19
   group_ids:
   - 0
-  pages:
-  - pageintom: '288'
-    page_image: v05/17-171-413-288.jpg
+pages:
+- pageintom: '286'
+  image: v05/17-171-413-286.jpg
+  sublists: []
+- pageintom: '287'
+  image: v05/17-171-413-287.jpg
+  sublists: []
+- pageintom: '288'
+  image: v05/17-171-413-288.jpg
+  sublists:
+  - sublid: '90'
     persons:
     - id: '18092'
       num: '1'
@@ -120,8 +117,10 @@ sublists:
       num: '21'
       name: МАХЛОВ Александр Георгиевич
       spravka: true
-  - pageintom: '289'
-    page_image: v05/17-171-413-289.jpg
+- pageintom: '289'
+  image: v05/17-171-413-289.jpg
+  sublists:
+  - sublid: '90'
     persons:
     - id: '18113'
       num: '22'
@@ -174,8 +173,10 @@ sublists:
       num: '35'
       name: ЯСАКОВ Иван Корнеевич
       spravka: true
-  - pageintom: '290'
-    page_image: v05/17-171-413-290.jpg
+- pageintom: '290'
+  image: v05/17-171-413-290.jpg
+  sublists:
+  - sublid: '90'
     persons:
     - id: '18127'
       num: '1'

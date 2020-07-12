@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '262'
-  image: v07/17-171-415-262.jpg
-- pageintom: '263'
-  image: v07/17-171-415-263.jpg
-- pageintom: '264'
-  image: v07/17-171-415-264.jpg
-- pageintom: '265'
-  image: v07/17-171-415-265.jpg
-- pageintom: '266'
-  image: v07/17-171-415-266.jpg
-- pageintom: '267'
-  image: v07/17-171-415-267.jpg
-- pageintom: '268'
-  image: v07/17-171-415-268.jpg
-- pageintom: '269'
-  image: v07/17-171-415-269.jpg
-- pageintom: '270'
-  image: v07/17-171-415-270.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д.
@@ -57,9 +38,29 @@ sublists:
   - 90
   group_ids:
   - 0
-  pages:
-  - pageintom: '264'
-    page_image: v07/17-171-415-264.jpg
+- title: Список от 28 марта 1938г. [Одесская жел.дор.]
+  listtitle: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д.
+  sublisttitle: Одесская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 84
+  geosub_ids:
+  - 101
+  group_ids:
+  - 13
+pages:
+- pageintom: '262'
+  image: v07/17-171-415-262.jpg
+  sublists: []
+- pageintom: '263'
+  image: v07/17-171-415-263.jpg
+  sublists: []
+- pageintom: '264'
+  image: v07/17-171-415-264.jpg
+  sublists:
+  - sublid: '543'
     persons:
     - id: '28996'
       num: '1'
@@ -139,8 +140,10 @@ sublists:
       num: '21'
       name: БЕЛЕЦКИЙ Илларион Николаевич
       spravka: true
-  - pageintom: '265'
-    page_image: v07/17-171-415-265.jpg
+- pageintom: '265'
+  image: v07/17-171-415-265.jpg
+  sublists:
+  - sublid: '543'
     persons:
     - id: '29017'
       num: '22'
@@ -220,8 +223,10 @@ sublists:
       num: '42'
       name: КОЛЫЧЕВ Павел Иванович
       spravka: true
-  - pageintom: '266'
-    page_image: v07/17-171-415-266.jpg
+- pageintom: '266'
+  image: v07/17-171-415-266.jpg
+  sublists:
+  - sublid: '543'
     persons:
     - id: '29038'
       num: '43'
@@ -311,8 +316,10 @@ sublists:
       name: ПОБОЖНЫЙ Василий Ананьевич
       spravka: true
       subtitle1: <p align="center"><u>ЖИТОМИРСКАЯ ОБЛАСТЬ</u>
-  - pageintom: '267'
-    page_image: v07/17-171-415-267.jpg
+- pageintom: '267'
+  image: v07/17-171-415-267.jpg
+  sublists:
+  - sublid: '543'
     persons:
     - id: '29063'
       num: '68'
@@ -348,8 +355,10 @@ sublists:
       num: '75'
       name: ПИВОВАРОВ Кирилл Петрович
       subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
-  - pageintom: '268'
-    page_image: v07/17-171-415-268.jpg
+- pageintom: '268'
+  image: v07/17-171-415-268.jpg
+  sublists:
+  - sublid: '543'
     persons:
     - id: '29071'
       num: '1'
@@ -364,21 +373,10 @@ sublists:
       num: '3'
       name: РОЗЕНЦВЕЙГ Даниил Яковлевич
       subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
-- title: Список от 28 марта 1938г. [Одесская жел.дор.]
-  listtitle: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д.
-  sublisttitle: Одесская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 84
-  geosub_ids:
-  - 101
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '269'
-    page_image: v07/17-171-415-269.jpg
+- pageintom: '269'
+  image: v07/17-171-415-269.jpg
+  sublists:
+  - sublid: '544'
     persons:
     - id: '29074'
       num: '1'
@@ -470,8 +468,10 @@ sublists:
       num: '23'
       name: ЩЕПИНИН Семен Захарьевич
       spravka: true
-  - pageintom: '270'
-    page_image: v07/17-171-415-270.jpg
+- pageintom: '270'
+  image: v07/17-171-415-270.jpg
+  sublists:
+  - sublid: '544'
     persons:
     - id: '29097'
       num: '1'

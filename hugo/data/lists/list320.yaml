@@ -12,13 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '247'
-  image: v08/17-171-416-247.jpg
-- pageintom: '248'
-  image: v08/17-171-416-248.jpg
-- pageintom: '249'
-  image: v08/17-171-416-249.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -32,9 +25,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '249'
-    page_image: v08/17-171-416-249.jpg
+pages:
+- pageintom: '247'
+  image: v08/17-171-416-247.jpg
+  sublists: []
+- pageintom: '248'
+  image: v08/17-171-416-248.jpg
+  sublists: []
+- pageintom: '249'
+  image: v08/17-171-416-249.jpg
+  sublists:
+  - sublid: '566'
     persons:
     - id: '32140'
       num: '1'

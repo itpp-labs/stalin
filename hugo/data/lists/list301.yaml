@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '128'
-  image: v08/17-171-416-128.jpg
-- pageintom: '129'
-  image: v08/17-171-416-129.jpg
-- pageintom: '130'
-  image: v08/17-171-416-130.jpg
-- pageintom: '131'
-  image: v08/17-171-416-131.jpg
-- pageintom: '132'
-  image: v08/17-171-416-132.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Сталинград-Сталинградская ж.д.]
   listtitle: Список лиц - Сталинград-Сталинградская ж.д.
@@ -37,9 +26,17 @@ sublists:
   - 117
   group_ids:
   - 13
-  pages:
-  - pageintom: '130'
-    page_image: v08/17-171-416-130.jpg
+pages:
+- pageintom: '128'
+  image: v08/17-171-416-128.jpg
+  sublists: []
+- pageintom: '129'
+  image: v08/17-171-416-129.jpg
+  sublists: []
+- pageintom: '130'
+  image: v08/17-171-416-130.jpg
+  sublists:
+  - sublid: '551'
     persons:
     - id: '30764'
       num: '1'
@@ -116,8 +113,10 @@ sublists:
     - id: '30787'
       num: '24'
       name: НЕДЕЛИН Александр Георгиевич
-  - pageintom: '131'
-    page_image: v08/17-171-416-131.jpg
+- pageintom: '131'
+  image: v08/17-171-416-131.jpg
+  sublists:
+  - sublid: '551'
     persons:
     - id: '30788'
       num: '25'
@@ -149,8 +148,10 @@ sublists:
     - id: '30797'
       num: '34'
       name: ШКАТОВ Петр Федорович
-  - pageintom: '132'
-    page_image: v08/17-171-416-132.jpg
+- pageintom: '132'
+  image: v08/17-171-416-132.jpg
+  sublists:
+  - sublid: '551'
     persons:
     - id: '30798'
       num: '1'

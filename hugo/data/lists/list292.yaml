@@ -13,31 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '41'
-  image: v08/17-171-416-041.jpg
-- pageintom: '42'
-  image: v08/17-171-416-042.jpg
-- pageintom: '43'
-  image: v08/17-171-416-043.jpg
-- pageintom: '44'
-  image: v08/17-171-416-044.jpg
-- pageintom: '45'
-  image: v08/17-171-416-045.jpg
-- pageintom: '46'
-  image: v08/17-171-416-046.jpg
-- pageintom: '47'
-  image: v08/17-171-416-047.jpg
-- pageintom: '48'
-  image: v08/17-171-416-048.jpg
-- pageintom: '49'
-  image: v08/17-171-416-049.jpg
-- pageintom: '50'
-  image: v08/17-171-416-050.jpg
-- pageintom: '51'
-  image: v08/17-171-416-051.jpg
-- pageintom: '52'
-  image: v08/17-171-416-052.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -51,9 +26,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '43'
-    page_image: v08/17-171-416-043.jpg
+pages:
+- pageintom: '41'
+  image: v08/17-171-416-041.jpg
+  sublists: []
+- pageintom: '42'
+  image: v08/17-171-416-042.jpg
+  sublists: []
+- pageintom: '43'
+  image: v08/17-171-416-043.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29689'
       num: '1'
@@ -152,8 +135,10 @@ sublists:
       num: '24'
       name: БРУХАЛЬ Бронислав Иосифович
       spravka: true
-  - pageintom: '44'
-    page_image: v08/17-171-416-044.jpg
+- pageintom: '44'
+  image: v08/17-171-416-044.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29713'
       num: '25'
@@ -272,8 +257,10 @@ sublists:
       num: '53'
       name: ГОГОЛАШВИЛИ Николай Галактионович
       spravka: true
-  - pageintom: '45'
-    page_image: v08/17-171-416-045.jpg
+- pageintom: '45'
+  image: v08/17-171-416-045.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29742'
       num: '54'
@@ -393,8 +380,10 @@ sublists:
       num: '82'
       name: ИЛЬЯШЕНКО Константин Степанович
       spravka: true
-  - pageintom: '46'
-    page_image: v08/17-171-416-046.jpg
+- pageintom: '46'
+  image: v08/17-171-416-046.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29771'
       num: '83'
@@ -511,8 +500,10 @@ sublists:
       num: '111'
       name: ЛЕЖАВА Георгий Яковлевич
       spravka: true
-  - pageintom: '47'
-    page_image: v08/17-171-416-047.jpg
+- pageintom: '47'
+  image: v08/17-171-416-047.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29800'
       num: '112'
@@ -630,8 +621,10 @@ sublists:
       num: '140'
       name: МШВЕНИАРАДЗЕ Николай Константинович
       spravka: true
-  - pageintom: '48'
-    page_image: v08/17-171-416-048.jpg
+- pageintom: '48'
+  image: v08/17-171-416-048.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29829'
       num: '141'
@@ -749,8 +742,10 @@ sublists:
       num: '169'
       name: РАЗДОЛЬСКИЙ Кузьма Григорьевич
       spravka: true
-  - pageintom: '49'
-    page_image: v08/17-171-416-049.jpg
+- pageintom: '49'
+  image: v08/17-171-416-049.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29858'
       num: '170'
@@ -864,8 +859,10 @@ sublists:
       num: '197'
       name: ТАНТ Оглы Акиф Шерифович
       spravka: true
-  - pageintom: '50'
-    page_image: v08/17-171-416-050.jpg
+- pageintom: '50'
+  image: v08/17-171-416-050.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29886'
       num: '198'
@@ -980,8 +977,10 @@ sublists:
       num: '225'
       name: ЦУЛУКИДЗЕ Шалва Варламович
       spravka: true
-  - pageintom: '51'
-    page_image: v08/17-171-416-051.jpg
+- pageintom: '51'
+  image: v08/17-171-416-051.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29914'
       num: '226'
@@ -1087,8 +1086,10 @@ sublists:
       num: '251'
       name: ЮЗБАШЕВ Игнатий Иванович
       spravka: true
-  - pageintom: '52'
-    page_image: v08/17-171-416-052.jpg
+- pageintom: '52'
+  image: v08/17-171-416-052.jpg
+  sublists:
+  - sublid: '546'
     persons:
     - id: '29940'
       num: '252'

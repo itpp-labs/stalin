@@ -14,23 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '69'
-  image: v07/17-171-415-069.jpg
-- pageintom: '70'
-  image: v07/17-171-415-070.jpg
-- pageintom: '71'
-  image: v07/17-171-415-071.jpg
-- pageintom: '72'
-  image: v07/17-171-415-072.jpg
-- pageintom: '73'
-  image: v07/17-171-415-073.jpg
-- pageintom: '74'
-  image: v07/17-171-415-074.jpg
-- pageintom: '75'
-  image: v07/17-171-415-075.jpg
-- pageintom: '76'
-  image: v07/17-171-415-076.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
@@ -44,9 +27,29 @@ sublists:
   - 17
   group_ids:
   - 0
-  pages:
-  - pageintom: '71'
-    page_image: v07/17-171-415-071.jpg
+- title: Список от 5 марта 1938г. [г.Куйбышев. ж.д. им.Куйбышева]
+  listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
+  sublisttitle: г.Куйбышев. ж.д. им.Куйбышева
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 44
+  geosub_ids:
+  - 128
+  group_ids:
+  - 13
+pages:
+- pageintom: '69'
+  image: v07/17-171-415-069.jpg
+  sublists: []
+- pageintom: '70'
+  image: v07/17-171-415-070.jpg
+  sublists: []
+- pageintom: '71'
+  image: v07/17-171-415-071.jpg
+  sublists:
+  - sublid: '523'
     persons:
     - id: '26503'
       num: '1'
@@ -133,8 +136,10 @@ sublists:
       num: '21'
       name: КАЗАКОВ Иван Петрович
       spravka: true
-  - pageintom: '72'
-    page_image: v07/17-171-415-072.jpg
+- pageintom: '72'
+  image: v07/17-171-415-072.jpg
+  sublists:
+  - sublid: '523'
     persons:
     - id: '26524'
       num: '22'
@@ -249,8 +254,10 @@ sublists:
       num: '50'
       name: ТАРАСОВ Николай Васильевич
       spravka: true
-  - pageintom: '73'
-    page_image: v07/17-171-415-073.jpg
+- pageintom: '73'
+  image: v07/17-171-415-073.jpg
+  sublists:
+  - sublid: '523'
     persons:
     - id: '26553'
       num: '51'
@@ -288,8 +295,10 @@ sublists:
       num: '59'
       name: ЯПРЫНЦЕВ Андрей Петрович
       spravka: true
-  - pageintom: '74'
-    page_image: v07/17-171-415-074.jpg
+- pageintom: '74'
+  image: v07/17-171-415-074.jpg
+  sublists:
+  - sublid: '523'
     persons:
     - id: '26562'
       num: '1'
@@ -325,21 +334,10 @@ sublists:
       num: '8'
       name: ПРОЛИСКО Петр Максимович
       spravka: true
-- title: Список от 5 марта 1938г. [г.Куйбышев. ж.д. им.Куйбышева]
-  listtitle: Список лиц - Куйбышевская область;г.Куйбышев.ж.д.им.Куйбышева
-  sublisttitle: г.Куйбышев. ж.д. им.Куйбышева
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 44
-  geosub_ids:
-  - 128
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '75'
-    page_image: v07/17-171-415-075.jpg
+- pageintom: '75'
+  image: v07/17-171-415-075.jpg
+  sublists:
+  - sublid: '524'
     persons:
     - id: '26570'
       num: '1'
@@ -433,8 +431,10 @@ sublists:
       num: '23'
       name: МУДИР Сергей Пантелеймонович
       spravka: true
-  - pageintom: '76'
-    page_image: v07/17-171-415-076.jpg
+- pageintom: '76'
+  image: v07/17-171-415-076.jpg
+  sublists:
+  - sublid: '524'
     persons:
     - id: '26593'
       num: '24'

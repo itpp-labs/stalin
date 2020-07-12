@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '220'
-  image: v07/17-171-415-220.jpg
-- pageintom: '221'
-  image: v07/17-171-415-221.jpg
-- pageintom: '222'
-  image: v07/17-171-415-222.jpg
-- pageintom: '223'
-  image: v07/17-171-415-223.jpg
-- pageintom: '224'
-  image: v07/17-171-415-224.jpg
-- pageintom: '225'
-  image: v07/17-171-415-225.jpg
-- pageintom: '226'
-  image: v07/17-171-415-226.jpg
-- pageintom: '227'
-  image: v07/17-171-415-227.jpg
-- pageintom: '228'
-  image: v07/17-171-415-228.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Узбекская ССР]
   listtitle: Список лиц - Узбекская ССР
@@ -46,9 +27,17 @@ sublists:
   - 36
   group_ids:
   - 0
-  pages:
-  - pageintom: '222'
-    page_image: v07/17-171-415-222.jpg
+pages:
+- pageintom: '220'
+  image: v07/17-171-415-220.jpg
+  sublists: []
+- pageintom: '221'
+  image: v07/17-171-415-221.jpg
+  sublists: []
+- pageintom: '222'
+  image: v07/17-171-415-222.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28376'
       num: '1'
@@ -120,8 +109,10 @@ sublists:
     - id: '28395'
       num: '20'
       name: АЮПОВ Агзам
-  - pageintom: '223'
-    page_image: v07/17-171-415-223.jpg
+- pageintom: '223'
+  image: v07/17-171-415-223.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28396'
       num: '21'
@@ -221,8 +212,10 @@ sublists:
       num: '49'
       name: ИСХАКОВ Гани
       spravka: true
-  - pageintom: '224'
-    page_image: v07/17-171-415-224.jpg
+- pageintom: '224'
+  image: v07/17-171-415-224.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28425'
       num: '50'
@@ -322,8 +315,10 @@ sublists:
       num: '78'
       name: НАРИМАНОВ Юнус Мусаевич
       spravka: true
-  - pageintom: '225'
-    page_image: v07/17-171-415-225.jpg
+- pageintom: '225'
+  image: v07/17-171-415-225.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28454'
       num: '79'
@@ -421,8 +416,10 @@ sublists:
       num: '107'
       name: СОРОКИН Касым Ибрагимович
       spravka: true
-  - pageintom: '226'
-    page_image: v07/17-171-415-226.jpg
+- pageintom: '226'
+  image: v07/17-171-415-226.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28483'
       num: '108'
@@ -523,8 +520,10 @@ sublists:
     - id: '28511'
       num: '136'
       name: ХУДАЙБАХИТОВ Анкобай
-  - pageintom: '227'
-    page_image: v07/17-171-415-227.jpg
+- pageintom: '227'
+  image: v07/17-171-415-227.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28512'
       num: '137'
@@ -589,8 +588,10 @@ sublists:
     - id: '28530'
       num: '155'
       name: ЯКУБОВ Садык
-  - pageintom: '228'
-    page_image: v07/17-171-415-228.jpg
+- pageintom: '228'
+  image: v07/17-171-415-228.jpg
+  sublists:
+  - sublid: '498'
     persons:
     - id: '28531'
       num: '1'

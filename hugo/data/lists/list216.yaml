@@ -15,25 +15,6 @@ signs:
   kaganovic: true
   voroshilov: true
   ejov: true
-pages:
-- pageintom: '1'
-  image: v03/17-171-411-001.jpg
-- pageintom: '2'
-  image: v03/17-171-411-002.jpg
-- pageintom: '3'
-  image: v03/17-171-411-003.jpg
-- pageintom: '4'
-  image: v03/17-171-411-004.jpg
-- pageintom: '5'
-  image: v03/17-171-411-005.jpg
-- pageintom: '6'
-  image: v03/17-171-411-006.jpg
-- pageintom: '7'
-  image: v03/17-171-411-007.jpg
-- pageintom: '8'
-  image: v03/17-171-411-008.jpg
-- pageintom: '9'
-  image: v03/17-171-411-009.jpg
 sublists:
 - title: Список от 7 сентября 1937г. [Татарская АССР]
   listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
@@ -48,9 +29,82 @@ sublists:
   - 29
   group_ids:
   - 0
-  pages:
-  - pageintom: '3'
-    page_image: v03/17-171-411-003.jpg
+- title: Список от 7 сентября 1937г. [Крымская АССР]
+  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
+    ССР, Дальне-Восточный край, Челябинская обл.'
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+- title: Список от 7 сентября 1937г. [Башкирская АССР]
+  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
+    ССР, Дальне-Восточный край, Челябинская обл.'
+  sublisttitle: Башкирская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
+- title: Список от 7 сентября 1937г. [Украинская ССР]
+  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
+    ССР, Дальне-Восточный край, Челябинская обл.'
+  sublisttitle: Украинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 75
+  geosub_ids:
+  - 47
+  group_ids:
+  - 0
+- title: Список от 7 сентября 1937г. [Дальне-Восточный край]
+  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
+    ССР, Дальне-Восточный край, Челябинская обл.'
+  sublisttitle: Дальне-Восточный край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 29
+  geosub_ids:
+  - 48
+  group_ids:
+  - 0
+- title: Список от 7 сентября 1937г. [Челябинская обл.]
+  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
+    ССР, Дальне-Восточный край, Челябинская обл.'
+  sublisttitle: Челябинская обл.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
+pages:
+- pageintom: '1'
+  image: v03/17-171-411-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v03/17-171-411-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v03/17-171-411-003.jpg
+  sublists:
+  - sublid: '365'
     persons:
     - id: '7771'
       num: '1'
@@ -154,8 +208,10 @@ sublists:
       num: '25'
       name: ЭЛЬВОВ Николай Наумович
       spravka: true
-  - pageintom: '4'
-    page_image: v03/17-171-411-004.jpg
+- pageintom: '4'
+  image: v03/17-171-411-004.jpg
+  sublists:
+  - sublid: '365'
     persons:
     - id: '7796'
       num: '1'
@@ -223,22 +279,10 @@ sublists:
       num: '16'
       name: ЯКОВЛЕВ Константин Гаврилович
       spravka: true
-- title: Список от 7 сентября 1937г. [Крымская АССР]
-  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-    ССР, Дальне-Восточный край, Челябинская обл.'
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '5'
-    page_image: v03/17-171-411-005.jpg
+- pageintom: '5'
+  image: v03/17-171-411-005.jpg
+  sublists:
+  - sublid: '366'
     persons:
     - id: '7812'
       num: '1'
@@ -257,22 +301,10 @@ sublists:
       num: '2'
       name: ШАПОВАЛОВ Георгий Леонтьевич
       spravka: true
-- title: Список от 7 сентября 1937г. [Башкирская АССР]
-  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-    ССР, Дальне-Восточный край, Челябинская обл.'
-  sublisttitle: Башкирская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 22
-  geosub_ids:
-  - 60
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '6'
-    page_image: v03/17-171-411-006.jpg
+- pageintom: '6'
+  image: v03/17-171-411-006.jpg
+  sublists:
+  - sublid: '367'
     persons:
     - id: '7816'
       num: '1'
@@ -299,22 +331,10 @@ sublists:
     - id: '7822'
       num: '7'
       name: ШУБИН Иван Петрович
-- title: Список от 7 сентября 1937г. [Украинская ССР]
-  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-    ССР, Дальне-Восточный край, Челябинская обл.'
-  sublisttitle: Украинская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 75
-  geosub_ids:
-  - 47
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '7'
-    page_image: v03/17-171-411-007.jpg
+- pageintom: '7'
+  image: v03/17-171-411-007.jpg
+  sublists:
+  - sublid: '368'
     persons:
     - id: '7823'
       num: '1'
@@ -322,22 +342,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
-- title: Список от 7 сентября 1937г. [Дальне-Восточный край]
-  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-    ССР, Дальне-Восточный край, Челябинская обл.'
-  sublisttitle: Дальне-Восточный край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 29
-  geosub_ids:
-  - 48
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '8'
-    page_image: v03/17-171-411-008.jpg
+- pageintom: '8'
+  image: v03/17-171-411-008.jpg
+  sublists:
+  - sublid: '369'
     persons:
     - id: '7824'
       num: '1'
@@ -361,22 +369,10 @@ sublists:
     - id: '7829'
       num: '6'
       name: ШУЛЬЦ Василий Иванович
-- title: Список от 7 сентября 1937г. [Челябинская обл.]
-  listtitle: 'Список лиц: Татарская АССР, Крымская АССР, Башкирская АССР, Украинская
-    ССР, Дальне-Восточный край, Челябинская обл.'
-  sublisttitle: Челябинская обл.
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 45
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '9'
-    page_image: v03/17-171-411-009.jpg
+- pageintom: '9'
+  image: v03/17-171-411-009.jpg
+  sublists:
+  - sublid: '370'
     persons:
     - id: '7830'
       num: '1'

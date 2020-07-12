@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '235'
-  image: v07/17-171-415-235.jpg
-- pageintom: '236'
-  image: v07/17-171-415-236.jpg
-- pageintom: '237'
-  image: v07/17-171-415-237.jpg
-- pageintom: '238'
-  image: v07/17-171-415-238.jpg
-- pageintom: '239'
-  image: v07/17-171-415-239.jpg
-- pageintom: '240'
-  image: v07/17-171-415-240.jpg
-- pageintom: '241'
-  image: v07/17-171-415-241.jpg
-- pageintom: '242'
-  image: v07/17-171-415-242.jpg
-- pageintom: '243'
-  image: v07/17-171-415-243.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Алтайский край]
   listtitle: Список лиц - Алтайский край
@@ -47,9 +28,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '237'
-    page_image: v07/17-171-415-237.jpg
+pages:
+- pageintom: '235'
+  image: v07/17-171-415-235.jpg
+  sublists: []
+- pageintom: '236'
+  image: v07/17-171-415-236.jpg
+  sublists: []
+- pageintom: '237'
+  image: v07/17-171-415-237.jpg
+  sublists:
+  - sublid: '500'
     persons:
     - id: '28641'
       num: '1'
@@ -149,8 +138,10 @@ sublists:
       num: '24'
       name: КОМАРИЧЕВ Сергей Петрович
       spravka: true
-  - pageintom: '238'
-    page_image: v07/17-171-415-238.jpg
+- pageintom: '238'
+  image: v07/17-171-415-238.jpg
+  sublists:
+  - sublid: '500'
     persons:
     - id: '28665'
       num: '25'
@@ -267,8 +258,10 @@ sublists:
       num: '53'
       name: ПШЕГОРЛИНСКИЙ Виктор Владимирович
       spravka: true
-  - pageintom: '239'
-    page_image: v07/17-171-415-239.jpg
+- pageintom: '239'
+  image: v07/17-171-415-239.jpg
+  sublists:
+  - sublid: '500'
     persons:
     - id: '28694'
       num: '54'
@@ -373,8 +366,10 @@ sublists:
       num: '79'
       name: ЮФЕРОВ Андрей Петрович
       spravka: true
-  - pageintom: '240'
-    page_image: v07/17-171-415-240.jpg
+- pageintom: '240'
+  image: v07/17-171-415-240.jpg
+  sublists:
+  - sublid: '500'
     persons:
     - id: '28720'
       num: '1'
@@ -383,8 +378,16 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ</u><br />(иностранные подданные)</p><p
         align="right"><u>1-я категория.</u>
-  - pageintom: '243'
-    page_image: v07/17-171-415-243.jpg
+- pageintom: '241'
+  image: v07/17-171-415-241.jpg
+  sublists: []
+- pageintom: '242'
+  image: v07/17-171-415-242.jpg
+  sublists: []
+- pageintom: '243'
+  image: v07/17-171-415-243.jpg
+  sublists:
+  - sublid: '500'
     persons:
     - id: '28721'
       num: '1'

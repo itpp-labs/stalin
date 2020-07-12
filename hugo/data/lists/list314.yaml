@@ -13,21 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '210'
-  image: v08/17-171-416-210.jpg
-- pageintom: '211'
-  image: v08/17-171-416-211.jpg
-- pageintom: '212'
-  image: v08/17-171-416-212.jpg
-- pageintom: '213'
-  image: v08/17-171-416-213.jpg
-- pageintom: '214'
-  image: v08/17-171-416-214.jpg
-- pageintom: '215'
-  image: v08/17-171-416-215.jpg
-- pageintom: '216'
-  image: v08/17-171-416-216.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР,Гомель-Белорусская ж.д.
@@ -41,9 +26,29 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '212'
-    page_image: v08/17-171-416-212.jpg
+- title: Список от 19 апреля 1938г. [Гомель-Белорусская ж.д.]
+  listtitle: Список лиц - Белорусская ССР,Гомель-Белорусская ж.д.
+  sublisttitle: Гомель-Белорусская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 110
+  group_ids:
+  - 13
+pages:
+- pageintom: '210'
+  image: v08/17-171-416-210.jpg
+  sublists: []
+- pageintom: '211'
+  image: v08/17-171-416-211.jpg
+  sublists: []
+- pageintom: '212'
+  image: v08/17-171-416-212.jpg
+  sublists:
+  - sublid: '604'
     persons:
     - id: '31780'
       num: '1'
@@ -132,8 +137,10 @@ sublists:
     - id: '31803'
       num: '24'
       name: ПАВЛЮЧЕНКО Калистрат Иванович
-  - pageintom: '213'
-    page_image: v08/17-171-416-213.jpg
+- pageintom: '213'
+  image: v08/17-171-416-213.jpg
+  sublists:
+  - sublid: '604'
     persons:
     - id: '31804'
       num: '25'
@@ -187,29 +194,20 @@ sublists:
       num: '38'
       name: ЮВКО Владимир Кондратьевич
       spravka: true
-  - pageintom: '214'
-    page_image: v08/17-171-416-214.jpg
+- pageintom: '214'
+  image: v08/17-171-416-214.jpg
+  sublists:
+  - sublid: '604'
     persons:
     - id: '31818'
       num: '1'
       name: АРОНСКИЙ Абрам Адольфович
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 19 апреля 1938г. [Гомель-Белорусская ж.д.]
-  listtitle: Список лиц - Белорусская ССР,Гомель-Белорусская ж.д.
-  sublisttitle: Гомель-Белорусская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 4
-  geosub_ids:
-  - 110
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '215'
-    page_image: v08/17-171-416-215.jpg
+- pageintom: '215'
+  image: v08/17-171-416-215.jpg
+  sublists:
+  - sublid: '605'
     persons:
     - id: '31819'
       num: '1'
@@ -250,8 +248,10 @@ sublists:
       name: РАКОВ Павел Николаевич
       doublesexists: true
       spravka: true
-  - pageintom: '216'
-    page_image: v08/17-171-416-216.jpg
+- pageintom: '216'
+  image: v08/17-171-416-216.jpg
+  sublists:
+  - sublid: '605'
     persons:
     - id: '31829'
       num: '1'

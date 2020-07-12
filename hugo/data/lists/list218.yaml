@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '14'
-  image: v03/17-171-411-014.jpg
-- pageintom: '15'
-  image: v03/17-171-411-015.jpg
-- pageintom: '16'
-  image: v03/17-171-411-016.jpg
-- pageintom: '17'
-  image: v03/17-171-411-017.jpg
-- pageintom: '18'
-  image: v03/17-171-411-018.jpg
 sublists:
 - title: Список от 7 сентября 1937г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край'
@@ -37,9 +26,17 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '16'
-    page_image: v03/17-171-411-016.jpg
+pages:
+- pageintom: '14'
+  image: v03/17-171-411-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v03/17-171-411-015.jpg
+  sublists: []
+- pageintom: '16'
+  image: v03/17-171-411-016.jpg
+  sublists:
+  - sublid: '342'
     persons:
     - id: '7876'
       num: '1'
@@ -151,8 +148,10 @@ sublists:
       num: '27'
       name: КОРОБКОВ Владимир Иванович
       spravka: true
-  - pageintom: '17'
-    page_image: v03/17-171-411-017.jpg
+- pageintom: '17'
+  image: v03/17-171-411-017.jpg
+  sublists:
+  - sublid: '342'
     persons:
     - id: '7903'
       num: '28'
@@ -267,8 +266,10 @@ sublists:
       num: '56'
       name: СМИРНОВ Михаил Васильевич
       spravka: true
-  - pageintom: '18'
-    page_image: v03/17-171-411-018.jpg
+- pageintom: '18'
+  image: v03/17-171-411-018.jpg
+  sublists:
+  - sublid: '342'
     persons:
     - id: '7932'
       num: '57'

@@ -13,73 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '187'
-  image: v04/17-171-412-187.jpg
-- pageintom: '188'
-  image: v04/17-171-412-188.jpg
-- pageintom: '189'
-  image: v04/17-171-412-189.jpg
-- pageintom: '190'
-  image: v04/17-171-412-190.jpg
-- pageintom: '191'
-  image: v04/17-171-412-191.jpg
-- pageintom: '192'
-  image: v04/17-171-412-192.jpg
-- pageintom: '193'
-  image: v04/17-171-412-193.jpg
-- pageintom: '194'
-  image: v04/17-171-412-194.jpg
-- pageintom: '195'
-  image: v04/17-171-412-195.jpg
-- pageintom: '196'
-  image: v04/17-171-412-196.jpg
-- pageintom: '197'
-  image: v04/17-171-412-197.jpg
-- pageintom: '198'
-  image: v04/17-171-412-198.jpg
-- pageintom: '199'
-  image: v04/17-171-412-199.jpg
-- pageintom: '200'
-  image: v04/17-171-412-200.jpg
-- pageintom: '201'
-  image: v04/17-171-412-201.jpg
-- pageintom: '202'
-  image: v04/17-171-412-202.jpg
-- pageintom: '203'
-  image: v04/17-171-412-203.jpg
-- pageintom: '204'
-  image: v04/17-171-412-204.jpg
-- pageintom: '205'
-  image: v04/17-171-412-205.jpg
-- pageintom: '206'
-  image: v04/17-171-412-206.jpg
-- pageintom: '207'
-  image: v04/17-171-412-207.jpg
-- pageintom: '208'
-  image: v04/17-171-412-208.jpg
-- pageintom: '209'
-  image: v04/17-171-412-209.jpg
-- pageintom: '210'
-  image: v04/17-171-412-210.jpg
-- pageintom: '211'
-  image: v04/17-171-412-211.jpg
-- pageintom: '212'
-  image: v04/17-171-412-212.jpg
-- pageintom: '213'
-  image: v04/17-171-412-213.jpg
-- pageintom: '214'
-  image: v04/17-171-412-214.jpg
-- pageintom: '215'
-  image: v04/17-171-412-215.jpg
-- pageintom: '216'
-  image: v04/17-171-412-216.jpg
-- pageintom: '217'
-  image: v04/17-171-412-217.jpg
-- pageintom: '218'
-  image: v04/17-171-412-218.jpg
-- pageintom: '219'
-  image: v04/17-171-412-219.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР; Киев. Юго-Западная ж.д.
@@ -111,9 +44,30 @@ sublists:
   group_ids:
   - 0
   - 12
-  pages:
-  - pageintom: '189'
-    page_image: v04/17-171-412-189.jpg
+- title: Список от 13 ноября 1937г. [Киев- Юго-Запад.ж.д.]
+  listtitle: Список лиц - Украинская ССР; Киев. Юго-Западная ж.д.
+  sublisttitle: Киев- Юго-Запад.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 66
+  group_ids:
+  - 2
+  - 13
+pages:
+- pageintom: '187'
+  image: v04/17-171-412-187.jpg
+  sublists: []
+- pageintom: '188'
+  image: v04/17-171-412-188.jpg
+  sublists: []
+- pageintom: '189'
+  image: v04/17-171-412-189.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12866'
       num: '1'
@@ -216,8 +170,10 @@ sublists:
       num: '26'
       name: НАЗАРОВ Лев Афанасьевич
       spravka: true
-  - pageintom: '190'
-    page_image: v04/17-171-412-190.jpg
+- pageintom: '190'
+  image: v04/17-171-412-190.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12892'
       num: '27'
@@ -311,8 +267,10 @@ sublists:
       num: '52'
       name: СИМОНЕНКО Прокофий Иванович
       spravka: true
-  - pageintom: '191'
-    page_image: v04/17-171-412-191.jpg
+- pageintom: '191'
+  image: v04/17-171-412-191.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12918'
       num: '53'
@@ -404,8 +362,10 @@ sublists:
       num: '77'
       name: ЛИМОНЭ Авраам Самойлович
       spravka: true
-  - pageintom: '192'
-    page_image: v04/17-171-412-192.jpg
+- pageintom: '192'
+  image: v04/17-171-412-192.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12943'
       num: '78'
@@ -508,8 +468,10 @@ sublists:
     - id: '12970'
       num: '105'
       name: КОВТУН Павел Сергеевич
-  - pageintom: '193'
-    page_image: v04/17-171-412-193.jpg
+- pageintom: '193'
+  image: v04/17-171-412-193.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12971'
       num: '106'
@@ -604,8 +566,10 @@ sublists:
       num: '132'
       name: БЛИНОВ Александр Кузьмич
       spravka: true
-  - pageintom: '194'
-    page_image: v04/17-171-412-194.jpg
+- pageintom: '194'
+  image: v04/17-171-412-194.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '12998'
       num: '133'
@@ -712,8 +676,10 @@ sublists:
     - id: '13025'
       num: '160'
       name: ПЕРОВСКИЙ Михаил Абрамович
-  - pageintom: '195'
-    page_image: v04/17-171-412-195.jpg
+- pageintom: '195'
+  image: v04/17-171-412-195.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13026'
       num: '161'
@@ -797,8 +763,10 @@ sublists:
       num: '185'
       name: ВОРОНОВ Иван Митрофанович
       spravka: true
-  - pageintom: '196'
-    page_image: v04/17-171-412-196.jpg
+- pageintom: '196'
+  image: v04/17-171-412-196.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13051'
       num: '186'
@@ -888,8 +856,10 @@ sublists:
     - id: '13076'
       num: '211'
       name: ЯНЧУК Марк Назарович
-  - pageintom: '197'
-    page_image: v04/17-171-412-197.jpg
+- pageintom: '197'
+  image: v04/17-171-412-197.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13077'
       num: '212'
@@ -988,8 +958,10 @@ sublists:
     - id: '13104'
       num: '239'
       name: ГРИНЕНКО-ГРИНЬКО Дмитрий Дмитриевич
-  - pageintom: '198'
-    page_image: v04/17-171-412-198.jpg
+- pageintom: '198'
+  image: v04/17-171-412-198.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13105'
       num: '240'
@@ -1100,8 +1072,10 @@ sublists:
     - id: '13134'
       num: '269'
       name: КУЛИК Михаил Михайлович
-  - pageintom: '199'
-    page_image: v04/17-171-412-199.jpg
+- pageintom: '199'
+  image: v04/17-171-412-199.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13135'
       num: '270'
@@ -1205,8 +1179,10 @@ sublists:
       num: '298'
       name: ПРОШИН Ермолай Иванович
       spravka: true
-  - pageintom: '200'
-    page_image: v04/17-171-412-200.jpg
+- pageintom: '200'
+  image: v04/17-171-412-200.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13164'
       num: '299'
@@ -1318,8 +1294,10 @@ sublists:
     - id: '13193'
       num: '328'
       name: ШАЛИМОВ Илья Леонтьевич
-  - pageintom: '201'
-    page_image: v04/17-171-412-201.jpg
+- pageintom: '201'
+  image: v04/17-171-412-201.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13194'
       num: '329'
@@ -1419,8 +1397,10 @@ sublists:
       num: '353'
       name: ГУРБАНОВ Семен Михайлович
       spravka: true
-  - pageintom: '202'
-    page_image: v04/17-171-412-202.jpg
+- pageintom: '202'
+  image: v04/17-171-412-202.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13219'
       num: '354'
@@ -1541,8 +1521,10 @@ sublists:
       num: '383'
       name: ЛЕВИН Соломон Григорьевич
       spravka: true
-  - pageintom: '203'
-    page_image: v04/17-171-412-203.jpg
+- pageintom: '203'
+  image: v04/17-171-412-203.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13249'
       num: '384'
@@ -1664,8 +1646,10 @@ sublists:
       num: '413'
       name: РОЗЕНМАН Ирма Аронович
       spravka: true
-  - pageintom: '204'
-    page_image: v04/17-171-412-204.jpg
+- pageintom: '204'
+  image: v04/17-171-412-204.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13279'
       num: '414'
@@ -1783,8 +1767,10 @@ sublists:
       num: '442'
       name: ЯКОВЛЕНКО Иван Иванович
       spravka: true
-  - pageintom: '205'
-    page_image: v04/17-171-412-205.jpg
+- pageintom: '205'
+  image: v04/17-171-412-205.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13308'
       num: '443'
@@ -1880,8 +1866,10 @@ sublists:
     - id: '13332'
       num: '467'
       name: БЕРЕЗОВСКИЙ Николай Данилович
-  - pageintom: '206'
-    page_image: v04/17-171-412-206.jpg
+- pageintom: '206'
+  image: v04/17-171-412-206.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13333'
       num: '468'
@@ -1987,8 +1975,10 @@ sublists:
     - id: '13361'
       num: '496'
       name: ЕВСЮХИН Иван Максимович
-  - pageintom: '207'
-    page_image: v04/17-171-412-207.jpg
+- pageintom: '207'
+  image: v04/17-171-412-207.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13362'
       num: '497'
@@ -2088,8 +2078,10 @@ sublists:
     - id: '13390'
       num: '525'
       name: ЛУКЬЯНЕНКО Иван Васильевич
-  - pageintom: '208'
-    page_image: v04/17-171-412-208.jpg
+- pageintom: '208'
+  image: v04/17-171-412-208.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13391'
       num: '526'
@@ -2194,8 +2186,10 @@ sublists:
       num: '555'
       name: ТУРКИН Александр Иванович
       spravka: true
-  - pageintom: '209'
-    page_image: v04/17-171-412-209.jpg
+- pageintom: '209'
+  image: v04/17-171-412-209.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13421'
       num: '556'
@@ -2284,8 +2278,10 @@ sublists:
     - id: '13444'
       num: '579'
       name: БУРОВ Иван Иванович
-  - pageintom: '210'
-    page_image: v04/17-171-412-210.jpg
+- pageintom: '210'
+  image: v04/17-171-412-210.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13445'
       num: '580'
@@ -2386,8 +2382,10 @@ sublists:
       num: '606'
       name: ИВАНОВ Андрей Данилович
       spravka: true
-  - pageintom: '211'
-    page_image: v04/17-171-412-211.jpg
+- pageintom: '211'
+  image: v04/17-171-412-211.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13472'
       num: '607'
@@ -2486,8 +2484,10 @@ sublists:
       num: '633'
       name: МИХНЕВИЧ Иван Семенович
       spravka: true
-  - pageintom: '212'
-    page_image: v04/17-171-412-212.jpg
+- pageintom: '212'
+  image: v04/17-171-412-212.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13499'
       num: '634'
@@ -2592,8 +2592,10 @@ sublists:
       num: '661'
       name: СВИРЧЕНКО Сергей Иванович
       spravka: true
-  - pageintom: '213'
-    page_image: v04/17-171-412-213.jpg
+- pageintom: '213'
+  image: v04/17-171-412-213.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13527'
       num: '662'
@@ -2664,8 +2666,10 @@ sublists:
       num: '680'
       name: ЯРВИЦ Ян Янович
       spravka: true
-  - pageintom: '214'
-    page_image: v04/17-171-412-214.jpg
+- pageintom: '214'
+  image: v04/17-171-412-214.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13546'
       num: '1'
@@ -2732,8 +2736,10 @@ sublists:
     - id: '13563'
       num: '18'
       name: РУДОЙ Яков Лейбович
-  - pageintom: '215'
-    page_image: v04/17-171-412-215.jpg
+- pageintom: '215'
+  image: v04/17-171-412-215.jpg
+  sublists:
+  - sublid: '248'
     persons:
     - id: '13564'
       num: '19'
@@ -2759,22 +2765,10 @@ sublists:
       num: '24'
       name: БУДНЫЙ Тимофей Яковлевич
       subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ</u>
-- title: Список от 13 ноября 1937г. [Киев- Юго-Запад.ж.д.]
-  listtitle: Список лиц - Украинская ССР; Киев. Юго-Западная ж.д.
-  sublisttitle: Киев- Юго-Запад.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 81
-  geosub_ids:
-  - 66
-  group_ids:
-  - 2
-  - 13
-  pages:
-  - pageintom: '216'
-    page_image: v04/17-171-412-216.jpg
+- pageintom: '216'
+  image: v04/17-171-412-216.jpg
+  sublists:
+  - sublid: '249'
     persons:
     - id: '13570'
       num: '1'
@@ -2839,8 +2833,10 @@ sublists:
       num: '16'
       name: ЧИКИРИСОВ Семен Иванович
       spravka: true
-  - pageintom: '217'
-    page_image: v04/17-171-412-217.jpg
+- pageintom: '217'
+  image: v04/17-171-412-217.jpg
+  sublists:
+  - sublid: '249'
     persons:
     - id: '13586'
       num: '1'
@@ -2849,8 +2845,13 @@ sublists:
       spravka: true
       subtitle1: ДТО ГУГБ НКВД Ю-ЗАПАД.Ж.Д. (гор.Киев) <br /> ИНОСТРАННЫЕ-ПОДДАННЫЕ
         </p><p align="right">1-я категория
-  - pageintom: '219'
-    page_image: v04/17-171-412-219.jpg
+- pageintom: '218'
+  image: v04/17-171-412-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v04/17-171-412-219.jpg
+  sublists:
+  - sublid: '249'
     persons:
     - id: '13587'
       num: '1'

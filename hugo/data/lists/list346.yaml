@@ -14,21 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '97'
-  image: v06/17-171-414-097.jpg
-- pageintom: '98'
-  image: v06/17-171-414-098.jpg
-- pageintom: '99'
-  image: v06/17-171-414-099.jpg
-- pageintom: '100'
-  image: v06/17-171-414-100.jpg
-- pageintom: '101'
-  image: v06/17-171-414-101.jpg
-- pageintom: '102'
-  image: v06/17-171-414-102.jpg
-- pageintom: '103'
-  image: v06/17-171-414-103.jpg
 sublists:
 - title: Список от 3 января 1938г. [г.Алма-Ата.Туркестано-Сибирская ж.д.]
   listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
@@ -43,9 +28,43 @@ sublists:
   - 76
   group_ids:
   - 13
-  pages:
-  - pageintom: '99'
-    page_image: v06/17-171-414-099.jpg
+- title: Список от 3 января 1938г. [Башкирская АССР]
+  listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
+    ССР
+  sublisttitle: Башкирская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Армянская ССР]
+  listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
+    ССР
+  sublisttitle: Армянская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 3
+  geosub_ids:
+  - 28
+  group_ids:
+  - 0
+pages:
+- pageintom: '97'
+  image: v06/17-171-414-097.jpg
+  sublists: []
+- pageintom: '98'
+  image: v06/17-171-414-098.jpg
+  sublists: []
+- pageintom: '99'
+  image: v06/17-171-414-099.jpg
+  sublists:
+  - sublid: '451'
     persons:
     - id: '20594'
       num: '1'
@@ -124,8 +143,10 @@ sublists:
       num: '19'
       name: ТИХОМИРОВ Павел Иванович
       spravka: true
-  - pageintom: '100'
-    page_image: v06/17-171-414-100.jpg
+- pageintom: '100'
+  image: v06/17-171-414-100.jpg
+  sublists:
+  - sublid: '451'
     persons:
     - id: '20613'
       num: '20'
@@ -139,8 +160,10 @@ sublists:
       num: '22'
       name: ЮРАШ Сергей Степанович
       spravka: true
-  - pageintom: '101'
-    page_image: v06/17-171-414-101.jpg
+- pageintom: '101'
+  image: v06/17-171-414-101.jpg
+  sublists:
+  - sublid: '451'
     persons:
     - id: '20616'
       num: '1'
@@ -160,22 +183,10 @@ sublists:
       num: '4'
       name: ЯКУШКИН Алексей Макарович
       spravka: true
-- title: Список от 3 января 1938г. [Башкирская АССР]
-  listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
-    ССР
-  sublisttitle: Башкирская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 22
-  geosub_ids:
-  - 60
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '102'
-    page_image: v06/17-171-414-102.jpg
+- pageintom: '102'
+  image: v06/17-171-414-102.jpg
+  sublists:
+  - sublid: '452'
     persons:
     - id: '20620'
       num: '1'
@@ -205,22 +216,10 @@ sublists:
       num: '7'
       name: ФРИЦ Николай Генрихович
       spravka: true
-- title: Список от 3 января 1938г. [Армянская ССР]
-  listtitle: Список лиц - г.Алма-Ата.Туркестано-Сибирская ж.д.;Башкирская АССР,Армянская
-    ССР
-  sublisttitle: Армянская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 3
-  geosub_ids:
-  - 28
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '103'
-    page_image: v06/17-171-414-103.jpg
+- pageintom: '103'
+  image: v06/17-171-414-103.jpg
+  sublists:
+  - sublid: '453'
     persons:
     - id: '20627'
       num: '1'

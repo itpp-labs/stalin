@@ -14,15 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   ejov: true
-pages:
-- pageintom: '19'
-  image: v03/17-171-411-019.jpg
-- pageintom: '20'
-  image: v03/17-171-411-020.jpg
-- pageintom: '21'
-  image: v03/17-171-411-021.jpg
-- pageintom: '22'
-  image: v03/17-171-411-022.jpg
 sublists:
 - title: Список от 7 сентября 1937г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -36,9 +27,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '21'
-    page_image: v03/17-171-411-021.jpg
+pages:
+- pageintom: '19'
+  image: v03/17-171-411-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v03/17-171-411-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v03/17-171-411-021.jpg
+  sublists:
+  - sublid: '343'
     persons:
     - id: '7948'
       num: '1'
@@ -145,8 +144,10 @@ sublists:
       num: '26'
       name: ЧАПАЙТИС Павел Иосифович
       spravka: true
-  - pageintom: '22'
-    page_image: v03/17-171-411-022.jpg
+- pageintom: '22'
+  image: v03/17-171-411-022.jpg
+  sublists:
+  - sublid: '343'
     persons:
     - id: '7974'
       num: '27'

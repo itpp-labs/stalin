@@ -11,13 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '68'
-  image: v09/17-171-417-068.jpg
-- pageintom: '69'
-  image: v09/17-171-417-069.jpg
-- pageintom: '70'
-  image: v09/17-171-417-070.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -31,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '70'
-    page_image: v09/17-171-417-070.jpg
+pages:
+- pageintom: '68'
+  image: v09/17-171-417-068.jpg
+  sublists: []
+- pageintom: '69'
+  image: v09/17-171-417-069.jpg
+  sublists: []
+- pageintom: '70'
+  image: v09/17-171-417-070.jpg
+  sublists:
+  - sublid: '105'
     persons:
     - id: '34174'
       num: '1'

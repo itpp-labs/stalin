@@ -11,33 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '135'
-  image: v04/17-171-412-135.jpg
-- pageintom: '136'
-  image: v04/17-171-412-136.jpg
-- pageintom: '137'
-  image: v04/17-171-412-137.jpg
-- pageintom: '138'
-  image: v04/17-171-412-138.jpg
-- pageintom: '139'
-  image: v04/17-171-412-139.jpg
-- pageintom: '140'
-  image: v04/17-171-412-140.jpg
-- pageintom: '141'
-  image: v04/17-171-412-141.jpg
-- pageintom: '142'
-  image: v04/17-171-412-142.jpg
-- pageintom: '143'
-  image: v04/17-171-412-143.jpg
-- pageintom: '144'
-  image: v04/17-171-412-144.jpg
-- pageintom: '145'
-  image: v04/17-171-412-145.jpg
-- pageintom: '146'
-  image: v04/17-171-412-146.jpg
-- pageintom: '147'
-  image: v04/17-171-412-147.jpg
 sublists:
 - title: Список от 1 ноября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Московская обл.
@@ -53,9 +26,29 @@ sublists:
   - 0
   - 1
   - 2
-  pages:
-  - pageintom: '137'
-    page_image: v04/17-171-412-137.jpg
+- title: Список от 1 ноября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская обл.
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '135'
+  image: v04/17-171-412-135.jpg
+  sublists: []
+- pageintom: '136'
+  image: v04/17-171-412-136.jpg
+  sublists: []
+- pageintom: '137'
+  image: v04/17-171-412-137.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12233'
       num: '1'
@@ -167,8 +160,10 @@ sublists:
       num: '27'
       name: ВОСТОКОВ Сергей Николаевич
       spravka: true
-  - pageintom: '138'
-    page_image: v04/17-171-412-138.jpg
+- pageintom: '138'
+  image: v04/17-171-412-138.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12260'
       num: '28'
@@ -288,8 +283,10 @@ sublists:
       num: '57'
       name: КОРОЛЕВ Николай Иванович
       spravka: true
-  - pageintom: '139'
-    page_image: v04/17-171-412-139.jpg
+- pageintom: '139'
+  image: v04/17-171-412-139.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12290'
       num: '58'
@@ -409,8 +406,10 @@ sublists:
       num: '87'
       name: РОССИНСКИЙ Рувим Анчелев
       spravka: true
-  - pageintom: '140'
-    page_image: v04/17-171-412-140.jpg
+- pageintom: '140'
+  image: v04/17-171-412-140.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12320'
       num: '88'
@@ -530,8 +529,10 @@ sublists:
     - id: '12349'
       num: '117'
       name: ШМИДЕН Олег Леонидович
-  - pageintom: '141'
-    page_image: v04/17-171-412-141.jpg
+- pageintom: '141'
+  image: v04/17-171-412-141.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12350'
       num: '118'
@@ -556,8 +557,10 @@ sublists:
       num: '123'
       name: ЯНТАРОВ Сергей Юльевич
       spravka: true
-  - pageintom: '142'
-    page_image: v04/17-171-412-142.jpg
+- pageintom: '142'
+  image: v04/17-171-412-142.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12356'
       num: '1'
@@ -571,8 +574,16 @@ sublists:
       name: ПАСКАЛЬ-ДЮБИ Лидия Яковлевна
       gb_spravka: true
       spravka: true
-  - pageintom: '145'
-    page_image: v04/17-171-412-145.jpg
+- pageintom: '143'
+  image: v04/17-171-412-143.jpg
+  sublists: []
+- pageintom: '144'
+  image: v04/17-171-412-144.jpg
+  sublists: []
+- pageintom: '145'
+  image: v04/17-171-412-145.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '12358'
       num: '1'
@@ -596,8 +607,10 @@ sublists:
       num: '5'
       name: ШЕПТУНОВ Леонид Сергеевич
       spravka: true
-  - pageintom: '146'
-    page_image: v04/17-171-412-146.jpg
+- pageintom: '146'
+  image: v04/17-171-412-146.jpg
+  sublists:
+  - sublid: '244'
     persons:
     - id: '17775'
       num: '1'
@@ -614,21 +627,10 @@ sublists:
       name: СВАНИДЗЕ Мария Семеновна
       doublesexists: true
       spravka: true
-- title: Список от 1 ноября 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, Московская обл.
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '147'
-    page_image: v04/17-171-412-147.jpg
+- pageintom: '147'
+  image: v04/17-171-412-147.jpg
+  sublists:
+  - sublid: '245'
     persons:
     - id: '12366'
       num: '1'

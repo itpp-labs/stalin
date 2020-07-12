@@ -9,113 +9,6 @@ delo:
   name: ''
   num: ''
 signs: {}
-pages:
-- pageintom: '2'
-  image: v16/3-57-100-02.jpg
-- pageintom: '3'
-  image: v16/3-57-100-03.jpg
-- pageintom: '4'
-  image: v16/3-57-100-04.jpg
-- pageintom: '5'
-  image: v16/3-57-100-05.jpg
-- pageintom: '6'
-  image: v16/3-57-100-06.jpg
-- pageintom: '7'
-  image: v16/3-57-100-07.jpg
-- pageintom: '8'
-  image: v16/3-57-100-08.jpg
-- pageintom: '9'
-  image: v16/3-57-100-09.jpg
-- pageintom: '10'
-  image: v16/3-57-100-10.jpg
-- pageintom: '11'
-  image: v16/3-57-100-11.jpg
-- pageintom: '12'
-  image: v16/3-57-100-12.jpg
-- pageintom: '13'
-  image: v16/3-57-100-13.jpg
-- pageintom: '14'
-  image: v16/3-57-100-14.jpg
-- pageintom: '15'
-  image: v16/3-57-100-15.jpg
-- pageintom: '16'
-  image: v16/3-57-100-16.jpg
-- pageintom: '17'
-  image: v16/3-57-100-17.jpg
-- pageintom: '18'
-  image: v16/3-57-100-18.jpg
-- pageintom: '19'
-  image: v16/3-57-100-19.jpg
-- pageintom: '20'
-  image: v16/3-57-100-20.jpg
-- pageintom: '21'
-  image: v16/3-57-100-21.jpg
-- pageintom: '22'
-  image: v16/3-57-100-22.jpg
-- pageintom: '23'
-  image: v16/3-57-100-23.jpg
-- pageintom: '24'
-  image: v16/3-57-100-24.jpg
-- pageintom: '25'
-  image: v16/3-57-100-25.jpg
-- pageintom: '26'
-  image: v16/3-57-100-26.jpg
-- pageintom: '27'
-  image: v16/3-57-100-27.jpg
-- pageintom: '28'
-  image: v16/3-57-100-28.jpg
-- pageintom: '29'
-  image: v16/3-57-100-29.jpg
-- pageintom: '30'
-  image: v16/3-57-100-30.jpg
-- pageintom: '31'
-  image: v16/3-57-100-31.jpg
-- pageintom: '32'
-  image: v16/3-57-100-32.jpg
-- pageintom: '33'
-  image: v16/3-57-100-33.jpg
-- pageintom: '34'
-  image: v16/3-57-100-34.jpg
-- pageintom: '35'
-  image: v16/3-57-100-35.jpg
-- pageintom: '36'
-  image: v16/3-57-100-36.jpg
-- pageintom: '37'
-  image: v16/3-57-100-37.jpg
-- pageintom: '38'
-  image: v16/3-57-100-38.jpg
-- pageintom: '39'
-  image: v16/3-57-100-39.jpg
-- pageintom: '40'
-  image: v16/3-57-100-40.jpg
-- pageintom: '41'
-  image: v16/3-57-100-41.jpg
-- pageintom: '42'
-  image: v16/3-57-100-42.jpg
-- pageintom: '43'
-  image: v16/3-57-100-43.jpg
-- pageintom: '44'
-  image: v16/3-57-100-44.jpg
-- pageintom: '45'
-  image: v16/3-57-100-45.jpg
-- pageintom: '46'
-  image: v16/3-57-100-46.jpg
-- pageintom: '47'
-  image: v16/3-57-100-47.jpg
-- pageintom: '48'
-  image: v16/3-57-100-48.jpg
-- pageintom: '49'
-  image: v16/3-57-100-49.jpg
-- pageintom: '50'
-  image: v16/3-57-100-50.jpg
-- pageintom: '51'
-  image: v16/3-57-100-51.jpg
-- pageintom: '52'
-  image: v16/3-57-100-52.jpg
-- pageintom: '53'
-  image: v16/3-57-100-53.jpg
-- pageintom: '54'
-  image: v16/3-57-100-54.jpg
 sublists:
 - title: ''
   listtitle: Список арестованных МГБ СССР изменников родины, шпионов, подрывников
@@ -130,9 +23,17 @@ sublists:
   - 169
   group_ids:
   - 0
-  pages:
-  - pageintom: '4'
-    page_image: v16/3-57-100-04.jpg
+pages:
+- pageintom: '2'
+  image: v16/3-57-100-02.jpg
+  sublists: []
+- pageintom: '3'
+  image: v16/3-57-100-03.jpg
+  sublists: []
+- pageintom: '4'
+  image: v16/3-57-100-04.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45072'
       num: '1'
@@ -146,16 +47,20 @@ sublists:
       name: КУЗНЕЦОВ Алексей Александрович
       gb_spravka: true
       spravka: true
-  - pageintom: '5'
-    page_image: v16/3-57-100-05.jpg
+- pageintom: '5'
+  image: v16/3-57-100-05.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45074'
       num: '3'
       name: ПОПКОВ Петр Сергеевич
       gb_spravka: true
       spravka: true
-  - pageintom: '6'
-    page_image: v16/3-57-100-06.jpg
+- pageintom: '6'
+  image: v16/3-57-100-06.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45075'
       num: '4'
@@ -167,8 +72,10 @@ sublists:
       name: СОЛОВЬЕВ Николай Васильевич
       gb_spravka: true
       spravka: true
-  - pageintom: '7'
-    page_image: v16/3-57-100-07.jpg
+- pageintom: '7'
+  image: v16/3-57-100-07.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45077'
       num: '6'
@@ -180,8 +87,10 @@ sublists:
       name: РОДИОНОВ Михаил Иванович
       gb_spravka: true
       spravka: true
-  - pageintom: '8'
-    page_image: v16/3-57-100-08.jpg
+- pageintom: '8'
+  image: v16/3-57-100-08.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45079'
       num: '8'
@@ -193,8 +102,10 @@ sublists:
       name: КУБАТКИН Петр Николаевич
       gb_spravka: true
       spravka: true
-  - pageintom: '9'
-    page_image: v16/3-57-100-09.jpg
+- pageintom: '9'
+  image: v16/3-57-100-09.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45081'
       num: '10'
@@ -206,8 +117,10 @@ sublists:
       name: ТУРКО Иосиф Михайлович
       gb_spravka: true
       spravka: true
-  - pageintom: '10'
-    page_image: v16/3-57-100-10.jpg
+- pageintom: '10'
+  image: v16/3-57-100-10.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45083'
       num: '12'
@@ -219,8 +132,10 @@ sublists:
       name: БАДАЕВ Георгий Федорович
       gb_spravka: true
       spravka: true
-  - pageintom: '11'
-    page_image: v16/3-57-100-11.jpg
+- pageintom: '11'
+  image: v16/3-57-100-11.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45085'
       num: '14'
@@ -232,8 +147,10 @@ sublists:
       name: ХАРИТОНОВ Илья Степанович
       gb_spravka: true
       spravka: true
-  - pageintom: '12'
-    page_image: v16/3-57-100-12.jpg
+- pageintom: '12'
+  image: v16/3-57-100-12.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45087'
       num: '16'
@@ -245,16 +162,20 @@ sublists:
       name: БУРИЛИН Андрей Иванович
       gb_spravka: true
       spravka: true
-  - pageintom: '13'
-    page_image: v16/3-57-100-13.jpg
+- pageintom: '13'
+  image: v16/3-57-100-13.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45089'
       num: '18'
       name: БАСОВ Михаил Васильевич
       gb_spravka: true
       spravka: true
-  - pageintom: '14'
-    page_image: v16/3-57-100-14.jpg
+- pageintom: '14'
+  image: v16/3-57-100-14.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45090'
       num: '19'
@@ -265,8 +186,10 @@ sublists:
       num: '20'
       name: ГРИГОРЬЕВ Алексей Михайлович
       gb_spravka: true
-  - pageintom: '15'
-    page_image: v16/3-57-100-15.jpg
+- pageintom: '15'
+  image: v16/3-57-100-15.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45092'
       num: '21'
@@ -283,8 +206,10 @@ sublists:
       name: САФОНОВ Михаил Иванович
       gb_spravka: true
       spravka: true
-  - pageintom: '16'
-    page_image: v16/3-57-100-16.jpg
+- pageintom: '16'
+  image: v16/3-57-100-16.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45095'
       num: '24'
@@ -296,16 +221,20 @@ sublists:
       name: ЗАКРЖЕВСКАЯ Таисия Владимировна
       gb_spravka: true
       spravka: true
-  - pageintom: '17'
-    page_image: v16/3-57-100-17.jpg
+- pageintom: '17'
+  image: v16/3-57-100-17.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45097'
       num: '26'
       name: ИВАНОВ Всеволод Николаевич
       gb_spravka: true
       spravka: true
-  - pageintom: '18'
-    page_image: v16/3-57-100-18.jpg
+- pageintom: '18'
+  image: v16/3-57-100-18.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45098'
       num: '27'
@@ -321,8 +250,10 @@ sublists:
       num: '29'
       name: ХОВАНОВ Николай Петрович
       gb_spravka: true
-  - pageintom: '19'
-    page_image: v16/3-57-100-19.jpg
+- pageintom: '19'
+  image: v16/3-57-100-19.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45101'
       num: '30'
@@ -334,8 +265,10 @@ sublists:
       name: НИКАНОРОВ Василий Иванович
       gb_spravka: true
       spravka: true
-  - pageintom: '20'
-    page_image: v16/3-57-100-20.jpg
+- pageintom: '20'
+  image: v16/3-57-100-20.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45103'
       num: '32'
@@ -347,24 +280,30 @@ sublists:
       name: ЛОЗОВСКИЙ Соломон Абрамович
       gb_spravka: true
       spravka: true
-  - pageintom: '21'
-    page_image: v16/3-57-100-21.jpg
+- pageintom: '21'
+  image: v16/3-57-100-21.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45105'
       num: '34'
       name: ФЕФЕР Исаак Соломонович
       gb_spravka: true
       spravka: true
-  - pageintom: '22'
-    page_image: v16/3-57-100-22.jpg
+- pageintom: '22'
+  image: v16/3-57-100-22.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45106'
       num: '35'
       name: ЮЗЕФОВИЧ Иосиф Сигизмундович
       gb_spravka: true
       spravka: true
-  - pageintom: '23'
-    page_image: v16/3-57-100-23.jpg
+- pageintom: '23'
+  image: v16/3-57-100-23.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45107'
       num: '36'
@@ -376,24 +315,30 @@ sublists:
       name: ВАТЕНБЕРГ Илья Семенович
       gb_spravka: true
       spravka: true
-  - pageintom: '24'
-    page_image: v16/3-57-100-24.jpg
+- pageintom: '24'
+  image: v16/3-57-100-24.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45109'
       num: '38'
       name: КВИТКО Лейба Моисеевич
       gb_spravka: true
       spravka: true
-  - pageintom: '25'
-    page_image: v16/3-57-100-25.jpg
+- pageintom: '25'
+  image: v16/3-57-100-25.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45110'
       num: '39'
       name: ГОФШТЕЙН Давид Наумович
       gb_spravka: true
       spravka: true
-  - pageintom: '26'
-    page_image: v16/3-57-100-26.jpg
+- pageintom: '26'
+  image: v16/3-57-100-26.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45111'
       num: '40'
@@ -405,16 +350,20 @@ sublists:
       name: ШИМЕЛИОВИЧ Борис Абрамович
       gb_spravka: true
       spravka: true
-  - pageintom: '27'
-    page_image: v16/3-57-100-27.jpg
+- pageintom: '27'
+  image: v16/3-57-100-27.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45113'
       num: '42'
       name: БРЕГМАН Соломон Леонтьевич
       gb_spravka: true
       spravka: true
-  - pageintom: '28'
-    page_image: v16/3-57-100-28.jpg
+- pageintom: '28'
+  image: v16/3-57-100-28.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45114'
       num: '43'
@@ -426,16 +375,20 @@ sublists:
       name: СПИВАК Илья Григорьевич, он же Эля Гершович
       gb_spravka: true
       spravka: true
-  - pageintom: '29'
-    page_image: v16/3-57-100-29.jpg
+- pageintom: '29'
+  image: v16/3-57-100-29.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45116'
       num: '45'
       name: БЕРГЕЛЬСОН Давид Рафаилович
       gb_spravka: true
       spravka: true
-  - pageintom: '30'
-    page_image: v16/3-57-100-30.jpg
+- pageintom: '30'
+  image: v16/3-57-100-30.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45117'
       num: '46'
@@ -447,16 +400,20 @@ sublists:
       name: ВАТЕНБЕРГ-ОСТРОВСКАЯ Чайка Семеновна
       gb_spravka: true
       spravka: true
-  - pageintom: '31'
-    page_image: v16/3-57-100-31.jpg
+- pageintom: '31'
+  image: v16/3-57-100-31.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45119'
       num: '48'
       name: ШТЕРН Лина Соломоновна
       gb_spravka: true
       spravka: true
-  - pageintom: '32'
-    page_image: v16/3-57-100-32.jpg
+- pageintom: '32'
+  image: v16/3-57-100-32.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45157'
       num: '49'
@@ -469,8 +426,10 @@ sublists:
       name: ТЕРЕНТЬЕВ Иван Николаевич
       gb_spravka: true
       spravka: true
-  - pageintom: '33'
-    page_image: v16/3-57-100-33.jpg
+- pageintom: '33'
+  image: v16/3-57-100-33.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45158'
       num: '51'
@@ -483,8 +442,10 @@ sublists:
       name: БОРОДИН Михаил Маркович
       gb_spravka: true
       spravka: true
-  - pageintom: '34'
-    page_image: v16/3-57-100-34.jpg
+- pageintom: '34'
+  image: v16/3-57-100-34.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45159'
       num: '53'
@@ -492,8 +453,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '35'
-    page_image: v16/3-57-100-35.jpg
+- pageintom: '35'
+  image: v16/3-57-100-35.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45160'
       num: '54'
@@ -501,8 +464,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '36'
-    page_image: v16/3-57-100-36.jpg
+- pageintom: '36'
+  image: v16/3-57-100-36.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45161'
       num: '55'
@@ -515,8 +480,10 @@ sublists:
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '37'
-    page_image: v16/3-57-100-37.jpg
+- pageintom: '37'
+  image: v16/3-57-100-37.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45163'
       num: '57'
@@ -530,8 +497,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '38'
-    page_image: v16/3-57-100-38.jpg
+- pageintom: '38'
+  image: v16/3-57-100-38.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45165'
       num: '59'
@@ -539,8 +508,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '39'
-    page_image: v16/3-57-100-39.jpg
+- pageintom: '39'
+  image: v16/3-57-100-39.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45166'
       num: '60'
@@ -553,8 +524,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '40'
-    page_image: v16/3-57-100-40.jpg
+- pageintom: '40'
+  image: v16/3-57-100-40.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45168'
       num: '62'
@@ -562,8 +535,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '41'
-    page_image: v16/3-57-100-41.jpg
+- pageintom: '41'
+  image: v16/3-57-100-41.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45169'
       num: '63'
@@ -577,8 +552,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '42'
-    page_image: v16/3-57-100-42.jpg
+- pageintom: '42'
+  image: v16/3-57-100-42.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45171'
       num: '65'
@@ -592,8 +569,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '43'
-    page_image: v16/3-57-100-43.jpg
+- pageintom: '43'
+  image: v16/3-57-100-43.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45173'
       num: '67'
@@ -601,8 +580,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '44'
-    page_image: v16/3-57-100-44.jpg
+- pageintom: '44'
+  image: v16/3-57-100-44.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45174'
       num: '68'
@@ -615,8 +596,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '45'
-    page_image: v16/3-57-100-45.jpg
+- pageintom: '45'
+  image: v16/3-57-100-45.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45176'
       num: '70'
@@ -628,8 +611,10 @@ sublists:
       name: КОССА Михаил Ильич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '46'
-    page_image: v16/3-57-100-46.jpg
+- pageintom: '46'
+  image: v16/3-57-100-46.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45663'
       num: '72'
@@ -641,8 +626,10 @@ sublists:
       name: ГУТГАРЦ Шмиль Григорьевич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '47'
-    page_image: v16/3-57-100-47.jpg
+- pageintom: '47'
+  image: v16/3-57-100-47.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45178'
       num: '74'
@@ -656,8 +643,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '48'
-    page_image: v16/3-57-100-48.jpg
+- pageintom: '48'
+  image: v16/3-57-100-48.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45180'
       num: '76'
@@ -665,8 +654,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '49'
-    page_image: v16/3-57-100-49.jpg
+- pageintom: '49'
+  image: v16/3-57-100-49.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45181'
       num: '77'
@@ -680,8 +671,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '50'
-    page_image: v16/3-57-100-50.jpg
+- pageintom: '50'
+  image: v16/3-57-100-50.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45183'
       num: '79'
@@ -694,16 +687,20 @@ sublists:
       name: ЮРКОВСКИЙ Василий Яковлевич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '51'
-    page_image: v16/3-57-100-51.jpg
+- pageintom: '51'
+  image: v16/3-57-100-51.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45185'
       num: '81'
       name: ПОПОВ Назар Анфиногенович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '52'
-    page_image: v16/3-57-100-52.jpg
+- pageintom: '52'
+  image: v16/3-57-100-52.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45186'
       num: '82'
@@ -715,8 +712,10 @@ sublists:
       name: АМАН Георгий Матвеевич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '53'
-    page_image: v16/3-57-100-53.jpg
+- pageintom: '53'
+  image: v16/3-57-100-53.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45188'
       num: '84'
@@ -724,8 +723,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '54'
-    page_image: v16/3-57-100-54.jpg
+- pageintom: '54'
+  image: v16/3-57-100-54.jpg
+  sublists:
+  - sublid: '670'
     persons:
     - id: '45189'
       num: '85'

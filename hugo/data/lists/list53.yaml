@@ -14,17 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '144'
-  image: v02/17-171-410-144.jpg
-- pageintom: '145'
-  image: v02/17-171-410-145.jpg
-- pageintom: '146'
-  image: v02/17-171-410-146.jpg
-- pageintom: '147'
-  image: v02/17-171-410-147.jpg
-- pageintom: '148'
-  image: v02/17-171-410-148.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -38,9 +27,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '146'
-    page_image: v02/17-171-410-146.jpg
+pages:
+- pageintom: '144'
+  image: v02/17-171-410-144.jpg
+  sublists: []
+- pageintom: '145'
+  image: v02/17-171-410-145.jpg
+  sublists: []
+- pageintom: '146'
+  image: v02/17-171-410-146.jpg
+  sublists:
+  - sublid: '38'
     persons:
     - id: '4811'
       num: '1'
@@ -144,8 +141,10 @@ sublists:
       num: '25'
       name: РЕЙНТАЛЬ Леонид Александрович
       spravka: true
-  - pageintom: '147'
-    page_image: v02/17-171-410-147.jpg
+- pageintom: '147'
+  image: v02/17-171-410-147.jpg
+  sublists:
+  - sublid: '38'
     persons:
     - id: '4836'
       num: '26'
@@ -183,8 +182,10 @@ sublists:
       num: '34'
       name: ЩЕГЛОВ Федор Михайлович
       spravka: true
-  - pageintom: '148'
-    page_image: v02/17-171-410-148.jpg
+- pageintom: '148'
+  image: v02/17-171-410-148.jpg
+  sublists:
+  - sublid: '38'
     persons:
     - id: '4845'
       num: '1'

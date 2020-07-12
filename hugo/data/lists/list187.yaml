@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '236'
-  image: v09/17-171-417-236.jpg
-- pageintom: '237'
-  image: v09/17-171-417-237.jpg
-- pageintom: '238'
-  image: v09/17-171-417-238.jpg
-- pageintom: '239'
-  image: v09/17-171-417-239.jpg
-- pageintom: '240'
-  image: v09/17-171-417-240.jpg
-- pageintom: '241'
-  image: v09/17-171-417-241.jpg
-- pageintom: '242'
-  image: v09/17-171-417-242.jpg
-- pageintom: '243'
-  image: v09/17-171-417-243.jpg
-- pageintom: '244'
-  image: v09/17-171-417-244.jpg
-- pageintom: '245'
-  image: v09/17-171-417-245.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 2)]
   listtitle: списка лиц N 2 - Москва-центр
@@ -45,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 3
-  pages:
-  - pageintom: '238'
-    page_image: v09/17-171-417-238.jpg
+pages:
+- pageintom: '236'
+  image: v09/17-171-417-236.jpg
+  sublists: []
+- pageintom: '237'
+  image: v09/17-171-417-237.jpg
+  sublists: []
+- pageintom: '238'
+  image: v09/17-171-417-238.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36513'
       num: '1'
@@ -145,8 +132,10 @@ sublists:
       num: '23'
       name: ВАЙНБЕРГ Михаил Яковлевич
       spravka: true
-  - pageintom: '239'
-    page_image: v09/17-171-417-239.jpg
+- pageintom: '239'
+  image: v09/17-171-417-239.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36536'
       num: '24'
@@ -262,8 +251,10 @@ sublists:
       num: '51'
       name: ЕМЕЛЬЯНОВ-СУРИК Александр Васильевич
       spravka: true
-  - pageintom: '240'
-    page_image: v09/17-171-417-240.jpg
+- pageintom: '240'
+  image: v09/17-171-417-240.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36564'
       num: '52'
@@ -374,8 +365,10 @@ sublists:
       num: '78'
       name: КОКАДЕЕВ Александр Николаевич
       spravka: true
-  - pageintom: '241'
-    page_image: v09/17-171-417-241.jpg
+- pageintom: '241'
+  image: v09/17-171-417-241.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36591'
       num: '79'
@@ -489,8 +482,10 @@ sublists:
       num: '106'
       name: МАРТЫНОВ Владимир Петрович
       spravka: true
-  - pageintom: '242'
-    page_image: v09/17-171-417-242.jpg
+- pageintom: '242'
+  image: v09/17-171-417-242.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36619'
       num: '107'
@@ -603,8 +598,10 @@ sublists:
       num: '134'
       name: ПЛОТНИКОВ Марк Семенович
       spravka: true
-  - pageintom: '243'
-    page_image: v09/17-171-417-243.jpg
+- pageintom: '243'
+  image: v09/17-171-417-243.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36647'
       num: '135'
@@ -724,8 +721,10 @@ sublists:
       num: '163'
       name: СИНЯВСКИЙ Леонтий Петрович
       spravka: true
-  - pageintom: '244'
-    page_image: v09/17-171-417-244.jpg
+- pageintom: '244'
+  image: v09/17-171-417-244.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36676'
       num: '164'
@@ -834,8 +833,10 @@ sublists:
       num: '189'
       name: УРАЛОВ Семен Григорьевич
       spravka: true
-  - pageintom: '245'
-    page_image: v09/17-171-417-245.jpg
+- pageintom: '245'
+  image: v09/17-171-417-245.jpg
+  sublists:
+  - sublid: '127'
     persons:
     - id: '36702'
       num: '190'

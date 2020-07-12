@@ -14,21 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '58'
-  image: v02/17-171-410-058.jpg
-- pageintom: '59'
-  image: v02/17-171-410-059.jpg
-- pageintom: '60'
-  image: v02/17-171-410-060.jpg
-- pageintom: '61'
-  image: v02/17-171-410-061.jpg
-- pageintom: '62'
-  image: v02/17-171-410-062.jpg
-- pageintom: '63'
-  image: v02/17-171-410-063.jpg
-- pageintom: '64'
-  image: v02/17-171-410-064.jpg
 sublists:
 - title: Список от 13 июля 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -42,9 +27,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '60'
-    page_image: v02/17-171-410-060.jpg
+pages:
+- pageintom: '58'
+  image: v02/17-171-410-058.jpg
+  sublists: []
+- pageintom: '59'
+  image: v02/17-171-410-059.jpg
+  sublists: []
+- pageintom: '60'
+  image: v02/17-171-410-060.jpg
+  sublists:
+  - sublid: '32'
     persons:
     - id: '4018'
       num: '1'
@@ -132,8 +125,10 @@ sublists:
       num: '21'
       name: ГУРЛОВ Дмитрий Яковлевич
       spravka: true
-  - pageintom: '61'
-    page_image: v02/17-171-410-061.jpg
+- pageintom: '61'
+  image: v02/17-171-410-061.jpg
+  sublists:
+  - sublid: '32'
     persons:
     - id: '4039'
       num: '22'
@@ -247,8 +242,10 @@ sublists:
       num: '49'
       name: МАНТУРОВ Борис Алексеевич
       spravka: true
-  - pageintom: '62'
-    page_image: v02/17-171-410-062.jpg
+- pageintom: '62'
+  image: v02/17-171-410-062.jpg
+  sublists:
+  - sublid: '32'
     persons:
     - id: '4067'
       num: '50'
@@ -366,8 +363,10 @@ sublists:
       num: '78'
       name: СИВКОВ Александр Николаевич
       spravka: true
-  - pageintom: '63'
-    page_image: v02/17-171-410-063.jpg
+- pageintom: '63'
+  image: v02/17-171-410-063.jpg
+  sublists:
+  - sublid: '32'
     persons:
     - id: '4096'
       num: '79'
@@ -445,8 +444,10 @@ sublists:
       num: '97'
       name: ЯСИНСКИЙ Евгений Феликсович
       spravka: true
-  - pageintom: '64'
-    page_image: v02/17-171-410-064.jpg
+- pageintom: '64'
+  image: v02/17-171-410-064.jpg
+  sublists:
+  - sublid: '32'
     persons:
     - id: '4115'
       num: '1'

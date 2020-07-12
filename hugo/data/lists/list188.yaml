@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '246'
-  image: v09/17-171-417-246.jpg
-- pageintom: '247'
-  image: v09/17-171-417-247.jpg
-- pageintom: '248'
-  image: v09/17-171-417-248.jpg
-- pageintom: '249'
-  image: v09/17-171-417-249.jpg
-- pageintom: '250'
-  image: v09/17-171-417-250.jpg
-- pageintom: '251'
-  image: v09/17-171-417-251.jpg
-- pageintom: '252'
-  image: v09/17-171-417-252.jpg
-- pageintom: '253'
-  image: v09/17-171-417-253.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 3)]
   listtitle: списка лиц N 3 - Москва-центр
@@ -41,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '248'
-    page_image: v09/17-171-417-248.jpg
+pages:
+- pageintom: '246'
+  image: v09/17-171-417-246.jpg
+  sublists: []
+- pageintom: '247'
+  image: v09/17-171-417-247.jpg
+  sublists: []
+- pageintom: '248'
+  image: v09/17-171-417-248.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36721'
       num: '1'
@@ -138,8 +129,10 @@ sublists:
       num: '23'
       name: ВЕДЕРНИКОВ Александр Александрович
       spravka: true
-  - pageintom: '249'
-    page_image: v09/17-171-417-249.jpg
+- pageintom: '249'
+  image: v09/17-171-417-249.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36744'
       num: '24'
@@ -251,8 +244,10 @@ sublists:
       num: '50'
       name: КАЗАКАС Аркадий Юльевич
       spravka: true
-  - pageintom: '250'
-    page_image: v09/17-171-417-250.jpg
+- pageintom: '250'
+  image: v09/17-171-417-250.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36771'
       num: '51'
@@ -360,8 +355,10 @@ sublists:
       num: '76'
       name: МИРОНОВ Николай Иванович
       spravka: true
-  - pageintom: '251'
-    page_image: v09/17-171-417-251.jpg
+- pageintom: '251'
+  image: v09/17-171-417-251.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36797'
       num: '77'
@@ -471,8 +468,10 @@ sublists:
       num: '103'
       name: РУБИНШТЕЙН Владимир Яковлевич
       spravka: true
-  - pageintom: '252'
-    page_image: v09/17-171-417-252.jpg
+- pageintom: '252'
+  image: v09/17-171-417-252.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36824'
       num: '104'
@@ -581,8 +580,10 @@ sublists:
       num: '130'
       name: ЭЙХМАНС Федор Иванович
       spravka: true
-  - pageintom: '253'
-    page_image: v09/17-171-417-253.jpg
+- pageintom: '253'
+  image: v09/17-171-417-253.jpg
+  sublists:
+  - sublid: '128'
     persons:
     - id: '36851'
       num: '131'

@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '201'
-  image: v05/17-171-413-201.jpg
-- pageintom: '202'
-  image: v05/17-171-413-202.jpg
-- pageintom: '203'
-  image: v05/17-171-413-203.jpg
-- pageintom: '204'
-  image: v05/17-171-413-204.jpg
-- pageintom: '205'
-  image: v05/17-171-413-205.jpg
-- pageintom: '206'
-  image: v05/17-171-413-206.jpg
-- pageintom: '207'
-  image: v05/17-171-413-207.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -40,9 +25,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '203'
-    page_image: v05/17-171-413-203.jpg
+pages:
+- pageintom: '201'
+  image: v05/17-171-413-201.jpg
+  sublists: []
+- pageintom: '202'
+  image: v05/17-171-413-202.jpg
+  sublists: []
+- pageintom: '203'
+  image: v05/17-171-413-203.jpg
+  sublists:
+  - sublid: '84'
     persons:
     - id: '16898'
       num: '1'
@@ -133,8 +126,10 @@ sublists:
       num: '23'
       name: ГРОСС Эдуард Болеславович
       spravka: true
-  - pageintom: '204'
-    page_image: v05/17-171-413-204.jpg
+- pageintom: '204'
+  image: v05/17-171-413-204.jpg
+  sublists:
+  - sublid: '84'
     persons:
     - id: '16921'
       num: '24'
@@ -240,8 +235,10 @@ sublists:
       num: '51'
       name: МЕЛЬНИКОВ Арсений Ефремович
       spravka: true
-  - pageintom: '205'
-    page_image: v05/17-171-413-205.jpg
+- pageintom: '205'
+  image: v05/17-171-413-205.jpg
+  sublists:
+  - sublid: '84'
     persons:
     - id: '16949'
       num: '52'
@@ -348,8 +345,10 @@ sublists:
       num: '80'
       name: СТРУПИНСКИЙ Мордух Давидович
       spravka: true
-  - pageintom: '206'
-    page_image: v05/17-171-413-206.jpg
+- pageintom: '206'
+  image: v05/17-171-413-206.jpg
+  sublists:
+  - sublid: '84'
     persons:
     - id: '16978'
       num: '81'
@@ -428,8 +427,10 @@ sublists:
       num: '101'
       name: ЯКИМОВИЧ Федор Иванович
       spravka: true
-  - pageintom: '207'
-    page_image: v05/17-171-413-207.jpg
+- pageintom: '207'
+  image: v05/17-171-413-207.jpg
+  sublists:
+  - sublid: '84'
     persons:
     - id: '16999'
       num: '1'

@@ -12,29 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '54'
-  image: v11/17-171-419-054.jpg
-- pageintom: '55'
-  image: v11/17-171-419-055.jpg
-- pageintom: '56'
-  image: v11/17-171-419-056.jpg
-- pageintom: '57'
-  image: v11/17-171-419-057.jpg
-- pageintom: '58'
-  image: v11/17-171-419-058.jpg
-- pageintom: '59'
-  image: v11/17-171-419-059.jpg
-- pageintom: '60'
-  image: v11/17-171-419-060.jpg
-- pageintom: '61'
-  image: v11/17-171-419-061.jpg
-- pageintom: '62'
-  image: v11/17-171-419-062.jpg
-- pageintom: '63'
-  image: v11/17-171-419-063.jpg
-- pageintom: '64'
-  image: v11/17-171-419-064.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ивановская область]
   listtitle: Список лиц - Ивановская область
@@ -48,9 +25,17 @@ sublists:
   - 19
   group_ids:
   - 0
-  pages:
-  - pageintom: '56'
-    page_image: v11/17-171-419-056.jpg
+pages:
+- pageintom: '54'
+  image: v11/17-171-419-054.jpg
+  sublists: []
+- pageintom: '55'
+  image: v11/17-171-419-055.jpg
+  sublists: []
+- pageintom: '56'
+  image: v11/17-171-419-056.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41323'
       num: '1'
@@ -129,8 +114,10 @@ sublists:
     - id: '41344'
       num: '22'
       name: ВАСИЛЬЕВ Николай Александрович
-  - pageintom: '57'
-    page_image: v11/17-171-419-057.jpg
+- pageintom: '57'
+  image: v11/17-171-419-057.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41345'
       num: '23'
@@ -226,8 +213,10 @@ sublists:
     - id: '41370'
       num: '48'
       name: ЕЖОВ Алексей Степанович
-  - pageintom: '58'
-    page_image: v11/17-171-419-058.jpg
+- pageintom: '58'
+  image: v11/17-171-419-058.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41371'
       num: '49'
@@ -320,8 +309,10 @@ sublists:
     - id: '41397'
       num: '75'
       name: КРАСНОВ Аким Степанович
-  - pageintom: '59'
-    page_image: v11/17-171-419-059.jpg
+- pageintom: '59'
+  image: v11/17-171-419-059.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41398'
       num: '76'
@@ -416,8 +407,10 @@ sublists:
       num: '101'
       name: НЫРКОВ Алексей Николаевич
       spravka: true
-  - pageintom: '60'
-    page_image: v11/17-171-419-060.jpg
+- pageintom: '60'
+  image: v11/17-171-419-060.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41424'
       num: '102'
@@ -522,8 +515,10 @@ sublists:
       num: '128'
       name: СМИРНОВ Иван Андреевич
       spravka: true
-  - pageintom: '61'
-    page_image: v11/17-171-419-061.jpg
+- pageintom: '61'
+  image: v11/17-171-419-061.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41451'
       num: '129'
@@ -618,8 +613,10 @@ sublists:
     - id: '41476'
       num: '154'
       name: ЧУФАРИН Иван Калентьевич
-  - pageintom: '62'
-    page_image: v11/17-171-419-062.jpg
+- pageintom: '62'
+  image: v11/17-171-419-062.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41477'
       num: '155'
@@ -654,8 +651,10 @@ sublists:
       num: '163'
       name: ЯКОВЛЕВ Сергей Спиридонович
       spravka: true
-  - pageintom: '63'
-    page_image: v11/17-171-419-063.jpg
+- pageintom: '63'
+  image: v11/17-171-419-063.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41486'
       num: '1'
@@ -740,8 +739,10 @@ sublists:
     - id: '41507'
       num: '22'
       name: МАНЦЕВ Степан Яковлевич
-  - pageintom: '64'
-    page_image: v11/17-171-419-064.jpg
+- pageintom: '64'
+  image: v11/17-171-419-064.jpg
+  sublists:
+  - sublid: '617'
     persons:
     - id: '41508'
       num: '23'

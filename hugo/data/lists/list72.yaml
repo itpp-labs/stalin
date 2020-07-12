@@ -15,19 +15,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '328'
-  image: v02/17-171-410-328.jpg
-- pageintom: '329'
-  image: v02/17-171-410-329.jpg
-- pageintom: '330'
-  image: v02/17-171-410-330.jpg
-- pageintom: '331'
-  image: v02/17-171-410-331.jpg
-- pageintom: '332'
-  image: v02/17-171-410-332.jpg
-- pageintom: '333'
-  image: v02/17-171-410-333.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Куйбышевская область]
   listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
@@ -42,9 +29,56 @@ sublists:
   - 17
   group_ids:
   - 0
-  pages:
-  - pageintom: '330'
-    page_image: v02/17-171-410-330.jpg
+- title: Список от 31 августа 1937 г. [Татарская АССР]
+  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
+    обл.'
+  sublisttitle: Татарская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 29
+  group_ids:
+  - 0
+- title: Список от 31 августа 1937 г. [Туркменская АССР]
+  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
+    обл.'
+  sublisttitle: Туркменская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 73
+  geosub_ids:
+  - 59
+  group_ids:
+  - 0
+- title: Список от 31 августа 1937 г. [Восточно-Сибирская область]
+  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
+    обл.'
+  sublisttitle: Восточно-Сибирская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 26
+  geosub_ids:
+  - 34
+  group_ids:
+  - 0
+pages:
+- pageintom: '328'
+  image: v02/17-171-410-328.jpg
+  sublists: []
+- pageintom: '329'
+  image: v02/17-171-410-329.jpg
+  sublists: []
+- pageintom: '330'
+  image: v02/17-171-410-330.jpg
+  sublists:
+  - sublid: '225'
     persons:
     - id: '7427'
       num: '1'
@@ -117,22 +151,10 @@ sublists:
       name: АНДРЕЕВА Прасковья Андреевна
       spravka: true
       subtitle1: <p align="right"><u>2-я категория</u>
-- title: Список от 31 августа 1937 г. [Татарская АССР]
-  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
-    обл.'
-  sublisttitle: Татарская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 64
-  geosub_ids:
-  - 29
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '331'
-    page_image: v02/17-171-410-331.jpg
+- pageintom: '331'
+  image: v02/17-171-410-331.jpg
+  sublists:
+  - sublid: '226'
     persons:
     - id: '7444'
       num: '1'
@@ -151,22 +173,10 @@ sublists:
     - id: '7447'
       num: '4'
       name: САЙФИ Шигаб Загрич
-- title: Список от 31 августа 1937 г. [Туркменская АССР]
-  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
-    обл.'
-  sublisttitle: Туркменская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 73
-  geosub_ids:
-  - 59
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '332'
-    page_image: v02/17-171-410-332.jpg
+- pageintom: '332'
+  image: v02/17-171-410-332.jpg
+  sublists:
+  - sublid: '227'
     persons:
     - id: '7448'
       num: '1'
@@ -179,22 +189,10 @@ sublists:
     - id: '7450'
       num: '3'
       name: ЯБЛОНСКИЙ Михаил Владимирович
-- title: Список от 31 августа 1937 г. [Восточно-Сибирская область]
-  listtitle: 'Список лиц: Куйбышевская обл., Татарская АССР, Туркменская ССР, Восточно-Сибирская
-    обл.'
-  sublisttitle: Восточно-Сибирская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 26
-  geosub_ids:
-  - 34
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '333'
-    page_image: v02/17-171-410-333.jpg
+- pageintom: '333'
+  image: v02/17-171-410-333.jpg
+  sublists:
+  - sublid: '228'
     persons:
     - id: '7451'
       num: '1'

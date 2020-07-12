@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '26'
-  image: v06/17-171-414-026.jpg
-- pageintom: '27'
-  image: v06/17-171-414-027.jpg
-- pageintom: '28'
-  image: v06/17-171-414-028.jpg
-- pageintom: '29'
-  image: v06/17-171-414-029.jpg
-- pageintom: '30'
-  image: v06/17-171-414-030.jpg
-- pageintom: '31'
-  image: v06/17-171-414-031.jpg
-- pageintom: '32'
-  image: v06/17-171-414-032.jpg
-- pageintom: '33'
-  image: v06/17-171-414-033.jpg
-- pageintom: '34'
-  image: v06/17-171-414-034.jpg
 sublists:
 - title: Список от 3 января 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
@@ -46,9 +27,53 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '28'
-    page_image: v06/17-171-414-028.jpg
+- title: Список от 3 января 1938г. [Калининская область]
+  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
+  sublisttitle: Калининская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Северная область]
+  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
+  sublisttitle: Северная область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 59
+  geosub_ids:
+  - 30
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Крымская АССР]
+  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '26'
+  image: v06/17-171-414-026.jpg
+  sublists: []
+- pageintom: '27'
+  image: v06/17-171-414-027.jpg
+  sublists: []
+- pageintom: '28'
+  image: v06/17-171-414-028.jpg
+  sublists:
+  - sublid: '439'
     persons:
     - id: '19658'
       num: '1'
@@ -124,8 +149,10 @@ sublists:
       num: '18'
       name: ФРУМКИН Валерий Соломонович
       spravka: true
-  - pageintom: '29'
-    page_image: v06/17-171-414-029.jpg
+- pageintom: '29'
+  image: v06/17-171-414-029.jpg
+  sublists:
+  - sublid: '439'
     persons:
     - id: '19676'
       num: '19'
@@ -139,8 +166,10 @@ sublists:
       num: '21'
       name: ШИППЕР Михаил Борисович
       spravka: true
-  - pageintom: '30'
-    page_image: v06/17-171-414-030.jpg
+- pageintom: '30'
+  image: v06/17-171-414-030.jpg
+  sublists:
+  - sublid: '439'
     persons:
     - id: '19679'
       num: '1'
@@ -168,21 +197,10 @@ sublists:
       num: '6'
       name: УЛЬЯНИШЕВ Владимир Митрофанович
       spravka: true
-- title: Список от 3 января 1938г. [Калининская область]
-  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
-  sublisttitle: Калининская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 35
-  geosub_ids:
-  - 46
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '31'
-    page_image: v06/17-171-414-031.jpg
+- pageintom: '31'
+  image: v06/17-171-414-031.jpg
+  sublists:
+  - sublid: '440'
     persons:
     - id: '19685'
       num: '1'
@@ -204,21 +222,10 @@ sublists:
     - id: '19690'
       num: '6'
       name: ШТАФИНСКИЙ Аркадий Ильич
-- title: Список от 3 января 1938г. [Северная область]
-  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
-  sublisttitle: Северная область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 59
-  geosub_ids:
-  - 30
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '32'
-    page_image: v06/17-171-414-032.jpg
+- pageintom: '32'
+  image: v06/17-171-414-032.jpg
+  sublists:
+  - sublid: '441'
     persons:
     - id: '19691'
       num: '1'
@@ -232,8 +239,10 @@ sublists:
     - id: '19693'
       num: '3'
       name: ШАГОВ Николай Васильевич
-  - pageintom: '33'
-    page_image: v06/17-171-414-033.jpg
+- pageintom: '33'
+  image: v06/17-171-414-033.jpg
+  sublists:
+  - sublid: '441'
     persons:
     - id: '19694'
       num: '1'
@@ -247,21 +256,10 @@ sublists:
     - id: '19696'
       num: '3'
       name: ЦЕЛИНСКИЙ Генрих Александрович
-- title: Список от 3 января 1938г. [Крымская АССР]
-  listtitle: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '34'
-    page_image: v06/17-171-414-034.jpg
+- pageintom: '34'
+  image: v06/17-171-414-034.jpg
+  sublists:
+  - sublid: '442'
     persons:
     - id: '19697'
       num: '1'

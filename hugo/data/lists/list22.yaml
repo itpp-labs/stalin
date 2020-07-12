@@ -12,25 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '172'
-  image: v01/17-171-409-172.jpg
-- pageintom: '173'
-  image: v01/17-171-409-173.jpg
-- pageintom: '174'
-  image: v01/17-171-409-174.jpg
-- pageintom: '175'
-  image: v01/17-171-409-175.jpg
-- pageintom: '176'
-  image: v01/17-171-409-176.jpg
-- pageintom: '177'
-  image: v01/17-171-409-177.jpg
-- pageintom: '178'
-  image: v01/17-171-409-178.jpg
-- pageintom: '179'
-  image: v01/17-171-409-179.jpg
-- pageintom: '180'
-  image: v01/17-171-409-180.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -56,9 +37,17 @@ sublists:
   - 26
   group_ids:
   - 0
-  pages:
-  - pageintom: '174'
-    page_image: v01/17-171-409-174.jpg
+pages:
+- pageintom: '172'
+  image: v01/17-171-409-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v01/17-171-409-173.jpg
+  sublists: []
+- pageintom: '174'
+  image: v01/17-171-409-174.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '2597'
       num: '1'
@@ -164,8 +153,10 @@ sublists:
     - id: '2626'
       num: '30'
       name: ЯНКОВСКИЙ Абрам Менделевич
-  - pageintom: '175'
-    page_image: v01/17-171-409-175.jpg
+- pageintom: '175'
+  image: v01/17-171-409-175.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '2627'
       num: '1'
@@ -251,8 +242,10 @@ sublists:
       num: '21'
       name: МАЛЬКОВ Геннадий Евтрапович
       spravka: true
-  - pageintom: '176'
-    page_image: v01/17-171-409-176.jpg
+- pageintom: '176'
+  image: v01/17-171-409-176.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '2648'
       num: '22'
@@ -344,8 +337,10 @@ sublists:
     - id: '2672'
       num: '9'
       name: СИМСКИЙ Виктор Михайлович
-  - pageintom: '177'
-    page_image: v01/17-171-409-177.jpg
+- pageintom: '177'
+  image: v01/17-171-409-177.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '2673'
       num: '1'
@@ -393,8 +388,10 @@ sublists:
       name: ИЛЬЧИКЕС Гедалий Самойлович
       spravka: true
       subtitle1: <p align="center"><u>Гор. ТИРАСПОЛЬ.</u>
-  - pageintom: '178'
-    page_image: v01/17-171-409-178.jpg
+- pageintom: '178'
+  image: v01/17-171-409-178.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '7169'
       num: '1'
@@ -484,8 +481,10 @@ sublists:
       num: '9'
       name: ОБРУЧЕВ Александр Степанович
       spravka: true
-  - pageintom: '179'
-    page_image: v01/17-171-409-179.jpg
+- pageintom: '179'
+  image: v01/17-171-409-179.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '11023'
       num: '10'
@@ -567,8 +566,10 @@ sublists:
     - id: '2728'
       num: '7'
       name: ХЕЙФЕЦ Моисей Зиновьевич
-  - pageintom: '180'
-    page_image: v01/17-171-409-180.jpg
+- pageintom: '180'
+  image: v01/17-171-409-180.jpg
+  sublists:
+  - sublid: '19'
     persons:
     - id: '2729'
       num: '1'

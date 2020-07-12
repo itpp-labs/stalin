@@ -12,43 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '80'
-  image: v05/17-171-413-080.jpg
-- pageintom: '81'
-  image: v05/17-171-413-081.jpg
-- pageintom: '82'
-  image: v05/17-171-413-082.jpg
-- pageintom: '83'
-  image: v05/17-171-413-083.jpg
-- pageintom: '84'
-  image: v05/17-171-413-084.jpg
-- pageintom: '85'
-  image: v05/17-171-413-085.jpg
-- pageintom: '86'
-  image: v05/17-171-413-086.jpg
-- pageintom: '87'
-  image: v05/17-171-413-087.jpg
-- pageintom: '88'
-  image: v05/17-171-413-088.jpg
-- pageintom: '89'
-  image: v05/17-171-413-089.jpg
-- pageintom: '90'
-  image: v05/17-171-413-090.jpg
-- pageintom: '91'
-  image: v05/17-171-413-091.jpg
-- pageintom: '92'
-  image: v05/17-171-413-092.jpg
-- pageintom: '93'
-  image: v05/17-171-413-093.jpg
-- pageintom: '94'
-  image: v05/17-171-413-094.jpg
-- pageintom: '95'
-  image: v05/17-171-413-095.jpg
-- pageintom: '96'
-  image: v05/17-171-413-096.jpg
-- pageintom: '97'
-  image: v05/17-171-413-097.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
@@ -78,9 +41,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '82'
-    page_image: v05/17-171-413-082.jpg
+- title: Список от 22 ноября 1937г. [Одесса - Одесская ж.д.]
+  listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
+  sublisttitle: Одесса - Одесская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 84
+  geosub_ids:
+  - 101
+  group_ids:
+  - 13
+pages:
+- pageintom: '80'
+  image: v05/17-171-413-080.jpg
+  sublists: []
+- pageintom: '81'
+  image: v05/17-171-413-081.jpg
+  sublists: []
+- pageintom: '82'
+  image: v05/17-171-413-082.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15051'
       num: '1'
@@ -142,8 +125,10 @@ sublists:
     - id: '15067'
       num: '17'
       name: КОЗИЦКИЙ Иван Игнатьевич
-  - pageintom: '83'
-    page_image: v05/17-171-413-083.jpg
+- pageintom: '83'
+  image: v05/17-171-413-083.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15068'
       num: '18'
@@ -250,8 +235,10 @@ sublists:
       num: '45'
       name: КОРОТАЕВ Михаил Тихонович
       spravka: true
-  - pageintom: '84'
-    page_image: v05/17-171-413-084.jpg
+- pageintom: '84'
+  image: v05/17-171-413-084.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15096'
       num: '46'
@@ -365,8 +352,10 @@ sublists:
       num: '74'
       name: РЫЛЬЦЕВ Георгий Никитич
       spravka: true
-  - pageintom: '85'
-    page_image: v05/17-171-413-085.jpg
+- pageintom: '85'
+  image: v05/17-171-413-085.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15125'
       num: '75'
@@ -467,8 +456,10 @@ sublists:
       num: '101'
       name: ГУЛЯЕВ Иван Гаврилович
       spravka: true
-  - pageintom: '86'
-    page_image: v05/17-171-413-086.jpg
+- pageintom: '86'
+  image: v05/17-171-413-086.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15152'
       num: '102'
@@ -591,8 +582,10 @@ sublists:
       num: '131'
       name: ХОВАНСКИЙ Сергей Львович
       spravka: true
-  - pageintom: '87'
-    page_image: v05/17-171-413-087.jpg
+- pageintom: '87'
+  image: v05/17-171-413-087.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15182'
       num: '132'
@@ -665,8 +658,10 @@ sublists:
     - id: '15201'
       num: '151'
       name: ШУБИН Федор Иринеевич
-  - pageintom: '88'
-    page_image: v05/17-171-413-088.jpg
+- pageintom: '88'
+  image: v05/17-171-413-088.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15202'
       num: '1'
@@ -674,8 +669,16 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР (иноподданные)  </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u></p><p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ.</u>
-  - pageintom: '91'
-    page_image: v05/17-171-413-091.jpg
+- pageintom: '89'
+  image: v05/17-171-413-089.jpg
+  sublists: []
+- pageintom: '90'
+  image: v05/17-171-413-090.jpg
+  sublists: []
+- pageintom: '91'
+  image: v05/17-171-413-091.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15203'
       num: '1'
@@ -731,8 +734,10 @@ sublists:
       num: '13'
       name: БУРОВ Михаил Захарович
       spravka: true
-  - pageintom: '92'
-    page_image: v05/17-171-413-092.jpg
+- pageintom: '92'
+  image: v05/17-171-413-092.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15216'
       num: '14'
@@ -818,8 +823,10 @@ sublists:
       num: '35'
       name: ЧИРВА Вера Емельяновна
       subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ</u>
-  - pageintom: '93'
-    page_image: v05/17-171-413-093.jpg
+- pageintom: '93'
+  image: v05/17-171-413-093.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15238'
       num: '36'
@@ -838,8 +845,10 @@ sublists:
     - id: '15242'
       num: '40'
       name: ЯЛИН Александр Федорович
-  - pageintom: '94'
-    page_image: v05/17-171-413-094.jpg
+- pageintom: '94'
+  image: v05/17-171-413-094.jpg
+  sublists:
+  - sublid: '268'
     persons:
     - id: '15243'
       num: '1'
@@ -847,21 +856,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР (иноподданные)  </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u></p><p align="center"><u>НИКОЛАЕВСКАЯ ОБЛАСТЬ.</u>
-- title: Список от 22 ноября 1937г. [Одесса - Одесская ж.д.]
-  listtitle: Список лиц - Украинская ССР; Одесса - Одесская ж.д.
-  sublisttitle: Одесса - Одесская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 84
-  geosub_ids:
-  - 101
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '96'
-    page_image: v05/17-171-413-096.jpg
+- pageintom: '95'
+  image: v05/17-171-413-095.jpg
+  sublists: []
+- pageintom: '96'
+  image: v05/17-171-413-096.jpg
+  sublists:
+  - sublid: '269'
     persons:
     - id: '15244'
       num: '1'
@@ -905,8 +906,10 @@ sublists:
       num: '10'
       name: СВИДЗИНСКИЙ Казимир Иванович
       spravka: true
-  - pageintom: '97'
-    page_image: v05/17-171-413-097.jpg
+- pageintom: '97'
+  image: v05/17-171-413-097.jpg
+  sublists:
+  - sublid: '269'
     persons:
     - id: '15254'
       num: '1'

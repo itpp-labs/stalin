@@ -13,19 +13,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '166'
-  image: v03/17-171-411-166.jpg
-- pageintom: '167'
-  image: v03/17-171-411-167.jpg
-- pageintom: '168'
-  image: v03/17-171-411-168.jpg
-- pageintom: '169'
-  image: v03/17-171-411-169.jpg
-- pageintom: '170'
-  image: v03/17-171-411-170.jpg
-- pageintom: '171'
-  image: v03/17-171-411-171.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
@@ -40,9 +27,56 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '168'
-    page_image: v03/17-171-411-168.jpg
+- title: Список от 3 октября 1937г. [Челябинская область]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
+  sublisttitle: Челябинская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
+- title: Список от 3 октября 1937г. [Башкирская АССР]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
+  sublisttitle: Башкирская АССР
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
+- title: Список от 3 октября 1937г. [Украинская ССР]
+  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
+    Украинская ССР'
+  sublisttitle: Украинская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 75
+  geosub_ids:
+  - 47
+  group_ids:
+  - 0
+pages:
+- pageintom: '166'
+  image: v03/17-171-411-166.jpg
+  sublists: []
+- pageintom: '167'
+  image: v03/17-171-411-167.jpg
+  sublists: []
+- pageintom: '168'
+  image: v03/17-171-411-168.jpg
+  sublists:
+  - sublid: '388'
     persons:
     - id: '9614'
       num: '1'
@@ -76,22 +110,10 @@ sublists:
       num: '8'
       name: ШИПОВ Александр Павлович
       spravka: true
-- title: Список от 3 октября 1937г. [Челябинская область]
-  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
-    Украинская ССР'
-  sublisttitle: Челябинская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 45
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '169'
-    page_image: v03/17-171-411-169.jpg
+- pageintom: '169'
+  image: v03/17-171-411-169.jpg
+  sublists:
+  - sublid: '389'
     persons:
     - id: '9622'
       num: '1'
@@ -110,22 +132,10 @@ sublists:
       name: КАРГАПОЛОВ Михаил Васильевич
       spravka: true
       subtitle1: <p align="right"><u>2-я категория</u>
-- title: Список от 3 октября 1937г. [Башкирская АССР]
-  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
-    Украинская ССР'
-  sublisttitle: Башкирская АССР
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 22
-  geosub_ids:
-  - 60
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '170'
-    page_image: v03/17-171-411-170.jpg
+- pageintom: '170'
+  image: v03/17-171-411-170.jpg
+  sublists:
+  - sublid: '390'
     persons:
     - id: '9626'
       num: '1'
@@ -133,22 +143,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>БАШКИРСКАЯ А.С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
-- title: Список от 3 октября 1937г. [Украинская ССР]
-  listtitle: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР,
-    Украинская ССР'
-  sublisttitle: Украинская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 75
-  geosub_ids:
-  - 47
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '171'
-    page_image: v03/17-171-411-171.jpg
+- pageintom: '171'
+  image: v03/17-171-411-171.jpg
+  sublists:
+  - sublid: '391'
     persons:
     - id: '9627'
       num: '1'

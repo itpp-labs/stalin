@@ -13,25 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '351'
-  image: v05/17-171-413-351.jpg
-- pageintom: '352'
-  image: v05/17-171-413-352.jpg
-- pageintom: '353'
-  image: v05/17-171-413-353.jpg
-- pageintom: '354'
-  image: v05/17-171-413-354.jpg
-- pageintom: '355'
-  image: v05/17-171-413-355.jpg
-- pageintom: '356'
-  image: v05/17-171-413-356.jpg
-- pageintom: '357'
-  image: v05/17-171-413-357.jpg
-- pageintom: '358'
-  image: v05/17-171-413-358.jpg
-- pageintom: '359'
-  image: v05/17-171-413-359.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Воронежская область]
   listtitle: Список лиц - Воронежская область
@@ -45,9 +26,17 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '353'
-    page_image: v05/17-171-413-353.jpg
+pages:
+- pageintom: '351'
+  image: v05/17-171-413-351.jpg
+  sublists: []
+- pageintom: '352'
+  image: v05/17-171-413-352.jpg
+  sublists: []
+- pageintom: '353'
+  image: v05/17-171-413-353.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '18969'
       num: '1'
@@ -139,8 +128,10 @@ sublists:
       num: '22'
       name: БРИЧ Емельян Михайлович
       spravka: true
-  - pageintom: '354'
-    page_image: v05/17-171-413-354.jpg
+- pageintom: '354'
+  image: v05/17-171-413-354.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '18991'
       num: '23'
@@ -254,8 +245,10 @@ sublists:
       num: '50'
       name: КЛЮЕВ Константин Николаевич
       spravka: true
-  - pageintom: '355'
-    page_image: v05/17-171-413-355.jpg
+- pageintom: '355'
+  image: v05/17-171-413-355.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '19019'
       num: '51'
@@ -369,8 +362,10 @@ sublists:
       num: '78'
       name: ПАВЛОВ Анатолий Петрович
       spravka: true
-  - pageintom: '356'
-    page_image: v05/17-171-413-356.jpg
+- pageintom: '356'
+  image: v05/17-171-413-356.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '19047'
       num: '79'
@@ -484,8 +479,10 @@ sublists:
       num: '106'
       name: ТЕРЕЩЕНКО Владимир Иванович
       spravka: true
-  - pageintom: '357'
-    page_image: v05/17-171-413-357.jpg
+- pageintom: '357'
+  image: v05/17-171-413-357.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '19075'
       num: '107'
@@ -539,8 +536,10 @@ sublists:
       num: '119'
       name: ЯКОВЛЕВ Валентин Захарович
       spravka: true
-  - pageintom: '358'
-    page_image: v05/17-171-413-358.jpg
+- pageintom: '358'
+  image: v05/17-171-413-358.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '19088'
       num: '1'
@@ -628,8 +627,10 @@ sublists:
       num: '21'
       name: ТАЩИЛИН Иван Григорьевич
       spravka: true
-  - pageintom: '359'
-    page_image: v05/17-171-413-359.jpg
+- pageintom: '359'
+  image: v05/17-171-413-359.jpg
+  sublists:
+  - sublid: '97'
     persons:
     - id: '19109'
       num: '22'

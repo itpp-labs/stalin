@@ -14,27 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '30'
-  image: v01/17-171-409-030.jpg
-- pageintom: '31'
-  image: v01/17-171-409-031.jpg
-- pageintom: '32'
-  image: v01/17-171-409-032.jpg
-- pageintom: '33'
-  image: v01/17-171-409-033.jpg
-- pageintom: '34'
-  image: v01/17-171-409-034.jpg
-- pageintom: '35'
-  image: v01/17-171-409-035.jpg
-- pageintom: '36'
-  image: v01/17-171-409-036.jpg
-- pageintom: '37'
-  image: v01/17-171-409-037.jpg
-- pageintom: '38'
-  image: v01/17-171-409-038.jpg
-- pageintom: '39'
-  image: v01/17-171-409-039.jpg
 sublists:
 - title: Список от 19 марта 1937 г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -48,9 +27,14 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '31'
-    page_image: v01/17-171-409-031.jpg
+pages:
+- pageintom: '30'
+  image: v01/17-171-409-030.jpg
+  sublists: []
+- pageintom: '31'
+  image: v01/17-171-409-031.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '481'
       num: '1'
@@ -172,8 +156,10 @@ sublists:
       name: ГИНГОРН Семен Владимирович
       doublesexists: true
       spravka: true
-  - pageintom: '32'
-    page_image: v01/17-171-409-032.jpg
+- pageintom: '32'
+  image: v01/17-171-409-032.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '505'
       num: '25'
@@ -299,8 +285,10 @@ sublists:
       name: КОЗИН Иван Алексеевич
       doublesexists: true
       spravka: true
-  - pageintom: '33'
-    page_image: v01/17-171-409-033.jpg
+- pageintom: '33'
+  image: v01/17-171-409-033.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '531'
       num: '51'
@@ -420,8 +408,10 @@ sublists:
       name: ПРОСКУРЯКОВ Павел Матвеевич
       doublesexists: true
       spravka: true
-  - pageintom: '34'
-    page_image: v01/17-171-409-034.jpg
+- pageintom: '34'
+  image: v01/17-171-409-034.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '557'
       num: '77'
@@ -556,8 +546,10 @@ sublists:
       num: '103'
       name: ЧУКИЧЕВ Трофим Евсеевич
       spravka: true
-  - pageintom: '35'
-    page_image: v01/17-171-409-035.jpg
+- pageintom: '35'
+  image: v01/17-171-409-035.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '584'
       num: '104'
@@ -597,8 +589,10 @@ sublists:
       name: ЯЗОВСКИХ Александр Кузьмич
       doublesexists: true
       spravka: true
-  - pageintom: '36'
-    page_image: v01/17-171-409-036.jpg
+- pageintom: '36'
+  image: v01/17-171-409-036.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '592'
       num: '1'
@@ -700,8 +694,10 @@ sublists:
       num: '25'
       name: КОГАН Иосиф Соломонович
       spravka: true
-  - pageintom: '37'
-    page_image: v01/17-171-409-037.jpg
+- pageintom: '37'
+  image: v01/17-171-409-037.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '617'
       num: '26'
@@ -806,8 +802,10 @@ sublists:
       num: '51'
       name: РУЗДАН Георгий Николаевич
       spravka: true
-  - pageintom: '38'
-    page_image: v01/17-171-409-038.jpg
+- pageintom: '38'
+  image: v01/17-171-409-038.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '643'
       num: '52'
@@ -895,8 +893,10 @@ sublists:
       num: '73'
       name: ЮРОВСКИХ Григорий Васильевич
       spravka: true
-  - pageintom: '39'
-    page_image: v01/17-171-409-039.jpg
+- pageintom: '39'
+  image: v01/17-171-409-039.jpg
+  sublists:
+  - sublid: '1'
     persons:
     - id: '665'
       num: '1'

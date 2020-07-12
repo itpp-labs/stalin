@@ -12,25 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '252'
-  image: v10/17-171-418-252.jpg
-- pageintom: '253'
-  image: v10/17-171-418-253.jpg
-- pageintom: '254'
-  image: v10/17-171-418-254.jpg
-- pageintom: '255'
-  image: v10/17-171-418-255.jpg
-- pageintom: '256'
-  image: v10/17-171-418-256.jpg
-- pageintom: '257'
-  image: v10/17-171-418-257.jpg
-- pageintom: '258'
-  image: v10/17-171-418-258.jpg
-- pageintom: '259'
-  image: v10/17-171-418-259.jpg
-- pageintom: '260'
-  image: v10/17-171-418-260.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Курская область]
   listtitle: Список лиц - Курская область
@@ -44,9 +25,17 @@ sublists:
   - 32
   group_ids:
   - 0
-  pages:
-  - pageintom: '254'
-    page_image: v10/17-171-418-254.jpg
+pages:
+- pageintom: '252'
+  image: v10/17-171-418-252.jpg
+  sublists: []
+- pageintom: '253'
+  image: v10/17-171-418-253.jpg
+  sublists: []
+- pageintom: '254'
+  image: v10/17-171-418-254.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40708'
       num: '1'
@@ -127,8 +116,10 @@ sublists:
     - id: '40730'
       num: '23'
       name: ГАНЕВИЧ Владимир Федорович
-  - pageintom: '255'
-    page_image: v10/17-171-418-255.jpg
+- pageintom: '255'
+  image: v10/17-171-418-255.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40731'
       num: '24'
@@ -221,8 +212,10 @@ sublists:
       num: '49'
       name: ЛЕВИН Абрам Григорьевич
       spravka: true
-  - pageintom: '256'
-    page_image: v10/17-171-418-256.jpg
+- pageintom: '256'
+  image: v10/17-171-418-256.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40757'
       num: '50'
@@ -315,8 +308,10 @@ sublists:
     - id: '40782'
       num: '75'
       name: ОСИПОВ Иван Иванович
-  - pageintom: '257'
-    page_image: v10/17-171-418-257.jpg
+- pageintom: '257'
+  image: v10/17-171-418-257.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40783'
       num: '76'
@@ -409,8 +404,10 @@ sublists:
       num: '101'
       name: СИЛОНОВ Александр Павлович
       spravka: true
-  - pageintom: '258'
-    page_image: v10/17-171-418-258.jpg
+- pageintom: '258'
+  image: v10/17-171-418-258.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40809'
       num: '102'
@@ -508,14 +505,18 @@ sublists:
       num: '128'
       name: ЩЕРБАКОВ Павел Семенович
       spravka: true
-  - pageintom: '259'
-    page_image: v10/17-171-418-259.jpg
+- pageintom: '259'
+  image: v10/17-171-418-259.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40836'
       num: '129'
       name: ЮРОВ Платон Андреевич
-  - pageintom: '260'
-    page_image: v10/17-171-418-260.jpg
+- pageintom: '260'
+  image: v10/17-171-418-260.jpg
+  sublists:
+  - sublid: '141'
     persons:
     - id: '40837'
       num: '1'

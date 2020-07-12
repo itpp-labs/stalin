@@ -12,25 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '131'
-  image: v10/17-171-418-131.jpg
-- pageintom: '132'
-  image: v10/17-171-418-132.jpg
-- pageintom: '133'
-  image: v10/17-171-418-133.jpg
-- pageintom: '134'
-  image: v10/17-171-418-134.jpg
-- pageintom: '135'
-  image: v10/17-171-418-135.jpg
-- pageintom: '136'
-  image: v10/17-171-418-136.jpg
-- pageintom: '137'
-  image: v10/17-171-418-137.jpg
-- pageintom: '138'
-  image: v10/17-171-418-138.jpg
-- pageintom: '139'
-  image: v10/17-171-418-139.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Тульская область]
   listtitle: Список лиц - Тульская область
@@ -44,9 +25,17 @@ sublists:
   - 124
   group_ids:
   - 0
-  pages:
-  - pageintom: '133'
-    page_image: v10/17-171-418-133.jpg
+pages:
+- pageintom: '131'
+  image: v10/17-171-418-131.jpg
+  sublists: []
+- pageintom: '132'
+  image: v10/17-171-418-132.jpg
+  sublists: []
+- pageintom: '133'
+  image: v10/17-171-418-133.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39003'
       num: '1'
@@ -120,8 +109,10 @@ sublists:
       num: '20'
       name: БЫЛЬЦОВ Дорофей Иванович
       spravka: true
-  - pageintom: '134'
-    page_image: v10/17-171-418-134.jpg
+- pageintom: '134'
+  image: v10/17-171-418-134.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39023'
       num: '21'
@@ -221,8 +212,10 @@ sublists:
     - id: '39050'
       num: '48'
       name: ЗУБОВ Сергей Николаевич
-  - pageintom: '135'
-    page_image: v10/17-171-418-135.jpg
+- pageintom: '135'
+  image: v10/17-171-418-135.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39051'
       num: '49'
@@ -324,8 +317,10 @@ sublists:
       num: '76'
       name: НЕРЕЗОВ Петр Александрович
       spravka: true
-  - pageintom: '136'
-    page_image: v10/17-171-418-136.jpg
+- pageintom: '136'
+  image: v10/17-171-418-136.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39079'
       num: '77'
@@ -425,8 +420,10 @@ sublists:
       num: '103'
       name: СОЛНЦЕВ Яков Васильевич
       spravka: true
-  - pageintom: '137'
-    page_image: v10/17-171-418-137.jpg
+- pageintom: '137'
+  image: v10/17-171-418-137.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39106'
       num: '104'
@@ -504,8 +501,10 @@ sublists:
     - id: '39128'
       num: '126'
       name: ЯДЧУК-АНДРЕЕВА Елизавета Павловна
-  - pageintom: '138'
-    page_image: v10/17-171-418-138.jpg
+- pageintom: '138'
+  image: v10/17-171-418-138.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39129'
       num: '1'
@@ -587,8 +586,10 @@ sublists:
       num: '21'
       name: КУЗНЕЦОВ Алексей Васильевич
       spravka: true
-  - pageintom: '139'
-    page_image: v10/17-171-418-139.jpg
+- pageintom: '139'
+  image: v10/17-171-418-139.jpg
+  sublists:
+  - sublid: '134'
     persons:
     - id: '39150'
       num: '22'

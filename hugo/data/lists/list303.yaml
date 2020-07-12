@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '139'
-  image: v08/17-171-416-139.jpg
-- pageintom: '140'
-  image: v08/17-171-416-140.jpg
-- pageintom: '141'
-  image: v08/17-171-416-141.jpg
-- pageintom: '142'
-  image: v08/17-171-416-142.jpg
-- pageintom: '143'
-  image: v08/17-171-416-143.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -37,9 +26,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '141'
-    page_image: v08/17-171-416-141.jpg
+pages:
+- pageintom: '139'
+  image: v08/17-171-416-139.jpg
+  sublists: []
+- pageintom: '140'
+  image: v08/17-171-416-140.jpg
+  sublists: []
+- pageintom: '141'
+  image: v08/17-171-416-141.jpg
+  sublists:
+  - sublid: '552'
     persons:
     - id: '30852'
       num: '1'
@@ -115,8 +112,10 @@ sublists:
     - id: '30869'
       num: '18'
       name: МИТЯНИН Михаил Иванович
-  - pageintom: '142'
-    page_image: v08/17-171-416-142.jpg
+- pageintom: '142'
+  image: v08/17-171-416-142.jpg
+  sublists:
+  - sublid: '552'
     persons:
     - id: '30870'
       num: '19'
@@ -130,8 +129,10 @@ sublists:
       num: '21'
       name: ТЕПЛЯКОВ Виталий Никифорович
       spravka: true
-  - pageintom: '143'
-    page_image: v08/17-171-416-143.jpg
+- pageintom: '143'
+  image: v08/17-171-416-143.jpg
+  sublists:
+  - sublid: '552'
     persons:
     - id: '30873'
       num: '1'

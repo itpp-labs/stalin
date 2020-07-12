@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '8'
-  image: v04/17-171-412-008.jpg
-- pageintom: '9'
-  image: v04/17-171-412-009.jpg
-- pageintom: '10'
-  image: v04/17-171-412-010.jpg
-- pageintom: '11'
-  image: v04/17-171-412-011.jpg
-- pageintom: '12'
-  image: v04/17-171-412-012.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Западно-Сибирский край]
   listtitle: 'Список лиц: Западно-Сибирский край'
@@ -37,9 +26,17 @@ sublists:
   - 9
   group_ids:
   - 0
-  pages:
-  - pageintom: '10'
-    page_image: v04/17-171-412-010.jpg
+pages:
+- pageintom: '8'
+  image: v04/17-171-412-008.jpg
+  sublists: []
+- pageintom: '9'
+  image: v04/17-171-412-009.jpg
+  sublists: []
+- pageintom: '10'
+  image: v04/17-171-412-010.jpg
+  sublists:
+  - sublid: '54'
     persons:
     - id: '10470'
       num: '1'
@@ -141,8 +138,10 @@ sublists:
       num: '28'
       name: СПРИНГИС Роберт Яковлевич
       spravka: true
-  - pageintom: '11'
-    page_image: v04/17-171-412-011.jpg
+- pageintom: '11'
+  image: v04/17-171-412-011.jpg
+  sublists:
+  - sublid: '54'
     persons:
     - id: '10498'
       num: '29'
@@ -175,8 +174,10 @@ sublists:
       num: '36'
       name: ЯНЦЕН Абрам Абрамович
       spravka: true
-  - pageintom: '12'
-    page_image: v04/17-171-412-012.jpg
+- pageintom: '12'
+  image: v04/17-171-412-012.jpg
+  sublists:
+  - sublid: '54'
     persons:
     - id: '10506'
       num: '1'

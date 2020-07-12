@@ -13,21 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '102'
-  image: v08/17-171-416-102.jpg
-- pageintom: '103'
-  image: v08/17-171-416-103.jpg
-- pageintom: '104'
-  image: v08/17-171-416-104.jpg
-- pageintom: '105'
-  image: v08/17-171-416-105.jpg
-- pageintom: '106'
-  image: v08/17-171-416-106.jpg
-- pageintom: '107'
-  image: v08/17-171-416-107.jpg
-- pageintom: '108'
-  image: v08/17-171-416-108.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Вологодская область]
   listtitle: Список лиц - Вологодская область
@@ -41,9 +26,17 @@ sublists:
   - 132
   group_ids:
   - 0
-  pages:
-  - pageintom: '104'
-    page_image: v08/17-171-416-104.jpg
+pages:
+- pageintom: '102'
+  image: v08/17-171-416-102.jpg
+  sublists: []
+- pageintom: '103'
+  image: v08/17-171-416-103.jpg
+  sublists: []
+- pageintom: '104'
+  image: v08/17-171-416-104.jpg
+  sublists:
+  - sublid: '549'
     persons:
     - id: '30418'
       num: '1'
@@ -130,8 +123,10 @@ sublists:
     - id: '30438'
       num: '21'
       name: ЗАПРИЕВ Дмитрий Васильевич
-  - pageintom: '105'
-    page_image: v08/17-171-416-105.jpg
+- pageintom: '105'
+  image: v08/17-171-416-105.jpg
+  sublists:
+  - sublid: '549'
     persons:
     - id: '30439'
       num: '22'
@@ -249,8 +244,10 @@ sublists:
       num: '50'
       name: СКОТНИКОВ Иван Степанович
       spravka: true
-  - pageintom: '106'
-    page_image: v08/17-171-416-106.jpg
+- pageintom: '106'
+  image: v08/17-171-416-106.jpg
+  sublists:
+  - sublid: '549'
     persons:
     - id: '30468'
       num: '51'
@@ -307,8 +304,10 @@ sublists:
       num: '64'
       name: ЯНГОСОРОВ Василий Павлович
       spravka: true
-  - pageintom: '107'
-    page_image: v08/17-171-416-107.jpg
+- pageintom: '107'
+  image: v08/17-171-416-107.jpg
+  sublists:
+  - sublid: '549'
     persons:
     - id: '30482'
       num: '1'
@@ -388,8 +387,10 @@ sublists:
       num: '19'
       name: СТЕПАНОВ Николай Анатольевич
       spravka: true
-  - pageintom: '108'
-    page_image: v08/17-171-416-108.jpg
+- pageintom: '108'
+  image: v08/17-171-416-108.jpg
+  sublists:
+  - sublid: '549'
     persons:
     - id: '30501'
       num: '20'

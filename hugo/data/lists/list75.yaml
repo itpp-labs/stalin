@@ -14,27 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '344'
-  image: v02/17-171-410-344.jpg
-- pageintom: '345'
-  image: v02/17-171-410-345.jpg
-- pageintom: '346'
-  image: v02/17-171-410-346.jpg
-- pageintom: '347'
-  image: v02/17-171-410-347.jpg
-- pageintom: '348'
-  image: v02/17-171-410-348.jpg
-- pageintom: '349'
-  image: v02/17-171-410-349.jpg
-- pageintom: '350'
-  image: v02/17-171-410-350.jpg
-- pageintom: '351'
-  image: v02/17-171-410-351.jpg
-- pageintom: '352'
-  image: v02/17-171-410-352.jpg
-- pageintom: '353'
-  image: v02/17-171-410-353.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Оренбургская обл.]
   listtitle: 'Список лиц: Оренбургская обл.'
@@ -48,9 +27,17 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '346'
-    page_image: v02/17-171-410-346.jpg
+pages:
+- pageintom: '344'
+  image: v02/17-171-410-344.jpg
+  sublists: []
+- pageintom: '345'
+  image: v02/17-171-410-345.jpg
+  sublists: []
+- pageintom: '346'
+  image: v02/17-171-410-346.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7572'
       num: '1'
@@ -144,8 +131,10 @@ sublists:
       num: '25'
       name: ВУЙЦИК Станислав Адамович
       spravka: true
-  - pageintom: '347'
-    page_image: v02/17-171-410-347.jpg
+- pageintom: '347'
+  image: v02/17-171-410-347.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7597'
       num: '26'
@@ -259,8 +248,10 @@ sublists:
       num: '54'
       name: ЗИНОВЬЕВ Михаил Петрович
       spravka: true
-  - pageintom: '348'
-    page_image: v02/17-171-410-348.jpg
+- pageintom: '348'
+  image: v02/17-171-410-348.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7626'
       num: '55'
@@ -372,8 +363,10 @@ sublists:
     - id: '7655'
       num: '84'
       name: КРАШЕНИННИКОВ Сергей Павлович
-  - pageintom: '349'
-    page_image: v02/17-171-410-349.jpg
+- pageintom: '349'
+  image: v02/17-171-410-349.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7656'
       num: '85'
@@ -484,8 +477,10 @@ sublists:
     - id: '7684'
       num: '113'
       name: НЕМИРОВСКИЙ Самуил Борисович
-  - pageintom: '350'
-    page_image: v02/17-171-410-350.jpg
+- pageintom: '350'
+  image: v02/17-171-410-350.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7685'
       num: '114'
@@ -607,8 +602,10 @@ sublists:
       num: '144'
       name: СКВИРСКИЙ Ефим Борухович, он же Федор Борисович
       spravka: true
-  - pageintom: '351'
-    page_image: v02/17-171-410-351.jpg
+- pageintom: '351'
+  image: v02/17-171-410-351.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7716'
       num: '145'
@@ -719,8 +716,10 @@ sublists:
       num: '173'
       name: ХОРОВЕР Эмиль Маркович
       spravka: true
-  - pageintom: '352'
-    page_image: v02/17-171-410-352.jpg
+- pageintom: '352'
+  image: v02/17-171-410-352.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7745'
       num: '174'
@@ -782,8 +781,10 @@ sublists:
     - id: '7760'
       num: '189'
       name: ЮРКОВСКИЙ Вадим Владимирович
-  - pageintom: '353'
-    page_image: v02/17-171-410-353.jpg
+- pageintom: '353'
+  image: v02/17-171-410-353.jpg
+  sublists:
+  - sublid: '53'
     persons:
     - id: '7761'
       num: '1'

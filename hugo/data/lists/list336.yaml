@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '20'
-  image: v06/17-171-414-020.jpg
-- pageintom: '21'
-  image: v06/17-171-414-021.jpg
-- pageintom: '22'
-  image: v06/17-171-414-022.jpg
-- pageintom: '23'
-  image: v06/17-171-414-023.jpg
-- pageintom: '24'
-  image: v06/17-171-414-024.jpg
-- pageintom: '25'
-  image: v06/17-171-414-025.jpg
 sublists:
 - title: Список от 3 января 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
@@ -41,9 +28,56 @@ sublists:
   - 115
   group_ids:
   - 0
-  pages:
-  - pageintom: '22'
-    page_image: v06/17-171-414-022.jpg
+- title: Список от 3 января 1938г. [Ярославская область]
+  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
+    ССР
+  sublisttitle: Ярославская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Ленинградская область]
+  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
+    ССР
+  sublisttitle: Ленинградская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Белорусская ССР]
+  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
+    ССР
+  sublisttitle: Белорусская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 37
+  group_ids:
+  - 0
+pages:
+- pageintom: '20'
+  image: v06/17-171-414-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v06/17-171-414-021.jpg
+  sublists: []
+- pageintom: '22'
+  image: v06/17-171-414-022.jpg
+  sublists:
+  - sublid: '435'
     persons:
     - id: '19627'
       num: '1'
@@ -123,22 +157,10 @@ sublists:
       num: '20'
       name: ЯНСЕН Елена Ивановна
       spravka: true
-- title: Список от 3 января 1938г. [Ярославская область]
-  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
-    ССР
-  sublisttitle: Ярославская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 71
-  geosub_ids:
-  - 31
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '23'
-    page_image: v06/17-171-414-023.jpg
+- pageintom: '23'
+  image: v06/17-171-414-023.jpg
+  sublists:
+  - sublid: '436'
     persons:
     - id: '19647'
       num: '1'
@@ -175,22 +197,10 @@ sublists:
       num: '2'
       name: МУРОВАННЫЙ Константин Тихонович
       spravka: true
-- title: Список от 3 января 1938г. [Ленинградская область]
-  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
-    ССР
-  sublisttitle: Ленинградская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 46
-  geosub_ids:
-  - 44
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '24'
-    page_image: v06/17-171-414-024.jpg
+- pageintom: '24'
+  image: v06/17-171-414-024.jpg
+  sublists:
+  - sublid: '437'
     persons:
     - id: '19655'
       num: '1'
@@ -202,22 +212,10 @@ sublists:
       num: '2'
       name: ЯКСОН Ян Петрович
       spravka: true
-- title: Список от 3 января 1938г. [Белорусская ССР]
-  listtitle: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская
-    ССР
-  sublisttitle: Белорусская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 4
-  geosub_ids:
-  - 37
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '25'
-    page_image: v06/17-171-414-025.jpg
+- pageintom: '25'
+  image: v06/17-171-414-025.jpg
+  sublists:
+  - sublid: '438'
     persons:
     - id: '19657'
       num: '1'

@@ -10,13 +10,6 @@ delo:
   num: 9-Л/8-9
 signs:
   ejov: true
-pages:
-- pageintom: '218'
-  image: v09/17-171-417-218.jpg
-- pageintom: '219'
-  image: v09/17-171-417-219.jpg
-- pageintom: '220'
-  image: v09/17-171-417-220.jpg
 sublists:
 - title: Список от VIII.1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -30,9 +23,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '220'
-    page_image: v09/17-171-417-220.jpg
+pages:
+- pageintom: '218'
+  image: v09/17-171-417-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v09/17-171-417-219.jpg
+  sublists: []
+- pageintom: '220'
+  image: v09/17-171-417-220.jpg
+  sublists:
+  - sublid: '125'
     persons:
     - id: '36196'
       num: '1'

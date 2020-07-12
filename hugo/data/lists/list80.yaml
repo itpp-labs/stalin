@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '13'
-  image: v04/17-171-412-013.jpg
-- pageintom: '14'
-  image: v04/17-171-412-014.jpg
-- pageintom: '15'
-  image: v04/17-171-412-015.jpg
-- pageintom: '16'
-  image: v04/17-171-412-016.jpg
-- pageintom: '17'
-  image: v04/17-171-412-017.jpg
-- pageintom: '18'
-  image: v04/17-171-412-018.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Восточно-Сибирская область]
   listtitle: 'Список лиц: Восточно-Сибирская область'
@@ -39,9 +26,17 @@ sublists:
   - 34
   group_ids:
   - 0
-  pages:
-  - pageintom: '15'
-    page_image: v04/17-171-412-015.jpg
+pages:
+- pageintom: '13'
+  image: v04/17-171-412-013.jpg
+  sublists: []
+- pageintom: '14'
+  image: v04/17-171-412-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v04/17-171-412-015.jpg
+  sublists:
+  - sublid: '55'
     persons:
     - id: '10516'
       num: '1'
@@ -135,8 +130,10 @@ sublists:
       num: '23'
       name: ЗАПОРОЖСКИЙ Анисим Гордеевич
       spravka: true
-  - pageintom: '16'
-    page_image: v04/17-171-412-016.jpg
+- pageintom: '16'
+  image: v04/17-171-412-016.jpg
+  sublists:
+  - sublid: '55'
     persons:
     - id: '10539'
       num: '24'
@@ -255,8 +252,10 @@ sublists:
       num: '53'
       name: ПУШКАРЕВ Григорий Михайлович
       spravka: true
-  - pageintom: '17'
-    page_image: v04/17-171-412-017.jpg
+- pageintom: '17'
+  image: v04/17-171-412-017.jpg
+  sublists:
+  - sublid: '55'
     persons:
     - id: '10569'
       num: '54'
@@ -367,8 +366,10 @@ sublists:
       num: '80'
       name: ЮШКОВ Николай Матвеевич
       spravka: true
-  - pageintom: '18'
-    page_image: v04/17-171-412-018.jpg
+- pageintom: '18'
+  image: v04/17-171-412-018.jpg
+  sublists:
+  - sublid: '55'
     persons:
     - id: '10596'
       num: '1'

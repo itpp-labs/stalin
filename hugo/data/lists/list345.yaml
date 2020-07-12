@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '88'
-  image: v06/17-171-414-088.jpg
-- pageintom: '89'
-  image: v06/17-171-414-089.jpg
-- pageintom: '90'
-  image: v06/17-171-414-090.jpg
-- pageintom: '91'
-  image: v06/17-171-414-091.jpg
-- pageintom: '92'
-  image: v06/17-171-414-092.jpg
-- pageintom: '93'
-  image: v06/17-171-414-093.jpg
-- pageintom: '94'
-  image: v06/17-171-414-094.jpg
-- pageintom: '95'
-  image: v06/17-171-414-095.jpg
-- pageintom: '96'
-  image: v06/17-171-414-096.jpg
 sublists:
 - title: Список от 3 января 1938г. [Дальне-Восточный край - (Хабаровск)]
   listtitle: Список лиц - Дальне-Восточный край (Хабаровск),Камчатская область (Петропавловск)
@@ -46,9 +27,29 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '90'
-    page_image: v06/17-171-414-090.jpg
+- title: Список от 3 января 1938г. [Камчатская область - (Петропавловск)]
+  listtitle: Список лиц - Дальне-Восточный край (Хабаровск),Камчатская область (Петропавловск)
+  sublisttitle: Камчатская область - (Петропавловск)
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 37
+  geosub_ids:
+  - 118
+  group_ids:
+  - 0
+pages:
+- pageintom: '88'
+  image: v06/17-171-414-088.jpg
+  sublists: []
+- pageintom: '89'
+  image: v06/17-171-414-089.jpg
+  sublists: []
+- pageintom: '90'
+  image: v06/17-171-414-090.jpg
+  sublists:
+  - sublid: '449'
     persons:
     - id: '20456'
       num: '1'
@@ -150,8 +151,10 @@ sublists:
       num: '25'
       name: ЗЕЛЕНТИНОВ Григорий Васильевич
       spravka: true
-  - pageintom: '91'
-    page_image: v06/17-171-414-091.jpg
+- pageintom: '91'
+  image: v06/17-171-414-091.jpg
+  sublists:
+  - sublid: '449'
     persons:
     - id: '20481'
       num: '26'
@@ -268,8 +271,10 @@ sublists:
       num: '54'
       name: РОХИ Вильям Юрьевич
       spravka: true
-  - pageintom: '92'
-    page_image: v06/17-171-414-092.jpg
+- pageintom: '92'
+  image: v06/17-171-414-092.jpg
+  sublists:
+  - sublid: '449'
     persons:
     - id: '20510'
       num: '55'
@@ -368,8 +373,10 @@ sublists:
       num: '80'
       name: ЯКУБОВСКИЙ Лев Григорьевич
       spravka: true
-  - pageintom: '93'
-    page_image: v06/17-171-414-093.jpg
+- pageintom: '93'
+  image: v06/17-171-414-093.jpg
+  sublists:
+  - sublid: '449'
     persons:
     - id: '20536'
       num: '1'
@@ -377,21 +384,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ </u></p><p align="right"><u>2-я
         категория</u>
-- title: Список от 3 января 1938г. [Камчатская область - (Петропавловск)]
-  listtitle: Список лиц - Дальне-Восточный край (Хабаровск),Камчатская область (Петропавловск)
-  sublisttitle: Камчатская область - (Петропавловск)
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 37
-  geosub_ids:
-  - 118
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '94'
-    page_image: v06/17-171-414-094.jpg
+- pageintom: '94'
+  image: v06/17-171-414-094.jpg
+  sublists:
+  - sublid: '450'
     persons:
     - id: '24002'
       num: '1'
@@ -509,8 +505,10 @@ sublists:
       num: '24'
       name: НОВИЦКИЙ Николай Ефимович
       spravka: true
-  - pageintom: '95'
-    page_image: v06/17-171-414-095.jpg
+- pageintom: '95'
+  image: v06/17-171-414-095.jpg
+  sublists:
+  - sublid: '450'
     persons:
     - id: '24458'
       num: '25'
@@ -612,8 +610,10 @@ sublists:
       name: ЯНОВСКИЙ Аркадий Григорьевич
       doublesexists: true
       spravka: true
-  - pageintom: '96'
-    page_image: v06/17-171-414-096.jpg
+- pageintom: '96'
+  image: v06/17-171-414-096.jpg
+  sublists:
+  - sublid: '450'
     persons:
     - id: '20582'
       num: '1'

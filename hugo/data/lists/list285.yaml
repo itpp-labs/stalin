@@ -14,15 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '271'
-  image: v07/17-171-415-271.jpg
-- pageintom: '272'
-  image: v07/17-171-415-272.jpg
-- pageintom: '273'
-  image: v07/17-171-415-273.jpg
-- pageintom: '274'
-  image: v07/17-171-415-274.jpg
 sublists:
 - title: Список от 28 марта 1938г. [г.Свободный.Амурская ж.д.]
   listtitle: Список лиц - г.Свободный.Амурская ж.д.
@@ -36,9 +27,17 @@ sublists:
   - 140
   group_ids:
   - 13
-  pages:
-  - pageintom: '273'
-    page_image: v07/17-171-415-273.jpg
+pages:
+- pageintom: '271'
+  image: v07/17-171-415-271.jpg
+  sublists: []
+- pageintom: '272'
+  image: v07/17-171-415-272.jpg
+  sublists: []
+- pageintom: '273'
+  image: v07/17-171-415-273.jpg
+  sublists:
+  - sublid: '503'
     persons:
     - id: '29100'
       num: '1'
@@ -105,8 +104,10 @@ sublists:
       num: '17'
       name: ЮДЕНИЧ Борис Иосифович
       spravka: true
-  - pageintom: '274'
-    page_image: v07/17-171-415-274.jpg
+- pageintom: '274'
+  image: v07/17-171-415-274.jpg
+  sublists:
+  - sublid: '503'
     persons:
     - id: '29117'
       num: '1'

@@ -14,25 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '200'
-  image: v06/17-171-414-200.jpg
-- pageintom: '201'
-  image: v06/17-171-414-201.jpg
-- pageintom: '202'
-  image: v06/17-171-414-202.jpg
-- pageintom: '203'
-  image: v06/17-171-414-203.jpg
-- pageintom: '204'
-  image: v06/17-171-414-204.jpg
-- pageintom: '205'
-  image: v06/17-171-414-205.jpg
-- pageintom: '206'
-  image: v06/17-171-414-206.jpg
-- pageintom: '207'
-  image: v06/17-171-414-207.jpg
-- pageintom: '208'
-  image: v06/17-171-414-208.jpg
 sublists:
 - title: Список от 3 января 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Москва-центр(бывш.сотрудники НКВД)
@@ -47,9 +28,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '202'
-    page_image: v06/17-171-414-202.jpg
+- title: Список от 3 января 1938г. [Москва-центр (бывш.сотрудники НКВД)]
+  listtitle: Список лиц - Москва-центр, Москва-центр(бывш.сотрудники НКВД)
+  sublisttitle: Москва-центр (бывш.сотрудники НКВД)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
+pages:
+- pageintom: '200'
+  image: v06/17-171-414-200.jpg
+  sublists: []
+- pageintom: '201'
+  image: v06/17-171-414-201.jpg
+  sublists: []
+- pageintom: '202'
+  image: v06/17-171-414-202.jpg
+  sublists:
+  - sublid: '463'
     persons:
     - id: '22124'
       num: '1'
@@ -135,8 +136,10 @@ sublists:
       num: '21'
       name: ГРИНШТЕЙН Марк Львович
       spravka: true
-  - pageintom: '203'
-    page_image: v06/17-171-414-203.jpg
+- pageintom: '203'
+  image: v06/17-171-414-203.jpg
+  sublists:
+  - sublid: '463'
     persons:
     - id: '22145'
       num: '22'
@@ -258,8 +261,10 @@ sublists:
       name: САНДОМИРСКИЙ Арон Соломонович
       doublesexists: true
       spravka: true
-  - pageintom: '204'
-    page_image: v06/17-171-414-204.jpg
+- pageintom: '204'
+  image: v06/17-171-414-204.jpg
+  sublists:
+  - sublid: '463'
     persons:
     - id: '22174'
       num: '51'
@@ -342,8 +347,10 @@ sublists:
       num: '70'
       name: ЯНСОН Ян Эрнстович
       spravka: true
-  - pageintom: '205'
-    page_image: v06/17-171-414-205.jpg
+- pageintom: '205'
+  image: v06/17-171-414-205.jpg
+  sublists:
+  - sublid: '463'
     persons:
     - id: '22194'
       num: '1'
@@ -357,21 +364,16 @@ sublists:
       name: ТИЛЛЕ-БЕРНГАРДТ Генрих Германович
       gb_spravka: true
       spravka: true
-- title: Список от 3 января 1938г. [Москва-центр (бывш.сотрудники НКВД)]
-  listtitle: Список лиц - Москва-центр, Москва-центр(бывш.сотрудники НКВД)
-  sublisttitle: Москва-центр (бывш.сотрудники НКВД)
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 1
-  group_ids:
-  - 1
-  pages:
-  - pageintom: '208'
-    page_image: v06/17-171-414-208.jpg
+- pageintom: '206'
+  image: v06/17-171-414-206.jpg
+  sublists: []
+- pageintom: '207'
+  image: v06/17-171-414-207.jpg
+  sublists: []
+- pageintom: '208'
+  image: v06/17-171-414-208.jpg
+  sublists:
+  - sublid: '464'
     persons:
     - id: '22196'
       num: '1'

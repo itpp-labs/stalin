@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '171'
-  image: v04/17-171-412-171.jpg
-- pageintom: '172'
-  image: v04/17-171-412-172.jpg
-- pageintom: '173'
-  image: v04/17-171-412-173.jpg
-- pageintom: '174'
-  image: v04/17-171-412-174.jpg
-- pageintom: '175'
-  image: v04/17-171-412-175.jpg
-- pageintom: '176'
-  image: v04/17-171-412-176.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край
@@ -39,9 +26,17 @@ sublists:
   - 22
   group_ids:
   - 0
-  pages:
-  - pageintom: '173'
-    page_image: v04/17-171-412-173.jpg
+pages:
+- pageintom: '171'
+  image: v04/17-171-412-171.jpg
+  sublists: []
+- pageintom: '172'
+  image: v04/17-171-412-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v04/17-171-412-173.jpg
+  sublists:
+  - sublid: '68'
     persons:
     - id: '12643'
       num: '1'
@@ -157,8 +152,10 @@ sublists:
       num: '28'
       name: КУВШИД Иван Конович
       spravka: true
-  - pageintom: '174'
-    page_image: v04/17-171-412-174.jpg
+- pageintom: '174'
+  image: v04/17-171-412-174.jpg
+  sublists:
+  - sublid: '68'
     persons:
     - id: '12671'
       num: '29'
@@ -267,8 +264,10 @@ sublists:
       num: '56'
       name: ХАРЫБИН Сергей Николаевич
       spravka: true
-  - pageintom: '175'
-    page_image: v04/17-171-412-175.jpg
+- pageintom: '175'
+  image: v04/17-171-412-175.jpg
+  sublists:
+  - sublid: '68'
     persons:
     - id: '12699'
       num: '57'
@@ -286,8 +285,10 @@ sublists:
       num: '60'
       name: ЯЦЕНКО Николай Васильевич
       spravka: true
-  - pageintom: '176'
-    page_image: v04/17-171-412-176.jpg
+- pageintom: '176'
+  image: v04/17-171-412-176.jpg
+  sublists:
+  - sublid: '68'
     persons:
     - id: '12703'
       num: '1'

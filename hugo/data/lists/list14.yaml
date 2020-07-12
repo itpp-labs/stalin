@@ -13,25 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '114'
-  image: v01/17-171-409-114.jpg
-- pageintom: '115'
-  image: v01/17-171-409-115.jpg
-- pageintom: '116'
-  image: v01/17-171-409-116.jpg
-- pageintom: '117'
-  image: v01/17-171-409-117.jpg
-- pageintom: '118'
-  image: v01/17-171-409-118.jpg
-- pageintom: '119'
-  image: v01/17-171-409-119.jpg
-- pageintom: '120'
-  image: v01/17-171-409-120.jpg
-- pageintom: '121'
-  image: v01/17-171-409-121.jpg
-- pageintom: '122'
-  image: v01/17-171-409-122.jpg
 sublists:
 - title: Список от 28 апреля 1937 г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край
@@ -46,9 +27,17 @@ sublists:
   - 23
   group_ids:
   - 0
-  pages:
-  - pageintom: '116'
-    page_image: v01/17-171-409-116.jpg
+pages:
+- pageintom: '114'
+  image: v01/17-171-409-114.jpg
+  sublists: []
+- pageintom: '115'
+  image: v01/17-171-409-115.jpg
+  sublists: []
+- pageintom: '116'
+  image: v01/17-171-409-116.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1811'
       num: '1'
@@ -153,8 +142,10 @@ sublists:
       num: '26'
       name: ВЛАДИМИРОВ Георгий Андреевич
       spravka: true
-  - pageintom: '117'
-    page_image: v01/17-171-409-117.jpg
+- pageintom: '117'
+  image: v01/17-171-409-117.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1837'
       num: '27'
@@ -259,8 +250,10 @@ sublists:
       num: '55'
       name: КОЗЕЛИХИНА Любовь Алексеевна
       spravka: true
-  - pageintom: '118'
-    page_image: v01/17-171-409-118.jpg
+- pageintom: '118'
+  image: v01/17-171-409-118.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1866'
       num: '56'
@@ -366,8 +359,10 @@ sublists:
       num: '84'
       name: МУРАВЬЕВ Алексей Николаевич
       spravka: true
-  - pageintom: '119'
-    page_image: v01/17-171-409-119.jpg
+- pageintom: '119'
+  image: v01/17-171-409-119.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1895'
       num: '85'
@@ -472,8 +467,10 @@ sublists:
     - id: '1923'
       num: '113'
       name: СИНЮГИН Михаил Дмитриевич
-  - pageintom: '120'
-    page_image: v01/17-171-409-120.jpg
+- pageintom: '120'
+  image: v01/17-171-409-120.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1924'
       num: '114'
@@ -555,8 +552,10 @@ sublists:
     - id: '1946'
       num: '136'
       name: ЯЦЕНКО Сергей Ипполитович
-  - pageintom: '121'
-    page_image: v01/17-171-409-121.jpg
+- pageintom: '121'
+  image: v01/17-171-409-121.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1947'
       num: '1'
@@ -632,8 +631,10 @@ sublists:
       num: '20'
       name: ШЕКИХАЧЕВ Пшекан Дзадзуевич
       spravka: true
-  - pageintom: '122'
-    page_image: v01/17-171-409-122.jpg
+- pageintom: '122'
+  image: v01/17-171-409-122.jpg
+  sublists:
+  - sublid: '11'
     persons:
     - id: '1967'
       num: '1'

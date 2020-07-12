@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '195'
-  image: v02/17-171-410-195.jpg
-- pageintom: '196'
-  image: v02/17-171-410-196.jpg
-- pageintom: '197'
-  image: v02/17-171-410-197.jpg
-- pageintom: '198'
-  image: v02/17-171-410-198.jpg
-- pageintom: '199'
-  image: v02/17-171-410-199.jpg
-- pageintom: '200'
-  image: v02/17-171-410-200.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -39,9 +26,29 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '197'
-    page_image: v02/17-171-410-197.jpg
+- title: Список от 10 августа 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '195'
+  image: v02/17-171-410-195.jpg
+  sublists: []
+- pageintom: '196'
+  image: v02/17-171-410-196.jpg
+  sublists: []
+- pageintom: '197'
+  image: v02/17-171-410-197.jpg
+  sublists:
+  - sublid: '202'
     persons:
     - id: '5259'
       num: '1'
@@ -149,8 +156,10 @@ sublists:
       num: '26'
       name: ЗАБЛОЦКИЙ Василий Александрович
       spravka: true
-  - pageintom: '198'
-    page_image: v02/17-171-410-198.jpg
+- pageintom: '198'
+  image: v02/17-171-410-198.jpg
+  sublists:
+  - sublid: '202'
     persons:
     - id: '5285'
       num: '27'
@@ -276,8 +285,10 @@ sublists:
       num: '57'
       name: ОЛЬШЕВСКИЙ Фаддей Иванович
       spravka: true
-  - pageintom: '199'
-    page_image: v02/17-171-410-199.jpg
+- pageintom: '199'
+  image: v02/17-171-410-199.jpg
+  sublists:
+  - sublid: '202'
     persons:
     - id: '5316'
       num: '58'
@@ -379,21 +390,10 @@ sublists:
       name: ШКОЛЬНИКОВ Изя Абрамович
       primcoc: '[около ном.81 стоит 80]'
       spravka: true
-- title: Список от 10 августа 1937 г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '200'
-    page_image: v02/17-171-410-200.jpg
+- pageintom: '200'
+  image: v02/17-171-410-200.jpg
+  sublists:
+  - sublid: '203'
     persons:
     - id: '5340'
       num: '1'

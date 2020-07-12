@@ -13,39 +13,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '267'
-  image: v02/17-171-410-267.jpg
-- pageintom: '268'
-  image: v02/17-171-410-268.jpg
-- pageintom: '269'
-  image: v02/17-171-410-269.jpg
-- pageintom: '270'
-  image: v02/17-171-410-270.jpg
-- pageintom: '271'
-  image: v02/17-171-410-271.jpg
-- pageintom: '272'
-  image: v02/17-171-410-272.jpg
-- pageintom: '273'
-  image: v02/17-171-410-273.jpg
-- pageintom: '274'
-  image: v02/17-171-410-274.jpg
-- pageintom: '275'
-  image: v02/17-171-410-275.jpg
-- pageintom: '276'
-  image: v02/17-171-410-276.jpg
-- pageintom: '277'
-  image: v02/17-171-410-277.jpg
-- pageintom: '278'
-  image: v02/17-171-410-278.jpg
-- pageintom: '279'
-  image: v02/17-171-410-279.jpg
-- pageintom: '280'
-  image: v02/17-171-410-280.jpg
-- pageintom: '281'
-  image: v02/17-171-410-281.jpg
-- pageintom: '282'
-  image: v02/17-171-410-282.jpg
 sublists:
 - title: Список от 25 августа 1937 г. [Харьковский Военный Округ]
   listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
@@ -60,9 +27,119 @@ sublists:
   - 52
   group_ids:
   - 12
-  pages:
-  - pageintom: '268'
-    page_image: v02/17-171-410-268.jpg
+- title: Список от 25 августа 1937 г. [Киевский Военный Округ]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Киевский Военный Округ
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 2
+  group_ids:
+  - 12
+- title: Список от 25 августа 1937 г. [Центральный аппарат УГБ НКВД УССР]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Центральный аппарат УГБ НКВД УССР
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 2
+  group_ids:
+  - 0
+- title: Список от 25 августа 1937 г. [Киевская область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Киевская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 81
+  geosub_ids:
+  - 53
+  group_ids:
+  - 0
+- title: Список от 25 августа 1937 г. [Одесская область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Одесская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 84
+  geosub_ids:
+  - 54
+  group_ids:
+  - 0
+  - 2
+- title: Список от 25 августа 1937 г. [Днепропетровская область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Днепропетровская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 77
+  geosub_ids:
+  - 55
+  group_ids:
+  - 0
+- title: Список от 25 августа 1937 г. [Донецкая область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Донецкая область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 78
+  geosub_ids:
+  - 5
+  group_ids:
+  - 0
+- title: Список от 25 августа 1937 г. [Винницкая область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Винницкая область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 76
+  geosub_ids:
+  - 56
+  group_ids:
+  - 0
+- title: Список от 25 августа 1937 г. [Харьковская область]
+  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
+    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
+  sublisttitle: Харьковская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 86
+  geosub_ids:
+  - 57
+  group_ids:
+  - 0
+pages:
+- pageintom: '267'
+  image: v02/17-171-410-267.jpg
+  sublists: []
+- pageintom: '268'
+  image: v02/17-171-410-268.jpg
+  sublists:
+  - sublid: '206'
     persons:
     - id: '6375'
       num: '1'
@@ -127,8 +204,10 @@ sublists:
       name: ГАМПТОМСКИЙ <br/> Гуго-Альберт Готфридович
       primzv: Бригадный комиссар
       spravka: true
-  - pageintom: '269'
-    page_image: v02/17-171-410-269.jpg
+- pageintom: '269'
+  image: v02/17-171-410-269.jpg
+  sublists:
+  - sublid: '206'
     persons:
     - id: '6390'
       num: '16'
@@ -248,8 +327,10 @@ sublists:
       name: МОЧАЛОВ <br/> Константин Константинович
       primzv: Полковник
       spravka: true
-  - pageintom: '270'
-    page_image: v02/17-171-410-270.jpg
+- pageintom: '270'
+  image: v02/17-171-410-270.jpg
+  sublists:
+  - sublid: '206'
     persons:
     - id: '6418'
       num: '44'
@@ -373,36 +454,10 @@ sublists:
       num: '71'
       name: ЩЕРБАКОВ <br/> Максим Федорович
       primzv: Капитан
-  - pageintom: '282'
-    page_image: v02/17-171-410-282.jpg
-    persons:
-    - id: '6641'
-      num: '1'
-      name: АНДРИЕЦ Митрофан Савельевич
-      subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
-        />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ<br
-        />КОЛЛЕГИИ ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 2-й КАТЕГОРИИ </u></p><p
-        align="center"><u>ХАРЬКОВСКИЙ ВОЕННЫЙ ОКРУГ</u>
-    - id: '6642'
-      num: '2'
-      name: НЕЗЛИН <br/> Липа Яковлевич
-      primzv: Полковой комиссар
-- title: Список от 25 августа 1937 г. [Киевский Военный Округ]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Киевский Военный Округ
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 81
-  geosub_ids:
-  - 2
-  group_ids:
-  - 12
-  pages:
-  - pageintom: '271'
-    page_image: v02/17-171-410-271.jpg
+- pageintom: '271'
+  image: v02/17-171-410-271.jpg
+  sublists:
+  - sublid: '207'
     persons:
     - id: '6446'
       num: '72'
@@ -529,8 +584,10 @@ sublists:
     - id: '6472'
       num: '98'
       name: ЗИЛЬБЕРМАН Роман Иосифович
-  - pageintom: '272'
-    page_image: v02/17-171-410-272.jpg
+- pageintom: '272'
+  image: v02/17-171-410-272.jpg
+  sublists:
+  - sublid: '207'
     persons:
     - id: '6473'
       num: '99'
@@ -677,8 +734,10 @@ sublists:
       name: ОЙГЕНШТЕЙН <br/> Борис Михайлович
       primzv: Интендант 1 ранга
       spravka: true
-  - pageintom: '273'
-    page_image: v02/17-171-410-273.jpg
+- pageintom: '273'
+  image: v02/17-171-410-273.jpg
+  sublists:
+  - sublid: '207'
     persons:
     - id: '6503'
       num: '129'
@@ -807,8 +866,10 @@ sublists:
       name: СИДОРОВ <br/> Александр Георгиевич
       primzv: Интендант 1 ранга
       spravka: true
-  - pageintom: '274'
-    page_image: v02/17-171-410-274.jpg
+- pageintom: '274'
+  image: v02/17-171-410-274.jpg
+  sublists:
+  - sublid: '207'
     persons:
     - id: '6531'
       num: '157'
@@ -886,44 +947,13 @@ sublists:
       num: '174'
       name: ЯНУШЕВСКИЙ Антон Константинович
       doublesexists: true
-  - pageintom: '282'
-    page_image: v02/17-171-410-282.jpg
-    persons:
-    - id: '6643'
-      num: '3'
-      name: БАЗАРОВ <br/> Василий Авраамович
-      primzv: Майор
-      subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ:</u>
-    - id: '6644'
-      num: '4'
-      name: ЛИБЕРБЕРГ Рахмиэль Рувинович
-    - id: '6645'
-      num: '5'
-      name: РАЧКОВ Федор Филиппович
-      spravka: true
-    - id: '6646'
-      num: '6'
-      name: ФИЛЬЧЕНКОВ Иосиф Егорович
-    - id: '6647'
-      num: '7'
-      name: ХАРАЗ Борис Израйлевич
-      spravka: true
-- title: Список от 25 августа 1937 г. [Центральный аппарат УГБ НКВД УССР]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Центральный аппарат УГБ НКВД УССР
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 81
-  geosub_ids:
-  - 2
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '276'
-    page_image: v02/17-171-410-276.jpg
+- pageintom: '275'
+  image: v02/17-171-410-275.jpg
+  sublists: []
+- pageintom: '276'
+  image: v02/17-171-410-276.jpg
+  sublists:
+  - sublid: '208'
     persons:
     - id: '6549'
       num: '1'
@@ -987,22 +1017,10 @@ sublists:
     - id: '6565'
       num: '17'
       name: ЯРЕМЕНКО Антон Никитич
-- title: Список от 25 августа 1937 г. [Киевская область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Киевская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 81
-  geosub_ids:
-  - 53
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '277'
-    page_image: v02/17-171-410-277.jpg
+- pageintom: '277'
+  image: v02/17-171-410-277.jpg
+  sublists:
+  - sublid: '209'
     persons:
     - id: '6566'
       num: '18'
@@ -1098,8 +1116,10 @@ sublists:
     - id: '6592'
       num: '44'
       name: СУЛИМ Тимофей Кириллович
-  - pageintom: '278'
-    page_image: v02/17-171-410-278.jpg
+- pageintom: '278'
+  image: v02/17-171-410-278.jpg
+  sublists:
+  - sublid: '209'
     persons:
     - id: '6593'
       num: '45'
@@ -1114,23 +1134,7 @@ sublists:
     - id: '6596'
       num: '48'
       name: ШУХЕР Касьян Касьянович
-- title: Список от 25 августа 1937 г. [Одесская область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Одесская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 84
-  geosub_ids:
-  - 54
-  group_ids:
-  - 0
-  - 2
-  pages:
-  - pageintom: '278'
-    page_image: v02/17-171-410-278.jpg
+  - sublid: '210'
     persons:
     - id: '6597'
       num: '49'
@@ -1186,22 +1190,7 @@ sublists:
       num: '62'
       name: ШМИДТ Лаврентий Иванович
       spravka: true
-- title: Список от 25 августа 1937 г. [Днепропетровская область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Днепропетровская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 77
-  geosub_ids:
-  - 55
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '278'
-    page_image: v02/17-171-410-278.jpg
+  - sublid: '211'
     persons:
     - id: '6611'
       num: '63'
@@ -1218,8 +1207,10 @@ sublists:
       num: '66'
       name: МУСИЯК Спиридон Афанасьевич
       spravka: true
-  - pageintom: '279'
-    page_image: v02/17-171-410-279.jpg
+- pageintom: '279'
+  image: v02/17-171-410-279.jpg
+  sublists:
+  - sublid: '211'
     persons:
     - id: '6615'
       num: '67'
@@ -1236,22 +1227,7 @@ sublists:
     - id: '6618'
       num: '70'
       name: ШИКЕР Мечислав Каэтанович
-- title: Список от 25 августа 1937 г. [Донецкая область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Донецкая область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 78
-  geosub_ids:
-  - 5
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '279'
-    page_image: v02/17-171-410-279.jpg
+  - sublid: '212'
     persons:
     - id: '6619'
       num: '71'
@@ -1297,22 +1273,7 @@ sublists:
       num: '81'
       name: ЦУРИКОВ Федор Александрович
       spravka: true
-- title: Список от 25 августа 1937 г. [Винницкая область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Винницкая область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 76
-  geosub_ids:
-  - 56
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '279'
-    page_image: v02/17-171-410-279.jpg
+  - sublid: '213'
     persons:
     - id: '6630'
       num: '82'
@@ -1333,8 +1294,10 @@ sublists:
     - id: '6634'
       num: '86'
       name: ПИРОГОВ Даниил Петрович
-  - pageintom: '280'
-    page_image: v02/17-171-410-280.jpg
+- pageintom: '280'
+  image: v02/17-171-410-280.jpg
+  sublists:
+  - sublid: '213'
     persons:
     - id: '6635'
       num: '87'
@@ -1342,22 +1305,7 @@ sublists:
     - id: '6636'
       num: '88'
       name: СМОГОРЖЕВСКИЙ Цезарь Антонович
-- title: Список от 25 августа 1937 г. [Харьковская область]
-  listtitle: 'Список лиц: Харьковский ВО, Киевский ВО, центр.аппарат УГБ НКВД УССР,
-    Киевская, Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области'
-  sublisttitle: Харьковская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 86
-  geosub_ids:
-  - 57
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '280'
-    page_image: v02/17-171-410-280.jpg
+  - sublid: '214'
     persons:
     - id: '6637'
       num: '89'
@@ -1375,3 +1323,43 @@ sublists:
     - id: '6640'
       num: '92'
       name: ЮДИЦКИЙ Владимир Анисимович
+- pageintom: '281'
+  image: v02/17-171-410-281.jpg
+  sublists: []
+- pageintom: '282'
+  image: v02/17-171-410-282.jpg
+  sublists:
+  - sublid: '206'
+    persons:
+    - id: '6641'
+      num: '1'
+      name: АНДРИЕЦ Митрофан Савельевич
+      subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
+        />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ<br
+        />КОЛЛЕГИИ ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 2-й КАТЕГОРИИ </u></p><p
+        align="center"><u>ХАРЬКОВСКИЙ ВОЕННЫЙ ОКРУГ</u>
+    - id: '6642'
+      num: '2'
+      name: НЕЗЛИН <br/> Липа Яковлевич
+      primzv: Полковой комиссар
+  - sublid: '207'
+    persons:
+    - id: '6643'
+      num: '3'
+      name: БАЗАРОВ <br/> Василий Авраамович
+      primzv: Майор
+      subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ:</u>
+    - id: '6644'
+      num: '4'
+      name: ЛИБЕРБЕРГ Рахмиэль Рувинович
+    - id: '6645'
+      num: '5'
+      name: РАЧКОВ Федор Филиппович
+      spravka: true
+    - id: '6646'
+      num: '6'
+      name: ФИЛЬЧЕНКОВ Иосиф Егорович
+    - id: '6647'
+      num: '7'
+      name: ХАРАЗ Борис Израйлевич
+      spravka: true

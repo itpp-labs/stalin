@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '119'
-  image: v05/17-171-413-119.jpg
-- pageintom: '120'
-  image: v05/17-171-413-120.jpg
-- pageintom: '121'
-  image: v05/17-171-413-121.jpg
-- pageintom: '122'
-  image: v05/17-171-413-122.jpg
-- pageintom: '123'
-  image: v05/17-171-413-123.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Москва-центр (выписка)]
   listtitle: Список лиц (выписка) - Москва-центр
@@ -35,9 +24,26 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '120'
-    page_image: v05/17-171-413-120.jpg
+- title: Список от 22 ноября 1937г. [Москва-центр - список]
+  listtitle: Список лиц (выписка) - Москва-центр
+  sublisttitle: Москва-центр - список
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 0
+pages:
+- pageintom: '119'
+  image: v05/17-171-413-119.jpg
+  sublists: []
+- pageintom: '120'
+  image: v05/17-171-413-120.jpg
+  sublists:
+  - sublid: '274'
     persons:
     - id: '15469'
       num: '1'
@@ -141,8 +147,10 @@ sublists:
       name: ОРЛОВ Владимир Митрофанович
       doublesexists: true
       spravka: true
-  - pageintom: '121'
-    page_image: v05/17-171-413-121.jpg
+- pageintom: '121'
+  image: v05/17-171-413-121.jpg
+  sublists:
+  - sublid: '274'
     persons:
     - id: '15466'
       num: '21'
@@ -159,21 +167,10 @@ sublists:
       name: ХВЫЛЯ Андрей Ананьевич
       doublesexists: true
       spravka: true
-- title: Список от 22 ноября 1937г. [Москва-центр - список]
-  listtitle: Список лиц (выписка) - Москва-центр
-  sublisttitle: Москва-центр - список
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 1
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '122'
-    page_image: v05/17-171-413-122.jpg
+- pageintom: '122'
+  image: v05/17-171-413-122.jpg
+  sublists:
+  - sublid: '275'
     persons:
     - id: '15469'
       num: '1'
@@ -300,8 +297,10 @@ sublists:
       pometa_text: бить-бить
       doublesexists: true
       spravka: true
-  - pageintom: '123'
-    page_image: v05/17-171-413-123.jpg
+- pageintom: '123'
+  image: v05/17-171-413-123.jpg
+  sublists:
+  - sublid: '275'
     persons:
     - id: '15493'
       num: '25'

@@ -12,23 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '65'
-  image: v11/17-171-419-065.jpg
-- pageintom: '66'
-  image: v11/17-171-419-066.jpg
-- pageintom: '67'
-  image: v11/17-171-419-067.jpg
-- pageintom: '68'
-  image: v11/17-171-419-068.jpg
-- pageintom: '69'
-  image: v11/17-171-419-069.jpg
-- pageintom: '70'
-  image: v11/17-171-419-070.jpg
-- pageintom: '71'
-  image: v11/17-171-419-071.jpg
-- pageintom: '72'
-  image: v11/17-171-419-072.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [УНКВД по Дальстрою]
   listtitle: Список лиц - УНКВД по Дальстрою
@@ -42,9 +25,17 @@ sublists:
   - 161
   group_ids:
   - 14
-  pages:
-  - pageintom: '67'
-    page_image: v11/17-171-419-067.jpg
+pages:
+- pageintom: '65'
+  image: v11/17-171-419-065.jpg
+  sublists: []
+- pageintom: '66'
+  image: v11/17-171-419-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v11/17-171-419-067.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41532'
       num: '1'
@@ -127,8 +118,10 @@ sublists:
       num: '23'
       name: ГЛАЗЕНАП Михаил Сергеевич
       spravka: true
-  - pageintom: '68'
-    page_image: v11/17-171-419-068.jpg
+- pageintom: '68'
+  image: v11/17-171-419-068.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41555'
       num: '24'
@@ -219,8 +212,10 @@ sublists:
     - id: '41581'
       num: '50'
       name: КОНДАКОВ Григорий Евстигнеевич
-  - pageintom: '69'
-    page_image: v11/17-171-419-069.jpg
+- pageintom: '69'
+  image: v11/17-171-419-069.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41582'
       num: '51'
@@ -318,8 +313,10 @@ sublists:
     - id: '41609'
       num: '78'
       name: МЮЛЛЕР Константин Густавович
-  - pageintom: '70'
-    page_image: v11/17-171-419-070.jpg
+- pageintom: '70'
+  image: v11/17-171-419-070.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41610'
       num: '79'
@@ -422,8 +419,10 @@ sublists:
       num: '108'
       name: ТЮТРИН Апполинарий Васильевич
       spravka: true
-  - pageintom: '71'
-    page_image: v11/17-171-419-071.jpg
+- pageintom: '71'
+  image: v11/17-171-419-071.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41640'
       num: '109'
@@ -502,8 +501,10 @@ sublists:
     - id: '41662'
       num: '131'
       name: ЯШВИЛИ Михаил Ясонович
-  - pageintom: '72'
-    page_image: v11/17-171-419-072.jpg
+- pageintom: '72'
+  image: v11/17-171-419-072.jpg
+  sublists:
+  - sublid: '618'
     persons:
     - id: '41663'
       num: '1'

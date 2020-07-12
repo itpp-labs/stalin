@@ -13,27 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '82'
-  image: v08/17-171-416-082.jpg
-- pageintom: '83'
-  image: v08/17-171-416-083.jpg
-- pageintom: '84'
-  image: v08/17-171-416-084.jpg
-- pageintom: '85'
-  image: v08/17-171-416-085.jpg
-- pageintom: '86'
-  image: v08/17-171-416-086.jpg
-- pageintom: '87'
-  image: v08/17-171-416-087.jpg
-- pageintom: '88'
-  image: v08/17-171-416-088.jpg
-- pageintom: '89'
-  image: v08/17-171-416-089.jpg
-- pageintom: '90'
-  image: v08/17-171-416-090.jpg
-- pageintom: '91'
-  image: v08/17-171-416-091.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Татарская АССР]
   listtitle: Список лиц - Татарская АССР
@@ -47,9 +26,17 @@ sublists:
   - 29
   group_ids:
   - 0
-  pages:
-  - pageintom: '84'
-    page_image: v08/17-171-416-084.jpg
+pages:
+- pageintom: '82'
+  image: v08/17-171-416-082.jpg
+  sublists: []
+- pageintom: '83'
+  image: v08/17-171-416-083.jpg
+  sublists: []
+- pageintom: '84'
+  image: v08/17-171-416-084.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30144'
       num: '1'
@@ -137,8 +124,10 @@ sublists:
       num: '21'
       name: БАЕВ Гайнулхак Миннигулович
       spravka: true
-  - pageintom: '85'
-    page_image: v08/17-171-416-085.jpg
+- pageintom: '85'
+  image: v08/17-171-416-085.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30165'
       num: '22'
@@ -252,8 +241,10 @@ sublists:
       num: '49'
       name: ГРИШИН Сергей Андреевич
       spravka: true
-  - pageintom: '86'
-    page_image: v08/17-171-416-086.jpg
+- pageintom: '86'
+  image: v08/17-171-416-086.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30193'
       num: '50'
@@ -366,8 +357,10 @@ sublists:
       num: '77'
       name: КИРИЛЛОВ Сергей Димитриевич
       spravka: true
-  - pageintom: '87'
-    page_image: v08/17-171-416-087.jpg
+- pageintom: '87'
+  image: v08/17-171-416-087.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30221'
       num: '78'
@@ -478,8 +471,10 @@ sublists:
       num: '106'
       name: ПРАКСИН Виктор Николаевич
       spravka: true
-  - pageintom: '88'
-    page_image: v08/17-171-416-088.jpg
+- pageintom: '88'
+  image: v08/17-171-416-088.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30250'
       num: '107'
@@ -592,8 +587,10 @@ sublists:
       num: '134'
       name: ХАЙБУЛЛИН Зариф Шакирович
       spravka: true
-  - pageintom: '89'
-    page_image: v08/17-171-416-089.jpg
+- pageintom: '89'
+  image: v08/17-171-416-089.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30278'
       num: '135'
@@ -679,8 +676,10 @@ sublists:
       num: '155'
       name: ЯУШЕВ Гарифхан Касымович
       spravka: true
-  - pageintom: '90'
-    page_image: v08/17-171-416-090.jpg
+- pageintom: '90'
+  image: v08/17-171-416-090.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30299'
       num: '1'
@@ -748,8 +747,10 @@ sublists:
       num: '16'
       name: ХАМИДУЛЛИН Гаф Гиньятович
       spravka: true
-  - pageintom: '91'
-    page_image: v08/17-171-416-091.jpg
+- pageintom: '91'
+  image: v08/17-171-416-091.jpg
+  sublists:
+  - sublid: '548'
     persons:
     - id: '30315'
       num: '17'

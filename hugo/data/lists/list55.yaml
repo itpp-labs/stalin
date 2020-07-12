@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '154'
-  image: v02/17-171-410-154.jpg
-- pageintom: '155'
-  image: v02/17-171-410-155.jpg
-- pageintom: '156'
-  image: v02/17-171-410-156.jpg
-- pageintom: '157'
-  image: v02/17-171-410-157.jpg
-- pageintom: '158'
-  image: v02/17-171-410-158.jpg
-- pageintom: '159'
-  image: v02/17-171-410-159.jpg
-- pageintom: '160'
-  image: v02/17-171-410-160.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -42,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '156'
-    page_image: v02/17-171-410-156.jpg
+pages:
+- pageintom: '154'
+  image: v02/17-171-410-154.jpg
+  sublists: []
+- pageintom: '155'
+  image: v02/17-171-410-155.jpg
+  sublists: []
+- pageintom: '156'
+  image: v02/17-171-410-156.jpg
+  sublists:
+  - sublid: '40'
     persons:
     - id: '4920'
       num: '1'
@@ -144,8 +137,10 @@ sublists:
       num: '24'
       name: СКОРНЯКОВ Александр Николаевич
       spravka: true
-  - pageintom: '157'
-    page_image: v02/17-171-410-157.jpg
+- pageintom: '157'
+  image: v02/17-171-410-157.jpg
+  sublists:
+  - sublid: '40'
     persons:
     - id: '4944'
       num: '25'
@@ -167,8 +162,10 @@ sublists:
       num: '29'
       name: ФРИДЛЯНД Симон Львович
       spravka: true
-  - pageintom: '158'
-    page_image: v02/17-171-410-158.jpg
+- pageintom: '158'
+  image: v02/17-171-410-158.jpg
+  sublists:
+  - sublid: '40'
     persons:
     - id: '4949'
       num: '1'
@@ -177,8 +174,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ </u><br /><u> КАЗАХСКАЯ
         С.С.Р. </u></p><p align="right"><u>1-я категория</u>
-  - pageintom: '160'
-    page_image: v02/17-171-410-160.jpg
+- pageintom: '159'
+  image: v02/17-171-410-159.jpg
+  sublists: []
+- pageintom: '160'
+  image: v02/17-171-410-160.jpg
+  sublists:
+  - sublid: '40'
     persons:
     - id: '4950'
       num: '1'

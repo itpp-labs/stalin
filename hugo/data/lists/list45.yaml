@@ -13,37 +13,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '77'
-  image: v02/17-171-410-077.jpg
-- pageintom: '78'
-  image: v02/17-171-410-078.jpg
-- pageintom: '79'
-  image: v02/17-171-410-079.jpg
-- pageintom: '80'
-  image: v02/17-171-410-080.jpg
-- pageintom: '81'
-  image: v02/17-171-410-081.jpg
-- pageintom: '82'
-  image: v02/17-171-410-082.jpg
-- pageintom: '83'
-  image: v02/17-171-410-083.jpg
-- pageintom: '84'
-  image: v02/17-171-410-084.jpg
-- pageintom: '85'
-  image: v02/17-171-410-085.jpg
-- pageintom: '86'
-  image: v02/17-171-410-086.jpg
-- pageintom: '87'
-  image: v02/17-171-410-087.jpg
-- pageintom: '88'
-  image: v02/17-171-410-088.jpg
-- pageintom: '89'
-  image: v02/17-171-410-089.jpg
-- pageintom: '90'
-  image: v02/17-171-410-090.jpg
-- pageintom: '91'
-  image: v02/17-171-410-091.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Саратовская область]
   listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
@@ -59,9 +28,143 @@ sublists:
   - 14
   group_ids:
   - 0
-  pages:
-  - pageintom: '79'
-    page_image: v02/17-171-410-079.jpg
+- title: Список от 25 июля 1937 г. [Курская область]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Курская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 45
+  geosub_ids:
+  - 32
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Калининская область]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Калининская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Украинская ССР]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 75
+  geosub_ids:
+  - 47
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Белорусская ССР]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Белорусская ССР
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 37
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Дальне-Восточный край]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Дальне-Восточный край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 29
+  geosub_ids:
+  - 48
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Сталинградская область]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Сталинградская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 15
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Красноярский край]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Омская область]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Омская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 21
+  group_ids:
+  - 0
+- title: Список от 25 июля 1937 г. [Крымская АССР]
+  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
+    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
+    Омская обл., Крымская АССР'
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '77'
+  image: v02/17-171-410-077.jpg
+  sublists: []
+- pageintom: '78'
+  image: v02/17-171-410-078.jpg
+  sublists: []
+- pageintom: '79'
+  image: v02/17-171-410-079.jpg
+  sublists:
+  - sublid: '182'
     persons:
     - id: '4258'
       num: '1'
@@ -182,8 +285,10 @@ sublists:
       num: '27'
       name: ФОГЕЛЬ Иван Карлович
       spravka: true
-  - pageintom: '80'
-    page_image: v02/17-171-410-080.jpg
+- pageintom: '80'
+  image: v02/17-171-410-080.jpg
+  sublists:
+  - sublid: '182'
     persons:
     - id: '4285'
       num: '1'
@@ -267,23 +372,10 @@ sublists:
       num: '21'
       name: ЦИФРИНОВИЧ Зиновий Ефимович
       spravka: true
-- title: Список от 25 июля 1937 г. [Курская область]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Курская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 45
-  geosub_ids:
-  - 32
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '81'
-    page_image: v02/17-171-410-081.jpg
+- pageintom: '81'
+  image: v02/17-171-410-081.jpg
+  sublists:
+  - sublid: '183'
     persons:
     - id: '4306'
       num: '1'
@@ -377,8 +469,10 @@ sublists:
       num: '23'
       name: ТОЛМАЧЕВА Клавдия Александровна
       spravka: true
-  - pageintom: '82'
-    page_image: v02/17-171-410-082.jpg
+- pageintom: '82'
+  image: v02/17-171-410-082.jpg
+  sublists:
+  - sublid: '183'
     persons:
     - id: '4329'
       num: '1'
@@ -409,23 +503,10 @@ sublists:
       num: '7'
       name: ЩЕПАНОВ Василий Дмитриевич
       spravka: true
-- title: Список от 25 июля 1937 г. [Калининская область]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Калининская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 35
-  geosub_ids:
-  - 46
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '83'
-    page_image: v02/17-171-410-083.jpg
+- pageintom: '83'
+  image: v02/17-171-410-083.jpg
+  sublists:
+  - sublid: '184'
     persons:
     - id: '4336'
       num: '1'
@@ -464,8 +545,10 @@ sublists:
     - id: '4345'
       num: '10'
       name: ФРУКТОВ Николай Васильевич
-  - pageintom: '84'
-    page_image: v02/17-171-410-084.jpg
+- pageintom: '84'
+  image: v02/17-171-410-084.jpg
+  sublists:
+  - sublid: '184'
     persons:
     - id: '4346'
       num: '1'
@@ -475,23 +558,10 @@ sublists:
     - id: '4347'
       num: '2'
       name: СЕРГЕЕВ Илья Сергеевич
-- title: Список от 25 июля 1937 г. [Украинская ССР]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Украинская ССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 75
-  geosub_ids:
-  - 47
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '85'
-    page_image: v02/17-171-410-085.jpg
+- pageintom: '85'
+  image: v02/17-171-410-085.jpg
+  sublists:
+  - sublid: '185'
     persons:
     - id: '4348'
       num: '1'
@@ -524,23 +594,10 @@ sublists:
       name: ЯРОШЕВСКИЙ Константин Петрович
       doublesexists: true
       spravka: true
-- title: Список от 25 июля 1937 г. [Белорусская ССР]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Белорусская ССР
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 4
-  geosub_ids:
-  - 37
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '86'
-    page_image: v02/17-171-410-086.jpg
+- pageintom: '86'
+  image: v02/17-171-410-086.jpg
+  sublists:
+  - sublid: '186'
     persons:
     - id: '4354'
       num: '1'
@@ -548,23 +605,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         категория.</u>
-- title: Список от 25 июля 1937 г. [Дальне-Восточный край]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Дальне-Восточный край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 29
-  geosub_ids:
-  - 48
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '87'
-    page_image: v02/17-171-410-087.jpg
+- pageintom: '87'
+  image: v02/17-171-410-087.jpg
+  sublists:
+  - sublid: '187'
     persons:
     - id: '25212'
       num: '1'
@@ -573,23 +617,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ </u></p><p align="right"><u>1-я
         категория.</u>
-- title: Список от 25 июля 1937 г. [Сталинградская область]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Сталинградская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 62
-  geosub_ids:
-  - 15
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '88'
-    page_image: v02/17-171-410-088.jpg
+- pageintom: '88'
+  image: v02/17-171-410-088.jpg
+  sublists:
+  - sublid: '188'
     persons:
     - id: '4356'
       num: '1'
@@ -600,23 +631,10 @@ sublists:
       num: '2'
       name: ГВОЗДИКОВ Георгий Павлович
       spravka: true
-- title: Список от 25 июля 1937 г. [Красноярский край]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Красноярский край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 13
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '89'
-    page_image: v02/17-171-410-089.jpg
+- pageintom: '89'
+  image: v02/17-171-410-089.jpg
+  sublists:
+  - sublid: '189'
     persons:
     - id: '4358'
       num: '1'
@@ -624,23 +642,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         категория.</u>
-- title: Список от 25 июля 1937 г. [Омская область]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Омская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 51
-  geosub_ids:
-  - 21
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '90'
-    page_image: v02/17-171-410-090.jpg
+- pageintom: '90'
+  image: v02/17-171-410-090.jpg
+  sublists:
+  - sublid: '190'
     persons:
     - id: '4359'
       num: '1'
@@ -656,23 +661,10 @@ sublists:
       num: '3'
       name: ФЕТИСКИН Гавриил Иванович
       spravka: true
-- title: Список от 25 июля 1937 г. [Крымская АССР]
-  listtitle: 'Список лиц: Саратовская, Курская, Калининская области, Украинская ССР,
-    Белорусская ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край,
-    Омская обл., Крымская АССР'
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '91'
-    page_image: v02/17-171-410-091.jpg
+- pageintom: '91'
+  image: v02/17-171-410-091.jpg
+  sublists:
+  - sublid: '191'
     persons:
     - id: '4362'
       num: '1'

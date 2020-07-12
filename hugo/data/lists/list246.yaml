@@ -14,23 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '221'
-  image: v03/17-171-411-221.jpg
-- pageintom: '222'
-  image: v03/17-171-411-222.jpg
-- pageintom: '223'
-  image: v03/17-171-411-223.jpg
-- pageintom: '224'
-  image: v03/17-171-411-224.jpg
-- pageintom: '225'
-  image: v03/17-171-411-225.jpg
-- pageintom: '226'
-  image: v03/17-171-411-226.jpg
-- pageintom: '227'
-  image: v03/17-171-411-227.jpg
-- pageintom: '228'
-  image: v03/17-171-411-228.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Днепропетр.Сталинская ж.д.]
   listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
@@ -45,9 +28,56 @@ sublists:
   - 67
   group_ids:
   - 13
-  pages:
-  - pageintom: '223'
-    page_image: v03/17-171-411-223.jpg
+- title: Список от 21 октября 1937г. [Челябин.Южно-Урал.ж.д.]
+  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
+    ж.д.; Оренбургская, Воронежская области'
+  sublisttitle: Челябин.Южно-Урал.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 13
+- title: Список от 21 октября 1937г. [Оренбургская область]
+  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
+    ж.д.; Оренбургская, Воронежская области'
+  sublisttitle: Оренбургская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 38
+  group_ids:
+  - 0
+- title: Список от 21 октября 1937г. [Воронежская область]
+  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
+    ж.д.; Оренбургская, Воронежская области'
+  sublisttitle: Воронежская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 25
+  geosub_ids:
+  - 35
+  group_ids:
+  - 0
+pages:
+- pageintom: '221'
+  image: v03/17-171-411-221.jpg
+  sublists: []
+- pageintom: '222'
+  image: v03/17-171-411-222.jpg
+  sublists: []
+- pageintom: '223'
+  image: v03/17-171-411-223.jpg
+  sublists:
+  - sublid: '394'
     persons:
     - id: '10241'
       num: '1'
@@ -130,8 +160,10 @@ sublists:
     - id: '10262'
       num: '22'
       name: ЧЕРНЫШЕВ Павел Никифорович
-  - pageintom: '224'
-    page_image: v03/17-171-411-224.jpg
+- pageintom: '224'
+  image: v03/17-171-411-224.jpg
+  sublists:
+  - sublid: '394'
     persons:
     - id: '10263'
       num: '1'
@@ -192,22 +224,10 @@ sublists:
       num: '15'
       name: ФЕЛЬСНЕР Петр Владимирович
       spravka: true
-- title: Список от 21 октября 1937г. [Челябин.Южно-Урал.ж.д.]
-  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
-    ж.д.; Оренбургская, Воронежская области'
-  sublisttitle: Челябин.Южно-Урал.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 77
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '225'
-    page_image: v03/17-171-411-225.jpg
+- pageintom: '225'
+  image: v03/17-171-411-225.jpg
+  sublists:
+  - sublid: '395'
     persons:
     - id: '10278'
       num: '1'
@@ -264,8 +284,10 @@ sublists:
       num: '14'
       name: ТРЕНИХИН Карп Степанович
       spravka: true
-  - pageintom: '226'
-    page_image: v03/17-171-411-226.jpg
+- pageintom: '226'
+  image: v03/17-171-411-226.jpg
+  sublists:
+  - sublid: '395'
     persons:
     - id: '10292'
       num: '1'
@@ -298,22 +320,10 @@ sublists:
     - id: '10299'
       num: '8'
       name: ФЕТИСОВ Александр Степанович
-- title: Список от 21 октября 1937г. [Оренбургская область]
-  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
-    ж.д.; Оренбургская, Воронежская области'
-  sublisttitle: Оренбургская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 53
-  geosub_ids:
-  - 38
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '227'
-    page_image: v03/17-171-411-227.jpg
+- pageintom: '227'
+  image: v03/17-171-411-227.jpg
+  sublists:
+  - sublid: '396'
     persons:
     - id: '10300'
       num: '1'
@@ -377,22 +387,10 @@ sublists:
       num: '15'
       name: ЧЕРНОВ Михаил Данилович
       spravka: true
-- title: Список от 21 октября 1937г. [Воронежская область]
-  listtitle: 'Список лиц: Днепропетровск. Сталинская ж.д.; Челябинск. Южно-Уральская
-    ж.д.; Оренбургская, Воронежская области'
-  sublisttitle: Воронежская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 25
-  geosub_ids:
-  - 35
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '228'
-    page_image: v03/17-171-411-228.jpg
+- pageintom: '228'
+  image: v03/17-171-411-228.jpg
+  sublists:
+  - sublid: '397'
     persons:
     - id: '10315'
       num: '1'

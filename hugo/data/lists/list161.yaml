@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '47'
-  image: v09/17-171-417-047.jpg
-- pageintom: '48'
-  image: v09/17-171-417-048.jpg
-- pageintom: '49'
-  image: v09/17-171-417-049.jpg
-- pageintom: '50'
-  image: v09/17-171-417-050.jpg
-- pageintom: '51'
-  image: v09/17-171-417-051.jpg
-- pageintom: '52'
-  image: v09/17-171-417-052.jpg
 sublists:
 - title: Список от 10.VI.38г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -37,9 +24,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '49'
-    page_image: v09/17-171-417-049.jpg
+pages:
+- pageintom: '47'
+  image: v09/17-171-417-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v09/17-171-417-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v09/17-171-417-049.jpg
+  sublists:
+  - sublid: '103'
     persons:
     - id: '33920'
       num: '1'
@@ -123,8 +118,10 @@ sublists:
       num: '20'
       name: ГРАУДИН Ян Адамович
       spravka: true
-  - pageintom: '50'
-    page_image: v09/17-171-417-050.jpg
+- pageintom: '50'
+  image: v09/17-171-417-050.jpg
+  sublists:
+  - sublid: '103'
     persons:
     - id: '33940'
       num: '21'
@@ -234,8 +231,10 @@ sublists:
       num: '47'
       name: МАЛЬЦЕВ Александр Федорович
       spravka: true
-  - pageintom: '51'
-    page_image: v09/17-171-417-051.jpg
+- pageintom: '51'
+  image: v09/17-171-417-051.jpg
+  sublists:
+  - sublid: '103'
     persons:
     - id: '33967'
       num: '48'
@@ -345,8 +344,10 @@ sublists:
       num: '74'
       name: ЯГУШЕВСКИЙ Владимир Владиславович
       spravka: true
-  - pageintom: '52'
-    page_image: v09/17-171-417-052.jpg
+- pageintom: '52'
+  image: v09/17-171-417-052.jpg
+  sublists:
+  - sublid: '103'
     persons:
     - id: '33994'
       num: '1'

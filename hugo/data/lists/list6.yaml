@@ -14,29 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '54'
-  image: v01/17-171-409-054.jpg
-- pageintom: '55'
-  image: v01/17-171-409-055.jpg
-- pageintom: '56'
-  image: v01/17-171-409-056.jpg
-- pageintom: '57'
-  image: v01/17-171-409-057.jpg
-- pageintom: '58'
-  image: v01/17-171-409-058.jpg
-- pageintom: '59'
-  image: v01/17-171-409-059.jpg
-- pageintom: '60'
-  image: v01/17-171-409-060.jpg
-- pageintom: '61'
-  image: v01/17-171-409-061.jpg
-- pageintom: '62'
-  image: v01/17-171-409-062.jpg
-- pageintom: '63'
-  image: v01/17-171-409-063.jpg
-- pageintom: '64'
-  image: v01/17-171-409-064.jpg
 sublists:
 - title: Список от апреля 1937 г. [г.Ленинград]
   listtitle: Список лиц - г.Ленинград
@@ -50,9 +27,17 @@ sublists:
   - 20
   group_ids:
   - 0
-  pages:
-  - pageintom: '56'
-    page_image: v01/17-171-409-056.jpg
+pages:
+- pageintom: '54'
+  image: v01/17-171-409-054.jpg
+  sublists: []
+- pageintom: '55'
+  image: v01/17-171-409-055.jpg
+  sublists: []
+- pageintom: '56'
+  image: v01/17-171-409-056.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '956'
       num: '1'
@@ -161,8 +146,10 @@ sublists:
       num: '27'
       name: ВИЛЕНСКИЙ Яков Абрамович
       spravka: true
-  - pageintom: '57'
-    page_image: v01/17-171-409-057.jpg
+- pageintom: '57'
+  image: v01/17-171-409-057.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '983'
       num: '28'
@@ -280,8 +267,10 @@ sublists:
       num: '56'
       name: ИГНАТЬЕВ Сергей Федорович
       spravka: true
-  - pageintom: '58'
-    page_image: v01/17-171-409-058.jpg
+- pageintom: '58'
+  image: v01/17-171-409-058.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1012'
       num: '57'
@@ -397,8 +386,10 @@ sublists:
       num: '85'
       name: МИЧУНСКИЙ Илья Аркадьевич
       spravka: true
-  - pageintom: '59'
-    page_image: v01/17-171-409-059.jpg
+- pageintom: '59'
+  image: v01/17-171-409-059.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1041'
       num: '86'
@@ -516,8 +507,10 @@ sublists:
       num: '114'
       name: СМИРНОВ Валентин Сергеевич
       spravka: true
-  - pageintom: '60'
-    page_image: v01/17-171-409-060.jpg
+- pageintom: '60'
+  image: v01/17-171-409-060.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1070'
       num: '115'
@@ -632,8 +625,10 @@ sublists:
       num: '143'
       name: ШЕРИН Михаил Петрович
       spravka: true
-  - pageintom: '61'
-    page_image: v01/17-171-409-061.jpg
+- pageintom: '61'
+  image: v01/17-171-409-061.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1099'
       num: '144'
@@ -643,8 +638,10 @@ sublists:
       num: '145'
       name: ЯРОВ Василий Андреевич
       spravka: true
-  - pageintom: '62'
-    page_image: v01/17-171-409-062.jpg
+- pageintom: '62'
+  image: v01/17-171-409-062.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1101'
       num: '1'
@@ -737,8 +734,10 @@ sublists:
     - id: '1126'
       num: '26'
       name: МАКАШЕВА-РОЗОВСКАЯ Евгения Захаровна
-  - pageintom: '63'
-    page_image: v01/17-171-409-063.jpg
+- pageintom: '63'
+  image: v01/17-171-409-063.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1127'
       num: '27'
@@ -824,8 +823,10 @@ sublists:
       num: '50'
       name: ЯСИНСКИЙ Никита Феофилович
       spravka: true
-  - pageintom: '64'
-    page_image: v01/17-171-409-064.jpg
+- pageintom: '64'
+  image: v01/17-171-409-064.jpg
+  sublists:
+  - sublid: '3'
     persons:
     - id: '1151'
       num: '1'

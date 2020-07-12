@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '214'
-  image: v07/17-171-415-214.jpg
-- pageintom: '215'
-  image: v07/17-171-415-215.jpg
-- pageintom: '216'
-  image: v07/17-171-415-216.jpg
-- pageintom: '217'
-  image: v07/17-171-415-217.jpg
-- pageintom: '218'
-  image: v07/17-171-415-218.jpg
-- pageintom: '219'
-  image: v07/17-171-415-219.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Туркменская ССР]
   listtitle: Список лиц - Туркменская ССР
@@ -40,9 +27,17 @@ sublists:
   - 59
   group_ids:
   - 0
-  pages:
-  - pageintom: '216'
-    page_image: v07/17-171-415-216.jpg
+pages:
+- pageintom: '214'
+  image: v07/17-171-415-214.jpg
+  sublists: []
+- pageintom: '215'
+  image: v07/17-171-415-215.jpg
+  sublists: []
+- pageintom: '216'
+  image: v07/17-171-415-216.jpg
+  sublists:
+  - sublid: '497'
     persons:
     - id: '28303'
       num: '1'
@@ -130,8 +125,10 @@ sublists:
       num: '24'
       name: ИЛЬБАЕВ Ата Агаевич
       spravka: true
-  - pageintom: '217'
-    page_image: v07/17-171-415-217.jpg
+- pageintom: '217'
+  image: v07/17-171-415-217.jpg
+  sublists:
+  - sublid: '497'
     persons:
     - id: '28327'
       num: '25'
@@ -229,8 +226,10 @@ sublists:
       num: '51'
       name: НИЯЗОВ Ораз Мухамед
       spravka: true
-  - pageintom: '218'
-    page_image: v07/17-171-415-218.jpg
+- pageintom: '218'
+  image: v07/17-171-415-218.jpg
+  sublists:
+  - sublid: '497'
     persons:
     - id: '28354'
       num: '52'
@@ -304,8 +303,10 @@ sublists:
       num: '72'
       name: ЯКУБОВ Аскар Хаитович
       spravka: true
-  - pageintom: '219'
-    page_image: v07/17-171-415-219.jpg
+- pageintom: '219'
+  image: v07/17-171-415-219.jpg
+  sublists:
+  - sublid: '497'
     persons:
     - id: '28375'
       num: '1'

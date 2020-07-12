@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '180'
-  image: v03/17-171-411-180.jpg
-- pageintom: '181'
-  image: v03/17-171-411-181.jpg
-- pageintom: '182'
-  image: v03/17-171-411-182.jpg
-- pageintom: '183'
-  image: v03/17-171-411-183.jpg
-- pageintom: '184'
-  image: v03/17-171-411-184.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Восточно-Сибирская обл.]
   listtitle: 'Список лиц: Восточно-Сибирская обл.'
@@ -36,9 +25,17 @@ sublists:
   - 34
   group_ids:
   - 0
-  pages:
-  - pageintom: '182'
-    page_image: v03/17-171-411-182.jpg
+pages:
+- pageintom: '180'
+  image: v03/17-171-411-180.jpg
+  sublists: []
+- pageintom: '181'
+  image: v03/17-171-411-181.jpg
+  sublists: []
+- pageintom: '182'
+  image: v03/17-171-411-182.jpg
+  sublists:
+  - sublid: '360'
     persons:
     - id: '9731'
       num: '1'
@@ -139,8 +136,10 @@ sublists:
       num: '26'
       name: КРЯТ Павел Дмитриевич
       spravka: true
-  - pageintom: '183'
-    page_image: v03/17-171-411-183.jpg
+- pageintom: '183'
+  image: v03/17-171-411-183.jpg
+  sublists:
+  - sublid: '360'
     persons:
     - id: '9757'
       num: '27'
@@ -195,8 +194,10 @@ sublists:
     - id: '9772'
       num: '42'
       name: ЯШИН Василий Васильевич
-  - pageintom: '184'
-    page_image: v03/17-171-411-184.jpg
+- pageintom: '184'
+  image: v03/17-171-411-184.jpg
+  sublists:
+  - sublid: '360'
     persons:
     - id: '9773'
       num: '1'

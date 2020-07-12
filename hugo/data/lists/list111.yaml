@@ -12,43 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '12'
-  image: v05/17-171-413-012.jpg
-- pageintom: '13'
-  image: v05/17-171-413-013.jpg
-- pageintom: '14'
-  image: v05/17-171-413-014.jpg
-- pageintom: '15'
-  image: v05/17-171-413-015.jpg
-- pageintom: '16'
-  image: v05/17-171-413-016.jpg
-- pageintom: '17'
-  image: v05/17-171-413-017.jpg
-- pageintom: '18'
-  image: v05/17-171-413-018.jpg
-- pageintom: '19'
-  image: v05/17-171-413-019.jpg
-- pageintom: '20'
-  image: v05/17-171-413-020.jpg
-- pageintom: '21'
-  image: v05/17-171-413-021.jpg
-- pageintom: '22'
-  image: v05/17-171-413-022.jpg
-- pageintom: '23'
-  image: v05/17-171-413-023.jpg
-- pageintom: '24'
-  image: v05/17-171-413-024.jpg
-- pageintom: '25'
-  image: v05/17-171-413-025.jpg
-- pageintom: '26'
-  image: v05/17-171-413-026.jpg
-- pageintom: '27'
-  image: v05/17-171-413-027.jpg
-- pageintom: '28'
-  image: v05/17-171-413-028.jpg
-- pageintom: '29'
-  image: v05/17-171-413-029.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -62,9 +25,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '14'
-    page_image: v05/17-171-413-014.jpg
+pages:
+- pageintom: '12'
+  image: v05/17-171-413-012.jpg
+  sublists: []
+- pageintom: '13'
+  image: v05/17-171-413-013.jpg
+  sublists: []
+- pageintom: '14'
+  image: v05/17-171-413-014.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14095'
       num: '1'
@@ -168,8 +139,10 @@ sublists:
       num: '25'
       name: АРХАНГЕЛЬСКИЙ Николай Павлович
       spravka: true
-  - pageintom: '15'
-    page_image: v05/17-171-413-015.jpg
+- pageintom: '15'
+  image: v05/17-171-413-015.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14120'
       num: '26'
@@ -280,8 +253,10 @@ sublists:
       num: '52'
       name: БОРИСОВ Василий Захарьевич
       spravka: true
-  - pageintom: '16'
-    page_image: v05/17-171-413-016.jpg
+- pageintom: '16'
+  image: v05/17-171-413-016.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14147'
       num: '53'
@@ -393,8 +368,10 @@ sublists:
       num: '79'
       name: ГВЕЛЕСИАНИ Андрей Георгиевич
       spravka: true
-  - pageintom: '17'
-    page_image: v05/17-171-413-017.jpg
+- pageintom: '17'
+  image: v05/17-171-413-017.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14174'
       num: '80'
@@ -515,8 +492,10 @@ sublists:
       num: '108'
       name: ГУГУШВИЛИ Николай Александрович
       spravka: true
-  - pageintom: '18'
-    page_image: v05/17-171-413-018.jpg
+- pageintom: '18'
+  image: v05/17-171-413-018.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14203'
       num: '109'
@@ -623,8 +602,10 @@ sublists:
       num: '134'
       name: ДЖИНОРИДЗЕ Шалва Мелитонович
       spravka: true
-  - pageintom: '19'
-    page_image: v05/17-171-413-019.jpg
+- pageintom: '19'
+  image: v05/17-171-413-019.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14229'
       num: '135'
@@ -735,8 +716,10 @@ sublists:
       num: '161'
       name: ИВАНЯН Арам Исакович
       spravka: true
-  - pageintom: '20'
-    page_image: v05/17-171-413-020.jpg
+- pageintom: '20'
+  image: v05/17-171-413-020.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14256'
       num: '162'
@@ -845,8 +828,10 @@ sublists:
       num: '188'
       name: КАСУМОВ Али Абдул Баги Оглы
       spravka: true
-  - pageintom: '21'
-    page_image: v05/17-171-413-021.jpg
+- pageintom: '21'
+  image: v05/17-171-413-021.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14283'
       num: '189'
@@ -965,8 +950,10 @@ sublists:
       num: '217'
       name: ЛАЗАРЕВ Игорь Владимирович
       spravka: true
-  - pageintom: '22'
-    page_image: v05/17-171-413-022.jpg
+- pageintom: '22'
+  image: v05/17-171-413-022.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '21490'
       num: '218'
@@ -1085,8 +1072,10 @@ sublists:
       num: '246'
       name: МЕЙСЕР Николай Андреевич
       spravka: true
-  - pageintom: '23'
-    page_image: v05/17-171-413-023.jpg
+- pageintom: '23'
+  image: v05/17-171-413-023.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14341'
       num: '247'
@@ -1204,8 +1193,10 @@ sublists:
       num: '275'
       name: НИЖАРАДЗЕ Анаподист Асланович
       spravka: true
-  - pageintom: '24'
-    page_image: v05/17-171-413-024.jpg
+- pageintom: '24'
+  image: v05/17-171-413-024.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14370'
       num: '276'
@@ -1323,8 +1314,10 @@ sublists:
       num: '304'
       name: ПОТКОВ Владимир Абрамович
       spravka: true
-  - pageintom: '25'
-    page_image: v05/17-171-413-025.jpg
+- pageintom: '25'
+  image: v05/17-171-413-025.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14399'
       num: '305'
@@ -1438,8 +1431,10 @@ sublists:
       num: '332'
       name: СОСЕЛИЯ Мелитон Михайлович
       spravka: true
-  - pageintom: '26'
-    page_image: v05/17-171-413-026.jpg
+- pageintom: '26'
+  image: v05/17-171-413-026.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14427'
       num: '333'
@@ -1558,8 +1553,10 @@ sublists:
       num: '361'
       name: ФОРЕР Христофор Христофорович
       spravka: true
-  - pageintom: '27'
-    page_image: v05/17-171-413-027.jpg
+- pageintom: '27'
+  image: v05/17-171-413-027.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14456'
       num: '362'
@@ -1674,8 +1671,10 @@ sublists:
       num: '389'
       name: ЦХОВРЕБАШВИЛИ Александр Андреевич
       spravka: true
-  - pageintom: '28'
-    page_image: v05/17-171-413-028.jpg
+- pageintom: '28'
+  image: v05/17-171-413-028.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14484'
       num: '390'
@@ -1794,8 +1793,10 @@ sublists:
       num: '418'
       name: ЧХИКВИШВИЛИ Петр Моисеевич
       spravka: true
-  - pageintom: '29'
-    page_image: v05/17-171-413-029.jpg
+- pageintom: '29'
+  image: v05/17-171-413-029.jpg
+  sublists:
+  - sublid: '77'
     persons:
     - id: '14513'
       num: '419'

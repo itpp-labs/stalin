@@ -13,35 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '23'
-  image: v04/17-171-412-023.jpg
-- pageintom: '24'
-  image: v04/17-171-412-024.jpg
-- pageintom: '25'
-  image: v04/17-171-412-025.jpg
-- pageintom: '26'
-  image: v04/17-171-412-026.jpg
-- pageintom: '27'
-  image: v04/17-171-412-027.jpg
-- pageintom: '28'
-  image: v04/17-171-412-028.jpg
-- pageintom: '29'
-  image: v04/17-171-412-029.jpg
-- pageintom: '30'
-  image: v04/17-171-412-030.jpg
-- pageintom: '31'
-  image: v04/17-171-412-031.jpg
-- pageintom: '32'
-  image: v04/17-171-412-032.jpg
-- pageintom: '33'
-  image: v04/17-171-412-033.jpg
-- pageintom: '34'
-  image: v04/17-171-412-034.jpg
-- pageintom: '35'
-  image: v04/17-171-412-035.jpg
-- pageintom: '36'
-  image: v04/17-171-412-036.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Грузинская ССР]
   listtitle: 'Список лиц: Грузинская ССР'
@@ -55,9 +26,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '25'
-    page_image: v04/17-171-412-025.jpg
+pages:
+- pageintom: '23'
+  image: v04/17-171-412-023.jpg
+  sublists: []
+- pageintom: '24'
+  image: v04/17-171-412-024.jpg
+  sublists: []
+- pageintom: '25'
+  image: v04/17-171-412-025.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10667'
       num: '1'
@@ -157,8 +136,10 @@ sublists:
       num: '24'
       name: БАГАПШ Нури Реджибович
       spravka: true
-  - pageintom: '26'
-    page_image: v04/17-171-412-026.jpg
+- pageintom: '26'
+  image: v04/17-171-412-026.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10691'
       num: '25'
@@ -274,8 +255,10 @@ sublists:
       num: '52'
       name: ВАНЦЯН Арташес Григорьевич
       spravka: true
-  - pageintom: '27'
-    page_image: v04/17-171-412-027.jpg
+- pageintom: '27'
+  image: v04/17-171-412-027.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10719'
       num: '53'
@@ -390,8 +373,10 @@ sublists:
       num: '80'
       name: ГОГОДЗЕ Георгий Александрович
       spravka: true
-  - pageintom: '28'
-    page_image: v04/17-171-412-028.jpg
+- pageintom: '28'
+  image: v04/17-171-412-028.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10747'
       num: '81'
@@ -501,8 +486,10 @@ sublists:
       num: '107'
       name: ДОЛИДЗЕ Давид Григорьевич
       spravka: true
-  - pageintom: '29'
-    page_image: v04/17-171-412-029.jpg
+- pageintom: '29'
+  image: v04/17-171-412-029.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10774'
       num: '108'
@@ -613,8 +600,10 @@ sublists:
     - id: '10800'
       num: '134'
       name: КАМАРАУЛИ Александр Яковлевич
-  - pageintom: '30'
-    page_image: v04/17-171-412-030.jpg
+- pageintom: '30'
+  image: v04/17-171-412-030.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10801'
       num: '135'
@@ -728,8 +717,10 @@ sublists:
       num: '162'
       name: КОЧЛАШВИЛИ Василий Георгиевич
       spravka: true
-  - pageintom: '31'
-    page_image: v04/17-171-412-031.jpg
+- pageintom: '31'
+  image: v04/17-171-412-031.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10829'
       num: '163'
@@ -843,8 +834,10 @@ sublists:
       num: '190'
       name: МАЧАВАРИАНИ Давид Иванович
       spravka: true
-  - pageintom: '32'
-    page_image: v04/17-171-412-032.jpg
+- pageintom: '32'
+  image: v04/17-171-412-032.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10857'
       num: '191'
@@ -958,8 +951,10 @@ sublists:
       num: '218'
       name: ОСЕПЧУК Владимир Григорьевич
       spravka: true
-  - pageintom: '33'
-    page_image: v04/17-171-412-033.jpg
+- pageintom: '33'
+  image: v04/17-171-412-033.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10885'
       num: '219'
@@ -1074,8 +1069,10 @@ sublists:
       num: '246'
       name: САКВАРЕЛИДЗЕ Павел Михайлович
       spravka: true
-  - pageintom: '34'
-    page_image: v04/17-171-412-034.jpg
+- pageintom: '34'
+  image: v04/17-171-412-034.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10913'
       num: '247'
@@ -1194,8 +1191,10 @@ sublists:
       num: '275'
       name: ТАТКАЛО Виктор Иванович
       spravka: true
-  - pageintom: '35'
-    page_image: v04/17-171-412-035.jpg
+- pageintom: '35'
+  image: v04/17-171-412-035.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10942'
       num: '276'
@@ -1315,8 +1314,10 @@ sublists:
       num: '304'
       name: ЧАВЧАНИДЗЕ Валериан Эрастович
       spravka: true
-  - pageintom: '36'
-    page_image: v04/17-171-412-036.jpg
+- pageintom: '36'
+  image: v04/17-171-412-036.jpg
+  sublists:
+  - sublid: '57'
     persons:
     - id: '10971'
       num: '305'

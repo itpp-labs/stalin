@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '90'
-  image: v04/17-171-412-090.jpg
-- pageintom: '91'
-  image: v04/17-171-412-091.jpg
-- pageintom: '92'
-  image: v04/17-171-412-092.jpg
-- pageintom: '93'
-  image: v04/17-171-412-093.jpg
-- pageintom: '94'
-  image: v04/17-171-412-094.jpg
-- pageintom: '95'
-  image: v04/17-171-412-095.jpg
 sublists:
 - title: Список от 27 октября 1937г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская обл.
@@ -39,9 +26,17 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '92'
-    page_image: v04/17-171-412-092.jpg
+pages:
+- pageintom: '90'
+  image: v04/17-171-412-090.jpg
+  sublists: []
+- pageintom: '91'
+  image: v04/17-171-412-091.jpg
+  sublists: []
+- pageintom: '92'
+  image: v04/17-171-412-092.jpg
+  sublists:
+  - sublid: '62'
     persons:
     - id: '11621'
       num: '1'
@@ -112,8 +107,10 @@ sublists:
     - id: '11640'
       num: '20'
       name: МАРКИН Константин Степанович
-  - pageintom: '93'
-    page_image: v04/17-171-412-093.jpg
+- pageintom: '93'
+  image: v04/17-171-412-093.jpg
+  sublists:
+  - sublid: '62'
     persons:
     - id: '11641'
       num: '21'
@@ -206,14 +203,18 @@ sublists:
       num: '47'
       name: ЮНОВ-НОВОГРУДСКИЙ Юлий Маркович
       spravka: true
-  - pageintom: '94'
-    page_image: v04/17-171-412-094.jpg
+- pageintom: '94'
+  image: v04/17-171-412-094.jpg
+  sublists:
+  - sublid: '62'
     persons:
     - id: '11668'
       num: '48'
       name: ЯКОВЛЕВ Александр Яковлевич
-  - pageintom: '95'
-    page_image: v04/17-171-412-095.jpg
+- pageintom: '95'
+  image: v04/17-171-412-095.jpg
+  sublists:
+  - sublid: '62'
     persons:
     - id: '11669'
       num: '1'

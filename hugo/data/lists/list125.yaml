@@ -13,85 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '126'
-  image: v05/17-171-413-126.jpg
-- pageintom: '127'
-  image: v05/17-171-413-127.jpg
-- pageintom: '128'
-  image: v05/17-171-413-128.jpg
-- pageintom: '129'
-  image: v05/17-171-413-129.jpg
-- pageintom: '130'
-  image: v05/17-171-413-130.jpg
-- pageintom: '131'
-  image: v05/17-171-413-131.jpg
-- pageintom: '132'
-  image: v05/17-171-413-132.jpg
-- pageintom: '133'
-  image: v05/17-171-413-133.jpg
-- pageintom: '134'
-  image: v05/17-171-413-134.jpg
-- pageintom: '135'
-  image: v05/17-171-413-135.jpg
-- pageintom: '136'
-  image: v05/17-171-413-136.jpg
-- pageintom: '137'
-  image: v05/17-171-413-137.jpg
-- pageintom: '138'
-  image: v05/17-171-413-138.jpg
-- pageintom: '139'
-  image: v05/17-171-413-139.jpg
-- pageintom: '140'
-  image: v05/17-171-413-140.jpg
-- pageintom: '141'
-  image: v05/17-171-413-141.jpg
-- pageintom: '142'
-  image: v05/17-171-413-142.jpg
-- pageintom: '143'
-  image: v05/17-171-413-143.jpg
-- pageintom: '144'
-  image: v05/17-171-413-144.jpg
-- pageintom: '145'
-  image: v05/17-171-413-145.jpg
-- pageintom: '146'
-  image: v05/17-171-413-146.jpg
-- pageintom: '147'
-  image: v05/17-171-413-147.jpg
-- pageintom: '148'
-  image: v05/17-171-413-148.jpg
-- pageintom: '149'
-  image: v05/17-171-413-149.jpg
-- pageintom: '150'
-  image: v05/17-171-413-150.jpg
-- pageintom: '151'
-  image: v05/17-171-413-151.jpg
-- pageintom: '152'
-  image: v05/17-171-413-152.jpg
-- pageintom: '153'
-  image: v05/17-171-413-153.jpg
-- pageintom: '154'
-  image: v05/17-171-413-154.jpg
-- pageintom: '155'
-  image: v05/17-171-413-155.jpg
-- pageintom: '156'
-  image: v05/17-171-413-156.jpg
-- pageintom: '157'
-  image: v05/17-171-413-157.jpg
-- pageintom: '158'
-  image: v05/17-171-413-158.jpg
-- pageintom: '159'
-  image: v05/17-171-413-159.jpg
-- pageintom: '160'
-  image: v05/17-171-413-160.jpg
-- pageintom: '161'
-  image: v05/17-171-413-161.jpg
-- pageintom: '162'
-  image: v05/17-171-413-162.jpg
-- pageintom: '163'
-  image: v05/17-171-413-163.jpg
-- pageintom: '164'
-  image: v05/17-171-413-164.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР, Харьков-Южная ж.д., Днепропетровск-Сталинская
@@ -135,9 +56,37 @@ sublists:
   - 0
   - 12
   - 13
-  pages:
-  - pageintom: '128'
-    page_image: v05/17-171-413-128.jpg
+- title: Список от 7 декабря 1937г. [Харьков - Южная ж.д.]
+  listtitle: Список лиц - Украинская ССР, Харьков-Южная ж.д., Днепропетровск-Сталинская
+    ж.д.
+  sublisttitle: Харьков - Южная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids: []
+  geosub_ids: []
+  group_ids: []
+- title: Список от 7 декабря 1937г. [Днепропетровск - Сталинск.ж.д.]
+  listtitle: Список лиц - Украинская ССР, Харьков-Южная ж.д., Днепропетровск-Сталинская
+    ж.д.
+  sublisttitle: Днепропетровск - Сталинск.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids: []
+  geosub_ids: []
+  group_ids: []
+pages:
+- pageintom: '126'
+  image: v05/17-171-413-126.jpg
+  sublists: []
+- pageintom: '127'
+  image: v05/17-171-413-127.jpg
+  sublists: []
+- pageintom: '128'
+  image: v05/17-171-413-128.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15524'
       num: '1'
@@ -225,8 +174,10 @@ sublists:
       num: '21'
       name: МАЛАЙЧУК Максим Степанович
       spravka: true
-  - pageintom: '129'
-    page_image: v05/17-171-413-129.jpg
+- pageintom: '129'
+  image: v05/17-171-413-129.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15545'
       num: '22'
@@ -329,8 +280,10 @@ sublists:
     - id: '15571'
       num: '48'
       name: БУЛАВА Андрей Львович
-  - pageintom: '130'
-    page_image: v05/17-171-413-130.jpg
+- pageintom: '130'
+  image: v05/17-171-413-130.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15572'
       num: '49'
@@ -439,8 +392,10 @@ sublists:
     - id: '15600'
       num: '77'
       name: МИХАЙЛОВСКИЙ Лев Маркович
-  - pageintom: '131'
-    page_image: v05/17-171-413-131.jpg
+- pageintom: '131'
+  image: v05/17-171-413-131.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15601'
       num: '78'
@@ -553,8 +508,10 @@ sublists:
     - id: '15629'
       num: '106'
       name: ФИШЕР Илья Яковлевич
-  - pageintom: '132'
-    page_image: v05/17-171-413-132.jpg
+- pageintom: '132'
+  image: v05/17-171-413-132.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15630'
       num: '107'
@@ -658,8 +615,10 @@ sublists:
       num: '132'
       name: ФЕЙГЕЛЬ Исаак Григорьевич
       spravka: true
-  - pageintom: '133'
-    page_image: v05/17-171-413-133.jpg
+- pageintom: '133'
+  image: v05/17-171-413-133.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15656'
       num: '133'
@@ -757,8 +716,10 @@ sublists:
     - id: '15682'
       num: '159'
       name: ХОМЕНКО Николай Игнатьевич
-  - pageintom: '134'
-    page_image: v05/17-171-413-134.jpg
+- pageintom: '134'
+  image: v05/17-171-413-134.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15683'
       num: '160'
@@ -850,8 +811,10 @@ sublists:
       num: '182'
       name: БОБРАКОВ Игнат Федотович
       spravka: true
-  - pageintom: '135'
-    page_image: v05/17-171-413-135.jpg
+- pageintom: '135'
+  image: v05/17-171-413-135.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15706'
       num: '183'
@@ -967,8 +930,10 @@ sublists:
       num: '212'
       name: ХЕЙФИЦ Абрам Наумович
       spravka: true
-  - pageintom: '136'
-    page_image: v05/17-171-413-136.jpg
+- pageintom: '136'
+  image: v05/17-171-413-136.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15736'
       num: '213'
@@ -1074,8 +1039,10 @@ sublists:
     - id: '15763'
       num: '240'
       name: ДИКОВСКИЙ Рафаил Борисович
-  - pageintom: '137'
-    page_image: v05/17-171-413-137.jpg
+- pageintom: '137'
+  image: v05/17-171-413-137.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15764'
       num: '241'
@@ -1181,8 +1148,10 @@ sublists:
       num: '269'
       name: МАКЕЕВ Петр Егорович
       spravka: true
-  - pageintom: '138'
-    page_image: v05/17-171-413-138.jpg
+- pageintom: '138'
+  image: v05/17-171-413-138.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15793'
       num: '270'
@@ -1300,8 +1269,10 @@ sublists:
       num: '300'
       name: СОРОКИН Иван Игнатьевич
       spravka: true
-  - pageintom: '139'
-    page_image: v05/17-171-413-139.jpg
+- pageintom: '139'
+  image: v05/17-171-413-139.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15824'
       num: '301'
@@ -1404,8 +1375,10 @@ sublists:
       num: '328'
       name: КОВАЛЕВ Нестор Сильвестрович
       spravka: true
-  - pageintom: '140'
-    page_image: v05/17-171-413-140.jpg
+- pageintom: '140'
+  image: v05/17-171-413-140.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15852'
       num: '329'
@@ -1503,8 +1476,10 @@ sublists:
       num: '353'
       name: ЦЕЛЛАРИУС Виктор Михайлович
       spravka: true
-  - pageintom: '141'
-    page_image: v05/17-171-413-141.jpg
+- pageintom: '141'
+  image: v05/17-171-413-141.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15877'
       num: '354'
@@ -1596,8 +1571,10 @@ sublists:
       num: '376'
       name: ФУСИК Федор Алексеевич
       spravka: true
-  - pageintom: '142'
-    page_image: v05/17-171-413-142.jpg
+- pageintom: '142'
+  image: v05/17-171-413-142.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15900'
       num: '377'
@@ -1677,8 +1654,10 @@ sublists:
       num: '397'
       name: БАЛЯСНЫЙ Эммануил Самойлович
       spravka: true
-  - pageintom: '143'
-    page_image: v05/17-171-413-143.jpg
+- pageintom: '143'
+  image: v05/17-171-413-143.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15921'
       num: '398'
@@ -1782,8 +1761,10 @@ sublists:
     - id: '15951'
       num: '428'
       name: ГРИВА Иван Васильевич
-  - pageintom: '144'
-    page_image: v05/17-171-413-144.jpg
+- pageintom: '144'
+  image: v05/17-171-413-144.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15952'
       num: '429'
@@ -1892,8 +1873,10 @@ sublists:
     - id: '15982'
       num: '459'
       name: КАРЛОВ (КУРОЧКИН) Леонид Николаевич
-  - pageintom: '145'
-    page_image: v05/17-171-413-145.jpg
+- pageintom: '145'
+  image: v05/17-171-413-145.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '15983'
       num: '460'
@@ -2002,8 +1985,10 @@ sublists:
     - id: '16013'
       num: '490'
       name: ЛЕВЧЕНКО Борис Николаевич
-  - pageintom: '146'
-    page_image: v05/17-171-413-146.jpg
+- pageintom: '146'
+  image: v05/17-171-413-146.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16014'
       num: '491'
@@ -2105,8 +2090,10 @@ sublists:
     - id: '16043'
       num: '520'
       name: ПОПОВ Михаил Иванович
-  - pageintom: '147'
-    page_image: v05/17-171-413-147.jpg
+- pageintom: '147'
+  image: v05/17-171-413-147.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16044'
       num: '521'
@@ -2208,8 +2195,10 @@ sublists:
     - id: '16071'
       num: '548'
       name: ФЕСИК Василий Прокофьевич
-  - pageintom: '148'
-    page_image: v05/17-171-413-148.jpg
+- pageintom: '148'
+  image: v05/17-171-413-148.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16072'
       num: '549'
@@ -2304,8 +2293,10 @@ sublists:
       num: '575'
       name: БАРАНОВ Борис Иванович
       spravka: true
-  - pageintom: '149'
-    page_image: v05/17-171-413-149.jpg
+- pageintom: '149'
+  image: v05/17-171-413-149.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16099'
       num: '576'
@@ -2417,8 +2408,10 @@ sublists:
       num: '604'
       name: ЗАВОЙСКИЙ Борис Константинович
       spravka: true
-  - pageintom: '150'
-    page_image: v05/17-171-413-150.jpg
+- pageintom: '150'
+  image: v05/17-171-413-150.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16128'
       num: '605'
@@ -2531,8 +2524,10 @@ sublists:
       num: '634'
       name: МУРАШКИН Петр Алексеевич
       spravka: true
-  - pageintom: '151'
-    page_image: v05/17-171-413-151.jpg
+- pageintom: '151'
+  image: v05/17-171-413-151.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16158'
       num: '635'
@@ -2645,8 +2640,10 @@ sublists:
       num: '664'
       name: ТАРАСЕНКО Владимир Васильевич
       spravka: true
-  - pageintom: '152'
-    page_image: v05/17-171-413-152.jpg
+- pageintom: '152'
+  image: v05/17-171-413-152.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16188'
       num: '665'
@@ -2699,8 +2696,10 @@ sublists:
       num: '678'
       name: ЭВЕД-БЫСТРИЦКИЙ Лазарь Григорьевич
       spravka: true
-  - pageintom: '153'
-    page_image: v05/17-171-413-153.jpg
+- pageintom: '153'
+  image: v05/17-171-413-153.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16202'
       num: '1'
@@ -2753,8 +2752,10 @@ sublists:
     - id: '16215'
       num: '14'
       name: ЧЕРНЯХОВСКИЙ Александр Федорович
-  - pageintom: '154'
-    page_image: v05/17-171-413-154.jpg
+- pageintom: '154'
+  image: v05/17-171-413-154.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16216'
       num: '15'
@@ -2830,8 +2831,10 @@ sublists:
     - id: '16235'
       num: '34'
       name: ЮРЬЕВ Александр Григорьевич
-  - pageintom: '155'
-    page_image: v05/17-171-413-155.jpg
+- pageintom: '155'
+  image: v05/17-171-413-155.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16236'
       num: '35'
@@ -2889,8 +2892,10 @@ sublists:
       num: '49'
       name: СИБИКИН Тимофей Афанасьевич
       spravka: true
-  - pageintom: '156'
-    page_image: v05/17-171-413-156.jpg
+- pageintom: '156'
+  image: v05/17-171-413-156.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16251'
       num: '50'
@@ -2959,8 +2964,10 @@ sublists:
       num: '69'
       name: ЮДАШКИН Григорий Ефимович
       spravka: true
-  - pageintom: '157'
-    page_image: v05/17-171-413-157.jpg
+- pageintom: '157'
+  image: v05/17-171-413-157.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16271'
       num: '70'
@@ -3006,8 +3013,10 @@ sublists:
       num: '80'
       name: МИХЕЛЬСОН Ян Яковлевич
       subtitle1: <p align="center"><u>МОЛДАВСКАЯ АССР</u>
-  - pageintom: '158'
-    page_image: v05/17-171-413-158.jpg
+- pageintom: '158'
+  image: v05/17-171-413-158.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16282'
       num: '81'
@@ -3028,8 +3037,10 @@ sublists:
       num: '85'
       name: ГЕРШКОВИЧ Самуил Моисеевич
       spravka: true
-  - pageintom: '159'
-    page_image: v05/17-171-413-159.jpg
+- pageintom: '159'
+  image: v05/17-171-413-159.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16287'
       num: '1'
@@ -3104,8 +3115,10 @@ sublists:
       num: '21'
       name: КАРЛАШОВ Иван Николаевич
       spravka: true
-  - pageintom: '160'
-    page_image: v05/17-171-413-160.jpg
+- pageintom: '160'
+  image: v05/17-171-413-160.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16308'
       num: '22'
@@ -3204,8 +3217,10 @@ sublists:
       num: '49'
       name: СОЛОМКО Филипп Лукьянович
       spravka: true
-  - pageintom: '161'
-    page_image: v05/17-171-413-161.jpg
+- pageintom: '161'
+  image: v05/17-171-413-161.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16336'
       num: '50'
@@ -3242,8 +3257,10 @@ sublists:
     - id: '16345'
       num: '59'
       name: ЭЙГЕР Марк Львович
-  - pageintom: '162'
-    page_image: v05/17-171-413-162.jpg
+- pageintom: '162'
+  image: v05/17-171-413-162.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16346'
       num: '1'
@@ -3296,8 +3313,10 @@ sublists:
       num: '14'
       name: ЭПИШКО Гавриил Иванович
       spravka: true
-  - pageintom: '163'
-    page_image: v05/17-171-413-163.jpg
+- pageintom: '163'
+  image: v05/17-171-413-163.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16360'
       num: '1'
@@ -3387,8 +3406,10 @@ sublists:
       num: '23'
       name: СОСНА Демьян Тимофеевич
       spravka: true
-  - pageintom: '164'
-    page_image: v05/17-171-413-164.jpg
+- pageintom: '164'
+  image: v05/17-171-413-164.jpg
+  sublists:
+  - sublid: '276'
     persons:
     - id: '16383'
       num: '1'
@@ -3459,25 +3480,3 @@ sublists:
       num: '18'
       name: ХОХЛОВ Федор Владимирович
       spravka: true
-- title: Список от 7 декабря 1937г. [Харьков - Южная ж.д.]
-  listtitle: Список лиц - Украинская ССР, Харьков-Южная ж.д., Днепропетровск-Сталинская
-    ж.д.
-  sublisttitle: Харьков - Южная ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids: []
-  geosub_ids: []
-  group_ids: []
-  pages: []
-- title: Список от 7 декабря 1937г. [Днепропетровск - Сталинск.ж.д.]
-  listtitle: Список лиц - Украинская ССР, Харьков-Южная ж.д., Днепропетровск-Сталинская
-    ж.д.
-  sublisttitle: Днепропетровск - Сталинск.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids: []
-  geosub_ids: []
-  group_ids: []
-  pages: []

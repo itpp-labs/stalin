@@ -12,33 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '208'
-  image: v03/17-171-411-208.jpg
-- pageintom: '209'
-  image: v03/17-171-411-209.jpg
-- pageintom: '210'
-  image: v03/17-171-411-210.jpg
-- pageintom: '211'
-  image: v03/17-171-411-211.jpg
-- pageintom: '212'
-  image: v03/17-171-411-212.jpg
-- pageintom: '213'
-  image: v03/17-171-411-213.jpg
-- pageintom: '214'
-  image: v03/17-171-411-214.jpg
-- pageintom: '215'
-  image: v03/17-171-411-215.jpg
-- pageintom: '216'
-  image: v03/17-171-411-216.jpg
-- pageintom: '217'
-  image: v03/17-171-411-217.jpg
-- pageintom: '218'
-  image: v03/17-171-411-218.jpg
-- pageintom: '219'
-  image: v03/17-171-411-219.jpg
-- pageintom: '220'
-  image: v03/17-171-411-220.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -53,9 +26,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '210'
-    page_image: v03/17-171-411-210.jpg
+- title: Список от 3 октября 1937г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '208'
+  image: v03/17-171-411-208.jpg
+  sublists: []
+- pageintom: '209'
+  image: v03/17-171-411-209.jpg
+  sublists: []
+- pageintom: '210'
+  image: v03/17-171-411-210.jpg
+  sublists:
+  - sublid: '392'
     persons:
     - id: '10136'
       num: '1'
@@ -163,8 +156,10 @@ sublists:
       num: '26'
       name: КОТТ Дмитрий Яковлевич
       spravka: true
-  - pageintom: '211'
-    page_image: v03/17-171-411-211.jpg
+- pageintom: '211'
+  image: v03/17-171-411-211.jpg
+  sublists:
+  - sublid: '392'
     persons:
     - id: '10162'
       num: '27'
@@ -288,8 +283,10 @@ sublists:
       num: '56'
       name: СИМОН Иорн Джемсович
       spravka: true
-  - pageintom: '212'
-    page_image: v03/17-171-411-212.jpg
+- pageintom: '212'
+  image: v03/17-171-411-212.jpg
+  sublists:
+  - sublid: '392'
     persons:
     - id: '10192'
       num: '57'
@@ -355,8 +352,10 @@ sublists:
       num: '72'
       name: ЮМАНКУЛОВ Ибрагим Хантемирович
       spravka: true
-  - pageintom: '213'
-    page_image: v03/17-171-411-213.jpg
+- pageintom: '213'
+  image: v03/17-171-411-213.jpg
+  sublists:
+  - sublid: '392'
     persons:
     - id: '10208'
       num: '1'
@@ -379,8 +378,22 @@ sublists:
       num: '4'
       name: ЭЙМИКЕ Вильгельм Рихардович
       gb_spravka: true
-  - pageintom: '218'
-    page_image: v03/17-171-411-218.jpg
+- pageintom: '214'
+  image: v03/17-171-411-214.jpg
+  sublists: []
+- pageintom: '215'
+  image: v03/17-171-411-215.jpg
+  sublists: []
+- pageintom: '216'
+  image: v03/17-171-411-216.jpg
+  sublists: []
+- pageintom: '217'
+  image: v03/17-171-411-217.jpg
+  sublists: []
+- pageintom: '218'
+  image: v03/17-171-411-218.jpg
+  sublists:
+  - sublid: '392'
     persons:
     - id: '10212'
       num: '1'
@@ -401,21 +414,10 @@ sublists:
     - id: '10216'
       num: '5'
       name: ХИСАМЕТДИНОВ Хасян Каюмович
-- title: Список от 3 октября 1937г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '219'
-    page_image: v03/17-171-411-219.jpg
+- pageintom: '219'
+  image: v03/17-171-411-219.jpg
+  sublists:
+  - sublid: '393'
     persons:
     - id: '10217'
       num: '1'
@@ -507,8 +509,10 @@ sublists:
       num: '22'
       name: ЯРОСЛАВСКИЙ Иван Петрович
       spravka: true
-  - pageintom: '220'
-    page_image: v03/17-171-411-220.jpg
+- pageintom: '220'
+  image: v03/17-171-411-220.jpg
+  sublists:
+  - sublid: '393'
     persons:
     - id: '10239'
       num: '1'

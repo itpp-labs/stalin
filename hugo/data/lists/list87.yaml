@@ -13,11 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '86'
-  image: v04/17-171-412-086.jpg
-- pageintom: '87'
-  image: v04/17-171-412-087.jpg
 sublists:
 - title: Список от 27 октября 1937г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -31,9 +26,14 @@ sublists:
   - 47
   group_ids:
   - 1
-  pages:
-  - pageintom: '87'
-    page_image: v04/17-171-412-087.jpg
+pages:
+- pageintom: '86'
+  image: v04/17-171-412-086.jpg
+  sublists: []
+- pageintom: '87'
+  image: v04/17-171-412-087.jpg
+  sublists:
+  - sublid: '60'
     persons:
     - id: '11599'
       num: '1'

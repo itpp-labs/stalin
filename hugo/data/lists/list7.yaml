@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '65'
-  image: v01/17-171-409-065.jpg
-- pageintom: '66'
-  image: v01/17-171-409-066.jpg
-- pageintom: '67'
-  image: v01/17-171-409-067.jpg
-- pageintom: '68'
-  image: v01/17-171-409-068.jpg
-- pageintom: '69'
-  image: v01/17-171-409-069.jpg
-- pageintom: '70'
-  image: v01/17-171-409-070.jpg
-- pageintom: '71'
-  image: v01/17-171-409-071.jpg
 sublists:
 - title: Список от 1 апреля 1937 г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -40,9 +25,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '67'
-    page_image: v01/17-171-409-067.jpg
+pages:
+- pageintom: '65'
+  image: v01/17-171-409-065.jpg
+  sublists: []
+- pageintom: '66'
+  image: v01/17-171-409-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v01/17-171-409-067.jpg
+  sublists:
+  - sublid: '4'
     persons:
     - id: '1152'
       num: '1'
@@ -143,8 +136,10 @@ sublists:
       num: '25'
       name: МЕРЗЛИКИН Вячеслав Григорьевич
       spravka: true
-  - pageintom: '68'
-    page_image: v01/17-171-409-068.jpg
+- pageintom: '68'
+  image: v01/17-171-409-068.jpg
+  sublists:
+  - sublid: '4'
     persons:
     - id: '1177'
       num: '26'
@@ -221,8 +216,10 @@ sublists:
       num: '44'
       name: ЯГОДКИН Никита Абрамович
       spravka: true
-  - pageintom: '69'
-    page_image: v01/17-171-409-069.jpg
+- pageintom: '69'
+  image: v01/17-171-409-069.jpg
+  sublists:
+  - sublid: '4'
     persons:
     - id: '1196'
       num: '1'
@@ -311,8 +308,10 @@ sublists:
       num: '22'
       name: ФУКС Михаил Исаакович
       spravka: true
-  - pageintom: '70'
-    page_image: v01/17-171-409-070.jpg
+- pageintom: '70'
+  image: v01/17-171-409-070.jpg
+  sublists:
+  - sublid: '4'
     persons:
     - id: '1218'
       num: '23'
@@ -326,8 +325,10 @@ sublists:
       num: '25'
       name: ЯМОВ Иван Николаевич
       spravka: true
-  - pageintom: '71'
-    page_image: v01/17-171-409-071.jpg
+- pageintom: '71'
+  image: v01/17-171-409-071.jpg
+  sublists:
+  - sublid: '4'
     persons:
     - id: '1221'
       num: '1'

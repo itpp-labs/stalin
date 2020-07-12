@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '151'
-  image: v07/17-171-415-151.jpg
-- pageintom: '152'
-  image: v07/17-171-415-152.jpg
-- pageintom: '153'
-  image: v07/17-171-415-153.jpg
-- pageintom: '154'
-  image: v07/17-171-415-154.jpg
-- pageintom: '155'
-  image: v07/17-171-415-155.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская,Калининская области
@@ -37,9 +26,29 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '153'
-    page_image: v07/17-171-415-153.jpg
+- title: Список от 5 марта 1938г. [Калининская область]
+  listtitle: Список лиц - Ленинградская,Калининская области
+  sublisttitle: Калининская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
+pages:
+- pageintom: '151'
+  image: v07/17-171-415-151.jpg
+  sublists: []
+- pageintom: '152'
+  image: v07/17-171-415-152.jpg
+  sublists: []
+- pageintom: '153'
+  image: v07/17-171-415-153.jpg
+  sublists:
+  - sublid: '534'
     persons:
     - id: '27524'
       num: '1'
@@ -107,8 +116,10 @@ sublists:
       num: '16'
       name: ШАТРОВ Иван Федорович
       spravka: true
-  - pageintom: '154'
-    page_image: v07/17-171-415-154.jpg
+- pageintom: '154'
+  image: v07/17-171-415-154.jpg
+  sublists:
+  - sublid: '534'
     persons:
     - id: '27540'
       num: '1'
@@ -143,21 +154,10 @@ sublists:
     - id: '27548'
       num: '9'
       name: ХМЕЛЬНИЦКИЙ Абрам Вениаминович
-- title: Список от 5 марта 1938г. [Калининская область]
-  listtitle: Список лиц - Ленинградская,Калининская области
-  sublisttitle: Калининская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 35
-  geosub_ids:
-  - 46
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '155'
-    page_image: v07/17-171-415-155.jpg
+- pageintom: '155'
+  image: v07/17-171-415-155.jpg
+  sublists:
+  - sublid: '535'
     persons:
     - id: '27549'
       num: '1'

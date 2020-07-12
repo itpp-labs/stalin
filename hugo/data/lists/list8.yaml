@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '72'
-  image: v01/17-171-409-072.jpg
-- pageintom: '73'
-  image: v01/17-171-409-073.jpg
-- pageintom: '74'
-  image: v01/17-171-409-074.jpg
-- pageintom: '75'
-  image: v01/17-171-409-075.jpg
-- pageintom: '76'
-  image: v01/17-171-409-076.jpg
-- pageintom: '77'
-  image: v01/17-171-409-077.jpg
 sublists:
 - title: Список от 5 апреля 1937 г. [Омская область]
   listtitle: Список лиц - Омская область
@@ -39,9 +26,17 @@ sublists:
   - 21
   group_ids:
   - 0
-  pages:
-  - pageintom: '74'
-    page_image: v01/17-171-409-074.jpg
+pages:
+- pageintom: '72'
+  image: v01/17-171-409-072.jpg
+  sublists: []
+- pageintom: '73'
+  image: v01/17-171-409-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v01/17-171-409-074.jpg
+  sublists:
+  - sublid: '5'
     persons:
     - id: '1224'
       num: '1'
@@ -85,8 +80,10 @@ sublists:
       num: '10'
       name: ЦЮНСКИЙ Константин Антонович
       spravka: true
-  - pageintom: '75'
-    page_image: v01/17-171-409-075.jpg
+- pageintom: '75'
+  image: v01/17-171-409-075.jpg
+  sublists:
+  - sublid: '5'
     persons:
     - id: '1234'
       num: '1'
@@ -175,8 +172,10 @@ sublists:
     - id: '1256'
       num: '23'
       name: СВЕРЕЖЕВ Василий Ефимович
-  - pageintom: '76'
-    page_image: v01/17-171-409-076.jpg
+- pageintom: '76'
+  image: v01/17-171-409-076.jpg
+  sublists:
+  - sublid: '5'
     persons:
     - id: '1257'
       num: '24'
@@ -215,8 +214,10 @@ sublists:
     - id: '1266'
       num: '33'
       name: ЮДИН Александр Александрович
-  - pageintom: '77'
-    page_image: v01/17-171-409-077.jpg
+- pageintom: '77'
+  image: v01/17-171-409-077.jpg
+  sublists:
+  - sublid: '5'
     persons:
     - id: '1267'
       num: '1'

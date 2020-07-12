@@ -14,17 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '133'
-  image: v02/17-171-410-133.jpg
-- pageintom: '134'
-  image: v02/17-171-410-134.jpg
-- pageintom: '135'
-  image: v02/17-171-410-135.jpg
-- pageintom: '136'
-  image: v02/17-171-410-136.jpg
-- pageintom: '137'
-  image: v02/17-171-410-137.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Азово-Черноморский край]
   listtitle: 'Список лиц: Азово-Черноморский, Орджоникидзевский края'
@@ -38,9 +27,29 @@ sublists:
   - 10
   group_ids:
   - 0
-  pages:
-  - pageintom: '135'
-    page_image: v02/17-171-410-135.jpg
+- title: Список от 31 июля 1937 г. [Орджоникидзевский край]
+  listtitle: 'Список лиц: Азово-Черноморский, Орджоникидзевский края'
+  sublisttitle: Орджоникидзевский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 52
+  geosub_ids:
+  - 22
+  group_ids:
+  - 0
+pages:
+- pageintom: '133'
+  image: v02/17-171-410-133.jpg
+  sublists: []
+- pageintom: '134'
+  image: v02/17-171-410-134.jpg
+  sublists: []
+- pageintom: '135'
+  image: v02/17-171-410-135.jpg
+  sublists:
+  - sublid: '196'
     persons:
     - id: '4696'
       num: '1'
@@ -96,21 +105,10 @@ sublists:
     - id: '4709'
       num: '14'
       name: ТРУБНИКОВ Михаил Алексеевич
-- title: Список от 31 июля 1937 г. [Орджоникидзевский край]
-  listtitle: 'Список лиц: Азово-Черноморский, Орджоникидзевский края'
-  sublisttitle: Орджоникидзевский край
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 52
-  geosub_ids:
-  - 22
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '136'
-    page_image: v02/17-171-410-136.jpg
+- pageintom: '136'
+  image: v02/17-171-410-136.jpg
+  sublists:
+  - sublid: '197'
     persons:
     - id: '4710'
       num: '1'
@@ -185,8 +183,10 @@ sublists:
       num: '20'
       name: ХРАПОВ Василий Никанорович
       spravka: true
-  - pageintom: '137'
-    page_image: v02/17-171-410-137.jpg
+- pageintom: '137'
+  image: v02/17-171-410-137.jpg
+  sublists:
+  - sublid: '197'
     persons:
     - id: '4730'
       num: '1'

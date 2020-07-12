@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '166'
-  image: v09/17-171-417-166.jpg
-- pageintom: '167'
-  image: v09/17-171-417-167.jpg
-- pageintom: '168'
-  image: v09/17-171-417-168.jpg
-- pageintom: '169'
-  image: v09/17-171-417-169.jpg
-- pageintom: '170'
-  image: v09/17-171-417-170.jpg
 sublists:
 - title: Список от 10.VI.38г. [Бурято-Монгольская АССР]
   listtitle: Список лиц - Бурято-Монгольская АССР
@@ -35,9 +24,17 @@ sublists:
   - 153
   group_ids:
   - 0
-  pages:
-  - pageintom: '168'
-    page_image: v09/17-171-417-168.jpg
+pages:
+- pageintom: '166'
+  image: v09/17-171-417-166.jpg
+  sublists: []
+- pageintom: '167'
+  image: v09/17-171-417-167.jpg
+  sublists: []
+- pageintom: '168'
+  image: v09/17-171-417-168.jpg
+  sublists:
+  - sublid: '120'
     persons:
     - id: '35563'
       num: '1'
@@ -120,8 +117,10 @@ sublists:
       num: '20'
       name: ЕЛАНОВ Трифон Трофимович
       spravka: true
-  - pageintom: '169'
-    page_image: v09/17-171-417-169.jpg
+- pageintom: '169'
+  image: v09/17-171-417-169.jpg
+  sublists:
+  - sublid: '120'
     persons:
     - id: '35583'
       num: '21'
@@ -186,8 +185,10 @@ sublists:
     - id: '35599'
       num: '37'
       name: ЯЛОВ Алексей Иванович
-  - pageintom: '170'
-    page_image: v09/17-171-417-170.jpg
+- pageintom: '170'
+  image: v09/17-171-417-170.jpg
+  sublists:
+  - sublid: '120'
     persons:
     - id: '35600'
       num: '1'

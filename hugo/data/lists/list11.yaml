@@ -13,21 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '91'
-  image: v01/17-171-409-091.jpg
-- pageintom: '92'
-  image: v01/17-171-409-092.jpg
-- pageintom: '93'
-  image: v01/17-171-409-093.jpg
-- pageintom: '94'
-  image: v01/17-171-409-094.jpg
-- pageintom: '95'
-  image: v01/17-171-409-095.jpg
-- pageintom: '96'
-  image: v01/17-171-409-096.jpg
-- pageintom: '97'
-  image: v01/17-171-409-097.jpg
 sublists:
 - title: Список от 19 апреля 1937 г. [Западно-Сибирский край]
   listtitle: Список лиц - Западно-Сибирский край
@@ -41,9 +26,17 @@ sublists:
   - 9
   group_ids:
   - 0
-  pages:
-  - pageintom: '93'
-    page_image: v01/17-171-409-093.jpg
+pages:
+- pageintom: '91'
+  image: v01/17-171-409-091.jpg
+  sublists: []
+- pageintom: '92'
+  image: v01/17-171-409-092.jpg
+  sublists: []
+- pageintom: '93'
+  image: v01/17-171-409-093.jpg
+  sublists:
+  - sublid: '8'
     persons:
     - id: '1495'
       num: '1'
@@ -137,8 +130,10 @@ sublists:
       num: '26'
       name: ЛИТАХ Георгий Александрович
       spravka: true
-  - pageintom: '94'
-    page_image: v01/17-171-409-094.jpg
+- pageintom: '94'
+  image: v01/17-171-409-094.jpg
+  sublists:
+  - sublid: '8'
     persons:
     - id: '1521'
       num: '27'
@@ -234,8 +229,10 @@ sublists:
     - id: '1548'
       num: '54'
       name: ШВАЛЕВ Андрей Никитич
-  - pageintom: '95'
-    page_image: v01/17-171-409-095.jpg
+- pageintom: '95'
+  image: v01/17-171-409-095.jpg
+  sublists:
+  - sublid: '8'
     persons:
     - id: '1549'
       num: '55'
@@ -250,8 +247,10 @@ sublists:
       num: '58'
       name: ЯКИМОВ Михаил Никитич
       spravka: true
-  - pageintom: '96'
-    page_image: v01/17-171-409-096.jpg
+- pageintom: '96'
+  image: v01/17-171-409-096.jpg
+  sublists:
+  - sublid: '8'
     persons:
     - id: '1553'
       num: '1'
@@ -333,8 +332,10 @@ sublists:
       num: '21'
       name: ШМИДТ Константин Павлович
       spravka: true
-  - pageintom: '97'
-    page_image: v01/17-171-409-097.jpg
+- pageintom: '97'
+  image: v01/17-171-409-097.jpg
+  sublists:
+  - sublid: '8'
     persons:
     - id: '1574'
       num: '1'

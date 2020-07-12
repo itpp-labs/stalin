@@ -13,27 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '98'
-  image: v01/17-171-409-098.jpg
-- pageintom: '99'
-  image: v01/17-171-409-099.jpg
-- pageintom: '100'
-  image: v01/17-171-409-100.jpg
-- pageintom: '101'
-  image: v01/17-171-409-101.jpg
-- pageintom: '102'
-  image: v01/17-171-409-102.jpg
-- pageintom: '103'
-  image: v01/17-171-409-103.jpg
-- pageintom: '104'
-  image: v01/17-171-409-104.jpg
-- pageintom: '105'
-  image: v01/17-171-409-105.jpg
-- pageintom: '106'
-  image: v01/17-171-409-106.jpg
-- pageintom: '107'
-  image: v01/17-171-409-107.jpg
 sublists:
 - title: Список от 23 апреля 1937 г. [Азово-Черноморский край]
   listtitle: Список лиц - Азово-Черноморский край
@@ -47,9 +26,17 @@ sublists:
   - 10
   group_ids:
   - 0
-  pages:
-  - pageintom: '100'
-    page_image: v01/17-171-409-100.jpg
+pages:
+- pageintom: '98'
+  image: v01/17-171-409-098.jpg
+  sublists: []
+- pageintom: '99'
+  image: v01/17-171-409-099.jpg
+  sublists: []
+- pageintom: '100'
+  image: v01/17-171-409-100.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1578'
       num: '1'
@@ -153,8 +140,10 @@ sublists:
     - id: '1603'
       num: '26'
       name: ГЕРАСИМАТО Герасим Спиридонович
-  - pageintom: '101'
-    page_image: v01/17-171-409-101.jpg
+- pageintom: '101'
+  image: v01/17-171-409-101.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1604'
       num: '27'
@@ -272,8 +261,10 @@ sublists:
       num: '57'
       name: ЛИТЮК Семен Петрович
       spravka: true
-  - pageintom: '102'
-    page_image: v01/17-171-409-102.jpg
+- pageintom: '102'
+  image: v01/17-171-409-102.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1635'
       num: '58'
@@ -394,8 +385,10 @@ sublists:
       num: '87'
       name: РАБИНОВИЧ Борис Семенович
       spravka: true
-  - pageintom: '103'
-    page_image: v01/17-171-409-103.jpg
+- pageintom: '103'
+  image: v01/17-171-409-103.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1665'
       num: '88'
@@ -505,8 +498,10 @@ sublists:
       num: '115'
       name: ХАРЛАМОВ Николай Михайлович
       spravka: true
-  - pageintom: '104'
-    page_image: v01/17-171-409-104.jpg
+- pageintom: '104'
+  image: v01/17-171-409-104.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1693'
       num: '116'
@@ -575,8 +570,10 @@ sublists:
       num: '133'
       name: ЯСЕНКО Александр Власович
       spravka: true
-  - pageintom: '105'
-    page_image: v01/17-171-409-105.jpg
+- pageintom: '105'
+  image: v01/17-171-409-105.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1711'
       num: '1'
@@ -690,8 +687,10 @@ sublists:
       num: '28'
       name: САК Абрам Борисович
       spravka: true
-  - pageintom: '106'
-    page_image: v01/17-171-409-106.jpg
+- pageintom: '106'
+  image: v01/17-171-409-106.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1739'
       num: '29'
@@ -738,8 +737,10 @@ sublists:
       num: '40'
       name: ЩИРОВ Константин Павлович
       spravka: true
-  - pageintom: '107'
-    page_image: v01/17-171-409-107.jpg
+- pageintom: '107'
+  image: v01/17-171-409-107.jpg
+  sublists:
+  - sublid: '9'
     persons:
     - id: '1751'
       num: '1'

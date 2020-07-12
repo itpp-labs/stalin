@@ -13,35 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '175'
-  image: v02/17-171-410-175.jpg
-- pageintom: '176'
-  image: v02/17-171-410-176.jpg
-- pageintom: '177'
-  image: v02/17-171-410-177.jpg
-- pageintom: '178'
-  image: v02/17-171-410-178.jpg
-- pageintom: '179'
-  image: v02/17-171-410-179.jpg
-- pageintom: '180'
-  image: v02/17-171-410-180.jpg
-- pageintom: '181'
-  image: v02/17-171-410-181.jpg
-- pageintom: '182'
-  image: v02/17-171-410-182.jpg
-- pageintom: '183'
-  image: v02/17-171-410-183.jpg
-- pageintom: '184'
-  image: v02/17-171-410-184.jpg
-- pageintom: '185'
-  image: v02/17-171-410-185.jpg
-- pageintom: '186'
-  image: v02/17-171-410-186.jpg
-- pageintom: '187'
-  image: v02/17-171-410-187.jpg
-- pageintom: '188'
-  image: v02/17-171-410-188.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край'
@@ -56,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '177'
-    page_image: v02/17-171-410-177.jpg
+pages:
+- pageintom: '175'
+  image: v02/17-171-410-175.jpg
+  sublists: []
+- pageintom: '176'
+  image: v02/17-171-410-176.jpg
+  sublists: []
+- pageintom: '177'
+  image: v02/17-171-410-177.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5043'
       num: '1'
@@ -163,8 +142,10 @@ sublists:
       num: '26'
       name: ЖУК Петр Лазаревич
       spravka: true
-  - pageintom: '178'
-    page_image: v02/17-171-410-178.jpg
+- pageintom: '178'
+  image: v02/17-171-410-178.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5069'
       num: '27'
@@ -274,8 +255,10 @@ sublists:
       num: '56'
       name: КОСОРУКОВ Евгений Иванович
       spravka: true
-  - pageintom: '179'
-    page_image: v02/17-171-410-179.jpg
+- pageintom: '179'
+  image: v02/17-171-410-179.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5099'
       num: '57'
@@ -390,8 +373,10 @@ sublists:
       num: '86'
       name: НОВОСЕЛОВ Константин Павлович
       spravka: true
-  - pageintom: '180'
-    page_image: v02/17-171-410-180.jpg
+- pageintom: '180'
+  image: v02/17-171-410-180.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5129'
       num: '87'
@@ -502,8 +487,10 @@ sublists:
       num: '115'
       name: СУРКОВ Николай Иванович
       spravka: true
-  - pageintom: '181'
-    page_image: v02/17-171-410-181.jpg
+- pageintom: '181'
+  image: v02/17-171-410-181.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5158'
       num: '116'
@@ -591,8 +578,10 @@ sublists:
     - id: '5182'
       num: '140'
       name: ЭЛЬЯС Август Иустинович
-  - pageintom: '182'
-    page_image: v02/17-171-410-182.jpg
+- pageintom: '182'
+  image: v02/17-171-410-182.jpg
+  sublists:
+  - sublid: '42'
     persons:
     - id: '5183'
       num: '1'
@@ -623,3 +612,21 @@ sublists:
       name: ШИ-ТО, он же ВАН-ДЕ-ЦАЙ
       gb_spravka: true
       spravka: true
+- pageintom: '183'
+  image: v02/17-171-410-183.jpg
+  sublists: []
+- pageintom: '184'
+  image: v02/17-171-410-184.jpg
+  sublists: []
+- pageintom: '185'
+  image: v02/17-171-410-185.jpg
+  sublists: []
+- pageintom: '186'
+  image: v02/17-171-410-186.jpg
+  sublists: []
+- pageintom: '187'
+  image: v02/17-171-410-187.jpg
+  sublists: []
+- pageintom: '188'
+  image: v02/17-171-410-188.jpg
+  sublists: []

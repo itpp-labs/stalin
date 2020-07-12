@@ -14,23 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '116'
-  image: v02/17-171-410-116.jpg
-- pageintom: '117'
-  image: v02/17-171-410-117.jpg
-- pageintom: '118'
-  image: v02/17-171-410-118.jpg
-- pageintom: '119'
-  image: v02/17-171-410-119.jpg
-- pageintom: '120'
-  image: v02/17-171-410-120.jpg
-- pageintom: '121'
-  image: v02/17-171-410-121.jpg
-- pageintom: '122'
-  image: v02/17-171-410-122.jpg
-- pageintom: '123'
-  image: v02/17-171-410-123.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -45,9 +28,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '118'
-    page_image: v02/17-171-410-118.jpg
+- title: Список от 31 июля 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '116'
+  image: v02/17-171-410-116.jpg
+  sublists: []
+- pageintom: '117'
+  image: v02/17-171-410-117.jpg
+  sublists: []
+- pageintom: '118'
+  image: v02/17-171-410-118.jpg
+  sublists:
+  - sublid: '192'
     persons:
     - id: '4622'
       num: '1'
@@ -143,8 +146,10 @@ sublists:
       num: '23'
       name: ПАНКРАТОВ Михаил Никанорович
       spravka: true
-  - pageintom: '119'
-    page_image: v02/17-171-410-119.jpg
+- pageintom: '119'
+  image: v02/17-171-410-119.jpg
+  sublists:
+  - sublid: '192'
     persons:
     - id: '4645'
       num: '24'
@@ -186,8 +191,10 @@ sublists:
       num: '33'
       name: ЯНКУС Оскар Фрицевич
       spravka: true
-  - pageintom: '120'
-    page_image: v02/17-171-410-120.jpg
+- pageintom: '120'
+  image: v02/17-171-410-120.jpg
+  sublists:
+  - sublid: '192'
     persons:
     - id: '4655'
       num: '1'
@@ -199,8 +206,10 @@ sublists:
       num: '2'
       name: КОРНИЕНКО Иван Осипович
       spravka: true
-  - pageintom: '121'
-    page_image: v02/17-171-410-121.jpg
+- pageintom: '121'
+  image: v02/17-171-410-121.jpg
+  sublists:
+  - sublid: '192'
     persons:
     - id: '4657'
       num: '1'
@@ -209,21 +218,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ  </u><br /><u> МОСКВА-ЦЕНТР
         </u></p><p align="right"><u>2-я категория.</u>
-- title: Список от 31 июля 1937 г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '123'
-    page_image: v02/17-171-410-123.jpg
+- pageintom: '122'
+  image: v02/17-171-410-122.jpg
+  sublists: []
+- pageintom: '123'
+  image: v02/17-171-410-123.jpg
+  sublists:
+  - sublid: '193'
     persons:
     - id: '4658'
       num: '1'

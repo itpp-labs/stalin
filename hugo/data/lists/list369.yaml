@@ -13,15 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '293'
-  image: v06/17-171-414-293.jpg
-- pageintom: '294'
-  image: v06/17-171-414-294.jpg
-- pageintom: '295'
-  image: v06/17-171-414-295.jpg
-- pageintom: '296'
-  image: v06/17-171-414-296.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Челябинск. Юж.-Уральская ж.д.]
   listtitle: Список лиц - Челябинск. Юж.-Уральская ж.д.
@@ -35,9 +26,17 @@ sublists:
   - 77
   group_ids:
   - 13
-  pages:
-  - pageintom: '295'
-    page_image: v06/17-171-414-295.jpg
+pages:
+- pageintom: '293'
+  image: v06/17-171-414-293.jpg
+  sublists: []
+- pageintom: '294'
+  image: v06/17-171-414-294.jpg
+  sublists: []
+- pageintom: '295'
+  image: v06/17-171-414-295.jpg
+  sublists:
+  - sublid: '418'
     persons:
     - id: '23019'
       num: '1'
@@ -116,8 +115,10 @@ sublists:
     - id: '23038'
       num: '20'
       name: ЧАРЫКОВ Андрей Никонорович
-  - pageintom: '296'
-    page_image: v06/17-171-414-296.jpg
+- pageintom: '296'
+  image: v06/17-171-414-296.jpg
+  sublists:
+  - sublid: '418'
     persons:
     - id: '23039'
       num: '1'

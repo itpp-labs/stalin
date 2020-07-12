@@ -12,23 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '164'
-  image: v01/17-171-409-164.jpg
-- pageintom: '165'
-  image: v01/17-171-409-165.jpg
-- pageintom: '166'
-  image: v01/17-171-409-166.jpg
-- pageintom: '167'
-  image: v01/17-171-409-167.jpg
-- pageintom: '168'
-  image: v01/17-171-409-168.jpg
-- pageintom: '169'
-  image: v01/17-171-409-169.jpg
-- pageintom: '170'
-  image: v01/17-171-409-170.jpg
-- pageintom: '171'
-  image: v01/17-171-409-171.jpg
 sublists:
 - title: Список от 14 июня 1937 г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край
@@ -42,9 +25,17 @@ sublists:
   - 22
   group_ids:
   - 0
-  pages:
-  - pageintom: '166'
-    page_image: v01/17-171-409-166.jpg
+pages:
+- pageintom: '164'
+  image: v01/17-171-409-164.jpg
+  sublists: []
+- pageintom: '165'
+  image: v01/17-171-409-165.jpg
+  sublists: []
+- pageintom: '166'
+  image: v01/17-171-409-166.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2465'
       num: '1'
@@ -123,8 +114,10 @@ sublists:
     - id: '2486'
       num: '22'
       name: ВЕТОШКИН Дмитрий Алексеевич
-  - pageintom: '167'
-    page_image: v01/17-171-409-167.jpg
+- pageintom: '167'
+  image: v01/17-171-409-167.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2487'
       num: '23'
@@ -217,8 +210,10 @@ sublists:
     - id: '2512'
       num: '48'
       name: КУРОВ Хас-Булат Поливанович
-  - pageintom: '168'
-    page_image: v01/17-171-409-168.jpg
+- pageintom: '168'
+  image: v01/17-171-409-168.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2513'
       num: '49'
@@ -308,8 +303,10 @@ sublists:
       num: '73'
       name: РОСТОКИН Евгений Дмитриевич
       spravka: true
-  - pageintom: '169'
-    page_image: v01/17-171-409-169.jpg
+- pageintom: '169'
+  image: v01/17-171-409-169.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2538'
       num: '74'
@@ -403,8 +400,10 @@ sublists:
       num: '99'
       name: ХОРИН Михаил Иванович
       spravka: true
-  - pageintom: '170'
-    page_image: v01/17-171-409-170.jpg
+- pageintom: '170'
+  image: v01/17-171-409-170.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2564'
       num: '100'
@@ -435,8 +434,10 @@ sublists:
     - id: '2572'
       num: '108'
       name: ШХАГОШЕВ Исмаил Тукович
-  - pageintom: '171'
-    page_image: v01/17-171-409-171.jpg
+- pageintom: '171'
+  image: v01/17-171-409-171.jpg
+  sublists:
+  - sublid: '18'
     persons:
     - id: '2573'
       num: '1'

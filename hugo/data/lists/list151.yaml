@@ -10,13 +10,6 @@ delo:
   num: 9-Л/8-5
 signs:
   molotov: true
-pages:
-- pageintom: '373'
-  image: v05/17-171-413-373.jpg
-- pageintom: '374'
-  image: v05/17-171-413-374.jpg
-- pageintom: '375'
-  image: v05/17-171-413-375.jpg
 sublists:
 - title: Список
   listtitle: Список лиц
@@ -32,9 +25,11 @@ sublists:
   - 114
   group_ids:
   - 0
-  pages:
-  - pageintom: '373'
-    page_image: v05/17-171-413-373.jpg
+pages:
+- pageintom: '373'
+  image: v05/17-171-413-373.jpg
+  sublists:
+  - sublid: '98'
     persons:
     - id: '19278'
       num: '1'
@@ -218,8 +213,10 @@ sublists:
     - id: '19333'
       num: '56'
       name: МИНИН Иван Васильевич
-  - pageintom: '374'
-    page_image: v05/17-171-413-374.jpg
+- pageintom: '374'
+  image: v05/17-171-413-374.jpg
+  sublists:
+  - sublid: '98'
     persons:
     - id: '19334'
       num: '57'
@@ -416,8 +413,10 @@ sublists:
       num: '114'
       name: ЯЦЕНКО Александр Петрович
       spravka: true
-  - pageintom: '375'
-    page_image: v05/17-171-413-375.jpg
+- pageintom: '375'
+  image: v05/17-171-413-375.jpg
+  sublists:
+  - sublid: '98'
     persons:
     - id: '19392'
       num: '1'

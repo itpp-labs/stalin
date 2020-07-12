@@ -13,19 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '60'
-  image: v06/17-171-414-060.jpg
-- pageintom: '61'
-  image: v06/17-171-414-061.jpg
-- pageintom: '62'
-  image: v06/17-171-414-062.jpg
-- pageintom: '63'
-  image: v06/17-171-414-063.jpg
-- pageintom: '64'
-  image: v06/17-171-414-064.jpg
-- pageintom: '65'
-  image: v06/17-171-414-065.jpg
 sublists:
 - title: Список от 3 января 1938г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -39,9 +26,17 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '62'
-    page_image: v06/17-171-414-062.jpg
+pages:
+- pageintom: '60'
+  image: v06/17-171-414-060.jpg
+  sublists: []
+- pageintom: '61'
+  image: v06/17-171-414-061.jpg
+  sublists: []
+- pageintom: '62'
+  image: v06/17-171-414-062.jpg
+  sublists:
+  - sublid: '403'
     persons:
     - id: '20117'
       num: '1'
@@ -97,10 +92,6 @@ sublists:
       num: '14'
       name: ГРЕСЕЛЬ Ефим Самойлович
       spravka: true
-    - id: '45667'
-      num: '13'
-      name: ГЛАЗКОВ Николай Иванович
-      spravka: true
     - id: '20130'
       num: '15'
       name: ГУЛЕНКИН Федор Осипович
@@ -125,8 +116,14 @@ sublists:
       num: '20'
       name: КАТКОВ Николай Акимович
       spravka: true
-  - pageintom: '63'
-    page_image: v06/17-171-414-063.jpg
+    - id: '45667'
+      num: '13'
+      name: ГЛАЗКОВ Николай Иванович
+      spravka: true
+- pageintom: '63'
+  image: v06/17-171-414-063.jpg
+  sublists:
+  - sublid: '403'
     persons:
     - id: '20136'
       num: '21'
@@ -242,8 +239,10 @@ sublists:
       num: '48'
       name: СТАРОСТИН Иван Павлович
       spravka: true
-  - pageintom: '64'
-    page_image: v06/17-171-414-064.jpg
+- pageintom: '64'
+  image: v06/17-171-414-064.jpg
+  sublists:
+  - sublid: '403'
     persons:
     - id: '20164'
       num: '49'
@@ -266,8 +265,10 @@ sublists:
       num: '53'
       name: ЭРЛИХ-НАХМАНСОН Максим Иванович
       spravka: true
-  - pageintom: '65'
-    page_image: v06/17-171-414-065.jpg
+- pageintom: '65'
+  image: v06/17-171-414-065.jpg
+  sublists:
+  - sublid: '403'
     persons:
     - id: '20169'
       num: '1'

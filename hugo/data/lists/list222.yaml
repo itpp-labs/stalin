@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '45'
-  image: v03/17-171-411-045.jpg
-- pageintom: '46'
-  image: v03/17-171-411-046.jpg
-- pageintom: '47'
-  image: v03/17-171-411-047.jpg
-- pageintom: '48'
-  image: v03/17-171-411-048.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Красноярский край]
   listtitle: 'Список лиц: Красноярский край'
@@ -33,9 +24,17 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '47'
-    page_image: v03/17-171-411-047.jpg
+pages:
+- pageintom: '45'
+  image: v03/17-171-411-045.jpg
+  sublists: []
+- pageintom: '46'
+  image: v03/17-171-411-046.jpg
+  sublists: []
+- pageintom: '47'
+  image: v03/17-171-411-047.jpg
+  sublists:
+  - sublid: '345'
     persons:
     - id: '8133'
       num: '1'
@@ -151,8 +150,10 @@ sublists:
       num: '28'
       name: МАКСАК Михаил Захарович
       spravka: true
-  - pageintom: '48'
-    page_image: v03/17-171-411-048.jpg
+- pageintom: '48'
+  image: v03/17-171-411-048.jpg
+  sublists:
+  - sublid: '345'
     persons:
     - id: '8161'
       num: '29'

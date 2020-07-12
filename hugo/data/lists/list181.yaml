@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '176'
-  image: v09/17-171-417-176.jpg
-- pageintom: '177'
-  image: v09/17-171-417-177.jpg
-- pageintom: '178'
-  image: v09/17-171-417-178.jpg
-- pageintom: '179'
-  image: v09/17-171-417-179.jpg
-- pageintom: '180'
-  image: v09/17-171-417-180.jpg
-- pageintom: '181'
-  image: v09/17-171-417-181.jpg
-- pageintom: '182'
-  image: v09/17-171-417-182.jpg
-- pageintom: '183'
-  image: v09/17-171-417-183.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-Центр]
   listtitle: Список лиц - Москва-центр
@@ -41,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '178'
-    page_image: v09/17-171-417-178.jpg
+pages:
+- pageintom: '176'
+  image: v09/17-171-417-176.jpg
+  sublists: []
+- pageintom: '177'
+  image: v09/17-171-417-177.jpg
+  sublists: []
+- pageintom: '178'
+  image: v09/17-171-417-178.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35655'
       num: '1'
@@ -127,8 +118,10 @@ sublists:
       num: '20'
       name: ВИТСУТ Карл Михайлович
       spravka: true
-  - pageintom: '179'
-    page_image: v09/17-171-417-179.jpg
+- pageintom: '179'
+  image: v09/17-171-417-179.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35675'
       num: '21'
@@ -245,8 +238,10 @@ sublists:
       num: '49'
       name: КОШКИН Константин Сергеевич
       spravka: true
-  - pageintom: '180'
-    page_image: v09/17-171-417-180.jpg
+- pageintom: '180'
+  image: v09/17-171-417-180.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35704'
       num: '50'
@@ -362,8 +357,10 @@ sublists:
       num: '78'
       name: ПЕРЕЛЕШИН Лев Николаевич
       spravka: true
-  - pageintom: '181'
-    page_image: v09/17-171-417-181.jpg
+- pageintom: '181'
+  image: v09/17-171-417-181.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35733'
       num: '79'
@@ -480,8 +477,10 @@ sublists:
       num: '107'
       name: ФЕДОРЕНКО Леонид Захарович
       spravka: true
-  - pageintom: '182'
-    page_image: v09/17-171-417-182.jpg
+- pageintom: '182'
+  image: v09/17-171-417-182.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35762'
       num: '108'
@@ -543,8 +542,10 @@ sublists:
       num: '122'
       name: ЯНСОН Николай Михайлович
       spravka: true
-  - pageintom: '183'
-    page_image: v09/17-171-417-183.jpg
+- pageintom: '183'
+  image: v09/17-171-417-183.jpg
+  sublists:
+  - sublid: '122'
     persons:
     - id: '35777'
       num: '1'

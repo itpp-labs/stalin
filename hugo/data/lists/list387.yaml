@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '1'
-  image: v11/17-171-419-001.jpg
-- pageintom: '2'
-  image: v11/17-171-419-002.jpg
-- pageintom: '3'
-  image: v11/17-171-419-003.jpg
-- pageintom: '4'
-  image: v11/17-171-419-004.jpg
-- pageintom: '5'
-  image: v11/17-171-419-005.jpg
-- pageintom: '6'
-  image: v11/17-171-419-006.jpg
-- pageintom: '7'
-  image: v11/17-171-419-007.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Крымская АССР]
   listtitle: Список лиц - Крымская АССР
@@ -41,9 +26,14 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '2'
-    page_image: v11/17-171-419-002.jpg
+pages:
+- pageintom: '1'
+  image: v11/17-171-419-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v11/17-171-419-002.jpg
+  sublists:
+  - sublid: '613'
     persons:
     - id: '40852'
       num: '1'
@@ -133,8 +123,10 @@ sublists:
       num: '23'
       name: НЕАБ Эйген Мартынович
       spravka: true
-  - pageintom: '3'
-    page_image: v11/17-171-419-003.jpg
+- pageintom: '3'
+  image: v11/17-171-419-003.jpg
+  sublists:
+  - sublid: '613'
     persons:
     - id: '40875'
       num: '24'
@@ -187,8 +179,10 @@ sublists:
       num: '37'
       name: ЭМИР САЛИЕВ МЕМЕТ
       spravka: true
-  - pageintom: '4'
-    page_image: v11/17-171-419-004.jpg
+- pageintom: '4'
+  image: v11/17-171-419-004.jpg
+  sublists:
+  - sublid: '613'
     persons:
     - id: '40889'
       num: '1'
@@ -200,8 +194,16 @@ sublists:
       num: '2'
       name: ЭПШТЕЙН Герман Тобиасович
       gb_spravka: true
-  - pageintom: '7'
-    page_image: v11/17-171-419-007.jpg
+- pageintom: '5'
+  image: v11/17-171-419-005.jpg
+  sublists: []
+- pageintom: '6'
+  image: v11/17-171-419-006.jpg
+  sublists: []
+- pageintom: '7'
+  image: v11/17-171-419-007.jpg
+  sublists:
+  - sublid: '613'
     persons:
     - id: '40891'
       num: '1'

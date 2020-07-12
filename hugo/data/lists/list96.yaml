@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   voroshilov: true
-pages:
-- pageintom: '157'
-  image: v04/17-171-412-157.jpg
-- pageintom: '158'
-  image: v04/17-171-412-158.jpg
-- pageintom: '159'
-  image: v04/17-171-412-159.jpg
-- pageintom: '160'
-  image: v04/17-171-412-160.jpg
-- pageintom: '161'
-  image: v04/17-171-412-161.jpg
-- pageintom: '162'
-  image: v04/17-171-412-162.jpg
-- pageintom: '163'
-  image: v04/17-171-412-163.jpg
-- pageintom: '164'
-  image: v04/17-171-412-164.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская обл., ДТО Томской ж.д.
@@ -41,9 +24,29 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '159'
-    page_image: v04/17-171-412-159.jpg
+- title: Список от 13 ноября 1937г. [ДТО Томской ж.д.]
+  listtitle: Список лиц - Новосибирская обл., ДТО Томской ж.д.
+  sublisttitle: ДТО Томской ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 65
+  geosub_ids:
+  - 89
+  group_ids:
+  - 13
+pages:
+- pageintom: '157'
+  image: v04/17-171-412-157.jpg
+  sublists: []
+- pageintom: '158'
+  image: v04/17-171-412-158.jpg
+  sublists: []
+- pageintom: '159'
+  image: v04/17-171-412-159.jpg
+  sublists:
+  - sublid: '246'
     persons:
     - id: '12438'
       num: '1'
@@ -129,8 +132,10 @@ sublists:
     - id: '12459'
       num: '22'
       name: ДАНИЛЕНКО Георгий Иванович
-  - pageintom: '160'
-    page_image: v04/17-171-412-160.jpg
+- pageintom: '160'
+  image: v04/17-171-412-160.jpg
+  sublists:
+  - sublid: '246'
     persons:
     - id: '12460'
       num: '23'
@@ -230,8 +235,10 @@ sublists:
     - id: '12487'
       num: '50'
       name: МИЛЮТИНА Наталья Павловна
-  - pageintom: '161'
-    page_image: v04/17-171-412-161.jpg
+- pageintom: '161'
+  image: v04/17-171-412-161.jpg
+  sublists:
+  - sublid: '246'
     persons:
     - id: '12488'
       num: '51'
@@ -333,8 +340,10 @@ sublists:
       name: ЦЕДЕРБАУМ-ЕЖОВ Сергей Осипович
       doublesexists: true
       spravka: true
-  - pageintom: '162'
-    page_image: v04/17-171-412-162.jpg
+- pageintom: '162'
+  image: v04/17-171-412-162.jpg
+  sublists:
+  - sublid: '246'
     persons:
     - id: '12516'
       num: '79'
@@ -368,8 +377,10 @@ sublists:
       name: ЯГОВ Владимир Яковлевич, он же <br />ШМУШКИН Шая Мейерович
       doublesexists: true
       spravka: true
-  - pageintom: '163'
-    page_image: v04/17-171-412-163.jpg
+- pageintom: '163'
+  image: v04/17-171-412-163.jpg
+  sublists:
+  - sublid: '246'
     persons:
     - id: '12524'
       num: '1'
@@ -391,21 +402,10 @@ sublists:
     - id: '12528'
       num: '5'
       name: Ю-ГАН-СИН
-- title: Список от 13 ноября 1937г. [ДТО Томской ж.д.]
-  listtitle: Список лиц - Новосибирская обл., ДТО Томской ж.д.
-  sublisttitle: ДТО Томской ж.д.
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 65
-  geosub_ids:
-  - 89
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '164'
-    page_image: v04/17-171-412-164.jpg
+- pageintom: '164'
+  image: v04/17-171-412-164.jpg
+  sublists:
+  - sublid: '247'
     persons:
     - id: '12529'
       num: '1'

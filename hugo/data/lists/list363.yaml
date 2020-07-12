@@ -13,23 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '247'
-  image: v06/17-171-414-247.jpg
-- pageintom: '248'
-  image: v06/17-171-414-248.jpg
-- pageintom: '249'
-  image: v06/17-171-414-249.jpg
-- pageintom: '250'
-  image: v06/17-171-414-250.jpg
-- pageintom: '251'
-  image: v06/17-171-414-251.jpg
-- pageintom: '252'
-  image: v06/17-171-414-252.jpg
-- pageintom: '253'
-  image: v06/17-171-414-253.jpg
-- pageintom: '254'
-  image: v06/17-171-414-254.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР, Крымская АССР
@@ -45,9 +28,29 @@ sublists:
   - 92
   group_ids:
   - 12
-  pages:
-  - pageintom: '249'
-    page_image: v06/17-171-414-249.jpg
+- title: Список от 3 февраля 1938г. [Крымская АССР]
+  listtitle: Список лиц - Украинская ССР, Крымская АССР
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '247'
+  image: v06/17-171-414-247.jpg
+  sublists: []
+- pageintom: '248'
+  image: v06/17-171-414-248.jpg
+  sublists: []
+- pageintom: '249'
+  image: v06/17-171-414-249.jpg
+  sublists:
+  - sublid: '471'
     persons:
     - id: '22582'
       num: '1'
@@ -127,8 +130,10 @@ sublists:
       num: '21'
       name: ФРОЛОВ Филипп Пантелеймонович
       spravka: true
-  - pageintom: '250'
-    page_image: v06/17-171-414-250.jpg
+- pageintom: '250'
+  image: v06/17-171-414-250.jpg
+  sublists:
+  - sublid: '471'
     persons:
     - id: '22603'
       num: '22'
@@ -234,8 +239,10 @@ sublists:
       num: '49'
       name: КАСАТКИН Алексей Васильевич
       spravka: true
-  - pageintom: '251'
-    page_image: v06/17-171-414-251.jpg
+- pageintom: '251'
+  image: v06/17-171-414-251.jpg
+  sublists:
+  - sublid: '471'
     persons:
     - id: '22631'
       num: '50'
@@ -334,27 +341,18 @@ sublists:
     - id: '22659'
       num: '78'
       name: ЩЕТИНСКИЙ Дмитрий Яковлевич
-  - pageintom: '252'
-    page_image: v06/17-171-414-252.jpg
+- pageintom: '252'
+  image: v06/17-171-414-252.jpg
+  sublists:
+  - sublid: '471'
     persons:
     - id: '22660'
       num: '79'
       name: ЯКУБСКИЙ Сергей Владимирович
-- title: Список от 3 февраля 1938г. [Крымская АССР]
-  listtitle: Список лиц - Украинская ССР, Крымская АССР
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '253'
-    page_image: v06/17-171-414-253.jpg
+- pageintom: '253'
+  image: v06/17-171-414-253.jpg
+  sublists:
+  - sublid: '472'
     persons:
     - id: '22661'
       num: '1'
@@ -425,8 +423,10 @@ sublists:
       num: '18'
       name: ТИТОВ Алексей Григорьевич
       spravka: true
-  - pageintom: '254'
-    page_image: v06/17-171-414-254.jpg
+- pageintom: '254'
+  image: v06/17-171-414-254.jpg
+  sublists:
+  - sublid: '472'
     persons:
     - id: '22679'
       num: '19'

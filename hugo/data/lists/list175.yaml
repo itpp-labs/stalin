@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '137'
-  image: v09/17-171-417-137.jpg
-- pageintom: '138'
-  image: v09/17-171-417-138.jpg
-- pageintom: '139'
-  image: v09/17-171-417-139.jpg
-- pageintom: '140'
-  image: v09/17-171-417-140.jpg
-- pageintom: '141'
-  image: v09/17-171-417-141.jpg
-- pageintom: '142'
-  image: v09/17-171-417-142.jpg
-- pageintom: '143'
-  image: v09/17-171-417-143.jpg
-- pageintom: '144'
-  image: v09/17-171-417-144.jpg
-- pageintom: '145'
-  image: v09/17-171-417-145.jpg
-- pageintom: '146'
-  image: v09/17-171-417-146.jpg
 sublists:
 - title: Список от 10.VI.38г. [Гор.Чита-Забайкальский Военный Округ]
   listtitle: Список лиц - г.Чита-Забайкальский военный округ
@@ -45,9 +24,17 @@ sublists:
   - 152
   group_ids:
   - 12
-  pages:
-  - pageintom: '139'
-    page_image: v09/17-171-417-139.jpg
+pages:
+- pageintom: '137'
+  image: v09/17-171-417-137.jpg
+  sublists: []
+- pageintom: '138'
+  image: v09/17-171-417-138.jpg
+  sublists: []
+- pageintom: '139'
+  image: v09/17-171-417-139.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35144'
       num: '1'
@@ -125,8 +112,10 @@ sublists:
       num: '20'
       name: ВАСИЛЬЧИКОВ Георгий Михайлович
       spravka: true
-  - pageintom: '140'
-    page_image: v09/17-171-417-140.jpg
+- pageintom: '140'
+  image: v09/17-171-417-140.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35164'
       num: '21'
@@ -240,8 +229,10 @@ sublists:
       num: '49'
       name: КАРКЛИН Иван Иванович
       spravka: true
-  - pageintom: '141'
-    page_image: v09/17-171-417-141.jpg
+- pageintom: '141'
+  image: v09/17-171-417-141.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35193'
       num: '50'
@@ -354,8 +345,10 @@ sublists:
       num: '79'
       name: МУНКИН Гарма Данзанович
       spravka: true
-  - pageintom: '142'
-    page_image: v09/17-171-417-142.jpg
+- pageintom: '142'
+  image: v09/17-171-417-142.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35223'
       num: '80'
@@ -464,8 +457,10 @@ sublists:
     - id: '35251'
       num: '108'
       name: СИ-ТУН-ХАЙ
-  - pageintom: '143'
-    page_image: v09/17-171-417-143.jpg
+- pageintom: '143'
+  image: v09/17-171-417-143.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35252'
       num: '109'
@@ -569,8 +564,10 @@ sublists:
       num: '136'
       name: ЩЕРБАК Николай Никитович
       spravka: true
-  - pageintom: '144'
-    page_image: v09/17-171-417-144.jpg
+- pageintom: '144'
+  image: v09/17-171-417-144.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35280'
       num: '137'
@@ -591,8 +588,10 @@ sublists:
     - id: '35284'
       num: '141'
       name: ЯКОВЛЕВ Петр Андреевич
-  - pageintom: '145'
-    page_image: v09/17-171-417-145.jpg
+- pageintom: '145'
+  image: v09/17-171-417-145.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35285'
       num: '1'
@@ -666,8 +665,10 @@ sublists:
     - id: '35304'
       num: '20'
       name: ПОПОВ Митрофан Павлович
-  - pageintom: '146'
-    page_image: v09/17-171-417-146.jpg
+- pageintom: '146'
+  image: v09/17-171-417-146.jpg
+  sublists:
+  - sublid: '116'
     persons:
     - id: '35305'
       num: '21'

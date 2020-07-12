@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '145'
-  image: v11/17-171-419-145.jpg
-- pageintom: '146'
-  image: v11/17-171-419-146.jpg
-- pageintom: '147'
-  image: v11/17-171-419-147.jpg
-- pageintom: '148'
-  image: v11/17-171-419-148.jpg
-- pageintom: '149'
-  image: v11/17-171-419-149.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Алтайский край]
   listtitle: Список лиц - Алтайский край
@@ -36,9 +25,17 @@ sublists:
   - 139
   group_ids:
   - 0
-  pages:
-  - pageintom: '147'
-    page_image: v11/17-171-419-147.jpg
+pages:
+- pageintom: '145'
+  image: v11/17-171-419-145.jpg
+  sublists: []
+- pageintom: '146'
+  image: v11/17-171-419-146.jpg
+  sublists: []
+- pageintom: '147'
+  image: v11/17-171-419-147.jpg
+  sublists:
+  - sublid: '624'
     persons:
     - id: '42612'
       num: '1'
@@ -122,8 +119,10 @@ sublists:
       num: '20'
       name: КИЙКО Андрей Сергеевич
       spravka: true
-  - pageintom: '148'
-    page_image: v11/17-171-419-148.jpg
+- pageintom: '148'
+  image: v11/17-171-419-148.jpg
+  sublists:
+  - sublid: '624'
     persons:
     - id: '42632'
       num: '21'
@@ -205,8 +204,10 @@ sublists:
       num: '40'
       name: ЧУПИН Федор Федорович
       spravka: true
-  - pageintom: '149'
-    page_image: v11/17-171-419-149.jpg
+- pageintom: '149'
+  image: v11/17-171-419-149.jpg
+  sublists:
+  - sublid: '624'
     persons:
     - id: '42652'
       num: '1'

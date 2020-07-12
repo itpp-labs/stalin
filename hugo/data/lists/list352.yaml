@@ -13,31 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '155'
-  image: v06/17-171-414-155.jpg
-- pageintom: '156'
-  image: v06/17-171-414-156.jpg
-- pageintom: '157'
-  image: v06/17-171-414-157.jpg
-- pageintom: '158'
-  image: v06/17-171-414-158.jpg
-- pageintom: '159'
-  image: v06/17-171-414-159.jpg
-- pageintom: '160'
-  image: v06/17-171-414-160.jpg
-- pageintom: '161'
-  image: v06/17-171-414-161.jpg
-- pageintom: '162'
-  image: v06/17-171-414-162.jpg
-- pageintom: '163'
-  image: v06/17-171-414-163.jpg
-- pageintom: '164'
-  image: v06/17-171-414-164.jpg
-- pageintom: '165'
-  image: v06/17-171-414-165.jpg
-- pageintom: '166'
-  image: v06/17-171-414-166.jpg
 sublists:
 - title: Список от 3 января 1938г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -51,9 +26,14 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '156'
-    page_image: v06/17-171-414-156.jpg
+pages:
+- pageintom: '155'
+  image: v06/17-171-414-155.jpg
+  sublists: []
+- pageintom: '156'
+  image: v06/17-171-414-156.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21336'
       num: '1'
@@ -157,8 +137,10 @@ sublists:
       num: '25'
       name: АНШЕЛЕВИЧ Иосиф Яковлевич
       spravka: true
-  - pageintom: '157'
-    page_image: v06/17-171-414-157.jpg
+- pageintom: '157'
+  image: v06/17-171-414-157.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21361'
       num: '26'
@@ -272,8 +254,10 @@ sublists:
       num: '53'
       name: ВАРШАНИДЗЕ Хасан Ахмедович
       spravka: true
-  - pageintom: '158'
-    page_image: v06/17-171-414-158.jpg
+- pageintom: '158'
+  image: v06/17-171-414-158.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21389'
       num: '54'
@@ -388,8 +372,10 @@ sublists:
       num: '81'
       name: ДАТУНАШВИЛИ Сергей Александрович
       spravka: true
-  - pageintom: '159'
-    page_image: v06/17-171-414-159.jpg
+- pageintom: '159'
+  image: v06/17-171-414-159.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21417'
       num: '82'
@@ -509,8 +495,10 @@ sublists:
       num: '110'
       name: ЗАУТАШВИЛИ Арсен Феофанович
       spravka: true
-  - pageintom: '160'
-    page_image: v06/17-171-414-160.jpg
+- pageintom: '160'
+  image: v06/17-171-414-160.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21446'
       num: '111'
@@ -632,8 +620,10 @@ sublists:
       num: '140'
       name: КЛЕВЦОВ Андрей Александрович
       spravka: true
-  - pageintom: '161'
-    page_image: v06/17-171-414-161.jpg
+- pageintom: '161'
+  image: v06/17-171-414-161.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21476'
       num: '141'
@@ -753,8 +743,10 @@ sublists:
       num: '169'
       name: МАМУЛОВ-МАМУЛАШВИЛИ Рафаил Иосифович
       spravka: true
-  - pageintom: '162'
-    page_image: v06/17-171-414-162.jpg
+- pageintom: '162'
+  image: v06/17-171-414-162.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21505'
       num: '170'
@@ -878,8 +870,10 @@ sublists:
       num: '199'
       name: НАЗАРОВ Гаиоз Аркадьевич
       spravka: true
-  - pageintom: '163'
-    page_image: v06/17-171-414-163.jpg
+- pageintom: '163'
+  image: v06/17-171-414-163.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21535'
       num: '200'
@@ -1000,8 +994,10 @@ sublists:
       num: '229'
       name: РЕМИХАНОВ Мамет Расул Ремиханович
       spravka: true
-  - pageintom: '164'
-    page_image: v06/17-171-414-164.jpg
+- pageintom: '164'
+  image: v06/17-171-414-164.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21565'
       num: '230'
@@ -1126,8 +1122,10 @@ sublists:
       num: '259'
       name: ТОДРАДЗЕ Лука Федорович
       spravka: true
-  - pageintom: '165'
-    page_image: v06/17-171-414-165.jpg
+- pageintom: '165'
+  image: v06/17-171-414-165.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21595'
       num: '260'
@@ -1249,8 +1247,10 @@ sublists:
       num: '289'
       name: ЧАНБА Самсон Яковлевич
       spravka: true
-  - pageintom: '166'
-    page_image: v06/17-171-414-166.jpg
+- pageintom: '166'
+  image: v06/17-171-414-166.jpg
+  sublists:
+  - sublid: '408'
     persons:
     - id: '21625'
       num: '290'

@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '129'
-  image: v11/17-171-419-129.jpg
-- pageintom: '130'
-  image: v11/17-171-419-130.jpg
-- pageintom: '131'
-  image: v11/17-171-419-131.jpg
-- pageintom: '132'
-  image: v11/17-171-419-132.jpg
-- pageintom: '133'
-  image: v11/17-171-419-133.jpg
-- pageintom: '134'
-  image: v11/17-171-419-134.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -38,9 +25,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '131'
-    page_image: v11/17-171-419-131.jpg
+pages:
+- pageintom: '129'
+  image: v11/17-171-419-129.jpg
+  sublists: []
+- pageintom: '130'
+  image: v11/17-171-419-130.jpg
+  sublists: []
+- pageintom: '131'
+  image: v11/17-171-419-131.jpg
+  sublists:
+  - sublid: '621'
     persons:
     - id: '42470'
       num: '1'
@@ -121,8 +116,10 @@ sublists:
       num: '21'
       name: КОРЫТОВ Георгий Павлович
       spravka: true
-  - pageintom: '132'
-    page_image: v11/17-171-419-132.jpg
+- pageintom: '132'
+  image: v11/17-171-419-132.jpg
+  sublists:
+  - sublid: '621'
     persons:
     - id: '42491'
       num: '22'
@@ -214,8 +211,10 @@ sublists:
       num: '45'
       name: ТИМОФЕЕВ Валентин Яковлевич
       spravka: true
-  - pageintom: '133'
-    page_image: v11/17-171-419-133.jpg
+- pageintom: '133'
+  image: v11/17-171-419-133.jpg
+  sublists:
+  - sublid: '621'
     persons:
     - id: '42515'
       num: '46'
@@ -226,8 +225,10 @@ sublists:
     - id: '42517'
       num: '48'
       name: ШПОРИС Антон Игнатьевич
-  - pageintom: '134'
-    page_image: v11/17-171-419-134.jpg
+- pageintom: '134'
+  image: v11/17-171-419-134.jpg
+  sublists:
+  - sublid: '621'
     persons:
     - id: '42518'
       num: '1'

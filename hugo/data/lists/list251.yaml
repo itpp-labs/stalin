@@ -13,25 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '1'
-  image: v07/17-171-415-001.jpg
-- pageintom: '2'
-  image: v07/17-171-415-002.jpg
-- pageintom: '3'
-  image: v07/17-171-415-003.jpg
-- pageintom: '4'
-  image: v07/17-171-415-004.jpg
-- pageintom: '5'
-  image: v07/17-171-415-005.jpg
-- pageintom: '6'
-  image: v07/17-171-415-006.jpg
-- pageintom: '7'
-  image: v07/17-171-415-007.jpg
-- pageintom: '8'
-  image: v07/17-171-415-008.jpg
-- pageintom: '9'
-  image: v07/17-171-415-009.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
@@ -47,9 +28,29 @@ sublists:
   - 0
   - 1
   - 2
-  pages:
-  - pageintom: '3'
-    page_image: v07/17-171-415-003.jpg
+- title: Список от 5 марта 1938г. [Москва.ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
+  sublisttitle: Москва.ж.д.им.Дзержинского
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
+pages:
+- pageintom: '1'
+  image: v07/17-171-415-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v07/17-171-415-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v07/17-171-415-003.jpg
+  sublists:
+  - sublid: '505'
     persons:
     - id: '25898'
       num: '1'
@@ -136,8 +137,10 @@ sublists:
       num: '21'
       name: ДЗЮБИН Александр Юлианович
       spravka: true
-  - pageintom: '4'
-    page_image: v07/17-171-415-004.jpg
+- pageintom: '4'
+  image: v07/17-171-415-004.jpg
+  sublists:
+  - sublid: '505'
     persons:
     - id: '25919'
       num: '22'
@@ -254,8 +257,10 @@ sublists:
       num: '50'
       name: ТОМСКИЙ-ЕФРЕМОВ Виктор Михайлович
       spravka: true
-  - pageintom: '5'
-    page_image: v07/17-171-415-005.jpg
+- pageintom: '5'
+  image: v07/17-171-415-005.jpg
+  sublists:
+  - sublid: '505'
     persons:
     - id: '25948'
       num: '51'
@@ -303,8 +308,10 @@ sublists:
       name: БРАДУЛОВ-ГОРЬКИЙ Андрей Иванович
       primcoc: (бывший сотрудник НКВД)
       spravka: true
-  - pageintom: '6'
-    page_image: v07/17-171-415-006.jpg
+- pageintom: '6'
+  image: v07/17-171-415-006.jpg
+  sublists:
+  - sublid: '505'
     persons:
     - id: '25959'
       num: '1'
@@ -313,8 +320,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(иностранные-подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '8'
-    page_image: v07/17-171-415-008.jpg
+- pageintom: '7'
+  image: v07/17-171-415-007.jpg
+  sublists: []
+- pageintom: '8'
+  image: v07/17-171-415-008.jpg
+  sublists:
+  - sublid: '505'
     persons:
     - id: '25960'
       num: '1'
@@ -322,21 +334,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 5 марта 1938г. [Москва.ж.д.им.Дзержинского]
-  listtitle: Список лиц - Москва-центр,г.Москва,ж.д.им.Дзержинского
-  sublisttitle: Москва.ж.д.им.Дзержинского
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '9'
-    page_image: v07/17-171-415-009.jpg
+- pageintom: '9'
+  image: v07/17-171-415-009.jpg
+  sublists:
+  - sublid: '506'
     persons:
     - id: '25961'
       num: '1'

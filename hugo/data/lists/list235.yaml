@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '142'
-  image: v03/17-171-411-142.jpg
-- pageintom: '143'
-  image: v03/17-171-411-143.jpg
-- pageintom: '144'
-  image: v03/17-171-411-144.jpg
-- pageintom: '145'
-  image: v03/17-171-411-145.jpg
 sublists:
 - title: Список от 26 сентября 1937г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -33,9 +24,17 @@ sublists:
   - 18
   group_ids:
   - 0
-  pages:
-  - pageintom: '144'
-    page_image: v03/17-171-411-144.jpg
+pages:
+- pageintom: '142'
+  image: v03/17-171-411-142.jpg
+  sublists: []
+- pageintom: '143'
+  image: v03/17-171-411-143.jpg
+  sublists: []
+- pageintom: '144'
+  image: v03/17-171-411-144.jpg
+  sublists:
+  - sublid: '355'
     persons:
     - id: '9195'
       num: '1'
@@ -127,8 +126,10 @@ sublists:
       num: '22'
       name: ШИШКИН Никандр Васильевич
       spravka: true
-  - pageintom: '145'
-    page_image: v03/17-171-411-145.jpg
+- pageintom: '145'
+  image: v03/17-171-411-145.jpg
+  sublists:
+  - sublid: '355'
     persons:
     - id: '9217'
       num: '1'

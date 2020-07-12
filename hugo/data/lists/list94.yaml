@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '148'
-  image: v04/17-171-412-148.jpg
-- pageintom: '149'
-  image: v04/17-171-412-149.jpg
-- pageintom: '150'
-  image: v04/17-171-412-150.jpg
-- pageintom: '151'
-  image: v04/17-171-412-151.jpg
 sublists:
 - title: Список от 1 ноября 1937г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -33,9 +24,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '150'
-    page_image: v04/17-171-412-150.jpg
+pages:
+- pageintom: '148'
+  image: v04/17-171-412-148.jpg
+  sublists: []
+- pageintom: '149'
+  image: v04/17-171-412-149.jpg
+  sublists: []
+- pageintom: '150'
+  image: v04/17-171-412-150.jpg
+  sublists:
+  - sublid: '65'
     persons:
     - id: '12380'
       num: '1'
@@ -145,8 +144,10 @@ sublists:
       num: '27'
       name: НОЙ Александр Иосифович
       spravka: true
-  - pageintom: '151'
-    page_image: v04/17-171-412-151.jpg
+- pageintom: '151'
+  image: v04/17-171-412-151.jpg
+  sublists:
+  - sublid: '65'
     persons:
     - id: '12407'
       num: '28'

@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '309'
-  image: v06/17-171-414-309.jpg
-- pageintom: '310'
-  image: v06/17-171-414-310.jpg
-- pageintom: '311'
-  image: v06/17-171-414-311.jpg
-- pageintom: '312'
-  image: v06/17-171-414-312.jpg
-- pageintom: '313'
-  image: v06/17-171-414-313.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область
@@ -37,9 +26,17 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '311'
-    page_image: v06/17-171-414-311.jpg
+pages:
+- pageintom: '309'
+  image: v06/17-171-414-309.jpg
+  sublists: []
+- pageintom: '310'
+  image: v06/17-171-414-310.jpg
+  sublists: []
+- pageintom: '311'
+  image: v06/17-171-414-311.jpg
+  sublists:
+  - sublid: '421'
     persons:
     - id: '23223'
       num: '1'
@@ -115,8 +112,10 @@ sublists:
       num: '20'
       name: КАПУСТИН Иван Ильич
       spravka: true
-  - pageintom: '312'
-    page_image: v06/17-171-414-312.jpg
+- pageintom: '312'
+  image: v06/17-171-414-312.jpg
+  sublists:
+  - sublid: '421'
     persons:
     - id: '23243'
       num: '21'
@@ -202,8 +201,10 @@ sublists:
     - id: '23267'
       num: '45'
       name: ЧУМАКОВ Валентин Константинович
-  - pageintom: '313'
-    page_image: v06/17-171-414-313.jpg
+- pageintom: '313'
+  image: v06/17-171-414-313.jpg
+  sublists:
+  - sublid: '421'
     persons:
     - id: '23268'
       num: '46'

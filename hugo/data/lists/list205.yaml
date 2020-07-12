@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '173'
-  image: v10/17-171-418-173.jpg
-- pageintom: '174'
-  image: v10/17-171-418-174.jpg
-- pageintom: '175'
-  image: v10/17-171-418-175.jpg
-- pageintom: '176'
-  image: v10/17-171-418-176.jpg
-- pageintom: '177'
-  image: v10/17-171-418-177.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -36,9 +25,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '175'
-    page_image: v10/17-171-418-175.jpg
+pages:
+- pageintom: '173'
+  image: v10/17-171-418-173.jpg
+  sublists: []
+- pageintom: '174'
+  image: v10/17-171-418-174.jpg
+  sublists: []
+- pageintom: '175'
+  image: v10/17-171-418-175.jpg
+  sublists:
+  - sublid: '137'
     persons:
     - id: '39659'
       num: '1'
@@ -120,8 +117,10 @@ sublists:
       num: '21'
       name: СТАБИН Иван Иванович
       spravka: true
-  - pageintom: '176'
-    page_image: v10/17-171-418-176.jpg
+- pageintom: '176'
+  image: v10/17-171-418-176.jpg
+  sublists:
+  - sublid: '137'
     persons:
     - id: '39680'
       num: '22'
@@ -138,8 +137,10 @@ sublists:
       num: '25'
       name: ЯРОСЛАВЦЕВ Павел Павлович
       spravka: true
-  - pageintom: '177'
-    page_image: v10/17-171-418-177.jpg
+- pageintom: '177'
+  image: v10/17-171-418-177.jpg
+  sublists:
+  - sublid: '137'
     persons:
     - id: '39684'
       num: '1'

@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '212'
-  image: v10/17-171-418-212.jpg
-- pageintom: '213'
-  image: v10/17-171-418-213.jpg
-- pageintom: '214'
-  image: v10/17-171-418-214.jpg
-- pageintom: '215'
-  image: v10/17-171-418-215.jpg
-- pageintom: '216'
-  image: v10/17-171-418-216.jpg
-- pageintom: '217'
-  image: v10/17-171-418-217.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край
@@ -38,9 +25,17 @@ sublists:
   - 22
   group_ids:
   - 0
-  pages:
-  - pageintom: '214'
-    page_image: v10/17-171-418-214.jpg
+pages:
+- pageintom: '212'
+  image: v10/17-171-418-212.jpg
+  sublists: []
+- pageintom: '213'
+  image: v10/17-171-418-213.jpg
+  sublists: []
+- pageintom: '214'
+  image: v10/17-171-418-214.jpg
+  sublists:
+  - sublid: '140'
     persons:
     - id: '40203'
       num: '1'
@@ -120,8 +115,10 @@ sublists:
     - id: '40223'
       num: '21'
       name: ДОХОВ Исмаил Ногаевич
-  - pageintom: '215'
-    page_image: v10/17-171-418-215.jpg
+- pageintom: '215'
+  image: v10/17-171-418-215.jpg
+  sublists:
+  - sublid: '140'
     persons:
     - id: '40224'
       num: '22'
@@ -214,8 +211,10 @@ sublists:
       num: '46'
       name: ПЛОТНИКОВ Федор Андреевич
       spravka: true
-  - pageintom: '216'
-    page_image: v10/17-171-418-216.jpg
+- pageintom: '216'
+  image: v10/17-171-418-216.jpg
+  sublists:
+  - sublid: '140'
     persons:
     - id: '40249'
       num: '47'
@@ -301,8 +300,10 @@ sublists:
     - id: '40272'
       num: '70'
       name: ЯНДЫШЕВСКИЙ Борис Леонидович
-  - pageintom: '217'
-    page_image: v10/17-171-418-217.jpg
+- pageintom: '217'
+  image: v10/17-171-418-217.jpg
+  sublists:
+  - sublid: '140'
     persons:
     - id: '40273'
       num: '1'

@@ -14,19 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   ejov: true
-pages:
-- pageintom: '139'
-  image: v01/17-171-409-139.jpg
-- pageintom: '140'
-  image: v01/17-171-409-140.jpg
-- pageintom: '141'
-  image: v01/17-171-409-141.jpg
-- pageintom: '142'
-  image: v01/17-171-409-142.jpg
-- pageintom: '143'
-  image: v01/17-171-409-143.jpg
-- pageintom: '144'
-  image: v01/17-171-409-144.jpg
 sublists:
 - title: Список от 15 мая 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -41,9 +28,17 @@ sublists:
   group_ids:
   - 8
   - 9
-  pages:
-  - pageintom: '141'
-    page_image: v01/17-171-409-141.jpg
+pages:
+- pageintom: '139'
+  image: v01/17-171-409-139.jpg
+  sublists: []
+- pageintom: '140'
+  image: v01/17-171-409-140.jpg
+  sublists: []
+- pageintom: '141'
+  image: v01/17-171-409-141.jpg
+  sublists:
+  - sublid: '14'
     persons:
     - id: '2162'
       num: '1'
@@ -131,8 +126,10 @@ sublists:
       num: '21'
       name: ЧЕРКАШИН Федор Лаврентьевич
       spravka: true
-  - pageintom: '142'
-    page_image: v01/17-171-409-142.jpg
+- pageintom: '142'
+  image: v01/17-171-409-142.jpg
+  sublists:
+  - sublid: '14'
     persons:
     - id: '2183'
       num: '1'
@@ -179,8 +176,10 @@ sublists:
       num: '11'
       name: СТАНКИН Исаак Захарович
       spravka: true
-  - pageintom: '143'
-    page_image: v01/17-171-409-143.jpg
+- pageintom: '143'
+  image: v01/17-171-409-143.jpg
+  sublists:
+  - sublid: '14'
     persons:
     - id: '2194'
       num: '1'
@@ -237,8 +236,10 @@ sublists:
       num: '13'
       name: ЭРДМАН Иосиф Николаевич
       spravka: true
-  - pageintom: '144'
-    page_image: v01/17-171-409-144.jpg
+- pageintom: '144'
+  image: v01/17-171-409-144.jpg
+  sublists:
+  - sublid: '14'
     persons:
     - id: '2207'
       num: '1'

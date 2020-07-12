@@ -10,13 +10,6 @@ delo:
   num: 9-Л/8-1
 signs:
   stalin: true
-pages:
-- pageintom: '145'
-  image: v01/17-171-409-145.jpg
-- pageintom: '146'
-  image: v01/17-171-409-146.jpg
-- pageintom: '147'
-  image: v01/17-171-409-147.jpg
 sublists:
 - title: Список от 31 мая 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -30,9 +23,17 @@ sublists:
   - 8
   group_ids:
   - 0
-  pages:
-  - pageintom: '147'
-    page_image: v01/17-171-409-147.jpg
+pages:
+- pageintom: '145'
+  image: v01/17-171-409-145.jpg
+  sublists: []
+- pageintom: '146'
+  image: v01/17-171-409-146.jpg
+  sublists: []
+- pageintom: '147'
+  image: v01/17-171-409-147.jpg
+  sublists:
+  - sublid: '15'
     persons:
     - id: '2208'
       num: '1'

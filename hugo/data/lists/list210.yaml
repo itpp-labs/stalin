@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '218'
-  image: v10/17-171-418-218.jpg
-- pageintom: '219'
-  image: v10/17-171-418-219.jpg
-- pageintom: '220'
-  image: v10/17-171-418-220.jpg
-- pageintom: '221'
-  image: v10/17-171-418-221.jpg
-- pageintom: '222'
-  image: v10/17-171-418-222.jpg
-- pageintom: '223'
-  image: v10/17-171-418-223.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Омская область]
   listtitle: Список лиц - Омская область, г.Омск-Омская ж.д.
@@ -38,9 +25,29 @@ sublists:
   - 21
   group_ids:
   - 0
-  pages:
-  - pageintom: '220'
-    page_image: v10/17-171-418-220.jpg
+- title: Список от 12 сентября 1938г. [Гор.Омск - Омская ж.д.]
+  listtitle: Список лиц - Омская область, г.Омск-Омская ж.д.
+  sublisttitle: Гор.Омск - Омская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 107
+  group_ids:
+  - 13
+pages:
+- pageintom: '218'
+  image: v10/17-171-418-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v10/17-171-418-219.jpg
+  sublists: []
+- pageintom: '220'
+  image: v10/17-171-418-220.jpg
+  sublists:
+  - sublid: '334'
     persons:
     - id: '40292'
       num: '1'
@@ -90,8 +97,10 @@ sublists:
       num: '12'
       name: ШАЛГИН Александр Михайлович
       spravka: true
-  - pageintom: '221'
-    page_image: v10/17-171-418-221.jpg
+- pageintom: '221'
+  image: v10/17-171-418-221.jpg
+  sublists:
+  - sublid: '334'
     persons:
     - id: '40304'
       num: '1'
@@ -119,21 +128,10 @@ sublists:
       num: '6'
       name: ПОТАПОВ Алексей Михайлович
       spravka: true
-- title: Список от 12 сентября 1938г. [Гор.Омск - Омская ж.д.]
-  listtitle: Список лиц - Омская область, г.Омск-Омская ж.д.
-  sublisttitle: Гор.Омск - Омская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 51
-  geosub_ids:
-  - 107
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '222'
-    page_image: v10/17-171-418-222.jpg
+- pageintom: '222'
+  image: v10/17-171-418-222.jpg
+  sublists:
+  - sublid: '335'
     persons:
     - id: '40310'
       num: '1'
@@ -214,8 +212,10 @@ sublists:
       num: '20'
       name: ЧЕРНЫШОВА Анна Алексеевна
       spravka: true
-  - pageintom: '223'
-    page_image: v10/17-171-418-223.jpg
+- pageintom: '223'
+  image: v10/17-171-418-223.jpg
+  sublists:
+  - sublid: '335'
     persons:
     - id: '40330'
       num: '1'

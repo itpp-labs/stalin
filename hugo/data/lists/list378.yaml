@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '346'
-  image: v06/17-171-414-346.jpg
-- pageintom: '347'
-  image: v06/17-171-414-347.jpg
-- pageintom: '348'
-  image: v06/17-171-414-348.jpg
-- pageintom: '349'
-  image: v06/17-171-414-349.jpg
-- pageintom: '350'
-  image: v06/17-171-414-350.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская область
@@ -37,9 +26,17 @@ sublists:
   - 115
   group_ids:
   - 0
-  pages:
-  - pageintom: '348'
-    page_image: v06/17-171-414-348.jpg
+pages:
+- pageintom: '346'
+  image: v06/17-171-414-346.jpg
+  sublists: []
+- pageintom: '347'
+  image: v06/17-171-414-347.jpg
+  sublists: []
+- pageintom: '348'
+  image: v06/17-171-414-348.jpg
+  sublists:
+  - sublid: '426'
     persons:
     - id: '23599'
       num: '1'
@@ -133,8 +130,10 @@ sublists:
       num: '21'
       name: ЛИХОДЗИЕВСКИЙ Франц Константинович
       spravka: true
-  - pageintom: '349'
-    page_image: v06/17-171-414-349.jpg
+- pageintom: '349'
+  image: v06/17-171-414-349.jpg
+  sublists:
+  - sublid: '426'
     persons:
     - id: '23620'
       num: '22'
@@ -217,8 +216,10 @@ sublists:
       num: '41'
       name: ЯСТРЖЕМБСКИЙ Николай Эдуардович
       spravka: true
-  - pageintom: '350'
-    page_image: v06/17-171-414-350.jpg
+- pageintom: '350'
+  image: v06/17-171-414-350.jpg
+  sublists:
+  - sublid: '426'
     persons:
     - id: '23640'
       num: '1'

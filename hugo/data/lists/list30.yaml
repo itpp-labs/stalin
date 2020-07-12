@@ -13,17 +13,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '222'
-  image: v01/17-171-409-222.jpg
-- pageintom: '223'
-  image: v01/17-171-409-223.jpg
-- pageintom: '224'
-  image: v01/17-171-409-224.jpg
-- pageintom: '225'
-  image: v01/17-171-409-225.jpg
-- pageintom: '226'
-  image: v01/17-171-409-226.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -37,9 +26,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '224'
-    page_image: v01/17-171-409-224.jpg
+pages:
+- pageintom: '222'
+  image: v01/17-171-409-222.jpg
+  sublists: []
+- pageintom: '223'
+  image: v01/17-171-409-223.jpg
+  sublists: []
+- pageintom: '224'
+  image: v01/17-171-409-224.jpg
+  sublists:
+  - sublid: '27'
     persons:
     - id: '3156'
       num: '1'
@@ -148,8 +145,10 @@ sublists:
       num: '26'
       name: КРАВЧЕНКО Алексей Пантелеймонович
       spravka: true
-  - pageintom: '225'
-    page_image: v01/17-171-409-225.jpg
+- pageintom: '225'
+  image: v01/17-171-409-225.jpg
+  sublists:
+  - sublid: '27'
     persons:
     - id: '3182'
       num: '27'
@@ -267,8 +266,10 @@ sublists:
       name: СИХАРУЛИДЗЕ Евгений Николаевич
       doublesexists: true
       spravka: true
-  - pageintom: '226'
-    page_image: v01/17-171-409-226.jpg
+- pageintom: '226'
+  image: v01/17-171-409-226.jpg
+  sublists:
+  - sublid: '27'
     persons:
     - id: '3210'
       num: '55'

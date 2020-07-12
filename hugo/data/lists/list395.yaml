@@ -12,33 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '99'
-  image: v11/17-171-419-099.jpg
-- pageintom: '100'
-  image: v11/17-171-419-100.jpg
-- pageintom: '101'
-  image: v11/17-171-419-101.jpg
-- pageintom: '102'
-  image: v11/17-171-419-102.jpg
-- pageintom: '103'
-  image: v11/17-171-419-103.jpg
-- pageintom: '104'
-  image: v11/17-171-419-104.jpg
-- pageintom: '105'
-  image: v11/17-171-419-105.jpg
-- pageintom: '106'
-  image: v11/17-171-419-106.jpg
-- pageintom: '107'
-  image: v11/17-171-419-107.jpg
-- pageintom: '108'
-  image: v11/17-171-419-108.jpg
-- pageintom: '109'
-  image: v11/17-171-419-109.jpg
-- pageintom: '110'
-  image: v11/17-171-419-110.jpg
-- pageintom: '111'
-  image: v11/17-171-419-111.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -52,9 +25,17 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '101'
-    page_image: v11/17-171-419-101.jpg
+pages:
+- pageintom: '99'
+  image: v11/17-171-419-099.jpg
+  sublists: []
+- pageintom: '100'
+  image: v11/17-171-419-100.jpg
+  sublists: []
+- pageintom: '101'
+  image: v11/17-171-419-101.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '41966'
       num: '1'
@@ -144,8 +125,10 @@ sublists:
       num: '22'
       name: ВОРОБЬЕВ Дмитрий Арсеньевич
       spravka: true
-  - pageintom: '102'
-    page_image: v11/17-171-419-102.jpg
+- pageintom: '102'
+  image: v11/17-171-419-102.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '41988'
       num: '23'
@@ -254,8 +237,10 @@ sublists:
       num: '49'
       name: ЗАВАДСКИЙ Леон Викентьевич
       spravka: true
-  - pageintom: '103'
-    page_image: v11/17-171-419-103.jpg
+- pageintom: '103'
+  image: v11/17-171-419-103.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42015'
       num: '50'
@@ -367,8 +352,10 @@ sublists:
       num: '77'
       name: КУЗЬМИН Федор Николаевич
       spravka: true
-  - pageintom: '104'
-    page_image: v11/17-171-419-104.jpg
+- pageintom: '104'
+  image: v11/17-171-419-104.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42043'
       num: '78'
@@ -478,8 +465,10 @@ sublists:
       num: '104'
       name: МЕРТЦ Леопольд Альфонсович
       spravka: true
-  - pageintom: '105'
-    page_image: v11/17-171-419-105.jpg
+- pageintom: '105'
+  image: v11/17-171-419-105.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42070'
       num: '105'
@@ -588,8 +577,10 @@ sublists:
       num: '131'
       name: ПОЛОВИНКИН Василий Матвеевич
       spravka: true
-  - pageintom: '106'
-    page_image: v11/17-171-419-106.jpg
+- pageintom: '106'
+  image: v11/17-171-419-106.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42097'
       num: '132'
@@ -697,8 +688,10 @@ sublists:
       num: '158'
       name: СМОЛКИН Александр Георгиевич
       spravka: true
-  - pageintom: '107'
-    page_image: v11/17-171-419-107.jpg
+- pageintom: '107'
+  image: v11/17-171-419-107.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42124'
       num: '159'
@@ -807,8 +800,10 @@ sublists:
       num: '185'
       name: ХРАМОВ Александр Иванович
       spravka: true
-  - pageintom: '108'
-    page_image: v11/17-171-419-108.jpg
+- pageintom: '108'
+  image: v11/17-171-419-108.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42151'
       num: '186'
@@ -882,8 +877,10 @@ sublists:
       num: '203'
       name: ЯСТРЕБОВ Степан Васильевич
       spravka: true
-  - pageintom: '109'
-    page_image: v11/17-171-419-109.jpg
+- pageintom: '109'
+  image: v11/17-171-419-109.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42169'
       num: '1'
@@ -979,8 +976,10 @@ sublists:
       num: '23'
       name: ЗОЛОТАРЕВ Аркадий Яковлевич
       spravka: true
-  - pageintom: '110'
-    page_image: v11/17-171-419-110.jpg
+- pageintom: '110'
+  image: v11/17-171-419-110.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42192'
       num: '24'
@@ -1093,8 +1092,10 @@ sublists:
       num: '51'
       name: ПЛОТНИКОВ Василий Петрович
       spravka: true
-  - pageintom: '111'
-    page_image: v11/17-171-419-111.jpg
+- pageintom: '111'
+  image: v11/17-171-419-111.jpg
+  sublists:
+  - sublid: '620'
     persons:
     - id: '42220'
       num: '52'

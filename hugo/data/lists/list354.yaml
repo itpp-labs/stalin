@@ -13,11 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '181'
-  image: v06/17-171-414-181.jpg
-- pageintom: '182'
-  image: v06/17-171-414-182.jpg
 sublists:
 - title: Список от 3 января 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -31,9 +26,14 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '182'
-    page_image: v06/17-171-414-182.jpg
+pages:
+- pageintom: '181'
+  image: v06/17-171-414-181.jpg
+  sublists: []
+- pageintom: '182'
+  image: v06/17-171-414-182.jpg
+  sublists:
+  - sublid: '410'
     persons:
     - id: '21952'
       num: '1'

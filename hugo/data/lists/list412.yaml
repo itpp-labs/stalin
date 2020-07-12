@@ -9,51 +9,6 @@ delo:
   name: ''
   num: ''
 signs: {}
-pages:
-- pageintom: '55'
-  image: v16/3-57-100-55.jpg
-- pageintom: '56'
-  image: v16/3-57-100-56.jpg
-- pageintom: '57'
-  image: v16/3-57-100-57.jpg
-- pageintom: '58'
-  image: v16/3-57-100-58.jpg
-- pageintom: '59'
-  image: v16/3-57-100-59.jpg
-- pageintom: '60'
-  image: v16/3-57-100-60.jpg
-- pageintom: '61'
-  image: v16/3-57-100-61.jpg
-- pageintom: '62'
-  image: v16/3-57-100-62.jpg
-- pageintom: '63'
-  image: v16/3-57-100-63.jpg
-- pageintom: '64'
-  image: v16/3-57-100-64.jpg
-- pageintom: '65'
-  image: v16/3-57-100-65.jpg
-- pageintom: '66'
-  image: v16/3-57-100-66.jpg
-- pageintom: '67'
-  image: v16/3-57-100-67.jpg
-- pageintom: '68'
-  image: v16/3-57-100-68.jpg
-- pageintom: '69'
-  image: v16/3-57-100-69.jpg
-- pageintom: '70'
-  image: v16/3-57-100-70.jpg
-- pageintom: '71'
-  image: v16/3-57-100-71.jpg
-- pageintom: '72'
-  image: v16/3-57-100-72.jpg
-- pageintom: '73'
-  image: v16/3-57-100-73.jpg
-- pageintom: '74'
-  image: v16/3-57-100-74.jpg
-- pageintom: '75'
-  image: v16/3-57-100-75.jpg
-- pageintom: '76'
-  image: v16/3-57-100-76.jpg
 sublists:
 - title: ''
   listtitle: Список арестованных МГБ СССР изменников родины, шпионов, подрывников
@@ -68,9 +23,14 @@ sublists:
   - 169
   group_ids:
   - 0
-  pages:
-  - pageintom: '56'
-    page_image: v16/3-57-100-56.jpg
+pages:
+- pageintom: '55'
+  image: v16/3-57-100-55.jpg
+  sublists: []
+- pageintom: '56'
+  image: v16/3-57-100-56.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45157'
       num: '1'
@@ -86,8 +46,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '57'
-    page_image: v16/3-57-100-57.jpg
+- pageintom: '57'
+  image: v16/3-57-100-57.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45159'
       num: '3'
@@ -95,8 +57,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '58'
-    page_image: v16/3-57-100-58.jpg
+- pageintom: '58'
+  image: v16/3-57-100-58.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45160'
       num: '4'
@@ -110,16 +74,20 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '59'
-    page_image: v16/3-57-100-59.jpg
+- pageintom: '59'
+  image: v16/3-57-100-59.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45162'
       num: '6'
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '60'
-    page_image: v16/3-57-100-60.jpg
+- pageintom: '60'
+  image: v16/3-57-100-60.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45163'
       num: '7'
@@ -133,8 +101,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '61'
-    page_image: v16/3-57-100-61.jpg
+- pageintom: '61'
+  image: v16/3-57-100-61.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45165'
       num: '9'
@@ -142,8 +112,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '62'
-    page_image: v16/3-57-100-62.jpg
+- pageintom: '62'
+  image: v16/3-57-100-62.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45166'
       num: '10'
@@ -156,8 +128,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '63'
-    page_image: v16/3-57-100-63.jpg
+- pageintom: '63'
+  image: v16/3-57-100-63.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45168'
       num: '12'
@@ -171,8 +145,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '64'
-    page_image: v16/3-57-100-64.jpg
+- pageintom: '64'
+  image: v16/3-57-100-64.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45170'
       num: '14'
@@ -180,8 +156,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '65'
-    page_image: v16/3-57-100-65.jpg
+- pageintom: '65'
+  image: v16/3-57-100-65.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45171'
       num: '15'
@@ -195,8 +173,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '66'
-    page_image: v16/3-57-100-66.jpg
+- pageintom: '66'
+  image: v16/3-57-100-66.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45173'
       num: '17'
@@ -209,8 +189,10 @@ sublists:
       name: БОГДАНОВ Михаил Васильевич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '67'
-    page_image: v16/3-57-100-67.jpg
+- pageintom: '67'
+  image: v16/3-57-100-67.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45175'
       num: '19'
@@ -223,8 +205,10 @@ sublists:
       name: САВИНОВ Владимир Александрович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '68'
-    page_image: v16/3-57-100-68.jpg
+- pageintom: '68'
+  image: v16/3-57-100-68.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45662'
       num: '21'
@@ -236,8 +220,10 @@ sublists:
       name: ГЛАВАЦКИЙ Иосиф Иосифович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '69'
-    page_image: v16/3-57-100-69.jpg
+- pageintom: '69'
+  image: v16/3-57-100-69.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45177'
       num: '23'
@@ -250,8 +236,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '70'
-    page_image: v16/3-57-100-70.jpg
+- pageintom: '70'
+  image: v16/3-57-100-70.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45179'
       num: '25'
@@ -265,8 +253,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '71'
-    page_image: v16/3-57-100-71.jpg
+- pageintom: '71'
+  image: v16/3-57-100-71.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45181'
       num: '27'
@@ -274,8 +264,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '72'
-    page_image: v16/3-57-100-72.jpg
+- pageintom: '72'
+  image: v16/3-57-100-72.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45182'
       num: '28'
@@ -289,8 +281,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '73'
-    page_image: v16/3-57-100-73.jpg
+- pageintom: '73'
+  image: v16/3-57-100-73.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45184'
       num: '30'
@@ -302,8 +296,10 @@ sublists:
       name: ПОПОВ Назар Анфиногенович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '74'
-    page_image: v16/3-57-100-74.jpg
+- pageintom: '74'
+  image: v16/3-57-100-74.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45186'
       num: '32'
@@ -315,8 +311,10 @@ sublists:
       name: АМАН Георгий Матвеевич
       doublesexists: true
       gb_spravka: true
-  - pageintom: '75'
-    page_image: v16/3-57-100-75.jpg
+- pageintom: '75'
+  image: v16/3-57-100-75.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45188'
       num: '34'
@@ -324,8 +322,10 @@ sublists:
       doublesexists: true
       gb_spravka: true
       spravka: true
-  - pageintom: '76'
-    page_image: v16/3-57-100-76.jpg
+- pageintom: '76'
+  image: v16/3-57-100-76.jpg
+  sublists:
+  - sublid: '671'
     persons:
     - id: '45189'
       num: '35'

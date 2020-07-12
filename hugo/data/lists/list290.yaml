@@ -14,55 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '4'
-  image: v08/17-171-416-004.jpg
-- pageintom: '5'
-  image: v08/17-171-416-005.jpg
-- pageintom: '6'
-  image: v08/17-171-416-006.jpg
-- pageintom: '7'
-  image: v08/17-171-416-007.jpg
-- pageintom: '8'
-  image: v08/17-171-416-008.jpg
-- pageintom: '9'
-  image: v08/17-171-416-009.jpg
-- pageintom: '10'
-  image: v08/17-171-416-010.jpg
-- pageintom: '11'
-  image: v08/17-171-416-011.jpg
-- pageintom: '12'
-  image: v08/17-171-416-012.jpg
-- pageintom: '13'
-  image: v08/17-171-416-013.jpg
-- pageintom: '14'
-  image: v08/17-171-416-014.jpg
-- pageintom: '15'
-  image: v08/17-171-416-015.jpg
-- pageintom: '16'
-  image: v08/17-171-416-016.jpg
-- pageintom: '17'
-  image: v08/17-171-416-017.jpg
-- pageintom: '18'
-  image: v08/17-171-416-018.jpg
-- pageintom: '19'
-  image: v08/17-171-416-019.jpg
-- pageintom: '20'
-  image: v08/17-171-416-020.jpg
-- pageintom: '21'
-  image: v08/17-171-416-021.jpg
-- pageintom: '22'
-  image: v08/17-171-416-022.jpg
-- pageintom: '23'
-  image: v08/17-171-416-023.jpg
-- pageintom: '24'
-  image: v08/17-171-416-024.jpg
-- pageintom: '25'
-  image: v08/17-171-416-025.jpg
-- pageintom: '26'
-  image: v08/17-171-416-026.jpg
-- pageintom: '27'
-  image: v08/17-171-416-027.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
@@ -78,9 +29,43 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '6'
-    page_image: v08/17-171-416-006.jpg
+- title: Список от 19 апреля 1938г. [г.Москва-ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
+    ж.д.
+  sublisttitle: г.Москва-ж.д.им.Дзержинского
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
+- title: Список от 19 апреля 1938г. [г.Москва-М.Окружная ж.д.]
+  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
+    ж.д.
+  sublisttitle: г.Москва-М.Окружная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 136
+  group_ids:
+  - 13
+pages:
+- pageintom: '4'
+  image: v08/17-171-416-004.jpg
+  sublists: []
+- pageintom: '5'
+  image: v08/17-171-416-005.jpg
+  sublists: []
+- pageintom: '6'
+  image: v08/17-171-416-006.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29197'
       num: '1'
@@ -174,8 +159,10 @@ sublists:
       num: '22'
       name: БЕЛЕНЬКИЙ Цалик Михайлович
       spravka: true
-  - pageintom: '7'
-    page_image: v08/17-171-416-007.jpg
+- pageintom: '7'
+  image: v08/17-171-416-007.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29219'
       num: '23'
@@ -295,8 +282,10 @@ sublists:
       num: '51'
       name: ВОЛИН, он же КОЛБАСА Михаил Ильич
       spravka: true
-  - pageintom: '8'
-    page_image: v08/17-171-416-008.jpg
+- pageintom: '8'
+  image: v08/17-171-416-008.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29248'
       num: '52'
@@ -411,8 +400,10 @@ sublists:
       num: '79'
       name: ГУРОВИЧ Григорий Давыдович
       spravka: true
-  - pageintom: '9'
-    page_image: v08/17-171-416-009.jpg
+- pageintom: '9'
+  image: v08/17-171-416-009.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29276'
       num: '80'
@@ -533,8 +524,10 @@ sublists:
       num: '109'
       name: ИСТОМИН Сергей Иванович
       spravka: true
-  - pageintom: '10'
-    page_image: v08/17-171-416-010.jpg
+- pageintom: '10'
+  image: v08/17-171-416-010.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29306'
       num: '110'
@@ -657,8 +650,10 @@ sublists:
       num: '138'
       name: КРУЗЕ Павел Робертович
       spravka: true
-  - pageintom: '11'
-    page_image: v08/17-171-416-011.jpg
+- pageintom: '11'
+  image: v08/17-171-416-011.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29335'
       num: '139'
@@ -777,8 +772,10 @@ sublists:
       num: '167'
       name: МАЛЕВСКИЙ Арсений Дмитриевич
       spravka: true
-  - pageintom: '12'
-    page_image: v08/17-171-416-012.jpg
+- pageintom: '12'
+  image: v08/17-171-416-012.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29364'
       num: '168'
@@ -890,8 +887,10 @@ sublists:
       num: '195'
       name: НОСОВ Николай Арсентьевич
       spravka: true
-  - pageintom: '13'
-    page_image: v08/17-171-416-013.jpg
+- pageintom: '13'
+  image: v08/17-171-416-013.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29392'
       num: '196'
@@ -1005,8 +1004,10 @@ sublists:
       num: '223'
       name: ПЛОТКИН Самуил Соломонович
       spravka: true
-  - pageintom: '14'
-    page_image: v08/17-171-416-014.jpg
+- pageintom: '14'
+  image: v08/17-171-416-014.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29420'
       num: '224'
@@ -1126,8 +1127,10 @@ sublists:
       num: '252'
       name: СЕМЕНОВ Алексей Иосифович
       spravka: true
-  - pageintom: '15'
-    page_image: v08/17-171-416-015.jpg
+- pageintom: '15'
+  image: v08/17-171-416-015.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29449'
       num: '253'
@@ -1244,8 +1247,10 @@ sublists:
       num: '280'
       name: ФОКИН Валентин Васильевич
       spravka: true
-  - pageintom: '16'
-    page_image: v08/17-171-416-016.jpg
+- pageintom: '16'
+  image: v08/17-171-416-016.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29477'
       num: '281'
@@ -1363,8 +1368,10 @@ sublists:
       num: '309'
       name: ШИРЯЕВ Иван Иустинович
       spravka: true
-  - pageintom: '17'
-    page_image: v08/17-171-416-017.jpg
+- pageintom: '17'
+  image: v08/17-171-416-017.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29506'
       num: '310'
@@ -1440,8 +1447,10 @@ sublists:
       num: '327'
       name: ЯНСОН Яков Давыдович
       spravka: true
-  - pageintom: '18'
-    page_image: v08/17-171-416-018.jpg
+- pageintom: '18'
+  image: v08/17-171-416-018.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29524'
       num: '1'
@@ -1463,8 +1472,22 @@ sublists:
       num: '4'
       name: ХУСЕЙН ОГЛЫ САБРИ МУСТАФА, он же <br />САБРИ БОСКУРТ
       gb_spravka: true
-  - pageintom: '23'
-    page_image: v08/17-171-416-023.jpg
+- pageintom: '19'
+  image: v08/17-171-416-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v08/17-171-416-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v08/17-171-416-021.jpg
+  sublists: []
+- pageintom: '22'
+  image: v08/17-171-416-022.jpg
+  sublists: []
+- pageintom: '23'
+  image: v08/17-171-416-023.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29528'
       num: '1'
@@ -1531,8 +1554,10 @@ sublists:
     - id: '29547'
       num: '20'
       name: ПЛАТОНОВ Алексей Васильевич
-  - pageintom: '24'
-    page_image: v08/17-171-416-024.jpg
+- pageintom: '24'
+  image: v08/17-171-416-024.jpg
+  sublists:
+  - sublid: '577'
     persons:
     - id: '29548'
       num: '21'
@@ -1570,22 +1595,10 @@ sublists:
       num: '30'
       name: ШУФИР Феофания Яковлевна
       spravka: true
-- title: Список от 19 апреля 1938г. [г.Москва-ж.д.им.Дзержинского]
-  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
-    ж.д.
-  sublisttitle: г.Москва-ж.д.им.Дзержинского
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '25'
-    page_image: v08/17-171-416-025.jpg
+- pageintom: '25'
+  image: v08/17-171-416-025.jpg
+  sublists:
+  - sublid: '578'
     persons:
     - id: '29558'
       num: '1'
@@ -1604,22 +1617,10 @@ sublists:
       num: '4'
       name: ШВАЛЬБЕ Рудольф Янович
       spravka: true
-- title: Список от 19 апреля 1938г. [г.Москва-М.Окружная ж.д.]
-  listtitle: Список лиц - Москва-центр,г.Москва-ж.д.им.Дзержинского,г.Москва-М.Окружная
-    ж.д.
-  sublisttitle: г.Москва-М.Окружная ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 136
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '26'
-    page_image: v08/17-171-416-026.jpg
+- pageintom: '26'
+  image: v08/17-171-416-026.jpg
+  sublists:
+  - sublid: '579'
     persons:
     - id: '29562'
       num: '1'
@@ -1637,8 +1638,10 @@ sublists:
       num: '4'
       name: РЫСОВЕЦ Александр Александрович
       spravka: true
-  - pageintom: '27'
-    page_image: v08/17-171-416-027.jpg
+- pageintom: '27'
+  image: v08/17-171-416-027.jpg
+  sublists:
+  - sublid: '579'
     persons:
     - id: '29566'
       num: '1'

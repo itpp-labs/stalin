@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '63'
-  image: v07/17-171-415-063.jpg
-- pageintom: '64'
-  image: v07/17-171-415-064.jpg
-- pageintom: '65'
-  image: v07/17-171-415-065.jpg
-- pageintom: '66'
-  image: v07/17-171-415-066.jpg
-- pageintom: '67'
-  image: v07/17-171-415-067.jpg
-- pageintom: '68'
-  image: v07/17-171-415-068.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Омск. Омская ж.д.]
   listtitle: Список лиц - г.Омск.Омская ж.д.;Красноярский край
@@ -39,9 +26,29 @@ sublists:
   - 107
   group_ids:
   - 13
-  pages:
-  - pageintom: '65'
-    page_image: v07/17-171-415-065.jpg
+- title: Список от 5 марта 1938г. [Красноярский край]
+  listtitle: Список лиц - г.Омск.Омская ж.д.;Красноярский край
+  sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
+pages:
+- pageintom: '63'
+  image: v07/17-171-415-063.jpg
+  sublists: []
+- pageintom: '64'
+  image: v07/17-171-415-064.jpg
+  sublists: []
+- pageintom: '65'
+  image: v07/17-171-415-065.jpg
+  sublists:
+  - sublid: '521'
     persons:
     - id: '26447'
       num: '1'
@@ -125,8 +132,10 @@ sublists:
       num: '21'
       name: КУДОЯРОВ Алексей Васильевич
       spravka: true
-  - pageintom: '66'
-    page_image: v07/17-171-415-066.jpg
+- pageintom: '66'
+  image: v07/17-171-415-066.jpg
+  sublists:
+  - sublid: '521'
     persons:
     - id: '26468'
       num: '22'
@@ -231,8 +240,10 @@ sublists:
     - id: '26495'
       num: '49'
       name: ЯРИН Михаил Ефимович
-  - pageintom: '67'
-    page_image: v07/17-171-415-067.jpg
+- pageintom: '67'
+  image: v07/17-171-415-067.jpg
+  sublists:
+  - sublid: '521'
     persons:
     - id: '26496'
       num: '1'
@@ -257,21 +268,10 @@ sublists:
     - id: '26501'
       num: '6'
       name: СОРОКИН Павел Ильич
-- title: Список от 5 марта 1938г. [Красноярский край]
-  listtitle: Список лиц - г.Омск.Омская ж.д.;Красноярский край
-  sublisttitle: Красноярский край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 13
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '68'
-    page_image: v07/17-171-415-068.jpg
+- pageintom: '68'
+  image: v07/17-171-415-068.jpg
+  sublists:
+  - sublid: '522'
     persons:
     - id: '26502'
       num: '1'

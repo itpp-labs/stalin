@@ -12,11 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '164'
-  image: v03/17-171-411-164.jpg
-- pageintom: '165'
-  image: v03/17-171-411-165.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Украинская ССР]
   listtitle: 'Список лиц: Украинская ССР'
@@ -30,9 +25,14 @@ sublists:
   - 47
   group_ids:
   - 1
-  pages:
-  - pageintom: '165'
-    page_image: v03/17-171-411-165.jpg
+pages:
+- pageintom: '164'
+  image: v03/17-171-411-164.jpg
+  sublists: []
+- pageintom: '165'
+  image: v03/17-171-411-165.jpg
+  sublists:
+  - sublid: '357'
     persons:
     - id: '9606'
       num: '1'

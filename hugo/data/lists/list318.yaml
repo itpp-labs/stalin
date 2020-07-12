@@ -12,19 +12,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '233'
-  image: v08/17-171-416-233.jpg
-- pageintom: '234'
-  image: v08/17-171-416-234.jpg
-- pageintom: '235'
-  image: v08/17-171-416-235.jpg
-- pageintom: '236'
-  image: v08/17-171-416-236.jpg
-- pageintom: '237'
-  image: v08/17-171-416-237.jpg
-- pageintom: '238'
-  image: v08/17-171-416-238.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Ярославская область]
   listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
@@ -38,9 +25,41 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '235'
-    page_image: v08/17-171-416-235.jpg
+- title: Список от 3 мая 1938г. [Рязанская область]
+  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
+  sublisttitle: Рязанская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 56
+  geosub_ids:
+  - 146
+  group_ids:
+  - 0
+- title: Список от 3 мая 1938г. [Киргизская ССР]
+  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
+  sublisttitle: Киргизская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 16
+  geosub_ids:
+  - 142
+  group_ids:
+  - 0
+pages:
+- pageintom: '233'
+  image: v08/17-171-416-233.jpg
+  sublists: []
+- pageintom: '234'
+  image: v08/17-171-416-234.jpg
+  sublists: []
+- pageintom: '235'
+  image: v08/17-171-416-235.jpg
+  sublists:
+  - sublid: '606'
     persons:
     - id: '31992'
       num: '1'
@@ -92,8 +111,10 @@ sublists:
       num: '12'
       name: ЧАЛЕЕВ Геннадий Геннадиевич
       spravka: true
-  - pageintom: '236'
-    page_image: v08/17-171-416-236.jpg
+- pageintom: '236'
+  image: v08/17-171-416-236.jpg
+  sublists:
+  - sublid: '606'
     persons:
     - id: '32004'
       num: '1'
@@ -117,21 +138,10 @@ sublists:
       num: '6'
       name: ШАШИН Юрий Александрович
       spravka: true
-- title: Список от 3 мая 1938г. [Рязанская область]
-  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
-  sublisttitle: Рязанская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 56
-  geosub_ids:
-  - 146
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '237'
-    page_image: v08/17-171-416-237.jpg
+- pageintom: '237'
+  image: v08/17-171-416-237.jpg
+  sublists:
+  - sublid: '607'
     persons:
     - id: '32010'
       num: '1'
@@ -172,21 +182,10 @@ sublists:
     - id: '32021'
       num: '12'
       name: СУПРАНОВИЧ Франц Антонович
-- title: Список от 3 мая 1938г. [Киргизская ССР]
-  listtitle: Список лиц - Ярославская,Рязанская области,Киргизская ССР
-  sublisttitle: Киргизская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 16
-  geosub_ids:
-  - 142
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '238'
-    page_image: v08/17-171-416-238.jpg
+- pageintom: '238'
+  image: v08/17-171-416-238.jpg
+  sublists:
+  - sublid: '608'
     persons:
     - id: '32022'
       num: '1'

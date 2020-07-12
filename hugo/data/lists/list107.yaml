@@ -14,39 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '263'
-  image: v04/17-171-412-263.jpg
-- pageintom: '264'
-  image: v04/17-171-412-264.jpg
-- pageintom: '265'
-  image: v04/17-171-412-265.jpg
-- pageintom: '266'
-  image: v04/17-171-412-266.jpg
-- pageintom: '267'
-  image: v04/17-171-412-267.jpg
-- pageintom: '268'
-  image: v04/17-171-412-268.jpg
-- pageintom: '269'
-  image: v04/17-171-412-269.jpg
-- pageintom: '270'
-  image: v04/17-171-412-270.jpg
-- pageintom: '271'
-  image: v04/17-171-412-271.jpg
-- pageintom: '272'
-  image: v04/17-171-412-272.jpg
-- pageintom: '273'
-  image: v04/17-171-412-273.jpg
-- pageintom: '274'
-  image: v04/17-171-412-274.jpg
-- pageintom: '275'
-  image: v04/17-171-412-275.jpg
-- pageintom: '276'
-  image: v04/17-171-412-276.jpg
-- pageintom: '277'
-  image: v04/17-171-412-277.jpg
-- pageintom: '278'
-  image: v04/17-171-412-278.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
@@ -61,9 +28,70 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '265'
-    page_image: v04/17-171-412-265.jpg
+- title: Список от 13 ноября 1937г. [Москва-Дзержинская ж.д.]
+  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
+    ж.д., Москва- метро, Калуга- Киевская ж.д.
+  sublisttitle: Москва-Дзержинская ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 2
+  - 13
+- title: Список от 13 ноября 1937г. [Москва-Ленинская ж.д.]
+  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
+    ж.д., Москва- метро, Калуга- Киевская ж.д.
+  sublisttitle: Москва-Ленинская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 95
+  group_ids:
+  - 13
+- title: Список от 13 ноября 1937г. [Москва - Метро]
+  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
+    ж.д., Москва- метро, Калуга- Киевская ж.д.
+  sublisttitle: Москва - Метро
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 96
+  group_ids:
+  - 2
+- title: Список от 13 ноября 1937г. [Калуга - Киевская ж.д.]
+  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
+    ж.д., Москва- метро, Калуга- Киевская ж.д.
+  sublisttitle: Калуга - Киевская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 80
+  group_ids:
+  - 13
+pages:
+- pageintom: '263'
+  image: v04/17-171-412-263.jpg
+  sublists: []
+- pageintom: '264'
+  image: v04/17-171-412-264.jpg
+  sublists: []
+- pageintom: '265'
+  image: v04/17-171-412-265.jpg
+  sublists:
+  - sublid: '250'
     persons:
     - id: '13935'
       num: '1'
@@ -162,8 +190,10 @@ sublists:
       num: '24'
       name: ОБОЛЕНСКИЙ Василий Аркадьевич
       spravka: true
-  - pageintom: '266'
-    page_image: v04/17-171-412-266.jpg
+- pageintom: '266'
+  image: v04/17-171-412-266.jpg
+  sublists:
+  - sublid: '250'
     persons:
     - id: '13959'
       num: '25'
@@ -213,8 +243,10 @@ sublists:
       num: '36'
       name: ФУТОРЯН Борис Моисеевич
       spravka: true
-  - pageintom: '267'
-    page_image: v04/17-171-412-267.jpg
+- pageintom: '267'
+  image: v04/17-171-412-267.jpg
+  sublists:
+  - sublid: '250'
     persons:
     - id: '13971'
       num: '1'
@@ -226,23 +258,10 @@ sublists:
       num: '2'
       name: ЛЕВИНА-ЩЕРБАЧЕВА Наталия Сергеевна
       spravka: true
-- title: Список от 13 ноября 1937г. [Москва-Дзержинская ж.д.]
-  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
-    ж.д., Москва- метро, Калуга- Киевская ж.д.
-  sublisttitle: Москва-Дзержинская ж.д.
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 2
-  - 13
-  pages:
-  - pageintom: '268'
-    page_image: v04/17-171-412-268.jpg
+- pageintom: '268'
+  image: v04/17-171-412-268.jpg
+  sublists:
+  - sublid: '251'
     persons:
     - id: '13973'
       num: '1'
@@ -322,8 +341,10 @@ sublists:
       num: '19'
       name: ФОМИЧЕНКО Емельян Маркович
       spravka: true
-  - pageintom: '269'
-    page_image: v04/17-171-412-269.jpg
+- pageintom: '269'
+  image: v04/17-171-412-269.jpg
+  sublists:
+  - sublid: '251'
     persons:
     - id: '13992'
       num: '1'
@@ -332,22 +353,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ДТО ГУГБ НКВД ДЗЕРЖИНСКОЙ Ж.Д.</u> <br /> (гор.Москва)
         <br /><u> ИНОСТРАННЫЕ ПОДДАННЫЕ </u></p><p align="right"><u>1-я категория</u>
-- title: Список от 13 ноября 1937г. [Москва-Ленинская ж.д.]
-  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
-    ж.д., Москва- метро, Калуга- Киевская ж.д.
-  sublisttitle: Москва-Ленинская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 95
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '271'
-    page_image: v04/17-171-412-271.jpg
+- pageintom: '270'
+  image: v04/17-171-412-270.jpg
+  sublists: []
+- pageintom: '271'
+  image: v04/17-171-412-271.jpg
+  sublists:
+  - sublid: '252'
     persons:
     - id: '13993'
       num: '1'
@@ -446,8 +458,10 @@ sublists:
       num: '24'
       name: ТЕПФЕР Федор Эдуардович
       spravka: true
-  - pageintom: '272'
-    page_image: v04/17-171-412-272.jpg
+- pageintom: '272'
+  image: v04/17-171-412-272.jpg
+  sublists:
+  - sublid: '252'
     persons:
     - id: '14017'
       num: '25'
@@ -461,22 +475,10 @@ sublists:
       num: '1'
       name: КОРОЛЕВ Федор Александрович
       subtitle1: <p align="right"><u>2-я категория</u>
-- title: Список от 13 ноября 1937г. [Москва - Метро]
-  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
-    ж.д., Москва- метро, Калуга- Киевская ж.д.
-  sublisttitle: Москва - Метро
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 96
-  group_ids:
-  - 2
-  pages:
-  - pageintom: '273'
-    page_image: v04/17-171-412-273.jpg
+- pageintom: '273'
+  image: v04/17-171-412-273.jpg
+  sublists:
+  - sublid: '253'
     persons:
     - id: '14020'
       num: '1'
@@ -493,22 +495,19 @@ sublists:
       num: '3'
       name: ХАССЕ Генрих Генрихович
       gb_spravka: true
-- title: Список от 13 ноября 1937г. [Калуга - Киевская ж.д.]
-  listtitle: Список лиц - Москва-центр, Москва-Дзержинская ж.д., Москва-Ленинская
-    ж.д., Москва- метро, Калуга- Киевская ж.д.
-  sublisttitle: Калуга - Киевская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 80
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '277'
-    page_image: v04/17-171-412-277.jpg
+- pageintom: '274'
+  image: v04/17-171-412-274.jpg
+  sublists: []
+- pageintom: '275'
+  image: v04/17-171-412-275.jpg
+  sublists: []
+- pageintom: '276'
+  image: v04/17-171-412-276.jpg
+  sublists: []
+- pageintom: '277'
+  image: v04/17-171-412-277.jpg
+  sublists:
+  - sublid: '254'
     persons:
     - id: '14023'
       num: '1'
@@ -592,8 +591,10 @@ sublists:
       num: '20'
       name: ШМАТОВ Николай Иванович
       spravka: true
-  - pageintom: '278'
-    page_image: v04/17-171-412-278.jpg
+- pageintom: '278'
+  image: v04/17-171-412-278.jpg
+  sublists:
+  - sublid: '254'
     persons:
     - id: '14043'
       num: '1'

@@ -13,23 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '204'
-  image: v01/17-171-409-204.jpg
-- pageintom: '205'
-  image: v01/17-171-409-205.jpg
-- pageintom: '206'
-  image: v01/17-171-409-206.jpg
-- pageintom: '207'
-  image: v01/17-171-409-207.jpg
-- pageintom: '208'
-  image: v01/17-171-409-208.jpg
-- pageintom: '209'
-  image: v01/17-171-409-209.jpg
-- pageintom: '210'
-  image: v01/17-171-409-210.jpg
-- pageintom: '211'
-  image: v01/17-171-409-211.jpg
 sublists:
 - title: Список от 25 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -51,9 +34,17 @@ sublists:
   - 6
   group_ids:
   - 0
-  pages:
-  - pageintom: '206'
-    page_image: v01/17-171-409-206.jpg
+pages:
+- pageintom: '204'
+  image: v01/17-171-409-204.jpg
+  sublists: []
+- pageintom: '205'
+  image: v01/17-171-409-205.jpg
+  sublists: []
+- pageintom: '206'
+  image: v01/17-171-409-206.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3019'
       num: '1'
@@ -142,8 +133,10 @@ sublists:
       num: '21'
       name: ЧАБАЙ Григорий Данилович
       spravka: true
-  - pageintom: '207'
-    page_image: v01/17-171-409-207.jpg
+- pageintom: '207'
+  image: v01/17-171-409-207.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3040'
       num: '1'
@@ -240,8 +233,10 @@ sublists:
       num: '14'
       name: ШАПОШНИКОВ Иван Леонтьевич
       spravka: true
-  - pageintom: '208'
-    page_image: v01/17-171-409-208.jpg
+- pageintom: '208'
+  image: v01/17-171-409-208.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3064'
       num: '1'
@@ -297,8 +292,10 @@ sublists:
       num: '8'
       name: РОЗГОН Иван Афанасьевич
       spravka: true
-  - pageintom: '209'
-    page_image: v01/17-171-409-209.jpg
+- pageintom: '209'
+  image: v01/17-171-409-209.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3079'
       num: '1'
@@ -370,8 +367,10 @@ sublists:
       num: '3'
       name: ТОВАРИЩ Петр Иванович
       spravka: true
-  - pageintom: '210'
-    page_image: v01/17-171-409-210.jpg
+- pageintom: '210'
+  image: v01/17-171-409-210.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3096'
       num: '1'
@@ -404,8 +403,10 @@ sublists:
       num: '4'
       name: ЮЗЕВИЧ Исаак Осипович
       spravka: true
-  - pageintom: '211'
-    page_image: v01/17-171-409-211.jpg
+- pageintom: '211'
+  image: v01/17-171-409-211.jpg
+  sublists:
+  - sublid: '24'
     persons:
     - id: '3104'
       num: '1'

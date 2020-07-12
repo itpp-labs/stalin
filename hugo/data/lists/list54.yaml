@@ -14,17 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '149'
-  image: v02/17-171-410-149.jpg
-- pageintom: '150'
-  image: v02/17-171-410-150.jpg
-- pageintom: '151'
-  image: v02/17-171-410-151.jpg
-- pageintom: '152'
-  image: v02/17-171-410-152.jpg
-- pageintom: '153'
-  image: v02/17-171-410-153.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край'
@@ -38,9 +27,17 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '151'
-    page_image: v02/17-171-410-151.jpg
+pages:
+- pageintom: '149'
+  image: v02/17-171-410-149.jpg
+  sublists: []
+- pageintom: '150'
+  image: v02/17-171-410-150.jpg
+  sublists: []
+- pageintom: '151'
+  image: v02/17-171-410-151.jpg
+  sublists:
+  - sublid: '39'
     persons:
     - id: '4854'
       num: '1'
@@ -144,8 +141,10 @@ sublists:
     - id: '4879'
       num: '26'
       name: КРЫЛОВ Дмитрий Афанасьевич
-  - pageintom: '152'
-    page_image: v02/17-171-410-152.jpg
+- pageintom: '152'
+  image: v02/17-171-410-152.jpg
+  sublists:
+  - sublid: '39'
     persons:
     - id: '4880'
       num: '27'
@@ -261,8 +260,10 @@ sublists:
       num: '56'
       name: УМАНСКИЙ Петр Александрович
       spravka: true
-  - pageintom: '153'
-    page_image: v02/17-171-410-153.jpg
+- pageintom: '153'
+  image: v02/17-171-410-153.jpg
+  sublists:
+  - sublid: '39'
     persons:
     - id: '4910'
       num: '57'

@@ -13,37 +13,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '218'
-  image: v06/17-171-414-218.jpg
-- pageintom: '219'
-  image: v06/17-171-414-219.jpg
-- pageintom: '220'
-  image: v06/17-171-414-220.jpg
-- pageintom: '221'
-  image: v06/17-171-414-221.jpg
-- pageintom: '222'
-  image: v06/17-171-414-222.jpg
-- pageintom: '223'
-  image: v06/17-171-414-223.jpg
-- pageintom: '224'
-  image: v06/17-171-414-224.jpg
-- pageintom: '225'
-  image: v06/17-171-414-225.jpg
-- pageintom: '226'
-  image: v06/17-171-414-226.jpg
-- pageintom: '227'
-  image: v06/17-171-414-227.jpg
-- pageintom: '228'
-  image: v06/17-171-414-228.jpg
-- pageintom: '229'
-  image: v06/17-171-414-229.jpg
-- pageintom: '230'
-  image: v06/17-171-414-230.jpg
-- pageintom: '231'
-  image: v06/17-171-414-231.jpg
-- pageintom: '232'
-  image: v06/17-171-414-232.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
@@ -58,9 +27,41 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '220'
-    page_image: v06/17-171-414-220.jpg
+- title: Список от 3 февраля 1938г. [Москва-центр (б.сотрудн.НКВД)]
+  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
+  sublisttitle: Москва-центр (б.сотрудн.НКВД)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
+- title: Список от 3 февраля 1938г. [г.Калуга.Моск.Киев.ж.д.]
+  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
+  sublisttitle: г.Калуга.Моск.Киев.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 65
+  group_ids:
+  - 13
+pages:
+- pageintom: '218'
+  image: v06/17-171-414-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v06/17-171-414-219.jpg
+  sublists: []
+- pageintom: '220'
+  image: v06/17-171-414-220.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22329'
       num: '1'
@@ -139,8 +140,10 @@ sublists:
       num: '19'
       name: ВОЛЬДИНЕР Иозеф Савельевич
       spravka: true
-  - pageintom: '221'
-    page_image: v06/17-171-414-221.jpg
+- pageintom: '221'
+  image: v06/17-171-414-221.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22348'
       num: '20'
@@ -260,8 +263,10 @@ sublists:
       num: '48'
       name: ЛАЗАРЕВИЧ Михаил Александрович
       spravka: true
-  - pageintom: '222'
-    page_image: v06/17-171-414-222.jpg
+- pageintom: '222'
+  image: v06/17-171-414-222.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22377'
       num: '49'
@@ -382,8 +387,10 @@ sublists:
       num: '77'
       name: РЕДКИН Борис Георгиевич
       spravka: true
-  - pageintom: '223'
-    page_image: v06/17-171-414-223.jpg
+- pageintom: '223'
+  image: v06/17-171-414-223.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22406'
       num: '78'
@@ -495,8 +502,10 @@ sublists:
       num: '105'
       name: ЯКИМОВ Анатолий Алексеевич
       spravka: true
-  - pageintom: '224'
-    page_image: v06/17-171-414-224.jpg
+- pageintom: '224'
+  image: v06/17-171-414-224.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22434'
       num: '106'
@@ -506,8 +515,10 @@ sublists:
       num: '107'
       name: ЯФФЕ Георг Юльевич
       spravka: true
-  - pageintom: '225'
-    page_image: v06/17-171-414-225.jpg
+- pageintom: '225'
+  image: v06/17-171-414-225.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22436'
       num: '1'
@@ -526,8 +537,34 @@ sublists:
       name: ШУМАНОВ Юхан Битишу
       gb_spravka: true
       spravka: true
-  - pageintom: '230'
-    page_image: v06/17-171-414-230.jpg
+- pageintom: '226'
+  image: v06/17-171-414-226.jpg
+  sublists: []
+- pageintom: '227'
+  image: v06/17-171-414-227.jpg
+  sublists: []
+- pageintom: '228'
+  image: v06/17-171-414-228.jpg
+  sublists: []
+- pageintom: '229'
+  image: v06/17-171-414-229.jpg
+  sublists:
+  - sublid: '466'
+    persons:
+    - id: '22439'
+      num: '1'
+      name: ГРАХОЛЬСКИЙ Борис Владимирович
+      spravka: true
+      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(быв.сотрудники НКВД).</p><p
+        align="right"><u>1-я КАТЕГОРИЯ.</u>
+    - id: '22440'
+      num: '2'
+      name: ДОЛИНСКИЙ Семен Моисеевич
+      spravka: true
+- pageintom: '230'
+  image: v06/17-171-414-230.jpg
+  sublists:
+  - sublid: '465'
     persons:
     - id: '22441'
       num: '1'
@@ -540,47 +577,10 @@ sublists:
     - id: '22443'
       num: '3'
       name: МОЙРОВ Лев Васильевич
-- title: Список от 3 февраля 1938г. [Москва-центр (б.сотрудн.НКВД)]
-  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
-  sublisttitle: Москва-центр (б.сотрудн.НКВД)
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 1
-  group_ids:
-  - 1
-  pages:
-  - pageintom: '229'
-    page_image: v06/17-171-414-229.jpg
-    persons:
-    - id: '22439'
-      num: '1'
-      name: ГРАХОЛЬСКИЙ Борис Владимирович
-      spravka: true
-      subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(быв.сотрудники НКВД).</p><p
-        align="right"><u>1-я КАТЕГОРИЯ.</u>
-    - id: '22440'
-      num: '2'
-      name: ДОЛИНСКИЙ Семен Моисеевич
-      spravka: true
-- title: Список от 3 февраля 1938г. [г.Калуга.Моск.Киев.ж.д.]
-  listtitle: Список лиц - Москва-центр; г.Калуга.Моск.-Киевская ж.д.
-  sublisttitle: г.Калуга.Моск.Киев.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 65
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '231'
-    page_image: v06/17-171-414-231.jpg
+- pageintom: '231'
+  image: v06/17-171-414-231.jpg
+  sublists:
+  - sublid: '467'
     persons:
     - id: '22444'
       num: '1'
@@ -666,8 +666,10 @@ sublists:
     - id: '22465'
       num: '22'
       name: ПЕТРУШОВ Илларион Павлович
-  - pageintom: '232'
-    page_image: v06/17-171-414-232.jpg
+- pageintom: '232'
+  image: v06/17-171-414-232.jpg
+  sublists:
+  - sublid: '467'
     persons:
     - id: '22466'
       num: '23'

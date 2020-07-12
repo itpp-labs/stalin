@@ -14,45 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '1'
-  image: v06/17-171-414-001.jpg
-- pageintom: '2'
-  image: v06/17-171-414-002.jpg
-- pageintom: '3'
-  image: v06/17-171-414-003.jpg
-- pageintom: '4'
-  image: v06/17-171-414-004.jpg
-- pageintom: '5'
-  image: v06/17-171-414-005.jpg
-- pageintom: '6'
-  image: v06/17-171-414-006.jpg
-- pageintom: '7'
-  image: v06/17-171-414-007.jpg
-- pageintom: '8'
-  image: v06/17-171-414-008.jpg
-- pageintom: '9'
-  image: v06/17-171-414-009.jpg
-- pageintom: '10'
-  image: v06/17-171-414-010.jpg
-- pageintom: '11'
-  image: v06/17-171-414-011.jpg
-- pageintom: '12'
-  image: v06/17-171-414-012.jpg
-- pageintom: '13'
-  image: v06/17-171-414-013.jpg
-- pageintom: '14'
-  image: v06/17-171-414-014.jpg
-- pageintom: '15'
-  image: v06/17-171-414-015.jpg
-- pageintom: '16'
-  image: v06/17-171-414-016.jpg
-- pageintom: '17'
-  image: v06/17-171-414-017.jpg
-- pageintom: '18'
-  image: v06/17-171-414-018.jpg
-- pageintom: '19'
-  image: v06/17-171-414-019.jpg
 sublists:
 - title: Список от 3 января 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
@@ -67,9 +28,41 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '3'
-    page_image: v06/17-171-414-003.jpg
+- title: Список от 3 января 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+- title: Список от 3 января 1938г. [Москва. ДТО Метро]
+  listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
+  sublisttitle: Москва. ДТО Метро
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 96
+  group_ids:
+  - 0
+pages:
+- pageintom: '1'
+  image: v06/17-171-414-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v06/17-171-414-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v06/17-171-414-003.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19428'
       num: '1'
@@ -149,8 +142,10 @@ sublists:
     - id: '19446'
       num: '19'
       name: БЕРГ, он же ОШЕНЕК Борис Карлович, он же <br />Бахман Эдгарт
-  - pageintom: '4'
-    page_image: v06/17-171-414-004.jpg
+- pageintom: '4'
+  image: v06/17-171-414-004.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19447'
       num: '20'
@@ -259,8 +254,10 @@ sublists:
     - id: '19473'
       num: '46'
       name: ДОБРОВОЛЬСКАЯ-ФАЙНБЕРГ Антонина Михайловна
-  - pageintom: '5'
-    page_image: v06/17-171-414-005.jpg
+- pageintom: '5'
+  image: v06/17-171-414-005.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19474'
       num: '47'
@@ -374,8 +371,10 @@ sublists:
       num: '74'
       name: ЛАШКОВ Александр Кузьмич
       spravka: true
-  - pageintom: '6'
-    page_image: v06/17-171-414-006.jpg
+- pageintom: '6'
+  image: v06/17-171-414-006.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19502'
       num: '75'
@@ -493,8 +492,10 @@ sublists:
       num: '103'
       name: ПЕРЫШКИН Григорий Иванович
       spravka: true
-  - pageintom: '7'
-    page_image: v06/17-171-414-007.jpg
+- pageintom: '7'
+  image: v06/17-171-414-007.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19531'
       num: '104'
@@ -607,8 +608,10 @@ sublists:
       num: '131'
       name: СОЛДАТОВ Никифор Антонович
       spravka: true
-  - pageintom: '8'
-    page_image: v06/17-171-414-008.jpg
+- pageintom: '8'
+  image: v06/17-171-414-008.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19559'
       num: '132'
@@ -724,8 +727,10 @@ sublists:
       num: '159'
       name: ЭСТРИН Семен Ильич
       spravka: true
-  - pageintom: '9'
-    page_image: v06/17-171-414-009.jpg
+- pageintom: '9'
+  image: v06/17-171-414-009.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19587'
       num: '160'
@@ -743,8 +748,10 @@ sublists:
       num: '163'
       name: ЯЦЕВИЧ Леонид Иосифович
       spravka: true
-  - pageintom: '10'
-    page_image: v06/17-171-414-010.jpg
+- pageintom: '10'
+  image: v06/17-171-414-010.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19591'
       num: '1'
@@ -772,8 +779,25 @@ sublists:
       name: ОСМАН ОГЛЫ ХАЙДАР ИБРАГИМ, он же ЯЛАНЖИ ОГЛЫ
       gb_spravka: true
       spravka: true
-  - pageintom: '16'
-    page_image: v06/17-171-414-016.jpg
+- pageintom: '11'
+  image: v06/17-171-414-011.jpg
+  sublists: []
+- pageintom: '12'
+  image: v06/17-171-414-012.jpg
+  sublists: []
+- pageintom: '13'
+  image: v06/17-171-414-013.jpg
+  sublists: []
+- pageintom: '14'
+  image: v06/17-171-414-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v06/17-171-414-015.jpg
+  sublists: []
+- pageintom: '16'
+  image: v06/17-171-414-016.jpg
+  sublists:
+  - sublid: '432'
     persons:
     - id: '19596'
       num: '1'
@@ -824,21 +848,10 @@ sublists:
       num: '14'
       name: ШЛЯПОЧНИКОВ Александр Семенович
       spravka: true
-- title: Список от 3 января 1938г. [Московская область]
-  listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '17'
-    page_image: v06/17-171-414-017.jpg
+- pageintom: '17'
+  image: v06/17-171-414-017.jpg
+  sublists:
+  - sublid: '433'
     persons:
     - id: '19610'
       num: '1'
@@ -873,8 +886,10 @@ sublists:
       num: '8'
       name: ШОЛОХОВ Борис Иванович
       spravka: true
-  - pageintom: '18'
-    page_image: v06/17-171-414-018.jpg
+- pageintom: '18'
+  image: v06/17-171-414-018.jpg
+  sublists:
+  - sublid: '433'
     persons:
     - id: '19618'
       num: '1'
@@ -893,21 +908,10 @@ sublists:
     - id: '19622'
       num: '5'
       name: СОРОКИН Константин Михайлович
-- title: Список от 3 января 1938г. [Москва. ДТО Метро]
-  listtitle: Список лиц - Москва-центр;Московская область;Москва.ДТО Метро
-  sublisttitle: Москва. ДТО Метро
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 96
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '19'
-    page_image: v06/17-171-414-019.jpg
+- pageintom: '19'
+  image: v06/17-171-414-019.jpg
+  sublists:
+  - sublid: '434'
     persons:
     - id: '19623'
       num: '1'

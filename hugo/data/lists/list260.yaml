@@ -14,21 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '77'
-  image: v07/17-171-415-077.jpg
-- pageintom: '78'
-  image: v07/17-171-415-078.jpg
-- pageintom: '79'
-  image: v07/17-171-415-079.jpg
-- pageintom: '80'
-  image: v07/17-171-415-080.jpg
-- pageintom: '81'
-  image: v07/17-171-415-081.jpg
-- pageintom: '82'
-  image: v07/17-171-415-082.jpg
-- pageintom: '83'
-  image: v07/17-171-415-083.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область;г.Воронеж.М.Донбасская ж.д.;г.Воронеж.Ю.Восточная
@@ -43,16 +28,6 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '79'
-    page_image: v07/17-171-415-079.jpg
-    persons:
-    - id: '26615'
-      num: '1'
-      name: ДЭВЭЙКИС Болеслав Антонович
-      spravka: true
-      subtitle1: <p align="center"><u>ВОРОНЕЖСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
-        категория.</u>
 - title: Список от 5 марта 1938г. [г.Воронеж. М-Донбасск.ж.д.]
   listtitle: Список лиц - Воронежская область;г.Воронеж.М.Донбасская ж.д.;г.Воронеж.Ю.Восточная
     ж.д.
@@ -66,9 +41,41 @@ sublists:
   - 129
   group_ids:
   - 13
-  pages:
-  - pageintom: '80'
-    page_image: v07/17-171-415-080.jpg
+- title: Список от 5 марта 1938г. [г.Воронеж Ю-Восточн. ж.д.]
+  listtitle: Список лиц - Воронежская область;г.Воронеж.М.Донбасская ж.д.;г.Воронеж.Ю.Восточная
+    ж.д.
+  sublisttitle: г.Воронеж Ю-Восточн. ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 25
+  geosub_ids:
+  - 130
+  group_ids:
+  - 13
+pages:
+- pageintom: '77'
+  image: v07/17-171-415-077.jpg
+  sublists: []
+- pageintom: '78'
+  image: v07/17-171-415-078.jpg
+  sublists: []
+- pageintom: '79'
+  image: v07/17-171-415-079.jpg
+  sublists:
+  - sublid: '525'
+    persons:
+    - id: '26615'
+      num: '1'
+      name: ДЭВЭЙКИС Болеслав Антонович
+      spravka: true
+      subtitle1: <p align="center"><u>ВОРОНЕЖСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория.</u>
+- pageintom: '80'
+  image: v07/17-171-415-080.jpg
+  sublists:
+  - sublid: '526'
     persons:
     - id: '26616'
       num: '1'
@@ -116,22 +123,10 @@ sublists:
       num: '11'
       name: ШАРАНДАК Григорий Карпович
       spravka: true
-- title: Список от 5 марта 1938г. [г.Воронеж Ю-Восточн. ж.д.]
-  listtitle: Список лиц - Воронежская область;г.Воронеж.М.Донбасская ж.д.;г.Воронеж.Ю.Восточная
-    ж.д.
-  sublisttitle: г.Воронеж Ю-Восточн. ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 25
-  geosub_ids:
-  - 130
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '81'
-    page_image: v07/17-171-415-081.jpg
+- pageintom: '81'
+  image: v07/17-171-415-081.jpg
+  sublists:
+  - sublid: '527'
     persons:
     - id: '26627'
       num: '1'
@@ -219,8 +214,10 @@ sublists:
       num: '21'
       name: КУРДЮМОВ Валентин Иванович
       spravka: true
-  - pageintom: '82'
-    page_image: v07/17-171-415-082.jpg
+- pageintom: '82'
+  image: v07/17-171-415-082.jpg
+  sublists:
+  - sublid: '527'
     persons:
     - id: '26648'
       num: '22'
@@ -258,8 +255,10 @@ sublists:
       num: '30'
       name: ЮРЬЕВ Александр Иосифович
       spravka: true
-  - pageintom: '83'
-    page_image: v07/17-171-415-083.jpg
+- pageintom: '83'
+  image: v07/17-171-415-083.jpg
+  sublists:
+  - sublid: '527'
     persons:
     - id: '26657'
       num: '1'

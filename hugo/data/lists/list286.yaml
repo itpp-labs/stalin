@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '275'
-  image: v07/17-171-415-275.jpg
-- pageintom: '276'
-  image: v07/17-171-415-276.jpg
-- pageintom: '277'
-  image: v07/17-171-415-277.jpg
-- pageintom: '278'
-  image: v07/17-171-415-278.jpg
-- pageintom: '279'
-  image: v07/17-171-415-279.jpg
-- pageintom: '280'
-  image: v07/17-171-415-280.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область
@@ -40,9 +27,17 @@ sublists:
   - 17
   group_ids:
   - 0
-  pages:
-  - pageintom: '277'
-    page_image: v07/17-171-415-277.jpg
+pages:
+- pageintom: '275'
+  image: v07/17-171-415-275.jpg
+  sublists: []
+- pageintom: '276'
+  image: v07/17-171-415-276.jpg
+  sublists: []
+- pageintom: '277'
+  image: v07/17-171-415-277.jpg
+  sublists:
+  - sublid: '504'
     persons:
     - id: '29120'
       num: '1'
@@ -142,8 +137,10 @@ sublists:
       num: '24'
       name: ЗЫКОВ Александр Андреевич
       spravka: true
-  - pageintom: '278'
-    page_image: v07/17-171-415-278.jpg
+- pageintom: '278'
+  image: v07/17-171-415-278.jpg
+  sublists:
+  - sublid: '504'
     persons:
     - id: '29144'
       num: '25'
@@ -253,8 +250,10 @@ sublists:
       num: '52'
       name: СИРОТИНСКИЙ Николай Георгиевич
       spravka: true
-  - pageintom: '279'
-    page_image: v07/17-171-415-279.jpg
+- pageintom: '279'
+  image: v07/17-171-415-279.jpg
+  sublists:
+  - sublid: '504'
     persons:
     - id: '29172'
       num: '53'
@@ -296,8 +295,10 @@ sublists:
       num: '62'
       name: ЭЛЬБАУМ Миней Исаевич
       spravka: true
-  - pageintom: '280'
-    page_image: v07/17-171-415-280.jpg
+- pageintom: '280'
+  image: v07/17-171-415-280.jpg
+  sublists:
+  - sublid: '504'
     persons:
     - id: '29182'
       num: '1'

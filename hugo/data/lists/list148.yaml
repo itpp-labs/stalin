@@ -13,29 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '340'
-  image: v05/17-171-413-340.jpg
-- pageintom: '341'
-  image: v05/17-171-413-341.jpg
-- pageintom: '342'
-  image: v05/17-171-413-342.jpg
-- pageintom: '343'
-  image: v05/17-171-413-343.jpg
-- pageintom: '344'
-  image: v05/17-171-413-344.jpg
-- pageintom: '345'
-  image: v05/17-171-413-345.jpg
-- pageintom: '346'
-  image: v05/17-171-413-346.jpg
-- pageintom: '347'
-  image: v05/17-171-413-347.jpg
-- pageintom: '348'
-  image: v05/17-171-413-348.jpg
-- pageintom: '349'
-  image: v05/17-171-413-349.jpg
-- pageintom: '350'
-  image: v05/17-171-413-350.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Саратовская область]
   listtitle: Список лиц - Саратовская область
@@ -49,9 +26,17 @@ sublists:
   - 14
   group_ids:
   - 0
-  pages:
-  - pageintom: '342'
-    page_image: v05/17-171-413-342.jpg
+pages:
+- pageintom: '340'
+  image: v05/17-171-413-340.jpg
+  sublists: []
+- pageintom: '341'
+  image: v05/17-171-413-341.jpg
+  sublists: []
+- pageintom: '342'
+  image: v05/17-171-413-342.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18755'
       num: '1'
@@ -151,8 +136,10 @@ sublists:
       num: '24'
       name: ВУЛЬФ Гейнрих Андреевич
       spravka: true
-  - pageintom: '343'
-    page_image: v05/17-171-413-343.jpg
+- pageintom: '343'
+  image: v05/17-171-413-343.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18779'
       num: '25'
@@ -265,8 +252,10 @@ sublists:
       name: ЗАСУХИН Дмитрий Николаевич
       doublesexists: true
       spravka: true
-  - pageintom: '344'
-    page_image: v05/17-171-413-344.jpg
+- pageintom: '344'
+  image: v05/17-171-413-344.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18807'
       num: '53'
@@ -373,8 +362,10 @@ sublists:
     - id: '18835'
       num: '81'
       name: ЛЕВЕНТАЛЬ-КЕЛЬЗЕН Феликс Юлиусович
-  - pageintom: '345'
-    page_image: v05/17-171-413-345.jpg
+- pageintom: '345'
+  image: v05/17-171-413-345.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18836'
       num: '82'
@@ -481,8 +472,10 @@ sublists:
       num: '110'
       name: ПОДОВИННИКОВ Петр Иванович
       spravka: true
-  - pageintom: '346'
-    page_image: v05/17-171-413-346.jpg
+- pageintom: '346'
+  image: v05/17-171-413-346.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18865'
       num: '111'
@@ -579,8 +572,10 @@ sublists:
       num: '139'
       name: ТОЛКУНОВ Валерьян Васильевич
       spravka: true
-  - pageintom: '347'
-    page_image: v05/17-171-413-347.jpg
+- pageintom: '347'
+  image: v05/17-171-413-347.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18894'
       num: '140'
@@ -676,8 +671,10 @@ sublists:
       num: '166'
       name: ШУММЕР Карл Николаевич
       spravka: true
-  - pageintom: '348'
-    page_image: v05/17-171-413-348.jpg
+- pageintom: '348'
+  image: v05/17-171-413-348.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18921'
       num: '167'
@@ -691,8 +688,10 @@ sublists:
     - id: '18924'
       num: '170'
       name: ЯНОВСКИЙ Александр Сергеевич
-  - pageintom: '349'
-    page_image: v05/17-171-413-349.jpg
+- pageintom: '349'
+  image: v05/17-171-413-349.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18925'
       num: '1'
@@ -785,8 +784,10 @@ sublists:
     - id: '18949'
       num: '25'
       name: МЮЛЛЕР Владимир Яковлевич
-  - pageintom: '350'
-    page_image: v05/17-171-413-350.jpg
+- pageintom: '350'
+  image: v05/17-171-413-350.jpg
+  sublists:
+  - sublid: '96'
     persons:
     - id: '18950'
       num: '26'

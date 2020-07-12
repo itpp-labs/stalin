@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '320'
-  image: v05/17-171-413-320.jpg
-- pageintom: '321'
-  image: v05/17-171-413-321.jpg
-- pageintom: '322'
-  image: v05/17-171-413-322.jpg
-- pageintom: '323'
-  image: v05/17-171-413-323.jpg
-- pageintom: '324'
-  image: v05/17-171-413-324.jpg
-- pageintom: '325'
-  image: v05/17-171-413-325.jpg
-- pageintom: '326'
-  image: v05/17-171-413-326.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -43,9 +28,17 @@ sublists:
   - 74
   group_ids:
   - 0
-  pages:
-  - pageintom: '322'
-    page_image: v05/17-171-413-322.jpg
+pages:
+- pageintom: '320'
+  image: v05/17-171-413-320.jpg
+  sublists: []
+- pageintom: '321'
+  image: v05/17-171-413-321.jpg
+  sublists: []
+- pageintom: '322'
+  image: v05/17-171-413-322.jpg
+  sublists:
+  - sublid: '94'
     persons:
     - id: '18551'
       num: '1'
@@ -131,8 +124,10 @@ sublists:
       num: '21'
       name: ДУШЕТОВ Рахимбек
       spravka: true
-  - pageintom: '323'
-    page_image: v05/17-171-413-323.jpg
+- pageintom: '323'
+  image: v05/17-171-413-323.jpg
+  sublists:
+  - sublid: '94'
     persons:
     - id: '18572'
       num: '22'
@@ -250,8 +245,10 @@ sublists:
       num: '50'
       name: ТАТИМОВ Мухаметгалий
       spravka: true
-  - pageintom: '324'
-    page_image: v05/17-171-413-324.jpg
+- pageintom: '324'
+  image: v05/17-171-413-324.jpg
+  sublists:
+  - sublid: '94'
     persons:
     - id: '18601'
       num: '51'
@@ -356,8 +353,10 @@ sublists:
       num: '76'
       name: КАИПНАЗАРОВ Мустафа Серекбаевич
       spravka: true
-  - pageintom: '325'
-    page_image: v05/17-171-413-325.jpg
+- pageintom: '325'
+  image: v05/17-171-413-325.jpg
+  sublists:
+  - sublid: '94'
     persons:
     - id: '18627'
       num: '77'
@@ -449,8 +448,10 @@ sublists:
       num: '99'
       name: ЯХИН Сеитахмет
       spravka: true
-  - pageintom: '326'
-    page_image: v05/17-171-413-326.jpg
+- pageintom: '326'
+  image: v05/17-171-413-326.jpg
+  sublists:
+  - sublid: '94'
     persons:
     - id: '18650'
       num: '1'

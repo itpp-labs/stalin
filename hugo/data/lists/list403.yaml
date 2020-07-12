@@ -15,71 +15,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '167'
-  image: v11/17-171-419-167.jpg
-- pageintom: '168'
-  image: v11/17-171-419-168.jpg
-- pageintom: '169'
-  image: v11/17-171-419-169.jpg
-- pageintom: '170'
-  image: v11/17-171-419-170.jpg
-- pageintom: '171'
-  image: v11/17-171-419-171.jpg
-- pageintom: '172'
-  image: v11/17-171-419-172.jpg
-- pageintom: '173'
-  image: v11/17-171-419-173.jpg
-- pageintom: '174'
-  image: v11/17-171-419-174.jpg
-- pageintom: '175'
-  image: v11/17-171-419-175.jpg
-- pageintom: '176'
-  image: v11/17-171-419-176.jpg
-- pageintom: '177'
-  image: v11/17-171-419-177.jpg
-- pageintom: '178'
-  image: v11/17-171-419-178.jpg
-- pageintom: '179'
-  image: v11/17-171-419-179.jpg
-- pageintom: '180'
-  image: v11/17-171-419-180.jpg
-- pageintom: '181'
-  image: v11/17-171-419-181.jpg
-- pageintom: '182'
-  image: v11/17-171-419-182.jpg
-- pageintom: '183'
-  image: v11/17-171-419-183.jpg
-- pageintom: '184'
-  image: v11/17-171-419-184.jpg
-- pageintom: '185'
-  image: v11/17-171-419-185.jpg
-- pageintom: '186'
-  image: v11/17-171-419-186.jpg
-- pageintom: '187'
-  image: v11/17-171-419-187.jpg
-- pageintom: '188'
-  image: v11/17-171-419-188.jpg
-- pageintom: '189'
-  image: v11/17-171-419-189.jpg
-- pageintom: '190'
-  image: v11/17-171-419-190.jpg
-- pageintom: '191'
-  image: v11/17-171-419-191.jpg
-- pageintom: '192'
-  image: v11/17-171-419-192.jpg
-- pageintom: '193'
-  image: v11/17-171-419-193.jpg
-- pageintom: '194'
-  image: v11/17-171-419-194.jpg
-- pageintom: '195'
-  image: v11/17-171-419-195.jpg
-- pageintom: '196'
-  image: v11/17-171-419-196.jpg
-- pageintom: '197'
-  image: v11/17-171-419-197.jpg
-- pageintom: '198'
-  image: v11/17-171-419-198.jpg
 sublists:
 - title: Список от 25 сентября 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
@@ -95,9 +30,170 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '169'
-    page_image: v11/17-171-419-169.jpg
+- title: Список от 25 сентября 1938г. [Азербайджанская ССР]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Азербайджанская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 2
+  geosub_ids:
+  - 39
+  group_ids:
+  - 0
+- title: Список от 25 сентября 1938г. [Белорусская ССР]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Белорусская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 37
+  group_ids:
+  - 0
+- title: Список от 25 сентября 1938г. [Ленинградская область]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Ленинградская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
+- title: Список от 25 сентября 1938г. [Орджоникидзевский край]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Орджоникидзевский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 52
+  geosub_ids:
+  - 22
+  group_ids:
+  - 0
+- title: Список от 25 сентября 1938г. [Украинская ССР]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Украинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 77
+  - 78
+  - 79
+  - 80
+  - 81
+  - 83
+  - 85
+  geosub_ids:
+  - 5
+  - 103
+  - 105
+  - 106
+  - 53
+  - 55
+  - 90
+  - 91
+  group_ids:
+  - 0
+- title: Список от 25 сентября 1938г. [Белорусская жел.дор.]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Белорусская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 4
+  geosub_ids:
+  - 110
+  group_ids:
+  - 13
+- title: Список от 25 сентября 1938г. [Горьковская жел.дор.]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Горьковская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 27
+  geosub_ids:
+  - 99
+  group_ids:
+  - 13
+- title: Список от 25 сентября 1938г. [Московск.Киевск.жел.дор.]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Московск.Киевск.жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 137
+  group_ids:
+  - 13
+- title: Список от 25 сентября 1938г. [Рязано-Уральская жел.дор.]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Рязано-Уральская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 57
+  geosub_ids:
+  - 157
+  group_ids:
+  - 13
+- title: Список от 25 сентября 1938г. [Южная жел.дор.]
+  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
+    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
+    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
+  sublisttitle: Южная жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 86
+  geosub_ids:
+  - 61
+  group_ids:
+  - 13
+pages:
+- pageintom: '167'
+  image: v11/17-171-419-167.jpg
+  sublists: []
+- pageintom: '168'
+  image: v11/17-171-419-168.jpg
+  sublists: []
+- pageintom: '169'
+  image: v11/17-171-419-169.jpg
+  sublists:
+  - sublid: '639'
     persons:
     - id: '42882'
       num: '1'
@@ -182,8 +278,10 @@ sublists:
       num: '21'
       name: ЗМОЙРО Владимир Александрович
       spravka: true
-  - pageintom: '170'
-    page_image: v11/17-171-419-170.jpg
+- pageintom: '170'
+  image: v11/17-171-419-170.jpg
+  sublists:
+  - sublid: '639'
     persons:
     - id: '42903'
       num: '22'
@@ -297,8 +395,10 @@ sublists:
       num: '49'
       name: РАМАН Артур Яковлевич
       spravka: true
-  - pageintom: '171'
-    page_image: v11/17-171-419-171.jpg
+- pageintom: '171'
+  image: v11/17-171-419-171.jpg
+  sublists:
+  - sublid: '639'
     persons:
     - id: '42931'
       num: '50'
@@ -399,8 +499,10 @@ sublists:
       num: '74'
       name: ЯНЦ Николай Емельянович
       spravka: true
-  - pageintom: '172'
-    page_image: v11/17-171-419-172.jpg
+- pageintom: '172'
+  image: v11/17-171-419-172.jpg
+  sublists:
+  - sublid: '639'
     persons:
     - id: '42956'
       num: '1'
@@ -445,23 +547,10 @@ sublists:
     - id: '42967'
       num: '12'
       name: ЩЕРБАКОВ Иван Ефремович
-- title: Список от 25 сентября 1938г. [Азербайджанская ССР]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Азербайджанская ССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 2
-  geosub_ids:
-  - 39
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '173'
-    page_image: v11/17-171-419-173.jpg
+- pageintom: '173'
+  image: v11/17-171-419-173.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '42968'
       num: '1'
@@ -532,8 +621,10 @@ sublists:
     - id: '42988'
       num: '21'
       name: ГАДЖИЕВ Зейнал Акперович
-  - pageintom: '174'
-    page_image: v11/17-171-419-174.jpg
+- pageintom: '174'
+  image: v11/17-171-419-174.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '42989'
       num: '22'
@@ -617,8 +708,10 @@ sublists:
     - id: '43014'
       num: '47'
       name: МНАЦАКАНОВ Аванес Богдасарович
-  - pageintom: '175'
-    page_image: v11/17-171-419-175.jpg
+- pageintom: '175'
+  image: v11/17-171-419-175.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '43015'
       num: '48'
@@ -700,8 +793,10 @@ sublists:
     - id: '43040'
       num: '73'
       name: ФЕРШТАНДТ Евгений Михайлович
-  - pageintom: '176'
-    page_image: v11/17-171-419-176.jpg
+- pageintom: '176'
+  image: v11/17-171-419-176.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '43041'
       num: '74'
@@ -725,8 +820,10 @@ sublists:
     - id: '43047'
       num: '80'
       name: ЭЛЬБАУМ Иосиф Моисеевич
-  - pageintom: '177'
-    page_image: v11/17-171-419-177.jpg
+- pageintom: '177'
+  image: v11/17-171-419-177.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '43048'
       num: '1'
@@ -789,8 +886,10 @@ sublists:
     - id: '43066'
       num: '19'
       name: МАКСИМЧЕНКО Анатолий Прокофьевич
-  - pageintom: '178'
-    page_image: v11/17-171-419-178.jpg
+- pageintom: '178'
+  image: v11/17-171-419-178.jpg
+  sublists:
+  - sublid: '640'
     persons:
     - id: '43067'
       num: '20'
@@ -849,23 +948,10 @@ sublists:
     - id: '43085'
       num: '38'
       name: ЯКОВЛЕВ Иван Ильич
-- title: Список от 25 сентября 1938г. [Белорусская ССР]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Белорусская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 4
-  geosub_ids:
-  - 37
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '179'
-    page_image: v11/17-171-419-179.jpg
+- pageintom: '179'
+  image: v11/17-171-419-179.jpg
+  sublists:
+  - sublid: '641'
     persons:
     - id: '43086'
       num: '1'
@@ -926,23 +1012,10 @@ sublists:
       num: '15'
       name: ЯНОВСКИЙ Владимир Иванович
       spravka: true
-- title: Список от 25 сентября 1938г. [Ленинградская область]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Ленинградская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 46
-  geosub_ids:
-  - 44
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '180'
-    page_image: v11/17-171-419-180.jpg
+- pageintom: '180'
+  image: v11/17-171-419-180.jpg
+  sublists:
+  - sublid: '642'
     persons:
     - id: '43101'
       num: '1'
@@ -1007,23 +1080,10 @@ sublists:
       num: '17'
       name: ЯКОВЛЕВ Леонид Павлович
       spravka: true
-- title: Список от 25 сентября 1938г. [Орджоникидзевский край]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Орджоникидзевский край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 52
-  geosub_ids:
-  - 22
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '181'
-    page_image: v11/17-171-419-181.jpg
+- pageintom: '181'
+  image: v11/17-171-419-181.jpg
+  sublists:
+  - sublid: '643'
     persons:
     - id: '43118'
       num: '1'
@@ -1051,36 +1111,10 @@ sublists:
       name: ШЕРШЕВСКИЙ Александр Михайлович
       doublesexists: true
       spravka: true
-- title: Список от 25 сентября 1938г. [Украинская ССР]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Украинская ССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 77
-  - 78
-  - 79
-  - 80
-  - 81
-  - 83
-  - 85
-  geosub_ids:
-  - 5
-  - 103
-  - 105
-  - 106
-  - 53
-  - 55
-  - 90
-  - 91
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '182'
-    page_image: v11/17-171-419-182.jpg
+- pageintom: '182'
+  image: v11/17-171-419-182.jpg
+  sublists:
+  - sublid: '644'
     persons:
     - id: '43124'
       num: '1'
@@ -1157,8 +1191,10 @@ sublists:
       num: '19'
       name: ЯНКОВИЧ Семен Александрович
       spravka: true
-  - pageintom: '183'
-    page_image: v11/17-171-419-183.jpg
+- pageintom: '183'
+  image: v11/17-171-419-183.jpg
+  sublists:
+  - sublid: '644'
     persons:
     - id: '43143'
       num: '20'
@@ -1255,8 +1291,10 @@ sublists:
       num: '45'
       name: ПОЛЯКОВ Василий Иванович
       spravka: true
-  - pageintom: '184'
-    page_image: v11/17-171-419-184.jpg
+- pageintom: '184'
+  image: v11/17-171-419-184.jpg
+  sublists:
+  - sublid: '644'
     persons:
     - id: '43169'
       num: '46'
@@ -1360,8 +1398,10 @@ sublists:
       num: '71'
       name: ПОЛТОРАЦКИЙ Яков Тимофеевич
       spravka: true
-  - pageintom: '185'
-    page_image: v11/17-171-419-185.jpg
+- pageintom: '185'
+  image: v11/17-171-419-185.jpg
+  sublists:
+  - sublid: '644'
     persons:
     - id: '43195'
       num: '72'
@@ -1434,8 +1474,10 @@ sublists:
     - id: '43212'
       num: '89'
       name: ШАГУН Никита Иванович
-  - pageintom: '186'
-    page_image: v11/17-171-419-186.jpg
+- pageintom: '186'
+  image: v11/17-171-419-186.jpg
+  sublists:
+  - sublid: '644'
     persons:
     - id: '43213'
       num: '1'
@@ -1465,23 +1507,10 @@ sublists:
       num: '7'
       name: КРОХИН Андрей Михайлович
       subtitle1: <p align="center"><u>Житомирская область.</u>
-- title: Список от 25 сентября 1938г. [Белорусская жел.дор.]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Белорусская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 4
-  geosub_ids:
-  - 110
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '187'
-    page_image: v11/17-171-419-187.jpg
+- pageintom: '187'
+  image: v11/17-171-419-187.jpg
+  sublists:
+  - sublid: '645'
     persons:
     - id: '43220'
       num: '1'
@@ -1539,8 +1568,10 @@ sublists:
     - id: '43236'
       num: '17'
       name: ЩЕРБАКОВ Артем Петрович
-  - pageintom: '188'
-    page_image: v11/17-171-419-188.jpg
+- pageintom: '188'
+  image: v11/17-171-419-188.jpg
+  sublists:
+  - sublid: '645'
     persons:
     - id: '43237'
       num: '1'
@@ -1565,23 +1596,10 @@ sublists:
     - id: '43243'
       num: '7'
       name: ЛОБАНОВ Григорий Поликарпович
-- title: Список от 25 сентября 1938г. [Горьковская жел.дор.]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Горьковская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 27
-  geosub_ids:
-  - 99
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '189'
-    page_image: v11/17-171-419-189.jpg
+- pageintom: '189'
+  image: v11/17-171-419-189.jpg
+  sublists:
+  - sublid: '646'
     persons:
     - id: '43244'
       num: '1'
@@ -1668,8 +1686,10 @@ sublists:
       num: '22'
       name: РИЗО Михаил Александрович
       spravka: true
-  - pageintom: '190'
-    page_image: v11/17-171-419-190.jpg
+- pageintom: '190'
+  image: v11/17-171-419-190.jpg
+  sublists:
+  - sublid: '646'
     persons:
     - id: '43266'
       num: '23'
@@ -1693,8 +1713,10 @@ sublists:
       num: '28'
       name: ЦОДИКОВ Илья Михайлович
       spravka: true
-  - pageintom: '191'
-    page_image: v11/17-171-419-191.jpg
+- pageintom: '191'
+  image: v11/17-171-419-191.jpg
+  sublists:
+  - sublid: '646'
     persons:
     - id: '43272'
       num: '1'
@@ -1762,8 +1784,10 @@ sublists:
       num: '17'
       name: РАСТОРОЦКИЙ Федор Никандрович
       spravka: true
-  - pageintom: '192'
-    page_image: v11/17-171-419-192.jpg
+- pageintom: '192'
+  image: v11/17-171-419-192.jpg
+  sublists:
+  - sublid: '646'
     persons:
     - id: '43289'
       num: '18'
@@ -1777,23 +1801,10 @@ sublists:
       num: '20'
       name: ЧЕЛЬКИС Анатолий Матвеевич
       spravka: true
-- title: Список от 25 сентября 1938г. [Московск.Киевск.жел.дор.]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Московск.Киевск.жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 137
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '193'
-    page_image: v11/17-171-419-193.jpg
+- pageintom: '193'
+  image: v11/17-171-419-193.jpg
+  sublists:
+  - sublid: '647'
     persons:
     - id: '43292'
       num: '1'
@@ -1830,8 +1841,10 @@ sublists:
     - id: '43300'
       num: '9'
       name: ЧЕКМУСОВ Иван Трофимович
-  - pageintom: '194'
-    page_image: v11/17-171-419-194.jpg
+- pageintom: '194'
+  image: v11/17-171-419-194.jpg
+  sublists:
+  - sublid: '647'
     persons:
     - id: '43301'
       num: '1'
@@ -1868,23 +1881,10 @@ sublists:
     - id: '43310'
       num: '10'
       name: ОВЧИННИКОВ Николай Владимирович
-- title: Список от 25 сентября 1938г. [Рязано-Уральская жел.дор.]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Рязано-Уральская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 57
-  geosub_ids:
-  - 157
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '195'
-    page_image: v11/17-171-419-195.jpg
+- pageintom: '195'
+  image: v11/17-171-419-195.jpg
+  sublists:
+  - sublid: '648'
     persons:
     - id: '43311'
       num: '1'
@@ -1935,8 +1935,10 @@ sublists:
     - id: '43323'
       num: '13'
       name: ТЕПЛОУХОВ Яков Александрович
-  - pageintom: '196'
-    page_image: v11/17-171-419-196.jpg
+- pageintom: '196'
+  image: v11/17-171-419-196.jpg
+  sublists:
+  - sublid: '648'
     persons:
     - id: '43324'
       num: '1'
@@ -1972,23 +1974,10 @@ sublists:
     - id: '43332'
       num: '9'
       name: СИЛКИН Петр Тимофеевич
-- title: Список от 25 сентября 1938г. [Южная жел.дор.]
-  listtitle: Список лиц - Москва-центр,Азербайджанская ССР,Белорусская ССР,Ленинградская
-    область,Орджоникидзевский край,Украинская ССР,Белорусская ж.д.,Горьковская ж.д.,Моск.-Киевская
-    ж.д.,Рязано-Уральская ж.д.,Южная ж.д.
-  sublisttitle: Южная жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 86
-  geosub_ids:
-  - 61
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '197'
-    page_image: v11/17-171-419-197.jpg
+- pageintom: '197'
+  image: v11/17-171-419-197.jpg
+  sublists:
+  - sublid: '649'
     persons:
     - id: '43333'
       num: '1'
@@ -2063,8 +2052,10 @@ sublists:
     - id: '43352'
       num: '20'
       name: ЯКУБОВИЧ Яков Григорьевич
-  - pageintom: '198'
-    page_image: v11/17-171-419-198.jpg
+- pageintom: '198'
+  image: v11/17-171-419-198.jpg
+  sublists:
+  - sublid: '649'
     persons:
     - id: '43353'
       num: '1'

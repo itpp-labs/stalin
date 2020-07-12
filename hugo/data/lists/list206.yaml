@@ -13,37 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '178'
-  image: v10/17-171-418-178.jpg
-- pageintom: '179'
-  image: v10/17-171-418-179.jpg
-- pageintom: '180'
-  image: v10/17-171-418-180.jpg
-- pageintom: '181'
-  image: v10/17-171-418-181.jpg
-- pageintom: '182'
-  image: v10/17-171-418-182.jpg
-- pageintom: '183'
-  image: v10/17-171-418-183.jpg
-- pageintom: '184'
-  image: v10/17-171-418-184.jpg
-- pageintom: '185'
-  image: v10/17-171-418-185.jpg
-- pageintom: '186'
-  image: v10/17-171-418-186.jpg
-- pageintom: '187'
-  image: v10/17-171-418-187.jpg
-- pageintom: '188'
-  image: v10/17-171-418-188.jpg
-- pageintom: '189'
-  image: v10/17-171-418-189.jpg
-- pageintom: '190'
-  image: v10/17-171-418-190.jpg
-- pageintom: '191'
-  image: v10/17-171-418-191.jpg
-- pageintom: '192'
-  image: v10/17-171-418-192.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Саратовская область]
   listtitle: Список лиц - Саратовская область, г.Саратов-Рязано-Уральская ж.д.
@@ -58,9 +27,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '180'
-    page_image: v10/17-171-418-180.jpg
+- title: Список от 12 сентября 1938г. [Гор.Саратов. Рязано-Уральская ж.д.]
+  listtitle: Список лиц - Саратовская область, г.Саратов-Рязано-Уральская ж.д.
+  sublisttitle: Гор.Саратов. Рязано-Уральская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 57
+  geosub_ids:
+  - 157
+  group_ids:
+  - 13
+pages:
+- pageintom: '178'
+  image: v10/17-171-418-178.jpg
+  sublists: []
+- pageintom: '179'
+  image: v10/17-171-418-179.jpg
+  sublists: []
+- pageintom: '180'
+  image: v10/17-171-418-180.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39688'
       num: '1'
@@ -141,8 +130,10 @@ sublists:
       num: '20'
       name: ГИНТЛИС Вольф Борисович
       spravka: true
-  - pageintom: '181'
-    page_image: v10/17-171-418-181.jpg
+- pageintom: '181'
+  image: v10/17-171-418-181.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39708'
       num: '21'
@@ -247,8 +238,10 @@ sublists:
     - id: '39735'
       num: '48'
       name: КНЕЛЬЦ Федор Васильевич
-  - pageintom: '182'
-    page_image: v10/17-171-418-182.jpg
+- pageintom: '182'
+  image: v10/17-171-418-182.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39736'
       num: '49'
@@ -339,8 +332,10 @@ sublists:
     - id: '39762'
       num: '75'
       name: МОРОЗОВ Иван Михайлович
-  - pageintom: '183'
-    page_image: v10/17-171-418-183.jpg
+- pageintom: '183'
+  image: v10/17-171-418-183.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39763'
       num: '76'
@@ -436,8 +431,10 @@ sublists:
       num: '103'
       name: СОРОКИН Николай Иванович
       spravka: true
-  - pageintom: '184'
-    page_image: v10/17-171-418-184.jpg
+- pageintom: '184'
+  image: v10/17-171-418-184.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39791'
       num: '104'
@@ -538,8 +535,10 @@ sublists:
     - id: '39818'
       num: '131'
       name: ЩЕКОТОВ Сергей Николаевич
-  - pageintom: '185'
-    page_image: v10/17-171-418-185.jpg
+- pageintom: '185'
+  image: v10/17-171-418-185.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39819'
       num: '132'
@@ -551,8 +550,10 @@ sublists:
     - id: '39821'
       num: '134'
       name: ЯКОВЛЕВ Виктор Петрович
-  - pageintom: '186'
-    page_image: v10/17-171-418-186.jpg
+- pageintom: '186'
+  image: v10/17-171-418-186.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39822'
       num: '1'
@@ -565,8 +566,16 @@ sublists:
       num: '2'
       name: ЭМИХ Иоган Иоганович
       gb_spravka: true
-  - pageintom: '189'
-    page_image: v10/17-171-418-189.jpg
+- pageintom: '187'
+  image: v10/17-171-418-187.jpg
+  sublists: []
+- pageintom: '188'
+  image: v10/17-171-418-188.jpg
+  sublists: []
+- pageintom: '189'
+  image: v10/17-171-418-189.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39824'
       num: '1'
@@ -657,8 +666,10 @@ sublists:
       num: '22'
       name: КНИЖНИКОВ Иван Михайлович
       spravka: true
-  - pageintom: '190'
-    page_image: v10/17-171-418-190.jpg
+- pageintom: '190'
+  image: v10/17-171-418-190.jpg
+  sublists:
+  - sublid: '332'
     persons:
     - id: '39846'
       num: '23'
@@ -752,21 +763,10 @@ sublists:
     - id: '39870'
       num: '47'
       name: ЮДЕНИЧ Владимир Петрович
-- title: Список от 12 сентября 1938г. [Гор.Саратов. Рязано-Уральская ж.д.]
-  listtitle: Список лиц - Саратовская область, г.Саратов-Рязано-Уральская ж.д.
-  sublisttitle: Гор.Саратов. Рязано-Уральская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 57
-  geosub_ids:
-  - 157
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '191'
-    page_image: v10/17-171-418-191.jpg
+- pageintom: '191'
+  image: v10/17-171-418-191.jpg
+  sublists:
+  - sublid: '333'
     persons:
     - id: '39871'
       num: '1'
@@ -792,8 +792,10 @@ sublists:
     - id: '39876'
       num: '6'
       name: ФЕДОРОВ Андрей Дмитриевич
-  - pageintom: '192'
-    page_image: v10/17-171-418-192.jpg
+- pageintom: '192'
+  image: v10/17-171-418-192.jpg
+  sublists:
+  - sublid: '333'
     persons:
     - id: '39877'
       num: '1'

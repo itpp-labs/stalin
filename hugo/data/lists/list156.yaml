@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '7'
-  image: v09/17-171-417-007.jpg
-- pageintom: '8'
-  image: v09/17-171-417-008.jpg
-- pageintom: '9'
-  image: v09/17-171-417-009.jpg
-- pageintom: '10'
-  image: v09/17-171-417-010.jpg
-- pageintom: '11'
-  image: v09/17-171-417-011.jpg
-- pageintom: '12'
-  image: v09/17-171-417-012.jpg
-- pageintom: '13'
-  image: v09/17-171-417-013.jpg
 sublists:
 - title: Список от 10.VI.38г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -39,9 +24,17 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '9'
-    page_image: v09/17-171-417-009.jpg
+pages:
+- pageintom: '7'
+  image: v09/17-171-417-007.jpg
+  sublists: []
+- pageintom: '8'
+  image: v09/17-171-417-008.jpg
+  sublists: []
+- pageintom: '9'
+  image: v09/17-171-417-009.jpg
+  sublists:
+  - sublid: '99'
     persons:
     - id: '33331'
       num: '1'
@@ -128,8 +121,10 @@ sublists:
       num: '21'
       name: ГАВРИЛОВ Андрей Ефимович
       spravka: true
-  - pageintom: '10'
-    page_image: v09/17-171-417-010.jpg
+- pageintom: '10'
+  image: v09/17-171-417-010.jpg
+  sublists:
+  - sublid: '99'
     persons:
     - id: '33352'
       num: '22'
@@ -240,8 +235,10 @@ sublists:
       num: '50'
       name: МАКАРОВ Игнатий Иванович
       spravka: true
-  - pageintom: '11'
-    page_image: v09/17-171-417-011.jpg
+- pageintom: '11'
+  image: v09/17-171-417-011.jpg
+  sublists:
+  - sublid: '99'
     persons:
     - id: '33381'
       num: '51'
@@ -345,8 +342,10 @@ sublists:
     - id: '33409'
       num: '79'
       name: СТАВИНСКИЙ Филипп Исакович
-  - pageintom: '12'
-    page_image: v09/17-171-417-012.jpg
+- pageintom: '12'
+  image: v09/17-171-417-012.jpg
+  sublists:
+  - sublid: '99'
     persons:
     - id: '33410'
       num: '80'
@@ -393,8 +392,10 @@ sublists:
     - id: '33422'
       num: '92'
       name: ЯРРУЛИН Киям Яруллович
-  - pageintom: '13'
-    page_image: v09/17-171-417-013.jpg
+- pageintom: '13'
+  image: v09/17-171-417-013.jpg
+  sublists:
+  - sublid: '99'
     persons:
     - id: '33423'
       num: '1'

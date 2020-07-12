@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '165'
-  image: v05/17-171-413-165.jpg
-- pageintom: '166'
-  image: v05/17-171-413-166.jpg
-- pageintom: '167'
-  image: v05/17-171-413-167.jpg
-- pageintom: '168'
-  image: v05/17-171-413-168.jpg
-- pageintom: '169'
-  image: v05/17-171-413-169.jpg
-- pageintom: '170'
-  image: v05/17-171-413-170.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Свердловская область]
   listtitle: Список лиц - Свердловская область, Омск-Омская ж.д.
@@ -38,9 +25,29 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '167'
-    page_image: v05/17-171-413-167.jpg
+- title: Список от 7 декабря 1937г. [Омск - Омская ж.д.]
+  listtitle: Список лиц - Свердловская область, Омск-Омская ж.д.
+  sublisttitle: Омск - Омская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 51
+  geosub_ids:
+  - 107
+  group_ids:
+  - 13
+pages:
+- pageintom: '165'
+  image: v05/17-171-413-165.jpg
+  sublists: []
+- pageintom: '166'
+  image: v05/17-171-413-166.jpg
+  sublists: []
+- pageintom: '167'
+  image: v05/17-171-413-167.jpg
+  sublists:
+  - sublid: '279'
     persons:
     - id: '16401'
       num: '1'
@@ -114,8 +121,10 @@ sublists:
       num: '18'
       name: ЮРГАНОВ Николай Иванович
       spravka: true
-  - pageintom: '168'
-    page_image: v05/17-171-413-168.jpg
+- pageintom: '168'
+  image: v05/17-171-413-168.jpg
+  sublists:
+  - sublid: '279'
     persons:
     - id: '16419'
       num: '1'
@@ -154,21 +163,10 @@ sublists:
       num: '9'
       name: ЭНБЕКОВА Мария Ивановна
       spravka: true
-- title: Список от 7 декабря 1937г. [Омск - Омская ж.д.]
-  listtitle: Список лиц - Свердловская область, Омск-Омская ж.д.
-  sublisttitle: Омск - Омская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 51
-  geosub_ids:
-  - 107
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '169'
-    page_image: v05/17-171-413-169.jpg
+- pageintom: '169'
+  image: v05/17-171-413-169.jpg
+  sublists:
+  - sublid: '280'
     persons:
     - id: '16428'
       num: '1'
@@ -224,8 +222,10 @@ sublists:
     - id: '16443'
       num: '16'
       name: ШМИДТ Иосиф Иосифович
-  - pageintom: '170'
-    page_image: v05/17-171-413-170.jpg
+- pageintom: '170'
+  image: v05/17-171-413-170.jpg
+  sublists:
+  - sublid: '280'
     persons:
     - id: '16444'
       num: '1'

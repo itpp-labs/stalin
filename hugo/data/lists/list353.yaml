@@ -13,35 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '167'
-  image: v06/17-171-414-167.jpg
-- pageintom: '168'
-  image: v06/17-171-414-168.jpg
-- pageintom: '169'
-  image: v06/17-171-414-169.jpg
-- pageintom: '170'
-  image: v06/17-171-414-170.jpg
-- pageintom: '171'
-  image: v06/17-171-414-171.jpg
-- pageintom: '172'
-  image: v06/17-171-414-172.jpg
-- pageintom: '173'
-  image: v06/17-171-414-173.jpg
-- pageintom: '174'
-  image: v06/17-171-414-174.jpg
-- pageintom: '175'
-  image: v06/17-171-414-175.jpg
-- pageintom: '176'
-  image: v06/17-171-414-176.jpg
-- pageintom: '177'
-  image: v06/17-171-414-177.jpg
-- pageintom: '178'
-  image: v06/17-171-414-178.jpg
-- pageintom: '179'
-  image: v06/17-171-414-179.jpg
-- pageintom: '180'
-  image: v06/17-171-414-180.jpg
 sublists:
 - title: Список от 3 января 1938г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -56,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '169'
-    page_image: v06/17-171-414-169.jpg
+pages:
+- pageintom: '167'
+  image: v06/17-171-414-167.jpg
+  sublists: []
+- pageintom: '168'
+  image: v06/17-171-414-168.jpg
+  sublists: []
+- pageintom: '169'
+  image: v06/17-171-414-169.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21652'
       num: '1'
@@ -158,8 +137,10 @@ sublists:
       num: '23'
       name: АНЧАБАДЗЕ Варлам Тарасович
       spravka: true
-  - pageintom: '170'
-    page_image: v06/17-171-414-170.jpg
+- pageintom: '170'
+  image: v06/17-171-414-170.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21675'
       num: '24'
@@ -277,8 +258,10 @@ sublists:
       num: '52'
       name: ВАЗНЕВСКИЙ Василий Ильич
       spravka: true
-  - pageintom: '171'
-    page_image: v06/17-171-414-171.jpg
+- pageintom: '171'
+  image: v06/17-171-414-171.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21704'
       num: '53'
@@ -401,8 +384,10 @@ sublists:
       num: '82'
       name: ГУЛУА Владимир Петрович
       spravka: true
-  - pageintom: '172'
-    page_image: v06/17-171-414-172.jpg
+- pageintom: '172'
+  image: v06/17-171-414-172.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21734'
       num: '83'
@@ -524,8 +509,10 @@ sublists:
       num: '112'
       name: ИВАНОВ Семен Григорьевич
       spravka: true
-  - pageintom: '173'
-    page_image: v06/17-171-414-173.jpg
+- pageintom: '173'
+  image: v06/17-171-414-173.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21764'
       num: '113'
@@ -648,8 +635,10 @@ sublists:
       num: '142'
       name: КИРВАЛИДЗЕ Платон Иванович
       spravka: true
-  - pageintom: '174'
-    page_image: v06/17-171-414-174.jpg
+- pageintom: '174'
+  image: v06/17-171-414-174.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21794'
       num: '143'
@@ -772,8 +761,10 @@ sublists:
       num: '172'
       name: МАТИНЯН Анаида Абрамовна
       spravka: true
-  - pageintom: '175'
-    page_image: v06/17-171-414-175.jpg
+- pageintom: '175'
+  image: v06/17-171-414-175.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21824'
       num: '173'
@@ -891,8 +882,10 @@ sublists:
       num: '200'
       name: НАРСКИХ Вениамин Иванович
       spravka: true
-  - pageintom: '176'
-    page_image: v06/17-171-414-176.jpg
+- pageintom: '176'
+  image: v06/17-171-414-176.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21852'
       num: '201'
@@ -1010,8 +1003,10 @@ sublists:
       num: '229'
       name: САЛТХУЦИШВИЛИ Герасим Игнатьевич
       spravka: true
-  - pageintom: '177'
-    page_image: v06/17-171-414-177.jpg
+- pageintom: '177'
+  image: v06/17-171-414-177.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21881'
       num: '230'
@@ -1130,8 +1125,10 @@ sublists:
       num: '258'
       name: ХАРЧИЛАВА Рабидон Учалович
       spravka: true
-  - pageintom: '178'
-    page_image: v06/17-171-414-178.jpg
+- pageintom: '178'
+  image: v06/17-171-414-178.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '20627'
       num: '259'
@@ -1252,8 +1249,10 @@ sublists:
       num: '287'
       name: ЧОЛОКУА Баджга Асланович
       spravka: true
-  - pageintom: '179'
-    page_image: v06/17-171-414-179.jpg
+- pageintom: '179'
+  image: v06/17-171-414-179.jpg
+  sublists:
+  - sublid: '409'
     persons:
     - id: '21939'
       num: '288'
@@ -1308,3 +1307,6 @@ sublists:
       num: '300'
       name: ЯРЦЕВ Алексей Петрович
       spravka: true
+- pageintom: '180'
+  image: v06/17-171-414-180.jpg
+  sublists: []

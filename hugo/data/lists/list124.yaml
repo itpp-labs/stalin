@@ -12,11 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '124'
-  image: v05/17-171-413-124.jpg
-- pageintom: '125'
-  image: v05/17-171-413-125.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -30,9 +25,14 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '125'
-    page_image: v05/17-171-413-125.jpg
+pages:
+- pageintom: '124'
+  image: v05/17-171-413-124.jpg
+  sublists: []
+- pageintom: '125'
+  image: v05/17-171-413-125.jpg
+  sublists:
+  - sublid: '81'
     persons:
     - id: '15512'
       num: '1'

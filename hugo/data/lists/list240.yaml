@@ -12,11 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '178'
-  image: v03/17-171-411-178.jpg
-- pageintom: '179'
-  image: v03/17-171-411-179.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -30,9 +25,14 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '179'
-    page_image: v03/17-171-411-179.jpg
+pages:
+- pageintom: '178'
+  image: v03/17-171-411-178.jpg
+  sublists: []
+- pageintom: '179'
+  image: v03/17-171-411-179.jpg
+  sublists:
+  - sublid: '359'
     persons:
     - id: '9724'
       num: '1'

@@ -14,41 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   kosior: true
-pages:
-- pageintom: '224'
-  image: v02/17-171-410-224.jpg
-- pageintom: '225'
-  image: v02/17-171-410-225.jpg
-- pageintom: '226'
-  image: v02/17-171-410-226.jpg
-- pageintom: '227'
-  image: v02/17-171-410-227.jpg
-- pageintom: '228'
-  image: v02/17-171-410-228.jpg
-- pageintom: '229'
-  image: v02/17-171-410-229.jpg
-- pageintom: '230'
-  image: v02/17-171-410-230.jpg
-- pageintom: '231'
-  image: v02/17-171-410-231.jpg
-- pageintom: '232'
-  image: v02/17-171-410-232.jpg
-- pageintom: '233'
-  image: v02/17-171-410-233.jpg
-- pageintom: '234'
-  image: v02/17-171-410-234.jpg
-- pageintom: '235'
-  image: v02/17-171-410-235.jpg
-- pageintom: '236'
-  image: v02/17-171-410-236.jpg
-- pageintom: '237'
-  image: v02/17-171-410-237.jpg
-- pageintom: '238'
-  image: v02/17-171-410-238.jpg
-- pageintom: '239'
-  image: v02/17-171-410-239.jpg
-- pageintom: '240'
-  image: v02/17-171-410-240.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -63,9 +28,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '226'
-    page_image: v02/17-171-410-226.jpg
+- title: Список от 20 августа 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '224'
+  image: v02/17-171-410-224.jpg
+  sublists: []
+- pageintom: '225'
+  image: v02/17-171-410-225.jpg
+  sublists: []
+- pageintom: '226'
+  image: v02/17-171-410-226.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '5934'
       num: '1'
@@ -177,8 +162,10 @@ sublists:
       num: '27'
       name: ДЗЮБЕК Марк Францевич
       spravka: true
-  - pageintom: '227'
-    page_image: v02/17-171-410-227.jpg
+- pageintom: '227'
+  image: v02/17-171-410-227.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '5961'
       num: '28'
@@ -299,8 +286,10 @@ sublists:
       num: '56'
       name: МИСЕВИЧ Станислав Андреевич
       spravka: true
-  - pageintom: '228'
-    page_image: v02/17-171-410-228.jpg
+- pageintom: '228'
+  image: v02/17-171-410-228.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '5990'
       num: '57'
@@ -406,8 +395,10 @@ sublists:
       num: '82'
       name: СОСНОВСКИЙ Ян Федорович
       spravka: true
-  - pageintom: '229'
-    page_image: v02/17-171-410-229.jpg
+- pageintom: '229'
+  image: v02/17-171-410-229.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '6016'
       num: '83'
@@ -472,8 +463,10 @@ sublists:
       num: '98'
       name: ЯРСКИЙ Стефан Стефанович, он же <br />ЯРОШ Игнатий Стефанович
       spravka: true
-  - pageintom: '230'
-    page_image: v02/17-171-410-230.jpg
+- pageintom: '230'
+  image: v02/17-171-410-230.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '6032'
       num: '1'
@@ -501,8 +494,25 @@ sublists:
       name: ШИМКЕВИЧ Эмилия Марковна
       gb_spravka: true
       spravka: true
-  - pageintom: '236'
-    page_image: v02/17-171-410-236.jpg
+- pageintom: '231'
+  image: v02/17-171-410-231.jpg
+  sublists: []
+- pageintom: '232'
+  image: v02/17-171-410-232.jpg
+  sublists: []
+- pageintom: '233'
+  image: v02/17-171-410-233.jpg
+  sublists: []
+- pageintom: '234'
+  image: v02/17-171-410-234.jpg
+  sublists: []
+- pageintom: '235'
+  image: v02/17-171-410-235.jpg
+  sublists: []
+- pageintom: '236'
+  image: v02/17-171-410-236.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '6037'
       num: '1'
@@ -569,8 +579,10 @@ sublists:
       num: '18'
       name: УСТИНОВ Михаил Алексеевич
       spravka: true
-  - pageintom: '237'
-    page_image: v02/17-171-410-237.jpg
+- pageintom: '237'
+  image: v02/17-171-410-237.jpg
+  sublists:
+  - sublid: '204'
     persons:
     - id: '6055'
       num: '1'
@@ -582,21 +594,16 @@ sublists:
       num: '2'
       name: ГЮСФЕЛЬД (СВЕНСОН) Кети
       gb_spravka: true
-- title: Список от 20 августа 1937 г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '240'
-    page_image: v02/17-171-410-240.jpg
+- pageintom: '238'
+  image: v02/17-171-410-238.jpg
+  sublists: []
+- pageintom: '239'
+  image: v02/17-171-410-239.jpg
+  sublists: []
+- pageintom: '240'
+  image: v02/17-171-410-240.jpg
+  sublists:
+  - sublid: '205'
     persons:
     - id: '6057'
       num: '1'

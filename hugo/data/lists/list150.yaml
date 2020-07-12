@@ -14,33 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '360'
-  image: v05/17-171-413-360.jpg
-- pageintom: '361'
-  image: v05/17-171-413-361.jpg
-- pageintom: '362'
-  image: v05/17-171-413-362.jpg
-- pageintom: '363'
-  image: v05/17-171-413-363.jpg
-- pageintom: '364'
-  image: v05/17-171-413-364.jpg
-- pageintom: '365'
-  image: v05/17-171-413-365.jpg
-- pageintom: '366'
-  image: v05/17-171-413-366.jpg
-- pageintom: '367'
-  image: v05/17-171-413-367.jpg
-- pageintom: '368'
-  image: v05/17-171-413-368.jpg
-- pageintom: '369'
-  image: v05/17-171-413-369.jpg
-- pageintom: '370'
-  image: v05/17-171-413-370.jpg
-- pageintom: '371'
-  image: v05/17-171-413-371.jpg
-- pageintom: '372'
-  image: v05/17-171-413-372.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Москва - центр]
   listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
@@ -54,9 +27,42 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '362'
-    page_image: v05/17-171-413-362.jpg
+- title: Список от 22 декабря 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+- title: Список от 22 декабря 1937г. [Москва. Жел.дор.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
+  sublisttitle: Москва. Жел.дор.им.Дзержинского
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 2
+  - 13
+pages:
+- pageintom: '360'
+  image: v05/17-171-413-360.jpg
+  sublists: []
+- pageintom: '361'
+  image: v05/17-171-413-361.jpg
+  sublists: []
+- pageintom: '362'
+  image: v05/17-171-413-362.jpg
+  sublists:
+  - sublid: '296'
     persons:
     - id: '19116'
       num: '1'
@@ -138,8 +144,10 @@ sublists:
       num: '20'
       name: ВОРОБЬЕВ Сергей Ильич
       spravka: true
-  - pageintom: '363'
-    page_image: v05/17-171-413-363.jpg
+- pageintom: '363'
+  image: v05/17-171-413-363.jpg
+  sublists:
+  - sublid: '296'
     persons:
     - id: '19136'
       num: '21'
@@ -253,8 +261,10 @@ sublists:
       num: '49'
       name: КОСТРЫКИН Максим Лаврентьевич
       spravka: true
-  - pageintom: '364'
-    page_image: v05/17-171-413-364.jpg
+- pageintom: '364'
+  image: v05/17-171-413-364.jpg
+  sublists:
+  - sublid: '296'
     persons:
     - id: '19165'
       num: '50'
@@ -364,8 +374,10 @@ sublists:
       num: '77'
       name: РУБЦОВ Василий Степанович
       spravka: true
-  - pageintom: '365'
-    page_image: v05/17-171-413-365.jpg
+- pageintom: '365'
+  image: v05/17-171-413-365.jpg
+  sublists:
+  - sublid: '296'
     persons:
     - id: '19193'
       num: '78'
@@ -459,8 +471,10 @@ sublists:
     - id: '19216'
       num: '101'
       name: ЯСТРЖЕМБСКИЙ Владислав Павлович
-  - pageintom: '366'
-    page_image: v05/17-171-413-366.jpg
+- pageintom: '366'
+  image: v05/17-171-413-366.jpg
+  sublists:
+  - sublid: '296'
     persons:
     - id: '19217'
       num: '1'
@@ -487,21 +501,10 @@ sublists:
       num: '6'
       name: ЦЕЛЬНИКЕР Григорий Моисеевич
       spravka: true
-- title: Список от 22 декабря 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '367'
-    page_image: v05/17-171-413-367.jpg
+- pageintom: '367'
+  image: v05/17-171-413-367.jpg
+  sublists:
+  - sublid: '297'
     persons:
     - id: '19223'
       num: '1'
@@ -518,22 +521,10 @@ sublists:
     - id: '19226'
       num: '4'
       name: ШТЕРН Ладислав Львович
-- title: Список от 22 декабря 1937г. [Москва. Жел.дор.им.Дзержинского]
-  listtitle: Список лиц - Москва-центр, Московская область; Москва. ж.д.им.Дзержинского
-  sublisttitle: Москва. Жел.дор.им.Дзержинского
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 2
-  - 13
-  pages:
-  - pageintom: '368'
-    page_image: v05/17-171-413-368.jpg
+- pageintom: '368'
+  image: v05/17-171-413-368.jpg
+  sublists:
+  - sublid: '298'
     persons:
     - id: '19227'
       num: '1'
@@ -607,8 +598,10 @@ sublists:
       num: '21'
       name: ПЛАТОНОВ Илья Алексеевич
       spravka: true
-  - pageintom: '369'
-    page_image: v05/17-171-413-369.jpg
+- pageintom: '369'
+  image: v05/17-171-413-369.jpg
+  sublists:
+  - sublid: '298'
     persons:
     - id: '19248'
       num: '22'
@@ -657,8 +650,10 @@ sublists:
     - id: '19261'
       num: '35'
       name: ЯШИН Дмитрий Иванович
-  - pageintom: '370'
-    page_image: v05/17-171-413-370.jpg
+- pageintom: '370'
+  image: v05/17-171-413-370.jpg
+  sublists:
+  - sublid: '298'
     persons:
     - id: '19262'
       num: '1'
@@ -666,8 +661,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>МОСКВА. Жел.дор.им.ДЗЕРЖИНСКОГО.</u><br />(Иностранный
         подданный)<u> </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '372'
-    page_image: v05/17-171-413-372.jpg
+- pageintom: '371'
+  image: v05/17-171-413-371.jpg
+  sublists: []
+- pageintom: '372'
+  image: v05/17-171-413-372.jpg
+  sublists:
+  - sublid: '298'
     persons:
     - id: '19263'
       num: '1'

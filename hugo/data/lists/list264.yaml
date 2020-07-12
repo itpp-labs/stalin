@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '98'
-  image: v07/17-171-415-098.jpg
-- pageintom: '99'
-  image: v07/17-171-415-099.jpg
-- pageintom: '100'
-  image: v07/17-171-415-100.jpg
-- pageintom: '101'
-  image: v07/17-171-415-101.jpg
-- pageintom: '102'
-  image: v07/17-171-415-102.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -37,9 +26,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '100'
-    page_image: v07/17-171-415-100.jpg
+pages:
+- pageintom: '98'
+  image: v07/17-171-415-098.jpg
+  sublists: []
+- pageintom: '99'
+  image: v07/17-171-415-099.jpg
+  sublists: []
+- pageintom: '100'
+  image: v07/17-171-415-100.jpg
+  sublists:
+  - sublid: '489'
     persons:
     - id: '26800'
       num: '1'
@@ -122,8 +119,10 @@ sublists:
       num: '20'
       name: РАЧЕВ Александр Леонтьевич
       spravka: true
-  - pageintom: '101'
-    page_image: v07/17-171-415-101.jpg
+- pageintom: '101'
+  image: v07/17-171-415-101.jpg
+  sublists:
+  - sublid: '489'
     persons:
     - id: '26820'
       num: '21'
@@ -177,8 +176,10 @@ sublists:
       num: '33'
       name: ЯРОСЛАВЦЕВ Вениамин Павлович
       spravka: true
-  - pageintom: '102'
-    page_image: v07/17-171-415-102.jpg
+- pageintom: '102'
+  image: v07/17-171-415-102.jpg
+  sublists:
+  - sublid: '489'
     persons:
     - id: '26833'
       num: '1'

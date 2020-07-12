@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '274'
-  image: v05/17-171-413-274.jpg
-- pageintom: '275'
-  image: v05/17-171-413-275.jpg
-- pageintom: '276'
-  image: v05/17-171-413-276.jpg
-- pageintom: '277'
-  image: v05/17-171-413-277.jpg
-- pageintom: '278'
-  image: v05/17-171-413-278.jpg
-- pageintom: '279'
-  image: v05/17-171-413-279.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Горьковская область]
   listtitle: Список лиц - Горьковская область, Крымская АССР
@@ -38,9 +25,29 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '276'
-    page_image: v05/17-171-413-276.jpg
+- title: Список от 13 декабря 1937г. [Крымская АССР]
+  listtitle: Список лиц - Горьковская область, Крымская АССР
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '274'
+  image: v05/17-171-413-274.jpg
+  sublists: []
+- pageintom: '275'
+  image: v05/17-171-413-275.jpg
+  sublists: []
+- pageintom: '276'
+  image: v05/17-171-413-276.jpg
+  sublists:
+  - sublid: '289'
     persons:
     - id: '17973'
       num: '1'
@@ -129,8 +136,10 @@ sublists:
       num: '21'
       name: МАРГОЛИН Иосиф Абрамович
       spravka: true
-  - pageintom: '277'
-    page_image: v05/17-171-413-277.jpg
+- pageintom: '277'
+  image: v05/17-171-413-277.jpg
+  sublists:
+  - sublid: '289'
     persons:
     - id: '17994'
       num: '22'
@@ -180,8 +189,10 @@ sublists:
       num: '33'
       name: ШЛЫКОВ Иван Александрович
       spravka: true
-  - pageintom: '278'
-    page_image: v05/17-171-413-278.jpg
+- pageintom: '278'
+  image: v05/17-171-413-278.jpg
+  sublists:
+  - sublid: '289'
     persons:
     - id: '18006'
       num: '1'
@@ -201,21 +212,10 @@ sublists:
       num: '4'
       name: ЩУКИН Николай Петрович
       spravka: true
-- title: Список от 13 декабря 1937г. [Крымская АССР]
-  listtitle: Список лиц - Горьковская область, Крымская АССР
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '279'
-    page_image: v05/17-171-413-279.jpg
+- pageintom: '279'
+  image: v05/17-171-413-279.jpg
+  sublists:
+  - sublid: '290'
     persons:
     - id: '18010'
       num: '1'

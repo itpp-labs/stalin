@@ -13,29 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '32'
-  image: v07/17-171-415-032.jpg
-- pageintom: '33'
-  image: v07/17-171-415-033.jpg
-- pageintom: '34'
-  image: v07/17-171-415-034.jpg
-- pageintom: '35'
-  image: v07/17-171-415-035.jpg
-- pageintom: '36'
-  image: v07/17-171-415-036.jpg
-- pageintom: '37'
-  image: v07/17-171-415-037.jpg
-- pageintom: '38'
-  image: v07/17-171-415-038.jpg
-- pageintom: '39'
-  image: v07/17-171-415-039.jpg
-- pageintom: '40'
-  image: v07/17-171-415-040.jpg
-- pageintom: '41'
-  image: v07/17-171-415-041.jpg
-- pageintom: '42'
-  image: v07/17-171-415-042.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -49,9 +26,111 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '41'
-    page_image: v07/17-171-415-041.jpg
+pages:
+- pageintom: '32'
+  image: v07/17-171-415-032.jpg
+  sublists: []
+- pageintom: '33'
+  image: v07/17-171-415-033.jpg
+  sublists: []
+- pageintom: '34'
+  image: v07/17-171-415-034.jpg
+  sublists:
+  - sublid: '511'
+    persons:
+    - id: '26231'
+      num: '1'
+      name: САМАРСКИЙ Павел Васильевич
+      spravka: true
+      subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        КАТЕГОРИЯ</u>
+    - id: '26232'
+      num: '1'
+      name: НИКОЛАЕВ Василий Филиппович
+      subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ</u>
+- pageintom: '35'
+  image: v07/17-171-415-035.jpg
+  sublists:
+  - sublid: '512'
+    persons:
+    - id: '26233'
+      num: '1'
+      name: ГАЙМЛЕР Георгий Генрихович
+      spravka: true
+      subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория.</u>
+    - id: '26234'
+      num: '2'
+      name: ФРИАУФ Александр Фридрихович
+    - id: '26235'
+      num: '3'
+      name: ШНЕЙДЕР Фридрих Конрадович
+      spravka: true
+    - id: '26236'
+      num: '1'
+      name: КРУППАН Константин Васильевич
+      spravka: true
+      subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
+        категория</u>
+    - id: '26237'
+      num: '2'
+      name: ЮРК Давид Давидович
+      spravka: true
+- pageintom: '36'
+  image: v07/17-171-415-036.jpg
+  sublists:
+  - sublid: '513'
+    persons:
+    - id: '26238'
+      num: '1'
+      name: ДИТМАР Гельмут Георгиевич
+      subtitle1: <p align="center"><u>ТУЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория.</u>
+    - id: '26239'
+      num: '2'
+      name: ДОБРОХОТОВ Константин Дмитриевич
+      spravka: true
+- pageintom: '37'
+  image: v07/17-171-415-037.jpg
+  sublists:
+  - sublid: '514'
+    persons:
+    - id: '26240'
+      num: '1'
+      name: АВАКЬЯН Баграт Савадович
+      doublesexists: true
+      spravka: true
+      subtitle1: <p align="center"><u>АРМЯНСКАЯ ССР </u></p><p align="right"><u>1-я
+        категория.</u>
+    - id: '26241'
+      num: '2'
+      name: ЗАХАРЬЯН Ашот Георгиевич
+      spravka: true
+    - id: '26242'
+      num: '3'
+      name: КУРАНЯН Гарегин Алексеевич
+      spravka: true
+- pageintom: '38'
+  image: v07/17-171-415-038.jpg
+  sublists:
+  - sublid: '515'
+    persons:
+    - id: '26243'
+      num: '1'
+      name: ЗАБОРОВСКИЙ Виктор Брониславович
+      spravka: true
+      subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
+        категория.</u>
+- pageintom: '39'
+  image: v07/17-171-415-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v07/17-171-415-040.jpg
+  sublists: []
+- pageintom: '41'
+  image: v07/17-171-415-041.jpg
+  sublists:
+  - sublid: '484'
     persons:
     - id: '26244'
       num: '1'
@@ -137,8 +216,10 @@ sublists:
       num: '22'
       name: КОЗЛОВ Петр Григорьевич
       spravka: true
-  - pageintom: '42'
-    page_image: v07/17-171-415-042.jpg
+- pageintom: '42'
+  image: v07/17-171-415-042.jpg
+  sublists:
+  - sublid: '484'
     persons:
     - id: '26266'
       num: '23'

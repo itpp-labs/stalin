@@ -9,143 +9,6 @@ delo:
   name: ''
   num: ''
 signs: {}
-pages:
-- pageintom: '1'
-  image: v14/17-171-420-001.jpg
-- pageintom: '2'
-  image: v14/17-171-420-002.jpg
-- pageintom: '3'
-  image: v14/17-171-420-003.jpg
-- pageintom: '4'
-  image: v14/17-171-420-004.jpg
-- pageintom: '5'
-  image: v14/17-171-420-005.jpg
-- pageintom: '6'
-  image: v14/17-171-420-006.jpg
-- pageintom: '7'
-  image: v14/17-171-420-007.jpg
-- pageintom: '8'
-  image: v14/17-171-420-008.jpg
-- pageintom: '9'
-  image: v14/17-171-420-009.jpg
-- pageintom: '10'
-  image: v14/17-171-420-010.jpg
-- pageintom: '11'
-  image: v14/17-171-420-011.jpg
-- pageintom: '12'
-  image: v14/17-171-420-012.jpg
-- pageintom: '13'
-  image: v14/17-171-420-013.jpg
-- pageintom: '14'
-  image: v14/17-171-420-014.jpg
-- pageintom: '15'
-  image: v14/17-171-420-015.jpg
-- pageintom: '16'
-  image: v14/17-171-420-016.jpg
-- pageintom: '17'
-  image: v14/17-171-420-017.jpg
-- pageintom: '18'
-  image: v14/17-171-420-018.jpg
-- pageintom: '19'
-  image: v14/17-171-420-019.jpg
-- pageintom: '20'
-  image: v14/17-171-420-020.jpg
-- pageintom: '21'
-  image: v14/17-171-420-021.jpg
-- pageintom: '22'
-  image: v14/17-171-420-022.jpg
-- pageintom: '23'
-  image: v14/17-171-420-023.jpg
-- pageintom: '24'
-  image: v14/17-171-420-024.jpg
-- pageintom: '25'
-  image: v14/17-171-420-025.jpg
-- pageintom: '26'
-  image: v14/17-171-420-026.jpg
-- pageintom: '27'
-  image: v14/17-171-420-027.jpg
-- pageintom: '28'
-  image: v14/17-171-420-028.jpg
-- pageintom: '29'
-  image: v14/17-171-420-029.jpg
-- pageintom: '30'
-  image: v14/17-171-420-030.jpg
-- pageintom: '31'
-  image: v14/17-171-420-031.jpg
-- pageintom: '32'
-  image: v14/17-171-420-032.jpg
-- pageintom: '33'
-  image: v14/17-171-420-033.jpg
-- pageintom: '34'
-  image: v14/17-171-420-034.jpg
-- pageintom: '35'
-  image: v14/17-171-420-035.jpg
-- pageintom: '36'
-  image: v14/17-171-420-036.jpg
-- pageintom: '37'
-  image: v14/17-171-420-037.jpg
-- pageintom: '38'
-  image: v14/17-171-420-038.jpg
-- pageintom: '39'
-  image: v14/17-171-420-039.jpg
-- pageintom: '40'
-  image: v14/17-171-420-040.jpg
-- pageintom: '41'
-  image: v14/17-171-420-041.jpg
-- pageintom: '42'
-  image: v14/17-171-420-042.jpg
-- pageintom: '43'
-  image: v14/17-171-420-043.jpg
-- pageintom: '44'
-  image: v14/17-171-420-044.jpg
-- pageintom: '45'
-  image: v14/17-171-420-045.jpg
-- pageintom: '46'
-  image: v14/17-171-420-046.jpg
-- pageintom: '47'
-  image: v14/17-171-420-047.jpg
-- pageintom: '48'
-  image: v14/17-171-420-048.jpg
-- pageintom: '49'
-  image: v14/17-171-420-049.jpg
-- pageintom: '50'
-  image: v14/17-171-420-050.jpg
-- pageintom: '51'
-  image: v14/17-171-420-051.jpg
-- pageintom: '52'
-  image: v14/17-171-420-052.jpg
-- pageintom: '53'
-  image: v14/17-171-420-053.jpg
-- pageintom: '54'
-  image: v14/17-171-420-054.jpg
-- pageintom: '55'
-  image: v14/17-171-420-055.jpg
-- pageintom: '56'
-  image: v14/17-171-420-056.jpg
-- pageintom: '57'
-  image: v14/17-171-420-057.jpg
-- pageintom: '58'
-  image: v14/17-171-420-058.jpg
-- pageintom: '59'
-  image: v14/17-171-420-059.jpg
-- pageintom: '60'
-  image: v14/17-171-420-060.jpg
-- pageintom: '61'
-  image: v14/17-171-420-061.jpg
-- pageintom: '62'
-  image: v14/17-171-420-062.jpg
-- pageintom: '63'
-  image: v14/17-171-420-063.jpg
-- pageintom: '64'
-  image: v14/17-171-420-064.jpg
-- pageintom: '65'
-  image: v14/17-171-420-065.jpg
-- pageintom: '66'
-  image: v14/17-171-420-066.jpg
-- pageintom: '67'
-  image: v14/17-171-420-067.jpg
-- pageintom: '68'
-  image: v14/17-171-420-068.jpg
 sublists:
 - title: ''
   listtitle: Список арестованных участников антисоветских организаций (категория 2)
@@ -159,9 +22,11 @@ sublists:
   - 169
   group_ids:
   - 0
-  pages:
-  - pageintom: '1'
-    page_image: v14/17-171-420-001.jpg
+pages:
+- pageintom: '1'
+  image: v14/17-171-420-001.jpg
+  sublists:
+  - sublid: '669'
     persons:
     - id: '45007'
       num: '1'
@@ -238,8 +103,10 @@ sublists:
         Упр. Морского флота Наркомвода.
       gb_spravka: true
       spravka: true
-  - pageintom: '2'
-    page_image: v14/17-171-420-002.jpg
+- pageintom: '2'
+  image: v14/17-171-420-002.jpg
+  sublists:
+  - sublid: '669'
     persons:
     - id: '45019'
       num: '13'
@@ -332,8 +199,10 @@ sublists:
       primzv: Начальник Политуправления САВО.
       gb_spravka: true
       spravka: true
-  - pageintom: '3'
-    page_image: v14/17-171-420-003.jpg
+- pageintom: '3'
+  image: v14/17-171-420-003.jpg
+  sublists:
+  - sublid: '669'
     persons:
     - id: '45035'
       num: '29'
@@ -426,8 +295,10 @@ sublists:
       primzv: Преподаватель Моск. Энергетического института.
       gb_spravka: true
       spravka: true
-  - pageintom: '4'
-    page_image: v14/17-171-420-004.jpg
+- pageintom: '4'
+  image: v14/17-171-420-004.jpg
+  sublists:
+  - sublid: '669'
     persons:
     - id: '45051'
       num: '45'
@@ -519,8 +390,10 @@ sublists:
       primzv: Художествен. редактор Гослитиздата.
       gb_spravka: true
       spravka: true
-  - pageintom: '5'
-    page_image: v14/17-171-420-005.jpg
+- pageintom: '5'
+  image: v14/17-171-420-005.jpg
+  sublists:
+  - sublid: '669'
     persons:
     - id: '45067'
       num: '61'
@@ -552,3 +425,192 @@ sublists:
       primzv: Нач. Следчасти УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
+- pageintom: '6'
+  image: v14/17-171-420-006.jpg
+  sublists: []
+- pageintom: '7'
+  image: v14/17-171-420-007.jpg
+  sublists: []
+- pageintom: '8'
+  image: v14/17-171-420-008.jpg
+  sublists: []
+- pageintom: '9'
+  image: v14/17-171-420-009.jpg
+  sublists: []
+- pageintom: '10'
+  image: v14/17-171-420-010.jpg
+  sublists: []
+- pageintom: '11'
+  image: v14/17-171-420-011.jpg
+  sublists: []
+- pageintom: '12'
+  image: v14/17-171-420-012.jpg
+  sublists: []
+- pageintom: '13'
+  image: v14/17-171-420-013.jpg
+  sublists: []
+- pageintom: '14'
+  image: v14/17-171-420-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v14/17-171-420-015.jpg
+  sublists: []
+- pageintom: '16'
+  image: v14/17-171-420-016.jpg
+  sublists: []
+- pageintom: '17'
+  image: v14/17-171-420-017.jpg
+  sublists: []
+- pageintom: '18'
+  image: v14/17-171-420-018.jpg
+  sublists: []
+- pageintom: '19'
+  image: v14/17-171-420-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v14/17-171-420-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v14/17-171-420-021.jpg
+  sublists: []
+- pageintom: '22'
+  image: v14/17-171-420-022.jpg
+  sublists: []
+- pageintom: '23'
+  image: v14/17-171-420-023.jpg
+  sublists: []
+- pageintom: '24'
+  image: v14/17-171-420-024.jpg
+  sublists: []
+- pageintom: '25'
+  image: v14/17-171-420-025.jpg
+  sublists: []
+- pageintom: '26'
+  image: v14/17-171-420-026.jpg
+  sublists: []
+- pageintom: '27'
+  image: v14/17-171-420-027.jpg
+  sublists: []
+- pageintom: '28'
+  image: v14/17-171-420-028.jpg
+  sublists: []
+- pageintom: '29'
+  image: v14/17-171-420-029.jpg
+  sublists: []
+- pageintom: '30'
+  image: v14/17-171-420-030.jpg
+  sublists: []
+- pageintom: '31'
+  image: v14/17-171-420-031.jpg
+  sublists: []
+- pageintom: '32'
+  image: v14/17-171-420-032.jpg
+  sublists: []
+- pageintom: '33'
+  image: v14/17-171-420-033.jpg
+  sublists: []
+- pageintom: '34'
+  image: v14/17-171-420-034.jpg
+  sublists: []
+- pageintom: '35'
+  image: v14/17-171-420-035.jpg
+  sublists: []
+- pageintom: '36'
+  image: v14/17-171-420-036.jpg
+  sublists: []
+- pageintom: '37'
+  image: v14/17-171-420-037.jpg
+  sublists: []
+- pageintom: '38'
+  image: v14/17-171-420-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v14/17-171-420-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v14/17-171-420-040.jpg
+  sublists: []
+- pageintom: '41'
+  image: v14/17-171-420-041.jpg
+  sublists: []
+- pageintom: '42'
+  image: v14/17-171-420-042.jpg
+  sublists: []
+- pageintom: '43'
+  image: v14/17-171-420-043.jpg
+  sublists: []
+- pageintom: '44'
+  image: v14/17-171-420-044.jpg
+  sublists: []
+- pageintom: '45'
+  image: v14/17-171-420-045.jpg
+  sublists: []
+- pageintom: '46'
+  image: v14/17-171-420-046.jpg
+  sublists: []
+- pageintom: '47'
+  image: v14/17-171-420-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v14/17-171-420-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v14/17-171-420-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v14/17-171-420-050.jpg
+  sublists: []
+- pageintom: '51'
+  image: v14/17-171-420-051.jpg
+  sublists: []
+- pageintom: '52'
+  image: v14/17-171-420-052.jpg
+  sublists: []
+- pageintom: '53'
+  image: v14/17-171-420-053.jpg
+  sublists: []
+- pageintom: '54'
+  image: v14/17-171-420-054.jpg
+  sublists: []
+- pageintom: '55'
+  image: v14/17-171-420-055.jpg
+  sublists: []
+- pageintom: '56'
+  image: v14/17-171-420-056.jpg
+  sublists: []
+- pageintom: '57'
+  image: v14/17-171-420-057.jpg
+  sublists: []
+- pageintom: '58'
+  image: v14/17-171-420-058.jpg
+  sublists: []
+- pageintom: '59'
+  image: v14/17-171-420-059.jpg
+  sublists: []
+- pageintom: '60'
+  image: v14/17-171-420-060.jpg
+  sublists: []
+- pageintom: '61'
+  image: v14/17-171-420-061.jpg
+  sublists: []
+- pageintom: '62'
+  image: v14/17-171-420-062.jpg
+  sublists: []
+- pageintom: '63'
+  image: v14/17-171-420-063.jpg
+  sublists: []
+- pageintom: '64'
+  image: v14/17-171-420-064.jpg
+  sublists: []
+- pageintom: '65'
+  image: v14/17-171-420-065.jpg
+  sublists: []
+- pageintom: '66'
+  image: v14/17-171-420-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v14/17-171-420-067.jpg
+  sublists: []
+- pageintom: '68'
+  image: v14/17-171-420-068.jpg
+  sublists: []

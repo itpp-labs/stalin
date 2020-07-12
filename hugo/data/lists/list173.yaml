@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '122'
-  image: v09/17-171-417-122.jpg
-- pageintom: '123'
-  image: v09/17-171-417-123.jpg
-- pageintom: '124'
-  image: v09/17-171-417-124.jpg
-- pageintom: '125'
-  image: v09/17-171-417-125.jpg
-- pageintom: '126'
-  image: v09/17-171-417-126.jpg
 sublists:
 - title: Список от 10.VI.38г. [Иркутская область]
   listtitle: Список лиц - Иркутская область
@@ -35,9 +24,17 @@ sublists:
   - 151
   group_ids:
   - 0
-  pages:
-  - pageintom: '124'
-    page_image: v09/17-171-417-124.jpg
+pages:
+- pageintom: '122'
+  image: v09/17-171-417-122.jpg
+  sublists: []
+- pageintom: '123'
+  image: v09/17-171-417-123.jpg
+  sublists: []
+- pageintom: '124'
+  image: v09/17-171-417-124.jpg
+  sublists:
+  - sublid: '114'
     persons:
     - id: '34918'
       num: '1'
@@ -112,8 +109,10 @@ sublists:
       num: '19'
       name: САЛТЫКОВ Михаил Иванович
       spravka: true
-  - pageintom: '125'
-    page_image: v09/17-171-417-125.jpg
+- pageintom: '125'
+  image: v09/17-171-417-125.jpg
+  sublists:
+  - sublid: '114'
     persons:
     - id: '34937'
       num: '20'
@@ -140,8 +139,10 @@ sublists:
       num: '25'
       name: ЮДИН Алексей Иванович
       spravka: true
-  - pageintom: '126'
-    page_image: v09/17-171-417-126.jpg
+- pageintom: '126'
+  image: v09/17-171-417-126.jpg
+  sublists:
+  - sublid: '114'
     persons:
     - id: '34943'
       num: '1'

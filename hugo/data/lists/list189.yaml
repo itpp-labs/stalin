@@ -11,13 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '254'
-  image: v09/17-171-417-254.jpg
-- pageintom: '255'
-  image: v09/17-171-417-255.jpg
-- pageintom: '256'
-  image: v09/17-171-417-256.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 4)]
   listtitle: списка лиц N 4 - Москва-центр
@@ -31,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 4
-  pages:
-  - pageintom: '256'
-    page_image: v09/17-171-417-256.jpg
+pages:
+- pageintom: '254'
+  image: v09/17-171-417-254.jpg
+  sublists: []
+- pageintom: '255'
+  image: v09/17-171-417-255.jpg
+  sublists: []
+- pageintom: '256'
+  image: v09/17-171-417-256.jpg
+  sublists:
+  - sublid: '129'
     persons:
     - id: '36855'
       num: '1'

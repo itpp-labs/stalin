@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '85'
-  image: v09/17-171-417-085.jpg
-- pageintom: '86'
-  image: v09/17-171-417-086.jpg
-- pageintom: '87'
-  image: v09/17-171-417-087.jpg
-- pageintom: '88'
-  image: v09/17-171-417-088.jpg
-- pageintom: '89'
-  image: v09/17-171-417-089.jpg
-- pageintom: '90'
-  image: v09/17-171-417-090.jpg
-- pageintom: '91'
-  image: v09/17-171-417-091.jpg
-- pageintom: '92'
-  image: v09/17-171-417-092.jpg
 sublists:
 - title: Список от 10.VI.38г. [Гор.Орджоникидзе-Орджоникидзевская ж.д.]
   listtitle: Список лиц - г.Орджоникидзе- Орджоникидзевская ж.д.
@@ -41,9 +24,17 @@ sublists:
   - 150
   group_ids:
   - 13
-  pages:
-  - pageintom: '87'
-    page_image: v09/17-171-417-087.jpg
+pages:
+- pageintom: '85'
+  image: v09/17-171-417-085.jpg
+  sublists: []
+- pageintom: '86'
+  image: v09/17-171-417-086.jpg
+  sublists: []
+- pageintom: '87'
+  image: v09/17-171-417-087.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34409'
       num: '1'
@@ -119,8 +110,10 @@ sublists:
     - id: '34428'
       num: '20'
       name: КАЛАШНИКОВ Василий Михайлович
-  - pageintom: '88'
-    page_image: v09/17-171-417-088.jpg
+- pageintom: '88'
+  image: v09/17-171-417-088.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34429'
       num: '21'
@@ -224,8 +217,10 @@ sublists:
     - id: '34455'
       num: '47'
       name: ХАНОВ Микаил
-  - pageintom: '89'
-    page_image: v09/17-171-417-089.jpg
+- pageintom: '89'
+  image: v09/17-171-417-089.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34456'
       num: '48'
@@ -259,8 +254,10 @@ sublists:
     - id: '34464'
       num: '56'
       name: ЯСЬКО Григорий Миронович
-  - pageintom: '90'
-    page_image: v09/17-171-417-090.jpg
+- pageintom: '90'
+  image: v09/17-171-417-090.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34465'
       num: '1'
@@ -339,8 +336,10 @@ sublists:
       num: '20'
       name: ИВАНОВ Иван Петрович
       spravka: true
-  - pageintom: '91'
-    page_image: v09/17-171-417-091.jpg
+- pageintom: '91'
+  image: v09/17-171-417-091.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34485'
       num: '21'
@@ -442,8 +441,10 @@ sublists:
       num: '47'
       name: ПОЛИШКО Алексей Лукьянович
       spravka: true
-  - pageintom: '92'
-    page_image: v09/17-171-417-092.jpg
+- pageintom: '92'
+  image: v09/17-171-417-092.jpg
+  sublists:
+  - sublid: '108'
     persons:
     - id: '34512'
       num: '48'

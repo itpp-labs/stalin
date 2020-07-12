@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '376'
-  image: v06/17-171-414-376.jpg
-- pageintom: '377'
-  image: v06/17-171-414-377.jpg
-- pageintom: '378'
-  image: v06/17-171-414-378.jpg
-- pageintom: '379'
-  image: v06/17-171-414-379.jpg
-- pageintom: '380'
-  image: v06/17-171-414-380.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -36,9 +25,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '378'
-    page_image: v06/17-171-414-378.jpg
+pages:
+- pageintom: '376'
+  image: v06/17-171-414-376.jpg
+  sublists: []
+- pageintom: '377'
+  image: v06/17-171-414-377.jpg
+  sublists: []
+- pageintom: '378'
+  image: v06/17-171-414-378.jpg
+  sublists:
+  - sublid: '428'
     persons:
     - id: '23930'
       num: '1'
@@ -130,8 +127,10 @@ sublists:
       num: '22'
       name: ВУЛЬ Михаил Давыдович
       spravka: true
-  - pageintom: '379'
-    page_image: v06/17-171-414-379.jpg
+- pageintom: '379'
+  image: v06/17-171-414-379.jpg
+  sublists:
+  - sublid: '428'
     persons:
     - id: '23952'
       num: '23'
@@ -252,16 +251,14 @@ sublists:
       num: '52'
       name: САРЫЧЕВ Никита Николаевич
       spravka: true
-  - pageintom: '380'
-    page_image: v06/17-171-414-380.jpg
+- pageintom: '380'
+  image: v06/17-171-414-380.jpg
+  sublists:
+  - sublid: '428'
     persons:
     - id: '23982'
       num: '53'
       name: СВИЦЫН Адам Александрович
-      spravka: true
-    - id: '45668'
-      num: '54'
-      name: СПЕРАНСКИЙ Петр Александрович
       spravka: true
     - id: '23983'
       num: '55'
@@ -335,4 +332,8 @@ sublists:
     - id: '24001'
       num: '73'
       name: ЯНОВСКИЙ Ювеналий Иванович
+      spravka: true
+    - id: '45668'
+      num: '54'
+      name: СПЕРАНСКИЙ Петр Александрович
       spravka: true

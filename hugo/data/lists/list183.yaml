@@ -11,25 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '201'
-  image: v09/17-171-417-201.jpg
-- pageintom: '202'
-  image: v09/17-171-417-202.jpg
-- pageintom: '203'
-  image: v09/17-171-417-203.jpg
-- pageintom: '204'
-  image: v09/17-171-417-204.jpg
-- pageintom: '205'
-  image: v09/17-171-417-205.jpg
-- pageintom: '206'
-  image: v09/17-171-417-206.jpg
-- pageintom: '207'
-  image: v09/17-171-417-207.jpg
-- pageintom: '208'
-  image: v09/17-171-417-208.jpg
-- pageintom: '209'
-  image: v09/17-171-417-209.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -44,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '203'
-    page_image: v09/17-171-417-203.jpg
+pages:
+- pageintom: '201'
+  image: v09/17-171-417-201.jpg
+  sublists: []
+- pageintom: '202'
+  image: v09/17-171-417-202.jpg
+  sublists: []
+- pageintom: '203'
+  image: v09/17-171-417-203.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '35964'
       num: '1'
@@ -130,8 +119,10 @@ sublists:
       num: '20'
       name: ГОФМАН Борис Федорович
       spravka: true
-  - pageintom: '204'
-    page_image: v09/17-171-417-204.jpg
+- pageintom: '204'
+  image: v09/17-171-417-204.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '35984'
       num: '21'
@@ -251,8 +242,10 @@ sublists:
       num: '49'
       name: МУЛЕВИЧ Максим Николаевич
       spravka: true
-  - pageintom: '205'
-    page_image: v09/17-171-417-205.jpg
+- pageintom: '205'
+  image: v09/17-171-417-205.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '36013'
       num: '50'
@@ -372,8 +365,10 @@ sublists:
       num: '79'
       name: ЧЕКУНОВ Иван Гаврилович
       spravka: true
-  - pageintom: '206'
-    page_image: v09/17-171-417-206.jpg
+- pageintom: '206'
+  image: v09/17-171-417-206.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '36043'
       num: '80'
@@ -411,8 +406,10 @@ sublists:
       num: '88'
       name: ЯНСОН Арвид Симонович
       spravka: true
-  - pageintom: '207'
-    page_image: v09/17-171-417-207.jpg
+- pageintom: '207'
+  image: v09/17-171-417-207.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '36052'
       num: '1'
@@ -421,8 +418,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(Иностранные подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '209'
-    page_image: v09/17-171-417-209.jpg
+- pageintom: '208'
+  image: v09/17-171-417-208.jpg
+  sublists: []
+- pageintom: '209'
+  image: v09/17-171-417-209.jpg
+  sublists:
+  - sublid: '123'
     persons:
     - id: '36053'
       num: '1'

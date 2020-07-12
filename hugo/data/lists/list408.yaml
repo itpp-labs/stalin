@@ -9,19 +9,6 @@ delo:
   name: ''
   num: ''
 signs: {}
-pages:
-- pageintom: '131'
-  image: v12/17-171-377-131.jpg
-- pageintom: '132'
-  image: v12/17-171-377-132.jpg
-- pageintom: '133'
-  image: v12/17-171-377-133.jpg
-- pageintom: '134'
-  image: v12/17-171-377-134.jpg
-- pageintom: '135'
-  image: v12/17-171-377-135.jpg
-- pageintom: '136'
-  image: v12/17-171-377-136.jpg
 sublists:
 - title: ''
   listtitle: Список арестованных (категория 2)
@@ -35,9 +22,11 @@ sublists:
   - 169
   group_ids:
   - 0
-  pages:
-  - pageintom: '131'
-    page_image: v12/17-171-377-131.jpg
+pages:
+- pageintom: '131'
+  image: v12/17-171-377-131.jpg
+  sublists:
+  - sublid: '667'
     persons:
     - id: '44850'
       num: '1'
@@ -130,8 +119,10 @@ sublists:
     - id: '44873'
       num: '24'
       name: ГУВВА Иван Александрович
-  - pageintom: '132'
-    page_image: v12/17-171-377-132.jpg
+- pageintom: '132'
+  image: v12/17-171-377-132.jpg
+  sublists:
+  - sublid: '667'
     persons:
     - id: '44874'
       num: '25'
@@ -229,8 +220,10 @@ sublists:
       num: '49'
       name: КУРПИЦ Эдуард Карлович
       spravka: true
-  - pageintom: '133'
-    page_image: v12/17-171-377-133.jpg
+- pageintom: '133'
+  image: v12/17-171-377-133.jpg
+  sublists:
+  - sublid: '667'
     persons:
     - id: '44899'
       num: '50'
@@ -328,8 +321,10 @@ sublists:
       num: '75'
       name: ПОЛУЯН-ВЕРЕЦКАЯ Елена Матвеевна
       spravka: true
-  - pageintom: '134'
-    page_image: v12/17-171-377-134.jpg
+- pageintom: '134'
+  image: v12/17-171-377-134.jpg
+  sublists:
+  - sublid: '667'
     persons:
     - id: '44925'
       num: '76'
@@ -434,8 +429,10 @@ sublists:
       num: '102'
       name: ЦЕЛИКОВ Артемий Антонович
       spravka: true
-  - pageintom: '135'
-    page_image: v12/17-171-377-135.jpg
+- pageintom: '135'
+  image: v12/17-171-377-135.jpg
+  sublists:
+  - sublid: '667'
     persons:
     - id: '44952'
       num: '103'
@@ -469,3 +466,6 @@ sublists:
     - id: '44960'
       num: '111'
       name: ЯКУБОВИЧ Александр Николаевич
+- pageintom: '136'
+  image: v12/17-171-377-136.jpg
+  sublists: []

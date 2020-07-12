@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '55'
-  image: v10/17-171-418-055.jpg
-- pageintom: '56'
-  image: v10/17-171-418-056.jpg
-- pageintom: '57'
-  image: v10/17-171-418-057.jpg
-- pageintom: '58'
-  image: v10/17-171-418-058.jpg
-- pageintom: '59'
-  image: v10/17-171-418-059.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -36,9 +25,17 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '57'
-    page_image: v10/17-171-418-057.jpg
+pages:
+- pageintom: '55'
+  image: v10/17-171-418-055.jpg
+  sublists: []
+- pageintom: '56'
+  image: v10/17-171-418-056.jpg
+  sublists: []
+- pageintom: '57'
+  image: v10/17-171-418-057.jpg
+  sublists:
+  - sublid: '132'
     persons:
     - id: '37618'
       num: '1'
@@ -129,8 +126,10 @@ sublists:
       num: '22'
       name: МОВШЕНЗОН Абрам Рафаилович
       spravka: true
-  - pageintom: '58'
-    page_image: v10/17-171-418-058.jpg
+- pageintom: '58'
+  image: v10/17-171-418-058.jpg
+  sublists:
+  - sublid: '132'
     persons:
     - id: '37640'
       num: '23'
@@ -188,8 +187,10 @@ sublists:
     - id: '37656'
       num: '39'
       name: ЩЕРБОВИЧ Анатолий Адамович
-  - pageintom: '59'
-    page_image: v10/17-171-418-059.jpg
+- pageintom: '59'
+  image: v10/17-171-418-059.jpg
+  sublists:
+  - sublid: '132'
     persons:
     - id: '37657'
       num: '1'

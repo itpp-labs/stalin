@@ -12,41 +12,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '184'
-  image: v09/17-171-417-184.jpg
-- pageintom: '185'
-  image: v09/17-171-417-185.jpg
-- pageintom: '186'
-  image: v09/17-171-417-186.jpg
-- pageintom: '187'
-  image: v09/17-171-417-187.jpg
-- pageintom: '188'
-  image: v09/17-171-417-188.jpg
-- pageintom: '189'
-  image: v09/17-171-417-189.jpg
-- pageintom: '190'
-  image: v09/17-171-417-190.jpg
-- pageintom: '191'
-  image: v09/17-171-417-191.jpg
-- pageintom: '192'
-  image: v09/17-171-417-192.jpg
-- pageintom: '193'
-  image: v09/17-171-417-193.jpg
-- pageintom: '194'
-  image: v09/17-171-417-194.jpg
-- pageintom: '195'
-  image: v09/17-171-417-195.jpg
-- pageintom: '196'
-  image: v09/17-171-417-196.jpg
-- pageintom: '197'
-  image: v09/17-171-417-197.jpg
-- pageintom: '198'
-  image: v09/17-171-417-198.jpg
-- pageintom: '199'
-  image: v09/17-171-417-199.jpg
-- pageintom: '200'
-  image: v09/17-171-417-200.jpg
 sublists:
 - title: Список от 10.VI.38г. [Москва-Центр]
   listtitle: Список лиц - Москва-центр, г.Москва- ж.д.им.Дзержинского, г.Калуга- Моск.-Киевская
@@ -62,9 +27,43 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '186'
-    page_image: v09/17-171-417-186.jpg
+- title: Список от 10.VI.38г. [г.Москва-ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр, г.Москва- ж.д.им.Дзержинского, г.Калуга- Моск.-Киевская
+    ж.д.
+  sublisttitle: г.Москва-ж.д.им.Дзержинского
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
+- title: Список от 10.VI.38г. [г.Калуга - Московско-Киевская ж.д.]
+  listtitle: Список лиц - Москва-центр, г.Москва- ж.д.им.Дзержинского, г.Калуга- Моск.-Киевская
+    ж.д.
+  sublisttitle: г.Калуга - Московско-Киевская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 154
+  group_ids:
+  - 13
+pages:
+- pageintom: '184'
+  image: v09/17-171-417-184.jpg
+  sublists: []
+- pageintom: '185'
+  image: v09/17-171-417-185.jpg
+  sublists: []
+- pageintom: '186'
+  image: v09/17-171-417-186.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35782'
       num: '1'
@@ -157,8 +156,10 @@ sublists:
       num: '22'
       name: ВАН-СИН, он же ШЕН-ШУ-И
       spravka: true
-  - pageintom: '187'
-    page_image: v09/17-171-417-187.jpg
+- pageintom: '187'
+  image: v09/17-171-417-187.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35804'
       num: '23'
@@ -271,8 +272,10 @@ sublists:
       num: '50'
       name: ЕЗЕРСКИЙ Павел Наумович
       spravka: true
-  - pageintom: '188'
-    page_image: v09/17-171-417-188.jpg
+- pageintom: '188'
+  image: v09/17-171-417-188.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35832'
       num: '51'
@@ -388,8 +391,10 @@ sublists:
       num: '79'
       name: ЛЮБАРСКИЙ Владимир Иванович
       spravka: true
-  - pageintom: '189'
-    page_image: v09/17-171-417-189.jpg
+- pageintom: '189'
+  image: v09/17-171-417-189.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35861'
       num: '80'
@@ -502,8 +507,10 @@ sublists:
       num: '107'
       name: ПОПОВ Николай Иванович
       spravka: true
-  - pageintom: '190'
-    page_image: v09/17-171-417-190.jpg
+- pageintom: '190'
+  image: v09/17-171-417-190.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35889'
       num: '108'
@@ -619,8 +626,10 @@ sublists:
       num: '136'
       name: ТОМАШЕВИЧ Ольгерд Викентьевич
       spravka: true
-  - pageintom: '191'
-    page_image: v09/17-171-417-191.jpg
+- pageintom: '191'
+  image: v09/17-171-417-191.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35918'
       num: '137'
@@ -686,8 +695,10 @@ sublists:
       num: '152'
       name: ЯНОВСКИЙ Михаил Александрович
       spravka: true
-  - pageintom: '192'
-    page_image: v09/17-171-417-192.jpg
+- pageintom: '192'
+  image: v09/17-171-417-192.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35934'
       num: '1'
@@ -708,8 +719,22 @@ sublists:
       num: '4'
       name: ШАРФМАН Мано Моисеевич
       gb_spravka: true
-  - pageintom: '197'
-    page_image: v09/17-171-417-197.jpg
+- pageintom: '193'
+  image: v09/17-171-417-193.jpg
+  sublists: []
+- pageintom: '194'
+  image: v09/17-171-417-194.jpg
+  sublists: []
+- pageintom: '195'
+  image: v09/17-171-417-195.jpg
+  sublists: []
+- pageintom: '196'
+  image: v09/17-171-417-196.jpg
+  sublists: []
+- pageintom: '197'
+  image: v09/17-171-417-197.jpg
+  sublists:
+  - sublid: '306'
     persons:
     - id: '35938'
       num: '1'
@@ -723,22 +748,10 @@ sublists:
       num: '3'
       name: ПОЛУЯН Олег Дмитриевич
       spravka: true
-- title: Список от 10.VI.38г. [г.Москва-ж.д.им.Дзержинского]
-  listtitle: Список лиц - Москва-центр, г.Москва- ж.д.им.Дзержинского, г.Калуга- Моск.-Киевская
-    ж.д.
-  sublisttitle: г.Москва-ж.д.им.Дзержинского
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '198'
-    page_image: v09/17-171-417-198.jpg
+- pageintom: '198'
+  image: v09/17-171-417-198.jpg
+  sublists:
+  - sublid: '307'
     persons:
     - id: '35941'
       num: '1'
@@ -775,22 +788,10 @@ sublists:
       num: '1'
       name: ШТРОМ Александр Михайлович
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
-- title: Список от 10.VI.38г. [г.Калуга - Московско-Киевская ж.д.]
-  listtitle: Список лиц - Москва-центр, г.Москва- ж.д.им.Дзержинского, г.Калуга- Моск.-Киевская
-    ж.д.
-  sublisttitle: г.Калуга - Московско-Киевская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 154
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '199'
-    page_image: v09/17-171-417-199.jpg
+- pageintom: '199'
+  image: v09/17-171-417-199.jpg
+  sublists:
+  - sublid: '308'
     persons:
     - id: '35950'
       num: '1'
@@ -810,8 +811,10 @@ sublists:
       num: '4'
       name: КОПТЕВ Виктор Семенович
       spravka: true
-  - pageintom: '200'
-    page_image: v09/17-171-417-200.jpg
+- pageintom: '200'
+  image: v09/17-171-417-200.jpg
+  sublists:
+  - sublid: '308'
     persons:
     - id: '35954'
       num: '1'

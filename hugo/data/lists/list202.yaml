@@ -13,27 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '152'
-  image: v10/17-171-418-152.jpg
-- pageintom: '153'
-  image: v10/17-171-418-153.jpg
-- pageintom: '154'
-  image: v10/17-171-418-154.jpg
-- pageintom: '155'
-  image: v10/17-171-418-155.jpg
-- pageintom: '156'
-  image: v10/17-171-418-156.jpg
-- pageintom: '157'
-  image: v10/17-171-418-157.jpg
-- pageintom: '158'
-  image: v10/17-171-418-158.jpg
-- pageintom: '159'
-  image: v10/17-171-418-159.jpg
-- pageintom: '160'
-  image: v10/17-171-418-160.jpg
-- pageintom: '161'
-  image: v10/17-171-418-161.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область, г.Сталинград-Сталинградская ж.д.
@@ -47,9 +26,29 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '154'
-    page_image: v10/17-171-418-154.jpg
+- title: Список от 12 сентября 1938г. [Г.Сталинград - Сталинградская железная дорога]
+  listtitle: Список лиц - Сталинградская область, г.Сталинград-Сталинградская ж.д.
+  sublisttitle: Г.Сталинград - Сталинградская железная дорога
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 117
+  group_ids:
+  - 13
+pages:
+- pageintom: '152'
+  image: v10/17-171-418-152.jpg
+  sublists: []
+- pageintom: '153'
+  image: v10/17-171-418-153.jpg
+  sublists: []
+- pageintom: '154'
+  image: v10/17-171-418-154.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39404'
       num: '1'
@@ -129,8 +128,10 @@ sublists:
       num: '23'
       name: ДРОБЫШЕВ Василий Дмитриевич
       spravka: true
-  - pageintom: '155'
-    page_image: v10/17-171-418-155.jpg
+- pageintom: '155'
+  image: v10/17-171-418-155.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39427'
       num: '24'
@@ -225,8 +226,10 @@ sublists:
     - id: '39453'
       num: '50'
       name: ЛАПИКОВ Василий Ананьевич
-  - pageintom: '156'
-    page_image: v10/17-171-418-156.jpg
+- pageintom: '156'
+  image: v10/17-171-418-156.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39454'
       num: '51'
@@ -321,8 +324,10 @@ sublists:
       num: '77'
       name: РАЗУМОВ Владимир Николаевич
       spravka: true
-  - pageintom: '157'
-    page_image: v10/17-171-418-157.jpg
+- pageintom: '157'
+  image: v10/17-171-418-157.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39481'
       num: '78'
@@ -417,8 +422,10 @@ sublists:
     - id: '39507'
       num: '104'
       name: ЩЕРБИН Павел Акимович
-  - pageintom: '158'
-    page_image: v10/17-171-418-158.jpg
+- pageintom: '158'
+  image: v10/17-171-418-158.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39508'
       num: '105'
@@ -427,8 +434,10 @@ sublists:
       num: '106'
       name: ЯКИМАНСКИЙ Пантелеймон Ильич
       spravka: true
-  - pageintom: '159'
-    page_image: v10/17-171-418-159.jpg
+- pageintom: '159'
+  image: v10/17-171-418-159.jpg
+  sublists:
+  - sublid: '328'
     persons:
     - id: '39510'
       num: '1'
@@ -512,21 +521,10 @@ sublists:
       num: '22'
       name: ЧЕРВЯКОВ Иван Георгиевич
       spravka: true
-- title: Список от 12 сентября 1938г. [Г.Сталинград - Сталинградская железная дорога]
-  listtitle: Список лиц - Сталинградская область, г.Сталинград-Сталинградская ж.д.
-  sublisttitle: Г.Сталинград - Сталинградская железная дорога
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 62
-  geosub_ids:
-  - 117
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '160'
-    page_image: v10/17-171-418-160.jpg
+- pageintom: '160'
+  image: v10/17-171-418-160.jpg
+  sublists:
+  - sublid: '329'
     persons:
     - id: '39532'
       num: '1'
@@ -566,8 +564,10 @@ sublists:
     - id: '39543'
       num: '12'
       name: ШИШКИН Михаил Иванович
-  - pageintom: '161'
-    page_image: v10/17-171-418-161.jpg
+- pageintom: '161'
+  image: v10/17-171-418-161.jpg
+  sublists:
+  - sublid: '329'
     persons:
     - id: '39544'
       num: '1'

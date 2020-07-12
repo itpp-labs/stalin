@@ -14,35 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '61'
-  image: v04/17-171-412-061.jpg
-- pageintom: '62'
-  image: v04/17-171-412-062.jpg
-- pageintom: '63'
-  image: v04/17-171-412-063.jpg
-- pageintom: '64'
-  image: v04/17-171-412-064.jpg
-- pageintom: '65'
-  image: v04/17-171-412-065.jpg
-- pageintom: '66'
-  image: v04/17-171-412-066.jpg
-- pageintom: '67'
-  image: v04/17-171-412-067.jpg
-- pageintom: '68'
-  image: v04/17-171-412-068.jpg
-- pageintom: '69'
-  image: v04/17-171-412-069.jpg
-- pageintom: '70'
-  image: v04/17-171-412-070.jpg
-- pageintom: '71'
-  image: v04/17-171-412-071.jpg
-- pageintom: '72'
-  image: v04/17-171-412-072.jpg
-- pageintom: '73'
-  image: v04/17-171-412-073.jpg
-- pageintom: '74'
-  image: v04/17-171-412-074.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Московская обл.
@@ -57,9 +28,30 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '63'
-    page_image: v04/17-171-412-063.jpg
+- title: Список от 21 октября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская обл.
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+  - 2
+pages:
+- pageintom: '61'
+  image: v04/17-171-412-061.jpg
+  sublists: []
+- pageintom: '62'
+  image: v04/17-171-412-062.jpg
+  sublists: []
+- pageintom: '63'
+  image: v04/17-171-412-063.jpg
+  sublists:
+  - sublid: '232'
     persons:
     - id: '11354'
       num: '1'
@@ -170,8 +162,10 @@ sublists:
       num: '27'
       name: МАЙОРОВ Григорий Федорович
       spravka: true
-  - pageintom: '64'
-    page_image: v04/17-171-412-064.jpg
+- pageintom: '64'
+  image: v04/17-171-412-064.jpg
+  sublists:
+  - sublid: '232'
     persons:
     - id: '11381'
       num: '28'
@@ -276,8 +270,10 @@ sublists:
       num: '53'
       name: ШВАРЦМАН Шлема Ильич
       spravka: true
-  - pageintom: '65'
-    page_image: v04/17-171-412-065.jpg
+- pageintom: '65'
+  image: v04/17-171-412-065.jpg
+  sublists:
+  - sublid: '232'
     persons:
     - id: '11407'
       num: '1'
@@ -296,8 +292,19 @@ sublists:
       name: ГОРКИЧ Милан Миланович
       gb_spravka: true
       spravka: true
-  - pageintom: '69'
-    page_image: v04/17-171-412-069.jpg
+- pageintom: '66'
+  image: v04/17-171-412-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v04/17-171-412-067.jpg
+  sublists: []
+- pageintom: '68'
+  image: v04/17-171-412-068.jpg
+  sublists: []
+- pageintom: '69'
+  image: v04/17-171-412-069.jpg
+  sublists:
+  - sublid: '232'
     persons:
     - id: '11410'
       num: '1'
@@ -308,22 +315,10 @@ sublists:
       num: '2'
       name: СЕРБЕНТА Виталий Андреевич
       spravka: true
-- title: Список от 21 октября 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, Московская обл.
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  - 2
-  pages:
-  - pageintom: '70'
-    page_image: v04/17-171-412-070.jpg
+- pageintom: '70'
+  image: v04/17-171-412-070.jpg
+  sublists:
+  - sublid: '233'
     persons:
     - id: '11412'
       num: '1'
@@ -437,8 +432,10 @@ sublists:
       num: '28'
       name: ОШЛЕЙ Петр Матвеевич
       spravka: true
-  - pageintom: '71'
-    page_image: v04/17-171-412-071.jpg
+- pageintom: '71'
+  image: v04/17-171-412-071.jpg
+  sublists:
+  - sublid: '233'
     persons:
     - id: '11440'
       num: '29'
@@ -499,8 +496,10 @@ sublists:
       num: '43'
       name: ЯКОВЛЕВ Николай Алексеевич
       spravka: true
-  - pageintom: '72'
-    page_image: v04/17-171-412-072.jpg
+- pageintom: '72'
+  image: v04/17-171-412-072.jpg
+  sublists:
+  - sublid: '233'
     persons:
     - id: '11455'
       num: '1'
@@ -509,8 +508,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>МОСКОВСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
-  - pageintom: '74'
-    page_image: v04/17-171-412-074.jpg
+- pageintom: '73'
+  image: v04/17-171-412-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v04/17-171-412-074.jpg
+  sublists:
+  - sublid: '233'
     persons:
     - id: '11456'
       num: '1'

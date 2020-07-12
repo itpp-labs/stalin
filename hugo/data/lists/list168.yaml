@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '93'
-  image: v09/17-171-417-093.jpg
-- pageintom: '94'
-  image: v09/17-171-417-094.jpg
-- pageintom: '95'
-  image: v09/17-171-417-095.jpg
-- pageintom: '96'
-  image: v09/17-171-417-096.jpg
-- pageintom: '97'
-  image: v09/17-171-417-097.jpg
-- pageintom: '98'
-  image: v09/17-171-417-098.jpg
 sublists:
 - title: Список от 10.VI.38г. [Омская область]
   listtitle: Список лиц - Омская область
@@ -37,9 +24,17 @@ sublists:
   - 21
   group_ids:
   - 0
-  pages:
-  - pageintom: '95'
-    page_image: v09/17-171-417-095.jpg
+pages:
+- pageintom: '93'
+  image: v09/17-171-417-093.jpg
+  sublists: []
+- pageintom: '94'
+  image: v09/17-171-417-094.jpg
+  sublists: []
+- pageintom: '95'
+  image: v09/17-171-417-095.jpg
+  sublists:
+  - sublid: '109'
     persons:
     - id: '34537'
       num: '1'
@@ -123,8 +118,10 @@ sublists:
       num: '22'
       name: ЛЫСЕНКО Емельян Максимович
       spravka: true
-  - pageintom: '96'
-    page_image: v09/17-171-417-096.jpg
+- pageintom: '96'
+  image: v09/17-171-417-096.jpg
+  sublists:
+  - sublid: '109'
     persons:
     - id: '34559'
       num: '23'
@@ -227,8 +224,10 @@ sublists:
     - id: '34585'
       num: '49'
       name: ХОЛОД, он же ХОЛОДОВ Михаил Федорович
-  - pageintom: '97'
-    page_image: v09/17-171-417-097.jpg
+- pageintom: '97'
+  image: v09/17-171-417-097.jpg
+  sublists:
+  - sublid: '109'
     persons:
     - id: '34586'
       num: '50'
@@ -267,8 +266,10 @@ sublists:
     - id: '34595'
       num: '59'
       name: ЯТЕЛ Никанор Павлович
-  - pageintom: '98'
-    page_image: v09/17-171-417-098.jpg
+- pageintom: '98'
+  image: v09/17-171-417-098.jpg
+  sublists:
+  - sublid: '109'
     persons:
     - id: '34596'
       num: '1'

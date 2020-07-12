@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '108'
-  image: v01/17-171-409-108.jpg
-- pageintom: '109'
-  image: v01/17-171-409-109.jpg
-- pageintom: '110'
-  image: v01/17-171-409-110.jpg
-- pageintom: '111'
-  image: v01/17-171-409-111.jpg
-- pageintom: '112'
-  image: v01/17-171-409-112.jpg
-- pageintom: '113'
-  image: v01/17-171-409-113.jpg
 sublists:
 - title: Список от 23 апреля 1937 г. [Баку]
   listtitle: Список лиц - Баку
@@ -39,9 +26,17 @@ sublists:
   - 12
   group_ids:
   - 0
-  pages:
-  - pageintom: '110'
-    page_image: v01/17-171-409-110.jpg
+pages:
+- pageintom: '108'
+  image: v01/17-171-409-108.jpg
+  sublists: []
+- pageintom: '109'
+  image: v01/17-171-409-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v01/17-171-409-110.jpg
+  sublists:
+  - sublid: '10'
     persons:
     - id: '1753'
       num: '1'
@@ -149,8 +144,10 @@ sublists:
       num: '26'
       name: ОГАНЕЗОВ Артавазд Вартазарович
       doublesexists: true
-  - pageintom: '111'
-    page_image: v01/17-171-409-111.jpg
+- pageintom: '111'
+  image: v01/17-171-409-111.jpg
+  sublists:
+  - sublid: '10'
     persons:
     - id: '1779'
       num: '27'
@@ -204,8 +201,10 @@ sublists:
       num: '39'
       name: ЧЕРНИКОВ Григорий Иванович
       doublesexists: true
-  - pageintom: '112'
-    page_image: v01/17-171-409-112.jpg
+- pageintom: '112'
+  image: v01/17-171-409-112.jpg
+  sublists:
+  - sublid: '10'
     persons:
     - id: '1792'
       num: '1'
@@ -260,8 +259,10 @@ sublists:
     - id: '1808'
       num: '17'
       name: ХРАМКОВ Михаил Иванович
-  - pageintom: '113'
-    page_image: v01/17-171-409-113.jpg
+- pageintom: '113'
+  image: v01/17-171-409-113.jpg
+  sublists:
+  - sublid: '10'
     persons:
     - id: '1809'
       num: '1'

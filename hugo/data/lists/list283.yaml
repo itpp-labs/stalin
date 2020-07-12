@@ -14,21 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '255'
-  image: v07/17-171-415-255.jpg
-- pageintom: '256'
-  image: v07/17-171-415-256.jpg
-- pageintom: '257'
-  image: v07/17-171-415-257.jpg
-- pageintom: '258'
-  image: v07/17-171-415-258.jpg
-- pageintom: '259'
-  image: v07/17-171-415-259.jpg
-- pageintom: '260'
-  image: v07/17-171-415-260.jpg
-- pageintom: '261'
-  image: v07/17-171-415-261.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Красноярский край]
   listtitle: Список лиц - Красноярский край
@@ -42,9 +27,17 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '257'
-    page_image: v07/17-171-415-257.jpg
+pages:
+- pageintom: '255'
+  image: v07/17-171-415-255.jpg
+  sublists: []
+- pageintom: '256'
+  image: v07/17-171-415-256.jpg
+  sublists: []
+- pageintom: '257'
+  image: v07/17-171-415-257.jpg
+  sublists:
+  - sublid: '502'
     persons:
     - id: '28903'
       num: '1'
@@ -144,8 +137,10 @@ sublists:
       num: '24'
       name: ЕРУХИМОВИЧ Шолом Израйлович
       spravka: true
-  - pageintom: '258'
-    page_image: v07/17-171-415-258.jpg
+- pageintom: '258'
+  image: v07/17-171-415-258.jpg
+  sublists:
+  - sublid: '502'
     persons:
     - id: '28927'
       num: '25'
@@ -262,8 +257,10 @@ sublists:
       num: '53'
       name: НАБОКИХ Аким Михайлович
       spravka: true
-  - pageintom: '259'
-    page_image: v07/17-171-415-259.jpg
+- pageintom: '259'
+  image: v07/17-171-415-259.jpg
+  sublists:
+  - sublid: '502'
     persons:
     - id: '28956'
       num: '54'
@@ -372,8 +369,10 @@ sublists:
       num: '80'
       name: ФАЛЬКОВСКАЯ Станислава Болеславовна
       spravka: true
-  - pageintom: '260'
-    page_image: v07/17-171-415-260.jpg
+- pageintom: '260'
+  image: v07/17-171-415-260.jpg
+  sublists:
+  - sublid: '502'
     persons:
     - id: '28983'
       num: '81'
@@ -411,8 +410,10 @@ sublists:
       num: '89'
       name: ШКИРОВ Василий Михайлович
       spravka: true
-  - pageintom: '261'
-    page_image: v07/17-171-415-261.jpg
+- pageintom: '261'
+  image: v07/17-171-415-261.jpg
+  sublists:
+  - sublid: '502'
     persons:
     - id: '28992'
       num: '1'

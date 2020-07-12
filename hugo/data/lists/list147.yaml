@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '334'
-  image: v05/17-171-413-334.jpg
-- pageintom: '335'
-  image: v05/17-171-413-335.jpg
-- pageintom: '336'
-  image: v05/17-171-413-336.jpg
-- pageintom: '337'
-  image: v05/17-171-413-337.jpg
-- pageintom: '338'
-  image: v05/17-171-413-338.jpg
-- pageintom: '339'
-  image: v05/17-171-413-339.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Свердловская область]
   listtitle: Список лиц - Свердловская область
@@ -39,9 +26,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '336'
-    page_image: v05/17-171-413-336.jpg
+pages:
+- pageintom: '334'
+  image: v05/17-171-413-334.jpg
+  sublists: []
+- pageintom: '335'
+  image: v05/17-171-413-335.jpg
+  sublists: []
+- pageintom: '336'
+  image: v05/17-171-413-336.jpg
+  sublists:
+  - sublid: '95'
     persons:
     - id: '18697'
       num: '1'
@@ -127,8 +122,10 @@ sublists:
       num: '21'
       name: МАЛЬЦЕВ Михаил Владимирович
       spravka: true
-  - pageintom: '337'
-    page_image: v05/17-171-413-337.jpg
+- pageintom: '337'
+  image: v05/17-171-413-337.jpg
+  sublists:
+  - sublid: '95'
     persons:
     - id: '18718'
       num: '22'
@@ -237,8 +234,10 @@ sublists:
       num: '48'
       name: ЧЕРЕМНЫХ Андрей Алексеевич
       spravka: true
-  - pageintom: '338'
-    page_image: v05/17-171-413-338.jpg
+- pageintom: '338'
+  image: v05/17-171-413-338.jpg
+  sublists:
+  - sublid: '95'
     persons:
     - id: '18745'
       num: '49'
@@ -248,8 +247,10 @@ sublists:
       num: '50'
       name: ЮРЬЕВ Никита Павлович
       spravka: true
-  - pageintom: '339'
-    page_image: v05/17-171-413-339.jpg
+- pageintom: '339'
+  image: v05/17-171-413-339.jpg
+  sublists:
+  - sublid: '95'
     persons:
     - id: '18747'
       num: '1'

@@ -13,23 +13,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '266'
-  image: v05/17-171-413-266.jpg
-- pageintom: '267'
-  image: v05/17-171-413-267.jpg
-- pageintom: '268'
-  image: v05/17-171-413-268.jpg
-- pageintom: '269'
-  image: v05/17-171-413-269.jpg
-- pageintom: '270'
-  image: v05/17-171-413-270.jpg
-- pageintom: '271'
-  image: v05/17-171-413-271.jpg
-- pageintom: '272'
-  image: v05/17-171-413-272.jpg
-- pageintom: '273'
-  image: v05/17-171-413-273.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Гомель. Белорусская ж.д.]
   listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
@@ -43,9 +26,29 @@ sublists:
   - 110
   group_ids:
   - 13
-  pages:
-  - pageintom: '268'
-    page_image: v05/17-171-413-268.jpg
+- title: Список от 13 декабря 1937г. [Казань. Казанская ж.д.]
+  listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
+  sublisttitle: Казань. Казанская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 111
+  group_ids:
+  - 13
+pages:
+- pageintom: '266'
+  image: v05/17-171-413-266.jpg
+  sublists: []
+- pageintom: '267'
+  image: v05/17-171-413-267.jpg
+  sublists: []
+- pageintom: '268'
+  image: v05/17-171-413-268.jpg
+  sublists:
+  - sublid: '287'
     persons:
     - id: '17910'
       num: '1'
@@ -116,8 +119,10 @@ sublists:
     - id: '17929'
       num: '20'
       name: ПЕТРОВ Федор Михайлович
-  - pageintom: '269'
-    page_image: v05/17-171-413-269.jpg
+- pageintom: '269'
+  image: v05/17-171-413-269.jpg
+  sublists:
+  - sublid: '287'
     persons:
     - id: '31828'
       num: '21'
@@ -146,8 +151,10 @@ sublists:
       num: '28'
       name: ХИХЛЯ Василий Федотович
       spravka: true
-  - pageintom: '270'
-    page_image: v05/17-171-413-270.jpg
+- pageintom: '270'
+  image: v05/17-171-413-270.jpg
+  sublists:
+  - sublid: '287'
     persons:
     - id: '17938'
       num: '1'
@@ -179,21 +186,10 @@ sublists:
       num: '9'
       name: ХИМАКОВ Василий Паладьевич
       spravka: true
-- title: Список от 13 декабря 1937г. [Казань. Казанская ж.д.]
-  listtitle: Список лиц - Гомель, Белорусская ж.д.; Казань. Казанская ж.д.
-  sublisttitle: Казань. Казанская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 64
-  geosub_ids:
-  - 111
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '271'
-    page_image: v05/17-171-413-271.jpg
+- pageintom: '271'
+  image: v05/17-171-413-271.jpg
+  sublists:
+  - sublid: '288'
     persons:
     - id: '17947'
       num: '1'
@@ -269,8 +265,10 @@ sublists:
     - id: '17964'
       num: '18'
       name: МИХАЙЛОВ Петр Петрович
-  - pageintom: '272'
-    page_image: v05/17-171-413-272.jpg
+- pageintom: '272'
+  image: v05/17-171-413-272.jpg
+  sublists:
+  - sublid: '288'
     persons:
     - id: '17965'
       num: '19'
@@ -288,8 +286,10 @@ sublists:
       num: '22'
       name: ШЕСТАКОВ Иван Васильевич
       spravka: true
-  - pageintom: '273'
-    page_image: v05/17-171-413-273.jpg
+- pageintom: '273'
+  image: v05/17-171-413-273.jpg
+  sublists:
+  - sublid: '288'
     persons:
     - id: '17969'
       num: '1'

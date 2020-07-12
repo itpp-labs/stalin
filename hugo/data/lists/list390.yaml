@@ -13,65 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '18'
-  image: v11/17-171-419-018.jpg
-- pageintom: '19'
-  image: v11/17-171-419-019.jpg
-- pageintom: '20'
-  image: v11/17-171-419-020.jpg
-- pageintom: '21'
-  image: v11/17-171-419-021.jpg
-- pageintom: '22'
-  image: v11/17-171-419-022.jpg
-- pageintom: '23'
-  image: v11/17-171-419-023.jpg
-- pageintom: '24'
-  image: v11/17-171-419-024.jpg
-- pageintom: '25'
-  image: v11/17-171-419-025.jpg
-- pageintom: '26'
-  image: v11/17-171-419-026.jpg
-- pageintom: '27'
-  image: v11/17-171-419-027.jpg
-- pageintom: '28'
-  image: v11/17-171-419-028.jpg
-- pageintom: '29'
-  image: v11/17-171-419-029.jpg
-- pageintom: '30'
-  image: v11/17-171-419-030.jpg
-- pageintom: '31'
-  image: v11/17-171-419-031.jpg
-- pageintom: '32'
-  image: v11/17-171-419-032.jpg
-- pageintom: '33'
-  image: v11/17-171-419-033.jpg
-- pageintom: '34'
-  image: v11/17-171-419-034.jpg
-- pageintom: '35'
-  image: v11/17-171-419-035.jpg
-- pageintom: '36'
-  image: v11/17-171-419-036.jpg
-- pageintom: '37'
-  image: v11/17-171-419-037.jpg
-- pageintom: '38'
-  image: v11/17-171-419-038.jpg
-- pageintom: '39'
-  image: v11/17-171-419-039.jpg
-- pageintom: '40'
-  image: v11/17-171-419-040.jpg
-- pageintom: '41'
-  image: v11/17-171-419-041.jpg
-- pageintom: '42'
-  image: v11/17-171-419-042.jpg
-- pageintom: '43'
-  image: v11/17-171-419-043.jpg
-- pageintom: '44'
-  image: v11/17-171-419-044.jpg
-- pageintom: '45'
-  image: v11/17-171-419-045.jpg
-- pageintom: '46'
-  image: v11/17-171-419-046.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР,г.Алма-Ата - Турк.-Сибирская ж.д.
@@ -102,9 +43,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '20'
-    page_image: v11/17-171-419-020.jpg
+- title: Список от 12 сентября 1938г. [г.Алма-Ата Турксиб.ж.д.]
+  listtitle: Список лиц - Казахская ССР,г.Алма-Ата - Турк.-Сибирская ж.д.
+  sublisttitle: г.Алма-Ата Турксиб.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 8
+  geosub_ids:
+  - 76
+  group_ids:
+  - 13
+pages:
+- pageintom: '18'
+  image: v11/17-171-419-018.jpg
+  sublists: []
+- pageintom: '19'
+  image: v11/17-171-419-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v11/17-171-419-020.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '40984'
       num: '1'
@@ -187,8 +148,10 @@ sublists:
       num: '20'
       name: БЕКТЕНОВ Мендагали
       spravka: true
-  - pageintom: '21'
-    page_image: v11/17-171-419-021.jpg
+- pageintom: '21'
+  image: v11/17-171-419-021.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41004'
       num: '21'
@@ -286,8 +249,10 @@ sublists:
       num: '44'
       name: КРАСОВСКИЙ Иван Тимофеевич
       spravka: true
-  - pageintom: '22'
-    page_image: v11/17-171-419-022.jpg
+- pageintom: '22'
+  image: v11/17-171-419-022.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41028'
       num: '45'
@@ -384,8 +349,10 @@ sublists:
       num: '68'
       name: ЧУКИН Нажим
       spravka: true
-  - pageintom: '23'
-    page_image: v11/17-171-419-023.jpg
+- pageintom: '23'
+  image: v11/17-171-419-023.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41052'
       num: '69'
@@ -456,8 +423,10 @@ sublists:
       num: '85'
       name: МАКСИМОВИЧ Михаил Михайлович
       spravka: true
-  - pageintom: '24'
-    page_image: v11/17-171-419-024.jpg
+- pageintom: '24'
+  image: v11/17-171-419-024.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41069'
       num: '86'
@@ -530,8 +499,10 @@ sublists:
       num: '103'
       name: ЖАНГУЛОВ Журтыбек
       spravka: true
-  - pageintom: '25'
-    page_image: v11/17-171-419-025.jpg
+- pageintom: '25'
+  image: v11/17-171-419-025.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41087'
       num: '104'
@@ -609,8 +580,10 @@ sublists:
       num: '122'
       name: ВАЛИЕВ Альвеит
       spravka: true
-  - pageintom: '26'
-    page_image: v11/17-171-419-026.jpg
+- pageintom: '26'
+  image: v11/17-171-419-026.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41106'
       num: '123'
@@ -702,8 +675,10 @@ sublists:
       num: '145'
       name: МУНТЯН Геннадий Петрович
       spravka: true
-  - pageintom: '27'
-    page_image: v11/17-171-419-027.jpg
+- pageintom: '27'
+  image: v11/17-171-419-027.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41129'
       num: '146'
@@ -750,8 +725,10 @@ sublists:
       num: '156'
       name: ПОЛЯКОВ Григорий Михайлович
       spravka: true
-  - pageintom: '28'
-    page_image: v11/17-171-419-028.jpg
+- pageintom: '28'
+  image: v11/17-171-419-028.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41140'
       num: '1'
@@ -807,8 +784,46 @@ sublists:
       name: ЧЕРМАК Карл Антонович
       gb_spravka: true
       spravka: true
-  - pageintom: '41'
-    page_image: v11/17-171-419-041.jpg
+- pageintom: '29'
+  image: v11/17-171-419-029.jpg
+  sublists: []
+- pageintom: '30'
+  image: v11/17-171-419-030.jpg
+  sublists: []
+- pageintom: '31'
+  image: v11/17-171-419-031.jpg
+  sublists: []
+- pageintom: '32'
+  image: v11/17-171-419-032.jpg
+  sublists: []
+- pageintom: '33'
+  image: v11/17-171-419-033.jpg
+  sublists: []
+- pageintom: '34'
+  image: v11/17-171-419-034.jpg
+  sublists: []
+- pageintom: '35'
+  image: v11/17-171-419-035.jpg
+  sublists: []
+- pageintom: '36'
+  image: v11/17-171-419-036.jpg
+  sublists: []
+- pageintom: '37'
+  image: v11/17-171-419-037.jpg
+  sublists: []
+- pageintom: '38'
+  image: v11/17-171-419-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v11/17-171-419-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v11/17-171-419-040.jpg
+  sublists: []
+- pageintom: '41'
+  image: v11/17-171-419-041.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41151'
       num: '1'
@@ -880,8 +895,10 @@ sublists:
       num: '17'
       name: ШНЕРЕЛЬМАН Илья Эммануилович
       spravka: true
-  - pageintom: '42'
-    page_image: v11/17-171-419-042.jpg
+- pageintom: '42'
+  image: v11/17-171-419-042.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41168'
       num: '18'
@@ -942,8 +959,10 @@ sublists:
       num: '32'
       name: СЕЛИВАНОВ Алексей Иванович
       spravka: true
-  - pageintom: '43'
-    page_image: v11/17-171-419-043.jpg
+- pageintom: '43'
+  image: v11/17-171-419-043.jpg
+  sublists:
+  - sublid: '625'
     persons:
     - id: '41183'
       num: '33'
@@ -971,21 +990,10 @@ sublists:
       num: '38'
       name: ШЕГЕБАЕВ Абдуразак
       spravka: true
-- title: Список от 12 сентября 1938г. [г.Алма-Ата Турксиб.ж.д.]
-  listtitle: Список лиц - Казахская ССР,г.Алма-Ата - Турк.-Сибирская ж.д.
-  sublisttitle: г.Алма-Ата Турксиб.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 8
-  geosub_ids:
-  - 76
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '44'
-    page_image: v11/17-171-419-044.jpg
+- pageintom: '44'
+  image: v11/17-171-419-044.jpg
+  sublists:
+  - sublid: '626'
     persons:
     - id: '41189'
       num: '1'
@@ -1068,8 +1076,10 @@ sublists:
       num: '20'
       name: СТРИЖКО Александр Степанович
       spravka: true
-  - pageintom: '45'
-    page_image: v11/17-171-419-045.jpg
+- pageintom: '45'
+  image: v11/17-171-419-045.jpg
+  sublists:
+  - sublid: '626'
     persons:
     - id: '41209'
       num: '21'
@@ -1095,8 +1105,10 @@ sublists:
       num: '26'
       name: ШАПЕНОВ Абылкасым
       spravka: true
-  - pageintom: '46'
-    page_image: v11/17-171-419-046.jpg
+- pageintom: '46'
+  image: v11/17-171-419-046.jpg
+  sublists:
+  - sublid: '626'
     persons:
     - id: '41215'
       num: '1'

@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '138'
-  image: v07/17-171-415-138.jpg
-- pageintom: '139'
-  image: v07/17-171-415-139.jpg
-- pageintom: '140'
-  image: v07/17-171-415-140.jpg
-- pageintom: '141'
-  image: v07/17-171-415-141.jpg
-- pageintom: '142'
-  image: v07/17-171-415-142.jpg
-- pageintom: '143'
-  image: v07/17-171-415-143.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -41,9 +28,17 @@ sublists:
   - 92
   group_ids:
   - 12
-  pages:
-  - pageintom: '140'
-    page_image: v07/17-171-415-140.jpg
+pages:
+- pageintom: '138'
+  image: v07/17-171-415-138.jpg
+  sublists: []
+- pageintom: '139'
+  image: v07/17-171-415-139.jpg
+  sublists: []
+- pageintom: '140'
+  image: v07/17-171-415-140.jpg
+  sublists:
+  - sublid: '491'
     persons:
     - id: '27366'
       num: '1'
@@ -110,8 +105,10 @@ sublists:
     - id: '27384'
       num: '19'
       name: ЛЕВИТ Израиль Петрович
-  - pageintom: '141'
-    page_image: v07/17-171-415-141.jpg
+- pageintom: '141'
+  image: v07/17-171-415-141.jpg
+  sublists:
+  - sublid: '491'
     persons:
     - id: '27385'
       num: '20'
@@ -202,8 +199,10 @@ sublists:
       num: '44'
       name: ДИМИТРИС Эрнест Петрович
       spravka: true
-  - pageintom: '142'
-    page_image: v07/17-171-415-142.jpg
+- pageintom: '142'
+  image: v07/17-171-415-142.jpg
+  sublists:
+  - sublid: '491'
     persons:
     - id: '27410'
       num: '45'
@@ -309,8 +308,10 @@ sublists:
     - id: '27438'
       num: '73'
       name: ТОЛКУШКИН Владимир Петрович
-  - pageintom: '143'
-    page_image: v07/17-171-415-143.jpg
+- pageintom: '143'
+  image: v07/17-171-415-143.jpg
+  sublists:
+  - sublid: '491'
     persons:
     - id: '27439'
       num: '74'

@@ -14,27 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '72'
-  image: v08/17-171-416-072.jpg
-- pageintom: '73'
-  image: v08/17-171-416-073.jpg
-- pageintom: '74'
-  image: v08/17-171-416-074.jpg
-- pageintom: '75'
-  image: v08/17-171-416-075.jpg
-- pageintom: '76'
-  image: v08/17-171-416-076.jpg
-- pageintom: '77'
-  image: v08/17-171-416-077.jpg
-- pageintom: '78'
-  image: v08/17-171-416-078.jpg
-- pageintom: '79'
-  image: v08/17-171-416-079.jpg
-- pageintom: '80'
-  image: v08/17-171-416-080.jpg
-- pageintom: '81'
-  image: v08/17-171-416-081.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Татарская АССР]
   listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
@@ -49,9 +28,82 @@ sublists:
   - 29
   group_ids:
   - 0
-  pages:
-  - pageintom: '74'
-    page_image: v08/17-171-416-074.jpg
+- title: Список от 19 апреля 1938г. [г.Алма-Ата-Турксиб.ж.д.]
+  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
+    область,Красноярский край,Узбекская ССР
+  sublisttitle: г.Алма-Ата-Турксиб.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 8
+  geosub_ids:
+  - 76
+  group_ids:
+  - 13
+- title: Список от 19 апреля 1938г. [Карельская АССР]
+  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
+    область,Красноярский край,Узбекская ССР
+  sublisttitle: Карельская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 38
+  geosub_ids:
+  - 102
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Ленинградская область]
+  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
+    область,Красноярский край,Узбекская ССР
+  sublisttitle: Ленинградская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 44
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Красноярский край]
+  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
+    область,Красноярский край,Узбекская ССР
+  sublisttitle: Красноярский край
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Узбекская ССР]
+  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
+    область,Красноярский край,Узбекская ССР
+  sublisttitle: Узбекская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 74
+  geosub_ids:
+  - 36
+  group_ids:
+  - 0
+pages:
+- pageintom: '72'
+  image: v08/17-171-416-072.jpg
+  sublists: []
+- pageintom: '73'
+  image: v08/17-171-416-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v08/17-171-416-074.jpg
+  sublists:
+  - sublid: '588'
     persons:
     - id: '30116'
       num: '1'
@@ -86,8 +138,10 @@ sublists:
       num: '8'
       name: ФАЙЗУЛЛИН Исхак Файзулович
       spravka: true
-  - pageintom: '75'
-    page_image: v08/17-171-416-075.jpg
+- pageintom: '75'
+  image: v08/17-171-416-075.jpg
+  sublists:
+  - sublid: '588'
     persons:
     - id: '30124'
       num: '1'
@@ -99,22 +153,10 @@ sublists:
       num: '2'
       name: ШИРОКОВ Иван Яковлевич
       spravka: true
-- title: Список от 19 апреля 1938г. [г.Алма-Ата-Турксиб.ж.д.]
-  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
-    область,Красноярский край,Узбекская ССР
-  sublisttitle: г.Алма-Ата-Турксиб.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 8
-  geosub_ids:
-  - 76
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '76'
-    page_image: v08/17-171-416-076.jpg
+- pageintom: '76'
+  image: v08/17-171-416-076.jpg
+  sublists:
+  - sublid: '589'
     persons:
     - id: '30126'
       num: '1'
@@ -154,8 +196,10 @@ sublists:
       num: '9'
       name: ФОМИН Николай Степанович
       spravka: true
-  - pageintom: '77'
-    page_image: v08/17-171-416-077.jpg
+- pageintom: '77'
+  image: v08/17-171-416-077.jpg
+  sublists:
+  - sublid: '589'
     persons:
     - id: '30135'
       num: '1'
@@ -171,22 +215,10 @@ sublists:
       num: '3'
       name: РЯЗАНОВ Владимир Тимофеевич
       spravka: true
-- title: Список от 19 апреля 1938г. [Карельская АССР]
-  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
-    область,Красноярский край,Узбекская ССР
-  sublisttitle: Карельская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 38
-  geosub_ids:
-  - 102
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '78'
-    page_image: v08/17-171-416-078.jpg
+- pageintom: '78'
+  image: v08/17-171-416-078.jpg
+  sublists:
+  - sublid: '590'
     persons:
     - id: '30138'
       num: '1'
@@ -202,44 +234,20 @@ sublists:
       num: '3'
       name: ТАРОЕВ Федор Константинович
       spravka: true
-- title: Список от 19 апреля 1938г. [Ленинградская область]
-  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
-    область,Красноярский край,Узбекская ССР
-  sublisttitle: Ленинградская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 46
-  geosub_ids:
-  - 44
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '79'
-    page_image: v08/17-171-416-079.jpg
+- pageintom: '79'
+  image: v08/17-171-416-079.jpg
+  sublists:
+  - sublid: '591'
     persons:
     - id: '30141'
       num: '1'
       name: СТЕПАНОВ Василий Степанович
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 19 апреля 1938г. [Красноярский край]
-  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
-    область,Красноярский край,Узбекская ССР
-  sublisttitle: Красноярский край
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 13
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '80'
-    page_image: v08/17-171-416-080.jpg
+- pageintom: '80'
+  image: v08/17-171-416-080.jpg
+  sublists:
+  - sublid: '592'
     persons:
     - id: '30142'
       num: '1'
@@ -247,22 +255,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
-- title: Список от 19 апреля 1938г. [Узбекская ССР]
-  listtitle: Список лиц - Татарская АССР,г.Алма-Ата - Турк.-Сиб.ж.д.,Карельская АССР,Ленинградская
-    область,Красноярский край,Узбекская ССР
-  sublisttitle: Узбекская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 74
-  geosub_ids:
-  - 36
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '81'
-    page_image: v08/17-171-416-081.jpg
+- pageintom: '81'
+  image: v08/17-171-416-081.jpg
+  sublists:
+  - sublid: '593'
     persons:
     - id: '30143'
       num: '1'

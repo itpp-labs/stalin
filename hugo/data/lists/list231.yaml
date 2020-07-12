@@ -13,21 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '109'
-  image: v03/17-171-411-109.jpg
-- pageintom: '110'
-  image: v03/17-171-411-110.jpg
-- pageintom: '111'
-  image: v03/17-171-411-111.jpg
-- pageintom: '112'
-  image: v03/17-171-411-112.jpg
-- pageintom: '113'
-  image: v03/17-171-411-113.jpg
-- pageintom: '114'
-  image: v03/17-171-411-114.jpg
-- pageintom: '115'
-  image: v03/17-171-411-115.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Ярославская область]
   listtitle: 'Список лиц: Ярославская, Челябинская области, Кабардино-Балкарская АССР'
@@ -41,9 +26,41 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '111'
-    page_image: v03/17-171-411-111.jpg
+- title: Список от 22 сентября 1937г. [Челябинская область]
+  listtitle: 'Список лиц: Ярославская, Челябинская области, Кабардино-Балкарская АССР'
+  sublisttitle: Челябинская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
+- title: Список от 22 сентября 1937г. [Кабардино-Балкарская АССР]
+  listtitle: 'Список лиц: Ярославская, Челябинская области, Кабардино-Балкарская АССР'
+  sublisttitle: Кабардино-Балкарская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 34
+  geosub_ids:
+  - 62
+  group_ids:
+  - 0
+pages:
+- pageintom: '109'
+  image: v03/17-171-411-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v03/17-171-411-110.jpg
+  sublists: []
+- pageintom: '111'
+  image: v03/17-171-411-111.jpg
+  sublists:
+  - sublid: '385'
     persons:
     - id: '8937'
       num: '1'
@@ -126,8 +143,10 @@ sublists:
       num: '20'
       name: ТЫРИЧЕВ Борис Макарович
       spravka: true
-  - pageintom: '112'
-    page_image: v03/17-171-411-112.jpg
+- pageintom: '112'
+  image: v03/17-171-411-112.jpg
+  sublists:
+  - sublid: '385'
     persons:
     - id: '8957'
       num: '21'
@@ -149,8 +168,10 @@ sublists:
       num: '25'
       name: ШМИДЕЛЬ Оскар Карлович
       spravka: true
-  - pageintom: '113'
-    page_image: v03/17-171-411-113.jpg
+- pageintom: '113'
+  image: v03/17-171-411-113.jpg
+  sublists:
+  - sublid: '385'
     persons:
     - id: '8962'
       num: '1'
@@ -158,21 +179,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         категория</u>
-- title: Список от 22 сентября 1937г. [Челябинская область]
-  listtitle: 'Список лиц: Ярославская, Челябинская области, Кабардино-Балкарская АССР'
-  sublisttitle: Челябинская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 45
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '114'
-    page_image: v03/17-171-411-114.jpg
+- pageintom: '114'
+  image: v03/17-171-411-114.jpg
+  sublists:
+  - sublid: '386'
     persons:
     - id: '8963'
       num: '1'
@@ -211,21 +221,10 @@ sublists:
     - id: '8971'
       num: '9'
       name: ЧУГИН Павел Федосеевич
-- title: Список от 22 сентября 1937г. [Кабардино-Балкарская АССР]
-  listtitle: 'Список лиц: Ярославская, Челябинская области, Кабардино-Балкарская АССР'
-  sublisttitle: Кабардино-Балкарская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 34
-  geosub_ids:
-  - 62
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '115'
-    page_image: v03/17-171-411-115.jpg
+- pageintom: '115'
+  image: v03/17-171-411-115.jpg
+  sublists:
+  - sublid: '387'
     persons:
     - id: '8972'
       num: '1'

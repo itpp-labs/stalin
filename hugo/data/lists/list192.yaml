@@ -11,53 +11,6 @@ delo:
 signs:
   molotov: true
   jdanov: true
-pages:
-- pageintom: '1'
-  image: v10/17-171-418-001.jpg
-- pageintom: '2'
-  image: v10/17-171-418-002.jpg
-- pageintom: '3'
-  image: v10/17-171-418-003.jpg
-- pageintom: '4'
-  image: v10/17-171-418-004.jpg
-- pageintom: '5'
-  image: v10/17-171-418-005.jpg
-- pageintom: '6'
-  image: v10/17-171-418-006.jpg
-- pageintom: '7'
-  image: v10/17-171-418-007.jpg
-- pageintom: '8'
-  image: v10/17-171-418-008.jpg
-- pageintom: '9'
-  image: v10/17-171-418-009.jpg
-- pageintom: '10'
-  image: v10/17-171-418-010.jpg
-- pageintom: '11'
-  image: v10/17-171-418-011.jpg
-- pageintom: '12'
-  image: v10/17-171-418-012.jpg
-- pageintom: '13'
-  image: v10/17-171-418-013.jpg
-- pageintom: '14'
-  image: v10/17-171-418-014.jpg
-- pageintom: '15'
-  image: v10/17-171-418-015.jpg
-- pageintom: '16'
-  image: v10/17-171-418-016.jpg
-- pageintom: '17'
-  image: v10/17-171-418-017.jpg
-- pageintom: '18'
-  image: v10/17-171-418-018.jpg
-- pageintom: '19'
-  image: v10/17-171-418-019.jpg
-- pageintom: '20'
-  image: v10/17-171-418-020.jpg
-- pageintom: '21'
-  image: v10/17-171-418-021.jpg
-- pageintom: '22'
-  image: v10/17-171-418-022.jpg
-- pageintom: '23'
-  image: v10/17-171-418-023.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -72,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '3'
-    page_image: v10/17-171-418-003.jpg
+pages:
+- pageintom: '1'
+  image: v10/17-171-418-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v10/17-171-418-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v10/17-171-418-003.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '36870'
       num: '1'
@@ -154,8 +115,10 @@ sublists:
       num: '20'
       name: БАРАХОВ Исидор Никифорович
       spravka: true
-  - pageintom: '4'
-    page_image: v10/17-171-418-004.jpg
+- pageintom: '4'
+  image: v10/17-171-418-004.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '36890'
       num: '21'
@@ -265,8 +228,10 @@ sublists:
       num: '47'
       name: ВАСИЛЬКОВ Александр Иванович
       spravka: true
-  - pageintom: '5'
-    page_image: v10/17-171-418-005.jpg
+- pageintom: '5'
+  image: v10/17-171-418-005.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '36917'
       num: '48'
@@ -378,8 +343,10 @@ sublists:
       num: '75'
       name: ГОЛЬДМАН Леон Исаакович
       spravka: true
-  - pageintom: '6'
-    page_image: v10/17-171-418-006.jpg
+- pageintom: '6'
+  image: v10/17-171-418-006.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '36945'
       num: '76'
@@ -491,8 +458,10 @@ sublists:
       num: '103'
       name: ЕВЗЕРИХИН Зрубавель Моисеевич
       spravka: true
-  - pageintom: '7'
-    page_image: v10/17-171-418-007.jpg
+- pageintom: '7'
+  image: v10/17-171-418-007.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '36973'
       num: '104'
@@ -601,8 +570,10 @@ sublists:
       num: '130'
       name: КАРРИК-ИРКУТОВ Андрей Дмитриевич
       spravka: true
-  - pageintom: '8'
-    page_image: v10/17-171-418-008.jpg
+- pageintom: '8'
+  image: v10/17-171-418-008.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37000'
       num: '131'
@@ -713,8 +684,10 @@ sublists:
       num: '158'
       name: ЛАГО, он же ОЗЕРОВ Борис Федорович
       spravka: true
-  - pageintom: '9'
-    page_image: v10/17-171-418-009.jpg
+- pageintom: '9'
+  image: v10/17-171-418-009.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37028'
       num: '159'
@@ -822,8 +795,10 @@ sublists:
       num: '185'
       name: МИЛОВИДОВ Александр Семенович, он же <br />МЕЛАМЕД Абрам Соломонович
       spravka: true
-  - pageintom: '10'
-    page_image: v10/17-171-418-010.jpg
+- pageintom: '10'
+  image: v10/17-171-418-010.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37055'
       num: '186'
@@ -935,8 +910,10 @@ sublists:
       name: ПЕТРИКОВСКИЙ Станислав Антонович
       doublesexists: true
       spravka: true
-  - pageintom: '11'
-    page_image: v10/17-171-418-011.jpg
+- pageintom: '11'
+  image: v10/17-171-418-011.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37083'
       num: '214'
@@ -1046,8 +1023,10 @@ sublists:
       num: '240'
       name: РОЗОВСКИЙ Израиль Леопольдович
       spravka: true
-  - pageintom: '12'
-    page_image: v10/17-171-418-012.jpg
+- pageintom: '12'
+  image: v10/17-171-418-012.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37110'
       num: '241'
@@ -1155,8 +1134,10 @@ sublists:
       num: '267'
       name: СТРЕЛКОВА Зоя Ильинична
       spravka: true
-  - pageintom: '13'
-    page_image: v10/17-171-418-013.jpg
+- pageintom: '13'
+  image: v10/17-171-418-013.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37137'
       num: '268'
@@ -1268,8 +1249,10 @@ sublists:
     - id: '37164'
       num: '295'
       name: ХОДАРЕВ Николай Степанович
-  - pageintom: '14'
-    page_image: v10/17-171-418-014.jpg
+- pageintom: '14'
+  image: v10/17-171-418-014.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37165'
       num: '296'
@@ -1376,8 +1359,10 @@ sublists:
       num: '322'
       name: ШПОЛЯНСКИЙ Павел Исакович
       spravka: true
-  - pageintom: '15'
-    page_image: v10/17-171-418-015.jpg
+- pageintom: '15'
+  image: v10/17-171-418-015.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37192'
       num: '323'
@@ -1451,8 +1436,10 @@ sublists:
       num: '340'
       name: УРИЦКИЙ Семен Борисович
       spravka: true
-  - pageintom: '16'
-    page_image: v10/17-171-418-016.jpg
+- pageintom: '16'
+  image: v10/17-171-418-016.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37210'
       num: '1'
@@ -1474,8 +1461,22 @@ sublists:
       num: '4'
       name: ЭРМИШ Кости Мильтияди
       gb_spravka: true
-  - pageintom: '21'
-    page_image: v10/17-171-418-021.jpg
+- pageintom: '17'
+  image: v10/17-171-418-017.jpg
+  sublists: []
+- pageintom: '18'
+  image: v10/17-171-418-018.jpg
+  sublists: []
+- pageintom: '19'
+  image: v10/17-171-418-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v10/17-171-418-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v10/17-171-418-021.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37214'
       num: '1'
@@ -1544,8 +1545,10 @@ sublists:
     - id: '37232'
       num: '19'
       name: ДРУСКИН Захар Иосифович
-  - pageintom: '22'
-    page_image: v10/17-171-418-022.jpg
+- pageintom: '22'
+  image: v10/17-171-418-022.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37233'
       num: '20'
@@ -1644,8 +1647,10 @@ sublists:
       num: '47'
       name: ПОПОВ Владимир Васильевич
       spravka: true
-  - pageintom: '23'
-    page_image: v10/17-171-418-023.jpg
+- pageintom: '23'
+  image: v10/17-171-418-023.jpg
+  sublists:
+  - sublid: '130'
     persons:
     - id: '37261'
       num: '48'

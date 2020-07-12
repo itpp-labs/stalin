@@ -14,25 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   ejov: true
-pages:
-- pageintom: '130'
-  image: v01/17-171-409-130.jpg
-- pageintom: '131'
-  image: v01/17-171-409-131.jpg
-- pageintom: '132'
-  image: v01/17-171-409-132.jpg
-- pageintom: '133'
-  image: v01/17-171-409-133.jpg
-- pageintom: '134'
-  image: v01/17-171-409-134.jpg
-- pageintom: '135'
-  image: v01/17-171-409-135.jpg
-- pageintom: '136'
-  image: v01/17-171-409-136.jpg
-- pageintom: '137'
-  image: v01/17-171-409-137.jpg
-- pageintom: '138'
-  image: v01/17-171-409-138.jpg
 sublists:
 - title: Список от 15 мая 1937 г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -47,9 +28,17 @@ sublists:
   group_ids:
   - 8
   - 9
-  pages:
-  - pageintom: '132'
-    page_image: v01/17-171-409-132.jpg
+pages:
+- pageintom: '130'
+  image: v01/17-171-409-130.jpg
+  sublists: []
+- pageintom: '131'
+  image: v01/17-171-409-131.jpg
+  sublists: []
+- pageintom: '132'
+  image: v01/17-171-409-132.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2033'
       num: '1'
@@ -144,8 +133,10 @@ sublists:
       num: '23'
       name: МАРЬЯСИН Александр Ефимович
       spravka: true
-  - pageintom: '133'
-    page_image: v01/17-171-409-133.jpg
+- pageintom: '133'
+  image: v01/17-171-409-133.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2056'
       num: '24'
@@ -244,8 +235,10 @@ sublists:
       num: '47'
       name: ЮШКЕВИЧ Николай Федорович
       spravka: true
-  - pageintom: '134'
-    page_image: v01/17-171-409-134.jpg
+- pageintom: '134'
+  image: v01/17-171-409-134.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2080'
       num: '1'
@@ -354,8 +347,10 @@ sublists:
       name: СЛЕПКОВ Александр Николаевич
       doublesexists: true
       spravka: true
-  - pageintom: '135'
-    page_image: v01/17-171-409-135.jpg
+- pageintom: '135'
+  image: v01/17-171-409-135.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2105'
       num: '26'
@@ -387,8 +382,10 @@ sublists:
       num: '32'
       name: ЯКОВЛЕВ Василий Анисимович
       spravka: true
-  - pageintom: '136'
-    page_image: v01/17-171-409-136.jpg
+- pageintom: '136'
+  image: v01/17-171-409-136.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2112'
       num: '1'
@@ -478,8 +475,10 @@ sublists:
     - id: '2135'
       num: '24'
       name: ЛОЗУТОВ Иван Панферович
-  - pageintom: '137'
-    page_image: v01/17-171-409-137.jpg
+- pageintom: '137'
+  image: v01/17-171-409-137.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2136'
       num: '25'
@@ -564,8 +563,10 @@ sublists:
       name: ШМИДТ Василий Владимирович
       doublesexists: true
       spravka: true
-  - pageintom: '138'
-    page_image: v01/17-171-409-138.jpg
+- pageintom: '138'
+  image: v01/17-171-409-138.jpg
+  sublists:
+  - sublid: '13'
     persons:
     - id: '2159'
       num: '1'

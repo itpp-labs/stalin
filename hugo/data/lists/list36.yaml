@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '21'
-  image: v02/17-171-410-021.jpg
-- pageintom: '22'
-  image: v02/17-171-410-022.jpg
-- pageintom: '23'
-  image: v02/17-171-410-023.jpg
-- pageintom: '24'
-  image: v02/17-171-410-024.jpg
-- pageintom: '25'
-  image: v02/17-171-410-025.jpg
-- pageintom: '26'
-  image: v02/17-171-410-026.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Азербайджанская ССР]
   listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
@@ -37,9 +24,29 @@ sublists:
   - 39
   group_ids:
   - 0
-  pages:
-  - pageintom: '23'
-    page_image: v02/17-171-410-023.jpg
+- title: Список от 10 июля 1937 г. [Грузинская ССР]
+  listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
+  sublisttitle: Грузинская ССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 5
+  geosub_ids:
+  - 24
+  group_ids:
+  - 0
+pages:
+- pageintom: '21'
+  image: v02/17-171-410-021.jpg
+  sublists: []
+- pageintom: '22'
+  image: v02/17-171-410-022.jpg
+  sublists: []
+- pageintom: '23'
+  image: v02/17-171-410-023.jpg
+  sublists:
+  - sublid: '173'
     persons:
     - id: '3597'
       num: '1'
@@ -116,8 +123,10 @@ sublists:
     - id: '3620'
       num: '24'
       name: НЕМЧЕНКО Михаил Лукьянович
-  - pageintom: '24'
-    page_image: v02/17-171-410-024.jpg
+- pageintom: '24'
+  image: v02/17-171-410-024.jpg
+  sublists:
+  - sublid: '173'
     persons:
     - id: '3621'
       num: '25'
@@ -174,8 +183,10 @@ sublists:
     - id: '3638'
       num: '42'
       name: ЮНИН Илья Васильевич
-  - pageintom: '25'
-    page_image: v02/17-171-410-025.jpg
+- pageintom: '25'
+  image: v02/17-171-410-025.jpg
+  sublists:
+  - sublid: '173'
     persons:
     - id: '3639'
       num: '1'
@@ -188,21 +199,10 @@ sublists:
     - id: '3641'
       num: '3'
       name: ЦЕЛИКИНА Нина Ивановна
-- title: Список от 10 июля 1937 г. [Грузинская ССР]
-  listtitle: 'Список лиц: Азербайджанская ССР, Грузинская ССР'
-  sublisttitle: Грузинская ССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 5
-  geosub_ids:
-  - 24
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '26'
-    page_image: v02/17-171-410-026.jpg
+- pageintom: '26'
+  image: v02/17-171-410-026.jpg
+  sublists:
+  - sublid: '174'
     persons:
     - id: '3642'
       num: '1'

@@ -13,19 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '162'
-  image: v10/17-171-418-162.jpg
-- pageintom: '163'
-  image: v10/17-171-418-163.jpg
-- pageintom: '164'
-  image: v10/17-171-418-164.jpg
-- pageintom: '165'
-  image: v10/17-171-418-165.jpg
-- pageintom: '166'
-  image: v10/17-171-418-166.jpg
-- pageintom: '167'
-  image: v10/17-171-418-167.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область, г.Смоленск-Западная ж.д.
@@ -39,9 +26,29 @@ sublists:
   - 93
   group_ids:
   - 0
-  pages:
-  - pageintom: '164'
-    page_image: v10/17-171-418-164.jpg
+- title: Список от 12 сентября 1938г. [г.Смоленск, Западная железная дорога]
+  listtitle: Список лиц - Смоленская область, г.Смоленск-Западная ж.д.
+  sublisttitle: г.Смоленск, Западная железная дорога
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 143
+  group_ids:
+  - 13
+pages:
+- pageintom: '162'
+  image: v10/17-171-418-162.jpg
+  sublists: []
+- pageintom: '163'
+  image: v10/17-171-418-163.jpg
+  sublists: []
+- pageintom: '164'
+  image: v10/17-171-418-164.jpg
+  sublists:
+  - sublid: '330'
     persons:
     - id: '39552'
       num: '1'
@@ -136,8 +143,10 @@ sublists:
     - id: '39576'
       num: '25'
       name: ЩЕРБАКОВ Михаил Павлович
-  - pageintom: '165'
-    page_image: v10/17-171-418-165.jpg
+- pageintom: '165'
+  image: v10/17-171-418-165.jpg
+  sublists:
+  - sublid: '330'
     persons:
     - id: '39577'
       num: '1'
@@ -187,21 +196,10 @@ sublists:
     - id: '39589'
       num: '13'
       name: ЧУРИЛИН Абрам Маркович
-- title: Список от 12 сентября 1938г. [г.Смоленск, Западная железная дорога]
-  listtitle: Список лиц - Смоленская область, г.Смоленск-Западная ж.д.
-  sublisttitle: г.Смоленск, Западная железная дорога
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 61
-  geosub_ids:
-  - 143
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '166'
-    page_image: v10/17-171-418-166.jpg
+- pageintom: '166'
+  image: v10/17-171-418-166.jpg
+  sublists:
+  - sublid: '331'
     persons:
     - id: '39590'
       num: '1'
@@ -249,8 +247,10 @@ sublists:
     - id: '39601'
       num: '12'
       name: ХРОЛ Михаил Парфенович
-  - pageintom: '167'
-    page_image: v10/17-171-418-167.jpg
+- pageintom: '167'
+  image: v10/17-171-418-167.jpg
+  sublists:
+  - sublid: '331'
     persons:
     - id: '39602'
       num: '1'

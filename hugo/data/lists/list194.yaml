@@ -13,33 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '36'
-  image: v10/17-171-418-036.jpg
-- pageintom: '37'
-  image: v10/17-171-418-037.jpg
-- pageintom: '38'
-  image: v10/17-171-418-038.jpg
-- pageintom: '39'
-  image: v10/17-171-418-039.jpg
-- pageintom: '40'
-  image: v10/17-171-418-040.jpg
-- pageintom: '41'
-  image: v10/17-171-418-041.jpg
-- pageintom: '42'
-  image: v10/17-171-418-042.jpg
-- pageintom: '43'
-  image: v10/17-171-418-043.jpg
-- pageintom: '44'
-  image: v10/17-171-418-044.jpg
-- pageintom: '45'
-  image: v10/17-171-418-045.jpg
-- pageintom: '46'
-  image: v10/17-171-418-046.jpg
-- pageintom: '47'
-  image: v10/17-171-418-047.jpg
-- pageintom: '48'
-  image: v10/17-171-418-048.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ярославская область]
   listtitle: Список лиц - Ярославская область,г.Ярославль-Ярославская ж.д.
@@ -53,9 +26,29 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '38'
-    page_image: v10/17-171-418-038.jpg
+- title: Список от 12 сентября 1938г. [Гор.Ярославль. Ярославская жел.дор.]
+  listtitle: Список лиц - Ярославская область,г.Ярославль-Ярославская ж.д.
+  sublisttitle: Гор.Ярославль. Ярославская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 109
+  group_ids:
+  - 13
+pages:
+- pageintom: '36'
+  image: v10/17-171-418-036.jpg
+  sublists: []
+- pageintom: '37'
+  image: v10/17-171-418-037.jpg
+  sublists: []
+- pageintom: '38'
+  image: v10/17-171-418-038.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37306'
       num: '1'
@@ -154,8 +147,10 @@ sublists:
       num: '24'
       name: БРУСНИКИН Александр Михайлович
       spravka: true
-  - pageintom: '39'
-    page_image: v10/17-171-418-039.jpg
+- pageintom: '39'
+  image: v10/17-171-418-039.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37330'
       num: '25'
@@ -263,8 +258,10 @@ sublists:
       num: '51'
       name: ДАНЕНБЕРГ Евгений Евгеньевич
       spravka: true
-  - pageintom: '40'
-    page_image: v10/17-171-418-040.jpg
+- pageintom: '40'
+  image: v10/17-171-418-040.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37357'
       num: '52'
@@ -374,8 +371,10 @@ sublists:
       num: '78'
       name: КОСТЮК Павел Ильич
       spravka: true
-  - pageintom: '41'
-    page_image: v10/17-171-418-041.jpg
+- pageintom: '41'
+  image: v10/17-171-418-041.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37384'
       num: '79'
@@ -479,8 +478,10 @@ sublists:
       num: '104'
       name: МИЛКОВ Ефим Николаевич
       spravka: true
-  - pageintom: '42'
-    page_image: v10/17-171-418-042.jpg
+- pageintom: '42'
+  image: v10/17-171-418-042.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37410'
       num: '105'
@@ -584,8 +585,10 @@ sublists:
       num: '131'
       name: РАБОТКИН Сергей Петрович
       spravka: true
-  - pageintom: '43'
-    page_image: v10/17-171-418-043.jpg
+- pageintom: '43'
+  image: v10/17-171-418-043.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37437'
       num: '132'
@@ -692,8 +695,10 @@ sublists:
       num: '158'
       name: ТРЕГУБОВ Геннадий Николаевич
       spravka: true
-  - pageintom: '44'
-    page_image: v10/17-171-418-044.jpg
+- pageintom: '44'
+  image: v10/17-171-418-044.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37464'
       num: '159'
@@ -788,8 +793,10 @@ sublists:
       num: '182'
       name: ЯНЧЕВЕЦКИЙ Дмитрий Григорьевич
       spravka: true
-  - pageintom: '45'
-    page_image: v10/17-171-418-045.jpg
+- pageintom: '45'
+  image: v10/17-171-418-045.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37488'
       num: '1'
@@ -882,8 +889,10 @@ sublists:
       num: '24'
       name: МЕЛЬНИКОВ Михаил Геннадьевич
       spravka: true
-  - pageintom: '46'
-    page_image: v10/17-171-418-046.jpg
+- pageintom: '46'
+  image: v10/17-171-418-046.jpg
+  sublists:
+  - sublid: '318'
     persons:
     - id: '37512'
       num: '25'
@@ -985,21 +994,10 @@ sublists:
       num: '51'
       name: ШПИКОВ Александр Александрович
       spravka: true
-- title: Список от 12 сентября 1938г. [Гор.Ярославль. Ярославская жел.дор.]
-  listtitle: Список лиц - Ярославская область,г.Ярославль-Ярославская ж.д.
-  sublisttitle: Гор.Ярославль. Ярославская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 71
-  geosub_ids:
-  - 109
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '47'
-    page_image: v10/17-171-418-047.jpg
+- pageintom: '47'
+  image: v10/17-171-418-047.jpg
+  sublists:
+  - sublid: '319'
     persons:
     - id: '37539'
       num: '1'
@@ -1055,8 +1053,10 @@ sublists:
       num: '13'
       name: ФИЛАТОВ Сергей Яковлевич
       spravka: true
-  - pageintom: '48'
-    page_image: v10/17-171-418-048.jpg
+- pageintom: '48'
+  image: v10/17-171-418-048.jpg
+  sublists:
+  - sublid: '319'
     persons:
     - id: '37552'
       num: '1'

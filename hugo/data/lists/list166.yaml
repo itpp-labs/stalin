@@ -11,29 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '74'
-  image: v09/17-171-417-074.jpg
-- pageintom: '75'
-  image: v09/17-171-417-075.jpg
-- pageintom: '76'
-  image: v09/17-171-417-076.jpg
-- pageintom: '77'
-  image: v09/17-171-417-077.jpg
-- pageintom: '78'
-  image: v09/17-171-417-078.jpg
-- pageintom: '79'
-  image: v09/17-171-417-079.jpg
-- pageintom: '80'
-  image: v09/17-171-417-080.jpg
-- pageintom: '81'
-  image: v09/17-171-417-081.jpg
-- pageintom: '82'
-  image: v09/17-171-417-082.jpg
-- pageintom: '83'
-  image: v09/17-171-417-083.jpg
-- pageintom: '84'
-  image: v09/17-171-417-084.jpg
 sublists:
 - title: Список от 10.VI.38г. [Ростовская область]
   listtitle: Список лиц - Ростовская область
@@ -47,9 +24,17 @@ sublists:
   - 81
   group_ids:
   - 0
-  pages:
-  - pageintom: '76'
-    page_image: v09/17-171-417-076.jpg
+pages:
+- pageintom: '74'
+  image: v09/17-171-417-074.jpg
+  sublists: []
+- pageintom: '75'
+  image: v09/17-171-417-075.jpg
+  sublists: []
+- pageintom: '76'
+  image: v09/17-171-417-076.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34179'
       num: '1'
@@ -118,8 +103,10 @@ sublists:
     - id: '34198'
       num: '20'
       name: ВАСИЛЕНКО Корней Емельянович
-  - pageintom: '77'
-    page_image: v09/17-171-417-077.jpg
+- pageintom: '77'
+  image: v09/17-171-417-077.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34199'
       num: '21'
@@ -215,8 +202,10 @@ sublists:
     - id: '34227'
       num: '49'
       name: ДОВГАЛЕВ Леонид Федосеевич
-  - pageintom: '78'
-    page_image: v09/17-171-417-078.jpg
+- pageintom: '78'
+  image: v09/17-171-417-078.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34228'
       num: '50'
@@ -315,8 +304,10 @@ sublists:
     - id: '34256'
       num: '78'
       name: КОНДРАТЕНКО Иван Михайлович
-  - pageintom: '79'
-    page_image: v09/17-171-417-079.jpg
+- pageintom: '79'
+  image: v09/17-171-417-079.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34257'
       num: '79'
@@ -411,8 +402,10 @@ sublists:
     - id: '34285'
       num: '107'
       name: МАЛЕВИЧ Владимир Александрович
-  - pageintom: '80'
-    page_image: v09/17-171-417-080.jpg
+- pageintom: '80'
+  image: v09/17-171-417-080.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34286'
       num: '108'
@@ -513,8 +506,10 @@ sublists:
       num: '137'
       name: ПЯТАКОВ Иван Иосифович
       spravka: true
-  - pageintom: '81'
-    page_image: v09/17-171-417-081.jpg
+- pageintom: '81'
+  image: v09/17-171-417-081.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34316'
       num: '138'
@@ -611,8 +606,10 @@ sublists:
     - id: '34344'
       num: '166'
       name: ХМЫЗ Михаил Исидорович
-  - pageintom: '82'
-    page_image: v09/17-171-417-082.jpg
+- pageintom: '82'
+  image: v09/17-171-417-082.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34345'
       num: '167'
@@ -691,8 +688,10 @@ sublists:
     - id: '34367'
       num: '189'
       name: ЯКОВЛЕВ Владимир Владимирович
-  - pageintom: '83'
-    page_image: v09/17-171-417-083.jpg
+- pageintom: '83'
+  image: v09/17-171-417-083.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34368'
       num: '1'
@@ -776,8 +775,10 @@ sublists:
     - id: '34391'
       num: '24'
       name: НЕПОМНЯЩИЙ Овсей Соломонович
-  - pageintom: '84'
-    page_image: v09/17-171-417-084.jpg
+- pageintom: '84'
+  image: v09/17-171-417-084.jpg
+  sublists:
+  - sublid: '107'
     persons:
     - id: '34392'
       num: '25'

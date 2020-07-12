@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '185'
-  image: v03/17-171-411-185.jpg
-- pageintom: '186'
-  image: v03/17-171-411-186.jpg
-- pageintom: '187'
-  image: v03/17-171-411-187.jpg
-- pageintom: '188'
-  image: v03/17-171-411-188.jpg
-- pageintom: '189'
-  image: v03/17-171-411-189.jpg
-- pageintom: '190'
-  image: v03/17-171-411-190.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Красноярский край]
   listtitle: 'Список лиц: Красноярский край'
@@ -38,9 +25,17 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '187'
-    page_image: v03/17-171-411-187.jpg
+pages:
+- pageintom: '185'
+  image: v03/17-171-411-185.jpg
+  sublists: []
+- pageintom: '186'
+  image: v03/17-171-411-186.jpg
+  sublists: []
+- pageintom: '187'
+  image: v03/17-171-411-187.jpg
+  sublists:
+  - sublid: '361'
     persons:
     - id: '9785'
       num: '1'
@@ -152,8 +147,10 @@ sublists:
       num: '27'
       name: МИХЕЕВ Никандр Павлович
       spravka: true
-  - pageintom: '188'
-    page_image: v03/17-171-411-188.jpg
+- pageintom: '188'
+  image: v03/17-171-411-188.jpg
+  sublists:
+  - sublid: '361'
     persons:
     - id: '9812'
       num: '28'
@@ -271,8 +268,10 @@ sublists:
       num: '56'
       name: ШАУБ Андрей Васильевич
       spravka: true
-  - pageintom: '189'
-    page_image: v03/17-171-411-189.jpg
+- pageintom: '189'
+  image: v03/17-171-411-189.jpg
+  sublists:
+  - sublid: '361'
     persons:
     - id: '9841'
       num: '57'
@@ -294,8 +293,10 @@ sublists:
       num: '61'
       name: ЯНОВСКИЙ Семен Ильич
       spravka: true
-  - pageintom: '190'
-    page_image: v03/17-171-411-190.jpg
+- pageintom: '190'
+  image: v03/17-171-411-190.jpg
+  sublists:
+  - sublid: '361'
     persons:
     - id: '9846'
       num: '1'

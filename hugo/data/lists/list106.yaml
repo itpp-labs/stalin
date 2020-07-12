@@ -12,49 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '242'
-  image: v04/17-171-412-242.jpg
-- pageintom: '243'
-  image: v04/17-171-412-243.jpg
-- pageintom: '244'
-  image: v04/17-171-412-244.jpg
-- pageintom: '245'
-  image: v04/17-171-412-245.jpg
-- pageintom: '246'
-  image: v04/17-171-412-246.jpg
-- pageintom: '247'
-  image: v04/17-171-412-247.jpg
-- pageintom: '248'
-  image: v04/17-171-412-248.jpg
-- pageintom: '249'
-  image: v04/17-171-412-249.jpg
-- pageintom: '250'
-  image: v04/17-171-412-250.jpg
-- pageintom: '251'
-  image: v04/17-171-412-251.jpg
-- pageintom: '252'
-  image: v04/17-171-412-252.jpg
-- pageintom: '253'
-  image: v04/17-171-412-253.jpg
-- pageintom: '254'
-  image: v04/17-171-412-254.jpg
-- pageintom: '255'
-  image: v04/17-171-412-255.jpg
-- pageintom: '256'
-  image: v04/17-171-412-256.jpg
-- pageintom: '257'
-  image: v04/17-171-412-257.jpg
-- pageintom: '258'
-  image: v04/17-171-412-258.jpg
-- pageintom: '259'
-  image: v04/17-171-412-259.jpg
-- pageintom: '260'
-  image: v04/17-171-412-260.jpg
-- pageintom: '261'
-  image: v04/17-171-412-261.jpg
-- pageintom: '262'
-  image: v04/17-171-412-262.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Челябинская область]
   listtitle: Список лиц - Челябинская обл.
@@ -69,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '244'
-    page_image: v04/17-171-412-244.jpg
+pages:
+- pageintom: '242'
+  image: v04/17-171-412-242.jpg
+  sublists: []
+- pageintom: '243'
+  image: v04/17-171-412-243.jpg
+  sublists: []
+- pageintom: '244'
+  image: v04/17-171-412-244.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13812'
       num: '1'
@@ -165,8 +130,10 @@ sublists:
       num: '23'
       name: ГАНИБЕСОВ Иван Александрович
       spravka: true
-  - pageintom: '245'
-    page_image: v04/17-171-412-245.jpg
+- pageintom: '245'
+  image: v04/17-171-412-245.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13835'
       num: '24'
@@ -276,8 +243,10 @@ sublists:
     - id: '13863'
       num: '52'
       name: ЛЕВИН Джэмс
-  - pageintom: '246'
-    page_image: v04/17-171-412-246.jpg
+- pageintom: '246'
+  image: v04/17-171-412-246.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13864'
       num: '53'
@@ -389,8 +358,10 @@ sublists:
       num: '81'
       name: ПОТАТУЕВ Павел Петрович
       spravka: true
-  - pageintom: '247'
-    page_image: v04/17-171-412-247.jpg
+- pageintom: '247'
+  image: v04/17-171-412-247.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13893'
       num: '82'
@@ -481,8 +452,10 @@ sublists:
     - id: '13919'
       num: '108'
       name: ШНЕЙДЕР Роберт Рихардович
-  - pageintom: '248'
-    page_image: v04/17-171-412-248.jpg
+- pageintom: '248'
+  image: v04/17-171-412-248.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13920'
       num: '1'
@@ -541,8 +514,49 @@ sublists:
       num: '13'
       name: ЯН Генрих Павлович
       gb_spravka: true
-  - pageintom: '262'
-    page_image: v04/17-171-412-262.jpg
+- pageintom: '249'
+  image: v04/17-171-412-249.jpg
+  sublists: []
+- pageintom: '250'
+  image: v04/17-171-412-250.jpg
+  sublists: []
+- pageintom: '251'
+  image: v04/17-171-412-251.jpg
+  sublists: []
+- pageintom: '252'
+  image: v04/17-171-412-252.jpg
+  sublists: []
+- pageintom: '253'
+  image: v04/17-171-412-253.jpg
+  sublists: []
+- pageintom: '254'
+  image: v04/17-171-412-254.jpg
+  sublists: []
+- pageintom: '255'
+  image: v04/17-171-412-255.jpg
+  sublists: []
+- pageintom: '256'
+  image: v04/17-171-412-256.jpg
+  sublists: []
+- pageintom: '257'
+  image: v04/17-171-412-257.jpg
+  sublists: []
+- pageintom: '258'
+  image: v04/17-171-412-258.jpg
+  sublists: []
+- pageintom: '259'
+  image: v04/17-171-412-259.jpg
+  sublists: []
+- pageintom: '260'
+  image: v04/17-171-412-260.jpg
+  sublists: []
+- pageintom: '261'
+  image: v04/17-171-412-261.jpg
+  sublists: []
+- pageintom: '262'
+  image: v04/17-171-412-262.jpg
+  sublists:
+  - sublid: '75'
     persons:
     - id: '13933'
       num: '1'

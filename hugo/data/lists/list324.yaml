@@ -11,39 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '268'
-  image: v08/17-171-416-268.jpg
-- pageintom: '269'
-  image: v08/17-171-416-269.jpg
-- pageintom: '270'
-  image: v08/17-171-416-270.jpg
-- pageintom: '271'
-  image: v08/17-171-416-271.jpg
-- pageintom: '272'
-  image: v08/17-171-416-272.jpg
-- pageintom: '273'
-  image: v08/17-171-416-273.jpg
-- pageintom: '274'
-  image: v08/17-171-416-274.jpg
-- pageintom: '275'
-  image: v08/17-171-416-275.jpg
-- pageintom: '276'
-  image: v08/17-171-416-276.jpg
-- pageintom: '277'
-  image: v08/17-171-416-277.jpg
-- pageintom: '278'
-  image: v08/17-171-416-278.jpg
-- pageintom: '279'
-  image: v08/17-171-416-279.jpg
-- pageintom: '280'
-  image: v08/17-171-416-280.jpg
-- pageintom: '281'
-  image: v08/17-171-416-281.jpg
-- pageintom: '282'
-  image: v08/17-171-416-282.jpg
-- pageintom: '283'
-  image: v08/17-171-416-283.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Саратовская область]
   listtitle: Список лиц - Саратовская область
@@ -58,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '270'
-    page_image: v08/17-171-416-270.jpg
+pages:
+- pageintom: '268'
+  image: v08/17-171-416-268.jpg
+  sublists: []
+- pageintom: '269'
+  image: v08/17-171-416-269.jpg
+  sublists: []
+- pageintom: '270'
+  image: v08/17-171-416-270.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32380'
       num: '1'
@@ -151,8 +126,10 @@ sublists:
       num: '22'
       name: ВЕЛИКАНОВ Константин Тимофеевич
       spravka: true
-  - pageintom: '271'
-    page_image: v08/17-171-416-271.jpg
+- pageintom: '271'
+  image: v08/17-171-416-271.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32402'
       num: '23'
@@ -259,8 +236,10 @@ sublists:
     - id: '32429'
       num: '50'
       name: ЕВСТАФЬЕВ Михаил Семенович
-  - pageintom: '272'
-    page_image: v08/17-171-416-272.jpg
+- pageintom: '272'
+  image: v08/17-171-416-272.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32430'
       num: '51'
@@ -368,8 +347,10 @@ sublists:
       num: '79'
       name: ЛЕВИН Абрам Григорьевич
       spravka: true
-  - pageintom: '273'
-    page_image: v08/17-171-416-273.jpg
+- pageintom: '273'
+  image: v08/17-171-416-273.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32459'
       num: '80'
@@ -477,8 +458,10 @@ sublists:
     - id: '32486'
       num: '107'
       name: ПИНЕС Владимир Герасимович
-  - pageintom: '274'
-    page_image: v08/17-171-416-274.jpg
+- pageintom: '274'
+  image: v08/17-171-416-274.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32487'
       num: '108'
@@ -583,8 +566,10 @@ sublists:
       num: '137'
       name: УСТИНОВ Василий Николаевич
       spravka: true
-  - pageintom: '275'
-    page_image: v08/17-171-416-275.jpg
+- pageintom: '275'
+  image: v08/17-171-416-275.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32517'
       num: '138'
@@ -676,8 +661,10 @@ sublists:
     - id: '32544'
       num: '165'
       name: ЮДЕНКОВ Яков Алексеевич
-  - pageintom: '276'
-    page_image: v08/17-171-416-276.jpg
+- pageintom: '276'
+  image: v08/17-171-416-276.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32545'
       num: '166'
@@ -689,8 +676,10 @@ sublists:
       num: '168'
       name: ЯКШТАС Лев Наполеонович
       spravka: true
-  - pageintom: '277'
-    page_image: v08/17-171-416-277.jpg
+- pageintom: '277'
+  image: v08/17-171-416-277.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32548'
       num: '1'
@@ -715,8 +704,22 @@ sublists:
       name: МАРГГРАФ Рихард Карлович
       doublesexists: true
       gb_spravka: true
-  - pageintom: '282'
-    page_image: v08/17-171-416-282.jpg
+- pageintom: '278'
+  image: v08/17-171-416-278.jpg
+  sublists: []
+- pageintom: '279'
+  image: v08/17-171-416-279.jpg
+  sublists: []
+- pageintom: '280'
+  image: v08/17-171-416-280.jpg
+  sublists: []
+- pageintom: '281'
+  image: v08/17-171-416-281.jpg
+  sublists: []
+- pageintom: '282'
+  image: v08/17-171-416-282.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32552'
       num: '1'
@@ -800,8 +803,10 @@ sublists:
     - id: '32573'
       num: '22'
       name: ЛИСЕНКО Михаил Павлович
-  - pageintom: '283'
-    page_image: v08/17-171-416-283.jpg
+- pageintom: '283'
+  image: v08/17-171-416-283.jpg
+  sublists:
+  - sublid: '570'
     persons:
     - id: '32574'
       num: '23'

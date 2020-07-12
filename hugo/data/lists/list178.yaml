@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '161'
-  image: v09/17-171-417-161.jpg
-- pageintom: '162'
-  image: v09/17-171-417-162.jpg
-- pageintom: '163'
-  image: v09/17-171-417-163.jpg
-- pageintom: '164'
-  image: v09/17-171-417-164.jpg
-- pageintom: '165'
-  image: v09/17-171-417-165.jpg
 sublists:
 - title: Список от 10.VI.38г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -35,9 +24,17 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '163'
-    page_image: v09/17-171-417-163.jpg
+pages:
+- pageintom: '161'
+  image: v09/17-171-417-161.jpg
+  sublists: []
+- pageintom: '162'
+  image: v09/17-171-417-162.jpg
+  sublists: []
+- pageintom: '163'
+  image: v09/17-171-417-163.jpg
+  sublists:
+  - sublid: '119'
     persons:
     - id: '35526'
       num: '1'
@@ -123,8 +120,10 @@ sublists:
       num: '20'
       name: МОРОЗОВ Иван Павлович
       spravka: true
-  - pageintom: '164'
-    page_image: v09/17-171-417-164.jpg
+- pageintom: '164'
+  image: v09/17-171-417-164.jpg
+  sublists:
+  - sublid: '119'
     persons:
     - id: '35546'
       num: '21'
@@ -179,8 +178,10 @@ sublists:
       num: '33'
       name: ШИРЯЕВ Александр Матвеевич
       spravka: true
-  - pageintom: '165'
-    page_image: v09/17-171-417-165.jpg
+- pageintom: '165'
+  image: v09/17-171-417-165.jpg
+  sublists:
+  - sublid: '119'
     persons:
     - id: '35559'
       num: '1'

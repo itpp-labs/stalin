@@ -13,29 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '224'
-  image: v10/17-171-418-224.jpg
-- pageintom: '225'
-  image: v10/17-171-418-225.jpg
-- pageintom: '226'
-  image: v10/17-171-418-226.jpg
-- pageintom: '227'
-  image: v10/17-171-418-227.jpg
-- pageintom: '228'
-  image: v10/17-171-418-228.jpg
-- pageintom: '229'
-  image: v10/17-171-418-229.jpg
-- pageintom: '230'
-  image: v10/17-171-418-230.jpg
-- pageintom: '231'
-  image: v10/17-171-418-231.jpg
-- pageintom: '232'
-  image: v10/17-171-418-232.jpg
-- pageintom: '233'
-  image: v10/17-171-418-233.jpg
-- pageintom: '234'
-  image: v10/17-171-418-234.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область, г.Новосибирск-Томская ж.д.
@@ -50,9 +27,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '226'
-    page_image: v10/17-171-418-226.jpg
+- title: Список от 12 сентября 1938г. [Гор.Новосибирск. Томская жел.дор.]
+  listtitle: Список лиц - Новосибирская область, г.Новосибирск-Томская ж.д.
+  sublisttitle: Гор.Новосибирск. Томская жел.дор.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 122
+  group_ids:
+  - 13
+pages:
+- pageintom: '224'
+  image: v10/17-171-418-224.jpg
+  sublists: []
+- pageintom: '225'
+  image: v10/17-171-418-225.jpg
+  sublists: []
+- pageintom: '226'
+  image: v10/17-171-418-226.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40345'
       num: '1'
@@ -122,8 +119,10 @@ sublists:
     - id: '40365'
       num: '21'
       name: КАРПОВ Алексей Иванович
-  - pageintom: '227'
-    page_image: v10/17-171-418-227.jpg
+- pageintom: '227'
+  image: v10/17-171-418-227.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40366'
       num: '22'
@@ -213,8 +212,10 @@ sublists:
     - id: '40391'
       num: '47'
       name: ПРОЩЕНКО Яков Трофимович
-  - pageintom: '228'
-    page_image: v10/17-171-418-228.jpg
+- pageintom: '228'
+  image: v10/17-171-418-228.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40392'
       num: '48'
@@ -287,8 +288,10 @@ sublists:
     - id: '40412'
       num: '68'
       name: ЯНИШИС Иосиф Антонович
-  - pageintom: '229'
-    page_image: v10/17-171-418-229.jpg
+- pageintom: '229'
+  image: v10/17-171-418-229.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40413'
       num: '1'
@@ -339,8 +342,10 @@ sublists:
     - id: '40427'
       num: '15'
       name: ШАЛАЕВ Василий Арсентьевич
-  - pageintom: '230'
-    page_image: v10/17-171-418-230.jpg
+- pageintom: '230'
+  image: v10/17-171-418-230.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40428'
       num: '1'
@@ -399,8 +404,10 @@ sublists:
     - id: '40445'
       num: '18'
       name: КИНДЕР Конрад Томасович
-  - pageintom: '231'
-    page_image: v10/17-171-418-231.jpg
+- pageintom: '231'
+  image: v10/17-171-418-231.jpg
+  sublists:
+  - sublid: '336'
     persons:
     - id: '40446'
       num: '19'
@@ -486,21 +493,13 @@ sublists:
     - id: '40471'
       num: '44'
       name: ЭКС Август Бернгардович
-- title: Список от 12 сентября 1938г. [Гор.Новосибирск. Томская жел.дор.]
-  listtitle: Список лиц - Новосибирская область, г.Новосибирск-Томская ж.д.
-  sublisttitle: Гор.Новосибирск. Томская жел.дор.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 50
-  geosub_ids:
-  - 122
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '233'
-    page_image: v10/17-171-418-233.jpg
+- pageintom: '232'
+  image: v10/17-171-418-232.jpg
+  sublists: []
+- pageintom: '233'
+  image: v10/17-171-418-233.jpg
+  sublists:
+  - sublid: '337'
     persons:
     - id: '40472'
       num: '1'
@@ -564,8 +563,10 @@ sublists:
     - id: '40489'
       num: '18'
       name: ШАМАТОВИЧ Витольд Иванович
-  - pageintom: '234'
-    page_image: v10/17-171-418-234.jpg
+- pageintom: '234'
+  image: v10/17-171-418-234.jpg
+  sublists:
+  - sublid: '337'
     persons:
     - id: '40490'
       num: '1'

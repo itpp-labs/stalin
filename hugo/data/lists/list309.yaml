@@ -13,21 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '176'
-  image: v08/17-171-416-176.jpg
-- pageintom: '177'
-  image: v08/17-171-416-177.jpg
-- pageintom: '178'
-  image: v08/17-171-416-178.jpg
-- pageintom: '179'
-  image: v08/17-171-416-179.jpg
-- pageintom: '180'
-  image: v08/17-171-416-180.jpg
-- pageintom: '181'
-  image: v08/17-171-416-181.jpg
-- pageintom: '182'
-  image: v08/17-171-416-182.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Мордовская АССР]
   listtitle: Список лиц - Мордовская АССР
@@ -41,9 +26,17 @@ sublists:
   - 127
   group_ids:
   - 0
-  pages:
-  - pageintom: '178'
-    page_image: v08/17-171-416-178.jpg
+pages:
+- pageintom: '176'
+  image: v08/17-171-416-176.jpg
+  sublists: []
+- pageintom: '177'
+  image: v08/17-171-416-177.jpg
+  sublists: []
+- pageintom: '178'
+  image: v08/17-171-416-178.jpg
+  sublists:
+  - sublid: '557'
     persons:
     - id: '31300'
       num: '1'
@@ -135,8 +128,10 @@ sublists:
       num: '22'
       name: ЕВЛЮКОВ Павел Тихонович
       spravka: true
-  - pageintom: '179'
-    page_image: v08/17-171-416-179.jpg
+- pageintom: '179'
+  image: v08/17-171-416-179.jpg
+  sublists:
+  - sublid: '557'
     persons:
     - id: '31322'
       num: '23'
@@ -252,8 +247,10 @@ sublists:
       num: '51'
       name: МИРОНОВ Тихон Петрович
       spravka: true
-  - pageintom: '180'
-    page_image: v08/17-171-416-180.jpg
+- pageintom: '180'
+  image: v08/17-171-416-180.jpg
+  sublists:
+  - sublid: '557'
     persons:
     - id: '31351'
       num: '52'
@@ -371,8 +368,10 @@ sublists:
       num: '80'
       name: ЧАСОВНИКОВ Александр Васильевич
       spravka: true
-  - pageintom: '181'
-    page_image: v08/17-171-416-181.jpg
+- pageintom: '181'
+  image: v08/17-171-416-181.jpg
+  sublists:
+  - sublid: '557'
     persons:
     - id: '31380'
       num: '81'
@@ -390,8 +389,10 @@ sublists:
       num: '84'
       name: ШИПОВСКИЙ Сергей Назарович
       spravka: true
-  - pageintom: '182'
-    page_image: v08/17-171-416-182.jpg
+- pageintom: '182'
+  image: v08/17-171-416-182.jpg
+  sublists:
+  - sublid: '557'
     persons:
     - id: '31384'
       num: '1'

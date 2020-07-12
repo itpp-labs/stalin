@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '67'
-  image: v05/17-171-413-067.jpg
-- pageintom: '68'
-  image: v05/17-171-413-068.jpg
-- pageintom: '69'
-  image: v05/17-171-413-069.jpg
-- pageintom: '70'
-  image: v05/17-171-413-070.jpg
-- pageintom: '71'
-  image: v05/17-171-413-071.jpg
-- pageintom: '72'
-  image: v05/17-171-413-072.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР, Челябинская область
@@ -38,9 +25,29 @@ sublists:
   - 60
   group_ids:
   - 0
-  pages:
-  - pageintom: '69'
-    page_image: v05/17-171-413-069.jpg
+- title: Список от 22 ноября 1937г. [Челябинская область]
+  listtitle: Список лиц - Башкирская АССР, Челябинская область
+  sublisttitle: Челябинская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 45
+  group_ids:
+  - 0
+pages:
+- pageintom: '67'
+  image: v05/17-171-413-067.jpg
+  sublists: []
+- pageintom: '68'
+  image: v05/17-171-413-068.jpg
+  sublists: []
+- pageintom: '69'
+  image: v05/17-171-413-069.jpg
+  sublists:
+  - sublid: '264'
     persons:
     - id: '14924'
       num: '1'
@@ -116,8 +123,10 @@ sublists:
     - id: '14942'
       num: '19'
       name: ЮФЕРОВ Александр Степанович
-  - pageintom: '70'
-    page_image: v05/17-171-413-070.jpg
+- pageintom: '70'
+  image: v05/17-171-413-070.jpg
+  sublists:
+  - sublid: '264'
     persons:
     - id: '14943'
       num: '1'
@@ -153,21 +162,10 @@ sublists:
       num: '8'
       name: УСПЕНСКИЙ Николай Алексеевич
       spravka: true
-- title: Список от 22 ноября 1937г. [Челябинская область]
-  listtitle: Список лиц - Башкирская АССР, Челябинская область
-  sublisttitle: Челябинская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 45
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '71'
-    page_image: v05/17-171-413-071.jpg
+- pageintom: '71'
+  image: v05/17-171-413-071.jpg
+  sublists:
+  - sublid: '265'
     persons:
     - id: '14951'
       num: '1'
@@ -236,8 +234,10 @@ sublists:
     - id: '14968'
       num: '18'
       name: ЯПРИНЦЕВ Сергей Сергеевич
-  - pageintom: '72'
-    page_image: v05/17-171-413-072.jpg
+- pageintom: '72'
+  image: v05/17-171-413-072.jpg
+  sublists:
+  - sublid: '265'
     persons:
     - id: '14969'
       num: '1'

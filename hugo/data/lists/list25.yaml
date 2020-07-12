@@ -13,11 +13,6 @@ signs:
   molotov: true
   jdanov: true
   ejov: true
-pages:
-- pageintom: '197'
-  image: v01/17-171-409-197.jpg
-- pageintom: '198'
-  image: v01/17-171-409-198.jpg
 sublists:
 - title: Список от 16 июня 1937 г. [Список лиц (представлен НКВД СССР - Бельский)]
   listtitle: Список лиц [представлен НКВД СССР - Бельский]
@@ -31,9 +26,11 @@ sublists:
   - 27
   group_ids:
   - 1
-  pages:
-  - pageintom: '197'
-    page_image: v01/17-171-409-197.jpg
+pages:
+- pageintom: '197'
+  image: v01/17-171-409-197.jpg
+  sublists:
+  - sublid: '22'
     persons:
     - id: '2965'
       num: '1'
@@ -134,8 +131,10 @@ sublists:
       num: '24'
       name: ПУЗИЦКИЙ Сергей Васильевич
       spravka: true
-  - pageintom: '198'
-    page_image: v01/17-171-409-198.jpg
+- pageintom: '198'
+  image: v01/17-171-409-198.jpg
+  sublists:
+  - sublid: '22'
     persons:
     - id: '2989'
       num: '25'

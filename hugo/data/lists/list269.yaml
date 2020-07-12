@@ -14,21 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '144'
-  image: v07/17-171-415-144.jpg
-- pageintom: '145'
-  image: v07/17-171-415-145.jpg
-- pageintom: '146'
-  image: v07/17-171-415-146.jpg
-- pageintom: '147'
-  image: v07/17-171-415-147.jpg
-- pageintom: '148'
-  image: v07/17-171-415-148.jpg
-- pageintom: '149'
-  image: v07/17-171-415-149.jpg
-- pageintom: '150'
-  image: v07/17-171-415-150.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
@@ -42,9 +27,29 @@ sublists:
   - 22
   group_ids:
   - 0
-  pages:
-  - pageintom: '146'
-    page_image: v07/17-171-415-146.jpg
+- title: Список от 5 марта 1938г. [Северо-Осетинская АССР]
+  listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
+  sublisttitle: Северо-Осетинская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 60
+  geosub_ids:
+  - 133
+  group_ids:
+  - 0
+pages:
+- pageintom: '144'
+  image: v07/17-171-415-144.jpg
+  sublists: []
+- pageintom: '145'
+  image: v07/17-171-415-145.jpg
+  sublists: []
+- pageintom: '146'
+  image: v07/17-171-415-146.jpg
+  sublists:
+  - sublid: '532'
     persons:
     - id: '40203'
       num: '1'
@@ -142,8 +147,10 @@ sublists:
       num: '24'
       name: ДЯТЛОВ Василий Федорович
       spravka: true
-  - pageintom: '147'
-    page_image: v07/17-171-415-147.jpg
+- pageintom: '147'
+  image: v07/17-171-415-147.jpg
+  sublists:
+  - sublid: '532'
     persons:
     - id: '27466'
       num: '25'
@@ -251,8 +258,10 @@ sublists:
     - id: '27494'
       num: '53'
       name: СОЛДАТОВ Василий Иванович
-  - pageintom: '148'
-    page_image: v07/17-171-415-148.jpg
+- pageintom: '148'
+  image: v07/17-171-415-148.jpg
+  sublists:
+  - sublid: '532'
     persons:
     - id: '27495'
       num: '54'
@@ -295,8 +304,10 @@ sublists:
       num: '64'
       name: ЯКОВЛЕВ Михаил Яковлевич
       spravka: true
-  - pageintom: '149'
-    page_image: v07/17-171-415-149.jpg
+- pageintom: '149'
+  image: v07/17-171-415-149.jpg
+  sublists:
+  - sublid: '532'
     persons:
     - id: '27506'
       num: '1'
@@ -348,21 +359,10 @@ sublists:
     - id: '27518'
       num: '13'
       name: ЦЫМБАЛЮК Иван Сергеевич
-- title: Список от 5 марта 1938г. [Северо-Осетинская АССР]
-  listtitle: Список лиц - Орджоникидзевский край,Северо-Осетинская АССР
-  sublisttitle: Северо-Осетинская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 60
-  geosub_ids:
-  - 133
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '150'
-    page_image: v07/17-171-415-150.jpg
+- pageintom: '150'
+  image: v07/17-171-415-150.jpg
+  sublists:
+  - sublid: '533'
     persons:
     - id: '27519'
       num: '1'

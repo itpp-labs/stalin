@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '77'
-  image: v06/17-171-414-077.jpg
-- pageintom: '78'
-  image: v06/17-171-414-078.jpg
-- pageintom: '79'
-  image: v06/17-171-414-079.jpg
-- pageintom: '80'
-  image: v06/17-171-414-080.jpg
-- pageintom: '81'
-  image: v06/17-171-414-081.jpg
-- pageintom: '82'
-  image: v06/17-171-414-082.jpg
 sublists:
 - title: Список от 3 января 1938г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область;Сталинград. Сталинградская ж.д.
@@ -40,9 +27,29 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '79'
-    page_image: v06/17-171-414-079.jpg
+- title: Список от 3 января 1938г. [Сталинград-Сталингр. ж.д.]
+  listtitle: Список лиц - Сталинградская область;Сталинград. Сталинградская ж.д.
+  sublisttitle: Сталинград-Сталингр. ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 117
+  group_ids:
+  - 13
+pages:
+- pageintom: '77'
+  image: v06/17-171-414-077.jpg
+  sublists: []
+- pageintom: '78'
+  image: v06/17-171-414-078.jpg
+  sublists: []
+- pageintom: '79'
+  image: v06/17-171-414-079.jpg
+  sublists:
+  - sublid: '447'
     persons:
     - id: '20367'
       num: '1'
@@ -70,8 +77,10 @@ sublists:
     - id: '20374'
       num: '8'
       name: ТРУФАНОВ Илья Степанович
-  - pageintom: '80'
-    page_image: v06/17-171-414-080.jpg
+- pageintom: '80'
+  image: v06/17-171-414-080.jpg
+  sublists:
+  - sublid: '447'
     persons:
     - id: '20375'
       num: '1'
@@ -103,21 +112,10 @@ sublists:
     - id: '20383'
       num: '9'
       name: СМИРНОВ Александр Григорьевич
-- title: Список от 3 января 1938г. [Сталинград-Сталингр. ж.д.]
-  listtitle: Список лиц - Сталинградская область;Сталинград. Сталинградская ж.д.
-  sublisttitle: Сталинград-Сталингр. ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 62
-  geosub_ids:
-  - 117
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '81'
-    page_image: v06/17-171-414-081.jpg
+- pageintom: '81'
+  image: v06/17-171-414-081.jpg
+  sublists:
+  - sublid: '448'
     persons:
     - id: '20384'
       num: '1'
@@ -189,8 +187,10 @@ sublists:
     - id: '20404'
       num: '21'
       name: ПОПОВ Максим Николаевич
-  - pageintom: '82'
-    page_image: v06/17-171-414-082.jpg
+- pageintom: '82'
+  image: v06/17-171-414-082.jpg
+  sublists:
+  - sublid: '448'
     persons:
     - id: '20405'
       num: '22'

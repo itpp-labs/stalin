@@ -13,23 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '215'
-  image: v05/17-171-413-215.jpg
-- pageintom: '216'
-  image: v05/17-171-413-216.jpg
-- pageintom: '217'
-  image: v05/17-171-413-217.jpg
-- pageintom: '218'
-  image: v05/17-171-413-218.jpg
-- pageintom: '219'
-  image: v05/17-171-413-219.jpg
-- pageintom: '220'
-  image: v05/17-171-413-220.jpg
-- pageintom: '221'
-  image: v05/17-171-413-221.jpg
-- pageintom: '222'
-  image: v05/17-171-413-222.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Челябинская область]
   listtitle: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д.
@@ -43,9 +26,29 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '217'
-    page_image: v05/17-171-413-217.jpg
+- title: Список от 7 декабря 1937г. [Челябинск- Южно-Уральская ж.д.]
+  listtitle: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д.
+  sublisttitle: Челябинск- Южно-Уральская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 13
+pages:
+- pageintom: '215'
+  image: v05/17-171-413-215.jpg
+  sublists: []
+- pageintom: '216'
+  image: v05/17-171-413-216.jpg
+  sublists: []
+- pageintom: '217'
+  image: v05/17-171-413-217.jpg
+  sublists:
+  - sublid: '283'
     persons:
     - id: '17111'
       num: '1'
@@ -138,8 +141,10 @@ sublists:
       num: '23'
       name: ЛЕБЕДЕВ Александр Александрович
       spravka: true
-  - pageintom: '218'
-    page_image: v05/17-171-413-218.jpg
+- pageintom: '218'
+  image: v05/17-171-413-218.jpg
+  sublists:
+  - sublid: '283'
     persons:
     - id: '17134'
       num: '24'
@@ -239,8 +244,10 @@ sublists:
     - id: '17160'
       num: '50'
       name: ЩУКИН Петр Степанович
-  - pageintom: '219'
-    page_image: v05/17-171-413-219.jpg
+- pageintom: '219'
+  image: v05/17-171-413-219.jpg
+  sublists:
+  - sublid: '283'
     persons:
     - id: '17161'
       num: '51'
@@ -248,8 +255,10 @@ sublists:
     - id: '17162'
       num: '52'
       name: ЭНДТЕР Бруно Фридрихович
-  - pageintom: '220'
-    page_image: v05/17-171-413-220.jpg
+- pageintom: '220'
+  image: v05/17-171-413-220.jpg
+  sublists:
+  - sublid: '283'
     persons:
     - id: '17163'
       num: '1'
@@ -257,21 +266,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 7 декабря 1937г. [Челябинск- Южно-Уральская ж.д.]
-  listtitle: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д.
-  sublisttitle: Челябинск- Южно-Уральская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 77
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '221'
-    page_image: v05/17-171-413-221.jpg
+- pageintom: '221'
+  image: v05/17-171-413-221.jpg
+  sublists:
+  - sublid: '284'
     persons:
     - id: '17164'
       num: '1'
@@ -346,8 +344,10 @@ sublists:
     - id: '17182'
       num: '19'
       name: ЮРКЕВИЧ Владимир Семенович
-  - pageintom: '222'
-    page_image: v05/17-171-413-222.jpg
+- pageintom: '222'
+  image: v05/17-171-413-222.jpg
+  sublists:
+  - sublid: '284'
     persons:
     - id: '17183'
       num: '1'

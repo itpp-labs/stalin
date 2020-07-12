@@ -13,15 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '150'
-  image: v08/17-171-416-150.jpg
-- pageintom: '151'
-  image: v08/17-171-416-151.jpg
-- pageintom: '152'
-  image: v08/17-171-416-152.jpg
-- pageintom: '153'
-  image: v08/17-171-416-153.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Орловская область]
   listtitle: Список лиц - Орловская область
@@ -35,9 +26,17 @@ sublists:
   - 144
   group_ids:
   - 0
-  pages:
-  - pageintom: '152'
-    page_image: v08/17-171-416-152.jpg
+pages:
+- pageintom: '150'
+  image: v08/17-171-416-150.jpg
+  sublists: []
+- pageintom: '151'
+  image: v08/17-171-416-151.jpg
+  sublists: []
+- pageintom: '152'
+  image: v08/17-171-416-152.jpg
+  sublists:
+  - sublid: '554'
     persons:
     - id: '30961'
       num: '1'
@@ -112,8 +111,10 @@ sublists:
       num: '18'
       name: ФИЛОНОВ Василий Ефимович
       spravka: true
-  - pageintom: '153'
-    page_image: v08/17-171-416-153.jpg
+- pageintom: '153'
+  image: v08/17-171-416-153.jpg
+  sublists:
+  - sublid: '554'
     persons:
     - id: '30979'
       num: '1'

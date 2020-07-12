@@ -11,25 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '38'
-  image: v09/17-171-417-038.jpg
-- pageintom: '39'
-  image: v09/17-171-417-039.jpg
-- pageintom: '40'
-  image: v09/17-171-417-040.jpg
-- pageintom: '41'
-  image: v09/17-171-417-041.jpg
-- pageintom: '42'
-  image: v09/17-171-417-042.jpg
-- pageintom: '43'
-  image: v09/17-171-417-043.jpg
-- pageintom: '44'
-  image: v09/17-171-417-044.jpg
-- pageintom: '45'
-  image: v09/17-171-417-045.jpg
-- pageintom: '46'
-  image: v09/17-171-417-046.jpg
 sublists:
 - title: Список от 10.VI.38г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область
@@ -43,9 +24,17 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '40'
-    page_image: v09/17-171-417-040.jpg
+pages:
+- pageintom: '38'
+  image: v09/17-171-417-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v09/17-171-417-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v09/17-171-417-040.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33737'
       num: '1'
@@ -121,8 +110,10 @@ sublists:
       num: '21'
       name: БРЕУС Илья Емельянович
       spravka: true
-  - pageintom: '41'
-    page_image: v09/17-171-417-041.jpg
+- pageintom: '41'
+  image: v09/17-171-417-041.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33758'
       num: '22'
@@ -227,8 +218,10 @@ sublists:
       num: '50'
       name: КАЗАКОВ Николай Семенович
       spravka: true
-  - pageintom: '42'
-    page_image: v09/17-171-417-042.jpg
+- pageintom: '42'
+  image: v09/17-171-417-042.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33787'
       num: '51'
@@ -330,8 +323,10 @@ sublists:
     - id: '33815'
       num: '79'
       name: МАРКЕЛОВ Лев Васильевич
-  - pageintom: '43'
-    page_image: v09/17-171-417-043.jpg
+- pageintom: '43'
+  image: v09/17-171-417-043.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33816'
       num: '80'
@@ -435,8 +430,10 @@ sublists:
       num: '108'
       name: ПРЕСБУРГЕР Исаак Соломонович
       spravka: true
-  - pageintom: '44'
-    page_image: v09/17-171-417-044.jpg
+- pageintom: '44'
+  image: v09/17-171-417-044.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33845'
       num: '109'
@@ -542,8 +539,10 @@ sublists:
       num: '137'
       name: ТОЛОКНОВ Василий Михайлович
       spravka: true
-  - pageintom: '45'
-    page_image: v09/17-171-417-045.jpg
+- pageintom: '45'
+  image: v09/17-171-417-045.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33874'
       num: '138'
@@ -635,8 +634,10 @@ sublists:
     - id: '33899'
       num: '163'
       name: ЯРОСЛАВСКИЙ Александр Павлович
-  - pageintom: '46'
-    page_image: v09/17-171-417-046.jpg
+- pageintom: '46'
+  image: v09/17-171-417-046.jpg
+  sublists:
+  - sublid: '102'
     persons:
     - id: '33900'
       num: '1'

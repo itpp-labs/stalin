@@ -15,33 +15,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '37'
-  image: v04/17-171-412-037.jpg
-- pageintom: '38'
-  image: v04/17-171-412-038.jpg
-- pageintom: '39'
-  image: v04/17-171-412-039.jpg
-- pageintom: '40'
-  image: v04/17-171-412-040.jpg
-- pageintom: '41'
-  image: v04/17-171-412-041.jpg
-- pageintom: '42'
-  image: v04/17-171-412-042.jpg
-- pageintom: '43'
-  image: v04/17-171-412-043.jpg
-- pageintom: '44'
-  image: v04/17-171-412-044.jpg
-- pageintom: '45'
-  image: v04/17-171-412-045.jpg
-- pageintom: '46'
-  image: v04/17-171-412-046.jpg
-- pageintom: '47'
-  image: v04/17-171-412-047.jpg
-- pageintom: '48'
-  image: v04/17-171-412-048.jpg
-- pageintom: '49'
-  image: v04/17-171-412-049.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Украинская ССР]
   listtitle: 'Список лиц- Украинская ССР: УГБ НКВД, Черниговская, Донецкая, Харьковская,
@@ -65,9 +38,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '39'
-    page_image: v04/17-171-412-039.jpg
+pages:
+- pageintom: '37'
+  image: v04/17-171-412-037.jpg
+  sublists: []
+- pageintom: '38'
+  image: v04/17-171-412-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v04/17-171-412-039.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '10997'
       num: '1'
@@ -152,8 +133,10 @@ sublists:
       name: ИОСИМ Наум Ильич
       doublesexists: true
       spravka: true
-  - pageintom: '40'
-    page_image: v04/17-171-412-040.jpg
+- pageintom: '40'
+  image: v04/17-171-412-040.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11017'
       num: '21'
@@ -253,8 +236,10 @@ sublists:
     - id: '11041'
       num: '45'
       name: КОГАН Давид-Бер Ушеров (Борис Осипович)
-  - pageintom: '41'
-    page_image: v04/17-171-412-041.jpg
+- pageintom: '41'
+  image: v04/17-171-412-041.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11042'
       num: '46'
@@ -355,8 +340,10 @@ sublists:
     - id: '11068'
       num: '72'
       name: ДОЛГАНОВ Дмитрий Трофимович
-  - pageintom: '42'
-    page_image: v04/17-171-412-042.jpg
+- pageintom: '42'
+  image: v04/17-171-412-042.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11069'
       num: '73'
@@ -468,8 +455,10 @@ sublists:
     - id: '11098'
       num: '102'
       name: МОТЬКИН Яков Фролович
-  - pageintom: '43'
-    page_image: v04/17-171-412-043.jpg
+- pageintom: '43'
+  image: v04/17-171-412-043.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11099'
       num: '103'
@@ -587,8 +576,10 @@ sublists:
       num: '134'
       name: ШВЕРГУНОВ Иван Васильевич
       spravka: true
-  - pageintom: '44'
-    page_image: v04/17-171-412-044.jpg
+- pageintom: '44'
+  image: v04/17-171-412-044.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11131'
       num: '135'
@@ -605,8 +596,10 @@ sublists:
       name: ЮРЧЕНКО Андрей Лаврентьевич
       doublesexists: true
       spravka: true
-  - pageintom: '45'
-    page_image: v04/17-171-412-045.jpg
+- pageintom: '45'
+  image: v04/17-171-412-045.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11135'
       num: '1'
@@ -624,8 +617,19 @@ sublists:
       name: РЕЙТЕРЕР Карл Иванович
       gb_spravka: true
       spravka: true
-  - pageintom: '49'
-    page_image: v04/17-171-412-049.jpg
+- pageintom: '46'
+  image: v04/17-171-412-046.jpg
+  sublists: []
+- pageintom: '47'
+  image: v04/17-171-412-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v04/17-171-412-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v04/17-171-412-049.jpg
+  sublists:
+  - sublid: '58'
     persons:
     - id: '11138'
       num: '1'

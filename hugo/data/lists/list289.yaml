@@ -13,13 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '1'
-  image: v08/17-171-416-001.jpg
-- pageintom: '2'
-  image: v08/17-171-416-002.jpg
-- pageintom: '3'
-  image: v08/17-171-416-003.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -33,9 +26,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '3'
-    page_image: v08/17-171-416-003.jpg
+pages:
+- pageintom: '1'
+  image: v08/17-171-416-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v08/17-171-416-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v08/17-171-416-003.jpg
+  sublists:
+  - sublid: '545'
     persons:
     - id: '36070'
       num: '1'

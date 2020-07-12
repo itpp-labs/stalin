@@ -13,39 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '104'
-  image: v06/17-171-414-104.jpg
-- pageintom: '105'
-  image: v06/17-171-414-105.jpg
-- pageintom: '106'
-  image: v06/17-171-414-106.jpg
-- pageintom: '107'
-  image: v06/17-171-414-107.jpg
-- pageintom: '108'
-  image: v06/17-171-414-108.jpg
-- pageintom: '109'
-  image: v06/17-171-414-109.jpg
-- pageintom: '110'
-  image: v06/17-171-414-110.jpg
-- pageintom: '111'
-  image: v06/17-171-414-111.jpg
-- pageintom: '112'
-  image: v06/17-171-414-112.jpg
-- pageintom: '113'
-  image: v06/17-171-414-113.jpg
-- pageintom: '114'
-  image: v06/17-171-414-114.jpg
-- pageintom: '115'
-  image: v06/17-171-414-115.jpg
-- pageintom: '116'
-  image: v06/17-171-414-116.jpg
-- pageintom: '117'
-  image: v06/17-171-414-117.jpg
-- pageintom: '118'
-  image: v06/17-171-414-118.jpg
-- pageintom: '119'
-  image: v06/17-171-414-119.jpg
 sublists:
 - title: Список от 3 января 1938г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -69,9 +36,17 @@ sublists:
   - 121
   group_ids:
   - 0
-  pages:
-  - pageintom: '106'
-    page_image: v06/17-171-414-106.jpg
+pages:
+- pageintom: '104'
+  image: v06/17-171-414-104.jpg
+  sublists: []
+- pageintom: '105'
+  image: v06/17-171-414-105.jpg
+  sublists: []
+- pageintom: '106'
+  image: v06/17-171-414-106.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20629'
       num: '1'
@@ -152,8 +127,10 @@ sublists:
       num: '19'
       name: АКЧАБАЕВ Намазбай
       spravka: true
-  - pageintom: '107'
-    page_image: v06/17-171-414-107.jpg
+- pageintom: '107'
+  image: v06/17-171-414-107.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20648'
       num: '20'
@@ -264,8 +241,10 @@ sublists:
       num: '46'
       name: ЕРУБАЕВ Карибай
       spravka: true
-  - pageintom: '108'
-    page_image: v06/17-171-414-108.jpg
+- pageintom: '108'
+  image: v06/17-171-414-108.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20675'
       num: '47'
@@ -375,8 +354,10 @@ sublists:
       num: '73'
       name: МУСИН Гариф Галиевич
       spravka: true
-  - pageintom: '109'
-    page_image: v06/17-171-414-109.jpg
+- pageintom: '109'
+  image: v06/17-171-414-109.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20702'
       num: '74'
@@ -474,8 +455,10 @@ sublists:
       num: '97'
       name: ШЛЯПНИКОВ Борис Сергеевич
       spravka: true
-  - pageintom: '110'
-    page_image: v06/17-171-414-110.jpg
+- pageintom: '110'
+  image: v06/17-171-414-110.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20726'
       num: '98'
@@ -570,8 +553,10 @@ sublists:
       num: '120'
       name: ПАК-КОР Трофим Григорьевич
       spravka: true
-  - pageintom: '111'
-    page_image: v06/17-171-414-111.jpg
+- pageintom: '111'
+  image: v06/17-171-414-111.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20749'
       num: '121'
@@ -666,8 +651,10 @@ sublists:
       num: '143'
       name: ВАЛИЕВ Бримжан
       spravka: true
-  - pageintom: '112'
-    page_image: v06/17-171-414-112.jpg
+- pageintom: '112'
+  image: v06/17-171-414-112.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20772'
       num: '144'
@@ -777,8 +764,10 @@ sublists:
       num: '170'
       name: КУРМАШЕВ Тагиберген
       spravka: true
-  - pageintom: '113'
-    page_image: v06/17-171-414-113.jpg
+- pageintom: '113'
+  image: v06/17-171-414-113.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20799'
       num: '171'
@@ -885,8 +874,10 @@ sublists:
       num: '196'
       name: АСАНОВ Дюсембай
       spravka: true
-  - pageintom: '114'
-    page_image: v06/17-171-414-114.jpg
+- pageintom: '114'
+  image: v06/17-171-414-114.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20825'
       num: '197'
@@ -1002,8 +993,10 @@ sublists:
       num: '225'
       name: ТАУКИН Нугман Уразович
       spravka: true
-  - pageintom: '115'
-    page_image: v06/17-171-414-115.jpg
+- pageintom: '115'
+  image: v06/17-171-414-115.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20854'
       num: '226'
@@ -1086,8 +1079,10 @@ sublists:
       num: '245'
       name: РАХИМОВ Аманжол
       spravka: true
-  - pageintom: '116'
-    page_image: v06/17-171-414-116.jpg
+- pageintom: '116'
+  image: v06/17-171-414-116.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20874'
       num: '246'
@@ -1101,8 +1096,10 @@ sublists:
       num: '248'
       name: УСТЕКОВ Кульбатча Турумбетович
       spravka: true
-  - pageintom: '117'
-    page_image: v06/17-171-414-117.jpg
+- pageintom: '117'
+  image: v06/17-171-414-117.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20877'
       num: '1'
@@ -1178,8 +1175,10 @@ sublists:
       num: '18'
       name: ШУКУРОВ Алмас
       spravka: true
-  - pageintom: '118'
-    page_image: v06/17-171-414-118.jpg
+- pageintom: '118'
+  image: v06/17-171-414-118.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20895'
       num: '19'
@@ -1240,8 +1239,10 @@ sublists:
       num: '32'
       name: ТЕЛЬБАЕВ Исламгалий
       spravka: true
-  - pageintom: '119'
-    page_image: v06/17-171-414-119.jpg
+- pageintom: '119'
+  image: v06/17-171-414-119.jpg
+  sublists:
+  - sublid: '406'
     persons:
     - id: '20909'
       num: '33'

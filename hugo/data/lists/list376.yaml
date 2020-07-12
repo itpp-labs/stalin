@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '333'
-  image: v06/17-171-414-333.jpg
-- pageintom: '334'
-  image: v06/17-171-414-334.jpg
-- pageintom: '335'
-  image: v06/17-171-414-335.jpg
-- pageintom: '336'
-  image: v06/17-171-414-336.jpg
-- pageintom: '337'
-  image: v06/17-171-414-337.jpg
-- pageintom: '338'
-  image: v06/17-171-414-338.jpg
-- pageintom: '339'
-  image: v06/17-171-414-339.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область
@@ -41,9 +26,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '335'
-    page_image: v06/17-171-414-335.jpg
+pages:
+- pageintom: '333'
+  image: v06/17-171-414-333.jpg
+  sublists: []
+- pageintom: '334'
+  image: v06/17-171-414-334.jpg
+  sublists: []
+- pageintom: '335'
+  image: v06/17-171-414-335.jpg
+  sublists:
+  - sublid: '424'
     persons:
     - id: '23428'
       num: '1'
@@ -123,8 +116,10 @@ sublists:
       num: '19'
       name: ДАХНО-ДАХНОВ Николай Александрович
       spravka: true
-  - pageintom: '336'
-    page_image: v06/17-171-414-336.jpg
+- pageintom: '336'
+  image: v06/17-171-414-336.jpg
+  sublists:
+  - sublid: '424'
     persons:
     - id: '23447'
       num: '20'
@@ -234,8 +229,10 @@ sublists:
       num: '46'
       name: ПЕРЕЛЬМАН Александр Львович
       spravka: true
-  - pageintom: '337'
-    page_image: v06/17-171-414-337.jpg
+- pageintom: '337'
+  image: v06/17-171-414-337.jpg
+  sublists:
+  - sublid: '424'
     persons:
     - id: '23474'
       num: '47'
@@ -341,8 +338,10 @@ sublists:
       num: '72'
       name: ФОМЕНКО Михаил Михайлович
       spravka: true
-  - pageintom: '338'
-    page_image: v06/17-171-414-338.jpg
+- pageintom: '338'
+  image: v06/17-171-414-338.jpg
+  sublists:
+  - sublid: '424'
     persons:
     - id: '23500'
       num: '73'
@@ -381,8 +380,10 @@ sublists:
       num: '81'
       name: ЯРЫШКИН Роман Михайлович
       spravka: true
-  - pageintom: '339'
-    page_image: v06/17-171-414-339.jpg
+- pageintom: '339'
+  image: v06/17-171-414-339.jpg
+  sublists:
+  - sublid: '424'
     persons:
     - id: '23509'
       num: '1'

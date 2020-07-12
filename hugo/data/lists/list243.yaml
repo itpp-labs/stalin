@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '191'
-  image: v03/17-171-411-191.jpg
-- pageintom: '192'
-  image: v03/17-171-411-192.jpg
-- pageintom: '193'
-  image: v03/17-171-411-193.jpg
-- pageintom: '194'
-  image: v03/17-171-411-194.jpg
-- pageintom: '195'
-  image: v03/17-171-411-195.jpg
-- pageintom: '196'
-  image: v03/17-171-411-196.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -42,9 +29,17 @@ sublists:
   group_ids:
   - 0
   - 13
-  pages:
-  - pageintom: '193'
-    page_image: v03/17-171-411-193.jpg
+pages:
+- pageintom: '191'
+  image: v03/17-171-411-191.jpg
+  sublists: []
+- pageintom: '192'
+  image: v03/17-171-411-192.jpg
+  sublists: []
+- pageintom: '193'
+  image: v03/17-171-411-193.jpg
+  sublists:
+  - sublid: '362'
     persons:
     - id: '9853'
       num: '1'
@@ -142,8 +137,10 @@ sublists:
       num: '23'
       name: ИСАЕВ Николай Тимофеевич
       spravka: true
-  - pageintom: '194'
-    page_image: v03/17-171-411-194.jpg
+- pageintom: '194'
+  image: v03/17-171-411-194.jpg
+  sublists:
+  - sublid: '362'
     persons:
     - id: '9876'
       num: '24'
@@ -241,8 +238,10 @@ sublists:
       num: '47'
       name: ШАВРИН Иван Архипович
       spravka: true
-  - pageintom: '195'
-    page_image: v03/17-171-411-195.jpg
+- pageintom: '195'
+  image: v03/17-171-411-195.jpg
+  sublists:
+  - sublid: '362'
     persons:
     - id: '9900'
       num: '48'
@@ -345,8 +344,10 @@ sublists:
       num: '72'
       name: ФИЛАТОВ Никита Романович
       spravka: true
-  - pageintom: '196'
-    page_image: v03/17-171-411-196.jpg
+- pageintom: '196'
+  image: v03/17-171-411-196.jpg
+  sublists:
+  - sublid: '362'
     persons:
     - id: '9925'
       num: '1'

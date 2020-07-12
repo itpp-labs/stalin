@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '161'
-  image: v02/17-171-410-161.jpg
-- pageintom: '162'
-  image: v02/17-171-410-162.jpg
-- pageintom: '163'
-  image: v02/17-171-410-163.jpg
-- pageintom: '164'
-  image: v02/17-171-410-164.jpg
-- pageintom: '165'
-  image: v02/17-171-410-165.jpg
-- pageintom: '166'
-  image: v02/17-171-410-166.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -39,9 +26,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '163'
-    page_image: v02/17-171-410-163.jpg
+pages:
+- pageintom: '161'
+  image: v02/17-171-410-161.jpg
+  sublists: []
+- pageintom: '162'
+  image: v02/17-171-410-162.jpg
+  sublists: []
+- pageintom: '163'
+  image: v02/17-171-410-163.jpg
+  sublists:
+  - sublid: '41'
     persons:
     - id: '4958'
       num: '1'
@@ -141,8 +136,10 @@ sublists:
       num: '24'
       name: ДЕРВЕЛЬ Отто Фридрихович
       spravka: true
-  - pageintom: '164'
-    page_image: v02/17-171-410-164.jpg
+- pageintom: '164'
+  image: v02/17-171-410-164.jpg
+  sublists:
+  - sublid: '41'
     persons:
     - id: '4982'
       num: '25'
@@ -260,8 +257,10 @@ sublists:
       num: '53'
       name: ПРОХОРОВ Иван Афанасьевич
       spravka: true
-  - pageintom: '165'
-    page_image: v02/17-171-410-165.jpg
+- pageintom: '165'
+  image: v02/17-171-410-165.jpg
+  sublists:
+  - sublid: '41'
     persons:
     - id: '5011'
       num: '54'
@@ -304,8 +303,10 @@ sublists:
       num: '63'
       name: ШИМАНОВСКИЙ Исаак Яковлевич
       spravka: true
-  - pageintom: '166'
-    page_image: v02/17-171-410-166.jpg
+- pageintom: '166'
+  image: v02/17-171-410-166.jpg
+  sublists:
+  - sublid: '41'
     persons:
     - id: '40495'
       num: '1'

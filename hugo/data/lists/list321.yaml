@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '250'
-  image: v08/17-171-416-250.jpg
-- pageintom: '251'
-  image: v08/17-171-416-251.jpg
-- pageintom: '252'
-  image: v08/17-171-416-252.jpg
-- pageintom: '253'
-  image: v08/17-171-416-253.jpg
-- pageintom: '254'
-  image: v08/17-171-416-254.jpg
-- pageintom: '255'
-  image: v08/17-171-416-255.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская область
@@ -37,9 +24,17 @@ sublists:
   - 115
   group_ids:
   - 0
-  pages:
-  - pageintom: '252'
-    page_image: v08/17-171-416-252.jpg
+pages:
+- pageintom: '250'
+  image: v08/17-171-416-250.jpg
+  sublists: []
+- pageintom: '251'
+  image: v08/17-171-416-251.jpg
+  sublists: []
+- pageintom: '252'
+  image: v08/17-171-416-252.jpg
+  sublists:
+  - sublid: '567'
     persons:
     - id: '32148'
       num: '1'
@@ -126,8 +121,10 @@ sublists:
       num: '21'
       name: ИВАНОВ Михаил Сергеевич
       spravka: true
-  - pageintom: '253'
-    page_image: v08/17-171-416-253.jpg
+- pageintom: '253'
+  image: v08/17-171-416-253.jpg
+  sublists:
+  - sublid: '567'
     persons:
     - id: '32169'
       num: '22'
@@ -241,8 +238,10 @@ sublists:
       name: ЧЕРНЯЕВ Михаил Тимофеевич
       doublesexists: true
       spravka: true
-  - pageintom: '254'
-    page_image: v08/17-171-416-254.jpg
+- pageintom: '254'
+  image: v08/17-171-416-254.jpg
+  sublists:
+  - sublid: '567'
     persons:
     - id: '32197'
       num: '50'
@@ -255,8 +254,10 @@ sublists:
       num: '52'
       name: ЮДАЕВ Иван Семенович
       spravka: true
-  - pageintom: '255'
-    page_image: v08/17-171-416-255.jpg
+- pageintom: '255'
+  image: v08/17-171-416-255.jpg
+  sublists:
+  - sublid: '567'
     persons:
     - id: '32200'
       num: '1'

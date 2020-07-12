@@ -14,21 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '227'
-  image: v01/17-171-409-227.jpg
-- pageintom: '228'
-  image: v01/17-171-409-228.jpg
-- pageintom: '229'
-  image: v01/17-171-409-229.jpg
-- pageintom: '230'
-  image: v01/17-171-409-230.jpg
-- pageintom: '231'
-  image: v01/17-171-409-231.jpg
-- pageintom: '232'
-  image: v01/17-171-409-232.jpg
-- pageintom: '233'
-  image: v01/17-171-409-233.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -42,9 +27,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '229'
-    page_image: v01/17-171-409-229.jpg
+pages:
+- pageintom: '227'
+  image: v01/17-171-409-227.jpg
+  sublists: []
+- pageintom: '228'
+  image: v01/17-171-409-228.jpg
+  sublists: []
+- pageintom: '229'
+  image: v01/17-171-409-229.jpg
+  sublists:
+  - sublid: '28'
     persons:
     - id: '3229'
       num: '1'
@@ -147,8 +140,10 @@ sublists:
     - id: '3253'
       num: '25'
       name: ДИКОВ Николай Прокофьевич
-  - pageintom: '230'
-    page_image: v01/17-171-409-230.jpg
+- pageintom: '230'
+  image: v01/17-171-409-230.jpg
+  sublists:
+  - sublid: '28'
     persons:
     - id: '3254'
       num: '26'
@@ -261,8 +256,10 @@ sublists:
       num: '53'
       name: МАНАКОВ Василий Христофорович
       spravka: true
-  - pageintom: '231'
-    page_image: v01/17-171-409-231.jpg
+- pageintom: '231'
+  image: v01/17-171-409-231.jpg
+  sublists:
+  - sublid: '28'
     persons:
     - id: '3282'
       num: '54'
@@ -375,8 +372,10 @@ sublists:
       num: '81'
       name: РОЗЫНКО Анатолий Францевич
       spravka: true
-  - pageintom: '232'
-    page_image: v01/17-171-409-232.jpg
+- pageintom: '232'
+  image: v01/17-171-409-232.jpg
+  sublists:
+  - sublid: '28'
     persons:
     - id: '3310'
       num: '82'
@@ -462,8 +461,10 @@ sublists:
       num: '102'
       name: ЯНБОРИСОВ Абубакир Фасхутдинович
       spravka: true
-  - pageintom: '233'
-    page_image: v01/17-171-409-233.jpg
+- pageintom: '233'
+  image: v01/17-171-409-233.jpg
+  sublists:
+  - sublid: '28'
     persons:
     - id: '3331'
       num: '1'

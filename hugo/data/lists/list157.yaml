@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '14'
-  image: v09/17-171-417-014.jpg
-- pageintom: '15'
-  image: v09/17-171-417-015.jpg
-- pageintom: '16'
-  image: v09/17-171-417-016.jpg
-- pageintom: '17'
-  image: v09/17-171-417-017.jpg
 sublists:
 - title: Список от 10.VI.38г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -33,9 +24,17 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '16'
-    page_image: v09/17-171-417-016.jpg
+pages:
+- pageintom: '14'
+  image: v09/17-171-417-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v09/17-171-417-015.jpg
+  sublists: []
+- pageintom: '16'
+  image: v09/17-171-417-016.jpg
+  sublists:
+  - sublid: '100'
     persons:
     - id: '33427'
       num: '1'
@@ -114,8 +113,10 @@ sublists:
     - id: '33446'
       num: '20'
       name: ЭЙХМАН Николай Августович
-  - pageintom: '17'
-    page_image: v09/17-171-417-017.jpg
+- pageintom: '17'
+  image: v09/17-171-417-017.jpg
+  sublists:
+  - sublid: '100'
     persons:
     - id: '33447'
       num: '1'

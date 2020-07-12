@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '177'
-  image: v05/17-171-413-177.jpg
-- pageintom: '178'
-  image: v05/17-171-413-178.jpg
-- pageintom: '179'
-  image: v05/17-171-413-179.jpg
-- pageintom: '180'
-  image: v05/17-171-413-180.jpg
-- pageintom: '181'
-  image: v05/17-171-413-181.jpg
-- pageintom: '182'
-  image: v05/17-171-413-182.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -38,9 +25,17 @@ sublists:
   - 18
   group_ids:
   - 0
-  pages:
-  - pageintom: '179'
-    page_image: v05/17-171-413-179.jpg
+pages:
+- pageintom: '177'
+  image: v05/17-171-413-177.jpg
+  sublists: []
+- pageintom: '178'
+  image: v05/17-171-413-178.jpg
+  sublists: []
+- pageintom: '179'
+  image: v05/17-171-413-179.jpg
+  sublists:
+  - sublid: '82'
     persons:
     - id: '16501'
       num: '1'
@@ -132,8 +127,10 @@ sublists:
       num: '22'
       name: КАРИН Кенес
       spravka: true
-  - pageintom: '180'
-    page_image: v05/17-171-413-180.jpg
+- pageintom: '180'
+  image: v05/17-171-413-180.jpg
+  sublists:
+  - sublid: '82'
     persons:
     - id: '16523'
       num: '23'
@@ -247,8 +244,10 @@ sublists:
       num: '50'
       name: УРДАБАЕВ Рамазан Галиевич
       spravka: true
-  - pageintom: '181'
-    page_image: v05/17-171-413-181.jpg
+- pageintom: '181'
+  image: v05/17-171-413-181.jpg
+  sublists:
+  - sublid: '82'
     persons:
     - id: '16551'
       num: '51'
@@ -270,8 +269,10 @@ sublists:
       num: '55'
       name: ЮСУПОВ Шакир Якупович
       spravka: true
-  - pageintom: '182'
-    page_image: v05/17-171-413-182.jpg
+- pageintom: '182'
+  image: v05/17-171-413-182.jpg
+  sublists:
+  - sublid: '82'
     persons:
     - id: '16556'
       num: '1'

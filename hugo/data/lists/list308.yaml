@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '171'
-  image: v08/17-171-416-171.jpg
-- pageintom: '172'
-  image: v08/17-171-416-172.jpg
-- pageintom: '173'
-  image: v08/17-171-416-173.jpg
-- pageintom: '174'
-  image: v08/17-171-416-174.jpg
-- pageintom: '175'
-  image: v08/17-171-416-175.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область
@@ -37,9 +26,17 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '173'
-    page_image: v08/17-171-416-173.jpg
+pages:
+- pageintom: '171'
+  image: v08/17-171-416-171.jpg
+  sublists: []
+- pageintom: '172'
+  image: v08/17-171-416-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v08/17-171-416-173.jpg
+  sublists:
+  - sublid: '556'
     persons:
     - id: '31243'
       num: '1'
@@ -120,8 +117,10 @@ sublists:
     - id: '31264'
       num: '22'
       name: НАДЛЕРМАН Абрам Яковлевич
-  - pageintom: '174'
-    page_image: v08/17-171-416-174.jpg
+- pageintom: '174'
+  image: v08/17-171-416-174.jpg
+  sublists:
+  - sublid: '556'
     persons:
     - id: '31265'
       num: '23'
@@ -216,8 +215,10 @@ sublists:
       num: '47'
       name: ЯКОВЛЕВ Василий Борисович
       spravka: true
-  - pageintom: '175'
-    page_image: v08/17-171-416-175.jpg
+- pageintom: '175'
+  image: v08/17-171-416-175.jpg
+  sublists:
+  - sublid: '556'
     persons:
     - id: '31290'
       num: '1'

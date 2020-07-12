@@ -13,47 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '96'
-  image: v04/17-171-412-096.jpg
-- pageintom: '97'
-  image: v04/17-171-412-097.jpg
-- pageintom: '98'
-  image: v04/17-171-412-098.jpg
-- pageintom: '99'
-  image: v04/17-171-412-099.jpg
-- pageintom: '100'
-  image: v04/17-171-412-100.jpg
-- pageintom: '101'
-  image: v04/17-171-412-101.jpg
-- pageintom: '102'
-  image: v04/17-171-412-102.jpg
-- pageintom: '103'
-  image: v04/17-171-412-103.jpg
-- pageintom: '104'
-  image: v04/17-171-412-104.jpg
-- pageintom: '105'
-  image: v04/17-171-412-105.jpg
-- pageintom: '106'
-  image: v04/17-171-412-106.jpg
-- pageintom: '107'
-  image: v04/17-171-412-107.jpg
-- pageintom: '108'
-  image: v04/17-171-412-108.jpg
-- pageintom: '109'
-  image: v04/17-171-412-109.jpg
-- pageintom: '110'
-  image: v04/17-171-412-110.jpg
-- pageintom: '111'
-  image: v04/17-171-412-111.jpg
-- pageintom: '112'
-  image: v04/17-171-412-112.jpg
-- pageintom: '113'
-  image: v04/17-171-412-113.jpg
-- pageintom: '114'
-  image: v04/17-171-412-114.jpg
-- pageintom: '115'
-  image: v04/17-171-412-115.jpg
 sublists:
 - title: Список от 27 октября 1937г. [Ростовская область]
   listtitle: Список лиц - Ростовская обл.
@@ -68,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '98'
-    page_image: v04/17-171-412-098.jpg
+pages:
+- pageintom: '96'
+  image: v04/17-171-412-096.jpg
+  sublists: []
+- pageintom: '97'
+  image: v04/17-171-412-097.jpg
+  sublists: []
+- pageintom: '98'
+  image: v04/17-171-412-098.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11672'
       num: '1'
@@ -162,8 +129,10 @@ sublists:
       num: '22'
       name: БЕРЗИН Ян Петрович
       spravka: true
-  - pageintom: '99'
-    page_image: v04/17-171-412-099.jpg
+- pageintom: '99'
+  image: v04/17-171-412-099.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11694'
       num: '23'
@@ -258,8 +227,10 @@ sublists:
     - id: '11721'
       num: '50'
       name: ДОБЕРСКИЙ Болеслав Болеславович
-  - pageintom: '100'
-    page_image: v04/17-171-412-100.jpg
+- pageintom: '100'
+  image: v04/17-171-412-100.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11722'
       num: '51'
@@ -357,8 +328,10 @@ sublists:
       name: КОСОГОВ Иван Дмитриевич
       doublesexists: true
       spravka: true
-  - pageintom: '101'
-    page_image: v04/17-171-412-101.jpg
+- pageintom: '101'
+  image: v04/17-171-412-101.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11750'
       num: '79'
@@ -457,8 +430,10 @@ sublists:
       num: '106'
       name: МАТВЕЕВ Сергей Георгиевич
       spravka: true
-  - pageintom: '102'
-    page_image: v04/17-171-412-102.jpg
+- pageintom: '102'
+  image: v04/17-171-412-102.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11778'
       num: '107'
@@ -554,8 +529,10 @@ sublists:
     - id: '11806'
       num: '135'
       name: НОСОВ Лев Герасимович
-  - pageintom: '103'
-    page_image: v04/17-171-412-103.jpg
+- pageintom: '103'
+  image: v04/17-171-412-103.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11807'
       num: '136'
@@ -658,8 +635,10 @@ sublists:
     - id: '11835'
       num: '164'
       name: РЫБКИН Андрей Иванович
-  - pageintom: '104'
-    page_image: v04/17-171-412-104.jpg
+- pageintom: '104'
+  image: v04/17-171-412-104.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11836'
       num: '165'
@@ -759,8 +738,10 @@ sublists:
     - id: '11864'
       num: '193'
       name: ТРУБЧАНИНОВ Иван Иванович
-  - pageintom: '105'
-    page_image: v04/17-171-412-105.jpg
+- pageintom: '105'
+  image: v04/17-171-412-105.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11865'
       num: '194'
@@ -858,8 +839,10 @@ sublists:
     - id: '11892'
       num: '221'
       name: ЭРАСТОВ Леонид Алексеевич
-  - pageintom: '106'
-    page_image: v04/17-171-412-106.jpg
+- pageintom: '106'
+  image: v04/17-171-412-106.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11893'
       num: '222'
@@ -874,8 +857,10 @@ sublists:
     - id: '11896'
       num: '225'
       name: ЯРОШ Антон Корнеевич
-  - pageintom: '107'
-    page_image: v04/17-171-412-107.jpg
+- pageintom: '107'
+  image: v04/17-171-412-107.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11897'
       num: '1'
@@ -895,8 +880,28 @@ sublists:
       num: '4'
       name: ШУСТЕР Вильгельм Иоганович
       gb_spravka: true
-  - pageintom: '114'
-    page_image: v04/17-171-412-114.jpg
+- pageintom: '108'
+  image: v04/17-171-412-108.jpg
+  sublists: []
+- pageintom: '109'
+  image: v04/17-171-412-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v04/17-171-412-110.jpg
+  sublists: []
+- pageintom: '111'
+  image: v04/17-171-412-111.jpg
+  sublists: []
+- pageintom: '112'
+  image: v04/17-171-412-112.jpg
+  sublists: []
+- pageintom: '113'
+  image: v04/17-171-412-113.jpg
+  sublists: []
+- pageintom: '114'
+  image: v04/17-171-412-114.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11901'
       num: '1'
@@ -963,8 +968,10 @@ sublists:
     - id: '11920'
       num: '20'
       name: СЛИВИН Абрам Ильич
-  - pageintom: '115'
-    page_image: v04/17-171-412-115.jpg
+- pageintom: '115'
+  image: v04/17-171-412-115.jpg
+  sublists:
+  - sublid: '63'
     persons:
     - id: '11921'
       num: '21'

@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '280'
-  image: v05/17-171-413-280.jpg
-- pageintom: '281'
-  image: v05/17-171-413-281.jpg
-- pageintom: '282'
-  image: v05/17-171-413-282.jpg
-- pageintom: '283'
-  image: v05/17-171-413-283.jpg
-- pageintom: '284'
-  image: v05/17-171-413-284.jpg
-- pageintom: '285'
-  image: v05/17-171-413-285.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область
@@ -38,9 +25,17 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '282'
-    page_image: v05/17-171-413-282.jpg
+pages:
+- pageintom: '280'
+  image: v05/17-171-413-280.jpg
+  sublists: []
+- pageintom: '281'
+  image: v05/17-171-413-281.jpg
+  sublists: []
+- pageintom: '282'
+  image: v05/17-171-413-282.jpg
+  sublists:
+  - sublid: '89'
     persons:
     - id: '18028'
       num: '1'
@@ -116,8 +111,10 @@ sublists:
     - id: '18049'
       num: '22'
       name: ЛАЗАРЕВ Алексей Лаврентьевич
-  - pageintom: '283'
-    page_image: v05/17-171-413-283.jpg
+- pageintom: '283'
+  image: v05/17-171-413-283.jpg
+  sublists:
+  - sublid: '89'
     persons:
     - id: '18050'
       num: '23'
@@ -209,8 +206,10 @@ sublists:
     - id: '18077'
       num: '50'
       name: ЧЕРЕМУХИН Василий Федорович
-  - pageintom: '284'
-    page_image: v05/17-171-413-284.jpg
+- pageintom: '284'
+  image: v05/17-171-413-284.jpg
+  sublists:
+  - sublid: '89'
     persons:
     - id: '18078'
       num: '51'
@@ -234,8 +233,10 @@ sublists:
     - id: '18084'
       num: '57'
       name: ЯНЫШИН Федор Михайлович
-  - pageintom: '285'
-    page_image: v05/17-171-413-285.jpg
+- pageintom: '285'
+  image: v05/17-171-413-285.jpg
+  sublists:
+  - sublid: '89'
     persons:
     - id: '18085'
       num: '1'

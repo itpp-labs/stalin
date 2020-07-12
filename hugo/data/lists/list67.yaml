@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '260'
-  image: v02/17-171-410-260.jpg
-- pageintom: '261'
-  image: v02/17-171-410-261.jpg
-- pageintom: '262'
-  image: v02/17-171-410-262.jpg
-- pageintom: '263'
-  image: v02/17-171-410-263.jpg
-- pageintom: '264'
-  image: v02/17-171-410-264.jpg
-- pageintom: '265'
-  image: v02/17-171-410-265.jpg
-- pageintom: '266'
-  image: v02/17-171-410-266.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Оренбургская обл.]
   listtitle: 'Список лиц: Оренбургская обл.'
@@ -41,9 +26,17 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '262'
-    page_image: v02/17-171-410-262.jpg
+pages:
+- pageintom: '260'
+  image: v02/17-171-410-260.jpg
+  sublists: []
+- pageintom: '261'
+  image: v02/17-171-410-261.jpg
+  sublists: []
+- pageintom: '262'
+  image: v02/17-171-410-262.jpg
+  sublists:
+  - sublid: '49'
     persons:
     - id: '6269'
       num: '1'
@@ -148,8 +141,10 @@ sublists:
       num: '27'
       name: ГЛИК Илья Львович
       spravka: true
-  - pageintom: '263'
-    page_image: v02/17-171-410-263.jpg
+- pageintom: '263'
+  image: v02/17-171-410-263.jpg
+  sublists:
+  - sublid: '49'
     persons:
     - id: '6296'
       num: '28'
@@ -264,8 +259,10 @@ sublists:
       num: '57'
       name: МЕРЦ Николай Фридрихович
       spravka: true
-  - pageintom: '264'
-    page_image: v02/17-171-410-264.jpg
+- pageintom: '264'
+  image: v02/17-171-410-264.jpg
+  sublists:
+  - sublid: '49'
     persons:
     - id: '6326'
       num: '58'
@@ -368,8 +365,10 @@ sublists:
       num: '84'
       name: ТРОШКО Григорий Михайлович
       spravka: true
-  - pageintom: '265'
-    page_image: v02/17-171-410-265.jpg
+- pageintom: '265'
+  image: v02/17-171-410-265.jpg
+  sublists:
+  - sublid: '49'
     persons:
     - id: '6353'
       num: '85'
@@ -432,8 +431,10 @@ sublists:
       num: '100'
       name: ЯСНЫЙ-ИТИН Конон Григорьевич
       spravka: true
-  - pageintom: '266'
-    page_image: v02/17-171-410-266.jpg
+- pageintom: '266'
+  image: v02/17-171-410-266.jpg
+  sublists:
+  - sublid: '49'
     persons:
     - id: '6369'
       num: '1'

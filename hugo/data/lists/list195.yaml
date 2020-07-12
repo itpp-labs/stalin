@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '49'
-  image: v10/17-171-418-049.jpg
-- pageintom: '50'
-  image: v10/17-171-418-050.jpg
-- pageintom: '51'
-  image: v10/17-171-418-051.jpg
-- pageintom: '52'
-  image: v10/17-171-418-052.jpg
-- pageintom: '53'
-  image: v10/17-171-418-053.jpg
-- pageintom: '54'
-  image: v10/17-171-418-054.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Чечено-Ингушская АССР]
   listtitle: Список лиц - Чечено-Ингушская АССР
@@ -38,9 +25,17 @@ sublists:
   - 108
   group_ids:
   - 0
-  pages:
-  - pageintom: '51'
-    page_image: v10/17-171-418-051.jpg
+pages:
+- pageintom: '49'
+  image: v10/17-171-418-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v10/17-171-418-050.jpg
+  sublists: []
+- pageintom: '51'
+  image: v10/17-171-418-051.jpg
+  sublists:
+  - sublid: '131'
     persons:
     - id: '37557'
       num: '1'
@@ -114,8 +109,10 @@ sublists:
     - id: '37577'
       num: '21'
       name: КАГЕРМАНОВ Усам Усманович
-  - pageintom: '52'
-    page_image: v10/17-171-418-052.jpg
+- pageintom: '52'
+  image: v10/17-171-418-052.jpg
+  sublists:
+  - sublid: '131'
     persons:
     - id: '37578'
       num: '22'
@@ -206,8 +203,10 @@ sublists:
     - id: '37605'
       num: '49'
       name: ШАМИЛЕВ Мааз Хаджиевич
-  - pageintom: '53'
-    page_image: v10/17-171-418-053.jpg
+- pageintom: '53'
+  image: v10/17-171-418-053.jpg
+  sublists:
+  - sublid: '131'
     persons:
     - id: '37606'
       num: '50'
@@ -228,8 +227,10 @@ sublists:
       num: '55'
       name: ЯНДАРОВ Халид Эттиевич
       spravka: true
-  - pageintom: '54'
-    page_image: v10/17-171-418-054.jpg
+- pageintom: '54'
+  image: v10/17-171-418-054.jpg
+  sublists:
+  - sublid: '131'
     persons:
     - id: '37612'
       num: '1'

@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '168'
-  image: v10/17-171-418-168.jpg
-- pageintom: '169'
-  image: v10/17-171-418-169.jpg
-- pageintom: '170'
-  image: v10/17-171-418-170.jpg
-- pageintom: '171'
-  image: v10/17-171-418-171.jpg
-- pageintom: '172'
-  image: v10/17-171-418-172.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Тамбовская область]
   listtitle: Список лиц - Тамбовская область
@@ -36,9 +25,17 @@ sublists:
   - 115
   group_ids:
   - 0
-  pages:
-  - pageintom: '170'
-    page_image: v10/17-171-418-170.jpg
+pages:
+- pageintom: '168'
+  image: v10/17-171-418-168.jpg
+  sublists: []
+- pageintom: '169'
+  image: v10/17-171-418-169.jpg
+  sublists: []
+- pageintom: '170'
+  image: v10/17-171-418-170.jpg
+  sublists:
+  - sublid: '136'
     persons:
     - id: '39608'
       num: '1'
@@ -123,8 +120,10 @@ sublists:
       num: '22'
       name: РОМАНОВ-СКОРОХОД Григорий Трофимович
       spravka: true
-  - pageintom: '171'
-    page_image: v10/17-171-418-171.jpg
+- pageintom: '171'
+  image: v10/17-171-418-171.jpg
+  sublists:
+  - sublid: '136'
     persons:
     - id: '39630'
       num: '23'
@@ -151,8 +150,10 @@ sublists:
       num: '29'
       name: ЧЕТЫРИН Федор Дмитриевич
       spravka: true
-  - pageintom: '172'
-    page_image: v10/17-171-418-172.jpg
+- pageintom: '172'
+  image: v10/17-171-418-172.jpg
+  sublists:
+  - sublid: '136'
     persons:
     - id: '39637'
       num: '1'

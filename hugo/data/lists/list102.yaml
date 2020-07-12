@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   voroshilov: true
-pages:
-- pageintom: '220'
-  image: v04/17-171-412-220.jpg
-- pageintom: '221'
-  image: v04/17-171-412-221.jpg
-- pageintom: '222'
-  image: v04/17-171-412-222.jpg
-- pageintom: '223'
-  image: v04/17-171-412-223.jpg
-- pageintom: '224'
-  image: v04/17-171-412-224.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская обл.
@@ -35,9 +24,17 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '222'
-    page_image: v04/17-171-412-222.jpg
+pages:
+- pageintom: '220'
+  image: v04/17-171-412-220.jpg
+  sublists: []
+- pageintom: '221'
+  image: v04/17-171-412-221.jpg
+  sublists: []
+- pageintom: '222'
+  image: v04/17-171-412-222.jpg
+  sublists:
+  - sublid: '71'
     persons:
     - id: '13589'
       num: '1'
@@ -144,8 +141,10 @@ sublists:
       num: '26'
       name: МЕНЬШАКОВ Сергей Александрович
       spravka: true
-  - pageintom: '223'
-    page_image: v04/17-171-412-223.jpg
+- pageintom: '223'
+  image: v04/17-171-412-223.jpg
+  sublists:
+  - sublid: '71'
     persons:
     - id: '13615'
       num: '27'
@@ -219,8 +218,10 @@ sublists:
       num: '44'
       name: ШИМАН Рудольф Генрихович
       spravka: true
-  - pageintom: '224'
-    page_image: v04/17-171-412-224.jpg
+- pageintom: '224'
+  image: v04/17-171-412-224.jpg
+  sublists:
+  - sublid: '71'
     persons:
     - id: '13633'
       num: '1'

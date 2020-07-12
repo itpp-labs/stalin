@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '135'
-  image: v11/17-171-419-135.jpg
-- pageintom: '136'
-  image: v11/17-171-419-136.jpg
-- pageintom: '137'
-  image: v11/17-171-419-137.jpg
-- pageintom: '138'
-  image: v11/17-171-419-138.jpg
-- pageintom: '139'
-  image: v11/17-171-419-139.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [г.Ашхабад - Ашхабадская ж.д.]
   listtitle: Список лиц - г.Ашхабад - Ашхабадская ж.д.
@@ -36,9 +25,17 @@ sublists:
   - 163
   group_ids:
   - 13
-  pages:
-  - pageintom: '137'
-    page_image: v11/17-171-419-137.jpg
+pages:
+- pageintom: '135'
+  image: v11/17-171-419-135.jpg
+  sublists: []
+- pageintom: '136'
+  image: v11/17-171-419-136.jpg
+  sublists: []
+- pageintom: '137'
+  image: v11/17-171-419-137.jpg
+  sublists:
+  - sublid: '622'
     persons:
     - id: '42521'
       num: '1'
@@ -100,8 +97,10 @@ sublists:
     - id: '42538'
       num: '18'
       name: ФИЛИППЕНКО Иосиф Васильевич
-  - pageintom: '138'
-    page_image: v11/17-171-419-138.jpg
+- pageintom: '138'
+  image: v11/17-171-419-138.jpg
+  sublists:
+  - sublid: '622'
     persons:
     - id: '42539'
       num: '19'
@@ -115,8 +114,10 @@ sublists:
     - id: '42542'
       num: '22'
       name: ЩЕПОТКИН Григорий Федорович
-  - pageintom: '139'
-    page_image: v11/17-171-419-139.jpg
+- pageintom: '139'
+  image: v11/17-171-419-139.jpg
+  sublists:
+  - sublid: '622'
     persons:
     - id: '42543'
       num: '1'

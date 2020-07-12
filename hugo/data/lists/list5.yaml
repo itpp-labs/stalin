@@ -13,35 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '40'
-  image: v01/17-171-409-040.jpg
-- pageintom: '41'
-  image: v01/17-171-409-041.jpg
-- pageintom: '42'
-  image: v01/17-171-409-042.jpg
-- pageintom: '43'
-  image: v01/17-171-409-043.jpg
-- pageintom: '44'
-  image: v01/17-171-409-044.jpg
-- pageintom: '45'
-  image: v01/17-171-409-045.jpg
-- pageintom: '46'
-  image: v01/17-171-409-046.jpg
-- pageintom: '47'
-  image: v01/17-171-409-047.jpg
-- pageintom: '48'
-  image: v01/17-171-409-048.jpg
-- pageintom: '49'
-  image: v01/17-171-409-049.jpg
-- pageintom: '50'
-  image: v01/17-171-409-050.jpg
-- pageintom: '51'
-  image: v01/17-171-409-051.jpg
-- pageintom: '52'
-  image: v01/17-171-409-052.jpg
-- pageintom: '53'
-  image: v01/17-171-409-053.jpg
 sublists:
 - title: Список от 27 марта 1937 г. [Западно-Сибирский край]
   listtitle: Список лиц - Западно-Сибирский край
@@ -55,9 +26,17 @@ sublists:
   - 9
   group_ids:
   - 0
-  pages:
-  - pageintom: '42'
-    page_image: v01/17-171-409-042.jpg
+pages:
+- pageintom: '40'
+  image: v01/17-171-409-040.jpg
+  sublists: []
+- pageintom: '41'
+  image: v01/17-171-409-041.jpg
+  sublists: []
+- pageintom: '42'
+  image: v01/17-171-409-042.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '678'
       num: '1'
@@ -139,8 +118,10 @@ sublists:
     - id: '700'
       num: '23'
       name: ГЕОРГЕ Эмиль Валентинович
-  - pageintom: '43'
-    page_image: v01/17-171-409-043.jpg
+- pageintom: '43'
+  image: v01/17-171-409-043.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '701'
       num: '24'
@@ -246,8 +227,10 @@ sublists:
     - id: '729'
       num: '52'
       name: КАРЦЕВ Николай Федорович
-  - pageintom: '44'
-    page_image: v01/17-171-409-044.jpg
+- pageintom: '44'
+  image: v01/17-171-409-044.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '730'
       num: '53'
@@ -338,8 +321,10 @@ sublists:
     - id: '754'
       num: '77'
       name: МАГЕЛЬ Андрей Яковлевич, он же Генрих Яковлевич
-  - pageintom: '45'
-    page_image: v01/17-171-409-045.jpg
+- pageintom: '45'
+  image: v01/17-171-409-045.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '755'
       num: '78'
@@ -432,8 +417,10 @@ sublists:
     - id: '781'
       num: '104'
       name: ПИТАНОВ Борис Потапович
-  - pageintom: '46'
-    page_image: v01/17-171-409-046.jpg
+- pageintom: '46'
+  image: v01/17-171-409-046.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '782'
       num: '105'
@@ -525,8 +512,10 @@ sublists:
     - id: '807'
       num: '130'
       name: СЛОБОДЧИКОВ Филипп Прохорович
-  - pageintom: '47'
-    page_image: v01/17-171-409-047.jpg
+- pageintom: '47'
+  image: v01/17-171-409-047.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '808'
       num: '131'
@@ -623,8 +612,10 @@ sublists:
     - id: '835'
       num: '158'
       name: ЦЫКИН Георгий Федорович
-  - pageintom: '48'
-    page_image: v01/17-171-409-048.jpg
+- pageintom: '48'
+  image: v01/17-171-409-048.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '836'
       num: '159'
@@ -680,8 +671,10 @@ sublists:
       num: '173'
       name: ЯСЮКЕВИЧ Александр Матвеевич
       spravka: true
-  - pageintom: '49'
-    page_image: v01/17-171-409-049.jpg
+- pageintom: '49'
+  image: v01/17-171-409-049.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '851'
       num: '1'
@@ -771,8 +764,10 @@ sublists:
       num: '25'
       name: ЗИНЮК Юрий Натанович
       spravka: true
-  - pageintom: '50'
-    page_image: v01/17-171-409-050.jpg
+- pageintom: '50'
+  image: v01/17-171-409-050.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '876'
       num: '26'
@@ -872,8 +867,10 @@ sublists:
       num: '54'
       name: МОЛЧАНОВ Василий Васильевич
       spravka: true
-  - pageintom: '51'
-    page_image: v01/17-171-409-051.jpg
+- pageintom: '51'
+  image: v01/17-171-409-051.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '905'
       num: '55'
@@ -964,8 +961,10 @@ sublists:
       num: '80'
       name: ХОРОШКО Григорий Данилович
       spravka: true
-  - pageintom: '52'
-    page_image: v01/17-171-409-052.jpg
+- pageintom: '52'
+  image: v01/17-171-409-052.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '931'
       num: '81'
@@ -976,8 +975,10 @@ sublists:
     - id: '933'
       num: '83'
       name: ШИЛОВ Александр Петрович
-  - pageintom: '53'
-    page_image: v01/17-171-409-053.jpg
+- pageintom: '53'
+  image: v01/17-171-409-053.jpg
+  sublists:
+  - sublid: '2'
     persons:
     - id: '934'
       num: '1'

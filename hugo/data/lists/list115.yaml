@@ -13,23 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '48'
-  image: v05/17-171-413-048.jpg
-- pageintom: '49'
-  image: v05/17-171-413-049.jpg
-- pageintom: '50'
-  image: v05/17-171-413-050.jpg
-- pageintom: '51'
-  image: v05/17-171-413-051.jpg
-- pageintom: '52'
-  image: v05/17-171-413-052.jpg
-- pageintom: '53'
-  image: v05/17-171-413-053.jpg
-- pageintom: '54'
-  image: v05/17-171-413-054.jpg
-- pageintom: '55'
-  image: v05/17-171-413-055.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Красноярский край]
   listtitle: Список лиц - Красноярский край; Красноярск. Красноярская ж.д.
@@ -43,9 +26,29 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '50'
-    page_image: v05/17-171-413-050.jpg
+- title: Список от 22 ноября 1937г. [Красноярск-Красноярская ж.д.]
+  listtitle: Список лиц - Красноярский край; Красноярск. Красноярская ж.д.
+  sublisttitle: Красноярск-Красноярская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 98
+  group_ids:
+  - 13
+pages:
+- pageintom: '48'
+  image: v05/17-171-413-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v05/17-171-413-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v05/17-171-413-050.jpg
+  sublists:
+  - sublid: '257'
     persons:
     - id: '14759'
       num: '1'
@@ -93,21 +96,10 @@ sublists:
       num: '11'
       name: ЩЕРБАКОВ Семен Павлович
       spravka: true
-- title: Список от 22 ноября 1937г. [Красноярск-Красноярская ж.д.]
-  listtitle: Список лиц - Красноярский край; Красноярск. Красноярская ж.д.
-  sublisttitle: Красноярск-Красноярская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 98
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '51'
-    page_image: v05/17-171-413-051.jpg
+- pageintom: '51'
+  image: v05/17-171-413-051.jpg
+  sublists:
+  - sublid: '258'
     persons:
     - id: '14770'
       num: '1'
@@ -207,8 +199,10 @@ sublists:
       num: '24'
       name: КОСТЫЛЕВ Иван Павлович
       spravka: true
-  - pageintom: '52'
-    page_image: v05/17-171-413-052.jpg
+- pageintom: '52'
+  image: v05/17-171-413-052.jpg
+  sublists:
+  - sublid: '258'
     persons:
     - id: '14794'
       num: '25'
@@ -314,8 +308,10 @@ sublists:
       num: '50'
       name: ЧУЧИЛИН Сергей Никифорович
       spravka: true
-  - pageintom: '53'
-    page_image: v05/17-171-413-053.jpg
+- pageintom: '53'
+  image: v05/17-171-413-053.jpg
+  sublists:
+  - sublid: '258'
     persons:
     - id: '14820'
       num: '51'
@@ -329,8 +325,10 @@ sublists:
       num: '53'
       name: ЯГЕЛЬНИЦКИЙ Франц Иванович
       spravka: true
-  - pageintom: '54'
-    page_image: v05/17-171-413-054.jpg
+- pageintom: '54'
+  image: v05/17-171-413-054.jpg
+  sublists:
+  - sublid: '258'
     persons:
     - id: '14823'
       num: '1'
@@ -425,8 +423,10 @@ sublists:
       num: '23'
       name: ФОМИЧЕВ Алексей Петрович
       spravka: true
-  - pageintom: '55'
-    page_image: v05/17-171-413-055.jpg
+- pageintom: '55'
+  image: v05/17-171-413-055.jpg
+  sublists:
+  - sublid: '258'
     persons:
     - id: '14846'
       num: '24'

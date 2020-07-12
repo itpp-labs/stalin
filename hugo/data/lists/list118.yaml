@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '73'
-  image: v05/17-171-413-073.jpg
-- pageintom: '74'
-  image: v05/17-171-413-074.jpg
-- pageintom: '75'
-  image: v05/17-171-413-075.jpg
-- pageintom: '76'
-  image: v05/17-171-413-076.jpg
-- pageintom: '77'
-  image: v05/17-171-413-077.jpg
-- pageintom: '78'
-  image: v05/17-171-413-078.jpg
-- pageintom: '79'
-  image: v05/17-171-413-079.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Свердловская область]
   listtitle: Список лиц - Свердловская область, ж.д.им.Кагановича
@@ -40,9 +25,29 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '75'
-    page_image: v05/17-171-413-075.jpg
+- title: Список от 22 ноября 1937г. [Ж.д. им.Кагановича]
+  listtitle: Список лиц - Свердловская область, ж.д.им.Кагановича
+  sublisttitle: Ж.д. им.Кагановича
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 100
+  group_ids:
+  - 13
+pages:
+- pageintom: '73'
+  image: v05/17-171-413-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v05/17-171-413-074.jpg
+  sublists: []
+- pageintom: '75'
+  image: v05/17-171-413-075.jpg
+  sublists:
+  - sublid: '266'
     persons:
     - id: '14972'
       num: '1'
@@ -150,8 +155,10 @@ sublists:
       num: '26'
       name: МЕРМАН Ефим Михайлович
       spravka: true
-  - pageintom: '76'
-    page_image: v05/17-171-413-076.jpg
+- pageintom: '76'
+  image: v05/17-171-413-076.jpg
+  sublists:
+  - sublid: '266'
     persons:
     - id: '14998'
       num: '27'
@@ -235,8 +242,10 @@ sublists:
       num: '47'
       name: ЯЦИНО Константин Францевич
       spravka: true
-  - pageintom: '77'
-    page_image: v05/17-171-413-077.jpg
+- pageintom: '77'
+  image: v05/17-171-413-077.jpg
+  sublists:
+  - sublid: '266'
     persons:
     - id: '15019'
       num: '1'
@@ -304,21 +313,10 @@ sublists:
       num: '16'
       name: ЮГОВ Александр Викторович
       spravka: true
-- title: Список от 22 ноября 1937г. [Ж.д. им.Кагановича]
-  listtitle: Список лиц - Свердловская область, ж.д.им.Кагановича
-  sublisttitle: Ж.д. им.Кагановича
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 58
-  geosub_ids:
-  - 100
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '78'
-    page_image: v05/17-171-413-078.jpg
+- pageintom: '78'
+  image: v05/17-171-413-078.jpg
+  sublists:
+  - sublid: '267'
     persons:
     - id: '15035'
       num: '1'
@@ -354,8 +352,10 @@ sublists:
       num: '8'
       name: ЩЕРБА Константин Кондратьевич
       spravka: true
-  - pageintom: '79'
-    page_image: v05/17-171-413-079.jpg
+- pageintom: '79'
+  image: v05/17-171-413-079.jpg
+  sublists:
+  - sublid: '267'
     persons:
     - id: '15043'
       num: '1'

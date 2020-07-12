@@ -11,29 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '86'
-  image: v03/17-171-411-086.jpg
-- pageintom: '87'
-  image: v03/17-171-411-087.jpg
-- pageintom: '88'
-  image: v03/17-171-411-088.jpg
-- pageintom: '89'
-  image: v03/17-171-411-089.jpg
-- pageintom: '90'
-  image: v03/17-171-411-090.jpg
-- pageintom: '91'
-  image: v03/17-171-411-091.jpg
-- pageintom: '92'
-  image: v03/17-171-411-092.jpg
-- pageintom: '93'
-  image: v03/17-171-411-093.jpg
-- pageintom: '94'
-  image: v03/17-171-411-094.jpg
-- pageintom: '95'
-  image: v03/17-171-411-095.jpg
-- pageintom: '96'
-  image: v03/17-171-411-096.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -49,9 +26,29 @@ sublists:
   - 0
   - 1
   - 2
-  pages:
-  - pageintom: '88'
-    page_image: v03/17-171-411-088.jpg
+- title: Список от 15 сентября 1937г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '86'
+  image: v03/17-171-411-086.jpg
+  sublists: []
+- pageintom: '87'
+  image: v03/17-171-411-087.jpg
+  sublists: []
+- pageintom: '88'
+  image: v03/17-171-411-088.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8720'
       num: '1'
@@ -150,8 +147,10 @@ sublists:
       num: '24'
       name: ГЕЛЬТМАН Стефан Леонович
       spravka: true
-  - pageintom: '89'
-    page_image: v03/17-171-411-089.jpg
+- pageintom: '89'
+  image: v03/17-171-411-089.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8744'
       num: '25'
@@ -270,8 +269,10 @@ sublists:
       num: '53'
       name: КОРКМАСОВ Джелал-Эд-Дин Асельдер Оглы
       spravka: true
-  - pageintom: '90'
-    page_image: v03/17-171-411-090.jpg
+- pageintom: '90'
+  image: v03/17-171-411-090.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8773'
       num: '54'
@@ -400,8 +401,10 @@ sublists:
       num: '84'
       name: РАКОВ Леонид Александрович
       spravka: true
-  - pageintom: '91'
-    page_image: v03/17-171-411-091.jpg
+- pageintom: '91'
+  image: v03/17-171-411-091.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8804'
       num: '85'
@@ -522,8 +525,10 @@ sublists:
         Николай Николаевич, ВАДБОЛЬСКИЙ Николай Николаевич
       primcoc: (быв.сотрудник НКВД)
       spravka: true
-  - pageintom: '92'
-    page_image: v03/17-171-411-092.jpg
+- pageintom: '92'
+  image: v03/17-171-411-092.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8833'
       num: '114'
@@ -545,8 +550,10 @@ sublists:
       name: ХВИЮЗОВ Петр Александрович
       primcoc: (бывш.сотрудник НКВД)
       spravka: true
-  - pageintom: '93'
-    page_image: v03/17-171-411-093.jpg
+- pageintom: '93'
+  image: v03/17-171-411-093.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8837'
       num: '1'
@@ -555,8 +562,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u> <br /> (Иностранные подданные)
         </p><p align="right"><u>1-я категория</u>
-  - pageintom: '95'
-    page_image: v03/17-171-411-095.jpg
+- pageintom: '94'
+  image: v03/17-171-411-094.jpg
+  sublists: []
+- pageintom: '95'
+  image: v03/17-171-411-095.jpg
+  sublists:
+  - sublid: '380'
     persons:
     - id: '8838'
       num: '1'
@@ -567,21 +579,10 @@ sublists:
       num: '2'
       name: ПИОТРОВСКИЙ Иосиф Францевич
       spravka: true
-- title: Список от 15 сентября 1937г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '96'
-    page_image: v03/17-171-411-096.jpg
+- pageintom: '96'
+  image: v03/17-171-411-096.jpg
+  sublists:
+  - sublid: '381'
     persons:
     - id: '8840'
       num: '1'

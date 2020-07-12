@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '47'
-  image: v11/17-171-419-047.jpg
-- pageintom: '48'
-  image: v11/17-171-419-048.jpg
-- pageintom: '49'
-  image: v11/17-171-419-049.jpg
-- pageintom: '50'
-  image: v11/17-171-419-050.jpg
-- pageintom: '51'
-  image: v11/17-171-419-051.jpg
-- pageintom: '52'
-  image: v11/17-171-419-052.jpg
-- pageintom: '53'
-  image: v11/17-171-419-053.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Иркутская область]
   listtitle: Список лиц - Иркутская область
@@ -40,9 +25,17 @@ sublists:
   - 151
   group_ids:
   - 0
-  pages:
-  - pageintom: '49'
-    page_image: v11/17-171-419-049.jpg
+pages:
+- pageintom: '47'
+  image: v11/17-171-419-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v11/17-171-419-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v11/17-171-419-049.jpg
+  sublists:
+  - sublid: '616'
     persons:
     - id: '41232'
       num: '1'
@@ -124,8 +117,10 @@ sublists:
       num: '21'
       name: ГЛАДКИЙ Александр Владимирович
       spravka: true
-  - pageintom: '50'
-    page_image: v11/17-171-419-050.jpg
+- pageintom: '50'
+  image: v11/17-171-419-050.jpg
+  sublists:
+  - sublid: '616'
     persons:
     - id: '41253'
       num: '22'
@@ -230,8 +225,10 @@ sublists:
       num: '47'
       name: МАХУТОВ Платон Данилович
       spravka: true
-  - pageintom: '51'
-    page_image: v11/17-171-419-051.jpg
+- pageintom: '51'
+  image: v11/17-171-419-051.jpg
+  sublists:
+  - sublid: '616'
     persons:
     - id: '41279'
       num: '48'
@@ -334,8 +331,10 @@ sublists:
       num: '73'
       name: ТУГУТОВ Василий Иванович
       spravka: true
-  - pageintom: '52'
-    page_image: v11/17-171-419-052.jpg
+- pageintom: '52'
+  image: v11/17-171-419-052.jpg
+  sublists:
+  - sublid: '616'
     persons:
     - id: '41305'
       num: '74'
@@ -395,8 +394,10 @@ sublists:
       num: '88'
       name: ЮДИН Григорий Николаевич
       spravka: true
-  - pageintom: '53'
-    page_image: v11/17-171-419-053.jpg
+- pageintom: '53'
+  image: v11/17-171-419-053.jpg
+  sublists:
+  - sublid: '616'
     persons:
     - id: '41320'
       num: '1'

@@ -11,13 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '39'
-  image: v02/17-171-410-039.jpg
-- pageintom: '40'
-  image: v02/17-171-410-040.jpg
-- pageintom: '41'
-  image: v02/17-171-410-041.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Украинская ССР]
   listtitle: 'Список лиц: Украинская ССР'
@@ -35,9 +28,17 @@ sublists:
   - 6
   group_ids:
   - 0
-  pages:
-  - pageintom: '41'
-    page_image: v02/17-171-410-041.jpg
+pages:
+- pageintom: '39'
+  image: v02/17-171-410-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v02/17-171-410-040.jpg
+  sublists: []
+- pageintom: '41'
+  image: v02/17-171-410-041.jpg
+  sublists:
+  - sublid: '29'
     persons:
     - id: '3837'
       num: '1'

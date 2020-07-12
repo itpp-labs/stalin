@@ -13,15 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '189'
-  image: v08/17-171-416-189.jpg
-- pageintom: '190'
-  image: v08/17-171-416-190.jpg
-- pageintom: '191'
-  image: v08/17-171-416-191.jpg
-- pageintom: '192'
-  image: v08/17-171-416-192.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [г.Куйбышев-Куйбышевская ж.д.]
   listtitle: Список лиц - г.Куйбышев-Куйбышевская ж.д.
@@ -35,9 +26,17 @@ sublists:
   - 128
   group_ids:
   - 13
-  pages:
-  - pageintom: '191'
-    page_image: v08/17-171-416-191.jpg
+pages:
+- pageintom: '189'
+  image: v08/17-171-416-189.jpg
+  sublists: []
+- pageintom: '190'
+  image: v08/17-171-416-190.jpg
+  sublists: []
+- pageintom: '191'
+  image: v08/17-171-416-191.jpg
+  sublists:
+  - sublid: '559'
     persons:
     - id: '31489'
       num: '1'
@@ -72,8 +71,10 @@ sublists:
       num: '8'
       name: ШТОББЕ Александр Генрихович
       spravka: true
-  - pageintom: '192'
-    page_image: v08/17-171-416-192.jpg
+- pageintom: '192'
+  image: v08/17-171-416-192.jpg
+  sublists:
+  - sublid: '559'
     persons:
     - id: '31497'
       num: '1'

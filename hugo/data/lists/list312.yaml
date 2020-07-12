@@ -13,29 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '193'
-  image: v08/17-171-416-193.jpg
-- pageintom: '194'
-  image: v08/17-171-416-194.jpg
-- pageintom: '195'
-  image: v08/17-171-416-195.jpg
-- pageintom: '196'
-  image: v08/17-171-416-196.jpg
-- pageintom: '197'
-  image: v08/17-171-416-197.jpg
-- pageintom: '198'
-  image: v08/17-171-416-198.jpg
-- pageintom: '199'
-  image: v08/17-171-416-199.jpg
-- pageintom: '200'
-  image: v08/17-171-416-200.jpg
-- pageintom: '201'
-  image: v08/17-171-416-201.jpg
-- pageintom: '202'
-  image: v08/17-171-416-202.jpg
-- pageintom: '203'
-  image: v08/17-171-416-203.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Краснодарский край]
   listtitle: Список лиц - Краснодарский край
@@ -49,9 +26,17 @@ sublists:
   - 145
   group_ids:
   - 0
-  pages:
-  - pageintom: '195'
-    page_image: v08/17-171-416-195.jpg
+pages:
+- pageintom: '193'
+  image: v08/17-171-416-193.jpg
+  sublists: []
+- pageintom: '194'
+  image: v08/17-171-416-194.jpg
+  sublists: []
+- pageintom: '195'
+  image: v08/17-171-416-195.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31504'
       num: '1'
@@ -146,8 +131,10 @@ sublists:
       num: '23'
       name: ГАЛКИН Петр Григорьевич
       spravka: true
-  - pageintom: '196'
-    page_image: v08/17-171-416-196.jpg
+- pageintom: '196'
+  image: v08/17-171-416-196.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31527'
       num: '24'
@@ -263,8 +250,10 @@ sublists:
       num: '52'
       name: КАРАХАЛИС Николай Георгиевич
       spravka: true
-  - pageintom: '197'
-    page_image: v08/17-171-416-197.jpg
+- pageintom: '197'
+  image: v08/17-171-416-197.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31556'
       num: '53'
@@ -371,8 +360,10 @@ sublists:
       num: '79'
       name: ЛЕБЕДЕВ Павел Михайлович
       spravka: true
-  - pageintom: '198'
-    page_image: v08/17-171-416-198.jpg
+- pageintom: '198'
+  image: v08/17-171-416-198.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31583'
       num: '80'
@@ -482,8 +473,10 @@ sublists:
       num: '106'
       name: ПОПОВ Виталий Григорьевич
       spravka: true
-  - pageintom: '199'
-    page_image: v08/17-171-416-199.jpg
+- pageintom: '199'
+  image: v08/17-171-416-199.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31610'
       num: '107'
@@ -595,8 +588,10 @@ sublists:
       num: '134'
       name: СОКОЛОВ Павел Яковлевич
       spravka: true
-  - pageintom: '200'
-    page_image: v08/17-171-416-200.jpg
+- pageintom: '200'
+  image: v08/17-171-416-200.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31638'
       num: '135'
@@ -702,8 +697,10 @@ sublists:
       num: '161'
       name: ЧИРКОВ Александр Николаевич
       spravka: true
-  - pageintom: '201'
-    page_image: v08/17-171-416-201.jpg
+- pageintom: '201'
+  image: v08/17-171-416-201.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31665'
       num: '162'
@@ -733,8 +730,10 @@ sublists:
       num: '168'
       name: ЮРЬЕВ Николай Алексеевич
       spravka: true
-  - pageintom: '202'
-    page_image: v08/17-171-416-202.jpg
+- pageintom: '202'
+  image: v08/17-171-416-202.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31672'
       num: '1'
@@ -822,8 +821,10 @@ sublists:
       num: '21'
       name: ТАМАРОВ Василий Никифорович
       spravka: true
-  - pageintom: '203'
-    page_image: v08/17-171-416-203.jpg
+- pageintom: '203'
+  image: v08/17-171-416-203.jpg
+  sublists:
+  - sublid: '560'
     persons:
     - id: '31693'
       num: '22'

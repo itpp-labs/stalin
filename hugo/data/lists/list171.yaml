@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '111'
-  image: v09/17-171-417-111.jpg
-- pageintom: '112'
-  image: v09/17-171-417-112.jpg
-- pageintom: '113'
-  image: v09/17-171-417-113.jpg
-- pageintom: '114'
-  image: v09/17-171-417-114.jpg
-- pageintom: '115'
-  image: v09/17-171-417-115.jpg
-- pageintom: '116'
-  image: v09/17-171-417-116.jpg
-- pageintom: '117'
-  image: v09/17-171-417-117.jpg
 sublists:
 - title: Список от 10.VI.38г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область
@@ -39,9 +24,17 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '113'
-    page_image: v09/17-171-417-113.jpg
+pages:
+- pageintom: '111'
+  image: v09/17-171-417-111.jpg
+  sublists: []
+- pageintom: '112'
+  image: v09/17-171-417-112.jpg
+  sublists: []
+- pageintom: '113'
+  image: v09/17-171-417-113.jpg
+  sublists:
+  - sublid: '112'
     persons:
     - id: '34797'
       num: '1'
@@ -115,8 +108,10 @@ sublists:
     - id: '34816'
       num: '20'
       name: ГЕРАСИМОВ Климентий Иванович
-  - pageintom: '114'
-    page_image: v09/17-171-417-114.jpg
+- pageintom: '114'
+  image: v09/17-171-417-114.jpg
+  sublists:
+  - sublid: '112'
     persons:
     - id: '34817'
       num: '21'
@@ -214,8 +209,10 @@ sublists:
     - id: '34843'
       num: '47'
       name: МОИСИЕВИЧ Григорий Максимович
-  - pageintom: '115'
-    page_image: v09/17-171-417-115.jpg
+- pageintom: '115'
+  image: v09/17-171-417-115.jpg
+  sublists:
+  - sublid: '112'
     persons:
     - id: '34844'
       num: '48'
@@ -307,8 +304,10 @@ sublists:
       num: '73'
       name: УРБАНОВИЧ Евгений Викентьевич
       spravka: true
-  - pageintom: '116'
-    page_image: v09/17-171-417-116.jpg
+- pageintom: '116'
+  image: v09/17-171-417-116.jpg
+  sublists:
+  - sublid: '112'
     persons:
     - id: '34870'
       num: '74'
@@ -347,8 +346,10 @@ sublists:
       num: '84'
       name: ШУДРОВ Константин Иванович
       spravka: true
-  - pageintom: '117'
-    page_image: v09/17-171-417-117.jpg
+- pageintom: '117'
+  image: v09/17-171-417-117.jpg
+  sublists:
+  - sublid: '112'
     persons:
     - id: '34881'
       num: '1'

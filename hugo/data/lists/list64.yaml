@@ -14,23 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   kosior: true
-pages:
-- pageintom: '241'
-  image: v02/17-171-410-241.jpg
-- pageintom: '242'
-  image: v02/17-171-410-242.jpg
-- pageintom: '243'
-  image: v02/17-171-410-243.jpg
-- pageintom: '244'
-  image: v02/17-171-410-244.jpg
-- pageintom: '245'
-  image: v02/17-171-410-245.jpg
-- pageintom: '246'
-  image: v02/17-171-410-246.jpg
-- pageintom: '247'
-  image: v02/17-171-410-247.jpg
-- pageintom: '248'
-  image: v02/17-171-410-248.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Сталинградская обл.]
   listtitle: 'Список лиц: Сталинградская обл.'
@@ -45,9 +28,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '243'
-    page_image: v02/17-171-410-243.jpg
+pages:
+- pageintom: '241'
+  image: v02/17-171-410-241.jpg
+  sublists: []
+- pageintom: '242'
+  image: v02/17-171-410-242.jpg
+  sublists: []
+- pageintom: '243'
+  image: v02/17-171-410-243.jpg
+  sublists:
+  - sublid: '46'
     persons:
     - id: '6077'
       num: '1'
@@ -152,8 +143,10 @@ sublists:
       num: '26'
       name: КРАСНОВ Захар Иванович
       spravka: true
-  - pageintom: '244'
-    page_image: v02/17-171-410-244.jpg
+- pageintom: '244'
+  image: v02/17-171-410-244.jpg
+  sublists:
+  - sublid: '46'
     persons:
     - id: '6103'
       num: '27'
@@ -242,8 +235,10 @@ sublists:
       num: '48'
       name: ЯЦКИН Николай Иванович
       spravka: true
-  - pageintom: '245'
-    page_image: v02/17-171-410-245.jpg
+- pageintom: '245'
+  image: v02/17-171-410-245.jpg
+  sublists:
+  - sublid: '46'
     persons:
     - id: '6125'
       num: '1'
@@ -257,8 +252,16 @@ sublists:
       name: ГЮБНЕР Иоганн Бейта
       gb_spravka: true
       spravka: true
-  - pageintom: '248'
-    page_image: v02/17-171-410-248.jpg
+- pageintom: '246'
+  image: v02/17-171-410-246.jpg
+  sublists: []
+- pageintom: '247'
+  image: v02/17-171-410-247.jpg
+  sublists: []
+- pageintom: '248'
+  image: v02/17-171-410-248.jpg
+  sublists:
+  - sublid: '46'
     persons:
     - id: '6127'
       num: '1'

@@ -13,33 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '28'
-  image: v08/17-171-416-028.jpg
-- pageintom: '29'
-  image: v08/17-171-416-029.jpg
-- pageintom: '30'
-  image: v08/17-171-416-030.jpg
-- pageintom: '31'
-  image: v08/17-171-416-031.jpg
-- pageintom: '32'
-  image: v08/17-171-416-032.jpg
-- pageintom: '33'
-  image: v08/17-171-416-033.jpg
-- pageintom: '34'
-  image: v08/17-171-416-034.jpg
-- pageintom: '35'
-  image: v08/17-171-416-035.jpg
-- pageintom: '36'
-  image: v08/17-171-416-036.jpg
-- pageintom: '37'
-  image: v08/17-171-416-037.jpg
-- pageintom: '38'
-  image: v08/17-171-416-038.jpg
-- pageintom: '39'
-  image: v08/17-171-416-039.jpg
-- pageintom: '40'
-  image: v08/17-171-416-040.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,Московская область
@@ -54,9 +27,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '30'
-    page_image: v08/17-171-416-030.jpg
+- title: Список от 19 апреля 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр,Московская область
+  sublisttitle: Московская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '28'
+  image: v08/17-171-416-028.jpg
+  sublists: []
+- pageintom: '29'
+  image: v08/17-171-416-029.jpg
+  sublists: []
+- pageintom: '30'
+  image: v08/17-171-416-030.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '29568'
       num: '1'
@@ -155,8 +148,10 @@ sublists:
       num: '23'
       name: ГРЮНБЕРГ Юлий Густавович
       spravka: true
-  - pageintom: '31'
-    page_image: v08/17-171-416-031.jpg
+- pageintom: '31'
+  image: v08/17-171-416-031.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '29591'
       num: '24'
@@ -271,8 +266,10 @@ sublists:
       num: '51'
       name: МЕДАЛЬЕ Шмер Лейба Янкелевич
       spravka: true
-  - pageintom: '32'
-    page_image: v08/17-171-416-032.jpg
+- pageintom: '32'
+  image: v08/17-171-416-032.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '36136'
       num: '52'
@@ -397,8 +394,10 @@ sublists:
       num: '80'
       name: ТАНАКА, он же ЯМОМОТО КЕНДЗО
       spravka: true
-  - pageintom: '33'
-    page_image: v08/17-171-416-033.jpg
+- pageintom: '33'
+  image: v08/17-171-416-033.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '29648'
       num: '81'
@@ -484,8 +483,10 @@ sublists:
       num: '100'
       name: ЯНУШЕВСКИЙ Диодор Михайлович
       spravka: true
-  - pageintom: '34'
-    page_image: v08/17-171-416-034.jpg
+- pageintom: '34'
+  image: v08/17-171-416-034.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '29668'
       num: '1'
@@ -508,8 +509,22 @@ sublists:
       num: '4'
       name: ХАСАН ОГЛЫ АХМЕД ДЖЕМАЛЬ, он же АХМЕД БЕКИР АЛЕКС ОГЛЫ
       gb_spravka: true
-  - pageintom: '39'
-    page_image: v08/17-171-416-039.jpg
+- pageintom: '35'
+  image: v08/17-171-416-035.jpg
+  sublists: []
+- pageintom: '36'
+  image: v08/17-171-416-036.jpg
+  sublists: []
+- pageintom: '37'
+  image: v08/17-171-416-037.jpg
+  sublists: []
+- pageintom: '38'
+  image: v08/17-171-416-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v08/17-171-416-039.jpg
+  sublists:
+  - sublid: '580'
     persons:
     - id: '29672'
       num: '1'
@@ -535,21 +550,10 @@ sublists:
     - id: '29678'
       num: '7'
       name: ШАХТ Клавдия Максимовна
-- title: Список от 19 апреля 1938г. [Московская область]
-  listtitle: Список лиц - Москва-центр,Московская область
-  sublisttitle: Московская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '40'
-    page_image: v08/17-171-416-040.jpg
+- pageintom: '40'
+  image: v08/17-171-416-040.jpg
+  sublists:
+  - sublid: '581'
     persons:
     - id: '29679'
       num: '1'

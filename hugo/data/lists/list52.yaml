@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '138'
-  image: v02/17-171-410-138.jpg
-- pageintom: '139'
-  image: v02/17-171-410-139.jpg
-- pageintom: '140'
-  image: v02/17-171-410-140.jpg
-- pageintom: '141'
-  image: v02/17-171-410-141.jpg
-- pageintom: '142'
-  image: v02/17-171-410-142.jpg
-- pageintom: '143'
-  image: v02/17-171-410-143.jpg
 sublists:
 - title: Список от 31 июля 1937 г. [Свердловская обл.]
   listtitle: 'Список лиц: Свердловская обл.'
@@ -40,9 +27,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '140'
-    page_image: v02/17-171-410-140.jpg
+pages:
+- pageintom: '138'
+  image: v02/17-171-410-138.jpg
+  sublists: []
+- pageintom: '139'
+  image: v02/17-171-410-139.jpg
+  sublists: []
+- pageintom: '140'
+  image: v02/17-171-410-140.jpg
+  sublists:
+  - sublid: '37'
     persons:
     - id: '4741'
       num: '1'
@@ -150,8 +145,10 @@ sublists:
       num: '26'
       name: КАРИН Борис Алексеевич
       spravka: true
-  - pageintom: '141'
-    page_image: v02/17-171-410-141.jpg
+- pageintom: '141'
+  image: v02/17-171-410-141.jpg
+  sublists:
+  - sublid: '37'
     persons:
     - id: '4767'
       num: '27'
@@ -265,8 +262,10 @@ sublists:
       num: '54'
       name: ПЫСТОГОВ Илларион Григорьевич
       spravka: true
-  - pageintom: '142'
-    page_image: v02/17-171-410-142.jpg
+- pageintom: '142'
+  image: v02/17-171-410-142.jpg
+  sublists:
+  - sublid: '37'
     persons:
     - id: '4795'
       num: '55'
@@ -324,8 +323,10 @@ sublists:
       num: '68'
       name: ШАРАПОВ Петр Иванович
       spravka: true
-  - pageintom: '143'
-    page_image: v02/17-171-410-143.jpg
+- pageintom: '143'
+  image: v02/17-171-410-143.jpg
+  sublists:
+  - sublid: '37'
     persons:
     - id: '4809'
       num: '1'

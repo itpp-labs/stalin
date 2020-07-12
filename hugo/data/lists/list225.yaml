@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '57'
-  image: v03/17-171-411-057.jpg
-- pageintom: '58'
-  image: v03/17-171-411-058.jpg
-- pageintom: '59'
-  image: v03/17-171-411-059.jpg
-- pageintom: '60'
-  image: v03/17-171-411-060.jpg
-- pageintom: '61'
-  image: v03/17-171-411-061.jpg
-- pageintom: '62'
-  image: v03/17-171-411-062.jpg
-- pageintom: '63'
-  image: v03/17-171-411-063.jpg
-- pageintom: '64'
-  image: v03/17-171-411-064.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Челябинская область]
   listtitle: 'Список лиц: Челябинская область'
@@ -42,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '59'
-    page_image: v03/17-171-411-059.jpg
+pages:
+- pageintom: '57'
+  image: v03/17-171-411-057.jpg
+  sublists: []
+- pageintom: '58'
+  image: v03/17-171-411-058.jpg
+  sublists: []
+- pageintom: '59'
+  image: v03/17-171-411-059.jpg
+  sublists:
+  - sublid: '348'
     persons:
     - id: '8253'
       num: '1'
@@ -136,8 +127,10 @@ sublists:
       num: '24'
       name: ШИЛОВ Григорий Андреевич
       spravka: true
-  - pageintom: '60'
-    page_image: v03/17-171-411-060.jpg
+- pageintom: '60'
+  image: v03/17-171-411-060.jpg
+  sublists:
+  - sublid: '348'
     persons:
     - id: '8277'
       num: '1'
@@ -145,8 +138,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>ЧЕЛЯБИНСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
-  - pageintom: '62'
-    page_image: v03/17-171-411-062.jpg
+- pageintom: '61'
+  image: v03/17-171-411-061.jpg
+  sublists: []
+- pageintom: '62'
+  image: v03/17-171-411-062.jpg
+  sublists:
+  - sublid: '348'
     persons:
     - id: '8278'
       num: '1'
@@ -175,8 +173,10 @@ sublists:
     - id: '8284'
       num: '7'
       name: ХУТОРСКОЙ Дмитрий Петрович
-  - pageintom: '63'
-    page_image: v03/17-171-411-063.jpg
+- pageintom: '63'
+  image: v03/17-171-411-063.jpg
+  sublists:
+  - sublid: '348'
     persons:
     - id: '8285'
       num: '1'
@@ -185,3 +185,6 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>ЧЕЛЯБИНСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>2-я категория</u>
+- pageintom: '64'
+  image: v03/17-171-411-064.jpg
+  sublists: []

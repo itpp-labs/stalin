@@ -14,23 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '167'
-  image: v02/17-171-410-167.jpg
-- pageintom: '168'
-  image: v02/17-171-410-168.jpg
-- pageintom: '169'
-  image: v02/17-171-410-169.jpg
-- pageintom: '170'
-  image: v02/17-171-410-170.jpg
-- pageintom: '171'
-  image: v02/17-171-410-171.jpg
-- pageintom: '172'
-  image: v02/17-171-410-172.jpg
-- pageintom: '173'
-  image: v02/17-171-410-173.jpg
-- pageintom: '174'
-  image: v02/17-171-410-174.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Азово-Черноморский край]
   listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
@@ -45,9 +28,56 @@ sublists:
   - 10
   group_ids:
   - 0
-  pages:
-  - pageintom: '169'
-    page_image: v02/17-171-410-169.jpg
+- title: Список от 10 августа 1937 г. [Западно-Сибирский край]
+  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
+    Верхне-Уральская т-ма ОН'
+  sublisttitle: Западно-Сибирский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 31
+  geosub_ids:
+  - 9
+  group_ids:
+  - 0
+- title: Список от 10 августа 1937 г. [Красноярский край]
+  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
+    Верхне-Уральская т-ма ОН'
+  sublisttitle: Красноярский край
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 13
+  group_ids:
+  - 0
+- title: Список от 10 августа 1937 г. [Верхне-Уральская т-ма Особого Назначения]
+  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
+    Верхне-Уральская т-ма ОН'
+  sublisttitle: Верхне-Уральская т-ма Особого Назначения
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 17
+  geosub_ids:
+  - 50
+  group_ids:
+  - 14
+pages:
+- pageintom: '167'
+  image: v02/17-171-410-167.jpg
+  sublists: []
+- pageintom: '168'
+  image: v02/17-171-410-168.jpg
+  sublists: []
+- pageintom: '169'
+  image: v02/17-171-410-169.jpg
+  sublists:
+  - sublid: '198'
     persons:
     - id: '5028'
       num: '1'
@@ -64,22 +94,10 @@ sublists:
     - id: '5031'
       num: '4'
       name: НИКИТИН Владимир Кузьмич
-- title: Список от 10 августа 1937 г. [Западно-Сибирский край]
-  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
-    Верхне-Уральская т-ма ОН'
-  sublisttitle: Западно-Сибирский край
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 31
-  geosub_ids:
-  - 9
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '170'
-    page_image: v02/17-171-410-170.jpg
+- pageintom: '170'
+  image: v02/17-171-410-170.jpg
+  sublists:
+  - sublid: '199'
     persons:
     - id: '31011'
       num: '1'
@@ -100,8 +118,10 @@ sublists:
       num: '4'
       name: ФИСУН Петр Артемьевич
       spravka: true
-  - pageintom: '171'
-    page_image: v02/17-171-410-171.jpg
+- pageintom: '171'
+  image: v02/17-171-410-171.jpg
+  sublists:
+  - sublid: '199'
     persons:
     - id: '5036'
       num: '1'
@@ -113,22 +133,10 @@ sublists:
       num: '2'
       name: ПРОКОПЕНКО Осанна Христофоровна
       spravka: true
-- title: Список от 10 августа 1937 г. [Красноярский край]
-  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
-    Верхне-Уральская т-ма ОН'
-  sublisttitle: Красноярский край
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 13
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '172'
-    page_image: v02/17-171-410-172.jpg
+- pageintom: '172'
+  image: v02/17-171-410-172.jpg
+  sublists:
+  - sublid: '200'
     persons:
     - id: '5038'
       num: '1'
@@ -140,8 +148,10 @@ sublists:
       num: '2'
       name: СЕМИН-АЛЕКСАНДРОВСКИЙ Иван Макарович
       spravka: true
-  - pageintom: '173'
-    page_image: v02/17-171-410-173.jpg
+- pageintom: '173'
+  image: v02/17-171-410-173.jpg
+  sublists:
+  - sublid: '200'
     persons:
     - id: '5040'
       num: '1'
@@ -153,22 +163,10 @@ sublists:
       num: '2'
       name: ОВЧИННИКОВ Павел Павлович
       spravka: true
-- title: Список от 10 августа 1937 г. [Верхне-Уральская т-ма Особого Назначения]
-  listtitle: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края,
-    Верхне-Уральская т-ма ОН'
-  sublisttitle: Верхне-Уральская т-ма Особого Назначения
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 17
-  geosub_ids:
-  - 50
-  group_ids:
-  - 14
-  pages:
-  - pageintom: '174'
-    page_image: v02/17-171-410-174.jpg
+- pageintom: '174'
+  image: v02/17-171-410-174.jpg
+  sublists:
+  - sublid: '201'
     persons:
     - id: '5042'
       num: '1'

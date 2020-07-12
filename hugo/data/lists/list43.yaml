@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '65'
-  image: v02/17-171-410-065.jpg
-- pageintom: '66'
-  image: v02/17-171-410-066.jpg
-- pageintom: '67'
-  image: v02/17-171-410-067.jpg
-- pageintom: '68'
-  image: v02/17-171-410-068.jpg
-- pageintom: '69'
-  image: v02/17-171-410-069.jpg
 sublists:
 - title: Список от 20 июля 1937 г. [Челябинская обл.]
   listtitle: 'Список лиц: Челябинская обл.'
@@ -37,9 +26,14 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '66'
-    page_image: v02/17-171-410-066.jpg
+pages:
+- pageintom: '65'
+  image: v02/17-171-410-065.jpg
+  sublists: []
+- pageintom: '66'
+  image: v02/17-171-410-066.jpg
+  sublists:
+  - sublid: '33'
     persons:
     - id: '4139'
       num: '1'
@@ -133,8 +127,10 @@ sublists:
     - id: '4162'
       num: '24'
       name: РЫКОВ Сергей Федорович
-  - pageintom: '67'
-    page_image: v02/17-171-410-067.jpg
+- pageintom: '67'
+  image: v02/17-171-410-067.jpg
+  sublists:
+  - sublid: '33'
     persons:
     - id: '4163'
       num: '25'
@@ -153,8 +149,10 @@ sublists:
       num: '29'
       name: ЩЕРБАКОВ Степан Дмитриевич
       spravka: true
-  - pageintom: '68'
-    page_image: v02/17-171-410-068.jpg
+- pageintom: '68'
+  image: v02/17-171-410-068.jpg
+  sublists:
+  - sublid: '33'
     persons:
     - id: '4168'
       num: '1'
@@ -193,8 +191,10 @@ sublists:
       num: '9'
       name: ШИБАЕВ Павел Илларионович
       spravka: true
-  - pageintom: '69'
-    page_image: v02/17-171-410-069.jpg
+- pageintom: '69'
+  image: v02/17-171-410-069.jpg
+  sublists:
+  - sublid: '33'
     persons:
     - id: '4177'
       num: '1'

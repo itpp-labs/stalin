@@ -13,13 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '84'
-  image: v07/17-171-415-084.jpg
-- pageintom: '85'
-  image: v07/17-171-415-085.jpg
-- pageintom: '86'
-  image: v07/17-171-415-086.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
   listtitle: Список лиц -Москва-центр
@@ -33,9 +26,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '86'
-    page_image: v07/17-171-415-086.jpg
+pages:
+- pageintom: '84'
+  image: v07/17-171-415-084.jpg
+  sublists: []
+- pageintom: '85'
+  image: v07/17-171-415-085.jpg
+  sublists: []
+- pageintom: '86'
+  image: v07/17-171-415-086.jpg
+  sublists:
+  - sublid: '486'
     persons:
     - id: '26658'
       num: '1'

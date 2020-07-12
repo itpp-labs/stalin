@@ -13,15 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '229'
-  image: v08/17-171-416-229.jpg
-- pageintom: '230'
-  image: v08/17-171-416-230.jpg
-- pageintom: '231'
-  image: v08/17-171-416-231.jpg
-- pageintom: '232'
-  image: v08/17-171-416-232.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Архангельская область]
   listtitle: Список лиц - Архангельская область
@@ -35,9 +26,17 @@ sublists:
   - 131
   group_ids:
   - 0
-  pages:
-  - pageintom: '231'
-    page_image: v08/17-171-416-231.jpg
+pages:
+- pageintom: '229'
+  image: v08/17-171-416-229.jpg
+  sublists: []
+- pageintom: '230'
+  image: v08/17-171-416-230.jpg
+  sublists: []
+- pageintom: '231'
+  image: v08/17-171-416-231.jpg
+  sublists:
+  - sublid: '564'
     persons:
     - id: '31977'
       num: '1'
@@ -94,8 +93,10 @@ sublists:
       num: '14'
       name: ТЧАННИКОВ Федор Иванович
       spravka: true
-  - pageintom: '232'
-    page_image: v08/17-171-416-232.jpg
+- pageintom: '232'
+  image: v08/17-171-416-232.jpg
+  sublists:
+  - sublid: '564'
     persons:
     - id: '31991'
       num: '1'

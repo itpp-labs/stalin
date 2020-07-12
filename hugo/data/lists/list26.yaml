@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '199'
-  image: v01/17-171-409-199.jpg
-- pageintom: '200'
-  image: v01/17-171-409-200.jpg
-- pageintom: '201'
-  image: v01/17-171-409-201.jpg
-- pageintom: '202'
-  image: v01/17-171-409-202.jpg
-- pageintom: '203'
-  image: v01/17-171-409-203.jpg
 sublists:
 - title: Список от 25 июня 1937 г. [Армения]
   listtitle: Список лиц - Армения
@@ -37,9 +26,17 @@ sublists:
   - 28
   group_ids:
   - 0
-  pages:
-  - pageintom: '201'
-    page_image: v01/17-171-409-201.jpg
+pages:
+- pageintom: '199'
+  image: v01/17-171-409-199.jpg
+  sublists: []
+- pageintom: '200'
+  image: v01/17-171-409-200.jpg
+  sublists: []
+- pageintom: '201'
+  image: v01/17-171-409-201.jpg
+  sublists:
+  - sublid: '23'
     persons:
     - id: '2998'
       num: '1'
@@ -86,8 +83,10 @@ sublists:
       num: '11'
       name: ХАЧАТРЯН Мнацакан (Мнац) Оганесович
       spravka: true
-  - pageintom: '202'
-    page_image: v01/17-171-409-202.jpg
+- pageintom: '202'
+  image: v01/17-171-409-202.jpg
+  sublists:
+  - sublid: '23'
     persons:
     - id: '3009'
       num: '1'
@@ -125,8 +124,10 @@ sublists:
     - id: '3017'
       num: '9'
       name: МАХБАЗЯН Сатрак Овсепович
-  - pageintom: '203'
-    page_image: v01/17-171-409-203.jpg
+- pageintom: '203'
+  image: v01/17-171-409-203.jpg
+  sublists:
+  - sublid: '23'
     persons:
     - id: '3018'
       num: '1'

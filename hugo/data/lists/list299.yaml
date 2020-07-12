@@ -13,21 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '109'
-  image: v08/17-171-416-109.jpg
-- pageintom: '110'
-  image: v08/17-171-416-110.jpg
-- pageintom: '111'
-  image: v08/17-171-416-111.jpg
-- pageintom: '112'
-  image: v08/17-171-416-112.jpg
-- pageintom: '113'
-  image: v08/17-171-416-113.jpg
-- pageintom: '114'
-  image: v08/17-171-416-114.jpg
-- pageintom: '115'
-  image: v08/17-171-416-115.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -41,9 +26,17 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '111'
-    page_image: v08/17-171-416-111.jpg
+pages:
+- pageintom: '109'
+  image: v08/17-171-416-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v08/17-171-416-110.jpg
+  sublists: []
+- pageintom: '111'
+  image: v08/17-171-416-111.jpg
+  sublists:
+  - sublid: '550'
     persons:
     - id: '30504'
       num: '1'
@@ -124,8 +117,10 @@ sublists:
       num: '20'
       name: ГРИНШПУН Григорий Лазаревич
       spravka: true
-  - pageintom: '112'
-    page_image: v08/17-171-416-112.jpg
+- pageintom: '112'
+  image: v08/17-171-416-112.jpg
+  sublists:
+  - sublid: '550'
     persons:
     - id: '30524'
       num: '21'
@@ -241,8 +236,10 @@ sublists:
     - id: '30553'
       num: '50'
       name: РЕМИЗОВ Павел Николаевич
-  - pageintom: '113'
-    page_image: v08/17-171-416-113.jpg
+- pageintom: '113'
+  image: v08/17-171-416-113.jpg
+  sublists:
+  - sublid: '550'
     persons:
     - id: '30554'
       num: '51'
@@ -326,8 +323,10 @@ sublists:
     - id: '30578'
       num: '75'
       name: ЮСТИФЕЕВ Федор Александрович
-  - pageintom: '114'
-    page_image: v08/17-171-416-114.jpg
+- pageintom: '114'
+  image: v08/17-171-416-114.jpg
+  sublists:
+  - sublid: '550'
     persons:
     - id: '30579'
       num: '1'
@@ -391,8 +390,10 @@ sublists:
     - id: '30594'
       num: '16'
       name: ТИХОМИРОВ Василий Федорович
-  - pageintom: '115'
-    page_image: v08/17-171-416-115.jpg
+- pageintom: '115'
+  image: v08/17-171-416-115.jpg
+  sublists:
+  - sublid: '550'
     persons:
     - id: '30595'
       num: '17'

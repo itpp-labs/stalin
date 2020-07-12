@@ -13,29 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '56'
-  image: v05/17-171-413-056.jpg
-- pageintom: '57'
-  image: v05/17-171-413-057.jpg
-- pageintom: '58'
-  image: v05/17-171-413-058.jpg
-- pageintom: '59'
-  image: v05/17-171-413-059.jpg
-- pageintom: '60'
-  image: v05/17-171-413-060.jpg
-- pageintom: '61'
-  image: v05/17-171-413-061.jpg
-- pageintom: '62'
-  image: v05/17-171-413-062.jpg
-- pageintom: '63'
-  image: v05/17-171-413-063.jpg
-- pageintom: '64'
-  image: v05/17-171-413-064.jpg
-- pageintom: '65'
-  image: v05/17-171-413-065.jpg
-- pageintom: '66'
-  image: v05/17-171-413-066.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
@@ -50,9 +27,69 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '58'
-    page_image: v05/17-171-413-058.jpg
+- title: Список от 22 ноября 1937г. [Калининская область]
+  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
+    - Горьковская ж.д., Смоленская область
+  sublisttitle: Калининская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 46
+  group_ids:
+  - 0
+- title: Список от 22 ноября 1937г. [Крымская АССР]
+  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
+    - Горьковская ж.д., Смоленская область
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+- title: Список от 22 ноября 1937г. [Горький - Горьковская ж.д.]
+  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
+    - Горьковская ж.д., Смоленская область
+  sublisttitle: Горький - Горьковская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 27
+  geosub_ids:
+  - 99
+  group_ids:
+  - 13
+- title: Список от 22 ноября 1937г. [Смоленская область]
+  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
+    - Горьковская ж.д., Смоленская область
+  sublisttitle: Смоленская область
+  kat1: false
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 93
+  group_ids:
+  - 0
+pages:
+- pageintom: '56'
+  image: v05/17-171-413-056.jpg
+  sublists: []
+- pageintom: '57'
+  image: v05/17-171-413-057.jpg
+  sublists: []
+- pageintom: '58'
+  image: v05/17-171-413-058.jpg
+  sublists:
+  - sublid: '259'
     persons:
     - id: '14849'
       num: '1'
@@ -135,8 +172,10 @@ sublists:
       num: '20'
       name: ЯМЩИКОВ Александр Иванович
       spravka: true
-  - pageintom: '59'
-    page_image: v05/17-171-413-059.jpg
+- pageintom: '59'
+  image: v05/17-171-413-059.jpg
+  sublists:
+  - sublid: '259'
     persons:
     - id: '14869'
       num: '1'
@@ -159,22 +198,10 @@ sublists:
       num: '5'
       name: ТИМОФЕИЧЕВ Леонид Александрович
       spravka: true
-- title: Список от 22 ноября 1937г. [Калининская область]
-  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
-    - Горьковская ж.д., Смоленская область
-  sublisttitle: Калининская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 35
-  geosub_ids:
-  - 46
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '60'
-    page_image: v05/17-171-413-060.jpg
+- pageintom: '60'
+  image: v05/17-171-413-060.jpg
+  sublists:
+  - sublid: '260'
     persons:
     - id: '14874'
       num: '1'
@@ -227,30 +254,20 @@ sublists:
       num: '14'
       name: ЩУКИН Анатолий Валентинович
       spravka: true
-  - pageintom: '61'
-    page_image: v05/17-171-413-061.jpg
+- pageintom: '61'
+  image: v05/17-171-413-061.jpg
+  sublists:
+  - sublid: '260'
     persons:
     - id: '14888'
       num: '1'
       name: САВЕЛЬЕВ Дмитрий Андреевич
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 22 ноября 1937г. [Крымская АССР]
-  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
-    - Горьковская ж.д., Смоленская область
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '62'
-    page_image: v05/17-171-413-062.jpg
+- pageintom: '62'
+  image: v05/17-171-413-062.jpg
+  sublists:
+  - sublid: '261'
     persons:
     - id: '14889'
       num: '1'
@@ -333,8 +350,10 @@ sublists:
     - id: '14910'
       num: '22'
       name: ЮДИЛЕВИЧ Яков Иосифович
-  - pageintom: '63'
-    page_image: v05/17-171-413-063.jpg
+- pageintom: '63'
+  image: v05/17-171-413-063.jpg
+  sublists:
+  - sublid: '261'
     persons:
     - id: '14911'
       num: '1'
@@ -349,22 +368,10 @@ sublists:
       num: '3'
       name: КРЫЖАНОВСКИЙ Михаил Иванович
       spravka: true
-- title: Список от 22 ноября 1937г. [Горький - Горьковская ж.д.]
-  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
-    - Горьковская ж.д., Смоленская область
-  sublisttitle: Горький - Горьковская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 27
-  geosub_ids:
-  - 99
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '64'
-    page_image: v05/17-171-413-064.jpg
+- pageintom: '64'
+  image: v05/17-171-413-064.jpg
+  sublists:
+  - sublid: '262'
     persons:
     - id: '14914'
       num: '1'
@@ -390,8 +397,10 @@ sublists:
       num: '6'
       name: ШАБАЛИН Николай Васильевич
       spravka: true
-  - pageintom: '65'
-    page_image: v05/17-171-413-065.jpg
+- pageintom: '65'
+  image: v05/17-171-413-065.jpg
+  sublists:
+  - sublid: '262'
     persons:
     - id: '14920'
       num: '1'
@@ -403,22 +412,10 @@ sublists:
       num: '2'
       name: ГАВРИЛОВ Сергей Яковлевич
       spravka: true
-- title: Список от 22 ноября 1937г. [Смоленская область]
-  listtitle: Список лиц - Ярославская, Калининская области; Крымская АССР; Горький
-    - Горьковская ж.д., Смоленская область
-  sublisttitle: Смоленская область
-  kat1: false
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 61
-  geosub_ids:
-  - 93
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '66'
-    page_image: v05/17-171-413-066.jpg
+- pageintom: '66'
+  image: v05/17-171-413-066.jpg
+  sublists:
+  - sublid: '263'
     persons:
     - id: '40118'
       num: '1'

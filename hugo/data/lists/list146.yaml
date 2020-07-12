@@ -14,21 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '327'
-  image: v05/17-171-413-327.jpg
-- pageintom: '328'
-  image: v05/17-171-413-328.jpg
-- pageintom: '329'
-  image: v05/17-171-413-329.jpg
-- pageintom: '330'
-  image: v05/17-171-413-330.jpg
-- pageintom: '331'
-  image: v05/17-171-413-331.jpg
-- pageintom: '332'
-  image: v05/17-171-413-332.jpg
-- pageintom: '333'
-  image: v05/17-171-413-333.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
@@ -42,9 +27,41 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '329'
-    page_image: v05/17-171-413-329.jpg
+- title: Список от 22 декабря 1937г. [Сталинградская область]
+  listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
+  sublisttitle: Сталинградская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 15
+  group_ids:
+  - 0
+- title: Список от 22 декабря 1937г. [Крымская АССР]
+  listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '327'
+  image: v05/17-171-413-327.jpg
+  sublists: []
+- pageintom: '328'
+  image: v05/17-171-413-328.jpg
+  sublists: []
+- pageintom: '329'
+  image: v05/17-171-413-329.jpg
+  sublists:
+  - sublid: '293'
     persons:
     - id: '18660'
       num: '1'
@@ -88,8 +105,10 @@ sublists:
       num: '10'
       name: ШТЕССЕЛЬ Иван Францевич
       spravka: true
-  - pageintom: '330'
-    page_image: v05/17-171-413-330.jpg
+- pageintom: '330'
+  image: v05/17-171-413-330.jpg
+  sublists:
+  - sublid: '293'
     persons:
     - id: '18670'
       num: '1'
@@ -125,21 +144,10 @@ sublists:
       num: '8'
       name: ЯНУШКЕВИЧ Николай Павлович
       spravka: true
-- title: Список от 22 декабря 1937г. [Сталинградская область]
-  listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
-  sublisttitle: Сталинградская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 62
-  geosub_ids:
-  - 15
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '331'
-    page_image: v05/17-171-413-331.jpg
+- pageintom: '331'
+  image: v05/17-171-413-331.jpg
+  sublists:
+  - sublid: '294'
     persons:
     - id: '18678'
       num: '1'
@@ -190,8 +198,10 @@ sublists:
     - id: '18690'
       num: '13'
       name: ЦАТХАЛАНГОВ Анир Цатхалангович
-  - pageintom: '332'
-    page_image: v05/17-171-413-332.jpg
+- pageintom: '332'
+  image: v05/17-171-413-332.jpg
+  sublists:
+  - sublid: '294'
     persons:
     - id: '18691'
       num: '1'
@@ -205,21 +215,10 @@ sublists:
     - id: '18693'
       num: '3'
       name: ЧАБАНОВ Дорджи Убушиевич
-- title: Список от 22 декабря 1937г. [Крымская АССР]
-  listtitle: Список лиц - Ярославская область, Сталинградская область, Крымская АССР
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '333'
-    page_image: v05/17-171-413-333.jpg
+- pageintom: '333'
+  image: v05/17-171-413-333.jpg
+  sublists:
+  - sublid: '295'
     persons:
     - id: '18694'
       num: '1'

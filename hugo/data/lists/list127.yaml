@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '171'
-  image: v05/17-171-413-171.jpg
-- pageintom: '172'
-  image: v05/17-171-413-172.jpg
-- pageintom: '173'
-  image: v05/17-171-413-173.jpg
-- pageintom: '174'
-  image: v05/17-171-413-174.jpg
-- pageintom: '175'
-  image: v05/17-171-413-175.jpg
-- pageintom: '176'
-  image: v05/17-171-413-176.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Чечено-Ингушской АССР]
   listtitle: Список лиц - Чечено-Ингушская АССР, Крымская АССР
@@ -38,9 +25,29 @@ sublists:
   - 108
   group_ids:
   - 0
-  pages:
-  - pageintom: '173'
-    page_image: v05/17-171-413-173.jpg
+- title: Список от 7 декабря 1937г. [Крымская АССР]
+  listtitle: Список лиц - Чечено-Ингушская АССР, Крымская АССР
+  sublisttitle: Крымская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 43
+  geosub_ids:
+  - 49
+  group_ids:
+  - 0
+pages:
+- pageintom: '171'
+  image: v05/17-171-413-171.jpg
+  sublists: []
+- pageintom: '172'
+  image: v05/17-171-413-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v05/17-171-413-173.jpg
+  sublists:
+  - sublid: '281'
     persons:
     - id: '16445'
       num: '1'
@@ -114,8 +121,10 @@ sublists:
     - id: '16467'
       num: '23'
       name: САМОЙЛЕНКО Григорий Васильевич
-  - pageintom: '174'
-    page_image: v05/17-171-413-174.jpg
+- pageintom: '174'
+  image: v05/17-171-413-174.jpg
+  sublists:
+  - sublid: '281'
     persons:
     - id: '16468'
       num: '24'
@@ -144,21 +153,10 @@ sublists:
     - id: '16476'
       num: '32'
       name: ШРЕДЕР Петр Яковлевич
-- title: Список от 7 декабря 1937г. [Крымская АССР]
-  listtitle: Список лиц - Чечено-Ингушская АССР, Крымская АССР
-  sublisttitle: Крымская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 43
-  geosub_ids:
-  - 49
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '175'
-    page_image: v05/17-171-413-175.jpg
+- pageintom: '175'
+  image: v05/17-171-413-175.jpg
+  sublists:
+  - sublid: '282'
     persons:
     - id: '16477'
       num: '1'
@@ -228,8 +226,10 @@ sublists:
       num: '17'
       name: ХАРЧЕНКО Николай Алексеевич
       spravka: true
-  - pageintom: '176'
-    page_image: v05/17-171-413-176.jpg
+- pageintom: '176'
+  image: v05/17-171-413-176.jpg
+  sublists:
+  - sublid: '282'
     persons:
     - id: '16494'
       num: '1'

@@ -14,21 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '314'
-  image: v06/17-171-414-314.jpg
-- pageintom: '315'
-  image: v06/17-171-414-315.jpg
-- pageintom: '316'
-  image: v06/17-171-414-316.jpg
-- pageintom: '317'
-  image: v06/17-171-414-317.jpg
-- pageintom: '318'
-  image: v06/17-171-414-318.jpg
-- pageintom: '319'
-  image: v06/17-171-414-319.jpg
-- pageintom: '320'
-  image: v06/17-171-414-320.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
@@ -43,9 +28,56 @@ sublists:
   - 93
   group_ids:
   - 0
-  pages:
-  - pageintom: '316'
-    page_image: v06/17-171-414-316.jpg
+- title: Список от 3 февраля 1938г. [Ржев. Калининская ж.д.]
+  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
+    области
+  sublisttitle: Ржев. Калининская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 35
+  geosub_ids:
+  - 123
+  group_ids:
+  - 13
+- title: Список от 3 февраля 1938г. [Свердловская область]
+  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
+    области
+  sublisttitle: Свердловская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 58
+  geosub_ids:
+  - 11
+  group_ids:
+  - 0
+- title: Список от 3 февраля 1938г. [Сталинградская область]
+  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
+    области
+  sublisttitle: Сталинградская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 62
+  geosub_ids:
+  - 15
+  group_ids:
+  - 0
+pages:
+- pageintom: '314'
+  image: v06/17-171-414-314.jpg
+  sublists: []
+- pageintom: '315'
+  image: v06/17-171-414-315.jpg
+  sublists: []
+- pageintom: '316'
+  image: v06/17-171-414-316.jpg
+  sublists:
+  - sublid: '477'
     persons:
     - id: '23271'
       num: '1'
@@ -73,22 +105,10 @@ sublists:
       num: '6'
       name: ФУРМАН Михаил Михайлович
       spravka: true
-- title: Список от 3 февраля 1938г. [Ржев. Калининская ж.д.]
-  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
-    области
-  sublisttitle: Ржев. Калининская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 35
-  geosub_ids:
-  - 123
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '317'
-    page_image: v06/17-171-414-317.jpg
+- pageintom: '317'
+  image: v06/17-171-414-317.jpg
+  sublists:
+  - sublid: '478'
     persons:
     - id: '23277'
       num: '1'
@@ -114,8 +134,10 @@ sublists:
       num: '6'
       name: РУДЕНКО Иван Георгиевич
       spravka: true
-  - pageintom: '318'
-    page_image: v06/17-171-414-318.jpg
+- pageintom: '318'
+  image: v06/17-171-414-318.jpg
+  sublists:
+  - sublid: '478'
     persons:
     - id: '23283'
       num: '1'
@@ -123,22 +145,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>РЖЕВ. КАЛИНИНСКАЯ жел.дор.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 3 февраля 1938г. [Свердловская область]
-  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
-    области
-  sublisttitle: Свердловская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 58
-  geosub_ids:
-  - 11
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '319'
-    page_image: v06/17-171-414-319.jpg
+- pageintom: '319'
+  image: v06/17-171-414-319.jpg
+  sublists:
+  - sublid: '479'
     persons:
     - id: '23284'
       num: '1'
@@ -146,22 +156,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
-- title: Список от 3 февраля 1938г. [Сталинградская область]
-  listtitle: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
-    области
-  sublisttitle: Сталинградская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 62
-  geosub_ids:
-  - 15
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '320'
-    page_image: v06/17-171-414-320.jpg
+- pageintom: '320'
+  image: v06/17-171-414-320.jpg
+  sublists:
+  - sublid: '480'
     persons:
     - id: '23285'
       num: '1'

@@ -14,29 +14,6 @@ signs:
   molotov: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '75'
-  image: v04/17-171-412-075.jpg
-- pageintom: '76'
-  image: v04/17-171-412-076.jpg
-- pageintom: '77'
-  image: v04/17-171-412-077.jpg
-- pageintom: '78'
-  image: v04/17-171-412-078.jpg
-- pageintom: '79'
-  image: v04/17-171-412-079.jpg
-- pageintom: '80'
-  image: v04/17-171-412-080.jpg
-- pageintom: '81'
-  image: v04/17-171-412-081.jpg
-- pageintom: '82'
-  image: v04/17-171-412-082.jpg
-- pageintom: '83'
-  image: v04/17-171-412-083.jpg
-- pageintom: '84'
-  image: v04/17-171-412-084.jpg
-- pageintom: '85'
-  image: v04/17-171-412-085.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
@@ -51,9 +28,41 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '77'
-    page_image: v04/17-171-412-077.jpg
+- title: Список от 21 октября 1937г. [ДТО ГУГБ Московского узла]
+  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
+  sublisttitle: ДТО ГУГБ Московского узла
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 80
+  group_ids:
+  - 13
+- title: Список от 21 октября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '75'
+  image: v04/17-171-412-075.jpg
+  sublists: []
+- pageintom: '76'
+  image: v04/17-171-412-076.jpg
+  sublists: []
+- pageintom: '77'
+  image: v04/17-171-412-077.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11468'
       num: '1'
@@ -168,8 +177,10 @@ sublists:
       num: '27'
       name: ИВАНОВ Алексей Николаевич
       spravka: true
-  - pageintom: '78'
-    page_image: v04/17-171-412-078.jpg
+- pageintom: '78'
+  image: v04/17-171-412-078.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11495'
       num: '28'
@@ -298,8 +309,10 @@ sublists:
       num: '58'
       name: ПОНАГАЙБО Николай Дмитриевич
       spravka: true
-  - pageintom: '79'
-    page_image: v04/17-171-412-079.jpg
+- pageintom: '79'
+  image: v04/17-171-412-079.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11526'
       num: '59'
@@ -427,8 +440,10 @@ sublists:
       num: '88'
       name: ЧЕРНОСВИТОВ Алексей Алексеевич
       spravka: true
-  - pageintom: '80'
-    page_image: v04/17-171-412-080.jpg
+- pageintom: '80'
+  image: v04/17-171-412-080.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11556'
       num: '89'
@@ -466,8 +481,10 @@ sublists:
       num: '97'
       name: ЯРОШЕВИЧ Иван Казимирович
       spravka: true
-  - pageintom: '81'
-    page_image: v04/17-171-412-081.jpg
+- pageintom: '81'
+  image: v04/17-171-412-081.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11565'
       num: '1'
@@ -476,8 +493,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>МОСКВА-ЦЕНТР
         </u></p><p align="right"><u>1-я категория</u>
-  - pageintom: '83'
-    page_image: v04/17-171-412-083.jpg
+- pageintom: '82'
+  image: v04/17-171-412-082.jpg
+  sublists: []
+- pageintom: '83'
+  image: v04/17-171-412-083.jpg
+  sublists:
+  - sublid: '234'
     persons:
     - id: '11566'
       num: '1'
@@ -496,21 +518,10 @@ sublists:
     - id: '11570'
       num: '5'
       name: ФИЛИППОВ Александр Петрович
-- title: Список от 21 октября 1937г. [ДТО ГУГБ Московского узла]
-  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
-  sublisttitle: ДТО ГУГБ Московского узла
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 80
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '84'
-    page_image: v04/17-171-412-084.jpg
+- pageintom: '84'
+  image: v04/17-171-412-084.jpg
+  sublists:
+  - sublid: '235'
     persons:
     - id: '11571'
       num: '1'
@@ -593,21 +604,10 @@ sublists:
       num: '1'
       name: ГРЕЧИШНИКОВ Александр Васильевич
       subtitle1: <p align="right"><u>2-я категория</u>
-- title: Список от 21 октября 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, ДТО ГУГБ Московского узла, Московская обл.
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '85'
-    page_image: v04/17-171-412-085.jpg
+- pageintom: '85'
+  image: v04/17-171-412-085.jpg
+  sublists:
+  - sublid: '236'
     persons:
     - id: '11591'
       num: '1'

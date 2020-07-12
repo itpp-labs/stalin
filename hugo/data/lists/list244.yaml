@@ -12,29 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '197'
-  image: v03/17-171-411-197.jpg
-- pageintom: '198'
-  image: v03/17-171-411-198.jpg
-- pageintom: '199'
-  image: v03/17-171-411-199.jpg
-- pageintom: '200'
-  image: v03/17-171-411-200.jpg
-- pageintom: '201'
-  image: v03/17-171-411-201.jpg
-- pageintom: '202'
-  image: v03/17-171-411-202.jpg
-- pageintom: '203'
-  image: v03/17-171-411-203.jpg
-- pageintom: '204'
-  image: v03/17-171-411-204.jpg
-- pageintom: '205'
-  image: v03/17-171-411-205.jpg
-- pageintom: '206'
-  image: v03/17-171-411-206.jpg
-- pageintom: '207'
-  image: v03/17-171-411-207.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Азербайджанская ССР]
   listtitle: 'Список лиц: Азербайджанская ССР'
@@ -48,9 +25,17 @@ sublists:
   - 39
   group_ids:
   - 0
-  pages:
-  - pageintom: '199'
-    page_image: v03/17-171-411-199.jpg
+pages:
+- pageintom: '197'
+  image: v03/17-171-411-197.jpg
+  sublists: []
+- pageintom: '198'
+  image: v03/17-171-411-198.jpg
+  sublists: []
+- pageintom: '199'
+  image: v03/17-171-411-199.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '9933'
       num: '1'
@@ -132,8 +117,10 @@ sublists:
     - id: '9956'
       num: '24'
       name: БЕЛЕНЬКИЙ Савва Львович
-  - pageintom: '200'
-    page_image: v03/17-171-411-200.jpg
+- pageintom: '200'
+  image: v03/17-171-411-200.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '9957'
       num: '25'
@@ -222,8 +209,10 @@ sublists:
     - id: '9983'
       num: '51'
       name: ГРИГОРЬЕВ Анатолий Лукьянович
-  - pageintom: '201'
-    page_image: v03/17-171-411-201.jpg
+- pageintom: '201'
+  image: v03/17-171-411-201.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '9984'
       num: '52'
@@ -315,8 +304,10 @@ sublists:
     - id: '10011'
       num: '79'
       name: ИСАЧКИН Владимир Николаевич
-  - pageintom: '202'
-    page_image: v03/17-171-411-202.jpg
+- pageintom: '202'
+  image: v03/17-171-411-202.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10012'
       num: '80'
@@ -400,8 +391,10 @@ sublists:
     - id: '10038'
       num: '106'
       name: МЕРКЕЛЬ Николай Яковлевич
-  - pageintom: '203'
-    page_image: v03/17-171-411-203.jpg
+- pageintom: '203'
+  image: v03/17-171-411-203.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10039'
       num: '107'
@@ -491,8 +484,10 @@ sublists:
     - id: '10066'
       num: '134'
       name: РУЗАНОВ Александр Спиридонович
-  - pageintom: '204'
-    page_image: v03/17-171-411-204.jpg
+- pageintom: '204'
+  image: v03/17-171-411-204.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10067'
       num: '135'
@@ -579,8 +574,10 @@ sublists:
     - id: '10092'
       num: '160'
       name: ЧИЧИКАЛОВ Анатолий Харитонович
-  - pageintom: '205'
-    page_image: v03/17-171-411-205.jpg
+- pageintom: '205'
+  image: v03/17-171-411-205.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10093'
       num: '161'
@@ -631,8 +628,10 @@ sublists:
     - id: '10108'
       num: '176'
       name: ЯКУБОВ Юрий Николаевич
-  - pageintom: '206'
-    page_image: v03/17-171-411-206.jpg
+- pageintom: '206'
+  image: v03/17-171-411-206.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10109'
       num: '1'
@@ -712,8 +711,10 @@ sublists:
     - id: '10132'
       num: '24'
       name: ТЕР-ОГАНОВ Аршак Месропович
-  - pageintom: '207'
-    page_image: v03/17-171-411-207.jpg
+- pageintom: '207'
+  image: v03/17-171-411-207.jpg
+  sublists:
+  - sublid: '363'
     persons:
     - id: '10133'
       num: '25'

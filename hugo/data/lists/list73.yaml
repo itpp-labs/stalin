@@ -14,15 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '334'
-  image: v02/17-171-410-334.jpg
-- pageintom: '335'
-  image: v02/17-171-410-335.jpg
-- pageintom: '336'
-  image: v02/17-171-410-336.jpg
-- pageintom: '337'
-  image: v02/17-171-410-337.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Ярославская обл.]
   listtitle: 'Список лиц: Ярославская обл.'
@@ -36,9 +27,17 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '336'
-    page_image: v02/17-171-410-336.jpg
+pages:
+- pageintom: '334'
+  image: v02/17-171-410-334.jpg
+  sublists: []
+- pageintom: '335'
+  image: v02/17-171-410-335.jpg
+  sublists: []
+- pageintom: '336'
+  image: v02/17-171-410-336.jpg
+  sublists:
+  - sublid: '51'
     persons:
     - id: '7463'
       num: '1'
@@ -153,8 +152,10 @@ sublists:
       num: '28'
       name: ШЕХАНОВ Василий Матвеевич
       spravka: true
-  - pageintom: '337'
-    page_image: v02/17-171-410-337.jpg
+- pageintom: '337'
+  image: v02/17-171-410-337.jpg
+  sublists:
+  - sublid: '51'
     persons:
     - id: '7491'
       num: '1'

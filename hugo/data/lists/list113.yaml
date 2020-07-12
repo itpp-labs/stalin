@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '38'
-  image: v05/17-171-413-038.jpg
-- pageintom: '39'
-  image: v05/17-171-413-039.jpg
-- pageintom: '40'
-  image: v05/17-171-413-040.jpg
-- pageintom: '41'
-  image: v05/17-171-413-041.jpg
-- pageintom: '42'
-  image: v05/17-171-413-042.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область
@@ -36,9 +25,17 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '40'
-    page_image: v05/17-171-413-040.jpg
+pages:
+- pageintom: '38'
+  image: v05/17-171-413-038.jpg
+  sublists: []
+- pageintom: '39'
+  image: v05/17-171-413-039.jpg
+  sublists: []
+- pageintom: '40'
+  image: v05/17-171-413-040.jpg
+  sublists:
+  - sublid: '78'
     persons:
     - id: '14637'
       num: '1'
@@ -141,8 +138,10 @@ sublists:
       num: '25'
       name: ЗАК Михаил Лазаревич
       spravka: true
-  - pageintom: '41'
-    page_image: v05/17-171-413-041.jpg
+- pageintom: '41'
+  image: v05/17-171-413-041.jpg
+  sublists:
+  - sublid: '78'
     persons:
     - id: '14662'
       num: '26'
@@ -257,8 +256,10 @@ sublists:
       num: '54'
       name: СЕНЧЕНКО Авксентий Трофимович
       spravka: true
-  - pageintom: '42'
-    page_image: v05/17-171-413-042.jpg
+- pageintom: '42'
+  image: v05/17-171-413-042.jpg
+  sublists:
+  - sublid: '78'
     persons:
     - id: '14691'
       num: '55'

@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '189'
-  image: v02/17-171-410-189.jpg
-- pageintom: '190'
-  image: v02/17-171-410-190.jpg
-- pageintom: '191'
-  image: v02/17-171-410-191.jpg
-- pageintom: '192'
-  image: v02/17-171-410-192.jpg
-- pageintom: '193'
-  image: v02/17-171-410-193.jpg
-- pageintom: '194'
-  image: v02/17-171-410-194.jpg
 sublists:
 - title: Список от 10 августа 1937 г. [Свердловская обл.]
   listtitle: 'Список лиц: Свердловская обл.'
@@ -39,9 +26,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '191'
-    page_image: v02/17-171-410-191.jpg
+pages:
+- pageintom: '189'
+  image: v02/17-171-410-189.jpg
+  sublists: []
+- pageintom: '190'
+  image: v02/17-171-410-190.jpg
+  sublists: []
+- pageintom: '191'
+  image: v02/17-171-410-191.jpg
+  sublists:
+  - sublid: '43'
     persons:
     - id: '5189'
       num: '1'
@@ -144,8 +139,10 @@ sublists:
       num: '25'
       name: КОЗЛОВ Дмитрий Васильевич, он же <br />ПАВЛОВ Алексей Матвеевич
       spravka: true
-  - pageintom: '192'
-    page_image: v02/17-171-410-192.jpg
+- pageintom: '192'
+  image: v02/17-171-410-192.jpg
+  sublists:
+  - sublid: '43'
     persons:
     - id: '5214'
       num: '26'
@@ -262,8 +259,10 @@ sublists:
       num: '54'
       name: ШАБУНИН Григорий Кузьмич
       spravka: true
-  - pageintom: '193'
-    page_image: v02/17-171-410-193.jpg
+- pageintom: '193'
+  image: v02/17-171-410-193.jpg
+  sublists:
+  - sublid: '43'
     persons:
     - id: '5243'
       num: '55'
@@ -281,8 +280,10 @@ sublists:
       num: '58'
       name: ЯН Георгий Георгиевич
       spravka: true
-  - pageintom: '194'
-    page_image: v02/17-171-410-194.jpg
+- pageintom: '194'
+  image: v02/17-171-410-194.jpg
+  sublists:
+  - sublid: '43'
     persons:
     - id: '5247'
       num: '1'

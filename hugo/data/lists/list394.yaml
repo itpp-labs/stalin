@@ -12,59 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '73'
-  image: v11/17-171-419-073.jpg
-- pageintom: '74'
-  image: v11/17-171-419-074.jpg
-- pageintom: '75'
-  image: v11/17-171-419-075.jpg
-- pageintom: '76'
-  image: v11/17-171-419-076.jpg
-- pageintom: '77'
-  image: v11/17-171-419-077.jpg
-- pageintom: '78'
-  image: v11/17-171-419-078.jpg
-- pageintom: '79'
-  image: v11/17-171-419-079.jpg
-- pageintom: '80'
-  image: v11/17-171-419-080.jpg
-- pageintom: '81'
-  image: v11/17-171-419-081.jpg
-- pageintom: '82'
-  image: v11/17-171-419-082.jpg
-- pageintom: '83'
-  image: v11/17-171-419-083.jpg
-- pageintom: '84'
-  image: v11/17-171-419-084.jpg
-- pageintom: '85'
-  image: v11/17-171-419-085.jpg
-- pageintom: '86'
-  image: v11/17-171-419-086.jpg
-- pageintom: '87'
-  image: v11/17-171-419-087.jpg
-- pageintom: '88'
-  image: v11/17-171-419-088.jpg
-- pageintom: '89'
-  image: v11/17-171-419-089.jpg
-- pageintom: '90'
-  image: v11/17-171-419-090.jpg
-- pageintom: '91'
-  image: v11/17-171-419-091.jpg
-- pageintom: '92'
-  image: v11/17-171-419-092.jpg
-- pageintom: '93'
-  image: v11/17-171-419-093.jpg
-- pageintom: '94'
-  image: v11/17-171-419-094.jpg
-- pageintom: '95'
-  image: v11/17-171-419-095.jpg
-- pageintom: '96'
-  image: v11/17-171-419-096.jpg
-- pageintom: '97'
-  image: v11/17-171-419-097.jpg
-- pageintom: '98'
-  image: v11/17-171-419-098.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -79,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '75'
-    page_image: v11/17-171-419-075.jpg
+pages:
+- pageintom: '73'
+  image: v11/17-171-419-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v11/17-171-419-074.jpg
+  sublists: []
+- pageintom: '75'
+  image: v11/17-171-419-075.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41683'
       num: '1'
@@ -168,8 +123,10 @@ sublists:
       num: '21'
       name: БЕДЕНАШВИЛИ Варлаам Несторович
       spravka: true
-  - pageintom: '76'
-    page_image: v11/17-171-419-076.jpg
+- pageintom: '76'
+  image: v11/17-171-419-076.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41704'
       num: '22'
@@ -278,8 +235,10 @@ sublists:
       num: '48'
       name: ГОГАДЗЕ Александр Якимович
       spravka: true
-  - pageintom: '77'
-    page_image: v11/17-171-419-077.jpg
+- pageintom: '77'
+  image: v11/17-171-419-077.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41731'
       num: '49'
@@ -385,8 +344,10 @@ sublists:
       num: '74'
       name: ДИДЕБАШВИЛИ Александр Алексеевич
       spravka: true
-  - pageintom: '78'
-    page_image: v11/17-171-419-078.jpg
+- pageintom: '78'
+  image: v11/17-171-419-078.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41757'
       num: '75'
@@ -496,8 +457,10 @@ sublists:
       num: '101'
       name: КАНДЕЛАКИ Шалва Семенович
       spravka: true
-  - pageintom: '79'
-    page_image: v11/17-171-419-079.jpg
+- pageintom: '79'
+  image: v11/17-171-419-079.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41784'
       num: '102'
@@ -604,8 +567,10 @@ sublists:
       num: '128'
       name: ЛАБАРТКАВА Онифант Зосимович
       spravka: true
-  - pageintom: '80'
-    page_image: v11/17-171-419-080.jpg
+- pageintom: '80'
+  image: v11/17-171-419-080.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41811'
       num: '129'
@@ -717,8 +682,10 @@ sublists:
     - id: '41838'
       num: '156'
       name: МИНЮХИН Аркадий Александрович
-  - pageintom: '81'
-    page_image: v11/17-171-419-081.jpg
+- pageintom: '81'
+  image: v11/17-171-419-081.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41839'
       num: '157'
@@ -832,8 +799,10 @@ sublists:
       num: '184'
       name: ПРИОБРАЖЕНСКИЙ Иван Алексеевич
       spravka: true
-  - pageintom: '82'
-    page_image: v11/17-171-419-082.jpg
+- pageintom: '82'
+  image: v11/17-171-419-082.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41867'
       num: '185'
@@ -946,8 +915,10 @@ sublists:
       num: '212'
       name: ТЕРТЕРАШВИЛИ Давид Захарьевич
       spravka: true
-  - pageintom: '83'
-    page_image: v11/17-171-419-083.jpg
+- pageintom: '83'
+  image: v11/17-171-419-083.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41895'
       num: '213'
@@ -1057,8 +1028,10 @@ sublists:
       num: '239'
       name: ЦИЦИШВИЛИ Георгий Иосифович
       spravka: true
-  - pageintom: '84'
-    page_image: v11/17-171-419-084.jpg
+- pageintom: '84'
+  image: v11/17-171-419-084.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41922'
       num: '240'
@@ -1166,8 +1139,10 @@ sublists:
     - id: '41948'
       num: '266'
       name: ЩЕТИНИН-ЛАНСКИЙ Иван Петрович
-  - pageintom: '85'
-    page_image: v11/17-171-419-085.jpg
+- pageintom: '85'
+  image: v11/17-171-419-085.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41949'
       num: '267'
@@ -1189,8 +1164,10 @@ sublists:
       num: '271'
       name: ЯРОНИС Эдуард Петрович
       spravka: true
-  - pageintom: '86'
-    page_image: v11/17-171-419-086.jpg
+- pageintom: '86'
+  image: v11/17-171-419-086.jpg
+  sublists:
+  - sublid: '619'
     persons:
     - id: '41954'
       num: '1'
@@ -1253,3 +1230,39 @@ sublists:
       name: ХРИСТОВ Фридрих Фридрихович
       gb_spravka: true
       spravka: true
+- pageintom: '87'
+  image: v11/17-171-419-087.jpg
+  sublists: []
+- pageintom: '88'
+  image: v11/17-171-419-088.jpg
+  sublists: []
+- pageintom: '89'
+  image: v11/17-171-419-089.jpg
+  sublists: []
+- pageintom: '90'
+  image: v11/17-171-419-090.jpg
+  sublists: []
+- pageintom: '91'
+  image: v11/17-171-419-091.jpg
+  sublists: []
+- pageintom: '92'
+  image: v11/17-171-419-092.jpg
+  sublists: []
+- pageintom: '93'
+  image: v11/17-171-419-093.jpg
+  sublists: []
+- pageintom: '94'
+  image: v11/17-171-419-094.jpg
+  sublists: []
+- pageintom: '95'
+  image: v11/17-171-419-095.jpg
+  sublists: []
+- pageintom: '96'
+  image: v11/17-171-419-096.jpg
+  sublists: []
+- pageintom: '97'
+  image: v11/17-171-419-097.jpg
+  sublists: []
+- pageintom: '98'
+  image: v11/17-171-419-098.jpg
+  sublists: []

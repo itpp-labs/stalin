@@ -14,25 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '238'
-  image: v06/17-171-414-238.jpg
-- pageintom: '239'
-  image: v06/17-171-414-239.jpg
-- pageintom: '240'
-  image: v06/17-171-414-240.jpg
-- pageintom: '241'
-  image: v06/17-171-414-241.jpg
-- pageintom: '242'
-  image: v06/17-171-414-242.jpg
-- pageintom: '243'
-  image: v06/17-171-414-243.jpg
-- pageintom: '244'
-  image: v06/17-171-414-244.jpg
-- pageintom: '245'
-  image: v06/17-171-414-245.jpg
-- pageintom: '246'
-  image: v06/17-171-414-246.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Красноярский край]
   listtitle: Список лиц - Красноярский край; Новосибирск.Томская ж.д.; Узбекская ССР
@@ -46,9 +27,41 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '240'
-    page_image: v06/17-171-414-240.jpg
+- title: Список от 3 февраля 1938г. [Новосибирск. Томская ж.д.]
+  listtitle: Список лиц - Красноярский край; Новосибирск.Томская ж.д.; Узбекская ССР
+  sublisttitle: Новосибирск. Томская ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 122
+  group_ids:
+  - 13
+- title: Список от 3 февраля 1938г. [Узбекская ССР]
+  listtitle: Список лиц - Красноярский край; Новосибирск.Томская ж.д.; Узбекская ССР
+  sublisttitle: Узбекская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 74
+  geosub_ids:
+  - 36
+  group_ids:
+  - 0
+pages:
+- pageintom: '238'
+  image: v06/17-171-414-238.jpg
+  sublists: []
+- pageintom: '239'
+  image: v06/17-171-414-239.jpg
+  sublists: []
+- pageintom: '240'
+  image: v06/17-171-414-240.jpg
+  sublists:
+  - sublid: '468'
     persons:
     - id: '22490'
       num: '1'
@@ -135,8 +148,10 @@ sublists:
       num: '21'
       name: КОЗУЛИН Иосиф Алексеевич
       spravka: true
-  - pageintom: '241'
-    page_image: v06/17-171-414-241.jpg
+- pageintom: '241'
+  image: v06/17-171-414-241.jpg
+  sublists:
+  - sublid: '468'
     persons:
     - id: '22511'
       num: '22'
@@ -250,8 +265,10 @@ sublists:
       num: '49'
       name: ЧЕРНЫШЕВ Георгий Данилович
       spravka: true
-  - pageintom: '242'
-    page_image: v06/17-171-414-242.jpg
+- pageintom: '242'
+  image: v06/17-171-414-242.jpg
+  sublists:
+  - sublid: '468'
     persons:
     - id: '22539'
       num: '50'
@@ -277,8 +294,10 @@ sublists:
       num: '55'
       name: ЯЦЕНКО Николай Степанович
       spravka: true
-  - pageintom: '243'
-    page_image: v06/17-171-414-243.jpg
+- pageintom: '243'
+  image: v06/17-171-414-243.jpg
+  sublists:
+  - sublid: '468'
     persons:
     - id: '22545'
       num: '1'
@@ -286,21 +305,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 3 февраля 1938г. [Новосибирск. Томская ж.д.]
-  listtitle: Список лиц - Красноярский край; Новосибирск.Томская ж.д.; Узбекская ССР
-  sublisttitle: Новосибирск. Томская ж.д.
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 50
-  geosub_ids:
-  - 122
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '244'
-    page_image: v06/17-171-414-244.jpg
+- pageintom: '244'
+  image: v06/17-171-414-244.jpg
+  sublists:
+  - sublid: '469'
     persons:
     - id: '22546'
       num: '1'
@@ -375,8 +383,10 @@ sublists:
     - id: '22566'
       num: '21'
       name: КРИЩУК Василий Павлович
-  - pageintom: '245'
-    page_image: v06/17-171-414-245.jpg
+- pageintom: '245'
+  image: v06/17-171-414-245.jpg
+  sublists:
+  - sublid: '469'
     persons:
     - id: '22567'
       num: '22'
@@ -410,21 +420,10 @@ sublists:
     - id: '22576'
       num: '31'
       name: ЮДКИН Лев Юрьевич
-- title: Список от 3 февраля 1938г. [Узбекская ССР]
-  listtitle: Список лиц - Красноярский край; Новосибирск.Томская ж.д.; Узбекская ССР
-  sublisttitle: Узбекская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 74
-  geosub_ids:
-  - 36
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '246'
-    page_image: v06/17-171-414-246.jpg
+- pageintom: '246'
+  image: v06/17-171-414-246.jpg
+  sublists:
+  - sublid: '470'
     persons:
     - id: '22577'
       num: '1'

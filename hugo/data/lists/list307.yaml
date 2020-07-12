@@ -14,35 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '157'
-  image: v08/17-171-416-157.jpg
-- pageintom: '158'
-  image: v08/17-171-416-158.jpg
-- pageintom: '159'
-  image: v08/17-171-416-159.jpg
-- pageintom: '160'
-  image: v08/17-171-416-160.jpg
-- pageintom: '161'
-  image: v08/17-171-416-161.jpg
-- pageintom: '162'
-  image: v08/17-171-416-162.jpg
-- pageintom: '163'
-  image: v08/17-171-416-163.jpg
-- pageintom: '164'
-  image: v08/17-171-416-164.jpg
-- pageintom: '165'
-  image: v08/17-171-416-165.jpg
-- pageintom: '166'
-  image: v08/17-171-416-166.jpg
-- pageintom: '167'
-  image: v08/17-171-416-167.jpg
-- pageintom: '168'
-  image: v08/17-171-416-168.jpg
-- pageintom: '169'
-  image: v08/17-171-416-169.jpg
-- pageintom: '170'
-  image: v08/17-171-416-170.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область,г.Новосибирск-Томская ж.д.
@@ -56,9 +27,29 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '159'
-    page_image: v08/17-171-416-159.jpg
+- title: Список от 19 апреля 1938г. [г.Новосибирск. Томская ж.д.]
+  listtitle: Список лиц - Новосибирская область,г.Новосибирск-Томская ж.д.
+  sublisttitle: г.Новосибирск. Томская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 122
+  group_ids:
+  - 13
+pages:
+- pageintom: '157'
+  image: v08/17-171-416-157.jpg
+  sublists: []
+- pageintom: '158'
+  image: v08/17-171-416-158.jpg
+  sublists: []
+- pageintom: '159'
+  image: v08/17-171-416-159.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31000'
       num: '1'
@@ -134,8 +125,10 @@ sublists:
       num: '21'
       name: БУЗУЕВ-ЛЕПИХИН Николай Васильевич
       spravka: true
-  - pageintom: '160'
-    page_image: v08/17-171-416-160.jpg
+- pageintom: '160'
+  image: v08/17-171-416-160.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31021'
       num: '22'
@@ -240,8 +233,10 @@ sublists:
       num: '50'
       name: ЕПАНЕНШНИКОВ Федор Борисович
       spravka: true
-  - pageintom: '161'
-    page_image: v08/17-171-416-161.jpg
+- pageintom: '161'
+  image: v08/17-171-416-161.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31050'
       num: '51'
@@ -344,8 +339,10 @@ sublists:
     - id: '31078'
       num: '79'
       name: КОРОСТЕЛЕВ Иван Михайлович
-  - pageintom: '162'
-    page_image: v08/17-171-416-162.jpg
+- pageintom: '162'
+  image: v08/17-171-416-162.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31079'
       num: '80'
@@ -445,8 +442,10 @@ sublists:
       num: '108'
       name: НИКИТИН Федор Степанович
       spravka: true
-  - pageintom: '163'
-    page_image: v08/17-171-416-163.jpg
+- pageintom: '163'
+  image: v08/17-171-416-163.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31108'
       num: '109'
@@ -553,8 +552,10 @@ sublists:
       num: '137'
       name: САЛЕНЕК Фриц Михайлович
       spravka: true
-  - pageintom: '164'
-    page_image: v08/17-171-416-164.jpg
+- pageintom: '164'
+  image: v08/17-171-416-164.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31137'
       num: '138'
@@ -651,8 +652,10 @@ sublists:
     - id: '31165'
       num: '166'
       name: ШЕВЕРДЯКОВ Иван Георгиевич
-  - pageintom: '165'
-    page_image: v08/17-171-416-165.jpg
+- pageintom: '165'
+  image: v08/17-171-416-165.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31166'
       num: '167'
@@ -690,8 +693,10 @@ sublists:
       num: '176'
       name: ЯЦЕН Игнатий Михайлович
       spravka: true
-  - pageintom: '166'
-    page_image: v08/17-171-416-166.jpg
+- pageintom: '166'
+  image: v08/17-171-416-166.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31176'
       num: '1'
@@ -759,8 +764,10 @@ sublists:
     - id: '31196'
       num: '21'
       name: ПОТАНИН Александр Архипович
-  - pageintom: '167'
-    page_image: v08/17-171-416-167.jpg
+- pageintom: '167'
+  image: v08/17-171-416-167.jpg
+  sublists:
+  - sublid: '602'
     persons:
     - id: '31197'
       num: '22'
@@ -810,21 +817,10 @@ sublists:
     - id: '31211'
       num: '36'
       name: ЯЧМЕНЕВ Андрей Иванович
-- title: Список от 19 апреля 1938г. [г.Новосибирск. Томская ж.д.]
-  listtitle: Список лиц - Новосибирская область,г.Новосибирск-Томская ж.д.
-  sublisttitle: г.Новосибирск. Томская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 50
-  geosub_ids:
-  - 122
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '168'
-    page_image: v08/17-171-416-168.jpg
+- pageintom: '168'
+  image: v08/17-171-416-168.jpg
+  sublists:
+  - sublid: '603'
     persons:
     - id: '31212'
       num: '1'
@@ -903,8 +899,10 @@ sublists:
     - id: '31233'
       num: '22'
       name: СМОЛЕНСКИЙ Моисей Пантелеймонович
-  - pageintom: '169'
-    page_image: v08/17-171-416-169.jpg
+- pageintom: '169'
+  image: v08/17-171-416-169.jpg
+  sublists:
+  - sublid: '603'
     persons:
     - id: '31234'
       num: '23'
@@ -925,8 +923,10 @@ sublists:
     - id: '31239'
       num: '28'
       name: ШОРМАН Самуил Михайлович
-  - pageintom: '170'
-    page_image: v08/17-171-416-170.jpg
+- pageintom: '170'
+  image: v08/17-171-416-170.jpg
+  sublists:
+  - sublid: '603'
     persons:
     - id: '31240'
       num: '1'

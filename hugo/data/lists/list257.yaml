@@ -14,21 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '56'
-  image: v07/17-171-415-056.jpg
-- pageintom: '57'
-  image: v07/17-171-415-057.jpg
-- pageintom: '58'
-  image: v07/17-171-415-058.jpg
-- pageintom: '59'
-  image: v07/17-171-415-059.jpg
-- pageintom: '60'
-  image: v07/17-171-415-060.jpg
-- pageintom: '61'
-  image: v07/17-171-415-061.jpg
-- pageintom: '62'
-  image: v07/17-171-415-062.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Казань. Казанская ж.д.]
   listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
@@ -42,9 +27,41 @@ sublists:
   - 111
   group_ids:
   - 13
-  pages:
-  - pageintom: '58'
-    page_image: v07/17-171-415-058.jpg
+- title: Список от 5 марта 1938г. [Марийская АССР]
+  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
+  sublisttitle: Марийская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 47
+  geosub_ids:
+  - 126
+  group_ids:
+  - 0
+- title: Список от 5 марта 1938г. [Мордовская АССР]
+  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
+  sublisttitle: Мордовская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 48
+  geosub_ids:
+  - 127
+  group_ids:
+  - 0
+pages:
+- pageintom: '56'
+  image: v07/17-171-415-056.jpg
+  sublists: []
+- pageintom: '57'
+  image: v07/17-171-415-057.jpg
+  sublists: []
+- pageintom: '58'
+  image: v07/17-171-415-058.jpg
+  sublists:
+  - sublid: '518'
     persons:
     - id: '26421'
       num: '1'
@@ -68,8 +85,10 @@ sublists:
       num: '5'
       name: МИЛЮТИН Михаил Алексеевич
       spravka: true
-  - pageintom: '59'
-    page_image: v07/17-171-415-059.jpg
+- pageintom: '59'
+  image: v07/17-171-415-059.jpg
+  sublists:
+  - sublid: '518'
     persons:
     - id: '26426'
       num: '1'
@@ -77,21 +96,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>Гор.КАЗАНЬ. КАЗАНСКАЯ жел.дор.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 5 марта 1938г. [Марийская АССР]
-  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
-  sublisttitle: Марийская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 47
-  geosub_ids:
-  - 126
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '60'
-    page_image: v07/17-171-415-060.jpg
+- pageintom: '60'
+  image: v07/17-171-415-060.jpg
+  sublists:
+  - sublid: '519'
     persons:
     - id: '26427'
       num: '1'
@@ -167,8 +175,10 @@ sublists:
       num: '18'
       name: ЯНТЕМИР Михаил Николаевич
       spravka: true
-  - pageintom: '61'
-    page_image: v07/17-171-415-061.jpg
+- pageintom: '61'
+  image: v07/17-171-415-061.jpg
+  sublists:
+  - sublid: '519'
     persons:
     - id: '26445'
       num: '1'
@@ -176,21 +186,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МАРИЙСКАЯ АССР. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 5 марта 1938г. [Мордовская АССР]
-  listtitle: Список лиц - г.Казань.Казанская ж.д.;Марийская АССР,Мордовская АССР
-  sublisttitle: Мордовская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 48
-  geosub_ids:
-  - 127
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '62'
-    page_image: v07/17-171-415-062.jpg
+- pageintom: '62'
+  image: v07/17-171-415-062.jpg
+  sublists:
+  - sublid: '520'
     persons:
     - id: '26446'
       num: '1'

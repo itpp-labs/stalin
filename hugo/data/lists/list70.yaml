@@ -14,47 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '305'
-  image: v02/17-171-410-305.jpg
-- pageintom: '306'
-  image: v02/17-171-410-306.jpg
-- pageintom: '307'
-  image: v02/17-171-410-307.jpg
-- pageintom: '308'
-  image: v02/17-171-410-308.jpg
-- pageintom: '309'
-  image: v02/17-171-410-309.jpg
-- pageintom: '310'
-  image: v02/17-171-410-310.jpg
-- pageintom: '311'
-  image: v02/17-171-410-311.jpg
-- pageintom: '312'
-  image: v02/17-171-410-312.jpg
-- pageintom: '313'
-  image: v02/17-171-410-313.jpg
-- pageintom: '314'
-  image: v02/17-171-410-314.jpg
-- pageintom: '315'
-  image: v02/17-171-410-315.jpg
-- pageintom: '316'
-  image: v02/17-171-410-316.jpg
-- pageintom: '317'
-  image: v02/17-171-410-317.jpg
-- pageintom: '318'
-  image: v02/17-171-410-318.jpg
-- pageintom: '319'
-  image: v02/17-171-410-319.jpg
-- pageintom: '320'
-  image: v02/17-171-410-320.jpg
-- pageintom: '321'
-  image: v02/17-171-410-321.jpg
-- pageintom: '322'
-  image: v02/17-171-410-322.jpg
-- pageintom: '323'
-  image: v02/17-171-410-323.jpg
-- pageintom: '324'
-  image: v02/17-171-410-324.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Москва-Центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -69,9 +28,30 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '307'
-    page_image: v02/17-171-410-307.jpg
+- title: Список от 31 августа 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+  - 2
+pages:
+- pageintom: '305'
+  image: v02/17-171-410-305.jpg
+  sublists: []
+- pageintom: '306'
+  image: v02/17-171-410-306.jpg
+  sublists: []
+- pageintom: '307'
+  image: v02/17-171-410-307.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7217'
       num: '1'
@@ -179,8 +159,10 @@ sublists:
       num: '26'
       name: ГЛЕЗЕРМАН Илья Осипович
       spravka: true
-  - pageintom: '308'
-    page_image: v02/17-171-410-308.jpg
+- pageintom: '308'
+  image: v02/17-171-410-308.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7243'
       num: '27'
@@ -296,8 +278,10 @@ sublists:
       num: '55'
       name: КРАМАРЕНКО Тимофей Иванович
       spravka: true
-  - pageintom: '309'
-    page_image: v02/17-171-410-309.jpg
+- pageintom: '309'
+  image: v02/17-171-410-309.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7272'
       num: '56'
@@ -419,8 +403,10 @@ sublists:
       num: '85'
       name: РЕЙНБОТ Аркадий Иванович
       spravka: true
-  - pageintom: '310'
-    page_image: v02/17-171-410-310.jpg
+- pageintom: '310'
+  image: v02/17-171-410-310.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7302'
       num: '86'
@@ -530,8 +516,10 @@ sublists:
       num: '112'
       name: ШАВЕЛЬСКИЙ Иван Васильевич
       spravka: true
-  - pageintom: '311'
-    page_image: v02/17-171-410-311.jpg
+- pageintom: '311'
+  image: v02/17-171-410-311.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7329'
       num: '113'
@@ -584,8 +572,10 @@ sublists:
       num: '125'
       name: ЯНОВИЦКИЙ Вячеслав Иванович
       spravka: true
-  - pageintom: '312'
-    page_image: v02/17-171-410-312.jpg
+- pageintom: '312'
+  image: v02/17-171-410-312.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7342'
       num: '1'
@@ -608,8 +598,22 @@ sublists:
       name: РАКОВ Вернер (Феликс Вольф)
       gb_spravka: true
       spravka: true
-  - pageintom: '317'
-    page_image: v02/17-171-410-317.jpg
+- pageintom: '313'
+  image: v02/17-171-410-313.jpg
+  sublists: []
+- pageintom: '314'
+  image: v02/17-171-410-314.jpg
+  sublists: []
+- pageintom: '315'
+  image: v02/17-171-410-315.jpg
+  sublists: []
+- pageintom: '316'
+  image: v02/17-171-410-316.jpg
+  sublists: []
+- pageintom: '317'
+  image: v02/17-171-410-317.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7346'
       num: '1'
@@ -649,8 +653,10 @@ sublists:
       num: '10'
       name: ШАШ-АКВИЛА Дьюла Бенович
       spravka: true
-  - pageintom: '318'
-    page_image: v02/17-171-410-318.jpg
+- pageintom: '318'
+  image: v02/17-171-410-318.jpg
+  sublists:
+  - sublid: '223'
     persons:
     - id: '7356'
       num: '1'
@@ -658,22 +664,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>МОСКВА-ЦЕНТР</u></p><p
         align="right"><u>2-я категория</u>
-- title: Список от 31 августа 1937 г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  - 2
-  pages:
-  - pageintom: '320'
-    page_image: v02/17-171-410-320.jpg
+- pageintom: '319'
+  image: v02/17-171-410-319.jpg
+  sublists: []
+- pageintom: '320'
+  image: v02/17-171-410-320.jpg
+  sublists:
+  - sublid: '224'
     persons:
     - id: '7357'
       num: '1'
@@ -785,8 +782,10 @@ sublists:
       num: '27'
       name: КУЗНЕЦОВ Федор Васильевич
       spravka: true
-  - pageintom: '321'
-    page_image: v02/17-171-410-321.jpg
+- pageintom: '321'
+  image: v02/17-171-410-321.jpg
+  sublists:
+  - sublid: '224'
     persons:
     - id: '7384'
       num: '28'
@@ -899,8 +898,10 @@ sublists:
       num: '55'
       name: ШУЕВ Иван Трофимович
       spravka: true
-  - pageintom: '322'
-    page_image: v02/17-171-410-322.jpg
+- pageintom: '322'
+  image: v02/17-171-410-322.jpg
+  sublists:
+  - sublid: '224'
     persons:
     - id: '7412'
       num: '1'
@@ -926,8 +927,10 @@ sublists:
     - id: '7417'
       num: '6'
       name: ЧИЧИН Федор Иванович
-  - pageintom: '323'
-    page_image: v02/17-171-410-323.jpg
+- pageintom: '323'
+  image: v02/17-171-410-323.jpg
+  sublists:
+  - sublid: '224'
     persons:
     - id: '7418'
       num: '1'
@@ -936,3 +939,6 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ-ПОДДАННЫЕ</u><br /><u>МОСКОВСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>2-я категория</u>
+- pageintom: '324'
+  image: v02/17-171-410-324.jpg
+  sublists: []

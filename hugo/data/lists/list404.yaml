@@ -14,41 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '199'
-  image: v11/17-171-419-199.jpg
-- pageintom: '200'
-  image: v11/17-171-419-200.jpg
-- pageintom: '201'
-  image: v11/17-171-419-201.jpg
-- pageintom: '202'
-  image: v11/17-171-419-202.jpg
-- pageintom: '203'
-  image: v11/17-171-419-203.jpg
-- pageintom: '204'
-  image: v11/17-171-419-204.jpg
-- pageintom: '205'
-  image: v11/17-171-419-205.jpg
-- pageintom: '206'
-  image: v11/17-171-419-206.jpg
-- pageintom: '207'
-  image: v11/17-171-419-207.jpg
-- pageintom: '208'
-  image: v11/17-171-419-208.jpg
-- pageintom: '209'
-  image: v11/17-171-419-209.jpg
-- pageintom: '210'
-  image: v11/17-171-419-210.jpg
-- pageintom: '211'
-  image: v11/17-171-419-211.jpg
-- pageintom: '212'
-  image: v11/17-171-419-212.jpg
-- pageintom: '213'
-  image: v11/17-171-419-213.jpg
-- pageintom: '214'
-  image: v11/17-171-419-214.jpg
-- pageintom: '215'
-  image: v11/17-171-419-215.jpg
 sublists:
 - title: Список от 25 сентября 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область,г.Оренбург - Оренбургская ж.д.
@@ -63,9 +28,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '201'
-    page_image: v11/17-171-419-201.jpg
+- title: Список от 25 сентября 1938г. [Оренбургская жел.дорога]
+  listtitle: Список лиц - Оренбургская область,г.Оренбург - Оренбургская ж.д.
+  sublisttitle: Оренбургская жел.дорога
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 116
+  group_ids:
+  - 13
+pages:
+- pageintom: '199'
+  image: v11/17-171-419-199.jpg
+  sublists: []
+- pageintom: '200'
+  image: v11/17-171-419-200.jpg
+  sublists: []
+- pageintom: '201'
+  image: v11/17-171-419-201.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43360'
       num: '1'
@@ -137,8 +122,10 @@ sublists:
     - id: '43381'
       num: '22'
       name: БОСОВ Александр Гаврилович
-  - pageintom: '202'
-    page_image: v11/17-171-419-202.jpg
+- pageintom: '202'
+  image: v11/17-171-419-202.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43382'
       num: '23'
@@ -227,8 +214,10 @@ sublists:
     - id: '43408'
       num: '49'
       name: ГОЛТВЯНИЦА Николай Афанасьевич
-  - pageintom: '203'
-    page_image: v11/17-171-419-203.jpg
+- pageintom: '203'
+  image: v11/17-171-419-203.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43409'
       num: '50'
@@ -313,8 +302,10 @@ sublists:
     - id: '43434'
       num: '75'
       name: ИВАНОВ Владимир Дмитриевич
-  - pageintom: '204'
-    page_image: v11/17-171-419-204.jpg
+- pageintom: '204'
+  image: v11/17-171-419-204.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43435'
       num: '76'
@@ -399,8 +390,10 @@ sublists:
     - id: '43461'
       num: '102'
       name: КУЗЬМИН Иван Осипович
-  - pageintom: '205'
-    page_image: v11/17-171-419-205.jpg
+- pageintom: '205'
+  image: v11/17-171-419-205.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43462'
       num: '103'
@@ -486,8 +479,10 @@ sublists:
     - id: '43488'
       num: '129'
       name: ПЕТРОВ Василий Фомич
-  - pageintom: '206'
-    page_image: v11/17-171-419-206.jpg
+- pageintom: '206'
+  image: v11/17-171-419-206.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43489'
       num: '130'
@@ -571,8 +566,10 @@ sublists:
     - id: '43515'
       num: '156'
       name: СЫРОВ Матвей Фомич
-  - pageintom: '207'
-    page_image: v11/17-171-419-207.jpg
+- pageintom: '207'
+  image: v11/17-171-419-207.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43516'
       num: '157'
@@ -653,8 +650,10 @@ sublists:
     - id: '43540'
       num: '181'
       name: ЮЛДАШЕВ Галимзян Хуснуллович
-  - pageintom: '208'
-    page_image: v11/17-171-419-208.jpg
+- pageintom: '208'
+  image: v11/17-171-419-208.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43541'
       num: '182'
@@ -662,8 +661,10 @@ sublists:
     - id: '43542'
       num: '183'
       name: ЯКОВЛЕВ Иван Николаевич
-  - pageintom: '209'
-    page_image: v11/17-171-419-209.jpg
+- pageintom: '209'
+  image: v11/17-171-419-209.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43543'
       num: '1'
@@ -672,8 +673,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ.</u><br />(Иностранный
         подданный)</p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '211'
-    page_image: v11/17-171-419-211.jpg
+- pageintom: '210'
+  image: v11/17-171-419-210.jpg
+  sublists: []
+- pageintom: '211'
+  image: v11/17-171-419-211.jpg
+  sublists:
+  - sublid: '650'
     persons:
     - id: '43544'
       num: '1'
@@ -722,21 +728,10 @@ sublists:
     - id: '43558'
       num: '15'
       name: ФЕОКТИСТОВ Павел Семенович
-- title: Список от 25 сентября 1938г. [Оренбургская жел.дорога]
-  listtitle: Список лиц - Оренбургская область,г.Оренбург - Оренбургская ж.д.
-  sublisttitle: Оренбургская жел.дорога
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 53
-  geosub_ids:
-  - 116
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '212'
-    page_image: v11/17-171-419-212.jpg
+- pageintom: '212'
+  image: v11/17-171-419-212.jpg
+  sublists:
+  - sublid: '651'
     persons:
     - id: '43559'
       num: '1'
@@ -805,8 +800,10 @@ sublists:
     - id: '43578'
       num: '20'
       name: ДЕБЕРДЕЕВ Петр Михайлович
-  - pageintom: '213'
-    page_image: v11/17-171-419-213.jpg
+- pageintom: '213'
+  image: v11/17-171-419-213.jpg
+  sublists:
+  - sublid: '651'
     persons:
     - id: '43579'
       num: '21'
@@ -904,8 +901,10 @@ sublists:
     - id: '43607'
       num: '49'
       name: СЕРВИЛИН Петр Петрович
-  - pageintom: '214'
-    page_image: v11/17-171-419-214.jpg
+- pageintom: '214'
+  image: v11/17-171-419-214.jpg
+  sublists:
+  - sublid: '651'
     persons:
     - id: '43608'
       num: '50'
@@ -940,8 +939,10 @@ sublists:
       num: '59'
       name: ШКИТОВ Александр Иванович
       spravka: true
-  - pageintom: '215'
-    page_image: v11/17-171-419-215.jpg
+- pageintom: '215'
+  image: v11/17-171-419-215.jpg
+  sublists:
+  - sublid: '651'
     persons:
     - id: '43618'
       num: '1'

@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '86'
-  image: v01/17-171-409-086.jpg
-- pageintom: '87'
-  image: v01/17-171-409-087.jpg
-- pageintom: '88'
-  image: v01/17-171-409-088.jpg
-- pageintom: '89'
-  image: v01/17-171-409-089.jpg
-- pageintom: '90'
-  image: v01/17-171-409-090.jpg
 sublists:
 - title: Список от 5 апреля 1937 г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -37,9 +26,17 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '88'
-    page_image: v01/17-171-409-088.jpg
+pages:
+- pageintom: '86'
+  image: v01/17-171-409-086.jpg
+  sublists: []
+- pageintom: '87'
+  image: v01/17-171-409-087.jpg
+  sublists: []
+- pageintom: '88'
+  image: v01/17-171-409-088.jpg
+  sublists:
+  - sublid: '7'
     persons:
     - id: '1423'
       num: '1'
@@ -138,8 +135,10 @@ sublists:
       num: '23'
       name: ШЕЛОНИН Серафим Дмитриевич
       spravka: true
-  - pageintom: '89'
-    page_image: v01/17-171-409-089.jpg
+- pageintom: '89'
+  image: v01/17-171-409-089.jpg
+  sublists:
+  - sublid: '7'
     persons:
     - id: '1446'
       num: '1'
@@ -256,8 +255,10 @@ sublists:
       num: '29'
       name: ЩЕРБАКОВ Василий Михайлович
       spravka: true
-  - pageintom: '90'
-    page_image: v01/17-171-409-090.jpg
+- pageintom: '90'
+  image: v01/17-171-409-090.jpg
+  sublists:
+  - sublid: '7'
     persons:
     - id: '1475'
       num: '1'

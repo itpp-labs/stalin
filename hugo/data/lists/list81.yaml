@@ -14,15 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   mikoyan: true
-pages:
-- pageintom: '19'
-  image: v04/17-171-412-019.jpg
-- pageintom: '20'
-  image: v04/17-171-412-020.jpg
-- pageintom: '21'
-  image: v04/17-171-412-021.jpg
-- pageintom: '22'
-  image: v04/17-171-412-022.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Белорусская ССР]
   listtitle: 'Список лиц: Белорусская ССР'
@@ -36,9 +27,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '21'
-    page_image: v04/17-171-412-021.jpg
+pages:
+- pageintom: '19'
+  image: v04/17-171-412-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v04/17-171-412-020.jpg
+  sublists: []
+- pageintom: '21'
+  image: v04/17-171-412-021.jpg
+  sublists:
+  - sublid: '56'
     persons:
     - id: '10611'
       num: '1'
@@ -149,8 +148,10 @@ sublists:
       num: '27'
       name: КОРЕНЕВСКИЙ Иосиф Петрович
       spravka: true
-  - pageintom: '22'
-    page_image: v04/17-171-412-022.jpg
+- pageintom: '22'
+  image: v04/17-171-412-022.jpg
+  sublists:
+  - sublid: '56'
     persons:
     - id: '10638'
       num: '28'

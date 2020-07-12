@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '8'
-  image: v11/17-171-419-008.jpg
-- pageintom: '9'
-  image: v11/17-171-419-009.jpg
-- pageintom: '10'
-  image: v11/17-171-419-010.jpg
-- pageintom: '11'
-  image: v11/17-171-419-011.jpg
-- pageintom: '12'
-  image: v11/17-171-419-012.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Красноярский край]
   listtitle: Список лиц - Красноярский край
@@ -36,9 +25,17 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '10'
-    page_image: v11/17-171-419-010.jpg
+pages:
+- pageintom: '8'
+  image: v11/17-171-419-008.jpg
+  sublists: []
+- pageintom: '9'
+  image: v11/17-171-419-009.jpg
+  sublists: []
+- pageintom: '10'
+  image: v11/17-171-419-010.jpg
+  sublists:
+  - sublid: '614'
     persons:
     - id: '40908'
       num: '1'
@@ -118,8 +115,10 @@ sublists:
       num: '19'
       name: УРУЛЬ Ян Антонович
       spravka: true
-  - pageintom: '11'
-    page_image: v11/17-171-419-011.jpg
+- pageintom: '11'
+  image: v11/17-171-419-011.jpg
+  sublists:
+  - sublid: '614'
     persons:
     - id: '40927'
       num: '20'
@@ -129,8 +128,10 @@ sublists:
       num: '21'
       name: ЧУСТЕЕВ Виктор Семенович
       spravka: true
-  - pageintom: '12'
-    page_image: v11/17-171-419-012.jpg
+- pageintom: '12'
+  image: v11/17-171-419-012.jpg
+  sublists:
+  - sublid: '614'
     persons:
     - id: '40929'
       num: '1'

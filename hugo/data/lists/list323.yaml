@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '263'
-  image: v08/17-171-416-263.jpg
-- pageintom: '264'
-  image: v08/17-171-416-264.jpg
-- pageintom: '265'
-  image: v08/17-171-416-265.jpg
-- pageintom: '266'
-  image: v08/17-171-416-266.jpg
-- pageintom: '267'
-  image: v08/17-171-416-267.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Северо-Осетинская АССР]
   listtitle: Список лиц - Северо-Осетинская АССР
@@ -35,9 +24,17 @@ sublists:
   - 133
   group_ids:
   - 0
-  pages:
-  - pageintom: '265'
-    page_image: v08/17-171-416-265.jpg
+pages:
+- pageintom: '263'
+  image: v08/17-171-416-263.jpg
+  sublists: []
+- pageintom: '264'
+  image: v08/17-171-416-264.jpg
+  sublists: []
+- pageintom: '265'
+  image: v08/17-171-416-265.jpg
+  sublists:
+  - sublid: '569'
     persons:
     - id: '32329'
       num: '1'
@@ -130,8 +127,10 @@ sublists:
     - id: '32351'
       num: '23'
       name: КАРСАНОВ Хатахцико Сахмурзаевич
-  - pageintom: '266'
-    page_image: v08/17-171-416-266.jpg
+- pageintom: '266'
+  image: v08/17-171-416-266.jpg
+  sublists:
+  - sublid: '569'
     persons:
     - id: '32352'
       num: '24'
@@ -221,8 +220,10 @@ sublists:
       num: '45'
       name: ШИПОВ Константин Максимович
       spravka: true
-  - pageintom: '267'
-    page_image: v08/17-171-416-267.jpg
+- pageintom: '267'
+  image: v08/17-171-416-267.jpg
+  sublists:
+  - sublid: '569'
     persons:
     - id: '32374'
       num: '1'

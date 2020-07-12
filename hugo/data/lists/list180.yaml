@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '171'
-  image: v09/17-171-417-171.jpg
-- pageintom: '172'
-  image: v09/17-171-417-172.jpg
-- pageintom: '173'
-  image: v09/17-171-417-173.jpg
-- pageintom: '174'
-  image: v09/17-171-417-174.jpg
-- pageintom: '175'
-  image: v09/17-171-417-175.jpg
 sublists:
 - title: Список от 10.VI.38г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -35,9 +24,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '173'
-    page_image: v09/17-171-417-173.jpg
+pages:
+- pageintom: '171'
+  image: v09/17-171-417-171.jpg
+  sublists: []
+- pageintom: '172'
+  image: v09/17-171-417-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v09/17-171-417-173.jpg
+  sublists:
+  - sublid: '121'
     persons:
     - id: '35603'
       num: '1'
@@ -128,8 +125,10 @@ sublists:
       num: '24'
       name: МЕЛЬНИК Степан Павлович
       spravka: true
-  - pageintom: '174'
-    page_image: v09/17-171-417-174.jpg
+- pageintom: '174'
+  image: v09/17-171-417-174.jpg
+  sublists:
+  - sublid: '121'
     persons:
     - id: '35627'
       num: '25'
@@ -211,8 +210,10 @@ sublists:
       num: '46'
       name: ЩЕРБАКОВ Василий Карпович
       spravka: true
-  - pageintom: '175'
-    page_image: v09/17-171-417-175.jpg
+- pageintom: '175'
+  image: v09/17-171-417-175.jpg
+  sublists:
+  - sublid: '121'
     persons:
     - id: '35649'
       num: '1'

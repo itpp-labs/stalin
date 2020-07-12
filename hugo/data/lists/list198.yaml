@@ -13,39 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '108'
-  image: v10/17-171-418-108.jpg
-- pageintom: '109'
-  image: v10/17-171-418-109.jpg
-- pageintom: '110'
-  image: v10/17-171-418-110.jpg
-- pageintom: '111'
-  image: v10/17-171-418-111.jpg
-- pageintom: '112'
-  image: v10/17-171-418-112.jpg
-- pageintom: '113'
-  image: v10/17-171-418-113.jpg
-- pageintom: '114'
-  image: v10/17-171-418-114.jpg
-- pageintom: '115'
-  image: v10/17-171-418-115.jpg
-- pageintom: '116'
-  image: v10/17-171-418-116.jpg
-- pageintom: '117'
-  image: v10/17-171-418-117.jpg
-- pageintom: '118'
-  image: v10/17-171-418-118.jpg
-- pageintom: '119'
-  image: v10/17-171-418-119.jpg
-- pageintom: '120'
-  image: v10/17-171-418-120.jpg
-- pageintom: '121'
-  image: v10/17-171-418-121.jpg
-- pageintom: '122'
-  image: v10/17-171-418-122.jpg
-- pageintom: '123'
-  image: v10/17-171-418-123.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Узбекская ССР]
   listtitle: Список лиц - Узбекская ССР, г.Ташкент-Ташкентская ж.д.
@@ -59,9 +26,29 @@ sublists:
   - 36
   group_ids:
   - 0
-  pages:
-  - pageintom: '110'
-    page_image: v10/17-171-418-110.jpg
+- title: Список от 12 сентября 1938г. [Гор.Ташкент.- Ташкентская ж.д.]
+  listtitle: Список лиц - Узбекская ССР, г.Ташкент-Ташкентская ж.д.
+  sublisttitle: Гор.Ташкент.- Ташкентская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 74
+  geosub_ids:
+  - 125
+  group_ids:
+  - 13
+pages:
+- pageintom: '108'
+  image: v10/17-171-418-108.jpg
+  sublists: []
+- pageintom: '109'
+  image: v10/17-171-418-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v10/17-171-418-110.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38624'
       num: '1'
@@ -132,8 +119,10 @@ sublists:
     - id: '38644'
       num: '21'
       name: АЛЛАХВЕРДОВ Эрванд Андриасович
-  - pageintom: '111'
-    page_image: v10/17-171-418-111.jpg
+- pageintom: '111'
+  image: v10/17-171-418-111.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38645'
       num: '22'
@@ -210,8 +199,10 @@ sublists:
     - id: '38668'
       num: '45'
       name: БЕКБАУЛИЕВ Исматулла
-  - pageintom: '112'
-    page_image: v10/17-171-418-112.jpg
+- pageintom: '112'
+  image: v10/17-171-418-112.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38669'
       num: '46'
@@ -291,8 +282,10 @@ sublists:
     - id: '38692'
       num: '69'
       name: ДЖУРАЕВ Рахмат
-  - pageintom: '113'
-    page_image: v10/17-171-418-113.jpg
+- pageintom: '113'
+  image: v10/17-171-418-113.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38693'
       num: '70'
@@ -375,8 +368,10 @@ sublists:
       num: '94'
       name: ИШИМБЕТОВ Давлетьяр
       spravka: true
-  - pageintom: '114'
-    page_image: v10/17-171-418-114.jpg
+- pageintom: '114'
+  image: v10/17-171-418-114.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38718'
       num: '95'
@@ -462,8 +457,10 @@ sublists:
     - id: '38742'
       num: '119'
       name: ЛЕОНОВ Иван Леонтьевич
-  - pageintom: '115'
-    page_image: v10/17-171-418-115.jpg
+- pageintom: '115'
+  image: v10/17-171-418-115.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38743'
       num: '120'
@@ -550,8 +547,10 @@ sublists:
     - id: '38769'
       num: '146'
       name: НИЗАМЕТДИНОВ ТУРДЫМУРАТ
-  - pageintom: '116'
-    page_image: v10/17-171-418-116.jpg
+- pageintom: '116'
+  image: v10/17-171-418-116.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38770'
       num: '147'
@@ -636,8 +635,10 @@ sublists:
     - id: '38795'
       num: '172'
       name: САДЫКОВ Сабирджан
-  - pageintom: '117'
-    page_image: v10/17-171-418-117.jpg
+- pageintom: '117'
+  image: v10/17-171-418-117.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38796'
       num: '173'
@@ -723,8 +724,10 @@ sublists:
     - id: '38820'
       num: '197'
       name: ТУРИЖАНОВ-ЕГИЗГАРАЕВ Ниязгали
-  - pageintom: '118'
-    page_image: v10/17-171-418-118.jpg
+- pageintom: '118'
+  image: v10/17-171-418-118.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38821'
       num: '198'
@@ -809,8 +812,10 @@ sublists:
     - id: '38846'
       num: '223'
       name: ШАХМУРАТОВ КАРАМАН
-  - pageintom: '119'
-    page_image: v10/17-171-418-119.jpg
+- pageintom: '119'
+  image: v10/17-171-418-119.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38847'
       num: '224'
@@ -844,8 +849,10 @@ sublists:
       num: '233'
       name: ЯРОШЕВИЧ Никанор Казимирович
       spravka: true
-  - pageintom: '120'
-    page_image: v10/17-171-418-120.jpg
+- pageintom: '120'
+  image: v10/17-171-418-120.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38857'
       num: '1'
@@ -913,8 +920,10 @@ sublists:
     - id: '38877'
       num: '21'
       name: КУСЕКЕЕВ УРАЗАЛИ
-  - pageintom: '121'
-    page_image: v10/17-171-418-121.jpg
+- pageintom: '121'
+  image: v10/17-171-418-121.jpg
+  sublists:
+  - sublid: '326'
     persons:
     - id: '38878'
       num: '22'
@@ -960,21 +969,10 @@ sublists:
     - id: '38891'
       num: '35'
       name: ШАМАТОВ Хасан
-- title: Список от 12 сентября 1938г. [Гор.Ташкент.- Ташкентская ж.д.]
-  listtitle: Список лиц - Узбекская ССР, г.Ташкент-Ташкентская ж.д.
-  sublisttitle: Гор.Ташкент.- Ташкентская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 74
-  geosub_ids:
-  - 125
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '122'
-    page_image: v10/17-171-418-122.jpg
+- pageintom: '122'
+  image: v10/17-171-418-122.jpg
+  sublists:
+  - sublid: '327'
     persons:
     - id: '38892'
       num: '1'
@@ -1025,8 +1023,10 @@ sublists:
     - id: '38906'
       num: '15'
       name: ТРУШ Леонтий Ефимович
-  - pageintom: '123'
-    page_image: v10/17-171-418-123.jpg
+- pageintom: '123'
+  image: v10/17-171-418-123.jpg
+  sublists:
+  - sublid: '327'
     persons:
     - id: '38907'
       num: '1'

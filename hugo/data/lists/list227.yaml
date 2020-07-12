@@ -11,35 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '72'
-  image: v03/17-171-411-072.jpg
-- pageintom: '73'
-  image: v03/17-171-411-073.jpg
-- pageintom: '74'
-  image: v03/17-171-411-074.jpg
-- pageintom: '75'
-  image: v03/17-171-411-075.jpg
-- pageintom: '76'
-  image: v03/17-171-411-076.jpg
-- pageintom: '77'
-  image: v03/17-171-411-077.jpg
-- pageintom: '78'
-  image: v03/17-171-411-078.jpg
-- pageintom: '79'
-  image: v03/17-171-411-079.jpg
-- pageintom: '80'
-  image: v03/17-171-411-080.jpg
-- pageintom: '81'
-  image: v03/17-171-411-081.jpg
-- pageintom: '82'
-  image: v03/17-171-411-082.jpg
-- pageintom: '83'
-  image: v03/17-171-411-083.jpg
-- pageintom: '84'
-  image: v03/17-171-411-084.jpg
-- pageintom: '85'
-  image: v03/17-171-411-085.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Грузинская ССР]
   listtitle: 'Список лиц: Грузинская ССР'
@@ -53,9 +24,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '74'
-    page_image: v03/17-171-411-074.jpg
+pages:
+- pageintom: '72'
+  image: v03/17-171-411-072.jpg
+  sublists: []
+- pageintom: '73'
+  image: v03/17-171-411-073.jpg
+  sublists: []
+- pageintom: '74'
+  image: v03/17-171-411-074.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8395'
       num: '1'
@@ -159,8 +138,10 @@ sublists:
       num: '25'
       name: БАГИРОВ Константин Николаевич
       spravka: true
-  - pageintom: '75'
-    page_image: v03/17-171-411-075.jpg
+- pageintom: '75'
+  image: v03/17-171-411-075.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8420'
       num: '26'
@@ -278,8 +259,10 @@ sublists:
       num: '54'
       name: ВЕККЕР Евгений Михайлович
       spravka: true
-  - pageintom: '76'
-    page_image: v03/17-171-411-076.jpg
+- pageintom: '76'
+  image: v03/17-171-411-076.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8449'
       num: '55'
@@ -399,8 +382,10 @@ sublists:
       num: '83'
       name: ГРИГОЛИЯ Лагустан Решетович
       spravka: true
-  - pageintom: '77'
-    page_image: v03/17-171-411-077.jpg
+- pageintom: '77'
+  image: v03/17-171-411-077.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8478'
       num: '84'
@@ -518,8 +503,10 @@ sublists:
       num: '112'
       name: ЕФИМОВ Валентин Александрович
       spravka: true
-  - pageintom: '78'
-    page_image: v03/17-171-411-078.jpg
+- pageintom: '78'
+  image: v03/17-171-411-078.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8507'
       num: '113'
@@ -641,8 +628,10 @@ sublists:
       num: '142'
       name: КВАНТАЛИАНИ Епифан Алексеевич
       spravka: true
-  - pageintom: '79'
-    page_image: v03/17-171-411-079.jpg
+- pageintom: '79'
+  image: v03/17-171-411-079.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8537'
       num: '143'
@@ -765,8 +754,10 @@ sublists:
       num: '172'
       name: ЛЕОНИДЗЕ Леон Николаевич
       spravka: true
-  - pageintom: '80'
-    page_image: v03/17-171-411-080.jpg
+- pageintom: '80'
+  image: v03/17-171-411-080.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8567'
       num: '173'
@@ -880,8 +871,10 @@ sublists:
       num: '200'
       name: МОРЧИЛАДЗЕ Лаврентий Алексеевич
       spravka: true
-  - pageintom: '81'
-    page_image: v03/17-171-411-081.jpg
+- pageintom: '81'
+  image: v03/17-171-411-081.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8595'
       num: '201'
@@ -1000,8 +993,10 @@ sublists:
       num: '229'
       name: ПОНОМАРЕНКО Александр Сергеевич
       spravka: true
-  - pageintom: '82'
-    page_image: v03/17-171-411-082.jpg
+- pageintom: '82'
+  image: v03/17-171-411-082.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8624'
       num: '230'
@@ -1116,8 +1111,10 @@ sublists:
       num: '257'
       name: ТАРБА Алексей Семенович
       spravka: true
-  - pageintom: '83'
-    page_image: v03/17-171-411-083.jpg
+- pageintom: '83'
+  image: v03/17-171-411-083.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8652'
       num: '258'
@@ -1245,8 +1242,10 @@ sublists:
       num: '288'
       name: ЧЕЛИДЗЕ Илья Малакиевич
       spravka: true
-  - pageintom: '84'
-    page_image: v03/17-171-411-084.jpg
+- pageintom: '84'
+  image: v03/17-171-411-084.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8683'
       num: '289'
@@ -1345,8 +1344,10 @@ sublists:
       num: '312'
       name: ЯСИНСКИЙ Виталий Антонович
       spravka: true
-  - pageintom: '85'
-    page_image: v03/17-171-411-085.jpg
+- pageintom: '85'
+  image: v03/17-171-411-085.jpg
+  sublists:
+  - sublid: '350'
     persons:
     - id: '8707'
       num: '1'

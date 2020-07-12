@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '217'
-  image: v08/17-171-416-217.jpg
-- pageintom: '218'
-  image: v08/17-171-416-218.jpg
-- pageintom: '219'
-  image: v08/17-171-416-219.jpg
-- pageintom: '220'
-  image: v08/17-171-416-220.jpg
-- pageintom: '221'
-  image: v08/17-171-416-221.jpg
-- pageintom: '222'
-  image: v08/17-171-416-222.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Белорусская ССР]
   listtitle: Список лиц - Белорусская ССР
@@ -39,9 +26,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '219'
-    page_image: v08/17-171-416-219.jpg
+pages:
+- pageintom: '217'
+  image: v08/17-171-416-217.jpg
+  sublists: []
+- pageintom: '218'
+  image: v08/17-171-416-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v08/17-171-416-219.jpg
+  sublists:
+  - sublid: '562'
     persons:
     - id: '31833'
       num: '1'
@@ -131,8 +126,10 @@ sublists:
       num: '23'
       name: ЖИЗНЕВСКИЙ Михаил Осипович
       spravka: true
-  - pageintom: '220'
-    page_image: v08/17-171-416-220.jpg
+- pageintom: '220'
+  image: v08/17-171-416-220.jpg
+  sublists:
+  - sublid: '562'
     persons:
     - id: '31856'
       num: '24'
@@ -241,8 +238,10 @@ sublists:
     - id: '31884'
       num: '52'
       name: САВОСТОВ Владимир Моисеевич
-  - pageintom: '221'
-    page_image: v08/17-171-416-221.jpg
+- pageintom: '221'
+  image: v08/17-171-416-221.jpg
+  sublists:
+  - sublid: '562'
     persons:
     - id: '31885'
       num: '53'
@@ -292,8 +291,10 @@ sublists:
       num: '65'
       name: ЯНЧЕНКО Никифор Гаврилович
       spravka: true
-  - pageintom: '222'
-    page_image: v08/17-171-416-222.jpg
+- pageintom: '222'
+  image: v08/17-171-416-222.jpg
+  sublists:
+  - sublid: '562'
     persons:
     - id: '31898'
       num: '1'

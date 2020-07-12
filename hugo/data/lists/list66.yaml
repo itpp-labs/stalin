@@ -14,17 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   kosior: true
-pages:
-- pageintom: '255'
-  image: v02/17-171-410-255.jpg
-- pageintom: '256'
-  image: v02/17-171-410-256.jpg
-- pageintom: '257'
-  image: v02/17-171-410-257.jpg
-- pageintom: '258'
-  image: v02/17-171-410-258.jpg
-- pageintom: '259'
-  image: v02/17-171-410-259.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -38,9 +27,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '257'
-    page_image: v02/17-171-410-257.jpg
+pages:
+- pageintom: '255'
+  image: v02/17-171-410-255.jpg
+  sublists: []
+- pageintom: '256'
+  image: v02/17-171-410-256.jpg
+  sublists: []
+- pageintom: '257'
+  image: v02/17-171-410-257.jpg
+  sublists:
+  - sublid: '48'
     persons:
     - id: '6220'
       num: '1'
@@ -148,8 +145,10 @@ sublists:
       num: '26'
       name: РОЗЕНФЕЛЬД Михаил Аронович
       spravka: true
-  - pageintom: '258'
-    page_image: v02/17-171-410-258.jpg
+- pageintom: '258'
+  image: v02/17-171-410-258.jpg
+  sublists:
+  - sublid: '48'
     persons:
     - id: '6246'
       num: '27'
@@ -199,8 +198,10 @@ sublists:
       num: '38'
       name: АРТУЗОВ Артур Христианович
       spravka: true
-  - pageintom: '259'
-    page_image: v02/17-171-410-259.jpg
+- pageintom: '259'
+  image: v02/17-171-410-259.jpg
+  sublists:
+  - sublid: '48'
     persons:
     - id: '6258'
       num: '1'

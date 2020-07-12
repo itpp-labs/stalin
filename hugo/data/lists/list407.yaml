@@ -9,37 +9,6 @@ delo:
   name: ''
   num: ''
 signs: {}
-pages:
-- pageintom: '116'
-  image: v12/17-171-377-116.jpg
-- pageintom: '117'
-  image: v12/17-171-377-117.jpg
-- pageintom: '118'
-  image: v12/17-171-377-118.jpg
-- pageintom: '119'
-  image: v12/17-171-377-119.jpg
-- pageintom: '120'
-  image: v12/17-171-377-120.jpg
-- pageintom: '121'
-  image: v12/17-171-377-121.jpg
-- pageintom: '122'
-  image: v12/17-171-377-122.jpg
-- pageintom: '123'
-  image: v12/17-171-377-123.jpg
-- pageintom: '124'
-  image: v12/17-171-377-124.jpg
-- pageintom: '125'
-  image: v12/17-171-377-125.jpg
-- pageintom: '126'
-  image: v12/17-171-377-126.jpg
-- pageintom: '127'
-  image: v12/17-171-377-127.jpg
-- pageintom: '128'
-  image: v12/17-171-377-128.jpg
-- pageintom: '129'
-  image: v12/17-171-377-129.jpg
-- pageintom: '130'
-  image: v12/17-171-377-130.jpg
 sublists:
 - title: ''
   listtitle: Список арестованных (категория 1)
@@ -53,9 +22,14 @@ sublists:
   - 169
   group_ids:
   - 0
-  pages:
-  - pageintom: '117'
-    page_image: v12/17-171-377-117.jpg
+pages:
+- pageintom: '116'
+  image: v12/17-171-377-116.jpg
+  sublists: []
+- pageintom: '117'
+  image: v12/17-171-377-117.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44504'
       num: '1'
@@ -154,8 +128,10 @@ sublists:
       num: '24'
       name: БАТЦ Александр Фридрихович
       spravka: true
-  - pageintom: '118'
-    page_image: v12/17-171-377-118.jpg
+- pageintom: '118'
+  image: v12/17-171-377-118.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44528'
       num: '25'
@@ -261,8 +237,10 @@ sublists:
       num: '50'
       name: ВОЛЯ Владимир Федорович
       spravka: true
-  - pageintom: '119'
-    page_image: v12/17-171-377-119.jpg
+- pageintom: '119'
+  image: v12/17-171-377-119.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44554'
       num: '51'
@@ -363,8 +341,10 @@ sublists:
     - id: '44579'
       num: '76'
       name: ДЕГТЯРЕВ Леонид Сергеевич
-  - pageintom: '120'
-    page_image: v12/17-171-377-120.jpg
+- pageintom: '120'
+  image: v12/17-171-377-120.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44580'
       num: '77'
@@ -462,8 +442,10 @@ sublists:
       num: '100'
       name: ЕРШОВ Андрей Мартемьянович
       spravka: true
-  - pageintom: '121'
-    page_image: v12/17-171-377-121.jpg
+- pageintom: '121'
+  image: v12/17-171-377-121.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44604'
       num: '101'
@@ -567,8 +549,10 @@ sublists:
       num: '126'
       name: КАРАТЫГИН Петр Петрович
       spravka: true
-  - pageintom: '122'
-    page_image: v12/17-171-377-122.jpg
+- pageintom: '122'
+  image: v12/17-171-377-122.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44630'
       num: '127'
@@ -674,8 +658,10 @@ sublists:
       num: '152'
       name: КРЫМСКИЙ-УДАРОВ Яков Петрович
       spravka: true
-  - pageintom: '123'
-    page_image: v12/17-171-377-123.jpg
+- pageintom: '123'
+  image: v12/17-171-377-123.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44656'
       num: '153'
@@ -780,8 +766,10 @@ sublists:
       num: '178'
       name: МАРУСИНОВ-БЕРНШТЕЙН Александр Иванович
       spravka: true
-  - pageintom: '124'
-    page_image: v12/17-171-377-124.jpg
+- pageintom: '124'
+  image: v12/17-171-377-124.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44682'
       num: '179'
@@ -884,8 +872,10 @@ sublists:
       num: '204'
       name: МОСИНА Нина Васильевна
       spravka: true
-  - pageintom: '125'
-    page_image: v12/17-171-377-125.jpg
+- pageintom: '125'
+  image: v12/17-171-377-125.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44708'
       num: '205'
@@ -991,8 +981,10 @@ sublists:
       num: '230'
       name: ПАСТУХОВ Сергей Константинович
       spravka: true
-  - pageintom: '126'
-    page_image: v12/17-171-377-126.jpg
+- pageintom: '126'
+  image: v12/17-171-377-126.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44734'
       num: '231'
@@ -1095,8 +1087,10 @@ sublists:
       num: '256'
       name: САДОВСКИЙ Павел Яковлевич
       spravka: true
-  - pageintom: '127'
-    page_image: v12/17-171-377-127.jpg
+- pageintom: '127'
+  image: v12/17-171-377-127.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44760'
       num: '257'
@@ -1199,8 +1193,10 @@ sublists:
       num: '282'
       name: СТРЕЛКОВ Яков Иванович
       spravka: true
-  - pageintom: '128'
-    page_image: v12/17-171-377-128.jpg
+- pageintom: '128'
+  image: v12/17-171-377-128.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44786'
       num: '283'
@@ -1299,8 +1295,10 @@ sublists:
       num: '307'
       name: ФИНКЕЛЬШТЕЙН Борис Анатольевич
       spravka: true
-  - pageintom: '129'
-    page_image: v12/17-171-377-129.jpg
+- pageintom: '129'
+  image: v12/17-171-377-129.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44811'
       num: '308'
@@ -1398,8 +1396,10 @@ sublists:
       num: '331'
       name: ШВАРЦ Сергей Соломонович
       spravka: true
-  - pageintom: '130'
-    page_image: v12/17-171-377-130.jpg
+- pageintom: '130'
+  image: v12/17-171-377-130.jpg
+  sublists:
+  - sublid: '666'
     persons:
     - id: '44835'
       num: '332'

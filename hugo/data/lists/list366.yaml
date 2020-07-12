@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '269'
-  image: v06/17-171-414-269.jpg
-- pageintom: '270'
-  image: v06/17-171-414-270.jpg
-- pageintom: '271'
-  image: v06/17-171-414-271.jpg
-- pageintom: '272'
-  image: v06/17-171-414-272.jpg
-- pageintom: '273'
-  image: v06/17-171-414-273.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область
@@ -37,9 +26,17 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '271'
-    page_image: v06/17-171-414-271.jpg
+pages:
+- pageintom: '269'
+  image: v06/17-171-414-269.jpg
+  sublists: []
+- pageintom: '270'
+  image: v06/17-171-414-270.jpg
+  sublists: []
+- pageintom: '271'
+  image: v06/17-171-414-271.jpg
+  sublists:
+  - sublid: '416'
     persons:
     - id: '22846'
       num: '1'
@@ -122,8 +119,10 @@ sublists:
     - id: '22867'
       num: '22'
       name: ДЖАНГУТДИЕВ Шингали Кариевич
-  - pageintom: '272'
-    page_image: v06/17-171-414-272.jpg
+- pageintom: '272'
+  image: v06/17-171-414-272.jpg
+  sublists:
+  - sublid: '416'
     persons:
     - id: '22868'
       num: '23'
@@ -224,8 +223,10 @@ sublists:
     - id: '22895'
       num: '50'
       name: ТЕЛЕШЕВ Дмитрий Тимофеевич
-  - pageintom: '273'
-    page_image: v06/17-171-414-273.jpg
+- pageintom: '273'
+  image: v06/17-171-414-273.jpg
+  sublists:
+  - sublid: '416'
     persons:
     - id: '22896'
       num: '51'

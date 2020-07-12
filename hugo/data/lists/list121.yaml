@@ -12,13 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '103'
-  image: v05/17-171-413-103.jpg
-- pageintom: '104'
-  image: v05/17-171-413-104.jpg
-- pageintom: '105'
-  image: v05/17-171-413-105.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Армянская ССР]
   listtitle: Список лиц - Армянская ССР
@@ -32,9 +25,17 @@ sublists:
   - 28
   group_ids:
   - 1
-  pages:
-  - pageintom: '105'
-    page_image: v05/17-171-413-105.jpg
+pages:
+- pageintom: '103'
+  image: v05/17-171-413-103.jpg
+  sublists: []
+- pageintom: '104'
+  image: v05/17-171-413-104.jpg
+  sublists: []
+- pageintom: '105'
+  image: v05/17-171-413-105.jpg
+  sublists:
+  - sublid: '80'
     persons:
     - id: '15299'
       num: '1'

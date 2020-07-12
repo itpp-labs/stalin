@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '124'
-  image: v10/17-171-418-124.jpg
-- pageintom: '125'
-  image: v10/17-171-418-125.jpg
-- pageintom: '126'
-  image: v10/17-171-418-126.jpg
-- pageintom: '127'
-  image: v10/17-171-418-127.jpg
-- pageintom: '128'
-  image: v10/17-171-418-128.jpg
-- pageintom: '129'
-  image: v10/17-171-418-129.jpg
-- pageintom: '130'
-  image: v10/17-171-418-130.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -40,9 +25,17 @@ sublists:
   - 47
   group_ids:
   - 0
-  pages:
-  - pageintom: '126'
-    page_image: v10/17-171-418-126.jpg
+pages:
+- pageintom: '124'
+  image: v10/17-171-418-124.jpg
+  sublists: []
+- pageintom: '125'
+  image: v10/17-171-418-125.jpg
+  sublists: []
+- pageintom: '126'
+  image: v10/17-171-418-126.jpg
+  sublists:
+  - sublid: '133'
     persons:
     - id: '38917'
       num: '1'
@@ -132,8 +125,10 @@ sublists:
       num: '22'
       name: ДЗЕРЖИНСКИЙ Бронислав Иосифович
       spravka: true
-  - pageintom: '127'
-    page_image: v10/17-171-418-127.jpg
+- pageintom: '127'
+  image: v10/17-171-418-127.jpg
+  sublists:
+  - sublid: '133'
     persons:
     - id: '38939'
       num: '23'
@@ -231,8 +226,10 @@ sublists:
       num: '47'
       name: ОРЛОВ Даниил Владимирович
       spravka: true
-  - pageintom: '128'
-    page_image: v10/17-171-418-128.jpg
+- pageintom: '128'
+  image: v10/17-171-418-128.jpg
+  sublists:
+  - sublid: '133'
     persons:
     - id: '38964'
       num: '48'
@@ -326,8 +323,10 @@ sublists:
     - id: '38987'
       num: '71'
       name: ТОРСКИЙ Иван Самойлович
-  - pageintom: '129'
-    page_image: v10/17-171-418-129.jpg
+- pageintom: '129'
+  image: v10/17-171-418-129.jpg
+  sublists:
+  - sublid: '133'
     persons:
     - id: '38988'
       num: '72'
@@ -380,8 +379,10 @@ sublists:
     - id: '39000'
       num: '84'
       name: ЯРОШ Ян Войцехович
-  - pageintom: '130'
-    page_image: v10/17-171-418-130.jpg
+- pageintom: '130'
+  image: v10/17-171-418-130.jpg
+  sublists:
+  - sublid: '133'
     persons:
     - id: '39001'
       num: '1'

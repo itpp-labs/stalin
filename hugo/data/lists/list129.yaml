@@ -12,43 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '183'
-  image: v05/17-171-413-183.jpg
-- pageintom: '184'
-  image: v05/17-171-413-184.jpg
-- pageintom: '185'
-  image: v05/17-171-413-185.jpg
-- pageintom: '186'
-  image: v05/17-171-413-186.jpg
-- pageintom: '187'
-  image: v05/17-171-413-187.jpg
-- pageintom: '188'
-  image: v05/17-171-413-188.jpg
-- pageintom: '189'
-  image: v05/17-171-413-189.jpg
-- pageintom: '190'
-  image: v05/17-171-413-190.jpg
-- pageintom: '191'
-  image: v05/17-171-413-191.jpg
-- pageintom: '192'
-  image: v05/17-171-413-192.jpg
-- pageintom: '193'
-  image: v05/17-171-413-193.jpg
-- pageintom: '194'
-  image: v05/17-171-413-194.jpg
-- pageintom: '195'
-  image: v05/17-171-413-195.jpg
-- pageintom: '196'
-  image: v05/17-171-413-196.jpg
-- pageintom: '197'
-  image: v05/17-171-413-197.jpg
-- pageintom: '198'
-  image: v05/17-171-413-198.jpg
-- pageintom: '199'
-  image: v05/17-171-413-199.jpg
-- pageintom: '200'
-  image: v05/17-171-413-200.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Азербайджанская ССР]
   listtitle: Список лиц - Азербайджанская ССР
@@ -63,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '185'
-    page_image: v05/17-171-413-185.jpg
+pages:
+- pageintom: '183'
+  image: v05/17-171-413-183.jpg
+  sublists: []
+- pageintom: '184'
+  image: v05/17-171-413-184.jpg
+  sublists: []
+- pageintom: '185'
+  image: v05/17-171-413-185.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16561'
       num: '1'
@@ -140,8 +111,10 @@ sublists:
       num: '23'
       name: АЛИЕВ МУСЕИБ АБДУЛЛА ОГЛЫ
       spravka: true
-  - pageintom: '186'
-    page_image: v05/17-171-413-186.jpg
+- pageintom: '186'
+  image: v05/17-171-413-186.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16584'
       num: '24'
@@ -236,8 +209,10 @@ sublists:
       num: '52'
       name: БЕРГФЕЛЬД Эдуард Константинович
       spravka: true
-  - pageintom: '187'
-    page_image: v05/17-171-413-187.jpg
+- pageintom: '187'
+  image: v05/17-171-413-187.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '32921'
       num: '53'
@@ -335,8 +310,10 @@ sublists:
     - id: '16641'
       num: '81'
       name: ГЕРЦБЕРГ Генрих Лазаревич
-  - pageintom: '188'
-    page_image: v05/17-171-413-188.jpg
+- pageintom: '188'
+  image: v05/17-171-413-188.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16642'
       num: '82'
@@ -429,8 +406,10 @@ sublists:
     - id: '16670'
       num: '110'
       name: ДЖАФАРОВ КУЛИ АКПЕР ОГЛЫ
-  - pageintom: '189'
-    page_image: v05/17-171-413-189.jpg
+- pageintom: '189'
+  image: v05/17-171-413-189.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16671'
       num: '111'
@@ -523,8 +502,10 @@ sublists:
       num: '139'
       name: КАДИРЛИ Мовсум Наджметдин
       spravka: true
-  - pageintom: '190'
-    page_image: v05/17-171-413-190.jpg
+- pageintom: '190'
+  image: v05/17-171-413-190.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16700'
       num: '140'
@@ -612,8 +593,10 @@ sublists:
     - id: '16727'
       num: '167'
       name: КУРБАНОВ МУСА НАДЖАФ КУЛИ ОГЛЫ
-  - pageintom: '191'
-    page_image: v05/17-171-413-191.jpg
+- pageintom: '191'
+  image: v05/17-171-413-191.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16728'
       num: '168'
@@ -705,8 +688,10 @@ sublists:
     - id: '16756'
       num: '196'
       name: МИЛОВ Михаил Петрович
-  - pageintom: '192'
-    page_image: v05/17-171-413-192.jpg
+- pageintom: '192'
+  image: v05/17-171-413-192.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16757'
       num: '197'
@@ -799,8 +784,10 @@ sublists:
       num: '225'
       name: ПЛЕГЕР Фридрих Фридрихович, он же Федор Федорович
       spravka: true
-  - pageintom: '193'
-    page_image: v05/17-171-413-193.jpg
+- pageintom: '193'
+  image: v05/17-171-413-193.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16786'
       num: '226'
@@ -900,8 +887,10 @@ sublists:
       num: '254'
       name: СЕИДБЕЙЛИ ЗУЛЬФУГАР АББАС ОГЛЫ
       spravka: true
-  - pageintom: '194'
-    page_image: v05/17-171-413-194.jpg
+- pageintom: '194'
+  image: v05/17-171-413-194.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16815'
       num: '255'
@@ -999,8 +988,10 @@ sublists:
       name: ФАРАДЖ ЗАДЕ АСКЕР МАМЕД ОГЛЫ
       doublesexists: true
       spravka: true
-  - pageintom: '195'
-    page_image: v05/17-171-413-195.jpg
+- pageintom: '195'
+  image: v05/17-171-413-195.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16844'
       num: '284'
@@ -1101,14 +1092,18 @@ sublists:
     - id: '16872'
       num: '312'
       name: ЮРАСОВ Марк Алексеевич
-  - pageintom: '196'
-    page_image: v05/17-171-413-196.jpg
+- pageintom: '196'
+  image: v05/17-171-413-196.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16873'
       num: '313'
       name: ЯГУБОВ АБДУЛ ГАМИД КУЛИ ОГЛЫ
-  - pageintom: '197'
-    page_image: v05/17-171-413-197.jpg
+- pageintom: '197'
+  image: v05/17-171-413-197.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16874'
       num: '1'
@@ -1121,8 +1116,16 @@ sublists:
       name: РИКГОФ Фридрих Гаральдович
       gb_spravka: true
       spravka: true
-  - pageintom: '200'
-    page_image: v05/17-171-413-200.jpg
+- pageintom: '198'
+  image: v05/17-171-413-198.jpg
+  sublists: []
+- pageintom: '199'
+  image: v05/17-171-413-199.jpg
+  sublists: []
+- pageintom: '200'
+  image: v05/17-171-413-200.jpg
+  sublists:
+  - sublid: '83'
     persons:
     - id: '16876'
       num: '1'

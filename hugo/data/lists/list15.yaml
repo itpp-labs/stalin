@@ -14,21 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   kosior: true
-pages:
-- pageintom: '123'
-  image: v01/17-171-409-123.jpg
-- pageintom: '124'
-  image: v01/17-171-409-124.jpg
-- pageintom: '125'
-  image: v01/17-171-409-125.jpg
-- pageintom: '126'
-  image: v01/17-171-409-126.jpg
-- pageintom: '127'
-  image: v01/17-171-409-127.jpg
-- pageintom: '128'
-  image: v01/17-171-409-128.jpg
-- pageintom: '129'
-  image: v01/17-171-409-129.jpg
 sublists:
 - title: Список от 6 мая 1937 г. [г.Ленинград]
   listtitle: Список лиц - г.Ленинград
@@ -43,9 +28,17 @@ sublists:
   group_ids:
   - 8
   - 9
-  pages:
-  - pageintom: '125'
-    page_image: v01/17-171-409-125.jpg
+pages:
+- pageintom: '123'
+  image: v01/17-171-409-123.jpg
+  sublists: []
+- pageintom: '124'
+  image: v01/17-171-409-124.jpg
+  sublists: []
+- pageintom: '125'
+  image: v01/17-171-409-125.jpg
+  sublists:
+  - sublid: '12'
     persons:
     - id: '1969'
       num: '1'
@@ -137,8 +130,10 @@ sublists:
       num: '16'
       name: МЕДВЕДЕВ Федор Ванифатьевич
       spravka: true
-  - pageintom: '126'
-    page_image: v01/17-171-409-126.jpg
+- pageintom: '126'
+  image: v01/17-171-409-126.jpg
+  sublists:
+  - sublid: '12'
     persons:
     - id: '1991'
       num: '17'
@@ -186,8 +181,10 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
-  - pageintom: '127'
-    page_image: v01/17-171-409-127.jpg
+- pageintom: '127'
+  image: v01/17-171-409-127.jpg
+  sublists:
+  - sublid: '12'
     persons:
     - id: '2002'
       num: '1'
@@ -267,8 +264,10 @@ sublists:
       num: '8'
       name: ЛЕОШКО Иосиф Доминикович
       spravka: true
-  - pageintom: '128'
-    page_image: v01/17-171-409-128.jpg
+- pageintom: '128'
+  image: v01/17-171-409-128.jpg
+  sublists:
+  - sublid: '12'
     persons:
     - id: '2024'
       num: '9'
@@ -291,8 +290,10 @@ sublists:
       name: ЧЕРНЫШОВА Ольга Федоровна [вписано от руки - перенесено из 1-й кат.]
       doublesexists: true
       spravka: true
-  - pageintom: '129'
-    page_image: v01/17-171-409-129.jpg
+- pageintom: '129'
+  image: v01/17-171-409-129.jpg
+  sublists:
+  - sublid: '12'
     persons:
     - id: '2030'
       num: '1'

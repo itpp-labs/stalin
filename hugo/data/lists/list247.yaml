@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '229'
-  image: v03/17-171-411-229.jpg
-- pageintom: '230'
-  image: v03/17-171-411-230.jpg
-- pageintom: '231'
-  image: v03/17-171-411-231.jpg
-- pageintom: '232'
-  image: v03/17-171-411-232.jpg
-- pageintom: '233'
-  image: v03/17-171-411-233.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -37,9 +26,14 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '230'
-    page_image: v03/17-171-411-230.jpg
+pages:
+- pageintom: '229'
+  image: v03/17-171-411-229.jpg
+  sublists: []
+- pageintom: '230'
+  image: v03/17-171-411-230.jpg
+  sublists:
+  - sublid: '364'
     persons:
     - id: '10316'
       num: '1'
@@ -122,8 +116,10 @@ sublists:
       name: ИВАНОВ Вячеслав Федорович
       doublesexists: true
       spravka: true
-  - pageintom: '231'
-    page_image: v03/17-171-411-231.jpg
+- pageintom: '231'
+  image: v03/17-171-411-231.jpg
+  sublists:
+  - sublid: '364'
     persons:
     - id: '10334'
       num: '19'
@@ -202,8 +198,10 @@ sublists:
       num: '35'
       name: МЕДВЕДЕВ Алексей Васильевич
       spravka: true
-  - pageintom: '232'
-    page_image: v03/17-171-411-232.jpg
+- pageintom: '232'
+  image: v03/17-171-411-232.jpg
+  sublists:
+  - sublid: '364'
     persons:
     - id: '11516'
       num: '36'
@@ -321,8 +319,10 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
-  - pageintom: '233'
-    page_image: v03/17-171-411-233.jpg
+- pageintom: '233'
+  image: v03/17-171-411-233.jpg
+  sublists:
+  - sublid: '364'
     persons:
     - id: '10377'
       num: '62'

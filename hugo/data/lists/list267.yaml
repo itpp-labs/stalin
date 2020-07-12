@@ -14,49 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '117'
-  image: v07/17-171-415-117.jpg
-- pageintom: '118'
-  image: v07/17-171-415-118.jpg
-- pageintom: '119'
-  image: v07/17-171-415-119.jpg
-- pageintom: '120'
-  image: v07/17-171-415-120.jpg
-- pageintom: '121'
-  image: v07/17-171-415-121.jpg
-- pageintom: '122'
-  image: v07/17-171-415-122.jpg
-- pageintom: '123'
-  image: v07/17-171-415-123.jpg
-- pageintom: '124'
-  image: v07/17-171-415-124.jpg
-- pageintom: '125'
-  image: v07/17-171-415-125.jpg
-- pageintom: '126'
-  image: v07/17-171-415-126.jpg
-- pageintom: '127'
-  image: v07/17-171-415-127.jpg
-- pageintom: '128'
-  image: v07/17-171-415-128.jpg
-- pageintom: '129'
-  image: v07/17-171-415-129.jpg
-- pageintom: '130'
-  image: v07/17-171-415-130.jpg
-- pageintom: '131'
-  image: v07/17-171-415-131.jpg
-- pageintom: '132'
-  image: v07/17-171-415-132.jpg
-- pageintom: '133'
-  image: v07/17-171-415-133.jpg
-- pageintom: '134'
-  image: v07/17-171-415-134.jpg
-- pageintom: '135'
-  image: v07/17-171-415-135.jpg
-- pageintom: '136'
-  image: v07/17-171-415-136.jpg
-- pageintom: '137'
-  image: v07/17-171-415-137.jpg
 sublists:
 - title: Список от марта 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР,г.Днепропетровск.Сталинская ж.д.
@@ -88,9 +45,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '119'
-    page_image: v07/17-171-415-119.jpg
+- title: Список от марта 1938г. [г.Днепропетровск-Сталинская ж.д.]
+  listtitle: Список лиц - Украинская ССР,г.Днепропетровск.Сталинская ж.д.
+  sublisttitle: г.Днепропетровск-Сталинская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 77
+  geosub_ids:
+  - 67
+  group_ids:
+  - 13
+pages:
+- pageintom: '117'
+  image: v07/17-171-415-117.jpg
+  sublists: []
+- pageintom: '118'
+  image: v07/17-171-415-118.jpg
+  sublists: []
+- pageintom: '119'
+  image: v07/17-171-415-119.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27017'
       num: '1'
@@ -169,8 +146,10 @@ sublists:
       num: '21'
       name: ХАРИ Илья Георгиевич
       spravka: true
-  - pageintom: '120'
-    page_image: v07/17-171-415-120.jpg
+- pageintom: '120'
+  image: v07/17-171-415-120.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27038'
       num: '22'
@@ -264,8 +243,10 @@ sublists:
       num: '46'
       name: ЖДАНОВ Всеволод Иванович
       spravka: true
-  - pageintom: '121'
-    page_image: v07/17-171-415-121.jpg
+- pageintom: '121'
+  image: v07/17-171-415-121.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27063'
       num: '47'
@@ -366,8 +347,10 @@ sublists:
     - id: '27089'
       num: '73'
       name: ПИПЕР Франц Генрихович
-  - pageintom: '122'
-    page_image: v07/17-171-415-122.jpg
+- pageintom: '122'
+  image: v07/17-171-415-122.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27090'
       num: '74'
@@ -467,8 +450,10 @@ sublists:
     - id: '27116'
       num: '100'
       name: ФРЕНКЕЛЬ Александр Михайлович
-  - pageintom: '123'
-    page_image: v07/17-171-415-123.jpg
+- pageintom: '123'
+  image: v07/17-171-415-123.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27117'
       num: '101'
@@ -552,8 +537,10 @@ sublists:
     - id: '27140'
       num: '124'
       name: ЯРОСЛАВСКИЙ Иван Исидорович
-  - pageintom: '124'
-    page_image: v07/17-171-415-124.jpg
+- pageintom: '124'
+  image: v07/17-171-415-124.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27141'
       num: '125'
@@ -630,8 +617,10 @@ sublists:
       num: '143'
       name: ТУНКЕЛЬРОЙТ Мордух Бенционович
       spravka: true
-  - pageintom: '125'
-    page_image: v07/17-171-415-125.jpg
+- pageintom: '125'
+  image: v07/17-171-415-125.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27160'
       num: '144'
@@ -712,8 +701,10 @@ sublists:
       num: '163'
       name: ЕВСЕЕВ Тимофей Павлович
       spravka: true
-  - pageintom: '126'
-    page_image: v07/17-171-415-126.jpg
+- pageintom: '126'
+  image: v07/17-171-415-126.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27180'
       num: '164'
@@ -810,8 +801,10 @@ sublists:
     - id: '27203'
       num: '187'
       name: ИВАНИЦКИЙ Юрий Михайлович
-  - pageintom: '127'
-    page_image: v07/17-171-415-127.jpg
+- pageintom: '127'
+  image: v07/17-171-415-127.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27204'
       num: '188'
@@ -885,8 +878,10 @@ sublists:
     - id: '27225'
       num: '209'
       name: ПРОЦЕНКО Владимир Федорович
-  - pageintom: '128'
-    page_image: v07/17-171-415-128.jpg
+- pageintom: '128'
+  image: v07/17-171-415-128.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27226'
       num: '210'
@@ -948,8 +943,10 @@ sublists:
     - id: '27243'
       num: '227'
       name: ШАЙКИН Александр Михайлович
-  - pageintom: '129'
-    page_image: v07/17-171-415-129.jpg
+- pageintom: '129'
+  image: v07/17-171-415-129.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27244'
       num: '1'
@@ -957,8 +954,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р.  (Одесская область) </u><br
         />(иностранные подданные)</p><p align="right"><u>1-я категория</u>
-  - pageintom: '131'
-    page_image: v07/17-171-415-131.jpg
+- pageintom: '130'
+  image: v07/17-171-415-130.jpg
+  sublists: []
+- pageintom: '131'
+  image: v07/17-171-415-131.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27245'
       num: '1'
@@ -997,8 +999,10 @@ sublists:
     - id: '27254'
       num: '10'
       name: ШИФРИН Аркадий Григорьевич
-  - pageintom: '132'
-    page_image: v07/17-171-415-132.jpg
+- pageintom: '132'
+  image: v07/17-171-415-132.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27255'
       num: '11'
@@ -1066,8 +1070,10 @@ sublists:
       num: '26'
       name: ГУСЕВ Сергей Иванович
       spravka: true
-  - pageintom: '133'
-    page_image: v07/17-171-415-133.jpg
+- pageintom: '133'
+  image: v07/17-171-415-133.jpg
+  sublists:
+  - sublid: '530'
     persons:
     - id: '27271'
       num: '27'
@@ -1133,21 +1139,10 @@ sublists:
       num: '43'
       name: ЦЫГАНКОВ Григорий Васильевич
       spravka: true
-- title: Список от марта 1938г. [г.Днепропетровск-Сталинская ж.д.]
-  listtitle: Список лиц - Украинская ССР,г.Днепропетровск.Сталинская ж.д.
-  sublisttitle: г.Днепропетровск-Сталинская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 77
-  geosub_ids:
-  - 67
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '134'
-    page_image: v07/17-171-415-134.jpg
+- pageintom: '134'
+  image: v07/17-171-415-134.jpg
+  sublists:
+  - sublid: '531'
     persons:
     - id: '27288'
       num: '1'
@@ -1235,8 +1230,10 @@ sublists:
     - id: '27309'
       num: '22'
       name: ГРУШКО-МЕЛАМЕД Владимир Семенович
-  - pageintom: '135'
-    page_image: v07/17-171-415-135.jpg
+- pageintom: '135'
+  image: v07/17-171-415-135.jpg
+  sublists:
+  - sublid: '531'
     persons:
     - id: '27310'
       num: '23'
@@ -1336,8 +1333,10 @@ sublists:
       num: '48'
       name: МЕЛЬНИЧУК Борис Михайлович
       spravka: true
-  - pageintom: '136'
-    page_image: v07/17-171-415-136.jpg
+- pageintom: '136'
+  image: v07/17-171-415-136.jpg
+  sublists:
+  - sublid: '531'
     persons:
     - id: '27336'
       num: '49'
@@ -1426,8 +1425,10 @@ sublists:
       num: '71'
       name: ЯКУЩЕНКО Петр Ефимович
       spravka: true
-  - pageintom: '137'
-    page_image: v07/17-171-415-137.jpg
+- pageintom: '137'
+  image: v07/17-171-415-137.jpg
+  sublists:
+  - sublid: '531'
     persons:
     - id: '27359'
       num: '1'

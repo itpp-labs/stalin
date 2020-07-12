@@ -14,29 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '66'
-  image: v06/17-171-414-066.jpg
-- pageintom: '67'
-  image: v06/17-171-414-067.jpg
-- pageintom: '68'
-  image: v06/17-171-414-068.jpg
-- pageintom: '69'
-  image: v06/17-171-414-069.jpg
-- pageintom: '70'
-  image: v06/17-171-414-070.jpg
-- pageintom: '71'
-  image: v06/17-171-414-071.jpg
-- pageintom: '72'
-  image: v06/17-171-414-072.jpg
-- pageintom: '73'
-  image: v06/17-171-414-073.jpg
-- pageintom: '74'
-  image: v06/17-171-414-074.jpg
-- pageintom: '75'
-  image: v06/17-171-414-075.jpg
-- pageintom: '76'
-  image: v06/17-171-414-076.jpg
 sublists:
 - title: Список от 3 января 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область;Оренбург.Оренбургская ж.д.
@@ -50,9 +27,29 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '68'
-    page_image: v06/17-171-414-068.jpg
+- title: Список от 3 января 1938г. [Оренбург-Оренбургская ж.д.]
+  listtitle: Список лиц - Оренбургская область;Оренбург.Оренбургская ж.д.
+  sublisttitle: Оренбург-Оренбургская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 116
+  group_ids:
+  - 13
+pages:
+- pageintom: '66'
+  image: v06/17-171-414-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v06/17-171-414-067.jpg
+  sublists: []
+- pageintom: '68'
+  image: v06/17-171-414-068.jpg
+  sublists:
+  - sublid: '445'
     persons:
     - id: '20172'
       num: '1'
@@ -151,8 +148,10 @@ sublists:
       num: '24'
       name: ГРИШИН Иван Петрович
       spravka: true
-  - pageintom: '69'
-    page_image: v06/17-171-414-069.jpg
+- pageintom: '69'
+  image: v06/17-171-414-069.jpg
+  sublists:
+  - sublid: '445'
     persons:
     - id: '20196'
       num: '25'
@@ -256,8 +255,10 @@ sublists:
       num: '50'
       name: ЛЕБЕДЕВ Алексей Спиридонович
       spravka: true
-  - pageintom: '70'
-    page_image: v06/17-171-414-070.jpg
+- pageintom: '70'
+  image: v06/17-171-414-070.jpg
+  sublists:
+  - sublid: '445'
     persons:
     - id: '20222'
       num: '51'
@@ -370,8 +371,10 @@ sublists:
       num: '78'
       name: САВВИН Владимир Алексеевич
       spravka: true
-  - pageintom: '71'
-    page_image: v06/17-171-414-071.jpg
+- pageintom: '71'
+  image: v06/17-171-414-071.jpg
+  sublists:
+  - sublid: '445'
     persons:
     - id: '20250'
       num: '79'
@@ -443,21 +446,10 @@ sublists:
       num: '1'
       name: КАСЬЯНОВ Василий Васильевич
       subtitle1: <p align="right"><u>2-я категория</u>
-- title: Список от 3 января 1938г. [Оренбург-Оренбургская ж.д.]
-  listtitle: Список лиц - Оренбургская область;Оренбург.Оренбургская ж.д.
-  sublisttitle: Оренбург-Оренбургская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 53
-  geosub_ids:
-  - 116
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '72'
-    page_image: v06/17-171-414-072.jpg
+- pageintom: '72'
+  image: v06/17-171-414-072.jpg
+  sublists:
+  - sublid: '446'
     persons:
     - id: '20268'
       num: '1'
@@ -553,8 +545,10 @@ sublists:
       num: '24'
       name: ДОЛГУШИН Иван Иванович
       spravka: true
-  - pageintom: '73'
-    page_image: v06/17-171-414-073.jpg
+- pageintom: '73'
+  image: v06/17-171-414-073.jpg
+  sublists:
+  - sublid: '446'
     persons:
     - id: '20292'
       num: '25'
@@ -654,8 +648,10 @@ sublists:
     - id: '20318'
       num: '51'
       name: МАРКЕЛОВ Александр Ефимович
-  - pageintom: '74'
-    page_image: v06/17-171-414-074.jpg
+- pageintom: '74'
+  image: v06/17-171-414-074.jpg
+  sublists:
+  - sublid: '446'
     persons:
     - id: '20319'
       num: '52'
@@ -759,8 +755,10 @@ sublists:
     - id: '20346'
       num: '79'
       name: ТЕНЕРЯДНОВ Иван Федорович
-  - pageintom: '75'
-    page_image: v06/17-171-414-075.jpg
+- pageintom: '75'
+  image: v06/17-171-414-075.jpg
+  sublists:
+  - sublid: '446'
     persons:
     - id: '20347'
       num: '80'
@@ -820,8 +818,10 @@ sublists:
     - id: '20361'
       num: '94'
       name: ЯНКОВСКАЯ Елена Ефимовна
-  - pageintom: '76'
-    page_image: v06/17-171-414-076.jpg
+- pageintom: '76'
+  image: v06/17-171-414-076.jpg
+  sublists:
+  - sublid: '446'
     persons:
     - id: '20362'
       num: '1'

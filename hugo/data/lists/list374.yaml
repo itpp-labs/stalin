@@ -13,15 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '321'
-  image: v06/17-171-414-321.jpg
-- pageintom: '322'
-  image: v06/17-171-414-322.jpg
-- pageintom: '323'
-  image: v06/17-171-414-323.jpg
-- pageintom: '324'
-  image: v06/17-171-414-324.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Калининская область]
   listtitle: Список лиц - Калининская область
@@ -35,9 +26,17 @@ sublists:
   - 46
   group_ids:
   - 0
-  pages:
-  - pageintom: '323'
-    page_image: v06/17-171-414-323.jpg
+pages:
+- pageintom: '321'
+  image: v06/17-171-414-321.jpg
+  sublists: []
+- pageintom: '322'
+  image: v06/17-171-414-322.jpg
+  sublists: []
+- pageintom: '323'
+  image: v06/17-171-414-323.jpg
+  sublists:
+  - sublid: '422'
     persons:
     - id: '23286'
       num: '1'
@@ -90,8 +89,10 @@ sublists:
     - id: '23298'
       num: '13'
       name: ХАДЖИН Александр Иванович
-  - pageintom: '324'
-    page_image: v06/17-171-414-324.jpg
+- pageintom: '324'
+  image: v06/17-171-414-324.jpg
+  sublists:
+  - sublid: '422'
     persons:
     - id: '23299'
       num: '1'

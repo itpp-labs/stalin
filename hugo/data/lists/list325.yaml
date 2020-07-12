@@ -11,31 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '284'
-  image: v08/17-171-416-284.jpg
-- pageintom: '285'
-  image: v08/17-171-416-285.jpg
-- pageintom: '286'
-  image: v08/17-171-416-286.jpg
-- pageintom: '287'
-  image: v08/17-171-416-287.jpg
-- pageintom: '288'
-  image: v08/17-171-416-288.jpg
-- pageintom: '289'
-  image: v08/17-171-416-289.jpg
-- pageintom: '290'
-  image: v08/17-171-416-290.jpg
-- pageintom: '291'
-  image: v08/17-171-416-291.jpg
-- pageintom: '292'
-  image: v08/17-171-416-292.jpg
-- pageintom: '293'
-  image: v08/17-171-416-293.jpg
-- pageintom: '294'
-  image: v08/17-171-416-294.jpg
-- pageintom: '295'
-  image: v08/17-171-416-295.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Ростовская область]
   listtitle: Список лиц - Ростовская область
@@ -50,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '286'
-    page_image: v08/17-171-416-286.jpg
+pages:
+- pageintom: '284'
+  image: v08/17-171-416-284.jpg
+  sublists: []
+- pageintom: '285'
+  image: v08/17-171-416-285.jpg
+  sublists: []
+- pageintom: '286'
+  image: v08/17-171-416-286.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32597'
       num: '1'
@@ -125,8 +108,10 @@ sublists:
     - id: '32617'
       num: '21'
       name: ДЬЯКОНОВ Алексей Степанович
-  - pageintom: '287'
-    page_image: v08/17-171-416-287.jpg
+- pageintom: '287'
+  image: v08/17-171-416-287.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32618'
       num: '22'
@@ -209,8 +194,10 @@ sublists:
     - id: '32643'
       num: '47'
       name: КУГАТОВ Михаил Самойлович
-  - pageintom: '288'
-    page_image: v08/17-171-416-288.jpg
+- pageintom: '288'
+  image: v08/17-171-416-288.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32644'
       num: '48'
@@ -301,8 +288,10 @@ sublists:
       num: '74'
       name: ПАШКОВ Александр Евдокимович
       spravka: true
-  - pageintom: '289'
-    page_image: v08/17-171-416-289.jpg
+- pageintom: '289'
+  image: v08/17-171-416-289.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32671'
       num: '75'
@@ -393,8 +382,10 @@ sublists:
     - id: '32697'
       num: '101'
       name: ТАРАСОВ Виктор Петрович
-  - pageintom: '290'
-    page_image: v08/17-171-416-290.jpg
+- pageintom: '290'
+  image: v08/17-171-416-290.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32698'
       num: '102'
@@ -448,8 +439,10 @@ sublists:
       num: '117'
       name: ШКЛЯРМАН Залман Аронович
       spravka: true
-  - pageintom: '291'
-    page_image: v08/17-171-416-291.jpg
+- pageintom: '291'
+  image: v08/17-171-416-291.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32714'
       num: '1'
@@ -461,8 +454,16 @@ sublists:
       num: '2'
       name: ШТИРБЕР Иосиф Иосифович
       gb_spravka: true
-  - pageintom: '294'
-    page_image: v08/17-171-416-294.jpg
+- pageintom: '292'
+  image: v08/17-171-416-292.jpg
+  sublists: []
+- pageintom: '293'
+  image: v08/17-171-416-293.jpg
+  sublists: []
+- pageintom: '294'
+  image: v08/17-171-416-294.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32716'
       num: '1'
@@ -532,8 +533,10 @@ sublists:
     - id: '32735'
       num: '20'
       name: ХАДЕЕВА Мария Ивановна
-  - pageintom: '295'
-    page_image: v08/17-171-416-295.jpg
+- pageintom: '295'
+  image: v08/17-171-416-295.jpg
+  sublists:
+  - sublid: '571'
     persons:
     - id: '32736'
       num: '21'

@@ -13,23 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '325'
-  image: v06/17-171-414-325.jpg
-- pageintom: '326'
-  image: v06/17-171-414-326.jpg
-- pageintom: '327'
-  image: v06/17-171-414-327.jpg
-- pageintom: '328'
-  image: v06/17-171-414-328.jpg
-- pageintom: '329'
-  image: v06/17-171-414-329.jpg
-- pageintom: '330'
-  image: v06/17-171-414-330.jpg
-- pageintom: '331'
-  image: v06/17-171-414-331.jpg
-- pageintom: '332'
-  image: v06/17-171-414-332.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Куйбышевская область]
   listtitle: Список лиц - Куйбышевская область
@@ -43,9 +26,17 @@ sublists:
   - 17
   group_ids:
   - 0
-  pages:
-  - pageintom: '327'
-    page_image: v06/17-171-414-327.jpg
+pages:
+- pageintom: '325'
+  image: v06/17-171-414-325.jpg
+  sublists: []
+- pageintom: '326'
+  image: v06/17-171-414-326.jpg
+  sublists: []
+- pageintom: '327'
+  image: v06/17-171-414-327.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23302'
       num: '1'
@@ -137,8 +128,10 @@ sublists:
       num: '22'
       name: ГИЛЬЯШОВ Николай Аркадьевич
       spravka: true
-  - pageintom: '328'
-    page_image: v06/17-171-414-328.jpg
+- pageintom: '328'
+  image: v06/17-171-414-328.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23324'
       num: '23'
@@ -256,8 +249,10 @@ sublists:
       num: '51'
       name: МАЗУРОВСКИЙ Зиновий Львович
       spravka: true
-  - pageintom: '329'
-    page_image: v06/17-171-414-329.jpg
+- pageintom: '329'
+  image: v06/17-171-414-329.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23353'
       num: '52'
@@ -373,8 +368,10 @@ sublists:
       num: '80'
       name: РУДНЕВ Василий Васильевич
       spravka: true
-  - pageintom: '330'
-    page_image: v06/17-171-414-330.jpg
+- pageintom: '330'
+  image: v06/17-171-414-330.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23382'
       num: '81'
@@ -490,8 +487,10 @@ sublists:
       num: '109'
       name: ЧЕКУЛАЕВ Михаил Васильевич
       spravka: true
-  - pageintom: '331'
-    page_image: v06/17-171-414-331.jpg
+- pageintom: '331'
+  image: v06/17-171-414-331.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23411'
       num: '110'
@@ -528,8 +527,10 @@ sublists:
       num: '118'
       name: ЯРЫГИН Александр Ефимович
       spravka: true
-  - pageintom: '332'
-    page_image: v06/17-171-414-332.jpg
+- pageintom: '332'
+  image: v06/17-171-414-332.jpg
+  sublists:
+  - sublid: '423'
     persons:
     - id: '23420'
       num: '1'

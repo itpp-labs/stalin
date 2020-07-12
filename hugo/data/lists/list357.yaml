@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '209'
-  image: v06/17-171-414-209.jpg
-- pageintom: '210'
-  image: v06/17-171-414-210.jpg
-- pageintom: '211'
-  image: v06/17-171-414-211.jpg
-- pageintom: '212'
-  image: v06/17-171-414-212.jpg
-- pageintom: '213'
-  image: v06/17-171-414-213.jpg
-- pageintom: '214'
-  image: v06/17-171-414-214.jpg
-- pageintom: '215'
-  image: v06/17-171-414-215.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -41,9 +26,17 @@ sublists:
   - 48
   group_ids:
   - 1
-  pages:
-  - pageintom: '211'
-    page_image: v06/17-171-414-211.jpg
+pages:
+- pageintom: '209'
+  image: v06/17-171-414-209.jpg
+  sublists: []
+- pageintom: '210'
+  image: v06/17-171-414-210.jpg
+  sublists: []
+- pageintom: '211'
+  image: v06/17-171-414-211.jpg
+  sublists:
+  - sublid: '411'
     persons:
     - id: '22198'
       num: '1'
@@ -134,8 +127,10 @@ sublists:
     - id: '22219'
       num: '22'
       name: ВОИНОВА Енапа Андреевна
-  - pageintom: '212'
-    page_image: v06/17-171-414-212.jpg
+- pageintom: '212'
+  image: v06/17-171-414-212.jpg
+  sublists:
+  - sublid: '411'
     persons:
     - id: '22220'
       num: '23'
@@ -252,8 +247,10 @@ sublists:
       num: '51'
       name: КАЦЕНТ Иосиф Соломонович
       spravka: true
-  - pageintom: '213'
-    page_image: v06/17-171-414-213.jpg
+- pageintom: '213'
+  image: v06/17-171-414-213.jpg
+  sublists:
+  - sublid: '411'
     persons:
     - id: '22249'
       num: '52'
@@ -359,8 +356,10 @@ sublists:
       num: '78'
       name: МУН Прохор Михайлович
       spravka: true
-  - pageintom: '214'
-    page_image: v06/17-171-414-214.jpg
+- pageintom: '214'
+  image: v06/17-171-414-214.jpg
+  sublists:
+  - sublid: '411'
     persons:
     - id: '22276'
       num: '79'
@@ -470,8 +469,10 @@ sublists:
     - id: '22302'
       num: '105'
       name: ТАФРАЛОВ Николай Константинович
-  - pageintom: '215'
-    page_image: v06/17-171-414-215.jpg
+- pageintom: '215'
+  image: v06/17-171-414-215.jpg
+  sublists:
+  - sublid: '411'
     persons:
     - id: '22303'
       num: '106'

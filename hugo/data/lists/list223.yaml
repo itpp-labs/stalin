@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '49'
-  image: v03/17-171-411-049.jpg
-- pageintom: '50'
-  image: v03/17-171-411-050.jpg
-- pageintom: '51'
-  image: v03/17-171-411-051.jpg
-- pageintom: '52'
-  image: v03/17-171-411-052.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Дальне-Восточный край]
   listtitle: 'Список лиц: Дальне-Восточный край'
@@ -33,9 +24,17 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '51'
-    page_image: v03/17-171-411-051.jpg
+pages:
+- pageintom: '49'
+  image: v03/17-171-411-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v03/17-171-411-050.jpg
+  sublists: []
+- pageintom: '51'
+  image: v03/17-171-411-051.jpg
+  sublists:
+  - sublid: '346'
     persons:
     - id: '8186'
       num: '1'
@@ -136,8 +135,10 @@ sublists:
       num: '25'
       name: МАКАРОВ Александр Павлович
       spravka: true
-  - pageintom: '52'
-    page_image: v03/17-171-411-052.jpg
+- pageintom: '52'
+  image: v03/17-171-411-052.jpg
+  sublists:
+  - sublid: '346'
     persons:
     - id: '8211'
       num: '26'

@@ -14,13 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '325'
-  image: v02/17-171-410-325.jpg
-- pageintom: '326'
-  image: v02/17-171-410-326.jpg
-- pageintom: '327'
-  image: v02/17-171-410-327.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -34,9 +27,17 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '327'
-    page_image: v02/17-171-410-327.jpg
+pages:
+- pageintom: '325'
+  image: v02/17-171-410-325.jpg
+  sublists: []
+- pageintom: '326'
+  image: v02/17-171-410-326.jpg
+  sublists: []
+- pageintom: '327'
+  image: v02/17-171-410-327.jpg
+  sublists:
+  - sublid: '50'
     persons:
     - id: '7419'
       num: '1'

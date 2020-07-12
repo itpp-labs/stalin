@@ -14,23 +14,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '48'
-  image: v07/17-171-415-048.jpg
-- pageintom: '49'
-  image: v07/17-171-415-049.jpg
-- pageintom: '50'
-  image: v07/17-171-415-050.jpg
-- pageintom: '51'
-  image: v07/17-171-415-051.jpg
-- pageintom: '52'
-  image: v07/17-171-415-052.jpg
-- pageintom: '53'
-  image: v07/17-171-415-053.jpg
-- pageintom: '54'
-  image: v07/17-171-415-054.jpg
-- pageintom: '55'
-  image: v07/17-171-415-055.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область,г.Челябинск.Южно-Уральская ж.д.
@@ -44,9 +27,29 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '50'
-    page_image: v07/17-171-415-050.jpg
+- title: Список от 5 марта 1938г. [г.Челябинск.Юж.Уральск.ж.д.]
+  listtitle: Список лиц - Челябинская область,г.Челябинск.Южно-Уральская ж.д.
+  sublisttitle: г.Челябинск.Юж.Уральск.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 13
+pages:
+- pageintom: '48'
+  image: v07/17-171-415-048.jpg
+  sublists: []
+- pageintom: '49'
+  image: v07/17-171-415-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v07/17-171-415-050.jpg
+  sublists:
+  - sublid: '516'
     persons:
     - id: '26317'
       num: '1'
@@ -128,8 +131,10 @@ sublists:
       num: '20'
       name: КАЗАКОВ Максим Степанович
       spravka: true
-  - pageintom: '51'
-    page_image: v07/17-171-415-051.jpg
+- pageintom: '51'
+  image: v07/17-171-415-051.jpg
+  sublists:
+  - sublid: '516'
     persons:
     - id: '26337'
       num: '21'
@@ -238,8 +243,10 @@ sublists:
       num: '48'
       name: НИКИТИН Николай Иванович
       spravka: true
-  - pageintom: '52'
-    page_image: v07/17-171-415-052.jpg
+- pageintom: '52'
+  image: v07/17-171-415-052.jpg
+  sublists:
+  - sublid: '516'
     persons:
     - id: '26365'
       num: '49'
@@ -326,8 +333,10 @@ sublists:
     - id: '26390'
       num: '74'
       name: ЯКУШЕВИЧ Андрей Семенович
-  - pageintom: '53'
-    page_image: v07/17-171-415-053.jpg
+- pageintom: '53'
+  image: v07/17-171-415-053.jpg
+  sublists:
+  - sublid: '516'
     persons:
     - id: '26391'
       num: '1'
@@ -335,21 +344,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 5 марта 1938г. [г.Челябинск.Юж.Уральск.ж.д.]
-  listtitle: Список лиц - Челябинская область,г.Челябинск.Южно-Уральская ж.д.
-  sublisttitle: г.Челябинск.Юж.Уральск.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 77
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '54'
-    page_image: v07/17-171-415-054.jpg
+- pageintom: '54'
+  image: v07/17-171-415-054.jpg
+  sublists:
+  - sublid: '517'
     persons:
     - id: '26392'
       num: '1'
@@ -422,8 +420,10 @@ sublists:
       num: '19'
       name: ЦЕЛЫХ Дмитрий Андреевич
       spravka: true
-  - pageintom: '55'
-    page_image: v07/17-171-415-055.jpg
+- pageintom: '55'
+  image: v07/17-171-415-055.jpg
+  sublists:
+  - sublid: '517'
     persons:
     - id: '26411'
       num: '1'

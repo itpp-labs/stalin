@@ -11,11 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '222'
-  image: v02/17-171-410-222.jpg
-- pageintom: '223'
-  image: v02/17-171-410-223.jpg
 sublists:
 - title: Список от 14 августа 1937 г. [Список лиц]
   listtitle: Список лиц
@@ -29,9 +24,14 @@ sublists:
   - 51
   group_ids:
   - 0
-  pages:
-  - pageintom: '223'
-    page_image: v02/17-171-410-223.jpg
+pages:
+- pageintom: '222'
+  image: v02/17-171-410-222.jpg
+  sublists: []
+- pageintom: '223'
+  image: v02/17-171-410-223.jpg
+  sublists:
+  - sublid: '45'
     persons:
     - id: '5909'
       num: '1'

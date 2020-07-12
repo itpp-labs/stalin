@@ -13,41 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '235'
-  image: v10/17-171-418-235.jpg
-- pageintom: '236'
-  image: v10/17-171-418-236.jpg
-- pageintom: '237'
-  image: v10/17-171-418-237.jpg
-- pageintom: '238'
-  image: v10/17-171-418-238.jpg
-- pageintom: '239'
-  image: v10/17-171-418-239.jpg
-- pageintom: '240'
-  image: v10/17-171-418-240.jpg
-- pageintom: '241'
-  image: v10/17-171-418-241.jpg
-- pageintom: '242'
-  image: v10/17-171-418-242.jpg
-- pageintom: '243'
-  image: v10/17-171-418-243.jpg
-- pageintom: '244'
-  image: v10/17-171-418-244.jpg
-- pageintom: '245'
-  image: v10/17-171-418-245.jpg
-- pageintom: '246'
-  image: v10/17-171-418-246.jpg
-- pageintom: '247'
-  image: v10/17-171-418-247.jpg
-- pageintom: '248'
-  image: v10/17-171-418-248.jpg
-- pageintom: '249'
-  image: v10/17-171-418-249.jpg
-- pageintom: '250'
-  image: v10/17-171-418-250.jpg
-- pageintom: '251'
-  image: v10/17-171-418-251.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
@@ -63,9 +28,43 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '237'
-    page_image: v10/17-171-418-237.jpg
+- title: Список от 12 сентября 1938г. [Гор.Ленинград. Октябрьская ж.д.]
+  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
+    ж.д.
+  sublisttitle: Гор.Ленинград. Октябрьская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 158
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [Гор.Ленинград. Кировская ж.д.]
+  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
+    ж.д.
+  sublisttitle: Гор.Ленинград. Кировская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 46
+  geosub_ids:
+  - 159
+  group_ids:
+  - 13
+pages:
+- pageintom: '235'
+  image: v10/17-171-418-235.jpg
+  sublists: []
+- pageintom: '236'
+  image: v10/17-171-418-236.jpg
+  sublists: []
+- pageintom: '237'
+  image: v10/17-171-418-237.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40491'
       num: '1'
@@ -147,8 +146,10 @@ sublists:
       num: '20'
       name: ГАЛКИН Георгий Павлович
       spravka: true
-  - pageintom: '238'
-    page_image: v10/17-171-418-238.jpg
+- pageintom: '238'
+  image: v10/17-171-418-238.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40511'
       num: '21'
@@ -250,8 +251,10 @@ sublists:
       num: '45'
       name: ЗОРГЕНФРЕЙ Вильгельм Александрович
       spravka: true
-  - pageintom: '239'
-    page_image: v10/17-171-418-239.jpg
+- pageintom: '239'
+  image: v10/17-171-418-239.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40536'
       num: '46'
@@ -356,8 +359,10 @@ sublists:
       name: МАНЬКОВСКИЙ Константин Максимович
       doublesexists: true
       spravka: true
-  - pageintom: '240'
-    page_image: v10/17-171-418-240.jpg
+- pageintom: '240'
+  image: v10/17-171-418-240.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40562'
       num: '72'
@@ -459,8 +464,10 @@ sublists:
       name: ПОДШИВАЛОВ Иван Мартьянович
       doublesexists: true
       spravka: true
-  - pageintom: '241'
-    page_image: v10/17-171-418-241.jpg
+- pageintom: '241'
+  image: v10/17-171-418-241.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40587'
       num: '97'
@@ -566,8 +573,10 @@ sublists:
       num: '122'
       name: ФЕДОТОВ Анатолий Васильевич
       spravka: true
-  - pageintom: '242'
-    page_image: v10/17-171-418-242.jpg
+- pageintom: '242'
+  image: v10/17-171-418-242.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40613'
       num: '123'
@@ -621,8 +630,10 @@ sublists:
       num: '135'
       name: ЮРКУН Осип (Юрий) Иванович
       spravka: true
-  - pageintom: '243'
-    page_image: v10/17-171-418-243.jpg
+- pageintom: '243'
+  image: v10/17-171-418-243.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40626'
       num: '1'
@@ -635,8 +646,16 @@ sublists:
       num: '2'
       name: ХАГЛУНД-ГАГЛУНД Ялмар Николаевич
       gb_spravka: true
-  - pageintom: '246'
-    page_image: v10/17-171-418-246.jpg
+- pageintom: '244'
+  image: v10/17-171-418-244.jpg
+  sublists: []
+- pageintom: '245'
+  image: v10/17-171-418-245.jpg
+  sublists: []
+- pageintom: '246'
+  image: v10/17-171-418-246.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40628'
       num: '1'
@@ -716,8 +735,10 @@ sublists:
       num: '21'
       name: СОКОЛОВ Борис Павлович
       spravka: true
-  - pageintom: '247'
-    page_image: v10/17-171-418-247.jpg
+- pageintom: '247'
+  image: v10/17-171-418-247.jpg
+  sublists:
+  - sublid: '338'
     persons:
     - id: '40649'
       num: '22'
@@ -748,22 +769,10 @@ sublists:
       name: ЧЕРНЫХ Виктор Васильевич
       doublesexists: true
       spravka: true
-- title: Список от 12 сентября 1938г. [Гор.Ленинград. Октябрьская ж.д.]
-  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
-    ж.д.
-  sublisttitle: Гор.Ленинград. Октябрьская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 46
-  geosub_ids:
-  - 158
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '248'
-    page_image: v10/17-171-418-248.jpg
+- pageintom: '248'
+  image: v10/17-171-418-248.jpg
+  sublists:
+  - sublid: '339'
     persons:
     - id: '40657'
       num: '1'
@@ -839,8 +848,10 @@ sublists:
       num: '19'
       name: УСАЧЕВ Петр Михайлович
       spravka: true
-  - pageintom: '249'
-    page_image: v10/17-171-418-249.jpg
+- pageintom: '249'
+  image: v10/17-171-418-249.jpg
+  sublists:
+  - sublid: '339'
     persons:
     - id: '40676'
       num: '1'
@@ -883,22 +894,10 @@ sublists:
     - id: '40687'
       num: '12'
       name: ЩЕБРОВ Иван Арсеньевич
-- title: Список от 12 сентября 1938г. [Гор.Ленинград. Кировская ж.д.]
-  listtitle: Список лиц - Ленинградская область, г.Ленинград-Октябрьская ж.д., г.Ленинград-Кировская
-    ж.д.
-  sublisttitle: Гор.Ленинград. Кировская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 46
-  geosub_ids:
-  - 159
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '250'
-    page_image: v10/17-171-418-250.jpg
+- pageintom: '250'
+  image: v10/17-171-418-250.jpg
+  sublists:
+  - sublid: '340'
     persons:
     - id: '40688'
       num: '1'
@@ -959,8 +958,10 @@ sublists:
       num: '15'
       name: ЧАПЛИН Сергей Павлович
       spravka: true
-  - pageintom: '251'
-    page_image: v10/17-171-418-251.jpg
+- pageintom: '251'
+  image: v10/17-171-418-251.jpg
+  sublists:
+  - sublid: '340'
     persons:
     - id: '40703'
       num: '1'

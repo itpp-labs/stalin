@@ -13,15 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '351'
-  image: v06/17-171-414-351.jpg
-- pageintom: '352'
-  image: v06/17-171-414-352.jpg
-- pageintom: '353'
-  image: v06/17-171-414-353.jpg
-- pageintom: '354'
-  image: v06/17-171-414-354.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Горьковская область]
   listtitle: Список лиц - Горьковская область
@@ -35,9 +26,17 @@ sublists:
   - 16
   group_ids:
   - 0
-  pages:
-  - pageintom: '353'
-    page_image: v06/17-171-414-353.jpg
+pages:
+- pageintom: '351'
+  image: v06/17-171-414-351.jpg
+  sublists: []
+- pageintom: '352'
+  image: v06/17-171-414-352.jpg
+  sublists: []
+- pageintom: '353'
+  image: v06/17-171-414-353.jpg
+  sublists:
+  - sublid: '427'
     persons:
     - id: '23641'
       num: '1'
@@ -120,8 +119,10 @@ sublists:
       num: '20'
       name: ЛЕВИТ Зиновий Абрамович
       spravka: true
-  - pageintom: '354'
-    page_image: v06/17-171-414-354.jpg
+- pageintom: '354'
+  image: v06/17-171-414-354.jpg
+  sublists:
+  - sublid: '427'
     persons:
     - id: '23661'
       num: '21'

@@ -14,37 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '127'
-  image: v06/17-171-414-127.jpg
-- pageintom: '128'
-  image: v06/17-171-414-128.jpg
-- pageintom: '129'
-  image: v06/17-171-414-129.jpg
-- pageintom: '130'
-  image: v06/17-171-414-130.jpg
-- pageintom: '131'
-  image: v06/17-171-414-131.jpg
-- pageintom: '132'
-  image: v06/17-171-414-132.jpg
-- pageintom: '133'
-  image: v06/17-171-414-133.jpg
-- pageintom: '134'
-  image: v06/17-171-414-134.jpg
-- pageintom: '135'
-  image: v06/17-171-414-135.jpg
-- pageintom: '136'
-  image: v06/17-171-414-136.jpg
-- pageintom: '137'
-  image: v06/17-171-414-137.jpg
-- pageintom: '138'
-  image: v06/17-171-414-138.jpg
-- pageintom: '139'
-  image: v06/17-171-414-139.jpg
-- pageintom: '140'
-  image: v06/17-171-414-140.jpg
-- pageintom: '141'
-  image: v06/17-171-414-141.jpg
 sublists:
 - title: Список от 3 января 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область;Челябинск.Ю.-Уральская ж.д.
@@ -59,9 +28,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '129'
-    page_image: v06/17-171-414-129.jpg
+- title: Список от 3 января 1938г. [Челябинск-Ю.-Уральск.ж.д.]
+  listtitle: Список лиц - Челябинская область;Челябинск.Ю.-Уральская ж.д.
+  sublisttitle: Челябинск-Ю.-Уральск.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 68
+  geosub_ids:
+  - 77
+  group_ids:
+  - 0
+pages:
+- pageintom: '127'
+  image: v06/17-171-414-127.jpg
+  sublists: []
+- pageintom: '128'
+  image: v06/17-171-414-128.jpg
+  sublists: []
+- pageintom: '129'
+  image: v06/17-171-414-129.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '20988'
       num: '1'
@@ -154,8 +143,10 @@ sublists:
       num: '23'
       name: ВОРОБЬЕВ Михаил Иванович
       spravka: true
-  - pageintom: '130'
-    page_image: v06/17-171-414-130.jpg
+- pageintom: '130'
+  image: v06/17-171-414-130.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21011'
       num: '24'
@@ -270,8 +261,10 @@ sublists:
     - id: '21040'
       num: '53'
       name: КНИСС Михаил Ильич
-  - pageintom: '131'
-    page_image: v06/17-171-414-131.jpg
+- pageintom: '131'
+  image: v06/17-171-414-131.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21041'
       num: '54'
@@ -373,8 +366,10 @@ sublists:
       num: '80'
       name: МЕЛЬНИТОВСКИЙ Александр Зиновьевич
       spravka: true
-  - pageintom: '132'
-    page_image: v06/17-171-414-132.jpg
+- pageintom: '132'
+  image: v06/17-171-414-132.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21068'
       num: '81'
@@ -477,8 +472,10 @@ sublists:
     - id: '21095'
       num: '108'
       name: СКАКУНОВ Сергей Вячеславович
-  - pageintom: '133'
-    page_image: v06/17-171-414-133.jpg
+- pageintom: '133'
+  image: v06/17-171-414-133.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21096'
       num: '109'
@@ -554,8 +551,10 @@ sublists:
     - id: '21119'
       num: '132'
       name: ШРЕЙТЕР Рейнгольд Иоганович
-  - pageintom: '134'
-    page_image: v06/17-171-414-134.jpg
+- pageintom: '134'
+  image: v06/17-171-414-134.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21120'
       num: '133'
@@ -577,8 +576,10 @@ sublists:
     - id: '21125'
       num: '138'
       name: БЕРГ Фриц Августович
-  - pageintom: '135'
-    page_image: v06/17-171-414-135.jpg
+- pageintom: '135'
+  image: v06/17-171-414-135.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21126'
       num: '1'
@@ -590,8 +591,16 @@ sublists:
       num: '2'
       name: ЭРГАРДТ Курт Оттович
       gb_spravka: true
-  - pageintom: '138'
-    page_image: v06/17-171-414-138.jpg
+- pageintom: '136'
+  image: v06/17-171-414-136.jpg
+  sublists: []
+- pageintom: '137'
+  image: v06/17-171-414-137.jpg
+  sublists: []
+- pageintom: '138'
+  image: v06/17-171-414-138.jpg
+  sublists:
+  - sublid: '454'
     persons:
     - id: '21128'
       num: '1'
@@ -624,21 +633,10 @@ sublists:
     - id: '21135'
       num: '8'
       name: ШРЕЙБЕР Владимир Павлович
-- title: Список от 3 января 1938г. [Челябинск-Ю.-Уральск.ж.д.]
-  listtitle: Список лиц - Челябинская область;Челябинск.Ю.-Уральская ж.д.
-  sublisttitle: Челябинск-Ю.-Уральск.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 68
-  geosub_ids:
-  - 77
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '139'
-    page_image: v06/17-171-414-139.jpg
+- pageintom: '139'
+  image: v06/17-171-414-139.jpg
+  sublists:
+  - sublid: '455'
     persons:
     - id: '21136'
       num: '1'
@@ -735,8 +733,10 @@ sublists:
       num: '25'
       name: СКВОРЦОВ Григорий Семенович
       spravka: true
-  - pageintom: '140'
-    page_image: v06/17-171-414-140.jpg
+- pageintom: '140'
+  image: v06/17-171-414-140.jpg
+  sublists:
+  - sublid: '455'
     persons:
     - id: '21161'
       num: '26'
@@ -784,8 +784,10 @@ sublists:
     - id: '21173'
       num: '38'
       name: ШАРАБРИН Михаил Дмитриевич
-  - pageintom: '141'
-    page_image: v06/17-171-414-141.jpg
+- pageintom: '141'
+  image: v06/17-171-414-141.jpg
+  sublists:
+  - sublid: '455'
     persons:
     - id: '21174'
       num: '1'

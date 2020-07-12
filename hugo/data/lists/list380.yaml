@@ -14,49 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '355'
-  image: v06/17-171-414-355.jpg
-- pageintom: '356'
-  image: v06/17-171-414-356.jpg
-- pageintom: '357'
-  image: v06/17-171-414-357.jpg
-- pageintom: '358'
-  image: v06/17-171-414-358.jpg
-- pageintom: '359'
-  image: v06/17-171-414-359.jpg
-- pageintom: '360'
-  image: v06/17-171-414-360.jpg
-- pageintom: '361'
-  image: v06/17-171-414-361.jpg
-- pageintom: '362'
-  image: v06/17-171-414-362.jpg
-- pageintom: '363'
-  image: v06/17-171-414-363.jpg
-- pageintom: '364'
-  image: v06/17-171-414-364.jpg
-- pageintom: '365'
-  image: v06/17-171-414-365.jpg
-- pageintom: '366'
-  image: v06/17-171-414-366.jpg
-- pageintom: '367'
-  image: v06/17-171-414-367.jpg
-- pageintom: '368'
-  image: v06/17-171-414-368.jpg
-- pageintom: '369'
-  image: v06/17-171-414-369.jpg
-- pageintom: '370'
-  image: v06/17-171-414-370.jpg
-- pageintom: '371'
-  image: v06/17-171-414-371.jpg
-- pageintom: '372'
-  image: v06/17-171-414-372.jpg
-- pageintom: '373'
-  image: v06/17-171-414-373.jpg
-- pageintom: '374'
-  image: v06/17-171-414-374.jpg
-- pageintom: '375'
-  image: v06/17-171-414-375.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
@@ -71,9 +28,41 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '357'
-    page_image: v06/17-171-414-357.jpg
+- title: Список от 3 февраля 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+- title: Список от 3 февраля 1938г. [Москва. ж.д.им.Дзержинского]
+  listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
+  sublisttitle: Москва. ж.д.им.Дзержинского
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
+pages:
+- pageintom: '355'
+  image: v06/17-171-414-355.jpg
+  sublists: []
+- pageintom: '356'
+  image: v06/17-171-414-356.jpg
+  sublists: []
+- pageintom: '357'
+  image: v06/17-171-414-357.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '36514'
       num: '1'
@@ -167,8 +156,10 @@ sublists:
       num: '22'
       name: БОЙЦОВ Иван Алексеевич
       spravka: true
-  - pageintom: '358'
-    page_image: v06/17-171-414-358.jpg
+- pageintom: '358'
+  image: v06/17-171-414-358.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23693'
       num: '23'
@@ -278,8 +269,10 @@ sublists:
     - id: '23719'
       num: '49'
       name: ГРЕДА Владимир Христианович
-  - pageintom: '359'
-    page_image: v06/17-171-414-359.jpg
+- pageintom: '359'
+  image: v06/17-171-414-359.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23720'
       num: '50'
@@ -398,8 +391,10 @@ sublists:
       num: '78'
       name: ЛЕБЕДЕВ Василий Васильевич
       spravka: true
-  - pageintom: '360'
-    page_image: v06/17-171-414-360.jpg
+- pageintom: '360'
+  image: v06/17-171-414-360.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23749'
       num: '79'
@@ -516,8 +511,10 @@ sublists:
       num: '107'
       name: ПАВЛОВСКИЙ Иван Иванович
       spravka: true
-  - pageintom: '361'
-    page_image: v06/17-171-414-361.jpg
+- pageintom: '361'
+  image: v06/17-171-414-361.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23778'
       num: '108'
@@ -639,8 +636,10 @@ sublists:
       num: '136'
       name: ТЮРИН Алексей Васильевич
       spravka: true
-  - pageintom: '362'
-    page_image: v06/17-171-414-362.jpg
+- pageintom: '362'
+  image: v06/17-171-414-362.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23807'
       num: '137'
@@ -721,8 +720,10 @@ sublists:
       num: '156'
       name: ЯРМОЩУК Иван Александрович
       spravka: true
-  - pageintom: '363'
-    page_image: v06/17-171-414-363.jpg
+- pageintom: '363'
+  image: v06/17-171-414-363.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23827'
       num: '1'
@@ -756,8 +757,10 @@ sublists:
     - id: '23836'
       num: '10'
       name: ШВАБ-ТРОТНЕР Мария (она же Анна) Эдуардовна
-  - pageintom: '364'
-    page_image: v06/17-171-414-364.jpg
+- pageintom: '364'
+  image: v06/17-171-414-364.jpg
+  sublists:
+  - sublid: '481'
     persons:
     - id: '23837'
       num: '1'
@@ -789,21 +792,28 @@ sublists:
       name: ЯНДЕР Альбина Рудольфовна
       gb_spravka: true
       subtitle1: <p align="center"><u>2-я КАТЕГОРИЯ.</u>
-- title: Список от 3 февраля 1938г. [Московская область]
-  listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '371'
-    page_image: v06/17-171-414-371.jpg
+- pageintom: '365'
+  image: v06/17-171-414-365.jpg
+  sublists: []
+- pageintom: '366'
+  image: v06/17-171-414-366.jpg
+  sublists: []
+- pageintom: '367'
+  image: v06/17-171-414-367.jpg
+  sublists: []
+- pageintom: '368'
+  image: v06/17-171-414-368.jpg
+  sublists: []
+- pageintom: '369'
+  image: v06/17-171-414-369.jpg
+  sublists: []
+- pageintom: '370'
+  image: v06/17-171-414-370.jpg
+  sublists: []
+- pageintom: '371'
+  image: v06/17-171-414-371.jpg
+  sublists:
+  - sublid: '482'
     persons:
     - id: '23843'
       num: '1'
@@ -901,8 +911,10 @@ sublists:
       num: '24'
       name: ЗАХАРЕВИЧ Виктор Григорьевич
       spravka: true
-  - pageintom: '372'
-    page_image: v06/17-171-414-372.jpg
+- pageintom: '372'
+  image: v06/17-171-414-372.jpg
+  sublists:
+  - sublid: '482'
     persons:
     - id: '23867'
       num: '25'
@@ -1013,8 +1025,10 @@ sublists:
     - id: '23895'
       num: '53'
       name: РУДНИЦКИЙ Логин Тадеушевич
-  - pageintom: '373'
-    page_image: v06/17-171-414-373.jpg
+- pageintom: '373'
+  image: v06/17-171-414-373.jpg
+  sublists:
+  - sublid: '482'
     persons:
     - id: '23896'
       num: '54'
@@ -1102,8 +1116,10 @@ sublists:
       name: ЯКОВЛЕВА Варвара Николаевна
       doublesexists: true
       spravka: true
-  - pageintom: '374'
-    page_image: v06/17-171-414-374.jpg
+- pageintom: '374'
+  image: v06/17-171-414-374.jpg
+  sublists:
+  - sublid: '482'
     persons:
     - id: '23918'
       num: '1'
@@ -1113,21 +1129,10 @@ sublists:
     - id: '23919'
       num: '2'
       name: НЕРСЕСОВ Шмагон Моисеевич
-- title: Список от 3 февраля 1938г. [Москва. ж.д.им.Дзержинского]
-  listtitle: Список лиц - Москва-центр; Московская область; Москва.ж.д.им.Дзержинского
-  sublisttitle: Москва. ж.д.им.Дзержинского
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '375'
-    page_image: v06/17-171-414-375.jpg
+- pageintom: '375'
+  image: v06/17-171-414-375.jpg
+  sublists:
+  - sublid: '483'
     persons:
     - id: '23920'
       num: '1'

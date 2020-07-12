@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '239'
-  image: v08/17-171-416-239.jpg
-- pageintom: '240'
-  image: v08/17-171-416-240.jpg
-- pageintom: '241'
-  image: v08/17-171-416-241.jpg
-- pageintom: '242'
-  image: v08/17-171-416-242.jpg
-- pageintom: '243'
-  image: v08/17-171-416-243.jpg
-- pageintom: '244'
-  image: v08/17-171-416-244.jpg
-- pageintom: '245'
-  image: v08/17-171-416-245.jpg
-- pageintom: '246'
-  image: v08/17-171-416-246.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -41,9 +24,17 @@ sublists:
   - 45
   group_ids:
   - 0
-  pages:
-  - pageintom: '241'
-    page_image: v08/17-171-416-241.jpg
+pages:
+- pageintom: '239'
+  image: v08/17-171-416-239.jpg
+  sublists: []
+- pageintom: '240'
+  image: v08/17-171-416-240.jpg
+  sublists: []
+- pageintom: '241'
+  image: v08/17-171-416-241.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32027'
       num: '1'
@@ -124,8 +115,10 @@ sublists:
       num: '20'
       name: ГЕРИН Александр Александрович
       spravka: true
-  - pageintom: '242'
-    page_image: v08/17-171-416-242.jpg
+- pageintom: '242'
+  image: v08/17-171-416-242.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32047'
       num: '21'
@@ -236,8 +229,10 @@ sublists:
       num: '49'
       name: ЛАНЧКОВСКИЙ Константин Фадеевич
       spravka: true
-  - pageintom: '243'
-    page_image: v08/17-171-416-243.jpg
+- pageintom: '243'
+  image: v08/17-171-416-243.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32076'
       num: '50'
@@ -349,8 +344,10 @@ sublists:
     - id: '32104'
       num: '78'
       name: САЛАМАНДРА Борис Григорьевич
-  - pageintom: '244'
-    page_image: v08/17-171-416-244.jpg
+- pageintom: '244'
+  image: v08/17-171-416-244.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32105'
       num: '79'
@@ -450,8 +447,10 @@ sublists:
     - id: '32132'
       num: '106'
       name: ШТОЛЬ Валентин Генрихович
-  - pageintom: '245'
-    page_image: v08/17-171-416-245.jpg
+- pageintom: '245'
+  image: v08/17-171-416-245.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32133'
       num: '107'
@@ -462,8 +461,10 @@ sublists:
     - id: '32135'
       num: '109'
       name: ЯБЛОНСКИЙ Михаил Парфентьевич
-  - pageintom: '246'
-    page_image: v08/17-171-416-246.jpg
+- pageintom: '246'
+  image: v08/17-171-416-246.jpg
+  sublists:
+  - sublid: '565'
     persons:
     - id: '32136'
       num: '1'

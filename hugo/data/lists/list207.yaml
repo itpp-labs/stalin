@@ -12,23 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '193'
-  image: v10/17-171-418-193.jpg
-- pageintom: '194'
-  image: v10/17-171-418-194.jpg
-- pageintom: '195'
-  image: v10/17-171-418-195.jpg
-- pageintom: '196'
-  image: v10/17-171-418-196.jpg
-- pageintom: '197'
-  image: v10/17-171-418-197.jpg
-- pageintom: '198'
-  image: v10/17-171-418-198.jpg
-- pageintom: '199'
-  image: v10/17-171-418-199.jpg
-- pageintom: '200'
-  image: v10/17-171-418-200.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Ростовская область]
   listtitle: Список лиц - Ростовская область
@@ -42,9 +25,17 @@ sublists:
   - 81
   group_ids:
   - 0
-  pages:
-  - pageintom: '195'
-    page_image: v10/17-171-418-195.jpg
+pages:
+- pageintom: '193'
+  image: v10/17-171-418-193.jpg
+  sublists: []
+- pageintom: '194'
+  image: v10/17-171-418-194.jpg
+  sublists: []
+- pageintom: '195'
+  image: v10/17-171-418-195.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39887'
       num: '1'
@@ -115,8 +106,10 @@ sublists:
     - id: '39906'
       num: '20'
       name: ГРИБАНОВ Василий Никифорович
-  - pageintom: '196'
-    page_image: v10/17-171-418-196.jpg
+- pageintom: '196'
+  image: v10/17-171-418-196.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39907'
       num: '21'
@@ -201,8 +194,10 @@ sublists:
     - id: '39932'
       num: '46'
       name: ЛЬВОВ Александр Сергеевич
-  - pageintom: '197'
-    page_image: v10/17-171-418-197.jpg
+- pageintom: '197'
+  image: v10/17-171-418-197.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39933'
       num: '47'
@@ -283,8 +278,10 @@ sublists:
     - id: '39957'
       num: '71'
       name: РОЖКОВ Алексей Николаевич
-  - pageintom: '198'
-    page_image: v10/17-171-418-198.jpg
+- pageintom: '198'
+  image: v10/17-171-418-198.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39958'
       num: '72'
@@ -356,8 +353,10 @@ sublists:
     - id: '39978'
       num: '92'
       name: ЯЦЕНКО Кирилл Михайлович
-  - pageintom: '199'
-    page_image: v10/17-171-418-199.jpg
+- pageintom: '199'
+  image: v10/17-171-418-199.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39979'
       num: '1'
@@ -423,8 +422,10 @@ sublists:
     - id: '39998'
       num: '20'
       name: ЧУМАКОВ Владимир Семенович
-  - pageintom: '200'
-    page_image: v10/17-171-418-200.jpg
+- pageintom: '200'
+  image: v10/17-171-418-200.jpg
+  sublists:
+  - sublid: '138'
     persons:
     - id: '39999'
       num: '21'

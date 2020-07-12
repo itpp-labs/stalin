@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '144'
-  image: v08/17-171-416-144.jpg
-- pageintom: '145'
-  image: v08/17-171-416-145.jpg
-- pageintom: '146'
-  image: v08/17-171-416-146.jpg
-- pageintom: '147'
-  image: v08/17-171-416-147.jpg
-- pageintom: '148'
-  image: v08/17-171-416-148.jpg
-- pageintom: '149'
-  image: v08/17-171-416-149.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Ростовская область]
   listtitle: Список лиц - Ростовская область
@@ -39,9 +26,17 @@ sublists:
   - 81
   group_ids:
   - 0
-  pages:
-  - pageintom: '146'
-    page_image: v08/17-171-416-146.jpg
+pages:
+- pageintom: '144'
+  image: v08/17-171-416-144.jpg
+  sublists: []
+- pageintom: '145'
+  image: v08/17-171-416-145.jpg
+  sublists: []
+- pageintom: '146'
+  image: v08/17-171-416-146.jpg
+  sublists:
+  - sublid: '553'
     persons:
     - id: '30877'
       num: '1'
@@ -123,8 +118,10 @@ sublists:
       num: '21'
       name: ЗИМОВЕЙСКИЙ Андрей Григорьевич
       spravka: true
-  - pageintom: '147'
-    page_image: v08/17-171-416-147.jpg
+- pageintom: '147'
+  image: v08/17-171-416-147.jpg
+  sublists:
+  - sublid: '553'
     persons:
     - id: '30898'
       num: '22'
@@ -237,8 +234,10 @@ sublists:
       num: '51'
       name: РОБУШ Виктор Сергеевич
       spravka: true
-  - pageintom: '148'
-    page_image: v08/17-171-416-148.jpg
+- pageintom: '148'
+  image: v08/17-171-416-148.jpg
+  sublists:
+  - sublid: '553'
     persons:
     - id: '30928'
       num: '52'
@@ -341,8 +340,10 @@ sublists:
       num: '78'
       name: ЯЦЕНКО Петр Петрович
       spravka: true
-  - pageintom: '149'
-    page_image: v08/17-171-416-149.jpg
+- pageintom: '149'
+  image: v08/17-171-416-149.jpg
+  sublists:
+  - sublid: '553'
     persons:
     - id: '30955'
       num: '1'

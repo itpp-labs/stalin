@@ -13,11 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '233'
-  image: v06/17-171-414-233.jpg
-- pageintom: '234'
-  image: v06/17-171-414-234.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Армянская ССР]
   listtitle: Список лиц - Армянская ССР
@@ -31,9 +26,14 @@ sublists:
   - 28
   group_ids:
   - 1
-  pages:
-  - pageintom: '234'
-    page_image: v06/17-171-414-234.jpg
+pages:
+- pageintom: '233'
+  image: v06/17-171-414-233.jpg
+  sublists: []
+- pageintom: '234'
+  image: v06/17-171-414-234.jpg
+  sublists:
+  - sublid: '413'
     persons:
     - id: '22474'
       num: '1'

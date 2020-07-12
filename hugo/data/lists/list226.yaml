@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '65'
-  image: v03/17-171-411-065.jpg
-- pageintom: '66'
-  image: v03/17-171-411-066.jpg
-- pageintom: '67'
-  image: v03/17-171-411-067.jpg
-- pageintom: '68'
-  image: v03/17-171-411-068.jpg
-- pageintom: '69'
-  image: v03/17-171-411-069.jpg
-- pageintom: '70'
-  image: v03/17-171-411-070.jpg
-- pageintom: '71'
-  image: v03/17-171-411-071.jpg
 sublists:
 - title: Список от 15 сентября 1937г. [Белорусская ССР]
   listtitle: 'Список лиц: Белорусская ССР'
@@ -40,9 +25,17 @@ sublists:
   - 37
   group_ids:
   - 0
-  pages:
-  - pageintom: '67'
-    page_image: v03/17-171-411-067.jpg
+pages:
+- pageintom: '65'
+  image: v03/17-171-411-065.jpg
+  sublists: []
+- pageintom: '66'
+  image: v03/17-171-411-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v03/17-171-411-067.jpg
+  sublists:
+  - sublid: '349'
     persons:
     - id: '8286'
       num: '1'
@@ -148,8 +141,10 @@ sublists:
       num: '28'
       name: ИСПРАВНИКОВ Прохор Иванович
       spravka: true
-  - pageintom: '68'
-    page_image: v03/17-171-411-068.jpg
+- pageintom: '68'
+  image: v03/17-171-411-068.jpg
+  sublists:
+  - sublid: '349'
     persons:
     - id: '8314'
       num: '29'
@@ -267,8 +262,10 @@ sublists:
     - id: '8344'
       num: '59'
       name: НЕСТЕРОВИЧ Иван Иванович
-  - pageintom: '69'
-    page_image: v03/17-171-411-069.jpg
+- pageintom: '69'
+  image: v03/17-171-411-069.jpg
+  sublists:
+  - sublid: '349'
     persons:
     - id: '8345'
       num: '60'
@@ -376,8 +373,10 @@ sublists:
     - id: '8372'
       num: '87'
       name: ТАНЕНБАУМ Мирон Борисович
-  - pageintom: '70'
-    page_image: v03/17-171-411-070.jpg
+- pageintom: '70'
+  image: v03/17-171-411-070.jpg
+  sublists:
+  - sublid: '349'
     persons:
     - id: '8373'
       num: '88'
@@ -436,8 +435,10 @@ sublists:
       num: '103'
       name: ЮРКЕВИЧ-ЛЯВОННЫЙ Леонид Николаевич
       spravka: true
-  - pageintom: '71'
-    page_image: v03/17-171-411-071.jpg
+- pageintom: '71'
+  image: v03/17-171-411-071.jpg
+  sublists:
+  - sublid: '349'
     persons:
     - id: '8389'
       num: '1'

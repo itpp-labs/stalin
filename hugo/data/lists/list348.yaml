@@ -13,21 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '120'
-  image: v06/17-171-414-120.jpg
-- pageintom: '121'
-  image: v06/17-171-414-121.jpg
-- pageintom: '122'
-  image: v06/17-171-414-122.jpg
-- pageintom: '123'
-  image: v06/17-171-414-123.jpg
-- pageintom: '124'
-  image: v06/17-171-414-124.jpg
-- pageintom: '125'
-  image: v06/17-171-414-125.jpg
-- pageintom: '126'
-  image: v06/17-171-414-126.jpg
 sublists:
 - title: Список от 3 января 1938г. [Челябинская область]
   listtitle: Список лиц - Челябинская область
@@ -42,9 +27,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '122'
-    page_image: v06/17-171-414-122.jpg
+pages:
+- pageintom: '120'
+  image: v06/17-171-414-120.jpg
+  sublists: []
+- pageintom: '121'
+  image: v06/17-171-414-121.jpg
+  sublists: []
+- pageintom: '122'
+  image: v06/17-171-414-122.jpg
+  sublists:
+  - sublid: '407'
     persons:
     - id: '20915'
       num: '1'
@@ -127,8 +120,10 @@ sublists:
     - id: '20935'
       num: '21'
       name: ИВАНОВ Дмитрий Васильевич
-  - pageintom: '123'
-    page_image: v06/17-171-414-123.jpg
+- pageintom: '123'
+  image: v06/17-171-414-123.jpg
+  sublists:
+  - sublid: '407'
     persons:
     - id: '20936'
       num: '22'
@@ -237,8 +232,10 @@ sublists:
       num: '50'
       name: ПИАНСКИЙ Рихард Фрицевич
       spravka: true
-  - pageintom: '124'
-    page_image: v06/17-171-414-124.jpg
+- pageintom: '124'
+  image: v06/17-171-414-124.jpg
+  sublists:
+  - sublid: '407'
     persons:
     - id: '20965'
       num: '51'
@@ -309,8 +306,10 @@ sublists:
     - id: '20986'
       num: '72'
       name: ЯРОВСКИЙ Александр Васильевич
-  - pageintom: '125'
-    page_image: v06/17-171-414-125.jpg
+- pageintom: '125'
+  image: v06/17-171-414-125.jpg
+  sublists:
+  - sublid: '407'
     persons:
     - id: '20987'
       num: '1'
@@ -319,3 +318,6 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u><br /><u>(иностранный
         подданный)</u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
+- pageintom: '126'
+  image: v06/17-171-414-126.jpg
+  sublists: []

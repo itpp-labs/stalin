@@ -12,35 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '326'
-  image: v08/17-171-416-326.jpg
-- pageintom: '327'
-  image: v08/17-171-416-327.jpg
-- pageintom: '328'
-  image: v08/17-171-416-328.jpg
-- pageintom: '329'
-  image: v08/17-171-416-329.jpg
-- pageintom: '330'
-  image: v08/17-171-416-330.jpg
-- pageintom: '331'
-  image: v08/17-171-416-331.jpg
-- pageintom: '332'
-  image: v08/17-171-416-332.jpg
-- pageintom: '333'
-  image: v08/17-171-416-333.jpg
-- pageintom: '334'
-  image: v08/17-171-416-334.jpg
-- pageintom: '335'
-  image: v08/17-171-416-335.jpg
-- pageintom: '336'
-  image: v08/17-171-416-336.jpg
-- pageintom: '337'
-  image: v08/17-171-416-337.jpg
-- pageintom: '338'
-  image: v08/17-171-416-338.jpg
-- pageintom: '339'
-  image: v08/17-171-416-339.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,Московская область
@@ -55,9 +26,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '328'
-    page_image: v08/17-171-416-328.jpg
+- title: Список от 3 мая 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр,Московская область
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '326'
+  image: v08/17-171-416-326.jpg
+  sublists: []
+- pageintom: '327'
+  image: v08/17-171-416-327.jpg
+  sublists: []
+- pageintom: '328'
+  image: v08/17-171-416-328.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33077'
       num: '1'
@@ -148,8 +139,10 @@ sublists:
       num: '21'
       name: ГРАУДИН Франц Петрович
       spravka: true
-  - pageintom: '329'
-    page_image: v08/17-171-416-329.jpg
+- pageintom: '329'
+  image: v08/17-171-416-329.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33098'
       num: '22'
@@ -260,8 +253,10 @@ sublists:
       num: '49'
       name: МОВСЕСЯН Бениамин Исаевич
       spravka: true
-  - pageintom: '330'
-    page_image: v08/17-171-416-330.jpg
+- pageintom: '330'
+  image: v08/17-171-416-330.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33126'
       num: '50'
@@ -378,8 +373,10 @@ sublists:
       num: '78'
       name: ТОМАШЕВСКИЙ Ян Валерианович
       doublesexists: true
-  - pageintom: '331'
-    page_image: v08/17-171-416-331.jpg
+- pageintom: '331'
+  image: v08/17-171-416-331.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33155'
       num: '79'
@@ -416,8 +413,10 @@ sublists:
       num: '87'
       name: ЭГЛИТ Роберт Андреевич
       spravka: true
-  - pageintom: '332'
-    page_image: v08/17-171-416-332.jpg
+- pageintom: '332'
+  image: v08/17-171-416-332.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33164'
       num: '1'
@@ -426,8 +425,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(Иностранные подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '334'
-    page_image: v08/17-171-416-334.jpg
+- pageintom: '333'
+  image: v08/17-171-416-333.jpg
+  sublists: []
+- pageintom: '334'
+  image: v08/17-171-416-334.jpg
+  sublists:
+  - sublid: '609'
     persons:
     - id: '33165'
       num: '1'
@@ -457,21 +461,10 @@ sublists:
       num: '7'
       name: ЧЕРКАСОВ Владимир Николаевич
       spravka: true
-- title: Список от 3 мая 1938г. [Московская область]
-  listtitle: Список лиц - Москва-центр,Московская область
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '335'
-    page_image: v08/17-171-416-335.jpg
+- pageintom: '335'
+  image: v08/17-171-416-335.jpg
+  sublists:
+  - sublid: '610'
     persons:
     - id: '33172'
       num: '1'
@@ -556,8 +549,10 @@ sublists:
       num: '21'
       name: ГРИГОРЬЕВ Григорий Венедиктович
       spravka: true
-  - pageintom: '336'
-    page_image: v08/17-171-416-336.jpg
+- pageintom: '336'
+  image: v08/17-171-416-336.jpg
+  sublists:
+  - sublid: '610'
     persons:
     - id: '33193'
       num: '22'
@@ -678,8 +673,10 @@ sublists:
       num: '51'
       name: ЛОМОНОСОВ Алексей Георгиевич
       spravka: true
-  - pageintom: '337'
-    page_image: v08/17-171-416-337.jpg
+- pageintom: '337'
+  image: v08/17-171-416-337.jpg
+  sublists:
+  - sublid: '610'
     persons:
     - id: '33223'
       num: '52'
@@ -789,8 +786,10 @@ sublists:
     - id: '33251'
       num: '80'
       name: СУКОННИКОВ Евгений Ильич
-  - pageintom: '338'
-    page_image: v08/17-171-416-338.jpg
+- pageintom: '338'
+  image: v08/17-171-416-338.jpg
+  sublists:
+  - sublid: '610'
     persons:
     - id: '33252'
       num: '81'
@@ -869,8 +868,10 @@ sublists:
     - id: '33271'
       num: '100'
       name: ЯЦЕНКО Иван Акимович
-  - pageintom: '339'
-    page_image: v08/17-171-416-339.jpg
+- pageintom: '339'
+  image: v08/17-171-416-339.jpg
+  sublists:
+  - sublid: '610'
     persons:
     - id: '33272'
       num: '1'

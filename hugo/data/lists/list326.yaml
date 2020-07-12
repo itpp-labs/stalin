@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '296'
-  image: v08/17-171-416-296.jpg
-- pageintom: '297'
-  image: v08/17-171-416-297.jpg
-- pageintom: '298'
-  image: v08/17-171-416-298.jpg
-- pageintom: '299'
-  image: v08/17-171-416-299.jpg
-- pageintom: '300'
-  image: v08/17-171-416-300.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Кировская область]
   listtitle: Список лиц - Кировская область
@@ -35,9 +24,17 @@ sublists:
   - 148
   group_ids:
   - 0
-  pages:
-  - pageintom: '298'
-    page_image: v08/17-171-416-298.jpg
+pages:
+- pageintom: '296'
+  image: v08/17-171-416-296.jpg
+  sublists: []
+- pageintom: '297'
+  image: v08/17-171-416-297.jpg
+  sublists: []
+- pageintom: '298'
+  image: v08/17-171-416-298.jpg
+  sublists:
+  - sublid: '572'
     persons:
     - id: '32739'
       num: '1'
@@ -113,8 +110,10 @@ sublists:
       num: '18'
       name: СКУРАТОВСКИЙ Наум Львович
       spravka: true
-  - pageintom: '299'
-    page_image: v08/17-171-416-299.jpg
+- pageintom: '299'
+  image: v08/17-171-416-299.jpg
+  sublists:
+  - sublid: '572'
     persons:
     - id: '32757'
       num: '19'
@@ -132,8 +131,10 @@ sublists:
       num: '22'
       name: ЧЕРНЫЙ Григорий Александрович
       spravka: true
-  - pageintom: '300'
-    page_image: v08/17-171-416-300.jpg
+- pageintom: '300'
+  image: v08/17-171-416-300.jpg
+  sublists:
+  - sublid: '572'
     persons:
     - id: '32761'
       num: '1'

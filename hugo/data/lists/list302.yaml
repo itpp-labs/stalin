@@ -14,19 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '133'
-  image: v08/17-171-416-133.jpg
-- pageintom: '134'
-  image: v08/17-171-416-134.jpg
-- pageintom: '135'
-  image: v08/17-171-416-135.jpg
-- pageintom: '136'
-  image: v08/17-171-416-136.jpg
-- pageintom: '137'
-  image: v08/17-171-416-137.jpg
-- pageintom: '138'
-  image: v08/17-171-416-138.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
@@ -40,9 +27,29 @@ sublists:
   - 93
   group_ids:
   - 0
-  pages:
-  - pageintom: '135'
-    page_image: v08/17-171-416-135.jpg
+- title: Список от 19 апреля 1938г. [Смоленск-Западная ж.д.]
+  listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
+  sublisttitle: Смоленск-Западная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 61
+  geosub_ids:
+  - 143
+  group_ids:
+  - 13
+pages:
+- pageintom: '133'
+  image: v08/17-171-416-133.jpg
+  sublists: []
+- pageintom: '134'
+  image: v08/17-171-416-134.jpg
+  sublists: []
+- pageintom: '135'
+  image: v08/17-171-416-135.jpg
+  sublists:
+  - sublid: '600'
     persons:
     - id: '30802'
       num: '1'
@@ -103,21 +110,10 @@ sublists:
       num: '15'
       name: ЮНГ Николай Альбертович
       spravka: true
-- title: Список от 19 апреля 1938г. [Смоленск-Западная ж.д.]
-  listtitle: Список лиц - Смоленская область,Смоленск-Западная ж.д.
-  sublisttitle: Смоленск-Западная ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 61
-  geosub_ids:
-  - 143
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '136'
-    page_image: v08/17-171-416-136.jpg
+- pageintom: '136'
+  image: v08/17-171-416-136.jpg
+  sublists:
+  - sublid: '601'
     persons:
     - id: '30817'
       num: '1'
@@ -208,8 +204,10 @@ sublists:
       num: '22'
       name: САФРОНОВ Константин Дмитриевич
       spravka: true
-  - pageintom: '137'
-    page_image: v08/17-171-416-137.jpg
+- pageintom: '137'
+  image: v08/17-171-416-137.jpg
+  sublists:
+  - sublid: '601'
     persons:
     - id: '30839'
       num: '23'
@@ -239,8 +237,10 @@ sublists:
       num: '29'
       name: ЩЕКОЛДИН Андрей Васильевич
       spravka: true
-  - pageintom: '138'
-    page_image: v08/17-171-416-138.jpg
+- pageintom: '138'
+  image: v08/17-171-416-138.jpg
+  sublists:
+  - sublid: '601'
     persons:
     - id: '30846'
       num: '1'

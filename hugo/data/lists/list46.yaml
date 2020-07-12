@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '92'
-  image: v02/17-171-410-092.jpg
-- pageintom: '93'
-  image: v02/17-171-410-093.jpg
-- pageintom: '94'
-  image: v02/17-171-410-094.jpg
-- pageintom: '95'
-  image: v02/17-171-410-095.jpg
-- pageintom: '96'
-  image: v02/17-171-410-096.jpg
-- pageintom: '97'
-  image: v02/17-171-410-097.jpg
-- pageintom: '98'
-  image: v02/17-171-410-098.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Свердловская обл.]
   listtitle: 'Список лиц: Свердловская обл.'
@@ -40,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '94'
-    page_image: v02/17-171-410-094.jpg
+pages:
+- pageintom: '92'
+  image: v02/17-171-410-092.jpg
+  sublists: []
+- pageintom: '93'
+  image: v02/17-171-410-093.jpg
+  sublists: []
+- pageintom: '94'
+  image: v02/17-171-410-094.jpg
+  sublists:
+  - sublid: '34'
     persons:
     - id: '4365'
       num: '1'
@@ -150,8 +143,10 @@ sublists:
       num: '26'
       name: ПРЯХИН Иван Васильевич
       spravka: true
-  - pageintom: '95'
-    page_image: v02/17-171-410-095.jpg
+- pageintom: '95'
+  image: v02/17-171-410-095.jpg
+  sublists:
+  - sublid: '34'
     persons:
     - id: '4391'
       num: '27'
@@ -272,8 +267,10 @@ sublists:
       num: '56'
       name: ЯБЛОНСКИЙ Евгений Николаевич
       spravka: true
-  - pageintom: '96'
-    page_image: v02/17-171-410-096.jpg
+- pageintom: '96'
+  image: v02/17-171-410-096.jpg
+  sublists:
+  - sublid: '34'
     persons:
     - id: '4421'
       num: '1'
@@ -297,8 +294,10 @@ sublists:
       num: '5'
       name: ПОНОМАРЕВ Филипп Иванович
       spravka: true
-  - pageintom: '97'
-    page_image: v02/17-171-410-097.jpg
+- pageintom: '97'
+  image: v02/17-171-410-097.jpg
+  sublists:
+  - sublid: '34'
     persons:
     - id: '4426'
       num: '1'
@@ -307,3 +306,6 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ</u> <br /> (иностранные
         подданные) </p><p align="right"><u>2-я категория.</u>
+- pageintom: '98'
+  image: v02/17-171-410-098.jpg
+  sublists: []

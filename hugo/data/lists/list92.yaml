@@ -16,37 +16,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '120'
-  image: v04/17-171-412-120.jpg
-- pageintom: '121'
-  image: v04/17-171-412-121.jpg
-- pageintom: '122'
-  image: v04/17-171-412-122.jpg
-- pageintom: '123'
-  image: v04/17-171-412-123.jpg
-- pageintom: '124'
-  image: v04/17-171-412-124.jpg
-- pageintom: '125'
-  image: v04/17-171-412-125.jpg
-- pageintom: '126'
-  image: v04/17-171-412-126.jpg
-- pageintom: '127'
-  image: v04/17-171-412-127.jpg
-- pageintom: '128'
-  image: v04/17-171-412-128.jpg
-- pageintom: '129'
-  image: v04/17-171-412-129.jpg
-- pageintom: '130'
-  image: v04/17-171-412-130.jpg
-- pageintom: '131'
-  image: v04/17-171-412-131.jpg
-- pageintom: '132'
-  image: v04/17-171-412-132.jpg
-- pageintom: '133'
-  image: v04/17-171-412-133.jpg
-- pageintom: '134'
-  image: v04/17-171-412-134.jpg
 sublists:
 - title: Список от ноября 1937г. [I Быв.члены и кандидаты ЦК ВКП(б)]
   listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
@@ -62,9 +31,101 @@ sublists:
   - 82
   group_ids:
   - 15
-  pages:
-  - pageintom: '122'
-    page_image: v04/17-171-412-122.jpg
+- title: Список от ноября 1937г. [II Быв.члены КПК и КСК и Рев.Ком.ЦК]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: II Быв.члены КПК и КСК и Рев.Ком.ЦК
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 83
+  group_ids:
+  - 16
+- title: Список от ноября 1937г. [III Быв.секретари Обкомов, Крайкомов]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: III Быв.секретари Обкомов, Крайкомов
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 84
+  group_ids:
+  - 17
+- title: Список от ноября 1937г. [IV Быв.Наркомы,Зам.Наркомов и Пред.Обл.исполклмов]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: IV Быв.Наркомы,Зам.Наркомов и Пред.Обл.исполклмов
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 85
+  group_ids:
+  - 18
+- title: Список от ноября 1937г. [V Быв.ответ.работники Наркоматов]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: V Быв.ответ.работники Наркоматов
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 86
+  group_ids:
+  - 19
+- title: Список от ноября 1937г. [VI Быв.военные работники]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: VI Быв.военные работники
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 87
+  group_ids:
+  - 3
+- title: Список от ноября 1937г. [VII Быв.работники НКВД]
+  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
+    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
+    военные работники; работники НКВД)
+  sublisttitle: VII Быв.работники НКВД
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 1
+  geosub_ids:
+  - 88
+  group_ids:
+  - 1
+pages:
+- pageintom: '120'
+  image: v04/17-171-412-120.jpg
+  sublists: []
+- pageintom: '121'
+  image: v04/17-171-412-121.jpg
+  sublists: []
+- pageintom: '122'
+  image: v04/17-171-412-122.jpg
+  sublists:
+  - sublid: '237'
     persons:
     - id: '11941'
       num: '0'
@@ -212,8 +273,10 @@ sublists:
       num: '13'
       name: ЛЕПА Альфред Карлович
       spravka: true
-  - pageintom: '123'
-    page_image: v04/17-171-412-123.jpg
+- pageintom: '123'
+  image: v04/17-171-412-123.jpg
+  sublists:
+  - sublid: '237'
     persons:
     - id: '11967'
       num: '14'
@@ -321,23 +384,10 @@ sublists:
       rowinpage: '19'
       striked: true
       spravka: true
-- title: Список от ноября 1937г. [II Быв.члены КПК и КСК и Рев.Ком.ЦК]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: II Быв.члены КПК и КСК и Рев.Ком.ЦК
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 83
-  group_ids:
-  - 16
-  pages:
-  - pageintom: '124'
-    page_image: v04/17-171-412-124.jpg
+- pageintom: '124'
+  image: v04/17-171-412-124.jpg
+  sublists:
+  - sublid: '238'
     persons:
     - id: '36057'
       num: '0'
@@ -474,23 +524,10 @@ sublists:
     - id: '12013'
       num: '22'
       name: ЯКОВЛЕВ Александр Аркадьевич
-- title: Список от ноября 1937г. [III Быв.секретари Обкомов, Крайкомов]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: III Быв.секретари Обкомов, Крайкомов
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 84
-  group_ids:
-  - 17
-  pages:
-  - pageintom: '125'
-    page_image: v04/17-171-412-125.jpg
+- pageintom: '125'
+  image: v04/17-171-412-125.jpg
+  sublists:
+  - sublid: '239'
     persons:
     - id: '12014'
       num: '1'
@@ -552,23 +589,10 @@ sublists:
       num: '12'
       name: ЧЕМОДАНОВ Василий Тарасович
       spravka: true
-- title: Список от ноября 1937г. [IV Быв.Наркомы,Зам.Наркомов и Пред.Обл.исполклмов]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: IV Быв.Наркомы,Зам.Наркомов и Пред.Обл.исполклмов
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 85
-  group_ids:
-  - 18
-  pages:
-  - pageintom: '126'
-    page_image: v04/17-171-412-126.jpg
+- pageintom: '126'
+  image: v04/17-171-412-126.jpg
+  sublists:
+  - sublid: '240'
     persons:
     - id: '33077'
       num: '1'
@@ -707,23 +731,10 @@ sublists:
       striked: true
       doublesexists: true
       spravka: true
-- title: Список от ноября 1937г. [V Быв.ответ.работники Наркоматов]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: V Быв.ответ.работники Наркоматов
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 86
-  group_ids:
-  - 19
-  pages:
-  - pageintom: '127'
-    page_image: v04/17-171-412-127.jpg
+- pageintom: '127'
+  image: v04/17-171-412-127.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '12052'
       num: '1'
@@ -849,8 +860,10 @@ sublists:
       name: ГЕРЦМАН Макс Ильич
       doublesexists: true
       spravka: true
-  - pageintom: '128'
-    page_image: v04/17-171-412-128.jpg
+- pageintom: '128'
+  image: v04/17-171-412-128.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '12079'
       num: '28'
@@ -980,8 +993,10 @@ sublists:
       name: КОЧЕТОВ Владимир Николаевич
       doublesexists: true
       spravka: true
-  - pageintom: '129'
-    page_image: v04/17-171-412-129.jpg
+- pageintom: '129'
+  image: v04/17-171-412-129.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '12109'
       num: '58'
@@ -1110,8 +1125,10 @@ sublists:
       num: '87'
       name: НЕМЦОВ Николай Максимович
       spravka: true
-  - pageintom: '130'
-    page_image: v04/17-171-412-130.jpg
+- pageintom: '130'
+  image: v04/17-171-412-130.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '12139'
       num: '88'
@@ -1249,8 +1266,10 @@ sublists:
       name: СУКОВСКИЙ Федор Владимирович
       doublesexists: true
       spravka: true
-  - pageintom: '131'
-    page_image: v04/17-171-412-131.jpg
+- pageintom: '131'
+  image: v04/17-171-412-131.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '36199'
       num: '118'
@@ -1370,8 +1389,10 @@ sublists:
       num: '144'
       name: ЧЕРНЫШЕВ Виктор Николаевич
       spravka: true
-  - pageintom: '132'
-    page_image: v04/17-171-412-132.jpg
+- pageintom: '132'
+  image: v04/17-171-412-132.jpg
+  sublists:
+  - sublid: '241'
     persons:
     - id: '12196'
       num: '145'
@@ -1396,23 +1417,10 @@ sublists:
       name: ЯКИМОВИЧ Иван Константинович
       doublesexists: true
       spravka: true
-- title: Список от ноября 1937г. [VI Быв.военные работники]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: VI Быв.военные работники
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 87
-  group_ids:
-  - 3
-  pages:
-  - pageintom: '133'
-    page_image: v04/17-171-412-133.jpg
+- pageintom: '133'
+  image: v04/17-171-412-133.jpg
+  sublists:
+  - sublid: '242'
     persons:
     - id: '12201'
       num: '1'
@@ -1486,23 +1494,10 @@ sublists:
       name: РИНК Александр Иванович
       doublesexists: true
       spravka: true
-- title: Список от ноября 1937г. [VII Быв.работники НКВД]
-  listtitle: Список лиц - (бывшие члены в канд.ЦК ВКП/б/; члены КПК и КСК и Рев.Ком.ЦК;
-    секретари ОК,КК; наркомы, зам.наркомов и пред.облисполкомов; ответработники НК;
-    военные работники; работники НКВД)
-  sublisttitle: VII Быв.работники НКВД
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 1
-  geosub_ids:
-  - 88
-  group_ids:
-  - 1
-  pages:
-  - pageintom: '134'
-    page_image: v04/17-171-412-134.jpg
+- pageintom: '134'
+  image: v04/17-171-412-134.jpg
+  sublists:
+  - sublid: '243'
     persons:
     - id: '12850'
       num: '1'

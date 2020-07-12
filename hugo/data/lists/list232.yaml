@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '116'
-  image: v03/17-171-411-116.jpg
-- pageintom: '117'
-  image: v03/17-171-411-117.jpg
-- pageintom: '118'
-  image: v03/17-171-411-118.jpg
-- pageintom: '119'
-  image: v03/17-171-411-119.jpg
-- pageintom: '120'
-  image: v03/17-171-411-120.jpg
-- pageintom: '121'
-  image: v03/17-171-411-121.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Красноярский край]
   listtitle: 'Список лиц: Красноярский край'
@@ -38,9 +25,17 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '118'
-    page_image: v03/17-171-411-118.jpg
+pages:
+- pageintom: '116'
+  image: v03/17-171-411-116.jpg
+  sublists: []
+- pageintom: '117'
+  image: v03/17-171-411-117.jpg
+  sublists: []
+- pageintom: '118'
+  image: v03/17-171-411-118.jpg
+  sublists:
+  - sublid: '352'
     persons:
     - id: '8984'
       num: '1'
@@ -141,8 +136,10 @@ sublists:
       num: '24'
       name: КОВАЛЕВ Павел Петрович
       spravka: true
-  - pageintom: '119'
-    page_image: v03/17-171-411-119.jpg
+- pageintom: '119'
+  image: v03/17-171-411-119.jpg
+  sublists:
+  - sublid: '352'
     persons:
     - id: '9008'
       num: '25'
@@ -256,8 +253,10 @@ sublists:
       num: '52'
       name: УСИКОВ Иван Андреевич
       spravka: true
-  - pageintom: '120'
-    page_image: v03/17-171-411-120.jpg
+- pageintom: '120'
+  image: v03/17-171-411-120.jpg
+  sublists:
+  - sublid: '352'
     persons:
     - id: '28995'
       num: '53'
@@ -276,8 +275,10 @@ sublists:
       num: '56'
       name: ЯНЧЕВСКИЙ Антон Антонович
       spravka: true
-  - pageintom: '121'
-    page_image: v03/17-171-411-121.jpg
+- pageintom: '121'
+  image: v03/17-171-411-121.jpg
+  sublists:
+  - sublid: '352'
     persons:
     - id: '9040'
       num: '1'

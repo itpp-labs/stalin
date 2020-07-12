@@ -11,25 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '49'
-  image: v02/17-171-410-049.jpg
-- pageintom: '50'
-  image: v02/17-171-410-050.jpg
-- pageintom: '51'
-  image: v02/17-171-410-051.jpg
-- pageintom: '52'
-  image: v02/17-171-410-052.jpg
-- pageintom: '53'
-  image: v02/17-171-410-053.jpg
-- pageintom: '54'
-  image: v02/17-171-410-054.jpg
-- pageintom: '55'
-  image: v02/17-171-410-055.jpg
-- pageintom: '56'
-  image: v02/17-171-410-056.jpg
-- pageintom: '57'
-  image: v02/17-171-410-057.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр, Московская обл.'
@@ -43,9 +24,29 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '51'
-    page_image: v02/17-171-410-051.jpg
+- title: Список от 10 июля 1937 г. [Московская область]
+  listtitle: 'Список лиц: Москва-центр, Московская обл.'
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 43
+  group_ids:
+  - 0
+pages:
+- pageintom: '49'
+  image: v02/17-171-410-049.jpg
+  sublists: []
+- pageintom: '50'
+  image: v02/17-171-410-050.jpg
+  sublists: []
+- pageintom: '51'
+  image: v02/17-171-410-051.jpg
+  sublists:
+  - sublid: '178'
     persons:
     - id: '3891'
       num: '1'
@@ -147,8 +148,10 @@ sublists:
       num: '25'
       name: ГОРБУНОВ Леонид Михайлович
       spravka: true
-  - pageintom: '52'
-    page_image: v02/17-171-410-052.jpg
+- pageintom: '52'
+  image: v02/17-171-410-052.jpg
+  sublists:
+  - sublid: '178'
     persons:
     - id: '3916'
       num: '26'
@@ -258,8 +261,10 @@ sublists:
       num: '52'
       name: КУДРЕВАТОВ Сергей Кузьмич
       spravka: true
-  - pageintom: '53'
-    page_image: v02/17-171-410-053.jpg
+- pageintom: '53'
+  image: v02/17-171-410-053.jpg
+  sublists:
+  - sublid: '178'
     persons:
     - id: '3943'
       num: '53'
@@ -368,8 +373,10 @@ sublists:
       num: '79'
       name: РАБИНОВИЧ Лазарь Львович
       spravka: true
-  - pageintom: '54'
-    page_image: v02/17-171-410-054.jpg
+- pageintom: '54'
+  image: v02/17-171-410-054.jpg
+  sublists:
+  - sublid: '178'
     persons:
     - id: '3970'
       num: '80'
@@ -475,8 +482,10 @@ sublists:
       num: '105'
       name: ЯКОВЛЕВ Григорий Антонович
       spravka: true
-  - pageintom: '55'
-    page_image: v02/17-171-410-055.jpg
+- pageintom: '55'
+  image: v02/17-171-410-055.jpg
+  sublists:
+  - sublid: '178'
     persons:
     - id: '3996'
       num: '1'
@@ -501,21 +510,10 @@ sublists:
     - id: '4002'
       num: '7'
       name: ШАГОВ Николай Васильевич
-- title: Список от 10 июля 1937 г. [Московская область]
-  listtitle: 'Список лиц: Москва-центр, Московская обл.'
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 43
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '56'
-    page_image: v02/17-171-410-056.jpg
+- pageintom: '56'
+  image: v02/17-171-410-056.jpg
+  sublists:
+  - sublid: '179'
     persons:
     - id: '4003'
       num: '1'
@@ -556,8 +554,10 @@ sublists:
       num: '9'
       name: РУДЫЙ Николай Александрович
       spravka: true
-  - pageintom: '57'
-    page_image: v02/17-171-410-057.jpg
+- pageintom: '57'
+  image: v02/17-171-410-057.jpg
+  sublists:
+  - sublid: '179'
     persons:
     - id: '4012'
       num: '1'

@@ -13,27 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '301'
-  image: v05/17-171-413-301.jpg
-- pageintom: '302'
-  image: v05/17-171-413-302.jpg
-- pageintom: '303'
-  image: v05/17-171-413-303.jpg
-- pageintom: '304'
-  image: v05/17-171-413-304.jpg
-- pageintom: '305'
-  image: v05/17-171-413-305.jpg
-- pageintom: '306'
-  image: v05/17-171-413-306.jpg
-- pageintom: '307'
-  image: v05/17-171-413-307.jpg
-- pageintom: '308'
-  image: v05/17-171-413-308.jpg
-- pageintom: '309'
-  image: v05/17-171-413-309.jpg
-- pageintom: '310'
-  image: v05/17-171-413-310.jpg
 sublists:
 - title: Список от 22 декабря 1937г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область
@@ -47,9 +26,17 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '303'
-    page_image: v05/17-171-413-303.jpg
+pages:
+- pageintom: '301'
+  image: v05/17-171-413-301.jpg
+  sublists: []
+- pageintom: '302'
+  image: v05/17-171-413-302.jpg
+  sublists: []
+- pageintom: '303'
+  image: v05/17-171-413-303.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18262'
       num: '1'
@@ -144,8 +131,10 @@ sublists:
       num: '24'
       name: ВАГАНОВ Михаил Ефимович
       spravka: true
-  - pageintom: '304'
-    page_image: v05/17-171-413-304.jpg
+- pageintom: '304'
+  image: v05/17-171-413-304.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18286'
       num: '25'
@@ -258,8 +247,10 @@ sublists:
       num: '54'
       name: ЗАХАРОВ Михаил Ильич
       spravka: true
-  - pageintom: '305'
-    page_image: v05/17-171-413-305.jpg
+- pageintom: '305'
+  image: v05/17-171-413-305.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18316'
       num: '55'
@@ -365,8 +356,10 @@ sublists:
     - id: '18344'
       num: '83'
       name: КУЛЬКОВ Николай Степанович
-  - pageintom: '306'
-    page_image: v05/17-171-413-306.jpg
+- pageintom: '306'
+  image: v05/17-171-413-306.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18345'
       num: '84'
@@ -478,8 +471,10 @@ sublists:
       num: '112'
       name: НОВИЦКИЙ Анатолий Иванович
       spravka: true
-  - pageintom: '307'
-    page_image: v05/17-171-413-307.jpg
+- pageintom: '307'
+  image: v05/17-171-413-307.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18374'
       num: '113'
@@ -593,8 +588,10 @@ sublists:
     - id: '18402'
       num: '141'
       name: СМОЛА Александр Георгиевич
-  - pageintom: '308'
-    page_image: v05/17-171-413-308.jpg
+- pageintom: '308'
+  image: v05/17-171-413-308.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18403'
       num: '142'
@@ -701,8 +698,10 @@ sublists:
       num: '169'
       name: ШЕПШЕЛЕВИЧ Соломон Иудович
       spravka: true
-  - pageintom: '309'
-    page_image: v05/17-171-413-309.jpg
+- pageintom: '309'
+  image: v05/17-171-413-309.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18431'
       num: '170'
@@ -734,8 +733,10 @@ sublists:
     - id: '18438'
       num: '177'
       name: ЯСУТИС Норберт Александрович
-  - pageintom: '310'
-    page_image: v05/17-171-413-310.jpg
+- pageintom: '310'
+  image: v05/17-171-413-310.jpg
+  sublists:
+  - sublid: '91'
     persons:
     - id: '18439'
       num: '1'

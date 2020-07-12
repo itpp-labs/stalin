@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '256'
-  image: v08/17-171-416-256.jpg
-- pageintom: '257'
-  image: v08/17-171-416-257.jpg
-- pageintom: '258'
-  image: v08/17-171-416-258.jpg
-- pageintom: '259'
-  image: v08/17-171-416-259.jpg
-- pageintom: '260'
-  image: v08/17-171-416-260.jpg
-- pageintom: '261'
-  image: v08/17-171-416-261.jpg
-- pageintom: '262'
-  image: v08/17-171-416-262.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Таджикская ССР]
   listtitle: Список лиц - Таджикская ССР
@@ -39,9 +24,17 @@ sublists:
   - 147
   group_ids:
   - 0
-  pages:
-  - pageintom: '258'
-    page_image: v08/17-171-416-258.jpg
+pages:
+- pageintom: '256'
+  image: v08/17-171-416-256.jpg
+  sublists: []
+- pageintom: '257'
+  image: v08/17-171-416-257.jpg
+  sublists: []
+- pageintom: '258'
+  image: v08/17-171-416-258.jpg
+  sublists:
+  - sublid: '568'
     persons:
     - id: '32218'
       num: '1'
@@ -114,8 +107,10 @@ sublists:
     - id: '32238'
       num: '21'
       name: БАБАДЖАНОВ Исмат
-  - pageintom: '259'
-    page_image: v08/17-171-416-259.jpg
+- pageintom: '259'
+  image: v08/17-171-416-259.jpg
+  sublists:
+  - sublid: '568'
     persons:
     - id: '32239'
       num: '22'
@@ -215,8 +210,10 @@ sublists:
       num: '51'
       name: КУЗНЕЦОВ Федор Алексеевич
       spravka: true
-  - pageintom: '260'
-    page_image: v08/17-171-416-260.jpg
+- pageintom: '260'
+  image: v08/17-171-416-260.jpg
+  sublists:
+  - sublid: '568'
     persons:
     - id: '32269'
       num: '52'
@@ -312,8 +309,10 @@ sublists:
     - id: '32298'
       num: '81'
       name: САЙФИЕВ-ЯКШИМБЕТОВ Гасым Ходжи Мухамедович
-  - pageintom: '261'
-    page_image: v08/17-171-416-261.jpg
+- pageintom: '261'
+  image: v08/17-171-416-261.jpg
+  sublists:
+  - sublid: '568'
     persons:
     - id: '32299'
       num: '82'
@@ -406,8 +405,10 @@ sublists:
     - id: '32325'
       num: '108'
       name: ЮСУФБЕКОВ Мамед Махмудович
-  - pageintom: '262'
-    page_image: v08/17-171-416-262.jpg
+- pageintom: '262'
+  image: v08/17-171-416-262.jpg
+  sublists:
+  - sublid: '568'
     persons:
     - id: '32326'
       num: '1'

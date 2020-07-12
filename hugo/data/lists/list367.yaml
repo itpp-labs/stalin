@@ -13,29 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '274'
-  image: v06/17-171-414-274.jpg
-- pageintom: '275'
-  image: v06/17-171-414-275.jpg
-- pageintom: '276'
-  image: v06/17-171-414-276.jpg
-- pageintom: '277'
-  image: v06/17-171-414-277.jpg
-- pageintom: '278'
-  image: v06/17-171-414-278.jpg
-- pageintom: '279'
-  image: v06/17-171-414-279.jpg
-- pageintom: '280'
-  image: v06/17-171-414-280.jpg
-- pageintom: '281'
-  image: v06/17-171-414-281.jpg
-- pageintom: '282'
-  image: v06/17-171-414-282.jpg
-- pageintom: '283'
-  image: v06/17-171-414-283.jpg
-- pageintom: '284'
-  image: v06/17-171-414-284.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Саратовская область]
   listtitle: Список лиц - Саратовская область
@@ -49,9 +26,17 @@ sublists:
   - 14
   group_ids:
   - 2
-  pages:
-  - pageintom: '276'
-    page_image: v06/17-171-414-276.jpg
+pages:
+- pageintom: '274'
+  image: v06/17-171-414-274.jpg
+  sublists: []
+- pageintom: '275'
+  image: v06/17-171-414-275.jpg
+  sublists: []
+- pageintom: '276'
+  image: v06/17-171-414-276.jpg
+  sublists:
+  - sublid: '417'
     persons:
     - id: '32548'
       num: '1'
@@ -95,3 +80,27 @@ sublists:
       num: '8'
       name: ЭКШТЕЙН Юлий Эдуардович
       gb_spravka: true
+- pageintom: '277'
+  image: v06/17-171-414-277.jpg
+  sublists: []
+- pageintom: '278'
+  image: v06/17-171-414-278.jpg
+  sublists: []
+- pageintom: '279'
+  image: v06/17-171-414-279.jpg
+  sublists: []
+- pageintom: '280'
+  image: v06/17-171-414-280.jpg
+  sublists: []
+- pageintom: '281'
+  image: v06/17-171-414-281.jpg
+  sublists: []
+- pageintom: '282'
+  image: v06/17-171-414-282.jpg
+  sublists: []
+- pageintom: '283'
+  image: v06/17-171-414-283.jpg
+  sublists: []
+- pageintom: '284'
+  image: v06/17-171-414-284.jpg
+  sublists: []

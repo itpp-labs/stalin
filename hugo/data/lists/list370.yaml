@@ -13,23 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '297'
-  image: v06/17-171-414-297.jpg
-- pageintom: '298'
-  image: v06/17-171-414-298.jpg
-- pageintom: '299'
-  image: v06/17-171-414-299.jpg
-- pageintom: '300'
-  image: v06/17-171-414-300.jpg
-- pageintom: '301'
-  image: v06/17-171-414-301.jpg
-- pageintom: '302'
-  image: v06/17-171-414-302.jpg
-- pageintom: '303'
-  image: v06/17-171-414-303.jpg
-- pageintom: '304'
-  image: v06/17-171-414-304.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -43,9 +26,17 @@ sublists:
   - 60
   group_ids:
   - 0
-  pages:
-  - pageintom: '299'
-    page_image: v06/17-171-414-299.jpg
+pages:
+- pageintom: '297'
+  image: v06/17-171-414-297.jpg
+  sublists: []
+- pageintom: '298'
+  image: v06/17-171-414-298.jpg
+  sublists: []
+- pageintom: '299'
+  image: v06/17-171-414-299.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23045'
       num: '1'
@@ -137,8 +128,10 @@ sublists:
       num: '22'
       name: БУЛЛЕ Мильда Оттовна
       spravka: true
-  - pageintom: '300'
-    page_image: v06/17-171-414-300.jpg
+- pageintom: '300'
+  image: v06/17-171-414-300.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23067'
       num: '23'
@@ -256,8 +249,10 @@ sublists:
       num: '51'
       name: ЗУБАРЕВ Михаил Гаврилович
       spravka: true
-  - pageintom: '301'
-    page_image: v06/17-171-414-301.jpg
+- pageintom: '301'
+  image: v06/17-171-414-301.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23096'
       num: '52'
@@ -374,8 +369,10 @@ sublists:
       num: '80'
       name: МУЛАШЕВ Амир Минниярович
       spravka: true
-  - pageintom: '302'
-    page_image: v06/17-171-414-302.jpg
+- pageintom: '302'
+  image: v06/17-171-414-302.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23125'
       num: '81'
@@ -489,8 +486,10 @@ sublists:
       num: '109'
       name: ФАЗЛЕТДИНОВ Муса Бадретдинович
       spravka: true
-  - pageintom: '303'
-    page_image: v06/17-171-414-303.jpg
+- pageintom: '303'
+  image: v06/17-171-414-303.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23154'
       num: '110'
@@ -594,8 +593,10 @@ sublists:
       num: '135'
       name: ЯКУПОВ Саидельхужа Юмагужинович
       spravka: true
-  - pageintom: '304'
-    page_image: v06/17-171-414-304.jpg
+- pageintom: '304'
+  image: v06/17-171-414-304.jpg
+  sublists:
+  - sublid: '419'
     persons:
     - id: '23180'
       num: '1'

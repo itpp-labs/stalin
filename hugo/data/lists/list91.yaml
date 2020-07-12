@@ -13,15 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '116'
-  image: v04/17-171-412-116.jpg
-- pageintom: '117'
-  image: v04/17-171-412-117.jpg
-- pageintom: '118'
-  image: v04/17-171-412-118.jpg
-- pageintom: '119'
-  image: v04/17-171-412-119.jpg
 sublists:
 - title: Список от 27 октября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -35,9 +26,17 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '118'
-    page_image: v04/17-171-412-118.jpg
+pages:
+- pageintom: '116'
+  image: v04/17-171-412-116.jpg
+  sublists: []
+- pageintom: '117'
+  image: v04/17-171-412-117.jpg
+  sublists: []
+- pageintom: '118'
+  image: v04/17-171-412-118.jpg
+  sublists:
+  - sublid: '64'
     persons:
     - id: '11927'
       num: '1'
@@ -91,8 +90,10 @@ sublists:
       num: '12'
       name: ЧЕРНЯВСКИЙ Андрей Федорович
       spravka: true
-  - pageintom: '119'
-    page_image: v04/17-171-412-119.jpg
+- pageintom: '119'
+  image: v04/17-171-412-119.jpg
+  sublists:
+  - sublid: '64'
     persons:
     - id: '11939'
       num: '1'

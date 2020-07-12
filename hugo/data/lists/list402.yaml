@@ -14,41 +14,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '150'
-  image: v11/17-171-419-150.jpg
-- pageintom: '151'
-  image: v11/17-171-419-151.jpg
-- pageintom: '152'
-  image: v11/17-171-419-152.jpg
-- pageintom: '153'
-  image: v11/17-171-419-153.jpg
-- pageintom: '154'
-  image: v11/17-171-419-154.jpg
-- pageintom: '155'
-  image: v11/17-171-419-155.jpg
-- pageintom: '156'
-  image: v11/17-171-419-156.jpg
-- pageintom: '157'
-  image: v11/17-171-419-157.jpg
-- pageintom: '158'
-  image: v11/17-171-419-158.jpg
-- pageintom: '159'
-  image: v11/17-171-419-159.jpg
-- pageintom: '160'
-  image: v11/17-171-419-160.jpg
-- pageintom: '161'
-  image: v11/17-171-419-161.jpg
-- pageintom: '162'
-  image: v11/17-171-419-162.jpg
-- pageintom: '163'
-  image: v11/17-171-419-163.jpg
-- pageintom: '164'
-  image: v11/17-171-419-164.jpg
-- pageintom: '165'
-  image: v11/17-171-419-165.jpg
-- pageintom: '166'
-  image: v11/17-171-419-166.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Московская область]
   listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
@@ -63,9 +28,95 @@ sublists:
   - 8
   group_ids:
   - 0
-  pages:
-  - pageintom: '152'
-    page_image: v11/17-171-419-152.jpg
+- title: Список от 12 сентября 1938г. [ДТО УГБ УНКВД МО по Метро]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: ДТО УГБ УНКВД МО по Метро
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 96
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [Московско-Окружная ж.д.]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: Московско-Окружная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 43
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [ж.д.им.Дзержинского]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: ж.д.им.Дзержинского
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 94
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [Ленинская ж.д.]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: Ленинская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 164
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [БЕЛБАЛТЛАГ НКВД]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: БЕЛБАЛТЛАГ НКВД
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 38
+  geosub_ids:
+  - 165
+  group_ids:
+  - 14
+- title: Список от 12 сентября 1938г. [ВОЛГОЛАГ НКВД]
+  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
+    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
+  sublisttitle: ВОЛГОЛАГ НКВД
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 17
+  geosub_ids:
+  - 166
+  group_ids:
+  - 14
+pages:
+- pageintom: '150'
+  image: v11/17-171-419-150.jpg
+  sublists: []
+- pageintom: '151'
+  image: v11/17-171-419-151.jpg
+  sublists: []
+- pageintom: '152'
+  image: v11/17-171-419-152.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42668'
       num: '1'
@@ -149,8 +200,10 @@ sublists:
       num: '20'
       name: ВАСНЕЦОВА Серафима Александровна
       spravka: true
-  - pageintom: '153'
-    page_image: v11/17-171-419-153.jpg
+- pageintom: '153'
+  image: v11/17-171-419-153.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42688'
       num: '21'
@@ -260,8 +313,10 @@ sublists:
       num: '48'
       name: КОРЕНЕВ Мирон Васильевич
       spravka: true
-  - pageintom: '154'
-    page_image: v11/17-171-419-154.jpg
+- pageintom: '154'
+  image: v11/17-171-419-154.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42716'
       num: '49'
@@ -373,8 +428,10 @@ sublists:
     - id: '42743'
       num: '76'
       name: ОВЧИННИКОВ Борис Михайлович
-  - pageintom: '155'
-    page_image: v11/17-171-419-155.jpg
+- pageintom: '155'
+  image: v11/17-171-419-155.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42744'
       num: '77'
@@ -479,8 +536,10 @@ sublists:
     - id: '42771'
       num: '104'
       name: СИМКИН Павел Борисович
-  - pageintom: '156'
-    page_image: v11/17-171-419-156.jpg
+- pageintom: '156'
+  image: v11/17-171-419-156.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42772'
       num: '105'
@@ -587,8 +646,10 @@ sublists:
       num: '133'
       name: ШУХЕР Моисей Михайлович
       spravka: true
-  - pageintom: '157'
-    page_image: v11/17-171-419-157.jpg
+- pageintom: '157'
+  image: v11/17-171-419-157.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42801'
       num: '134'
@@ -603,8 +664,10 @@ sublists:
       num: '137'
       name: ЯНКИЛОВИЧ Марк Михайлович
       spravka: true
-  - pageintom: '158'
-    page_image: v11/17-171-419-158.jpg
+- pageintom: '158'
+  image: v11/17-171-419-158.jpg
+  sublists:
+  - sublid: '632'
     persons:
     - id: '42805'
       num: '1'
@@ -627,22 +690,10 @@ sublists:
     - id: '42810'
       num: '6'
       name: ФИЛАТОВ Михаил Ефимович
-- title: Список от 12 сентября 1938г. [ДТО УГБ УНКВД МО по Метро]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: ДТО УГБ УНКВД МО по Метро
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 96
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '159'
-    page_image: v11/17-171-419-159.jpg
+- pageintom: '159'
+  image: v11/17-171-419-159.jpg
+  sublists:
+  - sublid: '633'
     persons:
     - id: '42811'
       num: '1'
@@ -682,22 +733,10 @@ sublists:
     - id: '42820'
       num: '5'
       name: ТЕПЛИНСКИЙ Петр Степанович
-- title: Список от 12 сентября 1938г. [Московско-Окружная ж.д.]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: Московско-Окружная ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 43
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '160'
-    page_image: v11/17-171-419-160.jpg
+- pageintom: '160'
+  image: v11/17-171-419-160.jpg
+  sublists:
+  - sublid: '634'
     persons:
     - id: '42821'
       num: '1'
@@ -729,22 +768,10 @@ sublists:
       name: ПАНОВ Николай Александрович
       spravka: true
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
-- title: Список от 12 сентября 1938г. [ж.д.им.Дзержинского]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: ж.д.им.Дзержинского
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 94
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '161'
-    page_image: v11/17-171-419-161.jpg
+- pageintom: '161'
+  image: v11/17-171-419-161.jpg
+  sublists:
+  - sublid: '635'
     persons:
     - id: '42828'
       num: '1'
@@ -759,22 +786,10 @@ sublists:
     - id: '42830'
       num: '2'
       name: МАЛИКОВ Юрий Александрович
-- title: Список от 12 сентября 1938г. [Ленинская ж.д.]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: Ленинская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 164
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '162'
-    page_image: v11/17-171-419-162.jpg
+- pageintom: '162'
+  image: v11/17-171-419-162.jpg
+  sublists:
+  - sublid: '636'
     persons:
     - id: '42831'
       num: '1'
@@ -857,8 +872,10 @@ sublists:
       num: '20'
       name: ОДИНОКОВ Василий Федорович
       spravka: true
-  - pageintom: '163'
-    page_image: v11/17-171-419-163.jpg
+- pageintom: '163'
+  image: v11/17-171-419-163.jpg
+  sublists:
+  - sublid: '636'
     persons:
     - id: '42851'
       num: '21'
@@ -885,8 +902,10 @@ sublists:
       num: '27'
       name: ХИТРИНСКИЙ Андрей Иосифович
       spravka: true
-  - pageintom: '164'
-    page_image: v11/17-171-419-164.jpg
+- pageintom: '164'
+  image: v11/17-171-419-164.jpg
+  sublists:
+  - sublid: '636'
     persons:
     - id: '42858'
       num: '1'
@@ -925,44 +944,20 @@ sublists:
       num: '9'
       name: ЩЕКИН Василий Федорович
       spravka: true
-- title: Список от 12 сентября 1938г. [БЕЛБАЛТЛАГ НКВД]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: БЕЛБАЛТЛАГ НКВД
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 38
-  geosub_ids:
-  - 165
-  group_ids:
-  - 14
-  pages:
-  - pageintom: '165'
-    page_image: v11/17-171-419-165.jpg
+- pageintom: '165'
+  image: v11/17-171-419-165.jpg
+  sublists:
+  - sublid: '637'
     persons:
     - id: '42867'
       num: '1'
       name: РОЗЕН Мильверт Иоганович
       subtitle1: <p align="center"><u>БЕЛБАЛТЛАГ НКВД </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
-- title: Список от 12 сентября 1938г. [ВОЛГОЛАГ НКВД]
-  listtitle: Список лиц - Московская область,ДТО УГБ УНКВД МО по Метро,Московско-Окружная
-    ж.д.,ж.д.им.Дзержинского,Ленинская ж.д.,БЕЛБАЛТЛАГ НКВД,ВОЛГОЛАГ НКВД
-  sublisttitle: ВОЛГОЛАГ НКВД
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 17
-  geosub_ids:
-  - 166
-  group_ids:
-  - 14
-  pages:
-  - pageintom: '166'
-    page_image: v11/17-171-419-166.jpg
+- pageintom: '166'
+  image: v11/17-171-419-166.jpg
+  sublists:
+  - sublid: '638'
     persons:
     - id: '42868'
       num: '1'

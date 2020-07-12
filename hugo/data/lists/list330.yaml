@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '316'
-  image: v08/17-171-416-316.jpg
-- pageintom: '317'
-  image: v08/17-171-416-317.jpg
-- pageintom: '318'
-  image: v08/17-171-416-318.jpg
-- pageintom: '319'
-  image: v08/17-171-416-319.jpg
-- pageintom: '320'
-  image: v08/17-171-416-320.jpg
-- pageintom: '321'
-  image: v08/17-171-416-321.jpg
-- pageintom: '322'
-  image: v08/17-171-416-322.jpg
-- pageintom: '323'
-  image: v08/17-171-416-323.jpg
-- pageintom: '324'
-  image: v08/17-171-416-324.jpg
-- pageintom: '325'
-  image: v08/17-171-416-325.jpg
 sublists:
 - title: Список от 3 мая 1938г. [Азербайджанская ССР]
   listtitle: Список лиц - Азербайджанская ССР
@@ -45,9 +24,17 @@ sublists:
   - 39
   group_ids:
   - 0
-  pages:
-  - pageintom: '318'
-    page_image: v08/17-171-416-318.jpg
+pages:
+- pageintom: '316'
+  image: v08/17-171-416-316.jpg
+  sublists: []
+- pageintom: '317'
+  image: v08/17-171-416-317.jpg
+  sublists: []
+- pageintom: '318'
+  image: v08/17-171-416-318.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '32889'
       num: '1'
@@ -114,8 +101,10 @@ sublists:
     - id: '32908'
       num: '20'
       name: АХМЕДОВ АХМЕД ГУСЕЙН АЛИ ОГЛЫ
-  - pageintom: '319'
-    page_image: v08/17-171-416-319.jpg
+- pageintom: '319'
+  image: v08/17-171-416-319.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '32909'
       num: '21'
@@ -206,8 +195,10 @@ sublists:
     - id: '32936'
       num: '48'
       name: ГАМЗАЕВ МИР ДЖАВАД МИР ТАГИ ОГЛЫ
-  - pageintom: '320'
-    page_image: v08/17-171-416-320.jpg
+- pageintom: '320'
+  image: v08/17-171-416-320.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '32937'
       num: '49'
@@ -295,8 +286,10 @@ sublists:
     - id: '32964'
       num: '76'
       name: КАПУНКИН Яков Леонтьевич
-  - pageintom: '321'
-    page_image: v08/17-171-416-321.jpg
+- pageintom: '321'
+  image: v08/17-171-416-321.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '32965'
       num: '77'
@@ -388,8 +381,10 @@ sublists:
     - id: '32992'
       num: '104'
       name: МАТВЕЕВ Василий Иванович
-  - pageintom: '322'
-    page_image: v08/17-171-416-322.jpg
+- pageintom: '322'
+  image: v08/17-171-416-322.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '32993'
       num: '105'
@@ -484,8 +479,10 @@ sublists:
     - id: '33022'
       num: '134'
       name: САЗОНОВ Алексей Георгиевич
-  - pageintom: '323'
-    page_image: v08/17-171-416-323.jpg
+- pageintom: '323'
+  image: v08/17-171-416-323.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '33023'
       num: '135'
@@ -576,8 +573,10 @@ sublists:
     - id: '33050'
       num: '162'
       name: ФИЛИМОНОВ Дмитрий Алексеевич
-  - pageintom: '324'
-    page_image: v08/17-171-416-324.jpg
+- pageintom: '324'
+  image: v08/17-171-416-324.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '33051'
       num: '163'
@@ -621,8 +620,10 @@ sublists:
     - id: '33064'
       num: '176'
       name: ЯКУБОВ Мелик Балаевич
-  - pageintom: '325'
-    page_image: v08/17-171-416-325.jpg
+- pageintom: '325'
+  image: v08/17-171-416-325.jpg
+  sublists:
+  - sublid: '576'
     persons:
     - id: '33065'
       num: '1'

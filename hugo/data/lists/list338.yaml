@@ -14,29 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '35'
-  image: v06/17-171-414-035.jpg
-- pageintom: '36'
-  image: v06/17-171-414-036.jpg
-- pageintom: '37'
-  image: v06/17-171-414-037.jpg
-- pageintom: '38'
-  image: v06/17-171-414-038.jpg
-- pageintom: '39'
-  image: v06/17-171-414-039.jpg
-- pageintom: '40'
-  image: v06/17-171-414-040.jpg
-- pageintom: '41'
-  image: v06/17-171-414-041.jpg
-- pageintom: '42'
-  image: v06/17-171-414-042.jpg
-- pageintom: '43'
-  image: v06/17-171-414-043.jpg
-- pageintom: '44'
-  image: v06/17-171-414-044.jpg
-- pageintom: '45'
-  image: v06/17-171-414-045.jpg
 sublists:
 - title: Список от 3 января 1938г. [Красноярский край]
   listtitle: Список лиц - Красноярский край;Красноярск. Красноярская ж.д.
@@ -50,9 +27,29 @@ sublists:
   - 13
   group_ids:
   - 0
-  pages:
-  - pageintom: '37'
-    page_image: v06/17-171-414-037.jpg
+- title: Список от 3 января 1938г. [г.Красноярск. Красноярская ж.д.]
+  listtitle: Список лиц - Красноярский край;Красноярск. Красноярская ж.д.
+  sublisttitle: г.Красноярск. Красноярская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 42
+  geosub_ids:
+  - 98
+  group_ids:
+  - 13
+pages:
+- pageintom: '35'
+  image: v06/17-171-414-035.jpg
+  sublists: []
+- pageintom: '36'
+  image: v06/17-171-414-036.jpg
+  sublists: []
+- pageintom: '37'
+  image: v06/17-171-414-037.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19698'
       num: '1'
@@ -140,8 +137,10 @@ sublists:
       num: '21'
       name: ВАСИЛЬЕВ Григорий Николаевич
       spravka: true
-  - pageintom: '38'
-    page_image: v06/17-171-414-038.jpg
+- pageintom: '38'
+  image: v06/17-171-414-038.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19719'
       num: '22'
@@ -259,8 +258,10 @@ sublists:
       num: '50'
       name: ЗУБАНОВ Андрей Евстихеевич
       spravka: true
-  - pageintom: '39'
-    page_image: v06/17-171-414-039.jpg
+- pageintom: '39'
+  image: v06/17-171-414-039.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19748'
       num: '51'
@@ -378,8 +379,10 @@ sublists:
       num: '79'
       name: КРЫЛОВ Василий Васильевич
       spravka: true
-  - pageintom: '40'
-    page_image: v06/17-171-414-040.jpg
+- pageintom: '40'
+  image: v06/17-171-414-040.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19777'
       num: '80'
@@ -496,8 +499,10 @@ sublists:
       num: '108'
       name: ПЕТЕРФИ Андрей Альбертович
       spravka: true
-  - pageintom: '41'
-    page_image: v06/17-171-414-041.jpg
+- pageintom: '41'
+  image: v06/17-171-414-041.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19806'
       num: '109'
@@ -611,8 +616,10 @@ sublists:
       num: '136'
       name: ТОЛСТУХИН Федор Семенович
       spravka: true
-  - pageintom: '42'
-    page_image: v06/17-171-414-042.jpg
+- pageintom: '42'
+  image: v06/17-171-414-042.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19834'
       num: '137'
@@ -706,8 +713,10 @@ sublists:
       num: '159'
       name: ЯКУБСОН Лев Соломонович
       spravka: true
-  - pageintom: '43'
-    page_image: v06/17-171-414-043.jpg
+- pageintom: '43'
+  image: v06/17-171-414-043.jpg
+  sublists:
+  - sublid: '443'
     persons:
     - id: '19857'
       num: '1'
@@ -735,21 +744,10 @@ sublists:
       num: '6'
       name: ШАФРАНСКИЙ Николай Феликсович
       spravka: true
-- title: Список от 3 января 1938г. [г.Красноярск. Красноярская ж.д.]
-  listtitle: Список лиц - Красноярский край;Красноярск. Красноярская ж.д.
-  sublisttitle: г.Красноярск. Красноярская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 42
-  geosub_ids:
-  - 98
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '44'
-    page_image: v06/17-171-414-044.jpg
+- pageintom: '44'
+  image: v06/17-171-414-044.jpg
+  sublists:
+  - sublid: '444'
     persons:
     - id: '19863'
       num: '1'
@@ -816,8 +814,10 @@ sublists:
       num: '16'
       name: ЧИЖОВ Сергей Иванович
       spravka: true
-  - pageintom: '45'
-    page_image: v06/17-171-414-045.jpg
+- pageintom: '45'
+  image: v06/17-171-414-045.jpg
+  sublists:
+  - sublid: '444'
     persons:
     - id: '19879'
       num: '1'

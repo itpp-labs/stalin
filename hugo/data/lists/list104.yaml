@@ -13,17 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '231'
-  image: v04/17-171-412-231.jpg
-- pageintom: '232'
-  image: v04/17-171-412-232.jpg
-- pageintom: '233'
-  image: v04/17-171-412-233.jpg
-- pageintom: '234'
-  image: v04/17-171-412-234.jpg
-- pageintom: '235'
-  image: v04/17-171-412-235.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Башкирская АССР]
   listtitle: Список лиц - Башкирская АССР
@@ -37,9 +26,17 @@ sublists:
   - 60
   group_ids:
   - 0
-  pages:
-  - pageintom: '233'
-    page_image: v04/17-171-412-233.jpg
+pages:
+- pageintom: '231'
+  image: v04/17-171-412-231.jpg
+  sublists: []
+- pageintom: '232'
+  image: v04/17-171-412-232.jpg
+  sublists: []
+- pageintom: '233'
+  image: v04/17-171-412-233.jpg
+  sublists:
+  - sublid: '73'
     persons:
     - id: '13696'
       num: '1'
@@ -149,8 +146,10 @@ sublists:
       num: '27'
       name: СУХАНОВ Александр Иванович
       spravka: true
-  - pageintom: '234'
-    page_image: v04/17-171-412-234.jpg
+- pageintom: '234'
+  image: v04/17-171-412-234.jpg
+  sublists:
+  - sublid: '73'
     persons:
     - id: '13723'
       num: '28'
@@ -165,8 +164,10 @@ sublists:
       num: '31'
       name: ШТЮРМЕР Кира Аркадьевна
       spravka: true
-  - pageintom: '235'
-    page_image: v04/17-171-412-235.jpg
+- pageintom: '235'
+  image: v04/17-171-412-235.jpg
+  sublists:
+  - sublid: '73'
     persons:
     - id: '13727'
       num: '1'

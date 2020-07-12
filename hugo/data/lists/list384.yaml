@@ -12,41 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '439'
-  image: v06/17-171-414-439.jpg
-- pageintom: '440'
-  image: v06/17-171-414-440.jpg
-- pageintom: '441'
-  image: v06/17-171-414-441.jpg
-- pageintom: '442'
-  image: v06/17-171-414-442.jpg
-- pageintom: '443'
-  image: v06/17-171-414-443.jpg
-- pageintom: '444'
-  image: v06/17-171-414-444.jpg
-- pageintom: '445'
-  image: v06/17-171-414-445.jpg
-- pageintom: '446'
-  image: v06/17-171-414-446.jpg
-- pageintom: '447'
-  image: v06/17-171-414-447.jpg
-- pageintom: '448'
-  image: v06/17-171-414-448.jpg
-- pageintom: '449'
-  image: v06/17-171-414-449.jpg
-- pageintom: '450'
-  image: v06/17-171-414-450.jpg
-- pageintom: '451'
-  image: v06/17-171-414-451.jpg
-- pageintom: '452'
-  image: v06/17-171-414-452.jpg
-- pageintom: '453'
-  image: v06/17-171-414-453.jpg
-- pageintom: '454'
-  image: v06/17-171-414-454.jpg
-- pageintom: '455'
-  image: v06/17-171-414-455.jpg
 sublists:
 - title: Список от 14 февраля 1938г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -60,9 +25,17 @@ sublists:
   - 24
   group_ids:
   - 0
-  pages:
-  - pageintom: '441'
-    page_image: v06/17-171-414-441.jpg
+pages:
+- pageintom: '439'
+  image: v06/17-171-414-439.jpg
+  sublists: []
+- pageintom: '440'
+  image: v06/17-171-414-440.jpg
+  sublists: []
+- pageintom: '441'
+  image: v06/17-171-414-441.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25490'
       num: '1'
@@ -161,8 +134,10 @@ sublists:
       num: '24'
       name: АСТВАЦАТУРОВ Степан Хоренович
       spravka: true
-  - pageintom: '442'
-    page_image: v06/17-171-414-442.jpg
+- pageintom: '442'
+  image: v06/17-171-414-442.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25514'
       num: '25'
@@ -275,8 +250,10 @@ sublists:
       num: '52'
       name: БРЕГАДЗЕ Давид Исакович
       spravka: true
-  - pageintom: '443'
-    page_image: v06/17-171-414-443.jpg
+- pageintom: '443'
+  image: v06/17-171-414-443.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25542'
       num: '53'
@@ -395,8 +372,10 @@ sublists:
       num: '81'
       name: ГОВОРУХА Иван Яковлевич
       spravka: true
-  - pageintom: '444'
-    page_image: v06/17-171-414-444.jpg
+- pageintom: '444'
+  image: v06/17-171-414-444.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25571'
       num: '82'
@@ -514,8 +493,10 @@ sublists:
       num: '110'
       name: ДЕМЕНТЬЕВ Михаил Викторович
       spravka: true
-  - pageintom: '445'
-    page_image: v06/17-171-414-445.jpg
+- pageintom: '445'
+  image: v06/17-171-414-445.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25600'
       num: '111'
@@ -632,8 +613,10 @@ sublists:
       num: '139'
       name: ЗАКС Анна Львовна
       spravka: true
-  - pageintom: '446'
-    page_image: v06/17-171-414-446.jpg
+- pageintom: '446'
+  image: v06/17-171-414-446.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25629'
       num: '140'
@@ -752,8 +735,10 @@ sublists:
       num: '168'
       name: КАЧМАЗОВ Яков Тозоевич
       spravka: true
-  - pageintom: '447'
-    page_image: v06/17-171-414-447.jpg
+- pageintom: '447'
+  image: v06/17-171-414-447.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25658'
       num: '169'
@@ -871,8 +856,10 @@ sublists:
       num: '197'
       name: ЛАВРИНЕНКО Иван Ефимович
       spravka: true
-  - pageintom: '448'
-    page_image: v06/17-171-414-448.jpg
+- pageintom: '448'
+  image: v06/17-171-414-448.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25687'
       num: '198'
@@ -991,8 +978,10 @@ sublists:
       num: '226'
       name: МЕРКВИЛАДЗЕ Сократ Михайлович
       spravka: true
-  - pageintom: '449'
-    page_image: v06/17-171-414-449.jpg
+- pageintom: '449'
+  image: v06/17-171-414-449.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25716'
       num: '227'
@@ -1110,8 +1099,10 @@ sublists:
       num: '255'
       name: НЕМЧЕНКО Петр Михайлович
       spravka: true
-  - pageintom: '450'
-    page_image: v06/17-171-414-450.jpg
+- pageintom: '450'
+  image: v06/17-171-414-450.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25745'
       num: '256'
@@ -1229,8 +1220,10 @@ sublists:
       num: '284'
       name: ПИМЕНОВ Георгий Александрович
       spravka: true
-  - pageintom: '451'
-    page_image: v06/17-171-414-451.jpg
+- pageintom: '451'
+  image: v06/17-171-414-451.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25774'
       num: '285'
@@ -1348,8 +1341,10 @@ sublists:
       num: '313'
       name: САИНОВ Арташ Карапетович
       spravka: true
-  - pageintom: '452'
-    page_image: v06/17-171-414-452.jpg
+- pageintom: '452'
+  image: v06/17-171-414-452.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25803'
       num: '314'
@@ -1467,8 +1462,10 @@ sublists:
       num: '342'
       name: ТАЛАКВАДЗЕ Григорий Такаевич
       spravka: true
-  - pageintom: '453'
-    page_image: v06/17-171-414-453.jpg
+- pageintom: '453'
+  image: v06/17-171-414-453.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25832'
       num: '343'
@@ -1582,8 +1579,10 @@ sublists:
       num: '370'
       name: ХУСКИВАДЗЕ Владимир Феофилович
       spravka: true
-  - pageintom: '454'
-    page_image: v06/17-171-414-454.jpg
+- pageintom: '454'
+  image: v06/17-171-414-454.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25860'
       num: '371'
@@ -1692,8 +1691,10 @@ sublists:
       num: '397'
       name: ШАЛИКАШВИЛИ Шалва Васильевич
       spravka: true
-  - pageintom: '455'
-    page_image: v06/17-171-414-455.jpg
+- pageintom: '455'
+  image: v06/17-171-414-455.jpg
+  sublists:
+  - sublid: '431'
     persons:
     - id: '25887'
       num: '398'

@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '156'
-  image: v07/17-171-415-156.jpg
-- pageintom: '157'
-  image: v07/17-171-415-157.jpg
-- pageintom: '158'
-  image: v07/17-171-415-158.jpg
-- pageintom: '159'
-  image: v07/17-171-415-159.jpg
-- pageintom: '160'
-  image: v07/17-171-415-160.jpg
-- pageintom: '161'
-  image: v07/17-171-415-161.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Крымская АССР]
   listtitle: Список лиц - Крымская АССР
@@ -39,9 +26,17 @@ sublists:
   - 49
   group_ids:
   - 0
-  pages:
-  - pageintom: '158'
-    page_image: v07/17-171-415-158.jpg
+pages:
+- pageintom: '156'
+  image: v07/17-171-415-156.jpg
+  sublists: []
+- pageintom: '157'
+  image: v07/17-171-415-157.jpg
+  sublists: []
+- pageintom: '158'
+  image: v07/17-171-415-158.jpg
+  sublists:
+  - sublid: '492'
     persons:
     - id: '27564'
       num: '1'
@@ -135,8 +130,10 @@ sublists:
     - id: '27587'
       num: '24'
       name: КУРТ Мемет Рамазан
-  - pageintom: '159'
-    page_image: v07/17-171-415-159.jpg
+- pageintom: '159'
+  image: v07/17-171-415-159.jpg
+  sublists:
+  - sublid: '492'
     persons:
     - id: '27588'
       num: '25'
@@ -236,8 +233,10 @@ sublists:
     - id: '27613'
       num: '50'
       name: ЭВЛИЯЕВ Абдульбер
-  - pageintom: '160'
-    page_image: v07/17-171-415-160.jpg
+- pageintom: '160'
+  image: v07/17-171-415-160.jpg
+  sublists:
+  - sublid: '492'
     persons:
     - id: '27614'
       num: '51'
@@ -252,8 +251,10 @@ sublists:
     - id: '27617'
       num: '54'
       name: ЭПШТЕЙН Леонид Харитонович
-  - pageintom: '161'
-    page_image: v07/17-171-415-161.jpg
+- pageintom: '161'
+  image: v07/17-171-415-161.jpg
+  sublists:
+  - sublid: '492'
     persons:
     - id: '27618'
       num: '1'

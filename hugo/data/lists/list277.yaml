@@ -14,17 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '209'
-  image: v07/17-171-415-209.jpg
-- pageintom: '210'
-  image: v07/17-171-415-210.jpg
-- pageintom: '211'
-  image: v07/17-171-415-211.jpg
-- pageintom: '212'
-  image: v07/17-171-415-212.jpg
-- pageintom: '213'
-  image: v07/17-171-415-213.jpg
 sublists:
 - title: Список от 28 марта 1938г. [г.Хабаровск.Дальне-Восточная ж.д.]
   listtitle: Список лиц - г.Хабаровск.Дальне-Восточная ж.д.
@@ -38,9 +27,17 @@ sublists:
   - 138
   group_ids:
   - 13
-  pages:
-  - pageintom: '211'
-    page_image: v07/17-171-415-211.jpg
+pages:
+- pageintom: '209'
+  image: v07/17-171-415-209.jpg
+  sublists: []
+- pageintom: '210'
+  image: v07/17-171-415-210.jpg
+  sublists: []
+- pageintom: '211'
+  image: v07/17-171-415-211.jpg
+  sublists:
+  - sublid: '496'
     persons:
     - id: '28225'
       num: '1'
@@ -132,8 +129,10 @@ sublists:
       num: '23'
       name: КАЧАН Иван Артемович
       spravka: true
-  - pageintom: '212'
-    page_image: v07/17-171-415-212.jpg
+- pageintom: '212'
+  image: v07/17-171-415-212.jpg
+  sublists:
+  - sublid: '496'
     persons:
     - id: '28248'
       num: '24'
@@ -242,8 +241,10 @@ sublists:
       num: '50'
       name: ПОДБЕЛЛО Иван Викентьевич
       spravka: true
-  - pageintom: '213'
-    page_image: v07/17-171-415-213.jpg
+- pageintom: '213'
+  image: v07/17-171-415-213.jpg
+  sublists:
+  - sublid: '496'
     persons:
     - id: '28275'
       num: '51'

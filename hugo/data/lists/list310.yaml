@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '183'
-  image: v08/17-171-416-183.jpg
-- pageintom: '184'
-  image: v08/17-171-416-184.jpg
-- pageintom: '185'
-  image: v08/17-171-416-185.jpg
-- pageintom: '186'
-  image: v08/17-171-416-186.jpg
-- pageintom: '187'
-  image: v08/17-171-416-187.jpg
-- pageintom: '188'
-  image: v08/17-171-416-188.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Курская область]
   listtitle: Список лиц - Курская область
@@ -39,9 +26,17 @@ sublists:
   - 32
   group_ids:
   - 0
-  pages:
-  - pageintom: '185'
-    page_image: v08/17-171-416-185.jpg
+pages:
+- pageintom: '183'
+  image: v08/17-171-416-183.jpg
+  sublists: []
+- pageintom: '184'
+  image: v08/17-171-416-184.jpg
+  sublists: []
+- pageintom: '185'
+  image: v08/17-171-416-185.jpg
+  sublists:
+  - sublid: '558'
     persons:
     - id: '31399'
       num: '1'
@@ -123,8 +118,10 @@ sublists:
       num: '23'
       name: ЗАЙЧИК Григорий Романович
       spravka: true
-  - pageintom: '186'
-    page_image: v08/17-171-416-186.jpg
+- pageintom: '186'
+  image: v08/17-171-416-186.jpg
+  sublists:
+  - sublid: '558'
     persons:
     - id: '31422'
       num: '24'
@@ -222,8 +219,10 @@ sublists:
     - id: '31449'
       num: '51'
       name: ПОЛЯКОВ Иван Игнатович
-  - pageintom: '187'
-    page_image: v08/17-171-416-187.jpg
+- pageintom: '187'
+  image: v08/17-171-416-187.jpg
+  sublists:
+  - sublid: '558'
     persons:
     - id: '31450'
       num: '52'
@@ -285,8 +284,10 @@ sublists:
     - id: '31466'
       num: '68'
       name: ШОР Лев Юрьевич
-  - pageintom: '188'
-    page_image: v08/17-171-416-188.jpg
+- pageintom: '188'
+  image: v08/17-171-416-188.jpg
+  sublists:
+  - sublid: '558'
     persons:
     - id: '31467'
       num: '1'

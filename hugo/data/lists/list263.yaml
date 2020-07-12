@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '93'
-  image: v07/17-171-415-093.jpg
-- pageintom: '94'
-  image: v07/17-171-415-094.jpg
-- pageintom: '95'
-  image: v07/17-171-415-095.jpg
-- pageintom: '96'
-  image: v07/17-171-415-096.jpg
-- pageintom: '97'
-  image: v07/17-171-415-097.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Смоленская область]
   listtitle: Список лиц - Смоленская область
@@ -37,9 +26,17 @@ sublists:
   - 93
   group_ids:
   - 0
-  pages:
-  - pageintom: '95'
-    page_image: v07/17-171-415-095.jpg
+pages:
+- pageintom: '93'
+  image: v07/17-171-415-093.jpg
+  sublists: []
+- pageintom: '94'
+  image: v07/17-171-415-094.jpg
+  sublists: []
+- pageintom: '95'
+  image: v07/17-171-415-095.jpg
+  sublists:
+  - sublid: '488'
     persons:
     - id: '26753'
       num: '1'
@@ -122,8 +119,10 @@ sublists:
       num: '20'
       name: МАЛЬЦЕВ Василий Иванович
       spravka: true
-  - pageintom: '96'
-    page_image: v07/17-171-415-096.jpg
+- pageintom: '96'
+  image: v07/17-171-415-096.jpg
+  sublists:
+  - sublid: '488'
     persons:
     - id: '26773'
       num: '21'
@@ -217,8 +216,10 @@ sublists:
       num: '44'
       name: ЯЗВЕНКО Сергей Иванович
       spravka: true
-  - pageintom: '97'
-    page_image: v07/17-171-415-097.jpg
+- pageintom: '97'
+  image: v07/17-171-415-097.jpg
+  sublists:
+  - sublid: '488'
     persons:
     - id: '26797'
       num: '1'

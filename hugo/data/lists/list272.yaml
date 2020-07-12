@@ -13,23 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '162'
-  image: v07/17-171-415-162.jpg
-- pageintom: '163'
-  image: v07/17-171-415-163.jpg
-- pageintom: '164'
-  image: v07/17-171-415-164.jpg
-- pageintom: '165'
-  image: v07/17-171-415-165.jpg
-- pageintom: '166'
-  image: v07/17-171-415-166.jpg
-- pageintom: '167'
-  image: v07/17-171-415-167.jpg
-- pageintom: '168'
-  image: v07/17-171-415-168.jpg
-- pageintom: '169'
-  image: v07/17-171-415-169.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -55,9 +38,17 @@ sublists:
   - 121
   group_ids:
   - 0
-  pages:
-  - pageintom: '164'
-    page_image: v07/17-171-415-164.jpg
+pages:
+- pageintom: '162'
+  image: v07/17-171-415-162.jpg
+  sublists: []
+- pageintom: '163'
+  image: v07/17-171-415-163.jpg
+  sublists: []
+- pageintom: '164'
+  image: v07/17-171-415-164.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27624'
       num: '1'
@@ -144,8 +135,10 @@ sublists:
       num: '21'
       name: ЮРЬЕВ Михаил Юрьевич
       spravka: true
-  - pageintom: '165'
-    page_image: v07/17-171-415-165.jpg
+- pageintom: '165'
+  image: v07/17-171-415-165.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27645'
       num: '22'
@@ -230,8 +223,10 @@ sublists:
       num: '41'
       name: ПАНФИЛОВА Мария Семеновна
       spravka: true
-  - pageintom: '166'
-    page_image: v07/17-171-415-166.jpg
+- pageintom: '166'
+  image: v07/17-171-415-166.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27665'
       num: '42'
@@ -320,8 +315,10 @@ sublists:
       num: '63'
       name: ДЮЙМЕНЕВ Резаш Малибекович
       spravka: true
-  - pageintom: '167'
-    page_image: v07/17-171-415-167.jpg
+- pageintom: '167'
+  image: v07/17-171-415-167.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27687'
       num: '64'
@@ -416,8 +413,10 @@ sublists:
       num: '87'
       name: ХУДАЙБЕРГЕНЕВ Калмукан
       spravka: true
-  - pageintom: '168'
-    page_image: v07/17-171-415-168.jpg
+- pageintom: '168'
+  image: v07/17-171-415-168.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27711'
       num: '88'
@@ -432,8 +431,10 @@ sublists:
       num: '90'
       name: ИМАМБАЕВ Шаймерден
       spravka: true
-  - pageintom: '169'
-    page_image: v07/17-171-415-169.jpg
+- pageintom: '169'
+  image: v07/17-171-415-169.jpg
+  sublists:
+  - sublid: '493'
     persons:
     - id: '27714'
       num: '1'

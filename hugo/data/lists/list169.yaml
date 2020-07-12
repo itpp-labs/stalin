@@ -11,13 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '99'
-  image: v09/17-171-417-099.jpg
-- pageintom: '100'
-  image: v09/17-171-417-100.jpg
-- pageintom: '101'
-  image: v09/17-171-417-101.jpg
 sublists:
 - title: Список от 10.VI.38г. [Омская область]
   listtitle: Список лиц - Омская область
@@ -31,9 +24,17 @@ sublists:
   - 21
   group_ids:
   - 0
-  pages:
-  - pageintom: '101'
-    page_image: v09/17-171-417-101.jpg
+pages:
+- pageintom: '99'
+  image: v09/17-171-417-099.jpg
+  sublists: []
+- pageintom: '100'
+  image: v09/17-171-417-100.jpg
+  sublists: []
+- pageintom: '101'
+  image: v09/17-171-417-101.jpg
+  sublists:
+  - sublid: '110'
     persons:
     - id: '34609'
       num: '1'

@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '204'
-  image: v08/17-171-416-204.jpg
-- pageintom: '205'
-  image: v08/17-171-416-205.jpg
-- pageintom: '206'
-  image: v08/17-171-416-206.jpg
-- pageintom: '207'
-  image: v08/17-171-416-207.jpg
-- pageintom: '208'
-  image: v08/17-171-416-208.jpg
-- pageintom: '209'
-  image: v08/17-171-416-209.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область
@@ -39,9 +26,17 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '206'
-    page_image: v08/17-171-416-206.jpg
+pages:
+- pageintom: '204'
+  image: v08/17-171-416-204.jpg
+  sublists: []
+- pageintom: '205'
+  image: v08/17-171-416-205.jpg
+  sublists: []
+- pageintom: '206'
+  image: v08/17-171-416-206.jpg
+  sublists:
+  - sublid: '561'
     persons:
     - id: '31697'
       num: '1'
@@ -131,8 +126,10 @@ sublists:
       num: '22'
       name: КРАСНОСЛОБОДЦЕВ Василий Федорович
       spravka: true
-  - pageintom: '207'
-    page_image: v08/17-171-416-207.jpg
+- pageintom: '207'
+  image: v08/17-171-416-207.jpg
+  sublists:
+  - sublid: '561'
     persons:
     - id: '31719'
       num: '23'
@@ -250,8 +247,10 @@ sublists:
       num: '51'
       name: СМАГИН Иван Яковлевич
       spravka: true
-  - pageintom: '208'
-    page_image: v08/17-171-416-208.jpg
+- pageintom: '208'
+  image: v08/17-171-416-208.jpg
+  sublists:
+  - sublid: '561'
     persons:
     - id: '31748'
       num: '52'
@@ -336,8 +335,10 @@ sublists:
       num: '72'
       name: ЮШКЕВИЧ Александр Семенович
       spravka: true
-  - pageintom: '209'
-    page_image: v08/17-171-416-209.jpg
+- pageintom: '209'
+  image: v08/17-171-416-209.jpg
+  sublists:
+  - sublid: '561'
     persons:
     - id: '31769'
       num: '1'

@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '236'
-  image: v04/17-171-412-236.jpg
-- pageintom: '237'
-  image: v04/17-171-412-237.jpg
-- pageintom: '238'
-  image: v04/17-171-412-238.jpg
-- pageintom: '239'
-  image: v04/17-171-412-239.jpg
-- pageintom: '240'
-  image: v04/17-171-412-240.jpg
-- pageintom: '241'
-  image: v04/17-171-412-241.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Свердловская область]
   listtitle: Список лиц - Свердловская обл.
@@ -39,9 +26,17 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '238'
-    page_image: v04/17-171-412-238.jpg
+pages:
+- pageintom: '236'
+  image: v04/17-171-412-236.jpg
+  sublists: []
+- pageintom: '237'
+  image: v04/17-171-412-237.jpg
+  sublists: []
+- pageintom: '238'
+  image: v04/17-171-412-238.jpg
+  sublists:
+  - sublid: '74'
     persons:
     - id: '13736'
       num: '1'
@@ -144,8 +139,10 @@ sublists:
       num: '25'
       name: КОЛМОГОРЦЕВ Павел Иванович
       spravka: true
-  - pageintom: '239'
-    page_image: v04/17-171-412-239.jpg
+- pageintom: '239'
+  image: v04/17-171-412-239.jpg
+  sublists:
+  - sublid: '74'
     persons:
     - id: '13761'
       num: '26'
@@ -258,8 +255,10 @@ sublists:
       num: '54'
       name: САВЧЕНКО Сергей Степанович
       spravka: true
-  - pageintom: '240'
-    page_image: v04/17-171-412-240.jpg
+- pageintom: '240'
+  image: v04/17-171-412-240.jpg
+  sublists:
+  - sublid: '74'
     persons:
     - id: '13790'
       num: '55'
@@ -329,8 +328,10 @@ sublists:
       num: '71'
       name: ШТЕРН Семен Моисеевич
       spravka: true
-  - pageintom: '241'
-    page_image: v04/17-171-412-241.jpg
+- pageintom: '241'
+  image: v04/17-171-412-241.jpg
+  sublists:
+  - sublid: '74'
     persons:
     - id: '13807'
       num: '1'

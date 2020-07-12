@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '66'
-  image: v08/17-171-416-066.jpg
-- pageintom: '67'
-  image: v08/17-171-416-067.jpg
-- pageintom: '68'
-  image: v08/17-171-416-068.jpg
-- pageintom: '69'
-  image: v08/17-171-416-069.jpg
-- pageintom: '70'
-  image: v08/17-171-416-070.jpg
-- pageintom: '71'
-  image: v08/17-171-416-071.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Армянская ССР]
   listtitle: Список лиц - Армянская ССР
@@ -39,9 +26,17 @@ sublists:
   - 28
   group_ids:
   - 0
-  pages:
-  - pageintom: '68'
-    page_image: v08/17-171-416-068.jpg
+pages:
+- pageintom: '66'
+  image: v08/17-171-416-066.jpg
+  sublists: []
+- pageintom: '67'
+  image: v08/17-171-416-067.jpg
+  sublists: []
+- pageintom: '68'
+  image: v08/17-171-416-068.jpg
+  sublists:
+  - sublid: '547'
     persons:
     - id: '30034'
       num: '1'
@@ -132,8 +127,10 @@ sublists:
       num: '22'
       name: ДЖАЛАТЯН Гайк Арутюнович
       spravka: true
-  - pageintom: '69'
-    page_image: v08/17-171-416-069.jpg
+- pageintom: '69'
+  image: v08/17-171-416-069.jpg
+  sublists:
+  - sublid: '547'
     persons:
     - id: '30056'
       num: '23'
@@ -247,8 +244,10 @@ sublists:
       num: '51'
       name: СААКЯН Гарик Казарович
       spravka: true
-  - pageintom: '70'
-    page_image: v08/17-171-416-070.jpg
+- pageintom: '70'
+  image: v08/17-171-416-070.jpg
+  sublists:
+  - sublid: '547'
     persons:
     - id: '30085'
       num: '52'
@@ -321,8 +320,10 @@ sublists:
       num: '69'
       name: ШАХНАЗАРЯН Василий Петрович
       spravka: true
-  - pageintom: '71'
-    page_image: v08/17-171-416-071.jpg
+- pageintom: '71'
+  image: v08/17-171-416-071.jpg
+  sublists:
+  - sublid: '547'
     persons:
     - id: '30103'
       num: '1'

@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '13'
-  image: v11/17-171-419-013.jpg
-- pageintom: '14'
-  image: v11/17-171-419-014.jpg
-- pageintom: '15'
-  image: v11/17-171-419-015.jpg
-- pageintom: '16'
-  image: v11/17-171-419-016.jpg
-- pageintom: '17'
-  image: v11/17-171-419-017.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Киргизская ССР]
   listtitle: Список лиц - Киргизская ССР
@@ -36,9 +25,17 @@ sublists:
   - 142
   group_ids:
   - 0
-  pages:
-  - pageintom: '15'
-    page_image: v11/17-171-419-015.jpg
+pages:
+- pageintom: '13'
+  image: v11/17-171-419-013.jpg
+  sublists: []
+- pageintom: '14'
+  image: v11/17-171-419-014.jpg
+  sublists: []
+- pageintom: '15'
+  image: v11/17-171-419-015.jpg
+  sublists:
+  - sublid: '615'
     persons:
     - id: '40947'
       num: '1'
@@ -115,8 +112,10 @@ sublists:
     - id: '40967'
       num: '21'
       name: САГИМБАЕВ Касым
-  - pageintom: '16'
-    page_image: v11/17-171-419-016.jpg
+- pageintom: '16'
+  image: v11/17-171-419-016.jpg
+  sublists:
+  - sublid: '615'
     persons:
     - id: '40968'
       num: '22'
@@ -152,8 +151,10 @@ sublists:
       num: '31'
       name: ШАФИКОВ Шакир Галимович
       spravka: true
-  - pageintom: '17'
-    page_image: v11/17-171-419-017.jpg
+- pageintom: '17'
+  image: v11/17-171-419-017.jpg
+  sublists:
+  - sublid: '615'
     persons:
     - id: '40978'
       num: '1'

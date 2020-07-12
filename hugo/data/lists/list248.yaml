@@ -14,37 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '234'
-  image: v03/17-171-411-234.jpg
-- pageintom: '235'
-  image: v03/17-171-411-235.jpg
-- pageintom: '236'
-  image: v03/17-171-411-236.jpg
-- pageintom: '237'
-  image: v03/17-171-411-237.jpg
-- pageintom: '238'
-  image: v03/17-171-411-238.jpg
-- pageintom: '239'
-  image: v03/17-171-411-239.jpg
-- pageintom: '240'
-  image: v03/17-171-411-240.jpg
-- pageintom: '241'
-  image: v03/17-171-411-241.jpg
-- pageintom: '242'
-  image: v03/17-171-411-242.jpg
-- pageintom: '243'
-  image: v03/17-171-411-243.jpg
-- pageintom: '244'
-  image: v03/17-171-411-244.jpg
-- pageintom: '245'
-  image: v03/17-171-411-245.jpg
-- pageintom: '246'
-  image: v03/17-171-411-246.jpg
-- pageintom: '247'
-  image: v03/17-171-411-247.jpg
-- pageintom: '248'
-  image: v03/17-171-411-248.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Сталинградская область]
   listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
@@ -60,9 +29,56 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '236'
-    page_image: v03/17-171-411-236.jpg
+- title: Список от 21 октября 1937г. [Татарская АССР]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
+  sublisttitle: Татарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 64
+  geosub_ids:
+  - 29
+  group_ids:
+  - 0
+- title: Список от 21 октября 1937г. [Башкирская АССР]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
+  sublisttitle: Башкирская АССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 60
+  group_ids:
+  - 0
+- title: Список от 21 октября 1937г. [Ярославская область]
+  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
+    обл.'
+  sublisttitle: Ярославская область
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 31
+  group_ids:
+  - 0
+pages:
+- pageintom: '234'
+  image: v03/17-171-411-234.jpg
+  sublists: []
+- pageintom: '235'
+  image: v03/17-171-411-235.jpg
+  sublists: []
+- pageintom: '236'
+  image: v03/17-171-411-236.jpg
+  sublists:
+  - sublid: '398'
     persons:
     - id: '10384'
       num: '1'
@@ -87,8 +103,10 @@ sublists:
     - id: '10390'
       num: '7'
       name: ШНАРРЕ Генрих Рихардович
-  - pageintom: '237'
-    page_image: v03/17-171-411-237.jpg
+- pageintom: '237'
+  image: v03/17-171-411-237.jpg
+  sublists:
+  - sublid: '398'
     persons:
     - id: '10391'
       num: '1'
@@ -108,8 +126,22 @@ sublists:
       num: '4'
       name: ШПРУНГ Пауль Теодорович
       gb_spravka: true
-  - pageintom: '242'
-    page_image: v03/17-171-411-242.jpg
+- pageintom: '238'
+  image: v03/17-171-411-238.jpg
+  sublists: []
+- pageintom: '239'
+  image: v03/17-171-411-239.jpg
+  sublists: []
+- pageintom: '240'
+  image: v03/17-171-411-240.jpg
+  sublists: []
+- pageintom: '241'
+  image: v03/17-171-411-241.jpg
+  sublists: []
+- pageintom: '242'
+  image: v03/17-171-411-242.jpg
+  sublists:
+  - sublid: '398'
     persons:
     - id: '10395'
       num: '1'
@@ -128,8 +160,10 @@ sublists:
     - id: '10399'
       num: '5'
       name: ШИЛИХИН Павел Васильевич
-  - pageintom: '243'
-    page_image: v03/17-171-411-243.jpg
+- pageintom: '243'
+  image: v03/17-171-411-243.jpg
+  sublists:
+  - sublid: '398'
     persons:
     - id: '10400'
       num: '1'
@@ -137,22 +171,13 @@ sublists:
       gb_spravka: true
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u><br /><u> Иностранные
         подданные </u></p><p align="right"><u>2-я категория</u>
-- title: Список от 21 октября 1937г. [Татарская АССР]
-  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
-    обл.'
-  sublisttitle: Татарская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 64
-  geosub_ids:
-  - 29
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '245'
-    page_image: v03/17-171-411-245.jpg
+- pageintom: '244'
+  image: v03/17-171-411-244.jpg
+  sublists: []
+- pageintom: '245'
+  image: v03/17-171-411-245.jpg
+  sublists:
+  - sublid: '399'
     persons:
     - id: '10401'
       num: '1'
@@ -197,8 +222,10 @@ sublists:
     - id: '10411'
       num: '11'
       name: ЯФАЕВ Рахматзян Валиахметович
-  - pageintom: '246'
-    page_image: v03/17-171-411-246.jpg
+- pageintom: '246'
+  image: v03/17-171-411-246.jpg
+  sublists:
+  - sublid: '399'
     persons:
     - id: '10412'
       num: '1'
@@ -280,44 +307,20 @@ sublists:
       num: '20'
       name: ЮДАНОВ Иван Дмитриевич
       spravka: true
-- title: Список от 21 октября 1937г. [Башкирская АССР]
-  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
-    обл.'
-  sublisttitle: Башкирская АССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 22
-  geosub_ids:
-  - 60
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '247'
-    page_image: v03/17-171-411-247.jpg
+- pageintom: '247'
+  image: v03/17-171-411-247.jpg
+  sublists:
+  - sublid: '400'
     persons:
     - id: '10432'
       num: '1'
       name: МАЛЫШЕВ Дмитрий Алексеевич
       subtitle1: <p align="center"><u>БАШКИРСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
-- title: Список от 21 октября 1937г. [Ярославская область]
-  listtitle: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
-    обл.'
-  sublisttitle: Ярославская область
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 71
-  geosub_ids:
-  - 31
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '248'
-    page_image: v03/17-171-411-248.jpg
+- pageintom: '248'
+  image: v03/17-171-411-248.jpg
+  sublists:
+  - sublid: '401'
     persons:
     - id: '10433'
       num: '1'

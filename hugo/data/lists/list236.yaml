@@ -11,43 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '146'
-  image: v03/17-171-411-146.jpg
-- pageintom: '147'
-  image: v03/17-171-411-147.jpg
-- pageintom: '148'
-  image: v03/17-171-411-148.jpg
-- pageintom: '149'
-  image: v03/17-171-411-149.jpg
-- pageintom: '150'
-  image: v03/17-171-411-150.jpg
-- pageintom: '151'
-  image: v03/17-171-411-151.jpg
-- pageintom: '152'
-  image: v03/17-171-411-152.jpg
-- pageintom: '153'
-  image: v03/17-171-411-153.jpg
-- pageintom: '154'
-  image: v03/17-171-411-154.jpg
-- pageintom: '155'
-  image: v03/17-171-411-155.jpg
-- pageintom: '156'
-  image: v03/17-171-411-156.jpg
-- pageintom: '157'
-  image: v03/17-171-411-157.jpg
-- pageintom: '158'
-  image: v03/17-171-411-158.jpg
-- pageintom: '159'
-  image: v03/17-171-411-159.jpg
-- pageintom: '160'
-  image: v03/17-171-411-160.jpg
-- pageintom: '161'
-  image: v03/17-171-411-161.jpg
-- pageintom: '162'
-  image: v03/17-171-411-162.jpg
-- pageintom: '163'
-  image: v03/17-171-411-163.jpg
 sublists:
 - title: Список от 26 сентября 1937г. [Украинская ССР]
   listtitle: 'Список лиц: Украинская ССР'
@@ -73,9 +36,17 @@ sublists:
   - 73
   group_ids:
   - 0
-  pages:
-  - pageintom: '148'
-    page_image: v03/17-171-411-148.jpg
+pages:
+- pageintom: '146'
+  image: v03/17-171-411-146.jpg
+  sublists: []
+- pageintom: '147'
+  image: v03/17-171-411-147.jpg
+  sublists: []
+- pageintom: '148'
+  image: v03/17-171-411-148.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9223'
       num: '1'
@@ -169,8 +140,10 @@ sublists:
       num: '23'
       name: ПОТАНА Александр Николаевич
       spravka: true
-  - pageintom: '149'
-    page_image: v03/17-171-411-149.jpg
+- pageintom: '149'
+  image: v03/17-171-411-149.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9246'
       num: '24'
@@ -260,8 +233,10 @@ sublists:
       num: '47'
       name: ГРИШКАН Михаил Исаакович
       spravka: true
-  - pageintom: '150'
-    page_image: v03/17-171-411-150.jpg
+- pageintom: '150'
+  image: v03/17-171-411-150.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9270'
       num: '48'
@@ -360,8 +335,10 @@ sublists:
     - id: '9295'
       num: '73'
       name: ЖУРКОВСКИЙ Алексей Григорьевич
-  - pageintom: '151'
-    page_image: v03/17-171-411-151.jpg
+- pageintom: '151'
+  image: v03/17-171-411-151.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9296'
       num: '74'
@@ -466,8 +443,10 @@ sublists:
       num: '100'
       name: ВОВК Василий Григорьевич
       spravka: true
-  - pageintom: '152'
-    page_image: v03/17-171-411-152.jpg
+- pageintom: '152'
+  image: v03/17-171-411-152.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9323'
       num: '101'
@@ -570,8 +549,10 @@ sublists:
       num: '126'
       name: ЕВДОКИМОВ Федор Кондратьевич
       spravka: true
-  - pageintom: '153'
-    page_image: v03/17-171-411-153.jpg
+- pageintom: '153'
+  image: v03/17-171-411-153.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9349'
       num: '127'
@@ -679,8 +660,10 @@ sublists:
     - id: '9375'
       num: '153'
       name: ЛИТВИНЕНКО Михаил Афанасьевич
-  - pageintom: '154'
-    page_image: v03/17-171-411-154.jpg
+- pageintom: '154'
+  image: v03/17-171-411-154.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9376'
       num: '154'
@@ -767,8 +750,10 @@ sublists:
       num: '177'
       name: БУРАВЛЕВ Георгий Дмитриевич
       spravka: true
-  - pageintom: '155'
-    page_image: v03/17-171-411-155.jpg
+- pageintom: '155'
+  image: v03/17-171-411-155.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9400'
       num: '178'
@@ -880,8 +865,10 @@ sublists:
     - id: '9428'
       num: '206'
       name: ЛИВШИЦ Владимир Аркадьевич
-  - pageintom: '156'
-    page_image: v03/17-171-411-156.jpg
+- pageintom: '156'
+  image: v03/17-171-411-156.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9429'
       num: '207'
@@ -992,8 +979,10 @@ sublists:
     - id: '9457'
       num: '235'
       name: ФЕНЕНКО Михаил Васильевич
-  - pageintom: '157'
-    page_image: v03/17-171-411-157.jpg
+- pageintom: '157'
+  image: v03/17-171-411-157.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9458'
       num: '236'
@@ -1092,8 +1081,10 @@ sublists:
       num: '261'
       name: ГОРЮН Александр Иванович
       spravka: true
-  - pageintom: '158'
-    page_image: v03/17-171-411-158.jpg
+- pageintom: '158'
+  image: v03/17-171-411-158.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9484'
       num: '262'
@@ -1190,8 +1181,10 @@ sublists:
     - id: '9512'
       num: '290'
       name: ЛОБОДЮК Леонтий Федорович
-  - pageintom: '159'
-    page_image: v03/17-171-411-159.jpg
+- pageintom: '159'
+  image: v03/17-171-411-159.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9513'
       num: '291'
@@ -1294,8 +1287,10 @@ sublists:
       num: '319'
       name: ХРАМОВ Никанор Кузьмич
       spravka: true
-  - pageintom: '160'
-    page_image: v03/17-171-411-160.jpg
+- pageintom: '160'
+  image: v03/17-171-411-160.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9542'
       num: '320'
@@ -1321,8 +1316,10 @@ sublists:
     - id: '9548'
       num: '326'
       name: ЯГОДИН Алексей Алексеевич
-  - pageintom: '161'
-    page_image: v03/17-171-411-161.jpg
+- pageintom: '161'
+  image: v03/17-171-411-161.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9549'
       num: '1'
@@ -1402,8 +1399,10 @@ sublists:
       num: '22'
       name: ПОТУРАЕВ Сергей Алексеевич
       spravka: true
-  - pageintom: '162'
-    page_image: v03/17-171-411-162.jpg
+- pageintom: '162'
+  image: v03/17-171-411-162.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9571'
       num: '23'
@@ -1507,8 +1506,10 @@ sublists:
       num: '48'
       name: ЯКОВЕНКО Ефим Романович
       spravka: true
-  - pageintom: '163'
-    page_image: v03/17-171-411-163.jpg
+- pageintom: '163'
+  image: v03/17-171-411-163.jpg
+  sublists:
+  - sublid: '356'
     persons:
     - id: '9597'
       num: '49'

@@ -12,17 +12,6 @@ signs:
   stalin: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '217'
-  image: v01/17-171-409-217.jpg
-- pageintom: '218'
-  image: v01/17-171-409-218.jpg
-- pageintom: '219'
-  image: v01/17-171-409-219.jpg
-- pageintom: '220'
-  image: v01/17-171-409-220.jpg
-- pageintom: '221'
-  image: v01/17-171-409-221.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Московская область]
   listtitle: Список лиц - Московская область
@@ -39,9 +28,17 @@ sublists:
   - 9
   - 10
   - 7
-  pages:
-  - pageintom: '219'
-    page_image: v01/17-171-409-219.jpg
+pages:
+- pageintom: '217'
+  image: v01/17-171-409-217.jpg
+  sublists: []
+- pageintom: '218'
+  image: v01/17-171-409-218.jpg
+  sublists: []
+- pageintom: '219'
+  image: v01/17-171-409-219.jpg
+  sublists:
+  - sublid: '26'
     persons:
     - id: '3133'
       num: '1'
@@ -111,8 +108,10 @@ sublists:
       num: '4'
       name: МИХАЙЛОВ Иван Михайлович
       spravka: true
-  - pageintom: '220'
-    page_image: v01/17-171-409-220.jpg
+- pageintom: '220'
+  image: v01/17-171-409-220.jpg
+  sublists:
+  - sublid: '26'
     persons:
     - id: '3149'
       num: '5'
@@ -137,8 +136,10 @@ sublists:
       num: '10'
       name: ЮМАШЕВ Георгий Захарович
       spravka: true
-  - pageintom: '221'
-    page_image: v01/17-171-409-221.jpg
+- pageintom: '221'
+  image: v01/17-171-409-221.jpg
+  sublists:
+  - sublid: '26'
     persons:
     - id: '3155'
       num: '1'

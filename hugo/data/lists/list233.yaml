@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '122'
-  image: v03/17-171-411-122.jpg
-- pageintom: '123'
-  image: v03/17-171-411-123.jpg
-- pageintom: '124'
-  image: v03/17-171-411-124.jpg
-- pageintom: '125'
-  image: v03/17-171-411-125.jpg
-- pageintom: '126'
-  image: v03/17-171-411-126.jpg
-- pageintom: '127'
-  image: v03/17-171-411-127.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Казахская ССР]
   listtitle: 'Список лиц: Казахская ССР'
@@ -38,9 +25,17 @@ sublists:
   - 18
   group_ids:
   - 0
-  pages:
-  - pageintom: '124'
-    page_image: v03/17-171-411-124.jpg
+pages:
+- pageintom: '122'
+  image: v03/17-171-411-122.jpg
+  sublists: []
+- pageintom: '123'
+  image: v03/17-171-411-123.jpg
+  sublists: []
+- pageintom: '124'
+  image: v03/17-171-411-124.jpg
+  sublists:
+  - sublid: '353'
     persons:
     - id: '9046'
       num: '1'
@@ -138,8 +133,10 @@ sublists:
       num: '23'
       name: ЗИСМАН Арон Ильич
       spravka: true
-  - pageintom: '125'
-    page_image: v03/17-171-411-125.jpg
+- pageintom: '125'
+  image: v03/17-171-411-125.jpg
+  sublists:
+  - sublid: '353'
     persons:
     - id: '9069'
       num: '24'
@@ -248,8 +245,10 @@ sublists:
       num: '50'
       name: РУДАКОВ Пантелеймон Александрович
       spravka: true
-  - pageintom: '126'
-    page_image: v03/17-171-411-126.jpg
+- pageintom: '126'
+  image: v03/17-171-411-126.jpg
+  sublists:
+  - sublid: '353'
     persons:
     - id: '9096'
       num: '51'
@@ -307,8 +306,10 @@ sublists:
       num: '64'
       name: ЯНКОВСКИЙ Рафаил Акимович
       spravka: true
-  - pageintom: '127'
-    page_image: v03/17-171-411-127.jpg
+- pageintom: '127'
+  image: v03/17-171-411-127.jpg
+  sublists:
+  - sublid: '353'
     persons:
     - id: '9110'
       num: '1'

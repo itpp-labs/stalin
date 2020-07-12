@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '151'
-  image: v09/17-171-417-151.jpg
-- pageintom: '152'
-  image: v09/17-171-417-152.jpg
-- pageintom: '153'
-  image: v09/17-171-417-153.jpg
-- pageintom: '154'
-  image: v09/17-171-417-154.jpg
-- pageintom: '155'
-  image: v09/17-171-417-155.jpg
-- pageintom: '156'
-  image: v09/17-171-417-156.jpg
-- pageintom: '157'
-  image: v09/17-171-417-157.jpg
-- pageintom: '158'
-  image: v09/17-171-417-158.jpg
-- pageintom: '159'
-  image: v09/17-171-417-159.jpg
-- pageintom: '160'
-  image: v09/17-171-417-160.jpg
 sublists:
 - title: Список от 10.VI.38г. [Грузинская ССР]
   listtitle: Список лиц - Грузинская ССР
@@ -46,9 +25,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '153'
-    page_image: v09/17-171-417-153.jpg
+pages:
+- pageintom: '151'
+  image: v09/17-171-417-151.jpg
+  sublists: []
+- pageintom: '152'
+  image: v09/17-171-417-152.jpg
+  sublists: []
+- pageintom: '153'
+  image: v09/17-171-417-153.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35352'
       num: '1'
@@ -144,8 +131,10 @@ sublists:
       num: '23'
       name: БЕЖУАШВИЛИ Николай Иванович
       spravka: true
-  - pageintom: '154'
-    page_image: v09/17-171-417-154.jpg
+- pageintom: '154'
+  image: v09/17-171-417-154.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35375'
       num: '24'
@@ -263,8 +252,10 @@ sublists:
       num: '52'
       name: ДЖИБЛАДЗЕ Григорий Николаевич
       spravka: true
-  - pageintom: '155'
-    page_image: v09/17-171-417-155.jpg
+- pageintom: '155'
+  image: v09/17-171-417-155.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35404'
       num: '53'
@@ -382,8 +373,10 @@ sublists:
       num: '81'
       name: КОЧИАШВИЛИ Илья Исидорович
       spravka: true
-  - pageintom: '156'
-    page_image: v09/17-171-417-156.jpg
+- pageintom: '156'
+  image: v09/17-171-417-156.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35433'
       num: '82'
@@ -498,8 +491,10 @@ sublists:
       num: '109'
       name: МЕСХИ Давид Николаевич
       spravka: true
-  - pageintom: '157'
-    page_image: v09/17-171-417-157.jpg
+- pageintom: '157'
+  image: v09/17-171-417-157.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35461'
       num: '110'
@@ -619,8 +614,10 @@ sublists:
       num: '138'
       name: РАЗМАДЗЕ Георгий Северьянович
       spravka: true
-  - pageintom: '158'
-    page_image: v09/17-171-417-158.jpg
+- pageintom: '158'
+  image: v09/17-171-417-158.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35490'
       num: '139'
@@ -739,8 +736,10 @@ sublists:
       num: '167'
       name: ЧИЧИНАДЗЕ Сергей Терентьевич
       spravka: true
-  - pageintom: '159'
-    page_image: v09/17-171-417-159.jpg
+- pageintom: '159'
+  image: v09/17-171-417-159.jpg
+  sublists:
+  - sublid: '118'
     persons:
     - id: '35519'
       num: '168'
@@ -770,3 +769,6 @@ sublists:
       num: '174'
       name: ЯГОВДИК Александр Михайлович
       spravka: true
+- pageintom: '160'
+  image: v09/17-171-417-160.jpg
+  sublists: []

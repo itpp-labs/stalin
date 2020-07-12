@@ -11,15 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '147'
-  image: v09/17-171-417-147.jpg
-- pageintom: '148'
-  image: v09/17-171-417-148.jpg
-- pageintom: '149'
-  image: v09/17-171-417-149.jpg
-- pageintom: '150'
-  image: v09/17-171-417-150.jpg
 sublists:
 - title: Список от 10.VI.38г. [Дальне-Восточный край]
   listtitle: Список лиц - Дальне-Восточный край
@@ -33,9 +24,17 @@ sublists:
   - 48
   group_ids:
   - 0
-  pages:
-  - pageintom: '149'
-    page_image: v09/17-171-417-149.jpg
+pages:
+- pageintom: '147'
+  image: v09/17-171-417-147.jpg
+  sublists: []
+- pageintom: '148'
+  image: v09/17-171-417-148.jpg
+  sublists: []
+- pageintom: '149'
+  image: v09/17-171-417-149.jpg
+  sublists:
+  - sublid: '117'
     persons:
     - id: '35311'
       num: '1'
@@ -124,8 +123,10 @@ sublists:
       num: '22'
       name: КОСТЮШИН Александр Галактионович
       spravka: true
-  - pageintom: '150'
-    page_image: v09/17-171-417-150.jpg
+- pageintom: '150'
+  image: v09/17-171-417-150.jpg
+  sublists:
+  - sublid: '117'
     persons:
     - id: '35333'
       num: '23'

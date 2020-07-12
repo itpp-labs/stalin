@@ -11,17 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '301'
-  image: v08/17-171-416-301.jpg
-- pageintom: '302'
-  image: v08/17-171-416-302.jpg
-- pageintom: '303'
-  image: v08/17-171-416-303.jpg
-- pageintom: '304'
-  image: v08/17-171-416-304.jpg
-- pageintom: '305'
-  image: v08/17-171-416-305.jpg
 sublists:
 - title: Список от 3 мая 1938г. [г.Воронеж-Юго-Восточная ж.д.]
   listtitle: Список лиц - г.Воронеж-Юго-Восточная ж.д.
@@ -35,9 +24,17 @@ sublists:
   - 130
   group_ids:
   - 13
-  pages:
-  - pageintom: '303'
-    page_image: v08/17-171-416-303.jpg
+pages:
+- pageintom: '301'
+  image: v08/17-171-416-301.jpg
+  sublists: []
+- pageintom: '302'
+  image: v08/17-171-416-302.jpg
+  sublists: []
+- pageintom: '303'
+  image: v08/17-171-416-303.jpg
+  sublists:
+  - sublid: '573'
     persons:
     - id: '32775'
       num: '1'
@@ -124,8 +121,10 @@ sublists:
       num: '21'
       name: ТЕСТОВ Тимофей Дмитриевич
       spravka: true
-  - pageintom: '304'
-    page_image: v08/17-171-416-304.jpg
+- pageintom: '304'
+  image: v08/17-171-416-304.jpg
+  sublists:
+  - sublid: '573'
     persons:
     - id: '32796'
       num: '22'
@@ -151,8 +150,10 @@ sublists:
       num: '27'
       name: ЯРЦЕВ Федор Васильевич
       spravka: true
-  - pageintom: '305'
-    page_image: v08/17-171-416-305.jpg
+- pageintom: '305'
+  image: v08/17-171-416-305.jpg
+  sublists:
+  - sublid: '573'
     persons:
     - id: '32802'
       num: '1'

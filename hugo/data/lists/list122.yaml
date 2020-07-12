@@ -12,33 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '106'
-  image: v05/17-171-413-106.jpg
-- pageintom: '107'
-  image: v05/17-171-413-107.jpg
-- pageintom: '108'
-  image: v05/17-171-413-108.jpg
-- pageintom: '109'
-  image: v05/17-171-413-109.jpg
-- pageintom: '110'
-  image: v05/17-171-413-110.jpg
-- pageintom: '111'
-  image: v05/17-171-413-111.jpg
-- pageintom: '112'
-  image: v05/17-171-413-112.jpg
-- pageintom: '113'
-  image: v05/17-171-413-113.jpg
-- pageintom: '114'
-  image: v05/17-171-413-114.jpg
-- pageintom: '115'
-  image: v05/17-171-413-115.jpg
-- pageintom: '116'
-  image: v05/17-171-413-116.jpg
-- pageintom: '117'
-  image: v05/17-171-413-117.jpg
-- pageintom: '118'
-  image: v05/17-171-413-118.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр, Московская область
@@ -53,9 +26,29 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '108'
-    page_image: v05/17-171-413-108.jpg
+- title: Список от 22 ноября 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская область
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '106'
+  image: v05/17-171-413-106.jpg
+  sublists: []
+- pageintom: '107'
+  image: v05/17-171-413-107.jpg
+  sublists: []
+- pageintom: '108'
+  image: v05/17-171-413-108.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15306'
       num: '1'
@@ -158,8 +151,10 @@ sublists:
       num: '25'
       name: ГЕРМАН-НЕЕРЦИК Григорий Моисеевич
       spravka: true
-  - pageintom: '109'
-    page_image: v05/17-171-413-109.jpg
+- pageintom: '109'
+  image: v05/17-171-413-109.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15331'
       num: '26'
@@ -265,8 +260,10 @@ sublists:
     - id: '15357'
       num: '52'
       name: КАЧАНОВСКИЙ Лейб Менахемович
-  - pageintom: '110'
-    page_image: v05/17-171-413-110.jpg
+- pageintom: '110'
+  image: v05/17-171-413-110.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15358'
       num: '53'
@@ -378,8 +375,10 @@ sublists:
       num: '81'
       name: ПЕРИМОВ Алексей Викторович
       spravka: true
-  - pageintom: '111'
-    page_image: v05/17-171-413-111.jpg
+- pageintom: '111'
+  image: v05/17-171-413-111.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15387'
       num: '82'
@@ -481,8 +480,10 @@ sublists:
       num: '110'
       name: ШИНДЕЛЬ Яков Маркович
       spravka: true
-  - pageintom: '112'
-    page_image: v05/17-171-413-112.jpg
+- pageintom: '112'
+  image: v05/17-171-413-112.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15416'
       num: '111'
@@ -495,8 +496,10 @@ sublists:
       num: '113'
       name: ЭСКИН Абрам Моисеевич
       spravka: true
-  - pageintom: '113'
-    page_image: v05/17-171-413-113.jpg
+- pageintom: '113'
+  image: v05/17-171-413-113.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '15419'
       num: '1'
@@ -510,8 +513,16 @@ sublists:
       name: КОЭН Роза Морисовна
       gb_spravka: true
       spravka: true
-  - pageintom: '116'
-    page_image: v05/17-171-413-116.jpg
+- pageintom: '114'
+  image: v05/17-171-413-114.jpg
+  sublists: []
+- pageintom: '115'
+  image: v05/17-171-413-115.jpg
+  sublists: []
+- pageintom: '116'
+  image: v05/17-171-413-116.jpg
+  sublists:
+  - sublid: '272'
     persons:
     - id: '26189'
       num: '1'
@@ -565,21 +576,10 @@ sublists:
       num: '13'
       name: ЧИЖИКОВ Онисим Лукич
       spravka: true
-- title: Список от 22 ноября 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, Московская область
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '117'
-    page_image: v05/17-171-413-117.jpg
+- pageintom: '117'
+  image: v05/17-171-413-117.jpg
+  sublists:
+  - sublid: '273'
     persons:
     - id: '15434'
       num: '1'
@@ -624,8 +624,10 @@ sublists:
       num: '11'
       name: ЯРОШЕВИЧ Иосиф Людвигович
       spravka: true
-  - pageintom: '118'
-    page_image: v05/17-171-413-118.jpg
+- pageintom: '118'
+  image: v05/17-171-413-118.jpg
+  sublists:
+  - sublid: '273'
     persons:
     - id: '15445'
       num: '1'

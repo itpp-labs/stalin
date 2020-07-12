@@ -13,19 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '87'
-  image: v07/17-171-415-087.jpg
-- pageintom: '88'
-  image: v07/17-171-415-088.jpg
-- pageintom: '89'
-  image: v07/17-171-415-089.jpg
-- pageintom: '90'
-  image: v07/17-171-415-090.jpg
-- pageintom: '91'
-  image: v07/17-171-415-091.jpg
-- pageintom: '92'
-  image: v07/17-171-415-092.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Горький.Горьковская ж.д.]
   listtitle: Список лиц - г.Горький.Горьковская ж.д.
@@ -39,9 +26,17 @@ sublists:
   - 99
   group_ids:
   - 13
-  pages:
-  - pageintom: '89'
-    page_image: v07/17-171-415-089.jpg
+pages:
+- pageintom: '87'
+  image: v07/17-171-415-087.jpg
+  sublists: []
+- pageintom: '88'
+  image: v07/17-171-415-088.jpg
+  sublists: []
+- pageintom: '89'
+  image: v07/17-171-415-089.jpg
+  sublists:
+  - sublid: '487'
     persons:
     - id: '26674'
       num: '1'
@@ -137,8 +132,10 @@ sublists:
       num: '23'
       name: ИВАНОВ Федор Николаевич
       spravka: true
-  - pageintom: '90'
-    page_image: v07/17-171-415-090.jpg
+- pageintom: '90'
+  image: v07/17-171-415-090.jpg
+  sublists:
+  - sublid: '487'
     persons:
     - id: '26697'
       num: '24'
@@ -246,8 +243,10 @@ sublists:
       num: '50'
       name: САВЕНКОВ Андрей Павлович
       spravka: true
-  - pageintom: '91'
-    page_image: v07/17-171-415-091.jpg
+- pageintom: '91'
+  image: v07/17-171-415-091.jpg
+  sublists:
+  - sublid: '487'
     persons:
     - id: '26724'
       num: '51'
@@ -342,8 +341,10 @@ sublists:
       num: '74'
       name: ЩЕРБИНИН Григорий Иванович
       spravka: true
-  - pageintom: '92'
-    page_image: v07/17-171-415-092.jpg
+- pageintom: '92'
+  image: v07/17-171-415-092.jpg
+  sublists:
+  - sublid: '487'
     persons:
     - id: '26748'
       num: '1'

@@ -11,35 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '18'
-  image: v09/17-171-417-018.jpg
-- pageintom: '19'
-  image: v09/17-171-417-019.jpg
-- pageintom: '20'
-  image: v09/17-171-417-020.jpg
-- pageintom: '21'
-  image: v09/17-171-417-021.jpg
-- pageintom: '22'
-  image: v09/17-171-417-022.jpg
-- pageintom: '23'
-  image: v09/17-171-417-023.jpg
-- pageintom: '24'
-  image: v09/17-171-417-024.jpg
-- pageintom: '25'
-  image: v09/17-171-417-025.jpg
-- pageintom: '26'
-  image: v09/17-171-417-026.jpg
-- pageintom: '27'
-  image: v09/17-171-417-027.jpg
-- pageintom: '28'
-  image: v09/17-171-417-028.jpg
-- pageintom: '29'
-  image: v09/17-171-417-029.jpg
-- pageintom: '30'
-  image: v09/17-171-417-030.jpg
-- pageintom: '31'
-  image: v09/17-171-417-031.jpg
 sublists:
 - title: Список от 10.VI.38г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР, г.Харьков-Южная ж.д.
@@ -62,9 +33,29 @@ sublists:
   group_ids:
   - 0
   - 12
-  pages:
-  - pageintom: '20'
-    page_image: v09/17-171-417-020.jpg
+- title: Список от 10.VI.38г. [г.Харьков-Южная ж.д.]
+  listtitle: Список лиц - Украинская ССР, г.Харьков-Южная ж.д.
+  sublisttitle: г.Харьков-Южная ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 86
+  geosub_ids:
+  - 61
+  group_ids:
+  - 13
+pages:
+- pageintom: '18'
+  image: v09/17-171-417-018.jpg
+  sublists: []
+- pageintom: '19'
+  image: v09/17-171-417-019.jpg
+  sublists: []
+- pageintom: '20'
+  image: v09/17-171-417-020.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33452'
       num: '1'
@@ -148,8 +139,10 @@ sublists:
       num: '20'
       name: ШИРОКИХ Георгий Сильвестрович
       spravka: true
-  - pageintom: '21'
-    page_image: v09/17-171-417-021.jpg
+- pageintom: '21'
+  image: v09/17-171-417-021.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33472'
       num: '21'
@@ -219,8 +212,10 @@ sublists:
       num: '38'
       name: ЗАВАДСКИЙ Викентий Петрович
       spravka: true
-  - pageintom: '22'
-    page_image: v09/17-171-417-022.jpg
+- pageintom: '22'
+  image: v09/17-171-417-022.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33490'
       num: '39'
@@ -317,8 +312,10 @@ sublists:
       num: '64'
       name: АНДЖЕЙКОВИЧ Эдуард Ульянович
       spravka: true
-  - pageintom: '23'
-    page_image: v09/17-171-417-023.jpg
+- pageintom: '23'
+  image: v09/17-171-417-023.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33516'
       num: '65'
@@ -423,8 +420,10 @@ sublists:
     - id: '33545'
       num: '94'
       name: УДРИС Оскар Иванович
-  - pageintom: '24'
-    page_image: v09/17-171-417-024.jpg
+- pageintom: '24'
+  image: v09/17-171-417-024.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33546'
       num: '95'
@@ -449,8 +448,10 @@ sublists:
       num: '100'
       name: ЭЛЬСБЕРГ-ЛЕНСКИЙ Иван Иванович
       spravka: true
-  - pageintom: '25'
-    page_image: v09/17-171-417-025.jpg
+- pageintom: '25'
+  image: v09/17-171-417-025.jpg
+  sublists:
+  - sublid: '302'
     persons:
     - id: '33552'
       num: '1'
@@ -499,21 +500,10 @@ sublists:
     - id: '33564'
       num: '13'
       name: ХАРЧЕНКО Марк Акимович
-- title: Список от 10.VI.38г. [г.Харьков-Южная ж.д.]
-  listtitle: Список лиц - Украинская ССР, г.Харьков-Южная ж.д.
-  sublisttitle: г.Харьков-Южная ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 86
-  geosub_ids:
-  - 61
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '26'
-    page_image: v09/17-171-417-026.jpg
+- pageintom: '26'
+  image: v09/17-171-417-026.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33565'
       num: '1'
@@ -586,8 +576,10 @@ sublists:
       num: '21'
       name: ЖЕЙКО Илья Васильевич
       spravka: true
-  - pageintom: '27'
-    page_image: v09/17-171-417-027.jpg
+- pageintom: '27'
+  image: v09/17-171-417-027.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33586'
       num: '22'
@@ -690,8 +682,10 @@ sublists:
       num: '50'
       name: МАКСИМЕНКО Дмитрий Федорович
       spravka: true
-  - pageintom: '28'
-    page_image: v09/17-171-417-028.jpg
+- pageintom: '28'
+  image: v09/17-171-417-028.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33615'
       num: '51'
@@ -786,8 +780,10 @@ sublists:
     - id: '33643'
       num: '79'
       name: ЩЕДРИН Виктор Иванович
-  - pageintom: '29'
-    page_image: v09/17-171-417-029.jpg
+- pageintom: '29'
+  image: v09/17-171-417-029.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33644'
       num: '80'
@@ -816,8 +812,10 @@ sublists:
     - id: '33651'
       num: '87'
       name: ЯНЧЕВСКИЙ Чеслав Карлович
-  - pageintom: '30'
-    page_image: v09/17-171-417-030.jpg
+- pageintom: '30'
+  image: v09/17-171-417-030.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33652'
       num: '1'
@@ -886,8 +884,10 @@ sublists:
     - id: '33671'
       num: '20'
       name: ТИМЧУК-ОЛЕЙНИК Онуфрий Иванович
-  - pageintom: '31'
-    page_image: v09/17-171-417-031.jpg
+- pageintom: '31'
+  image: v09/17-171-417-031.jpg
+  sublists:
+  - sublid: '303'
     persons:
     - id: '33672'
       num: '21'

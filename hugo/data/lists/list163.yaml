@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '62'
-  image: v09/17-171-417-062.jpg
-- pageintom: '63'
-  image: v09/17-171-417-063.jpg
-- pageintom: '64'
-  image: v09/17-171-417-064.jpg
-- pageintom: '65'
-  image: v09/17-171-417-065.jpg
-- pageintom: '66'
-  image: v09/17-171-417-066.jpg
-- pageintom: '67'
-  image: v09/17-171-417-067.jpg
 sublists:
 - title: Список от 10.VI.38г. [Гор.Ростов н/Д- ж.д.им.Ворошилова]
   listtitle: Список лиц - г.Ростов н/Д -ж.д. им.Ворошилова
@@ -37,9 +24,17 @@ sublists:
   - 97
   group_ids:
   - 13
-  pages:
-  - pageintom: '64'
-    page_image: v09/17-171-417-064.jpg
+pages:
+- pageintom: '62'
+  image: v09/17-171-417-062.jpg
+  sublists: []
+- pageintom: '63'
+  image: v09/17-171-417-063.jpg
+  sublists: []
+- pageintom: '64'
+  image: v09/17-171-417-064.jpg
+  sublists:
+  - sublid: '104'
     persons:
     - id: '34116'
       num: '1'
@@ -123,8 +118,10 @@ sublists:
       num: '20'
       name: КОНОВАЛЬЧИК Борис Илларионович
       spravka: true
-  - pageintom: '65'
-    page_image: v09/17-171-417-065.jpg
+- pageintom: '65'
+  image: v09/17-171-417-065.jpg
+  sublists:
+  - sublid: '104'
     persons:
     - id: '34136'
       num: '21'
@@ -228,8 +225,10 @@ sublists:
       num: '46'
       name: ШЕФФЕР Николай Львович
       spravka: true
-  - pageintom: '66'
-    page_image: v09/17-171-417-066.jpg
+- pageintom: '66'
+  image: v09/17-171-417-066.jpg
+  sublists:
+  - sublid: '104'
     persons:
     - id: '34162'
       num: '47'
@@ -251,8 +250,10 @@ sublists:
       num: '51'
       name: ЯСИНОВ Константин Александрович
       spravka: true
-  - pageintom: '67'
-    page_image: v09/17-171-417-067.jpg
+- pageintom: '67'
+  image: v09/17-171-417-067.jpg
+  sublists:
+  - sublid: '104'
     persons:
     - id: '34167'
       num: '1'

@@ -13,25 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '170'
-  image: v07/17-171-415-170.jpg
-- pageintom: '171'
-  image: v07/17-171-415-171.jpg
-- pageintom: '172'
-  image: v07/17-171-415-172.jpg
-- pageintom: '173'
-  image: v07/17-171-415-173.jpg
-- pageintom: '174'
-  image: v07/17-171-415-174.jpg
-- pageintom: '175'
-  image: v07/17-171-415-175.jpg
-- pageintom: '176'
-  image: v07/17-171-415-176.jpg
-- pageintom: '177'
-  image: v07/17-171-415-177.jpg
-- pageintom: '178'
-  image: v07/17-171-415-178.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Ивановская область]
   listtitle: Список лиц - Ивановская область
@@ -45,9 +26,17 @@ sublists:
   - 19
   group_ids:
   - 0
-  pages:
-  - pageintom: '172'
-    page_image: v07/17-171-415-172.jpg
+pages:
+- pageintom: '170'
+  image: v07/17-171-415-170.jpg
+  sublists: []
+- pageintom: '171'
+  image: v07/17-171-415-171.jpg
+  sublists: []
+- pageintom: '172'
+  image: v07/17-171-415-172.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27720'
       num: '1'
@@ -121,8 +110,10 @@ sublists:
     - id: '27739'
       num: '20'
       name: ВЫСКРЕБЕНЦЕВ Алексей Леонтьевич
-  - pageintom: '173'
-    page_image: v07/17-171-415-173.jpg
+- pageintom: '173'
+  image: v07/17-171-415-173.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27740'
       num: '21'
@@ -225,8 +216,10 @@ sublists:
       num: '48'
       name: ЗЕРНОВ Николай Павлович
       doublesexists: true
-  - pageintom: '174'
-    page_image: v07/17-171-415-174.jpg
+- pageintom: '174'
+  image: v07/17-171-415-174.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27768'
       num: '49'
@@ -323,8 +316,10 @@ sublists:
     - id: '27794'
       num: '75'
       name: ЛУКЬЯНОВ Григорий Арсеньевич
-  - pageintom: '175'
-    page_image: v07/17-171-415-175.jpg
+- pageintom: '175'
+  image: v07/17-171-415-175.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27795'
       num: '76'
@@ -434,8 +429,10 @@ sublists:
       num: '104'
       name: РУДНЕВ Петр Васильевич
       spravka: true
-  - pageintom: '176'
-    page_image: v07/17-171-415-176.jpg
+- pageintom: '176'
+  image: v07/17-171-415-176.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27824'
       num: '105'
@@ -531,8 +528,10 @@ sublists:
       num: '130'
       name: ЧУМАК Илья Антонович
       spravka: true
-  - pageintom: '177'
-    page_image: v07/17-171-415-177.jpg
+- pageintom: '177'
+  image: v07/17-171-415-177.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27850'
       num: '131'
@@ -549,8 +548,10 @@ sublists:
       num: '134'
       name: ШМИДТ Николай Владимирович
       spravka: true
-  - pageintom: '178'
-    page_image: v07/17-171-415-178.jpg
+- pageintom: '178'
+  image: v07/17-171-415-178.jpg
+  sublists:
+  - sublid: '494'
     persons:
     - id: '27854'
       num: '1'

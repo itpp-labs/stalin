@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '98'
-  image: v05/17-171-413-098.jpg
-- pageintom: '99'
-  image: v05/17-171-413-099.jpg
-- pageintom: '100'
-  image: v05/17-171-413-100.jpg
-- pageintom: '101'
-  image: v05/17-171-413-101.jpg
-- pageintom: '102'
-  image: v05/17-171-413-102.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область, Карельская АССР
@@ -36,9 +25,29 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '100'
-    page_image: v05/17-171-413-100.jpg
+- title: Список от 22 ноября 1937г. [Карельская АССР]
+  listtitle: Список лиц - Ленинградская область, Карельская АССР
+  sublisttitle: Карельская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 38
+  geosub_ids:
+  - 102
+  group_ids:
+  - 0
+pages:
+- pageintom: '98'
+  image: v05/17-171-413-098.jpg
+  sublists: []
+- pageintom: '99'
+  image: v05/17-171-413-099.jpg
+  sublists: []
+- pageintom: '100'
+  image: v05/17-171-413-100.jpg
+  sublists:
+  - sublid: '270'
     persons:
     - id: '15261'
       num: '1'
@@ -102,8 +111,10 @@ sublists:
       num: '15'
       name: ЭРЛИХ Абрам Яковлевич
       spravka: true
-  - pageintom: '101'
-    page_image: v05/17-171-413-101.jpg
+- pageintom: '101'
+  image: v05/17-171-413-101.jpg
+  sublists:
+  - sublid: '270'
     persons:
     - id: '15276'
       num: '1'
@@ -116,21 +127,10 @@ sublists:
     - id: '15278'
       num: '3'
       name: ШТАК Александр Александрович
-- title: Список от 22 ноября 1937г. [Карельская АССР]
-  listtitle: Список лиц - Ленинградская область, Карельская АССР
-  sublisttitle: Карельская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 38
-  geosub_ids:
-  - 102
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '102'
-    page_image: v05/17-171-413-102.jpg
+- pageintom: '102'
+  image: v05/17-171-413-102.jpg
+  sublists:
+  - sublid: '271'
     persons:
     - id: '15279'
       num: '1'

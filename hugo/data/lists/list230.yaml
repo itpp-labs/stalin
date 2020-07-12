@@ -12,15 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '105'
-  image: v03/17-171-411-105.jpg
-- pageintom: '106'
-  image: v03/17-171-411-106.jpg
-- pageintom: '107'
-  image: v03/17-171-411-107.jpg
-- pageintom: '108'
-  image: v03/17-171-411-108.jpg
 sublists:
 - title: Список от 22 сентября 1937г. [Воронежская обл.]
   listtitle: 'Список лиц: Воронежская обл.'
@@ -34,9 +25,17 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '107'
-    page_image: v03/17-171-411-107.jpg
+pages:
+- pageintom: '105'
+  image: v03/17-171-411-105.jpg
+  sublists: []
+- pageintom: '106'
+  image: v03/17-171-411-106.jpg
+  sublists: []
+- pageintom: '107'
+  image: v03/17-171-411-107.jpg
+  sublists:
+  - sublid: '351'
     persons:
     - id: '8905'
       num: '1'
@@ -140,8 +139,10 @@ sublists:
       num: '25'
       name: ТУЗЛУКОВ Иван Кондратьевич
       spravka: true
-  - pageintom: '108'
-    page_image: v03/17-171-411-108.jpg
+- pageintom: '108'
+  image: v03/17-171-411-108.jpg
+  sublists:
+  - sublid: '351'
     persons:
     - id: '8930'
       num: '26'

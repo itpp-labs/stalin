@@ -14,21 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '262'
-  image: v06/17-171-414-262.jpg
-- pageintom: '263'
-  image: v06/17-171-414-263.jpg
-- pageintom: '264'
-  image: v06/17-171-414-264.jpg
-- pageintom: '265'
-  image: v06/17-171-414-265.jpg
-- pageintom: '266'
-  image: v06/17-171-414-266.jpg
-- pageintom: '267'
-  image: v06/17-171-414-267.jpg
-- pageintom: '268'
-  image: v06/17-171-414-268.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Оренбургская область]
   listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
@@ -42,9 +27,29 @@ sublists:
   - 38
   group_ids:
   - 0
-  pages:
-  - pageintom: '264'
-    page_image: v06/17-171-414-264.jpg
+- title: Список от 3 февраля 1938г. [Оренбург.Оренбургск.ж.д.]
+  listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
+  sublisttitle: Оренбург.Оренбургск.ж.д.
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 53
+  geosub_ids:
+  - 116
+  group_ids:
+  - 13
+pages:
+- pageintom: '262'
+  image: v06/17-171-414-262.jpg
+  sublists: []
+- pageintom: '263'
+  image: v06/17-171-414-263.jpg
+  sublists: []
+- pageintom: '264'
+  image: v06/17-171-414-264.jpg
+  sublists:
+  - sublid: '473'
     persons:
     - id: '22777'
       num: '1'
@@ -130,8 +135,10 @@ sublists:
     - id: '22799'
       num: '23'
       name: КОРЕНОВСКИЙ Степан Георгиевич
-  - pageintom: '265'
-    page_image: v06/17-171-414-265.jpg
+- pageintom: '265'
+  image: v06/17-171-414-265.jpg
+  sublists:
+  - sublid: '473'
     persons:
     - id: '22800'
       num: '24'
@@ -219,8 +226,10 @@ sublists:
     - id: '22822'
       num: '46'
       name: ЮХНО Франц Константинович
-  - pageintom: '266'
-    page_image: v06/17-171-414-266.jpg
+- pageintom: '266'
+  image: v06/17-171-414-266.jpg
+  sublists:
+  - sublid: '473'
     persons:
     - id: '22823'
       num: '1'
@@ -228,21 +237,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
-- title: Список от 3 февраля 1938г. [Оренбург.Оренбургск.ж.д.]
-  listtitle: Список лиц - Оренбургская область; Оренбург.Оренбургская ж.д.
-  sublisttitle: Оренбург.Оренбургск.ж.д.
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 53
-  geosub_ids:
-  - 116
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '267'
-    page_image: v06/17-171-414-267.jpg
+- pageintom: '267'
+  image: v06/17-171-414-267.jpg
+  sublists:
+  - sublid: '474'
     persons:
     - id: '22824'
       num: '1'
@@ -316,8 +314,10 @@ sublists:
       num: '18'
       name: МУРЗИН Иван Михайлович
       spravka: true
-  - pageintom: '268'
-    page_image: v06/17-171-414-268.jpg
+- pageintom: '268'
+  image: v06/17-171-414-268.jpg
+  sublists:
+  - sublid: '474'
     persons:
     - id: '22842'
       num: '19'

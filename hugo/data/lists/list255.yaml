@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '43'
-  image: v07/17-171-415-043.jpg
-- pageintom: '44'
-  image: v07/17-171-415-044.jpg
-- pageintom: '45'
-  image: v07/17-171-415-045.jpg
-- pageintom: '46'
-  image: v07/17-171-415-046.jpg
-- pageintom: '47'
-  image: v07/17-171-415-047.jpg
 sublists:
 - title: Список от 5 марта 1938г. [г.Ташкент,Ташкентская ж.д.]
   listtitle: Список лиц - г.Ташкент,Ташкентская ж.д.
@@ -37,9 +26,17 @@ sublists:
   - 125
   group_ids:
   - 13
-  pages:
-  - pageintom: '45'
-    page_image: v07/17-171-415-045.jpg
+pages:
+- pageintom: '43'
+  image: v07/17-171-415-043.jpg
+  sublists: []
+- pageintom: '44'
+  image: v07/17-171-415-044.jpg
+  sublists: []
+- pageintom: '45'
+  image: v07/17-171-415-045.jpg
+  sublists:
+  - sublid: '485'
     persons:
     - id: '26287'
       num: '1'
@@ -113,8 +110,10 @@ sublists:
     - id: '26309'
       num: '23'
       name: СЕМЕНОВ Иван Павлович
-  - pageintom: '46'
-    page_image: v07/17-171-415-046.jpg
+- pageintom: '46'
+  image: v07/17-171-415-046.jpg
+  sublists:
+  - sublid: '485'
     persons:
     - id: '26310'
       num: '24'
@@ -129,8 +128,10 @@ sublists:
       num: '27'
       name: ШОФМАН Иосиф Михайлович
       spravka: true
-  - pageintom: '47'
-    page_image: v07/17-171-415-047.jpg
+- pageintom: '47'
+  image: v07/17-171-415-047.jpg
+  sublists:
+  - sublid: '485'
     persons:
     - id: '26314'
       num: '1'

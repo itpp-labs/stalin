@@ -11,23 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '210'
-  image: v09/17-171-417-210.jpg
-- pageintom: '211'
-  image: v09/17-171-417-211.jpg
-- pageintom: '212'
-  image: v09/17-171-417-212.jpg
-- pageintom: '213'
-  image: v09/17-171-417-213.jpg
-- pageintom: '214'
-  image: v09/17-171-417-214.jpg
-- pageintom: '215'
-  image: v09/17-171-417-215.jpg
-- pageintom: '216'
-  image: v09/17-171-417-216.jpg
-- pageintom: '217'
-  image: v09/17-171-417-217.jpg
 sublists:
 - title: Список от 26.VII.38г. [Москва-центр]
   listtitle: Записка Ежова с приложением списка лиц - Москва-центр
@@ -41,9 +24,20 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '213'
-    page_image: v09/17-171-417-213.jpg
+pages:
+- pageintom: '210'
+  image: v09/17-171-417-210.jpg
+  sublists: []
+- pageintom: '211'
+  image: v09/17-171-417-211.jpg
+  sublists: []
+- pageintom: '212'
+  image: v09/17-171-417-212.jpg
+  sublists: []
+- pageintom: '213'
+  image: v09/17-171-417-213.jpg
+  sublists:
+  - sublid: '124'
     persons:
     - id: '36057'
       num: '1'
@@ -141,8 +135,10 @@ sublists:
       name: БУЛИН Антон Степанович
       doublesexists: true
       spravka: true
-  - pageintom: '214'
-    page_image: v09/17-171-417-214.jpg
+- pageintom: '214'
+  image: v09/17-171-417-214.jpg
+  sublists:
+  - sublid: '124'
     persons:
     - id: '36079'
       num: '23'
@@ -271,8 +267,10 @@ sublists:
       name: КАНДЕЛАКИ Давид Владимирович
       doublesexists: true
       spravka: true
-  - pageintom: '215'
-    page_image: v09/17-171-417-215.jpg
+- pageintom: '215'
+  image: v09/17-171-417-215.jpg
+  sublists:
+  - sublid: '124'
     persons:
     - id: '36109'
       num: '53'
@@ -403,8 +401,10 @@ sublists:
       num: '82'
       name: МИФ Павел Александрович
       spravka: true
-  - pageintom: '216'
-    page_image: v09/17-171-417-216.jpg
+- pageintom: '216'
+  image: v09/17-171-417-216.jpg
+  sublists:
+  - sublid: '124'
     persons:
     - id: '36139'
       num: '83'
@@ -533,8 +533,10 @@ sublists:
       num: '112'
       name: СКОБЕЛЕВ Матвей Иванович
       spravka: true
-  - pageintom: '217'
-    page_image: v09/17-171-417-217.jpg
+- pageintom: '217'
+  image: v09/17-171-417-217.jpg
+  sublists:
+  - sublid: '124'
     persons:
     - id: '36169'
       num: '113'

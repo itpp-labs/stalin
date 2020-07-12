@@ -12,41 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '249'
-  image: v05/17-171-413-249.jpg
-- pageintom: '250'
-  image: v05/17-171-413-250.jpg
-- pageintom: '251'
-  image: v05/17-171-413-251.jpg
-- pageintom: '252'
-  image: v05/17-171-413-252.jpg
-- pageintom: '253'
-  image: v05/17-171-413-253.jpg
-- pageintom: '254'
-  image: v05/17-171-413-254.jpg
-- pageintom: '255'
-  image: v05/17-171-413-255.jpg
-- pageintom: '256'
-  image: v05/17-171-413-256.jpg
-- pageintom: '257'
-  image: v05/17-171-413-257.jpg
-- pageintom: '258'
-  image: v05/17-171-413-258.jpg
-- pageintom: '259'
-  image: v05/17-171-413-259.jpg
-- pageintom: '260'
-  image: v05/17-171-413-260.jpg
-- pageintom: '261'
-  image: v05/17-171-413-261.jpg
-- pageintom: '262'
-  image: v05/17-171-413-262.jpg
-- pageintom: '263'
-  image: v05/17-171-413-263.jpg
-- pageintom: '264'
-  image: v05/17-171-413-264.jpg
-- pageintom: '265'
-  image: v05/17-171-413-265.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -61,9 +26,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '251'
-    page_image: v05/17-171-413-251.jpg
+pages:
+- pageintom: '249'
+  image: v05/17-171-413-249.jpg
+  sublists: []
+- pageintom: '250'
+  image: v05/17-171-413-250.jpg
+  sublists: []
+- pageintom: '251'
+  image: v05/17-171-413-251.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17611'
       num: '1'
@@ -157,8 +130,10 @@ sublists:
       num: '23'
       name: БОГАЧЕНКО Алексей Феоктистович
       spravka: true
-  - pageintom: '252'
-    page_image: v05/17-171-413-252.jpg
+- pageintom: '252'
+  image: v05/17-171-413-252.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17634'
       num: '24'
@@ -271,8 +246,10 @@ sublists:
       num: '53'
       name: ГАЦКИЙ Анатолий Самойлович
       spravka: true
-  - pageintom: '253'
-    page_image: v05/17-171-413-253.jpg
+- pageintom: '253'
+  image: v05/17-171-413-253.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17664'
       num: '54'
@@ -388,8 +365,10 @@ sublists:
       num: '81'
       name: ЕГАНОВ Михаил Яковлевич
       spravka: true
-  - pageintom: '254'
-    page_image: v05/17-171-413-254.jpg
+- pageintom: '254'
+  image: v05/17-171-413-254.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17692'
       num: '82'
@@ -502,8 +481,10 @@ sublists:
       num: '110'
       name: КЛЮЕВ Александр Иванович
       spravka: true
-  - pageintom: '255'
-    page_image: v05/17-171-413-255.jpg
+- pageintom: '255'
+  image: v05/17-171-413-255.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17721'
       num: '111'
@@ -618,8 +599,10 @@ sublists:
       num: '139'
       name: ЛЕПОРК Дмитрий Сергеевич
       spravka: true
-  - pageintom: '256'
-    page_image: v05/17-171-413-256.jpg
+- pageintom: '256'
+  image: v05/17-171-413-256.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17750'
       num: '140'
@@ -729,8 +712,10 @@ sublists:
     - id: '17778'
       num: '168'
       name: НЕСТЕРОВ Захар Антонович
-  - pageintom: '257'
-    page_image: v05/17-171-413-257.jpg
+- pageintom: '257'
+  image: v05/17-171-413-257.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17779'
       num: '169'
@@ -834,8 +819,10 @@ sublists:
       num: '197'
       name: РАБИНОВИЧ Филипп Яковлевич
       spravka: true
-  - pageintom: '258'
-    page_image: v05/17-171-413-258.jpg
+- pageintom: '258'
+  image: v05/17-171-413-258.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17808'
       num: '198'
@@ -942,8 +929,10 @@ sublists:
       num: '226'
       name: СТЕПАНОВ Николай Иванович
       spravka: true
-  - pageintom: '259'
-    page_image: v05/17-171-413-259.jpg
+- pageintom: '259'
+  image: v05/17-171-413-259.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17837'
       num: '227'
@@ -1043,8 +1032,10 @@ sublists:
       num: '255'
       name: ШАЛЬНЕВ Николай Федорович
       spravka: true
-  - pageintom: '260'
-    page_image: v05/17-171-413-260.jpg
+- pageintom: '260'
+  image: v05/17-171-413-260.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17866'
       num: '256'
@@ -1100,8 +1091,10 @@ sublists:
       num: '270'
       name: ЯСВОИН Михаил Вениаминович
       spravka: true
-  - pageintom: '261'
-    page_image: v05/17-171-413-261.jpg
+- pageintom: '261'
+  image: v05/17-171-413-261.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17881'
       num: '1'
@@ -1113,8 +1106,16 @@ sublists:
       num: '2'
       name: ЮСТ (БРУСТ) Ганс
       gb_spravka: true
-  - pageintom: '264'
-    page_image: v05/17-171-413-264.jpg
+- pageintom: '262'
+  image: v05/17-171-413-262.jpg
+  sublists: []
+- pageintom: '263'
+  image: v05/17-171-413-263.jpg
+  sublists: []
+- pageintom: '264'
+  image: v05/17-171-413-264.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17883'
       num: '1'
@@ -1206,8 +1207,10 @@ sublists:
       num: '24'
       name: ФИГАТНЕР Юрий Юрьевич
       spravka: true
-  - pageintom: '265'
-    page_image: v05/17-171-413-265.jpg
+- pageintom: '265'
+  image: v05/17-171-413-265.jpg
+  sublists:
+  - sublid: '88'
     persons:
     - id: '17907'
       num: '25'

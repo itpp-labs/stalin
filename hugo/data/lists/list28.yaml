@@ -12,17 +12,6 @@ signs:
   stalin: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '212'
-  image: v01/17-171-409-212.jpg
-- pageintom: '213'
-  image: v01/17-171-409-213.jpg
-- pageintom: '214'
-  image: v01/17-171-409-214.jpg
-- pageintom: '215'
-  image: v01/17-171-409-215.jpg
-- pageintom: '216'
-  image: v01/17-171-409-216.jpg
 sublists:
 - title: Список от 26 июня 1937 г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -36,9 +25,17 @@ sublists:
   - 2
   group_ids:
   - 0
-  pages:
-  - pageintom: '214'
-    page_image: v01/17-171-409-214.jpg
+pages:
+- pageintom: '212'
+  image: v01/17-171-409-212.jpg
+  sublists: []
+- pageintom: '213'
+  image: v01/17-171-409-213.jpg
+  sublists: []
+- pageintom: '214'
+  image: v01/17-171-409-214.jpg
+  sublists:
+  - sublid: '25'
     persons:
     - id: '3105'
       num: '1'
@@ -118,8 +115,10 @@ sublists:
       num: '20'
       name: ЧИЧВЯНСКИЙ-ГУБЕНКО Иван Дмитриевич
       spravka: true
-  - pageintom: '215'
-    page_image: v01/17-171-409-215.jpg
+- pageintom: '215'
+  image: v01/17-171-409-215.jpg
+  sublists:
+  - sublid: '25'
     persons:
     - id: '3125'
       num: '21'
@@ -135,8 +134,10 @@ sublists:
     - id: '3128'
       num: '24'
       name: ЯРУТА Никанор Степанович
-  - pageintom: '216'
-    page_image: v01/17-171-409-216.jpg
+- pageintom: '216'
+  image: v01/17-171-409-216.jpg
+  sublists:
+  - sublid: '25'
     persons:
     - id: '3129'
       num: '1'

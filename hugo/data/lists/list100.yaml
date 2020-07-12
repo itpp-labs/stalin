@@ -13,11 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '185'
-  image: v04/17-171-412-185.jpg
-- pageintom: '186'
-  image: v04/17-171-412-186.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Москва-центр]
   listtitle: Список лиц - Москва-центр
@@ -31,9 +26,14 @@ sublists:
   - 1
   group_ids:
   - 1
-  pages:
-  - pageintom: '186'
-    page_image: v04/17-171-412-186.jpg
+pages:
+- pageintom: '185'
+  image: v04/17-171-412-185.jpg
+  sublists: []
+- pageintom: '186'
+  image: v04/17-171-412-186.jpg
+  sublists:
+  - sublid: '70'
     persons:
     - id: '12850'
       num: '1'

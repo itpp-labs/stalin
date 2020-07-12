@@ -13,35 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '46'
-  image: v06/17-171-414-046.jpg
-- pageintom: '47'
-  image: v06/17-171-414-047.jpg
-- pageintom: '48'
-  image: v06/17-171-414-048.jpg
-- pageintom: '49'
-  image: v06/17-171-414-049.jpg
-- pageintom: '50'
-  image: v06/17-171-414-050.jpg
-- pageintom: '51'
-  image: v06/17-171-414-051.jpg
-- pageintom: '52'
-  image: v06/17-171-414-052.jpg
-- pageintom: '53'
-  image: v06/17-171-414-053.jpg
-- pageintom: '54'
-  image: v06/17-171-414-054.jpg
-- pageintom: '55'
-  image: v06/17-171-414-055.jpg
-- pageintom: '56'
-  image: v06/17-171-414-056.jpg
-- pageintom: '57'
-  image: v06/17-171-414-057.jpg
-- pageintom: '58'
-  image: v06/17-171-414-058.jpg
-- pageintom: '59'
-  image: v06/17-171-414-059.jpg
 sublists:
 - title: Список от 3 января 1938г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -76,9 +47,17 @@ sublists:
   - 91
   group_ids:
   - 0
-  pages:
-  - pageintom: '48'
-    page_image: v06/17-171-414-048.jpg
+pages:
+- pageintom: '46'
+  image: v06/17-171-414-046.jpg
+  sublists: []
+- pageintom: '47'
+  image: v06/17-171-414-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v06/17-171-414-048.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '19881'
       num: '1'
@@ -157,8 +136,10 @@ sublists:
       num: '20'
       name: ЛИТВИН Павел Павлович
       spravka: true
-  - pageintom: '49'
-    page_image: v06/17-171-414-049.jpg
+- pageintom: '49'
+  image: v06/17-171-414-049.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '19901'
       num: '21'
@@ -251,8 +232,10 @@ sublists:
       num: '45'
       name: КОГОН Георгий Михайлович
       spravka: true
-  - pageintom: '50'
-    page_image: v06/17-171-414-050.jpg
+- pageintom: '50'
+  image: v06/17-171-414-050.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '19926'
       num: '46'
@@ -356,8 +339,10 @@ sublists:
     - id: '19952'
       num: '72'
       name: ЦИМБЕРГ Александр Абрамович
-  - pageintom: '51'
-    page_image: v06/17-171-414-051.jpg
+- pageintom: '51'
+  image: v06/17-171-414-051.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '19953'
       num: '73'
@@ -459,8 +444,10 @@ sublists:
       num: '98'
       name: ЧЕКУНОВ Алексей Арсентьевич
       spravka: true
-  - pageintom: '52'
-    page_image: v06/17-171-414-052.jpg
+- pageintom: '52'
+  image: v06/17-171-414-052.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '19979'
       num: '99'
@@ -542,8 +529,10 @@ sublists:
       num: '119'
       name: ЯРМИЦКИЙ Дмитрий Давыдович
       spravka: true
-  - pageintom: '53'
-    page_image: v06/17-171-414-053.jpg
+- pageintom: '53'
+  image: v06/17-171-414-053.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20000'
       num: '120'
@@ -624,8 +613,10 @@ sublists:
       num: '140'
       name: ДЕГИЙ Филипп Никифорович
       spravka: true
-  - pageintom: '54'
-    page_image: v06/17-171-414-054.jpg
+- pageintom: '54'
+  image: v06/17-171-414-054.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20021'
       num: '141'
@@ -717,8 +708,10 @@ sublists:
     - id: '20043'
       num: '163'
       name: ГРИНШТЕЙН Бернард Ильич
-  - pageintom: '55'
-    page_image: v06/17-171-414-055.jpg
+- pageintom: '55'
+  image: v06/17-171-414-055.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20044'
       num: '164'
@@ -801,8 +794,10 @@ sublists:
       num: '188'
       name: СИДЕЛЬНИК Василий Лаврентьевич
       spravka: true
-  - pageintom: '56'
-    page_image: v06/17-171-414-056.jpg
+- pageintom: '56'
+  image: v06/17-171-414-056.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20069'
       num: '189'
@@ -825,8 +820,10 @@ sublists:
     - id: '20075'
       num: '195'
       name: ЭРКЕС Михаил Григорьевич
-  - pageintom: '57'
-    page_image: v06/17-171-414-057.jpg
+- pageintom: '57'
+  image: v06/17-171-414-057.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20076'
       num: '1'
@@ -884,8 +881,10 @@ sublists:
       num: '16'
       name: ОСТРЯНИН Даниил Фомич
       spravka: true
-  - pageintom: '58'
-    page_image: v06/17-171-414-058.jpg
+- pageintom: '58'
+  image: v06/17-171-414-058.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20092'
       num: '17'
@@ -958,8 +957,10 @@ sublists:
     - id: '20110'
       num: '35'
       name: ТРАЧУК Алексей Николаевич
-  - pageintom: '59'
-    page_image: v06/17-171-414-059.jpg
+- pageintom: '59'
+  image: v06/17-171-414-059.jpg
+  sublists:
+  - sublid: '402'
     persons:
     - id: '20111'
       num: '36'

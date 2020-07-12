@@ -14,21 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '1'
-  image: v04/17-171-412-001.jpg
-- pageintom: '2'
-  image: v04/17-171-412-002.jpg
-- pageintom: '3'
-  image: v04/17-171-412-003.jpg
-- pageintom: '4'
-  image: v04/17-171-412-004.jpg
-- pageintom: '5'
-  image: v04/17-171-412-005.jpg
-- pageintom: '6'
-  image: v04/17-171-412-006.jpg
-- pageintom: '7'
-  image: v04/17-171-412-007.jpg
 sublists:
 - title: Список от 21 октября 1937г. [Новосибирская область]
   listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
@@ -43,9 +28,43 @@ sublists:
   - 78
   group_ids:
   - 0
-  pages:
-  - pageintom: '3'
-    page_image: v04/17-171-412-003.jpg
+- title: Список от 21 октября 1937г. [Уфа. ж.д.им.Куйбышева]
+  listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
+    Сталинская ж.д.'
+  sublisttitle: Уфа. ж.д.им.Куйбышева
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 22
+  geosub_ids:
+  - 79
+  group_ids:
+  - 13
+- title: Список от 21 октября 1937г. [Днепропетровск. Сталинская ж.д.]
+  listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
+    Сталинская ж.д.'
+  sublisttitle: Днепропетровск. Сталинская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 77
+  geosub_ids:
+  - 67
+  group_ids:
+  - 13
+pages:
+- pageintom: '1'
+  image: v04/17-171-412-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v04/17-171-412-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v04/17-171-412-003.jpg
+  sublists:
+  - sublid: '229'
     persons:
     - id: '10434'
       num: '1'
@@ -123,8 +142,10 @@ sublists:
     - id: '10455'
       num: '22'
       name: СЕЛИВАНОВ Владимир Семенович
-  - pageintom: '4'
-    page_image: v04/17-171-412-004.jpg
+- pageintom: '4'
+  image: v04/17-171-412-004.jpg
+  sublists:
+  - sublid: '229'
     persons:
     - id: '10456'
       num: '23'
@@ -136,8 +157,10 @@ sublists:
     - id: '10458'
       num: '25'
       name: ЧЕРНОВИЧ Лазарь Борисович
-  - pageintom: '5'
-    page_image: v04/17-171-412-005.jpg
+- pageintom: '5'
+  image: v04/17-171-412-005.jpg
+  sublists:
+  - sublid: '229'
     persons:
     - id: '31080'
       num: '1'
@@ -148,22 +171,10 @@ sublists:
     - id: '10460'
       num: '2'
       name: МАЗНОВ Леонтий Данилович
-- title: Список от 21 октября 1937г. [Уфа. ж.д.им.Куйбышева]
-  listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
-    Сталинская ж.д.'
-  sublisttitle: Уфа. ж.д.им.Куйбышева
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 22
-  geosub_ids:
-  - 79
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '6'
-    page_image: v04/17-171-412-006.jpg
+- pageintom: '6'
+  image: v04/17-171-412-006.jpg
+  sublists:
+  - sublid: '230'
     persons:
     - id: '10461'
       num: '1'
@@ -195,22 +206,10 @@ sublists:
       num: '7'
       name: ТРИФОНОВ Александр Васильевич
       spravka: true
-- title: Список от 21 октября 1937г. [Днепропетровск. Сталинская ж.д.]
-  listtitle: 'Список лиц: Новосибирская обл.; Уфа. ж.д.им.Куйбышева; Днепропетровск.
-    Сталинская ж.д.'
-  sublisttitle: Днепропетровск. Сталинская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 77
-  geosub_ids:
-  - 67
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '7'
-    page_image: v04/17-171-412-007.jpg
+- pageintom: '7'
+  image: v04/17-171-412-007.jpg
+  sublists:
+  - sublid: '231'
     persons:
     - id: '10468'
       num: '1'

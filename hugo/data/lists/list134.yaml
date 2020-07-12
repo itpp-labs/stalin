@@ -13,25 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '230'
-  image: v05/17-171-413-230.jpg
-- pageintom: '231'
-  image: v05/17-171-413-231.jpg
-- pageintom: '232'
-  image: v05/17-171-413-232.jpg
-- pageintom: '233'
-  image: v05/17-171-413-233.jpg
-- pageintom: '234'
-  image: v05/17-171-413-234.jpg
-- pageintom: '235'
-  image: v05/17-171-413-235.jpg
-- pageintom: '236'
-  image: v05/17-171-413-236.jpg
-- pageintom: '237'
-  image: v05/17-171-413-237.jpg
-- pageintom: '238'
-  image: v05/17-171-413-238.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Ярославская область]
   listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
@@ -45,9 +26,29 @@ sublists:
   - 31
   group_ids:
   - 0
-  pages:
-  - pageintom: '232'
-    page_image: v05/17-171-413-232.jpg
+- title: Список от 7 декабря 1937г. [Ярославль-Ярославская ж.д.]
+  listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
+  sublisttitle: Ярославль-Ярославская ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 71
+  geosub_ids:
+  - 109
+  group_ids:
+  - 13
+pages:
+- pageintom: '230'
+  image: v05/17-171-413-230.jpg
+  sublists: []
+- pageintom: '231'
+  image: v05/17-171-413-231.jpg
+  sublists: []
+- pageintom: '232'
+  image: v05/17-171-413-232.jpg
+  sublists:
+  - sublid: '285'
     persons:
     - id: '17286'
       num: '1'
@@ -137,8 +138,10 @@ sublists:
       num: '22'
       name: КАДАК Антоний Мартынович
       spravka: true
-  - pageintom: '233'
-    page_image: v05/17-171-413-233.jpg
+- pageintom: '233'
+  image: v05/17-171-413-233.jpg
+  sublists:
+  - sublid: '285'
     persons:
     - id: '17308'
       num: '23'
@@ -256,8 +259,10 @@ sublists:
       num: '51'
       name: РАТОВ Михаил Арсеньевич
       spravka: true
-  - pageintom: '234'
-    page_image: v05/17-171-413-234.jpg
+- pageintom: '234'
+  image: v05/17-171-413-234.jpg
+  sublists:
+  - sublid: '285'
     persons:
     - id: '17337'
       num: '52'
@@ -327,8 +332,10 @@ sublists:
       num: '68'
       name: ЯКУБЧИК Владимир Николаевич
       spravka: true
-  - pageintom: '235'
-    page_image: v05/17-171-413-235.jpg
+- pageintom: '235'
+  image: v05/17-171-413-235.jpg
+  sublists:
+  - sublid: '285'
     persons:
     - id: '17354'
       num: '1'
@@ -390,21 +397,10 @@ sublists:
       num: '15'
       name: ЦЕПИЛОВ Андрей Яковлевич
       spravka: true
-- title: Список от 7 декабря 1937г. [Ярославль-Ярославская ж.д.]
-  listtitle: Список лиц - Ярославская область, Ярославль-Ярославская ж.д.
-  sublisttitle: Ярославль-Ярославская ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 71
-  geosub_ids:
-  - 109
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '236'
-    page_image: v05/17-171-413-236.jpg
+- pageintom: '236'
+  image: v05/17-171-413-236.jpg
+  sublists:
+  - sublid: '286'
     persons:
     - id: '17369'
       num: '1'
@@ -490,8 +486,10 @@ sublists:
     - id: '17391'
       num: '23'
       name: РАТНИКОВ Георгий Иванович
-  - pageintom: '237'
-    page_image: v05/17-171-413-237.jpg
+- pageintom: '237'
+  image: v05/17-171-413-237.jpg
+  sublists:
+  - sublid: '286'
     persons:
     - id: '17392'
       num: '24'
@@ -546,8 +544,10 @@ sublists:
       num: '37'
       name: ШИРОКШИН Анатолий Сергеевич
       spravka: true
-  - pageintom: '238'
-    page_image: v05/17-171-413-238.jpg
+- pageintom: '238'
+  image: v05/17-171-413-238.jpg
+  sublists:
+  - sublid: '286'
     persons:
     - id: '17406'
       num: '1'

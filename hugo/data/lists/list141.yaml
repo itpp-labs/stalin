@@ -12,27 +12,6 @@ signs:
   stalin: true
   molotov: true
   voroshilov: true
-pages:
-- pageintom: '291'
-  image: v05/17-171-413-291.jpg
-- pageintom: '292'
-  image: v05/17-171-413-292.jpg
-- pageintom: '293'
-  image: v05/17-171-413-293.jpg
-- pageintom: '294'
-  image: v05/17-171-413-294.jpg
-- pageintom: '295'
-  image: v05/17-171-413-295.jpg
-- pageintom: '296'
-  image: v05/17-171-413-296.jpg
-- pageintom: '297'
-  image: v05/17-171-413-297.jpg
-- pageintom: '298'
-  image: v05/17-171-413-298.jpg
-- pageintom: '299'
-  image: v05/17-171-413-299.jpg
-- pageintom: '300'
-  image: v05/17-171-413-300.jpg
 sublists:
 - title: Список от 13 декабря 1937г. [Москва - центр]
   listtitle: Список лиц - Москва-центр, Московская область
@@ -46,9 +25,29 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '293'
-    page_image: v05/17-171-413-293.jpg
+- title: Список от 13 декабря 1937г. [Московская область]
+  listtitle: Список лиц - Москва-центр, Московская область
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '291'
+  image: v05/17-171-413-291.jpg
+  sublists: []
+- pageintom: '292'
+  image: v05/17-171-413-292.jpg
+  sublists: []
+- pageintom: '293'
+  image: v05/17-171-413-293.jpg
+  sublists:
+  - sublid: '291'
     persons:
     - id: '18135'
       num: '1'
@@ -142,8 +141,10 @@ sublists:
       num: '23'
       name: ЗОРИЧ Василий Тимофеевич
       spravka: true
-  - pageintom: '294'
-    page_image: v05/17-171-413-294.jpg
+- pageintom: '294'
+  image: v05/17-171-413-294.jpg
+  sublists:
+  - sublid: '291'
     persons:
     - id: '18158'
       num: '24'
@@ -250,8 +251,10 @@ sublists:
       num: '51'
       name: ОРЛОВ Николай Михайлович
       spravka: true
-  - pageintom: '295'
-    page_image: v05/17-171-413-295.jpg
+- pageintom: '295'
+  image: v05/17-171-413-295.jpg
+  sublists:
+  - sublid: '291'
     persons:
     - id: '18186'
       num: '52'
@@ -348,8 +351,10 @@ sublists:
     - id: '18212'
       num: '78'
       name: ЦИНОВСКАЯ Елена Ивановна
-  - pageintom: '296'
-    page_image: v05/17-171-413-296.jpg
+- pageintom: '296'
+  image: v05/17-171-413-296.jpg
+  sublists:
+  - sublid: '291'
     persons:
     - id: '18213'
       num: '79'
@@ -381,8 +386,10 @@ sublists:
       num: '86'
       name: ЯКОВЛЕВ Борис Алексеевич
       spravka: true
-  - pageintom: '297'
-    page_image: v05/17-171-413-297.jpg
+- pageintom: '297'
+  image: v05/17-171-413-297.jpg
+  sublists:
+  - sublid: '291'
     persons:
     - id: '18221'
       num: '1'
@@ -390,21 +397,10 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА - ЦЕНТР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
-- title: Список от 13 декабря 1937г. [Московская область]
-  listtitle: Список лиц - Москва-центр, Московская область
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '298'
-    page_image: v05/17-171-413-298.jpg
+- pageintom: '298'
+  image: v05/17-171-413-298.jpg
+  sublists:
+  - sublid: '292'
     persons:
     - id: '18222'
       num: '1'
@@ -492,8 +488,10 @@ sublists:
     - id: '18243'
       num: '22'
       name: ПЕШКОВ Иван Васильевич
-  - pageintom: '299'
-    page_image: v05/17-171-413-299.jpg
+- pageintom: '299'
+  image: v05/17-171-413-299.jpg
+  sublists:
+  - sublid: '292'
     persons:
     - id: '18244'
       num: '23'
@@ -556,8 +554,10 @@ sublists:
     - id: '18259'
       num: '38'
       name: ЯКОВЛЕВ Сергей Владимирович
-  - pageintom: '300'
-    page_image: v05/17-171-413-300.jpg
+- pageintom: '300'
+  image: v05/17-171-413-300.jpg
+  sublists:
+  - sublid: '292'
     persons:
     - id: '18260'
       num: '1'

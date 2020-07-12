@@ -14,19 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '338'
-  image: v02/17-171-410-338.jpg
-- pageintom: '339'
-  image: v02/17-171-410-339.jpg
-- pageintom: '340'
-  image: v02/17-171-410-340.jpg
-- pageintom: '341'
-  image: v02/17-171-410-341.jpg
-- pageintom: '342'
-  image: v02/17-171-410-342.jpg
-- pageintom: '343'
-  image: v02/17-171-410-343.jpg
 sublists:
 - title: Список от 31 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -40,9 +27,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '340'
-    page_image: v02/17-171-410-340.jpg
+pages:
+- pageintom: '338'
+  image: v02/17-171-410-338.jpg
+  sublists: []
+- pageintom: '339'
+  image: v02/17-171-410-339.jpg
+  sublists: []
+- pageintom: '340'
+  image: v02/17-171-410-340.jpg
+  sublists:
+  - sublid: '52'
     persons:
     - id: '7496'
       num: '1'
@@ -144,8 +139,10 @@ sublists:
       num: '24'
       name: КАРПЮК Иван Николаевич
       spravka: true
-  - pageintom: '341'
-    page_image: v02/17-171-410-341.jpg
+- pageintom: '341'
+  image: v02/17-171-410-341.jpg
+  sublists:
+  - sublid: '52'
     persons:
     - id: '7520'
       num: '25'
@@ -264,8 +261,10 @@ sublists:
       num: '53'
       name: СКРОБОТОВ Владимир Антонович
       spravka: true
-  - pageintom: '342'
-    page_image: v02/17-171-410-342.jpg
+- pageintom: '342'
+  image: v02/17-171-410-342.jpg
+  sublists:
+  - sublid: '52'
     persons:
     - id: '7549'
       num: '54'
@@ -307,8 +306,10 @@ sublists:
       num: '63'
       name: ШИЛИН Кузьма Григорьевич
       spravka: true
-  - pageintom: '343'
-    page_image: v02/17-171-410-343.jpg
+- pageintom: '343'
+  image: v02/17-171-410-343.jpg
+  sublists:
+  - sublid: '52'
     persons:
     - id: '7559'
       num: '1'

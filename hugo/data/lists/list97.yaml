@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   voroshilov: true
-pages:
-- pageintom: '165'
-  image: v04/17-171-412-165.jpg
-- pageintom: '166'
-  image: v04/17-171-412-166.jpg
-- pageintom: '167'
-  image: v04/17-171-412-167.jpg
-- pageintom: '168'
-  image: v04/17-171-412-168.jpg
-- pageintom: '169'
-  image: v04/17-171-412-169.jpg
-- pageintom: '170'
-  image: v04/17-171-412-170.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Ивановская область]
   listtitle: Список лиц - Ивановская обл.
@@ -37,9 +24,17 @@ sublists:
   - 19
   group_ids:
   - 0
-  pages:
-  - pageintom: '167'
-    page_image: v04/17-171-412-167.jpg
+pages:
+- pageintom: '165'
+  image: v04/17-171-412-165.jpg
+  sublists: []
+- pageintom: '166'
+  image: v04/17-171-412-166.jpg
+  sublists: []
+- pageintom: '167'
+  image: v04/17-171-412-167.jpg
+  sublists:
+  - sublid: '67'
     persons:
     - id: '12538'
       num: '1'
@@ -142,8 +137,10 @@ sublists:
     - id: '12563'
       num: '26'
       name: КОРОЛЕВ Василий Федорович
-  - pageintom: '168'
-    page_image: v04/17-171-412-168.jpg
+- pageintom: '168'
+  image: v04/17-171-412-168.jpg
+  sublists:
+  - sublid: '67'
     persons:
     - id: '12564'
       num: '27'
@@ -248,8 +245,10 @@ sublists:
       num: '54'
       name: ПОЛОВНЕВ Николай Павлович
       spravka: true
-  - pageintom: '169'
-    page_image: v04/17-171-412-169.jpg
+- pageintom: '169'
+  image: v04/17-171-412-169.jpg
+  sublists:
+  - sublid: '67'
     persons:
     - id: '12592'
       num: '55'
@@ -360,8 +359,10 @@ sublists:
       num: '84'
       name: ЮРИСОВ Абрам Михайлович
       spravka: true
-  - pageintom: '170'
-    page_image: v04/17-171-412-170.jpg
+- pageintom: '170'
+  image: v04/17-171-412-170.jpg
+  sublists:
+  - sublid: '67'
     persons:
     - id: '12622'
       num: '1'

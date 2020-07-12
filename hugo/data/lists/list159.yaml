@@ -11,19 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '32'
-  image: v09/17-171-417-032.jpg
-- pageintom: '33'
-  image: v09/17-171-417-033.jpg
-- pageintom: '34'
-  image: v09/17-171-417-034.jpg
-- pageintom: '35'
-  image: v09/17-171-417-035.jpg
-- pageintom: '36'
-  image: v09/17-171-417-036.jpg
-- pageintom: '37'
-  image: v09/17-171-417-037.jpg
 sublists:
 - title: Список от 10.VI.38г. [Украинская ССР]
   listtitle: Список лиц - Украинская ССР
@@ -39,9 +26,17 @@ sublists:
   - 55
   group_ids:
   - 0
-  pages:
-  - pageintom: '34'
-    page_image: v09/17-171-417-034.jpg
+pages:
+- pageintom: '32'
+  image: v09/17-171-417-032.jpg
+  sublists: []
+- pageintom: '33'
+  image: v09/17-171-417-033.jpg
+  sublists: []
+- pageintom: '34'
+  image: v09/17-171-417-034.jpg
+  sublists:
+  - sublid: '101'
     persons:
     - id: '33675'
       num: '1'
@@ -103,8 +98,10 @@ sublists:
     - id: '33690'
       num: '16'
       name: ЕРМОЛИН Александр Вуколович
-  - pageintom: '35'
-    page_image: v09/17-171-417-035.jpg
+- pageintom: '35'
+  image: v09/17-171-417-035.jpg
+  sublists:
+  - sublid: '101'
     persons:
     - id: '33691'
       num: '17'
@@ -214,8 +211,10 @@ sublists:
       num: '45'
       name: ФЕЛЕНКОВСКИЙ Владимир Иосифович
       spravka: true
-  - pageintom: '36'
-    page_image: v09/17-171-417-036.jpg
+- pageintom: '36'
+  image: v09/17-171-417-036.jpg
+  sublists:
+  - sublid: '101'
     persons:
     - id: '33720'
       num: '46'
@@ -247,8 +246,10 @@ sublists:
       num: '53'
       name: ШИШКО Иван Афанасьевич
       spravka: true
-  - pageintom: '37'
-    page_image: v09/17-171-417-037.jpg
+- pageintom: '37'
+  image: v09/17-171-417-037.jpg
+  sublists:
+  - sublid: '101'
     persons:
     - id: '33728'
       num: '1'

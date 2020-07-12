@@ -14,19 +14,6 @@ signs:
   kaganovic: true
   voroshilov: true
   kosior: true
-pages:
-- pageintom: '249'
-  image: v02/17-171-410-249.jpg
-- pageintom: '250'
-  image: v02/17-171-410-250.jpg
-- pageintom: '251'
-  image: v02/17-171-410-251.jpg
-- pageintom: '252'
-  image: v02/17-171-410-252.jpg
-- pageintom: '253'
-  image: v02/17-171-410-253.jpg
-- pageintom: '254'
-  image: v02/17-171-410-254.jpg
 sublists:
 - title: Список от 20 августа 1937 г. [Ленинградская обл.]
   listtitle: 'Список лиц: Ленинградская обл.'
@@ -40,9 +27,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '251'
-    page_image: v02/17-171-410-251.jpg
+pages:
+- pageintom: '249'
+  image: v02/17-171-410-249.jpg
+  sublists: []
+- pageintom: '250'
+  image: v02/17-171-410-250.jpg
+  sublists: []
+- pageintom: '251'
+  image: v02/17-171-410-251.jpg
+  sublists:
+  - sublid: '47'
     persons:
     - id: '6141'
       num: '1'
@@ -150,8 +145,10 @@ sublists:
       num: '26'
       name: КЛЯМЕРОВ Анатолий Павлович
       spravka: true
-  - pageintom: '252'
-    page_image: v02/17-171-410-252.jpg
+- pageintom: '252'
+  image: v02/17-171-410-252.jpg
+  sublists:
+  - sublid: '47'
     persons:
     - id: '6167'
       num: '27'
@@ -273,8 +270,10 @@ sublists:
       num: '56'
       name: САФРОНОВ Сергей Васильевич
       spravka: true
-  - pageintom: '253'
-    page_image: v02/17-171-410-253.jpg
+- pageintom: '253'
+  image: v02/17-171-410-253.jpg
+  sublists:
+  - sublid: '47'
     persons:
     - id: '6197'
       num: '57'
@@ -324,8 +323,10 @@ sublists:
       num: '68'
       name: ЮШКОВ Борис Владимирович
       spravka: true
-  - pageintom: '254'
-    page_image: v02/17-171-410-254.jpg
+- pageintom: '254'
+  image: v02/17-171-410-254.jpg
+  sublists:
+  - sublid: '47'
     persons:
     - id: '6209'
       num: '1'

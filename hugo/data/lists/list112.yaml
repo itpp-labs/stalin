@@ -13,23 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '30'
-  image: v05/17-171-413-030.jpg
-- pageintom: '31'
-  image: v05/17-171-413-031.jpg
-- pageintom: '32'
-  image: v05/17-171-413-032.jpg
-- pageintom: '33'
-  image: v05/17-171-413-033.jpg
-- pageintom: '34'
-  image: v05/17-171-413-034.jpg
-- pageintom: '35'
-  image: v05/17-171-413-035.jpg
-- pageintom: '36'
-  image: v05/17-171-413-036.jpg
-- pageintom: '37'
-  image: v05/17-171-413-037.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Орджоникидзевский край]
   listtitle: Список лиц - Орджоникидзевский край, Ростов н/Д - ж.д.им.Ворошилова
@@ -43,9 +26,29 @@ sublists:
   - 22
   group_ids:
   - 0
-  pages:
-  - pageintom: '32'
-    page_image: v05/17-171-413-032.jpg
+- title: Список от 22 ноября 1937г. [Ростов н/Д.-ж.д.им.Ворошилова]
+  listtitle: Список лиц - Орджоникидзевский край, Ростов н/Д - ж.д.им.Ворошилова
+  sublisttitle: Ростов н/Д.-ж.д.им.Ворошилова
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 55
+  geosub_ids:
+  - 97
+  group_ids:
+  - 13
+pages:
+- pageintom: '30'
+  image: v05/17-171-413-030.jpg
+  sublists: []
+- pageintom: '31'
+  image: v05/17-171-413-031.jpg
+  sublists: []
+- pageintom: '32'
+  image: v05/17-171-413-032.jpg
+  sublists:
+  - sublid: '255'
     persons:
     - id: '14534'
       num: '1'
@@ -124,8 +127,10 @@ sublists:
     - id: '14555'
       num: '22'
       name: ГОГУЕВ Ибрагим Муссаевич
-  - pageintom: '33'
-    page_image: v05/17-171-413-033.jpg
+- pageintom: '33'
+  image: v05/17-171-413-033.jpg
+  sublists:
+  - sublid: '255'
     persons:
     - id: '14556'
       num: '23'
@@ -222,8 +227,10 @@ sublists:
       num: '51'
       name: ПУХАЛЬСКИЙ-НАЗАРОВ Юрий Михайлович
       spravka: true
-  - pageintom: '34'
-    page_image: v05/17-171-413-034.jpg
+- pageintom: '34'
+  image: v05/17-171-413-034.jpg
+  sublists:
+  - sublid: '255'
     persons:
     - id: '14585'
       num: '52'
@@ -317,8 +324,10 @@ sublists:
       num: '79'
       name: ЯЩЕНКО Филипп Миронович
       spravka: true
-  - pageintom: '35'
-    page_image: v05/17-171-413-035.jpg
+- pageintom: '35'
+  image: v05/17-171-413-035.jpg
+  sublists:
+  - sublid: '255'
     persons:
     - id: '14613'
       num: '1'
@@ -338,21 +347,10 @@ sublists:
     - id: '14617'
       num: '5'
       name: ЮНАЛИЕВА Афук (Айшет) Салеховна
-- title: Список от 22 ноября 1937г. [Ростов н/Д.-ж.д.им.Ворошилова]
-  listtitle: Список лиц - Орджоникидзевский край, Ростов н/Д - ж.д.им.Ворошилова
-  sublisttitle: Ростов н/Д.-ж.д.им.Ворошилова
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 55
-  geosub_ids:
-  - 97
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '36'
-    page_image: v05/17-171-413-036.jpg
+- pageintom: '36'
+  image: v05/17-171-413-036.jpg
+  sublists:
+  - sublid: '256'
     persons:
     - id: '14618'
       num: '1'
@@ -400,8 +398,10 @@ sublists:
       num: '11'
       name: ЯРОШЕВСКИЙ Дмитрий Андреевич
       spravka: true
-  - pageintom: '37'
-    page_image: v05/17-171-413-037.jpg
+- pageintom: '37'
+  image: v05/17-171-413-037.jpg
+  sublists:
+  - sublid: '256'
     persons:
     - id: '14629'
       num: '1'

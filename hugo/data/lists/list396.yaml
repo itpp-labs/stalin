@@ -13,27 +13,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '112'
-  image: v11/17-171-419-112.jpg
-- pageintom: '113'
-  image: v11/17-171-419-113.jpg
-- pageintom: '114'
-  image: v11/17-171-419-114.jpg
-- pageintom: '115'
-  image: v11/17-171-419-115.jpg
-- pageintom: '116'
-  image: v11/17-171-419-116.jpg
-- pageintom: '117'
-  image: v11/17-171-419-117.jpg
-- pageintom: '118'
-  image: v11/17-171-419-118.jpg
-- pageintom: '119'
-  image: v11/17-171-419-119.jpg
-- pageintom: '120'
-  image: v11/17-171-419-120.jpg
-- pageintom: '121'
-  image: v11/17-171-419-121.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Воронежская область]
   listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
@@ -48,9 +27,43 @@ sublists:
   - 35
   group_ids:
   - 0
-  pages:
-  - pageintom: '114'
-    page_image: v11/17-171-419-114.jpg
+- title: Список от 12 сентября 1938г. [г.Воронеж-Юго-Вост.ж.д.]
+  listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
+    - Моск.-Донбасская ж.д.
+  sublisttitle: г.Воронеж-Юго-Вост.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 25
+  geosub_ids:
+  - 130
+  group_ids:
+  - 13
+- title: Список от 12 сентября 1938г. [г.Воронеж.-Моск.Донбас.ж.д.]
+  listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
+    - Моск.-Донбасская ж.д.
+  sublisttitle: г.Воронеж.-Моск.Донбас.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 25
+  geosub_ids:
+  - 129
+  group_ids:
+  - 13
+pages:
+- pageintom: '112'
+  image: v11/17-171-419-112.jpg
+  sublists: []
+- pageintom: '113'
+  image: v11/17-171-419-113.jpg
+  sublists: []
+- pageintom: '114'
+  image: v11/17-171-419-114.jpg
+  sublists:
+  - sublid: '627'
     persons:
     - id: '42245'
       num: '1'
@@ -133,8 +146,10 @@ sublists:
       num: '20'
       name: КОМАРОВ Александр Александрович
       spravka: true
-  - pageintom: '115'
-    page_image: v11/17-171-419-115.jpg
+- pageintom: '115'
+  image: v11/17-171-419-115.jpg
+  sublists:
+  - sublid: '627'
     persons:
     - id: '42265'
       num: '21'
@@ -248,8 +263,10 @@ sublists:
       num: '48'
       name: СУРАТ Яков Ефимович
       spravka: true
-  - pageintom: '116'
-    page_image: v11/17-171-419-116.jpg
+- pageintom: '116'
+  image: v11/17-171-419-116.jpg
+  sublists:
+  - sublid: '627'
     persons:
     - id: '42293'
       num: '49'
@@ -303,8 +320,10 @@ sublists:
       num: '61'
       name: ЯМЧИНОВ Виктор Константинович
       spravka: true
-  - pageintom: '117'
-    page_image: v11/17-171-419-117.jpg
+- pageintom: '117'
+  image: v11/17-171-419-117.jpg
+  sublists:
+  - sublid: '627'
     persons:
     - id: '42306'
       num: '1'
@@ -395,8 +414,10 @@ sublists:
       num: '22'
       name: ТОРОХОВ Демьян Васильевич
       spravka: true
-  - pageintom: '118'
-    page_image: v11/17-171-419-118.jpg
+- pageintom: '118'
+  image: v11/17-171-419-118.jpg
+  sublists:
+  - sublid: '627'
     persons:
     - id: '42328'
       num: '23'
@@ -414,22 +435,10 @@ sublists:
       num: '26'
       name: ЮРАСОВ Георгий Иванович
       spravka: true
-- title: Список от 12 сентября 1938г. [г.Воронеж-Юго-Вост.ж.д.]
-  listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
-    - Моск.-Донбасская ж.д.
-  sublisttitle: г.Воронеж-Юго-Вост.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 25
-  geosub_ids:
-  - 130
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '119'
-    page_image: v11/17-171-419-119.jpg
+- pageintom: '119'
+  image: v11/17-171-419-119.jpg
+  sublists:
+  - sublid: '628'
     persons:
     - id: '42332'
       num: '1'
@@ -509,8 +518,10 @@ sublists:
       num: '19'
       name: ЧЕРЕПОВ Василий Иванович
       spravka: true
-  - pageintom: '120'
-    page_image: v11/17-171-419-120.jpg
+- pageintom: '120'
+  image: v11/17-171-419-120.jpg
+  sublists:
+  - sublid: '628'
     persons:
     - id: '42351'
       num: '1'
@@ -565,22 +576,10 @@ sublists:
       num: '13'
       name: ФЕДОРОВ Яков Иванович
       spravka: true
-- title: Список от 12 сентября 1938г. [г.Воронеж.-Моск.Донбас.ж.д.]
-  listtitle: Список лиц - Воронежская область,г.Воронеж - Юго-Восточная ж.д.,г.Воронеж
-    - Моск.-Донбасская ж.д.
-  sublisttitle: г.Воронеж.-Моск.Донбас.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 25
-  geosub_ids:
-  - 129
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '121'
-    page_image: v11/17-171-419-121.jpg
+- pageintom: '121'
+  image: v11/17-171-419-121.jpg
+  sublists:
+  - sublid: '629'
     persons:
     - id: '42364'
       num: '1'

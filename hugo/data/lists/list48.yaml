@@ -11,21 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '109'
-  image: v02/17-171-410-109.jpg
-- pageintom: '110'
-  image: v02/17-171-410-110.jpg
-- pageintom: '111'
-  image: v02/17-171-410-111.jpg
-- pageintom: '112'
-  image: v02/17-171-410-112.jpg
-- pageintom: '113'
-  image: v02/17-171-410-113.jpg
-- pageintom: '114'
-  image: v02/17-171-410-114.jpg
-- pageintom: '115'
-  image: v02/17-171-410-115.jpg
 sublists:
 - title: Список от 25 июля 1937 г. [Москва-центр]
   listtitle: 'Список лиц: Москва-центр'
@@ -39,9 +24,17 @@ sublists:
   - 1
   group_ids:
   - 2
-  pages:
-  - pageintom: '111'
-    page_image: v02/17-171-410-111.jpg
+pages:
+- pageintom: '109'
+  image: v02/17-171-410-109.jpg
+  sublists: []
+- pageintom: '110'
+  image: v02/17-171-410-110.jpg
+  sublists: []
+- pageintom: '111'
+  image: v02/17-171-410-111.jpg
+  sublists:
+  - sublid: '36'
     persons:
     - id: '4618'
       num: '1'
@@ -64,3 +57,15 @@ sublists:
       name: МУССУРИ Николай Степанович
       gb_spravka: true
       subtitle1: <p align="right">2-я категория.
+- pageintom: '112'
+  image: v02/17-171-410-112.jpg
+  sublists: []
+- pageintom: '113'
+  image: v02/17-171-410-113.jpg
+  sublists: []
+- pageintom: '114'
+  image: v02/17-171-410-114.jpg
+  sublists: []
+- pageintom: '115'
+  image: v02/17-171-410-115.jpg
+  sublists: []

@@ -13,19 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '225'
-  image: v04/17-171-412-225.jpg
-- pageintom: '226'
-  image: v04/17-171-412-226.jpg
-- pageintom: '227'
-  image: v04/17-171-412-227.jpg
-- pageintom: '228'
-  image: v04/17-171-412-228.jpg
-- pageintom: '229'
-  image: v04/17-171-412-229.jpg
-- pageintom: '230'
-  image: v04/17-171-412-230.jpg
 sublists:
 - title: Список от 13 ноября 1937г. [Смоленская область]
   listtitle: Список лиц - Смоленская обл.
@@ -39,9 +26,17 @@ sublists:
   - 93
   group_ids:
   - 0
-  pages:
-  - pageintom: '227'
-    page_image: v04/17-171-412-227.jpg
+pages:
+- pageintom: '225'
+  image: v04/17-171-412-225.jpg
+  sublists: []
+- pageintom: '226'
+  image: v04/17-171-412-226.jpg
+  sublists: []
+- pageintom: '227'
+  image: v04/17-171-412-227.jpg
+  sublists:
+  - sublid: '72'
     persons:
     - id: '13639'
       num: '1'
@@ -124,8 +119,10 @@ sublists:
       num: '21'
       name: КАРПУШИН-ЗОРИН Андрей Леонтьевич
       spravka: true
-  - pageintom: '228'
-    page_image: v04/17-171-412-228.jpg
+- pageintom: '228'
+  image: v04/17-171-412-228.jpg
+  sublists:
+  - sublid: '72'
     persons:
     - id: '13660'
       num: '22'
@@ -232,8 +229,10 @@ sublists:
       num: '49'
       name: СОРОКИН Алексей Андреевич
       spravka: true
-  - pageintom: '229'
-    page_image: v04/17-171-412-229.jpg
+- pageintom: '229'
+  image: v04/17-171-412-229.jpg
+  sublists:
+  - sublid: '72'
     persons:
     - id: '13688'
       num: '50'
@@ -255,8 +254,10 @@ sublists:
       num: '54'
       name: ЯКОВЛЕВ Анатолий Федорович
       spravka: true
-  - pageintom: '230'
-    page_image: v04/17-171-412-230.jpg
+- pageintom: '230'
+  image: v04/17-171-412-230.jpg
+  sublists:
+  - sublid: '72'
     persons:
     - id: '13693'
       num: '1'

@@ -12,31 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '140'
-  image: v10/17-171-418-140.jpg
-- pageintom: '141'
-  image: v10/17-171-418-141.jpg
-- pageintom: '142'
-  image: v10/17-171-418-142.jpg
-- pageintom: '143'
-  image: v10/17-171-418-143.jpg
-- pageintom: '144'
-  image: v10/17-171-418-144.jpg
-- pageintom: '145'
-  image: v10/17-171-418-145.jpg
-- pageintom: '146'
-  image: v10/17-171-418-146.jpg
-- pageintom: '147'
-  image: v10/17-171-418-147.jpg
-- pageintom: '148'
-  image: v10/17-171-418-148.jpg
-- pageintom: '149'
-  image: v10/17-171-418-149.jpg
-- pageintom: '150'
-  image: v10/17-171-418-150.jpg
-- pageintom: '151'
-  image: v10/17-171-418-151.jpg
 sublists:
 - title: Список от 12 сентября 1938г. [Татарская АССР]
   listtitle: Список лиц - Татарская АССР
@@ -50,9 +25,17 @@ sublists:
   - 29
   group_ids:
   - 0
-  pages:
-  - pageintom: '142'
-    page_image: v10/17-171-418-142.jpg
+pages:
+- pageintom: '140'
+  image: v10/17-171-418-140.jpg
+  sublists: []
+- pageintom: '141'
+  image: v10/17-171-418-141.jpg
+  sublists: []
+- pageintom: '142'
+  image: v10/17-171-418-142.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39172'
       num: '1'
@@ -139,8 +122,10 @@ sublists:
       num: '21'
       name: БИКТАШЕВ Билял Биктемирович
       spravka: true
-  - pageintom: '143'
-    page_image: v10/17-171-418-143.jpg
+- pageintom: '143'
+  image: v10/17-171-418-143.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39193'
       num: '22'
@@ -246,8 +231,10 @@ sublists:
       num: '48'
       name: ГИРФАНОВ Сагит Гирфанович
       spravka: true
-  - pageintom: '144'
-    page_image: v10/17-171-418-144.jpg
+- pageintom: '144'
+  image: v10/17-171-418-144.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39220'
       num: '49'
@@ -356,8 +343,10 @@ sublists:
       num: '75'
       name: ЗУБКОВ Леонтий Иванович
       spravka: true
-  - pageintom: '145'
-    page_image: v10/17-171-418-145.jpg
+- pageintom: '145'
+  image: v10/17-171-418-145.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39247'
       num: '76'
@@ -467,8 +456,10 @@ sublists:
       num: '102'
       name: ЛЕЖЕПЕКОВ Петр Васильевич
       spravka: true
-  - pageintom: '146'
-    page_image: v10/17-171-418-146.jpg
+- pageintom: '146'
+  image: v10/17-171-418-146.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39274'
       num: '103'
@@ -575,8 +566,10 @@ sublists:
       num: '129'
       name: ПАРАНИН Иван Степанович
       spravka: true
-  - pageintom: '147'
-    page_image: v10/17-171-418-147.jpg
+- pageintom: '147'
+  image: v10/17-171-418-147.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39301'
       num: '130'
@@ -682,8 +675,10 @@ sublists:
       num: '155'
       name: СИДОРОВ Петр Дмитриевич
       spravka: true
-  - pageintom: '148'
-    page_image: v10/17-171-418-148.jpg
+- pageintom: '148'
+  image: v10/17-171-418-148.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39327'
       num: '156'
@@ -788,8 +783,10 @@ sublists:
       num: '181'
       name: ХУСНУТДИНОВ Хабиб Гильманович
       spravka: true
-  - pageintom: '149'
-    page_image: v10/17-171-418-149.jpg
+- pageintom: '149'
+  image: v10/17-171-418-149.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39353'
       num: '182'
@@ -855,8 +852,10 @@ sublists:
       num: '197'
       name: ЯРМУХАМЕТОВ Назип Сулейманович
       spravka: true
-  - pageintom: '150'
-    page_image: v10/17-171-418-150.jpg
+- pageintom: '150'
+  image: v10/17-171-418-150.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39369'
       num: '1'
@@ -941,8 +940,10 @@ sublists:
     - id: '39389'
       num: '21'
       name: МИННИБАЕВ Гали Хазиевич
-  - pageintom: '151'
-    page_image: v10/17-171-418-151.jpg
+- pageintom: '151'
+  image: v10/17-171-418-151.jpg
+  sublists:
+  - sublid: '135'
     persons:
     - id: '39390'
       num: '22'

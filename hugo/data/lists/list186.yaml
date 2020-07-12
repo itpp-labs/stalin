@@ -12,37 +12,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '221'
-  image: v09/17-171-417-221.jpg
-- pageintom: '222'
-  image: v09/17-171-417-222.jpg
-- pageintom: '223'
-  image: v09/17-171-417-223.jpg
-- pageintom: '224'
-  image: v09/17-171-417-224.jpg
-- pageintom: '225'
-  image: v09/17-171-417-225.jpg
-- pageintom: '226'
-  image: v09/17-171-417-226.jpg
-- pageintom: '227'
-  image: v09/17-171-417-227.jpg
-- pageintom: '228'
-  image: v09/17-171-417-228.jpg
-- pageintom: '229'
-  image: v09/17-171-417-229.jpg
-- pageintom: '230'
-  image: v09/17-171-417-230.jpg
-- pageintom: '231'
-  image: v09/17-171-417-231.jpg
-- pageintom: '232'
-  image: v09/17-171-417-232.jpg
-- pageintom: '233'
-  image: v09/17-171-417-233.jpg
-- pageintom: '234'
-  image: v09/17-171-417-234.jpg
-- pageintom: '235'
-  image: v09/17-171-417-235.jpg
 sublists:
 - title: Список от 20.VIII.1938г. [Москва-центр (Список N 1)]
   listtitle: 'Записка Ежова с приложением списка лиц: Москва-центр N 1'
@@ -56,9 +25,20 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '224'
-    page_image: v09/17-171-417-224.jpg
+pages:
+- pageintom: '221'
+  image: v09/17-171-417-221.jpg
+  sublists: []
+- pageintom: '222'
+  image: v09/17-171-417-222.jpg
+  sublists: []
+- pageintom: '223'
+  image: v09/17-171-417-223.jpg
+  sublists: []
+- pageintom: '224'
+  image: v09/17-171-417-224.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '44507'
       num: '1'
@@ -154,8 +134,10 @@ sublists:
       num: '23'
       name: БЕРЕЗНИЦКИЙ Яков Львович
       spravka: true
-  - pageintom: '225'
-    page_image: v09/17-171-417-225.jpg
+- pageintom: '225'
+  image: v09/17-171-417-225.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36223'
       num: '24'
@@ -264,8 +246,10 @@ sublists:
       num: '50'
       name: ВИНОГРАДСКИЙ Николай Павлович
       spravka: true
-  - pageintom: '226'
-    page_image: v09/17-171-417-226.jpg
+- pageintom: '226'
+  image: v09/17-171-417-226.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36250'
       num: '51'
@@ -372,8 +356,10 @@ sublists:
       num: '77'
       name: ДИМАНШТЕЙН Семен Маркович
       spravka: true
-  - pageintom: '227'
-    page_image: v09/17-171-417-227.jpg
+- pageintom: '227'
+  image: v09/17-171-417-227.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36277'
       num: '78'
@@ -483,8 +469,10 @@ sublists:
       num: '104'
       name: ИВАНОВ Василий Герасимович
       spravka: true
-  - pageintom: '228'
-    page_image: v09/17-171-417-228.jpg
+- pageintom: '228'
+  image: v09/17-171-417-228.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36304'
       num: '105'
@@ -595,8 +583,10 @@ sublists:
       num: '131'
       name: КОРНЮШИН Федор Данилович
       spravka: true
-  - pageintom: '229'
-    page_image: v09/17-171-417-229.jpg
+- pageintom: '229'
+  image: v09/17-171-417-229.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36331'
       num: '132'
@@ -708,8 +698,10 @@ sublists:
       num: '158'
       name: ЛИСИЧКИН Дмитрий Алексеевич
       spravka: true
-  - pageintom: '230'
-    page_image: v09/17-171-417-230.jpg
+- pageintom: '230'
+  image: v09/17-171-417-230.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36358'
       num: '159'
@@ -816,8 +808,10 @@ sublists:
       num: '184'
       name: МУХИН Тихон Никифорович
       spravka: true
-  - pageintom: '231'
-    page_image: v09/17-171-417-231.jpg
+- pageintom: '231'
+  image: v09/17-171-417-231.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36384'
       num: '185'
@@ -930,8 +924,10 @@ sublists:
       num: '211'
       name: ПОЗДНЫШЕВ Александр Никитич
       spravka: true
-  - pageintom: '232'
-    page_image: v09/17-171-417-232.jpg
+- pageintom: '232'
+  image: v09/17-171-417-232.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36411'
       num: '212'
@@ -1037,8 +1033,10 @@ sublists:
       num: '237'
       name: РЯБОВ Филипп Филиппович
       spravka: true
-  - pageintom: '233'
-    page_image: v09/17-171-417-233.jpg
+- pageintom: '233'
+  image: v09/17-171-417-233.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36437'
       num: '238'
@@ -1148,8 +1146,10 @@ sublists:
       num: '264'
       name: ТАБАКОВ Зиновий Яковлевич
       spravka: true
-  - pageintom: '234'
-    page_image: v09/17-171-417-234.jpg
+- pageintom: '234'
+  image: v09/17-171-417-234.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36464'
       num: '265'
@@ -1257,8 +1257,10 @@ sublists:
       num: '291'
       name: ЦЫПИН Григорий Евгеньевич
       spravka: true
-  - pageintom: '235'
-    page_image: v09/17-171-417-235.jpg
+- pageintom: '235'
+  image: v09/17-171-417-235.jpg
+  sublists:
+  - sublid: '126'
     persons:
     - id: '36491'
       num: '292'

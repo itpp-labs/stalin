@@ -13,17 +13,6 @@ signs:
   molotov: true
   jdanov: true
   voroshilov: true
-pages:
-- pageintom: '179'
-  image: v07/17-171-415-179.jpg
-- pageintom: '180'
-  image: v07/17-171-415-180.jpg
-- pageintom: '181'
-  image: v07/17-171-415-181.jpg
-- pageintom: '182'
-  image: v07/17-171-415-182.jpg
-- pageintom: '183'
-  image: v07/17-171-415-183.jpg
 sublists:
 - title: Список от 5 марта 1938г. [Москва-центр]
   listtitle: Список лиц - Москва-центр,Московская область
@@ -37,9 +26,41 @@ sublists:
   - 1
   group_ids:
   - 0
-  pages:
-  - pageintom: '181'
-    page_image: v07/17-171-415-181.jpg
+- title: Список от 5 марта 1938г. [Москва-центр (б.сотрудники НКВД)]
+  listtitle: Список лиц - Москва-центр,Московская область
+  sublisttitle: Москва-центр (б.сотрудники НКВД)
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 1
+  group_ids:
+  - 1
+- title: Список от 5 марта 1938г. [Московская область]
+  listtitle: Список лиц - Москва-центр,Московская область
+  sublisttitle: Московская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 49
+  geosub_ids:
+  - 8
+  group_ids:
+  - 0
+pages:
+- pageintom: '179'
+  image: v07/17-171-415-179.jpg
+  sublists: []
+- pageintom: '180'
+  image: v07/17-171-415-180.jpg
+  sublists: []
+- pageintom: '181'
+  image: v07/17-171-415-181.jpg
+  sublists:
+  - sublid: '536'
     persons:
     - id: '27869'
       num: '1'
@@ -96,21 +117,10 @@ sublists:
       num: '13'
       name: ЯНОВ Петр Ильич
       spravka: true
-- title: Список от 5 марта 1938г. [Москва-центр (б.сотрудники НКВД)]
-  listtitle: Список лиц - Москва-центр,Московская область
-  sublisttitle: Москва-центр (б.сотрудники НКВД)
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 1
-  group_ids:
-  - 1
-  pages:
-  - pageintom: '182'
-    page_image: v07/17-171-415-182.jpg
+- pageintom: '182'
+  image: v07/17-171-415-182.jpg
+  sublists:
+  - sublid: '537'
     persons:
     - id: '27882'
       num: '1'
@@ -131,21 +141,10 @@ sublists:
       num: '4'
       name: ПАРТИН Шолом Моисеевич
       spravka: true
-- title: Список от 5 марта 1938г. [Московская область]
-  listtitle: Список лиц - Москва-центр,Московская область
-  sublisttitle: Московская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 49
-  geosub_ids:
-  - 8
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '183'
-    page_image: v07/17-171-415-183.jpg
+- pageintom: '183'
+  image: v07/17-171-415-183.jpg
+  sublists:
+  - sublid: '538'
     persons:
     - id: '27886'
       num: '1'

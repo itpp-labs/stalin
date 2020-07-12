@@ -13,19 +13,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '142'
-  image: v06/17-171-414-142.jpg
-- pageintom: '143'
-  image: v06/17-171-414-143.jpg
-- pageintom: '144'
-  image: v06/17-171-414-144.jpg
-- pageintom: '145'
-  image: v06/17-171-414-145.jpg
-- pageintom: '146'
-  image: v06/17-171-414-146.jpg
-- pageintom: '147'
-  image: v06/17-171-414-147.jpg
 sublists:
 - title: Список от 3 января 1938г. [Свердловская область]
   listtitle: Список лиц - Свердловская,Новосибирская области
@@ -39,9 +26,29 @@ sublists:
   - 11
   group_ids:
   - 0
-  pages:
-  - pageintom: '144'
-    page_image: v06/17-171-414-144.jpg
+- title: Список от 3 января 1938г. [Новосибирская область]
+  listtitle: Список лиц - Свердловская,Новосибирская области
+  sublisttitle: Новосибирская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 50
+  geosub_ids:
+  - 78
+  group_ids:
+  - 0
+pages:
+- pageintom: '142'
+  image: v06/17-171-414-142.jpg
+  sublists: []
+- pageintom: '143'
+  image: v06/17-171-414-143.jpg
+  sublists: []
+- pageintom: '144'
+  image: v06/17-171-414-144.jpg
+  sublists:
+  - sublid: '456'
     persons:
     - id: '21195'
       num: '1'
@@ -104,8 +111,10 @@ sublists:
       num: '15'
       name: ЧЕРЕПАНОВ Александр Андреевич
       spravka: true
-  - pageintom: '145'
-    page_image: v06/17-171-414-145.jpg
+- pageintom: '145'
+  image: v06/17-171-414-145.jpg
+  sublists:
+  - sublid: '456'
     persons:
     - id: '21210'
       num: '1'
@@ -117,21 +126,10 @@ sublists:
       num: '2'
       name: ЮРКИН Алексей Дмитриевич
       spravka: true
-- title: Список от 3 января 1938г. [Новосибирская область]
-  listtitle: Список лиц - Свердловская,Новосибирская области
-  sublisttitle: Новосибирская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 50
-  geosub_ids:
-  - 78
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '146'
-    page_image: v06/17-171-414-146.jpg
+- pageintom: '146'
+  image: v06/17-171-414-146.jpg
+  sublists:
+  - sublid: '457'
     persons:
     - id: '21212'
       num: '1'
@@ -223,8 +221,10 @@ sublists:
     - id: '21235'
       num: '24'
       name: ЯРСС Ильмар Иванович
-  - pageintom: '147'
-    page_image: v06/17-171-414-147.jpg
+- pageintom: '147'
+  image: v06/17-171-414-147.jpg
+  sublists:
+  - sublid: '457'
     persons:
     - id: '21236'
       num: '1'

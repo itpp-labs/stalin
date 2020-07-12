@@ -14,29 +14,6 @@ signs:
   jdanov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '244'
-  image: v07/17-171-415-244.jpg
-- pageintom: '245'
-  image: v07/17-171-415-245.jpg
-- pageintom: '246'
-  image: v07/17-171-415-246.jpg
-- pageintom: '247'
-  image: v07/17-171-415-247.jpg
-- pageintom: '248'
-  image: v07/17-171-415-248.jpg
-- pageintom: '249'
-  image: v07/17-171-415-249.jpg
-- pageintom: '250'
-  image: v07/17-171-415-250.jpg
-- pageintom: '251'
-  image: v07/17-171-415-251.jpg
-- pageintom: '252'
-  image: v07/17-171-415-252.jpg
-- pageintom: '253'
-  image: v07/17-171-415-253.jpg
-- pageintom: '254'
-  image: v07/17-171-415-254.jpg
 sublists:
 - title: Список от 28 марта 1938г. [Новосибирская область]
   listtitle: Список лиц - Новосибирская область
@@ -51,9 +28,17 @@ sublists:
   group_ids:
   - 0
   - 2
-  pages:
-  - pageintom: '246'
-    page_image: v07/17-171-415-246.jpg
+pages:
+- pageintom: '244'
+  image: v07/17-171-415-244.jpg
+  sublists: []
+- pageintom: '245'
+  image: v07/17-171-415-245.jpg
+  sublists: []
+- pageintom: '246'
+  image: v07/17-171-415-246.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28742'
       num: '1'
@@ -124,8 +109,10 @@ sublists:
     - id: '28762'
       num: '21'
       name: ГОВОРОВ Александр Алексеевич
-  - pageintom: '247'
-    page_image: v07/17-171-415-247.jpg
+- pageintom: '247'
+  image: v07/17-171-415-247.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28763'
       num: '22'
@@ -224,8 +211,10 @@ sublists:
     - id: '28791'
       num: '50'
       name: КАЛГАНОВ Николай Васильевич
-  - pageintom: '248'
-    page_image: v07/17-171-415-248.jpg
+- pageintom: '248'
+  image: v07/17-171-415-248.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28792'
       num: '51'
@@ -322,8 +311,10 @@ sublists:
     - id: '28820'
       num: '79'
       name: МОТОВИЛОВ Василий Васильевич
-  - pageintom: '249'
-    page_image: v07/17-171-415-249.jpg
+- pageintom: '249'
+  image: v07/17-171-415-249.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28821'
       num: '80'
@@ -422,8 +413,10 @@ sublists:
       num: '108'
       name: СМИРНОВ Иван Алексеевич
       spravka: true
-  - pageintom: '250'
-    page_image: v07/17-171-415-250.jpg
+- pageintom: '250'
+  image: v07/17-171-415-250.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28850'
       num: '109'
@@ -515,8 +508,10 @@ sublists:
       num: '136'
       name: ЯНЦЕНЕЦКИЙ Александр Иосифович
       spravka: true
-  - pageintom: '251'
-    page_image: v07/17-171-415-251.jpg
+- pageintom: '251'
+  image: v07/17-171-415-251.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28878'
       num: '1'
@@ -525,8 +520,13 @@ sublists:
       spravka: true
       subtitle1: <p align="center"><u>НОВОСИБИРСКАЯ ОБЛАСТЬ</u><br />(иностранные
         подданные)</p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
-  - pageintom: '253'
-    page_image: v07/17-171-415-253.jpg
+- pageintom: '252'
+  image: v07/17-171-415-252.jpg
+  sublists: []
+- pageintom: '253'
+  image: v07/17-171-415-253.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28879'
       num: '1'
@@ -603,8 +603,10 @@ sublists:
     - id: '28899'
       num: '21'
       name: ТЯЖЕЛОВ Николай Иннокентьевич
-  - pageintom: '254'
-    page_image: v07/17-171-415-254.jpg
+- pageintom: '254'
+  image: v07/17-171-415-254.jpg
+  sublists:
+  - sublid: '501'
     persons:
     - id: '28900'
       num: '22'

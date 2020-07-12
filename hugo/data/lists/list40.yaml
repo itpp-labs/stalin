@@ -11,13 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '46'
-  image: v02/17-171-410-046.jpg
-- pageintom: '47'
-  image: v02/17-171-410-047.jpg
-- pageintom: '48'
-  image: v02/17-171-410-048.jpg
 sublists:
 - title: Список от 10 июля 1937 г. [Калининская обл.]
   listtitle: 'Список лиц: Калининская обл.'
@@ -31,9 +24,17 @@ sublists:
   - 42
   group_ids:
   - 0
-  pages:
-  - pageintom: '48'
-    page_image: v02/17-171-410-048.jpg
+pages:
+- pageintom: '46'
+  image: v02/17-171-410-046.jpg
+  sublists: []
+- pageintom: '47'
+  image: v02/17-171-410-047.jpg
+  sublists: []
+- pageintom: '48'
+  image: v02/17-171-410-048.jpg
+  sublists:
+  - sublid: '31'
     persons:
     - id: '3871'
       num: '1'

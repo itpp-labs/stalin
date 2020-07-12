@@ -14,27 +14,6 @@ signs:
   molotov: true
   jdanov: true
   kaganovic: true
-pages:
-- pageintom: '92'
-  image: v08/17-171-416-092.jpg
-- pageintom: '93'
-  image: v08/17-171-416-093.jpg
-- pageintom: '94'
-  image: v08/17-171-416-094.jpg
-- pageintom: '95'
-  image: v08/17-171-416-095.jpg
-- pageintom: '96'
-  image: v08/17-171-416-096.jpg
-- pageintom: '97'
-  image: v08/17-171-416-097.jpg
-- pageintom: '98'
-  image: v08/17-171-416-098.jpg
-- pageintom: '99'
-  image: v08/17-171-416-099.jpg
-- pageintom: '100'
-  image: v08/17-171-416-100.jpg
-- pageintom: '101'
-  image: v08/17-171-416-101.jpg
 sublists:
 - title: Список от 19 апреля 1938г. [Вологодская область]
   listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
@@ -48,9 +27,53 @@ sublists:
   - 132
   group_ids:
   - 0
-  pages:
-  - pageintom: '94'
-    page_image: v08/17-171-416-094.jpg
+- title: Список от 19 апреля 1938г. [Тамбовская область]
+  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
+  sublisttitle: Тамбовская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 63
+  geosub_ids:
+  - 115
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Тульская область]
+  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
+  sublisttitle: Тульская область
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 66
+  geosub_ids:
+  - 124
+  group_ids:
+  - 0
+- title: Список от 19 апреля 1938г. [Киргизская ССР]
+  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
+  sublisttitle: Киргизская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 16
+  geosub_ids:
+  - 142
+  group_ids:
+  - 0
+pages:
+- pageintom: '92'
+  image: v08/17-171-416-092.jpg
+  sublists: []
+- pageintom: '93'
+  image: v08/17-171-416-093.jpg
+  sublists: []
+- pageintom: '94'
+  image: v08/17-171-416-094.jpg
+  sublists:
+  - sublid: '594'
     persons:
     - id: '30317'
       num: '1'
@@ -122,8 +145,10 @@ sublists:
       num: '17'
       name: ШУМИХИН Иван Иванович
       spravka: true
-  - pageintom: '95'
-    page_image: v08/17-171-416-095.jpg
+- pageintom: '95'
+  image: v08/17-171-416-095.jpg
+  sublists:
+  - sublid: '594'
     persons:
     - id: '30334'
       num: '1'
@@ -139,21 +164,10 @@ sublists:
       num: '3'
       name: ТОМАШЕВСКИЙ Константин Флегонтович
       spravka: true
-- title: Список от 19 апреля 1938г. [Тамбовская область]
-  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
-  sublisttitle: Тамбовская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 63
-  geosub_ids:
-  - 115
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '96'
-    page_image: v08/17-171-416-096.jpg
+- pageintom: '96'
+  image: v08/17-171-416-096.jpg
+  sublists:
+  - sublid: '595'
     persons:
     - id: '30337'
       num: '1'
@@ -240,8 +254,10 @@ sublists:
       num: '21'
       name: ФЕЙГЕЛЬМАН Михаил Ильич
       spravka: true
-  - pageintom: '97'
-    page_image: v08/17-171-416-097.jpg
+- pageintom: '97'
+  image: v08/17-171-416-097.jpg
+  sublists:
+  - sublid: '595'
     persons:
     - id: '30358'
       num: '22'
@@ -259,8 +275,10 @@ sublists:
       num: '25'
       name: ШУГАЕВ Алексей Иванович
       spravka: true
-  - pageintom: '98'
-    page_image: v08/17-171-416-098.jpg
+- pageintom: '98'
+  image: v08/17-171-416-098.jpg
+  sublists:
+  - sublid: '595'
     persons:
     - id: '30362'
       num: '1'
@@ -299,21 +317,10 @@ sublists:
       num: '9'
       name: ЧУШКИНА Валентина Иосифовна
       spravka: true
-- title: Список от 19 апреля 1938г. [Тульская область]
-  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
-  sublisttitle: Тульская область
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 66
-  geosub_ids:
-  - 124
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '99'
-    page_image: v08/17-171-416-099.jpg
+- pageintom: '99'
+  image: v08/17-171-416-099.jpg
+  sublists:
+  - sublid: '596'
     persons:
     - id: '30371'
       num: '1'
@@ -365,8 +372,10 @@ sublists:
     - id: '30385'
       num: '15'
       name: ЦИТОВИЧ Иван Иосифович
-  - pageintom: '100'
-    page_image: v08/17-171-416-100.jpg
+- pageintom: '100'
+  image: v08/17-171-416-100.jpg
+  sublists:
+  - sublid: '596'
     persons:
     - id: '30386'
       num: '1'
@@ -406,21 +415,10 @@ sublists:
       num: '11'
       name: ЧУДАЕВ Василий Владимирович
       spravka: true
-- title: Список от 19 апреля 1938г. [Киргизская ССР]
-  listtitle: Список лиц - Вологодская,Тамбовская,Тульская области,Киргизская ССР
-  sublisttitle: Киргизская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 16
-  geosub_ids:
-  - 142
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '101'
-    page_image: v08/17-171-416-101.jpg
+- pageintom: '101'
+  image: v08/17-171-416-101.jpg
+  sublists:
+  - sublid: '597'
     persons:
     - id: '30397'
       num: '1'

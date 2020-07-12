@@ -11,27 +11,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '239'
-  image: v05/17-171-413-239.jpg
-- pageintom: '240'
-  image: v05/17-171-413-240.jpg
-- pageintom: '241'
-  image: v05/17-171-413-241.jpg
-- pageintom: '242'
-  image: v05/17-171-413-242.jpg
-- pageintom: '243'
-  image: v05/17-171-413-243.jpg
-- pageintom: '244'
-  image: v05/17-171-413-244.jpg
-- pageintom: '245'
-  image: v05/17-171-413-245.jpg
-- pageintom: '246'
-  image: v05/17-171-413-246.jpg
-- pageintom: '247'
-  image: v05/17-171-413-247.jpg
-- pageintom: '248'
-  image: v05/17-171-413-248.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Ленинградская область]
   listtitle: Список лиц - Ленинградская область
@@ -45,9 +24,17 @@ sublists:
   - 44
   group_ids:
   - 0
-  pages:
-  - pageintom: '241'
-    page_image: v05/17-171-413-241.jpg
+pages:
+- pageintom: '239'
+  image: v05/17-171-413-239.jpg
+  sublists: []
+- pageintom: '240'
+  image: v05/17-171-413-240.jpg
+  sublists: []
+- pageintom: '241'
+  image: v05/17-171-413-241.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17413'
       num: '1'
@@ -139,8 +126,10 @@ sublists:
       num: '22'
       name: ВАСИЛЬЕВ Иван Семенович
       spravka: true
-  - pageintom: '242'
-    page_image: v05/17-171-413-242.jpg
+- pageintom: '242'
+  image: v05/17-171-413-242.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17435'
       num: '23'
@@ -252,8 +241,10 @@ sublists:
       num: '51'
       name: ЗАЙДЕС Хаим Юделевич
       spravka: true
-  - pageintom: '243'
-    page_image: v05/17-171-413-243.jpg
+- pageintom: '243'
+  image: v05/17-171-413-243.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17464'
       num: '52'
@@ -379,8 +370,10 @@ sublists:
     - id: '17494'
       num: '82'
       name: ЛЕБЕДЕВ Василий Петрович
-  - pageintom: '244'
-    page_image: v05/17-171-413-244.jpg
+- pageintom: '244'
+  image: v05/17-171-413-244.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17495'
       num: '83'
@@ -499,8 +492,10 @@ sublists:
       num: '112'
       name: ПАШКОВ Георгий Спиридонович
       spravka: true
-  - pageintom: '245'
-    page_image: v05/17-171-413-245.jpg
+- pageintom: '245'
+  image: v05/17-171-413-245.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17525'
       num: '113'
@@ -616,8 +611,10 @@ sublists:
       num: '140'
       name: ТЕР-МАРКАРЬЯНЦ Егише Асцатурович
       spravka: true
-  - pageintom: '246'
-    page_image: v05/17-171-413-246.jpg
+- pageintom: '246'
+  image: v05/17-171-413-246.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17553'
       num: '141'
@@ -727,8 +724,10 @@ sublists:
       num: '168'
       name: ЮНОСОВ Константин Андреевич
       spravka: true
-  - pageintom: '247'
-    page_image: v05/17-171-413-247.jpg
+- pageintom: '247'
+  image: v05/17-171-413-247.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17581'
       num: '1'
@@ -816,8 +815,10 @@ sublists:
       name: ПРЕДЕ Роберт Яковлевич
       pometa_text: (I) латыш
       spravka: true
-  - pageintom: '248'
-    page_image: v05/17-171-413-248.jpg
+- pageintom: '248'
+  image: v05/17-171-413-248.jpg
+  sublists:
+  - sublid: '87'
     persons:
     - id: '17604'
       num: '24'

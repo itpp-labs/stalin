@@ -12,17 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '43'
-  image: v05/17-171-413-043.jpg
-- pageintom: '44'
-  image: v05/17-171-413-044.jpg
-- pageintom: '45'
-  image: v05/17-171-413-045.jpg
-- pageintom: '46'
-  image: v05/17-171-413-046.jpg
-- pageintom: '47'
-  image: v05/17-171-413-047.jpg
 sublists:
 - title: Список от 22 ноября 1937г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР
@@ -36,9 +25,17 @@ sublists:
   - 18
   group_ids:
   - 0
-  pages:
-  - pageintom: '45'
-    page_image: v05/17-171-413-045.jpg
+pages:
+- pageintom: '43'
+  image: v05/17-171-413-043.jpg
+  sublists: []
+- pageintom: '44'
+  image: v05/17-171-413-044.jpg
+  sublists: []
+- pageintom: '45'
+  image: v05/17-171-413-045.jpg
+  sublists:
+  - sublid: '79'
     persons:
     - id: '14703'
       num: '1'
@@ -131,8 +128,10 @@ sublists:
       num: '23'
       name: ЗАХАРОВ Михаил Сергеевич
       spravka: true
-  - pageintom: '46'
-    page_image: v05/17-171-413-046.jpg
+- pageintom: '46'
+  image: v05/17-171-413-046.jpg
+  sublists:
+  - sublid: '79'
     persons:
     - id: '14726'
       num: '24'
@@ -245,8 +244,10 @@ sublists:
       num: '51'
       name: ЯКУПОВ Мухтар
       spravka: true
-  - pageintom: '47'
-    page_image: v05/17-171-413-047.jpg
+- pageintom: '47'
+  image: v05/17-171-413-047.jpg
+  sublists:
+  - sublid: '79'
     persons:
     - id: '14754'
       num: '1'

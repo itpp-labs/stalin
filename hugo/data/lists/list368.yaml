@@ -14,23 +14,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '285'
-  image: v06/17-171-414-285.jpg
-- pageintom: '286'
-  image: v06/17-171-414-286.jpg
-- pageintom: '287'
-  image: v06/17-171-414-287.jpg
-- pageintom: '288'
-  image: v06/17-171-414-288.jpg
-- pageintom: '289'
-  image: v06/17-171-414-289.jpg
-- pageintom: '290'
-  image: v06/17-171-414-290.jpg
-- pageintom: '291'
-  image: v06/17-171-414-291.jpg
-- pageintom: '292'
-  image: v06/17-171-414-292.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [Казахская ССР]
   listtitle: Список лиц - Казахская ССР; Алма-Ата.Турк.-Сибирская ж.д.
@@ -46,9 +29,29 @@ sublists:
   - 74
   group_ids:
   - 0
-  pages:
-  - pageintom: '287'
-    page_image: v06/17-171-414-287.jpg
+- title: Список от 3 февраля 1938г. [Алма-Ата Турк.-Сибирск.ж.д.]
+  listtitle: Список лиц - Казахская ССР; Алма-Ата.Турк.-Сибирская ж.д.
+  sublisttitle: Алма-Ата Турк.-Сибирск.ж.д.
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 8
+  geosub_ids:
+  - 76
+  group_ids:
+  - 13
+pages:
+- pageintom: '285'
+  image: v06/17-171-414-285.jpg
+  sublists: []
+- pageintom: '286'
+  image: v06/17-171-414-286.jpg
+  sublists: []
+- pageintom: '287'
+  image: v06/17-171-414-287.jpg
+  sublists:
+  - sublid: '475'
     persons:
     - id: '22914'
       num: '1'
@@ -128,8 +131,10 @@ sublists:
       num: '19'
       name: БУРКИТБАЕВ Ашир
       spravka: true
-  - pageintom: '288'
-    page_image: v06/17-171-414-288.jpg
+- pageintom: '288'
+  image: v06/17-171-414-288.jpg
+  sublists:
+  - sublid: '475'
     persons:
     - id: '22933'
       num: '20'
@@ -234,8 +239,10 @@ sublists:
       num: '45'
       name: КЕНИГ Генрих Генрихович
       spravka: true
-  - pageintom: '289'
-    page_image: v06/17-171-414-289.jpg
+- pageintom: '289'
+  image: v06/17-171-414-289.jpg
+  sublists:
+  - sublid: '475'
     persons:
     - id: '22959'
       num: '46'
@@ -340,8 +347,10 @@ sublists:
       num: '71'
       name: САФАРБЕКОВ Садыкбек
       spravka: true
-  - pageintom: '290'
-    page_image: v06/17-171-414-290.jpg
+- pageintom: '290'
+  image: v06/17-171-414-290.jpg
+  sublists:
+  - sublid: '475'
     persons:
     - id: '22985'
       num: '72'
@@ -436,21 +445,10 @@ sublists:
       num: '94'
       name: ТЕЛЕГЕНЕВ Ахмет.
       spravka: true
-- title: Список от 3 февраля 1938г. [Алма-Ата Турк.-Сибирск.ж.д.]
-  listtitle: Список лиц - Казахская ССР; Алма-Ата.Турк.-Сибирская ж.д.
-  sublisttitle: Алма-Ата Турк.-Сибирск.ж.д.
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 8
-  geosub_ids:
-  - 76
-  group_ids:
-  - 13
-  pages:
-  - pageintom: '291'
-    page_image: v06/17-171-414-291.jpg
+- pageintom: '291'
+  image: v06/17-171-414-291.jpg
+  sublists:
+  - sublid: '476'
     persons:
     - id: '23008'
       num: '1'
@@ -494,8 +492,10 @@ sublists:
       num: '10'
       name: ЭЛЬБЕРГ Леонид Федорович
       spravka: true
-  - pageintom: '292'
-    page_image: v06/17-171-414-292.jpg
+- pageintom: '292'
+  image: v06/17-171-414-292.jpg
+  sublists:
+  - sublid: '476'
     persons:
     - id: '23018'
       num: '1'

@@ -13,21 +13,6 @@ signs:
   molotov: true
   kaganovic: true
   voroshilov: true
-pages:
-- pageintom: '255'
-  image: v06/17-171-414-255.jpg
-- pageintom: '256'
-  image: v06/17-171-414-256.jpg
-- pageintom: '257'
-  image: v06/17-171-414-257.jpg
-- pageintom: '258'
-  image: v06/17-171-414-258.jpg
-- pageintom: '259'
-  image: v06/17-171-414-259.jpg
-- pageintom: '260'
-  image: v06/17-171-414-260.jpg
-- pageintom: '261'
-  image: v06/17-171-414-261.jpg
 sublists:
 - title: Список от 3 февраля 1938г. [г.Харьков.Южная ж.д.]
   listtitle: Список лиц - г.Харьков.Южная ж.д.
@@ -41,9 +26,17 @@ sublists:
   - 61
   group_ids:
   - 13
-  pages:
-  - pageintom: '257'
-    page_image: v06/17-171-414-257.jpg
+pages:
+- pageintom: '255'
+  image: v06/17-171-414-255.jpg
+  sublists: []
+- pageintom: '256'
+  image: v06/17-171-414-256.jpg
+  sublists: []
+- pageintom: '257'
+  image: v06/17-171-414-257.jpg
+  sublists:
+  - sublid: '415'
     persons:
     - id: '22683'
       num: '1'
@@ -123,8 +116,10 @@ sublists:
     - id: '22705'
       num: '23'
       name: ЗАКРИВИДОРОГА Петр Васильевич
-  - pageintom: '258'
-    page_image: v06/17-171-414-258.jpg
+- pageintom: '258'
+  image: v06/17-171-414-258.jpg
+  sublists:
+  - sublid: '415'
     persons:
     - id: '22706'
       num: '24'
@@ -221,8 +216,10 @@ sublists:
       num: '51'
       name: ПЕРЕЛЫГИН Ферапонт Андреевич
       spravka: true
-  - pageintom: '259'
-    page_image: v06/17-171-414-259.jpg
+- pageintom: '259'
+  image: v06/17-171-414-259.jpg
+  sublists:
+  - sublid: '415'
     persons:
     - id: '22734'
       num: '52'
@@ -323,8 +320,10 @@ sublists:
       num: '80'
       name: ШЕЙНКЕР Шая Абрамович
       spravka: true
-  - pageintom: '260'
-    page_image: v06/17-171-414-260.jpg
+- pageintom: '260'
+  image: v06/17-171-414-260.jpg
+  sublists:
+  - sublid: '415'
     persons:
     - id: '22763'
       num: '81'
@@ -359,8 +358,10 @@ sublists:
       num: '90'
       name: ЯНУСИК Трофим Федорович
       spravka: true
-  - pageintom: '261'
-    page_image: v06/17-171-414-261.jpg
+- pageintom: '261'
+  image: v06/17-171-414-261.jpg
+  sublists:
+  - sublid: '415'
     persons:
     - id: '22773'
       num: '1'

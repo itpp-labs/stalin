@@ -12,19 +12,6 @@ delo:
 signs:
   stalin: true
   molotov: true
-pages:
-- pageintom: '1'
-  image: v09/17-171-417-001.jpg
-- pageintom: '2'
-  image: v09/17-171-417-002.jpg
-- pageintom: '3'
-  image: v09/17-171-417-003.jpg
-- pageintom: '4'
-  image: v09/17-171-417-004.jpg
-- pageintom: '5'
-  image: v09/17-171-417-005.jpg
-- pageintom: '6'
-  image: v09/17-171-417-006.jpg
 sublists:
 - title: Список от 10.VI.38г. [Коми АССР]
   listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
@@ -38,9 +25,41 @@ sublists:
   - 149
   group_ids:
   - 0
-  pages:
-  - pageintom: '3'
-    page_image: v09/17-171-417-003.jpg
+- title: Список от 10.VI.38г. [Кабардино-Балкарская АССР]
+  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
+  sublisttitle: Кабардино-Балкарская АССР
+  kat1: true
+  kat2: true
+  kat3: false
+  geo_ids:
+  - 34
+  geosub_ids:
+  - 62
+  group_ids:
+  - 0
+- title: Список от 10.VI.38г. [Туркменская ССР]
+  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
+  sublisttitle: Туркменская ССР
+  kat1: true
+  kat2: false
+  kat3: false
+  geo_ids:
+  - 73
+  geosub_ids:
+  - 59
+  group_ids:
+  - 0
+pages:
+- pageintom: '1'
+  image: v09/17-171-417-001.jpg
+  sublists: []
+- pageintom: '2'
+  image: v09/17-171-417-002.jpg
+  sublists: []
+- pageintom: '3'
+  image: v09/17-171-417-003.jpg
+  sublists:
+  - sublid: '299'
     persons:
     - id: '33307'
       num: '1'
@@ -104,8 +123,10 @@ sublists:
       num: '16'
       name: ШВАРЦБУРГ Данил Исакович
       spravka: true
-  - pageintom: '4'
-    page_image: v09/17-171-417-004.jpg
+- pageintom: '4'
+  image: v09/17-171-417-004.jpg
+  sublists:
+  - sublid: '299'
     persons:
     - id: '33323'
       num: '1'
@@ -121,21 +142,10 @@ sublists:
       num: '4'
       name: ОПЛЕСНИН Прокопий Павлович
       spravka: true
-- title: Список от 10.VI.38г. [Кабардино-Балкарская АССР]
-  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
-  sublisttitle: Кабардино-Балкарская АССР
-  kat1: true
-  kat2: true
-  kat3: false
-  geo_ids:
-  - 34
-  geosub_ids:
-  - 62
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '5'
-    page_image: v09/17-171-417-005.jpg
+- pageintom: '5'
+  image: v09/17-171-417-005.jpg
+  sublists:
+  - sublid: '300'
     persons:
     - id: '33327'
       num: '1'
@@ -150,21 +160,10 @@ sublists:
       name: ТАБУХОВ Мухажир Адильгериевич
       spravka: true
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
-- title: Список от 10.VI.38г. [Туркменская ССР]
-  listtitle: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР
-  sublisttitle: Туркменская ССР
-  kat1: true
-  kat2: false
-  kat3: false
-  geo_ids:
-  - 73
-  geosub_ids:
-  - 59
-  group_ids:
-  - 0
-  pages:
-  - pageintom: '6'
-    page_image: v09/17-171-417-006.jpg
+- pageintom: '6'
+  image: v09/17-171-417-006.jpg
+  sublists:
+  - sublid: '301'
     persons:
     - id: '33330'
       num: '1'

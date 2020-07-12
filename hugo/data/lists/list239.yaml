@@ -12,19 +12,6 @@ signs:
   stalin: true
   molotov: true
   kaganovic: true
-pages:
-- pageintom: '172'
-  image: v03/17-171-411-172.jpg
-- pageintom: '173'
-  image: v03/17-171-411-173.jpg
-- pageintom: '174'
-  image: v03/17-171-411-174.jpg
-- pageintom: '175'
-  image: v03/17-171-411-175.jpg
-- pageintom: '176'
-  image: v03/17-171-411-176.jpg
-- pageintom: '177'
-  image: v03/17-171-411-177.jpg
 sublists:
 - title: Список от 3 октября 1937г. [Западно-Сибирский край]
   listtitle: 'Список лиц: Западно-Сибирский край'
@@ -38,9 +25,17 @@ sublists:
   - 9
   group_ids:
   - 0
-  pages:
-  - pageintom: '174'
-    page_image: v03/17-171-411-174.jpg
+pages:
+- pageintom: '172'
+  image: v03/17-171-411-172.jpg
+  sublists: []
+- pageintom: '173'
+  image: v03/17-171-411-173.jpg
+  sublists: []
+- pageintom: '174'
+  image: v03/17-171-411-174.jpg
+  sublists:
+  - sublid: '358'
     persons:
     - id: '9631'
       num: '1'
@@ -136,8 +131,10 @@ sublists:
     - id: '9657'
       num: '27'
       name: ЛАВРОВСКИЙ Александр Петрович
-  - pageintom: '175'
-    page_image: v03/17-171-411-175.jpg
+- pageintom: '175'
+  image: v03/17-171-411-175.jpg
+  sublists:
+  - sublid: '358'
     persons:
     - id: '9658'
       num: '28'
@@ -250,8 +247,10 @@ sublists:
       num: '57'
       name: СОЛОДИЛОВ Сергей Васильевич
       spravka: true
-  - pageintom: '176'
-    page_image: v03/17-171-411-176.jpg
+- pageintom: '176'
+  image: v03/17-171-411-176.jpg
+  sublists:
+  - sublid: '358'
     persons:
     - id: '9688'
       num: '58'
@@ -345,8 +344,10 @@ sublists:
       num: '83'
       name: ЯРОШЕК Яков Иосифович
       spravka: true
-  - pageintom: '177'
-    page_image: v03/17-171-411-177.jpg
+- pageintom: '177'
+  image: v03/17-171-411-177.jpg
+  sublists:
+  - sublid: '358'
     persons:
     - id: '9714'
       num: '1'

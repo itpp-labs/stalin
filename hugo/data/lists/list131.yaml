@@ -12,21 +12,6 @@ signs:
   stalin: true
   molotov: true
   jdanov: true
-pages:
-- pageintom: '208'
-  image: v05/17-171-413-208.jpg
-- pageintom: '209'
-  image: v05/17-171-413-209.jpg
-- pageintom: '210'
-  image: v05/17-171-413-210.jpg
-- pageintom: '211'
-  image: v05/17-171-413-211.jpg
-- pageintom: '212'
-  image: v05/17-171-413-212.jpg
-- pageintom: '213'
-  image: v05/17-171-413-213.jpg
-- pageintom: '214'
-  image: v05/17-171-413-214.jpg
 sublists:
 - title: Список от 7 декабря 1937г. [Сталинградская область]
   listtitle: Список лиц - Сталинградская область
@@ -40,9 +25,17 @@ sublists:
   - 15
   group_ids:
   - 0
-  pages:
-  - pageintom: '210'
-    page_image: v05/17-171-413-210.jpg
+pages:
+- pageintom: '208'
+  image: v05/17-171-413-208.jpg
+  sublists: []
+- pageintom: '209'
+  image: v05/17-171-413-209.jpg
+  sublists: []
+- pageintom: '210'
+  image: v05/17-171-413-210.jpg
+  sublists:
+  - sublid: '85'
     persons:
     - id: '17002'
       num: '1'
@@ -117,8 +110,10 @@ sublists:
     - id: '17023'
       num: '22'
       name: ДЕРМИЧЕВ Павел Павлович
-  - pageintom: '211'
-    page_image: v05/17-171-413-211.jpg
+- pageintom: '211'
+  image: v05/17-171-413-211.jpg
+  sublists:
+  - sublid: '85'
     persons:
     - id: '17024'
       num: '23'
@@ -215,8 +210,10 @@ sublists:
     - id: '17052'
       num: '51'
       name: ЛУНИН Андрей Селиверстович
-  - pageintom: '212'
-    page_image: v05/17-171-413-212.jpg
+- pageintom: '212'
+  image: v05/17-171-413-212.jpg
+  sublists:
+  - sublid: '85'
     persons:
     - id: '17053'
       num: '52'
@@ -312,8 +309,10 @@ sublists:
     - id: '17081'
       num: '80'
       name: СУХАРЕВ Александр Павлович
-  - pageintom: '213'
-    page_image: v05/17-171-413-213.jpg
+- pageintom: '213'
+  image: v05/17-171-413-213.jpg
+  sublists:
+  - sublid: '85'
     persons:
     - id: '17082'
       num: '81'
@@ -363,8 +362,10 @@ sublists:
     - id: '17096'
       num: '95'
       name: ЯРЫТЕНКО Дмитрий Андрианович
-  - pageintom: '214'
-    page_image: v05/17-171-413-214.jpg
+- pageintom: '214'
+  image: v05/17-171-413-214.jpg
+  sublists:
+  - sublid: '85'
     persons:
     - id: '17097'
       num: '1'
