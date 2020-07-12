@@ -13,7 +13,7 @@
 </div>
 <div class="pages-preview is-hidden-mobile">
     {{ range $data.pages }}
-    <span><img width="30" src="/disk/pictures/{{ .image }}"/></span>
+    <span><img width="30" src="/disk/pictures-small/{{ .image }}"/></span>
     {{ end }}
 </div>
 <script type="text/javascript">
@@ -51,7 +51,7 @@
     <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}<span></h4>
 
     <div class="page-image page-image-preview is-pulled-right ml-5">
-        <img src="/disk/pictures/{{ .image }}"/>
+        <img src="/disk/pictures-medium/{{ .image }}"/>
     </div>
 
 
