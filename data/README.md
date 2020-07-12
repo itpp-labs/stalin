@@ -9,6 +9,16 @@ Additional changes made on files:
 
   * `vkvs/pictures/`
 
+    * Additionaly, copies of the pictures with smaller sizes are created in the following way:
+
+            sudo apt-get install imagemagick
+            cd hugo/static/disk
+            cp pictures pictures-small -r
+            cp pictures pictures-medium -r
+            find pictures-small/ -iname "*.jpg" | xargs -I{} convert {} -resize 30 {}
+            find pictures-medium/ -iname "*.jpg" | xargs -I{} convert {} -resize 300 {}
+
+
 * Information fixes in persons.csv (see commits history)
 
 # db/

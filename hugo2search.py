@@ -114,15 +114,16 @@ def aggregate_values(array, r2value):
     return res
 
 def any_person(list_data, check_person):
-    def check(subl):
-        return any(
+    return any(
+        any(
             any(
                 check_person(p)
-                for p in page["persons"]
+                for p in s["persons"]
             )
-            for page in subl["pages"]
+            for s in page["sublists"]
         )
-    return any_sublist(list_data, check)
+        for page in list_data["pages"]
+    )
 
 def any_sublist(list_data, check):
     return any(
