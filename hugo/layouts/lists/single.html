@@ -43,7 +43,19 @@
 
 <div id="page-{{ $pageintom }}" class="mt-5 is-clearfix">
 
-    <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}<span></h4>
+    <nav class="level">
+        <div class="level-left">
+            <div class="level-item">
+                <h4>Список от {{ $data.date_ru }}{{ if .title }} [{{ .title}}]{{ end }}<span class="is-size-2">&nbsp;<span></h4>
+            </div>
+        </div>
+        <div class="level-right">
+            <div class="level-item">
+                <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}</span></h4>
+            </div>
+        </div>
+    </nav>
+
 
     <div class="page-image page-image-preview is-pulled-right ml-5">
         <img src="/disk/pictures-medium/{{ .image }}"/>
@@ -63,7 +75,7 @@
         <div class="column primzv-name is-6">
 {{ end }}
 
-            <p id="page-{{ $pageintom }}-num-{{ .num }}{{ if .rowinpage }}-{{ .rowinpage }}{{ end }}"
+            <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
                class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
                 <span class="num-name">{{ if not .primzv }}{{ .num }}. {{ end }}{{ .name | safeHTML }}</span>&nbsp;
 {{ if .pometa_text }}

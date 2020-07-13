@@ -29,7 +29,7 @@ $(document).ready(function(){
 
     on_all_images_loaded(function(){
         // first, start loading images-spiski
-        $('.page-image img[data-src]').each(function(){
+        $(PAGE_IMAGE_SELECTOR).each(function(){
             load_image($(this));
         });
         on_all_images_loaded(function(){
