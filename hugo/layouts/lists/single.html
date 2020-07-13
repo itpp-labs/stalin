@@ -8,7 +8,7 @@
 
 <div class="pages">
 {{ range $data.pages }}
-    <div id="image-{{ .pageintom }}"><img src="/disk/pictures/{{ .image }}"/></div>
+    <div id="image-{{ .pageintom }}"><img data-src="/disk/pictures/{{ .image }}"/></div>
 {{ end }}
 </div>
 <div class="pages-preview is-hidden-mobile">
@@ -28,17 +28,12 @@
      container: ".pages",
      gutter: 5,
      navContainer: ".pages-preview",
-     //     navPosition: "bottom",
      mouseDrag: true,
      navAsThumbnails: true,
      arrowKeys: true,
      controls: false,
-     onInit: function(){
-     }
-     //     controlsPosition: "bottom",
-     //     controlsText: ["Предыдущая страница", "Следующая страница"]
+     lazyload: true,
  });
-
 </script>
 
 
@@ -100,7 +95,7 @@
         {{ end }}
     </div>
     <div class="is-hidden page-image">
-        <img src="/disk/pictures/{{ .image }}"/>
+        <img data-src="/disk/pictures/{{ .image }}"/>
     </div>
 
 </div>

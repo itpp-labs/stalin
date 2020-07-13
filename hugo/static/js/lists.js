@@ -19,9 +19,50 @@ $(document).ready(function(){
     });
 
 
+    var PAGE_IMAGE_SELECTOR = '.page-image img[data-src]';
     $('.page-image').on('click', function() {
-        $page = $(this).parent();
+        var $page = $(this).parent();
         $page.find('.page-image, .page-text').toggleClass('is-hidden');
+        var $img = $page.find(PAGE_IMAGE_SELECTOR);
+        load_image($img);
     });
 
-})
+    on_all_images_loaded(function(){
+        // first, start loading images-spiski
+        $('.page-image img[data-src]').each(function(){
+            load_image($(this));
+        });
+        on_all_images_loaded(function(){
+            // now load the rest images in slider
+            $('.pages img[data-src]').each(function(){
+                load_image($(this));
+            });
+        });
+    });
+});
+
+function load_image($img){
+    $img.attr("src", $img.attr("data-src"));
+}
+
+// https://stackoverflow.com/a/11071687/222675
+function on_all_images_loaded(callback){
+    var imgs = document.images,
+        len = imgs.length,
+        counter = 0;
+
+    [].forEach.call( imgs, function( img ) {
+        if(img.complete)
+            incrementCounter();
+        else
+            img.addEventListener( 'load', incrementCounter, false );
+    } );
+
+    function incrementCounter() {
+        counter++;
+        if ( counter === len ) {
+            callback();
+        }
+    }
+}
+
