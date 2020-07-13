@@ -1,9 +1,10 @@
 id: '25'
 title: Список лиц [представлен НКВД СССР - Бельский] // 16 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '197'
 date: '1937-06-16'
+date_ru: 16.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,120 +30,148 @@ sublists:
 pages:
 - pageintom: '197'
   image: v01/17-171-409-197.jpg
+  title: null
   sublists:
   - sublid: '22'
     persons:
     - id: '2965'
       num: '1'
       name: БОГУСЛАВСКИЙ Михаил Лазаревич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СПИСОК</u>
     - id: '2966'
       num: '2'
       name: БУКШТЕЙН Иосиф Лазаревич
+      rowinpage: '2'
       spravka: true
     - id: '2967'
       num: '3'
       name: БУЛЫГИН Николай Митрофанович
+      rowinpage: '3'
       spravka: true
     - id: '2968'
       num: '4'
       name: БЫХОВСКИЙ Сергей Матвеевич
+      rowinpage: '4'
       spravka: true
     - id: '2969'
       num: '5'
       name: ВИНЕЦКИЙ Игорь Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '5912'
       num: '6'
       name: ВОЛОВИЧ Захар Ильич
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '2971'
       num: '7'
       name: ГАЙ Марк Исаевич
+      rowinpage: '7'
       spravka: true
     - id: '2972'
       num: '8'
       name: ГОЛОВ Григорий Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '2973'
       num: '9'
       name: ГОЛЬДФАРБ Ян Владимирович
+      rowinpage: '9'
       spravka: true
     - id: '2974'
       num: '10'
       name: ГРАЦ Николай Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '2975'
       num: '11'
       name: ИВАНОВ Лаврентий Никифорович
+      rowinpage: '11'
       spravka: true
     - id: '2976'
       num: '12'
       name: ИВАНОВ Лев Александрович
+      rowinpage: '12'
       spravka: true
     - id: '2977'
       num: '13'
       name: ИВАНОВ-МАЛЬЦЕВ Александр Александрович
+      rowinpage: '13'
       spravka: true
     - id: '2978'
       num: '14'
       name: ИЛЬК Бертольд Карлович
+      rowinpage: '14'
       spravka: true
     - id: '2979'
       num: '15'
       name: КОРОТКОВ Михаил Петрович
+      rowinpage: '15'
       spravka: true
     - id: '2980'
       num: '16'
       name: КРИВОШЕЕВ Алексей Мартынович
+      rowinpage: '16'
       spravka: true
     - id: '2981'
       num: '17'
       name: ЛАПИН Василий Константинович
+      rowinpage: '17'
       spravka: true
     - id: '2982'
       num: '18'
       name: ЛУРЬЕ Александр Яковлевич
+      rowinpage: '18'
       spravka: true
     - id: '2983'
       num: '19'
       name: НИВОЛИК Макс Иосифович
+      rowinpage: '19'
       spravka: true
     - id: '2984'
       num: '20'
       name: НИКОЛАЕВСКИЙ Сергей Николаевич
+      rowinpage: '20'
       spravka: true
     - id: '2985'
       num: '21'
       name: ОСТРОВСКИЙ Иосиф Маркович
+      rowinpage: '21'
       spravka: true
     - id: '2986'
       num: '22'
       name: ПАКАЛН Петр Петрович
+      rowinpage: '22'
       spravka: true
     - id: '5925'
       num: '23'
       name: ПАУКЕР Карл Викторович
+      rowinpage: '23'
       doublesexists: true
       spravka: true
     - id: '2988'
       num: '24'
       name: ПУЗИЦКИЙ Сергей Васильевич
+      rowinpage: '24'
       spravka: true
 - pageintom: '198'
   image: v01/17-171-409-198.jpg
+  title: Список лиц (представлен НКВД СССР - Бельский)
   sublists:
   - sublid: '22'
     persons:
     - id: '2989'
       num: '25'
       name: РОЗЕНШЕЙН Александр Яковлевич
+      rowinpage: '1'
       spravka: true
     - id: '5927'
       num: '26'
       name: САВОЛАЙНЕН Иван Михайлович
+      rowinpage: '2'
       striked: true
       underlined: true
       doublesexists: true
@@ -150,29 +179,36 @@ pages:
     - id: '2991'
       num: '27'
       name: СТАНИСЛАВСКИЙ Макс Оскарович
+      rowinpage: '3'
       spravka: true
     - id: '2992'
       num: '28'
       name: ТКАЧЕВ Михаил Львович
+      rowinpage: '4'
       spravka: true
     - id: '2993'
       num: '29'
       name: УМАНСКИЙ Михаил Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '2994'
       num: '30'
       name: ФРЕНКЕЛЬ Яков Иосифович
+      rowinpage: '6'
       spravka: true
     - id: '2995'
       num: '31'
       name: ФРИДЛЯНД Иосиф Соломонович
+      rowinpage: '7'
       spravka: true
     - id: '5933'
       num: '32'
       name: ШАНИН Александр Михайлович
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '2997'
       num: '33'
       name: ЭЙХМАН Альфред Адамович
+      rowinpage: '9'
       spravka: true

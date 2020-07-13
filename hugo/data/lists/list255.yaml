@@ -1,9 +1,10 @@
 id: '255'
 title: Список лиц - г.Ташкент,Ташкентская ж.д. // от 5 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '43'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,118 +30,153 @@ sublists:
 pages:
 - pageintom: '43'
   image: v07/17-171-415-043.jpg
+  title: null
   sublists: []
 - pageintom: '44'
   image: v07/17-171-415-044.jpg
+  title: null
   sublists: []
 - pageintom: '45'
   image: v07/17-171-415-045.jpg
+  title: null
   sublists:
   - sublid: '485'
     persons:
     - id: '26287'
       num: '1'
       name: АБРАМОВ Михаил Игнатьевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>Г.ТАШКЕНТ - ТАШКЕНТСКАЯ ЖЕЛ.ДОРОГА </u></p><p
         align="right"><u>1-я категория.</u>
     - id: '26288'
       num: '2'
       name: БАЛЬ Нил Михайлович
+      rowinpage: '2'
     - id: '26289'
       num: '3'
       name: БЕТЕХТИН Петр Яковлевич
+      rowinpage: '3'
     - id: '26290'
       num: '4'
       name: ВЕНЕЦИАНСКИЙ Михаил Васильевич
+      rowinpage: '4'
     - id: '26291'
       num: '5'
       name: ВЕСЕЛОВ Юрий Александрович
+      rowinpage: '5'
     - id: '26292'
       num: '6'
       name: ГРИГОРЬЕВ Сергей Анисимович
+      rowinpage: '6'
     - id: '26293'
       num: '7'
       name: ДАНИЛОВ Иван Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '26294'
       num: '8'
       name: ДОНГАУЗЕР Михаил Иосифович
+      rowinpage: '8'
     - id: '26295'
       num: '9'
       name: ИСАЕВ Николай Афанасьевич
+      rowinpage: '9'
     - id: '26296'
       num: '10'
       name: ЛУЦКЕВИЧ Андрей Иуллианович
+      rowinpage: '10'
     - id: '26297'
       num: '11'
       name: ЛЫСУХИН Иван Яковлевич
+      rowinpage: '11'
     - id: '26298'
       num: '12'
       name: НЕРЕД Михаил Федорович
+      rowinpage: '12'
     - id: '26299'
       num: '13'
       name: НЕЧАЕВ Александр Николаевич
+      rowinpage: '13'
     - id: '26300'
       num: '14'
       name: ОБРАЗОВ Александр Иванович
+      rowinpage: '14'
     - id: '26301'
       num: '15'
       name: ОКУНЕВ Григорий Ефимович
+      rowinpage: '15'
     - id: '26302'
       num: '16'
       name: ПЕЙСАХОВ Захар Абрамович
+      rowinpage: '16'
     - id: '26303'
       num: '17'
       name: ПОЛЯКОВ Иван Михайлович
+      rowinpage: '17'
     - id: '26304'
       num: '18'
       name: ПРОКОПОВИЧ Павел Николаевич
+      rowinpage: '18'
     - id: '26305'
       num: '19'
       name: РАФАЛЬЗУК Михаил Михайлович
+      rowinpage: '19'
     - id: '26306'
       num: '20'
       name: РОМАНИШИН Дмитрий Фомич
+      rowinpage: '20'
     - id: '26307'
       num: '21'
       name: РОМАХ Прокофий Иванович
+      rowinpage: '21'
     - id: '26308'
       num: '22'
       name: РЫКОВ Николай Иванович
+      rowinpage: '22'
     - id: '26309'
       num: '23'
       name: СЕМЕНОВ Иван Павлович
+      rowinpage: '23'
 - pageintom: '46'
   image: v07/17-171-415-046.jpg
+  title: г.Ташкент,Ташкентская ж.д.
   sublists:
   - sublid: '485'
     persons:
     - id: '26310'
       num: '24'
       name: СИНИЦА Василий Иванович
+      rowinpage: '1'
     - id: '26311'
       num: '25'
       name: СОЛДАТОВ Семен Ильич
+      rowinpage: '2'
     - id: '26312'
       num: '26'
       name: ШМАЛЬ Сергей Львович
+      rowinpage: '3'
     - id: '26313'
       num: '27'
       name: ШОФМАН Иосиф Михайлович
+      rowinpage: '4'
       spravka: true
 - pageintom: '47'
   image: v07/17-171-415-047.jpg
+  title: null
   sublists:
   - sublid: '485'
     persons:
     - id: '26314'
       num: '1'
       name: ГУЗЕН Константин Федорович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>Г.ТАШКЕНТ - ТАШКЕНТСКАЯ ЖЕЛ.ДОРОГА </u></p><p
         align="right"><u>2-ая категория.</u>
     - id: '26315'
       num: '2'
       name: КОНОБИЕВСКИЙ Анатолий Александрович
+      rowinpage: '2'
     - id: '26316'
       num: '3'
       name: ЧЕРНЯВСКИЙ Виктор Агеевич
+      rowinpage: '3'

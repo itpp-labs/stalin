@@ -1,9 +1,10 @@
 id: '13'
 title: Список лиц - Баку // 23 апреля 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '108'
 date: '1937-04-23'
+date_ru: 23.04.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,245 +30,309 @@ sublists:
 pages:
 - pageintom: '108'
   image: v01/17-171-409-108.jpg
+  title: null
   sublists: []
 - pageintom: '109'
   image: v01/17-171-409-109.jpg
+  title: null
   sublists: []
 - pageintom: '110'
   image: v01/17-171-409-110.jpg
+  title: null
   sublists:
   - sublid: '10'
     persons:
     - id: '1753'
       num: '1'
       name: БАГДАСОРОВ Константин Исаевич
+      rowinpage: '1'
       doublesexists: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>БАКУ</u>
     - id: '1754'
       num: '2'
       name: БАГИРОВ Халфали Мамед Багир Оглы
+      rowinpage: '2'
       doublesexists: true
     - id: '1755'
       num: '3'
       name: БАШЛАЕВ Николай Семенович
+      rowinpage: '3'
       doublesexists: true
     - id: '1756'
       num: '4'
       name: БЕЛОКОНЕВ Владимир Дмитриевич
+      rowinpage: '4'
       doublesexists: true
     - id: '1757'
       num: '5'
       name: БОРОВКОВ Яков Федорович
+      rowinpage: '5'
       doublesexists: true
     - id: '1758'
       num: '6'
       name: БЫЧКОВ Борис Николаевич
+      rowinpage: '6'
       doublesexists: true
     - id: '1759'
       num: '7'
       name: ВОЛКОВ Тимофей Степанович
+      rowinpage: '7'
       doublesexists: true
     - id: '1760'
       num: '8'
       name: ВОРОБЬЕВ Александр Андреевич
+      rowinpage: '8'
       doublesexists: true
     - id: '1761'
       num: '9'
       name: ВЫРУБОВА-УНГЕР Евдокия Петровна
+      rowinpage: '9'
       doublesexists: true
     - id: '1762'
       num: '10'
       name: ГАЛОВ Иван Иванович
+      rowinpage: '10'
       doublesexists: true
       spravka: true
     - id: '1763'
       num: '11'
       name: ГАНДЕРИН Петр Николаевич
+      rowinpage: '11'
       doublesexists: true
     - id: '1764'
       num: '12'
       name: ДЕМИН Василий Захарович
+      rowinpage: '12'
       doublesexists: true
     - id: '1765'
       num: '13'
       name: ДОРОНОВ Клементий Илларионович
+      rowinpage: '13'
       doublesexists: true
     - id: '1766'
       num: '14'
       name: ЕРОФЕЕВ Александр Георгиевич
+      rowinpage: '14'
       doublesexists: true
     - id: '1767'
       num: '15'
       name: ЗЕЙЦ Догмара Христиановна
+      rowinpage: '15'
       doublesexists: true
     - id: '1768'
       num: '16'
       name: КАНЕВСКИЙ Петр Самойлович
+      rowinpage: '16'
       doublesexists: true
     - id: '1769'
       num: '17'
       name: КАЩЕЕВ Порфирий Степанович
+      rowinpage: '17'
       doublesexists: true
     - id: '1770'
       num: '18'
       name: КОВАЛЕВ Петр Карпович
+      rowinpage: '18'
       doublesexists: true
     - id: '1771'
       num: '19'
       name: КРЫЛОВ Трифон Владимирович
+      rowinpage: '19'
       doublesexists: true
     - id: '1772'
       num: '20'
       name: КУЗЬМИН Федор Федорович
+      rowinpage: '20'
       doublesexists: true
     - id: '1773'
       num: '21'
       name: КУЛАКОВ Иван Лаврентьевич
+      rowinpage: '21'
       doublesexists: true
     - id: '1774'
       num: '22'
       name: ЛЕВАГИН Семен Федотович
+      rowinpage: '22'
       doublesexists: true
     - id: '1775'
       num: '23'
       name: ЛЕУТКИН Даниил Яковлевич
+      rowinpage: '23'
       doublesexists: true
     - id: '1776'
       num: '24'
       name: МАРУГИН Ксенофонт Иванович
+      rowinpage: '24'
       doublesexists: true
     - id: '1777'
       num: '25'
       name: МОЛЕБНОВ Петр Яковлевич
+      rowinpage: '25'
       doublesexists: true
     - id: '1778'
       num: '26'
       name: ОГАНЕЗОВ Артавазд Вартазарович
+      rowinpage: '26'
       doublesexists: true
 - pageintom: '111'
   image: v01/17-171-409-111.jpg
+  title: Баку
   sublists:
   - sublid: '10'
     persons:
     - id: '1779'
       num: '27'
       name: ПАКИН Григорий Тимофеевич
+      rowinpage: '1'
       doublesexists: true
     - id: '1780'
       num: '28'
       name: ПАРШИН Иван Павлович
+      rowinpage: '2'
       doublesexists: true
     - id: '1781'
       num: '29'
       name: ПЛАТОНОВСКИЙ Иван Федорович
+      rowinpage: '3'
       doublesexists: true
     - id: '1782'
       num: '30'
       name: РАТОВ Николай Архипович
+      rowinpage: '4'
       doublesexists: true
     - id: '1783'
       num: '31'
       name: СЕМЕНИХИН Андрей Яковлевич
+      rowinpage: '5'
       doublesexists: true
     - id: '1784'
       num: '32'
       name: СИМАЧЕВ Андрей Яковлевич
+      rowinpage: '6'
       doublesexists: true
     - id: '1785'
       num: '33'
       name: СЕРГЕЕВ Григорий Михеевич
+      rowinpage: '7'
       doublesexists: true
     - id: '1786'
       num: '34'
       name: СОКОВ Степан Иванович
+      rowinpage: '8'
       doublesexists: true
     - id: '1787'
       num: '35'
       name: СТЕПАНОВ Аким Егорович
+      rowinpage: '9'
       doublesexists: true
     - id: '1788'
       num: '36'
       name: ТОЛКАЧЕВ Александр Андреевич
+      rowinpage: '10'
       doublesexists: true
     - id: '1789'
       num: '37'
       name: ЧАЙНИКОВ Василий Петрович
+      rowinpage: '11'
       doublesexists: true
     - id: '1790'
       num: '38'
       name: ФЕДЧЕНКО Федор Никитович
+      rowinpage: '12'
       doublesexists: true
     - id: '1791'
       num: '39'
       name: ЧЕРНИКОВ Григорий Иванович
+      rowinpage: '13'
       doublesexists: true
 - pageintom: '112'
   image: v01/17-171-409-112.jpg
+  title: null
   sublists:
   - sublid: '10'
     persons:
     - id: '1792'
       num: '1'
       name: БАТМАНОВ Константин Элефторович
+      rowinpage: '1'
       subtitle1: <p align="right"><u>II категория.</u></p><p align="center"><u>БАКУ.</u>
     - id: '1793'
       num: '2'
       name: БИЧАЕВ Александр Григорьевич
+      rowinpage: '2'
     - id: '1794'
       num: '3'
       name: ВАСИЛЬЕВА Агафья Яковлевна
+      rowinpage: '3'
     - id: '1795'
       num: '4'
       name: ДЕНИСОВ Василий Степанович
+      rowinpage: '4'
     - id: '1796'
       num: '5'
       name: ДУДВАЛ Станислав Тадеушович
+      rowinpage: '5'
     - id: '1797'
       num: '6'
       name: ЖУКОВ Иван Андреевич
+      rowinpage: '6'
     - id: '1798'
       num: '7'
       name: ЗАХАРОВА Анна Евдокимовна
+      rowinpage: '7'
     - id: '1799'
       num: '8'
       name: ЛЮКШИНОВ Антон Ефимович
+      rowinpage: '8'
     - id: '1800'
       num: '9'
       name: НУРМАМЕД Заде Мирза Гасан Нурмамед Оглы
+      rowinpage: '9'
     - id: '1801'
       num: '10'
       name: РОШКОВСКИЙ Мечислав Касперович
+      rowinpage: '10'
     - id: '1802'
       num: '11'
       name: СЛАВИНА Полина Львовна
+      rowinpage: '11'
     - id: '1803'
       num: '12'
       name: СИЛАНТЬЕВ Петр Яковлевич
+      rowinpage: '12'
     - id: '1804'
       num: '13'
       name: СКРЖИТУЙСКИЙ Владимир Иванович
+      rowinpage: '13'
     - id: '1805'
       num: '14'
       name: ТРУБИН Яков Павлович
+      rowinpage: '14'
     - id: '1806'
       num: '15'
       name: ТУТИН Максим Тихонович
+      rowinpage: '15'
       spravka: true
     - id: '1807'
       num: '16'
       name: УСЕЙН Кадыр Оглы
+      rowinpage: '16'
     - id: '1808'
       num: '17'
       name: ХРАМКОВ Михаил Иванович
+      rowinpage: '17'
 - pageintom: '113'
   image: v01/17-171-409-113.jpg
+  title: null
   sublists:
   - sublid: '10'
     persons:
     - id: '1809'
       num: '1'
       name: ИСА Заде Гасан Иса Оглы
+      rowinpage: '1'
       subtitle1: <p align="right"><u>3 категория.</u></p><p align="center"><u>БАКУ.</u>
     - id: '1810'
       num: '2'
       name: КУЛИЕВ Фарман Кули Оглы
+      rowinpage: '2'

@@ -1,9 +1,10 @@
 id: '30'
 title: Список лиц - Грузинская ССР // 26 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '222'
 date: '1937-06-26'
+date_ru: 26.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,322 +30,400 @@ sublists:
 pages:
 - pageintom: '222'
   image: v01/17-171-409-222.jpg
+  title: null
   sublists: []
 - pageintom: '223'
   image: v01/17-171-409-223.jpg
+  title: null
   sublists: []
 - pageintom: '224'
   image: v01/17-171-409-224.jpg
+  title: null
   sublists:
   - sublid: '27'
     persons:
     - id: '3156'
       num: '1'
       name: АБРАМОВ Рубен Абрамович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-Я КАТЕГОРИЯ.</u></p><p align="center"><u>ГРУЗИНСКАЯ
         С.С.Р.</u>
     - id: '3157'
       num: '2'
       name: АГАМОВ Герасим Исаакович
+      rowinpage: '2'
       spravka: true
     - id: '3158'
       num: '3'
       name: АРДИШВИЛИ Василий Иосифович
+      rowinpage: '3'
     - id: '3159'
       num: '4'
       name: БАХТАДЗЕ Николай Иванович
+      rowinpage: '4'
       spravka: true
     - id: '3160'
       num: '5'
       name: БИЛИХОДЗЕ Лев Шалвович
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '3161'
       num: '6'
       name: БОЛКВАДЗЕ Иван Бежанович
+      rowinpage: '6'
       spravka: true
     - id: '3162'
       num: '7'
       name: БУБУШЕЙШВИЛИ Нестор Ражденович
+      rowinpage: '7'
       spravka: true
     - id: '3163'
       num: '8'
       name: ВАРАМАШВИЛИ Моисей Семенович
+      rowinpage: '8'
       spravka: true
     - id: '3164'
       num: '9'
       name: ГИХИМКРЕДИ Георгий Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '3165'
       num: '10'
       name: ГЛОНТИ Федор Зурабович
+      rowinpage: '10'
       spravka: true
     - id: '3166'
       num: '11'
       name: ГОГИБЕРИДЗЕ Валериан Давидович
+      rowinpage: '11'
       spravka: true
     - id: '3167'
       num: '12'
       name: ГОМЕЗАРУАШВИЛИ Калистрат Архипович
+      rowinpage: '12'
       spravka: true
     - id: '3168'
       num: '13'
       name: ГЕДЕВАНОВ Николай Константинович
+      rowinpage: '13'
       spravka: true
     - id: '3169'
       num: '14'
       name: ДОРГИЯ Евгений Самсонович
+      rowinpage: '14'
       spravka: true
     - id: '3170'
       num: '15'
       name: ЕНУКИДЗЕ Николай Виссарионович
+      rowinpage: '15'
       spravka: true
     - id: '3171'
       num: '16'
       name: ЖУКОВ Александр Дианович
+      rowinpage: '16'
       spravka: true
     - id: '3172'
       num: '17'
       name: ЖУКОВ Николай Иванович
+      rowinpage: '17'
       spravka: true
     - id: '3173'
       num: '18'
       name: ЖУКОВА Милитина Диановна
+      rowinpage: '18'
       spravka: true
     - id: '3174'
       num: '19'
       name: ИВАНЦОВ Иван Григорьевич
+      rowinpage: '19'
       spravka: true
     - id: '3175'
       num: '20'
       name: ИЛОВАЙСКИЙ Василий Сергеевич
+      rowinpage: '20'
       spravka: true
     - id: '3176'
       num: '21'
       name: ИЛЮШИН Николай Семенович
+      rowinpage: '21'
       spravka: true
     - id: '3177'
       num: '22'
       name: КЕБУРИЯ Леонтий Степанович
+      rowinpage: '22'
       spravka: true
     - id: '3178'
       num: '23'
       name: КЕЙГЕЛИУХИС Израил Соломонович
+      rowinpage: '23'
       spravka: true
     - id: '3179'
       num: '24'
       name: КЕКЕЛИДЗЕ Прокофий Кишвардович
+      rowinpage: '24'
       doublesexists: true
       spravka: true
     - id: '3180'
       num: '25'
       name: КОТРИНИ Карл Фердинандович
+      rowinpage: '25'
       spravka: true
     - id: '3181'
       num: '26'
       name: КРАВЧЕНКО Алексей Пантелеймонович
+      rowinpage: '26'
       spravka: true
 - pageintom: '225'
   image: v01/17-171-409-225.jpg
+  title: Грузинская ССР
   sublists:
   - sublid: '27'
     persons:
     - id: '3182'
       num: '27'
       name: КУРДАДЗЕ Василий Егорович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
     - id: '3183'
       num: '28'
       name: КУРУЛОВ Георгий Давидович
+      rowinpage: '2'
       spravka: true
     - id: '3184'
       num: '29'
       name: КУТАТЕЛАДЗЕ Георгий Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '3185'
       num: '30'
       name: КУХАЛЕЙШВИЛИ Севериан Илларионович
+      rowinpage: '4'
       spravka: true
     - id: '3186'
       num: '31'
       name: КУЧАНСКИЙ Василий Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '3187'
       num: '32'
       name: ЛОБЖАНИДЗЕ (ЛАШХИ) Михаил Шакоевич
+      rowinpage: '6'
       spravka: true
     - id: '3188'
       num: '33'
       name: ЛОРДКИПАНИДЗЕ Александр Виссарионович
+      rowinpage: '7'
       spravka: true
     - id: '3189'
       num: '34'
       name: МАМАЛАДЗЕ Мириан Ноевич
+      rowinpage: '8'
       spravka: true
     - id: '3190'
       num: '35'
       name: МАМУЛИЯ Илья Дмитриевич
+      rowinpage: '9'
       spravka: true
     - id: '3191'
       num: '36'
       name: МАРКАРЯН Нерсес Иосифович
+      rowinpage: '10'
       spravka: true
     - id: '3192'
       num: '37'
       name: МАТИКАШВИЛИ Шалва Спиридонович
+      rowinpage: '11'
       spravka: true
     - id: '5580'
       num: '38'
       name: МАХАРАДЗЕ Герасим Фомич
+      rowinpage: '12'
       doublesexists: true
       spravka: true
     - id: '3194'
       num: '39'
       name: МЕЛКУЕВ Георгий Яковлевич
+      rowinpage: '13'
       spravka: true
     - id: '3195'
       num: '40'
       name: МЗРЕУЛАШВИЛИ Василий Иванович
+      rowinpage: '14'
       spravka: true
     - id: '3196'
       num: '41'
       name: МИКАДЗЕ Арчил Виссарионович
+      rowinpage: '15'
       spravka: true
     - id: '3197'
       num: '42'
       name: МИКЕЛАДЗЕ Баграт Михайлович
+      rowinpage: '16'
       spravka: true
     - id: '3198'
       num: '43'
       name: МИЦИШВИЛИ Николай Иосифович
+      rowinpage: '17'
       spravka: true
     - id: '3199'
       num: '44'
       name: МОСИДЗЕ Александр Павлович
+      rowinpage: '18'
       spravka: true
     - id: '3200'
       num: '45'
       name: НАХАПЕТОВ Хачатур Аветович
+      rowinpage: '19'
       spravka: true
     - id: '3201'
       num: '46'
       name: ОДИЛАВАДЗЕ Кирилл Нестерович
+      rowinpage: '20'
       doublesexists: true
     - id: '3202'
       num: '47'
       name: ОДИЛАВАДЗЕ Шалва Нестерович
+      rowinpage: '21'
       doublesexists: true
       spravka: true
     - id: '3203'
       num: '48'
       name: ОНИАШВИЛИ Давид Ефремович
+      rowinpage: '22'
       spravka: true
     - id: '3204'
       num: '49'
       name: ОТЬЯН Седрак Геворкович
+      rowinpage: '23'
       spravka: true
     - id: '3205'
       num: '50'
       name: РАЙГОРОДСКИЙ Рувим Вениаминович
+      rowinpage: '24'
       spravka: true
     - id: '3206'
       num: '51'
       name: РОЗЕНЦВЕЙГ Максимилиан Арнольдович
+      rowinpage: '25'
       spravka: true
     - id: '3207'
       num: '52'
       name: РУХАДЗЕ Федор Илларионович
+      rowinpage: '26'
       spravka: true
     - id: '3208'
       num: '53'
       name: САПИЦКИЙ Константин Николаевич
+      rowinpage: '27'
       spravka: true
     - id: '3209'
       num: '54'
       name: СИХАРУЛИДЗЕ Евгений Николаевич
+      rowinpage: '28'
       doublesexists: true
       spravka: true
 - pageintom: '226'
   image: v01/17-171-409-226.jpg
+  title: Грузинская ССР
   sublists:
   - sublid: '27'
     persons:
     - id: '3210'
       num: '55'
       name: СОКОЛОВ Иван Васильевич
+      rowinpage: '1'
       spravka: true
     - id: '3211'
       num: '56'
       name: СОКОЛОВСКИЙ Николай Степанович
+      rowinpage: '2'
       spravka: true
     - id: '3212'
       num: '57'
       name: СТЕПАНОВ Александр Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '3213'
       num: '58'
       name: СУХИШВИЛИ Владимир Павлович
+      rowinpage: '4'
       spravka: true
     - id: '3214'
       num: '59'
       name: ТЕВДОРАДЗЕ-АХОСПИРЕЛИ Тамара Бегляровна
+      rowinpage: '5'
       spravka: true
     - id: '3215'
       num: '60'
       name: ТЕПЦОВ Сергей Петрович
+      rowinpage: '6'
       spravka: true
     - id: '3216'
       num: '61'
       name: ТОПУРИЯ Владимир Теймуразович
+      rowinpage: '7'
       spravka: true
     - id: '3217'
       num: '62'
       name: ТУХАРЕЛИ Георгий Александрович
+      rowinpage: '8'
       spravka: true
     - id: '3218'
       num: '63'
       name: ХВЕДЕЛИДЗЕ Сергей Нариманович
+      rowinpage: '9'
       spravka: true
     - id: '3219'
       num: '64'
       name: ХВИЧИЯ Григорий Спиридонович
+      rowinpage: '10'
       spravka: true
     - id: '3220'
       num: '65'
       name: ХОПЕРИЯ Андрей Дмитриевич
+      rowinpage: '11'
       spravka: true
     - id: '3221'
       num: '66'
       name: ЦЕРЕТЕЛИ Давид Константинович
+      rowinpage: '12'
       spravka: true
     - id: '3222'
       num: '67'
       name: ЦИВЦИВАДЗЕ Василий Бенедиктович
+      rowinpage: '13'
       spravka: true
     - id: '3223'
       num: '68'
       name: ЦИНЦАДЗЕ Венедикт Николаевич
+      rowinpage: '14'
       spravka: true
     - id: '5733'
       num: '69'
       name: ЦИНЦАДЗЕ Георгий Евсеевич
+      rowinpage: '15'
       doublesexists: true
     - id: '5732'
       num: '70'
       name: ЦИНЦАДЗЕ Шалва Рожденович
+      rowinpage: '16'
       doublesexists: true
       spravka: true
     - id: '3226'
       num: '71'
       name: ЭЛИАВА (ВОЛЬ-ЛЕВИЦКАЯ) Амалия Станиславовна
+      rowinpage: '17'
       spravka: true
     - id: '3227'
       num: '72'
       name: ЭЛИАВА Георгий Григорьевич
+      rowinpage: '18'
       spravka: true
     - id: '3228'
       num: '73'
       name: ЭЛИАВА Николай Зурабович
+      rowinpage: '19'
       spravka: true

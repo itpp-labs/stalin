@@ -1,9 +1,10 @@
 id: '378'
 title: Список лиц - Тамбовская область // от 3 февраля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '346'
 date: '1938-02-03'
+date_ru: 03.02.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,201 +30,248 @@ sublists:
 pages:
 - pageintom: '346'
   image: v06/17-171-414-346.jpg
+  title: null
   sublists: []
 - pageintom: '347'
   image: v06/17-171-414-347.jpg
+  title: null
   sublists: []
 - pageintom: '348'
   image: v06/17-171-414-348.jpg
+  title: null
   sublists:
   - sublid: '426'
     persons:
     - id: '23599'
       num: '1'
       name: БАБЫКИН Александр Сергеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '23600'
       num: '2'
       name: БАРБАН Иван Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '23601'
       num: '3'
       name: БАРТЕВ Иван Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '32154'
       num: '4'
       name: БЕЛЯКОВА Анна Федоровна
+      rowinpage: '4'
       doublesexists: true
     - id: '32160'
       num: '5'
       name: ВОЛИН Максим Тимофеевич
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '32161'
       num: '6'
       name: ВОРОБЬЕВ Петр Федорович
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '23605'
       num: '7'
       name: ДЕСПО Иван Христафонович
+      rowinpage: '7'
       spravka: true
     - id: '39643'
       num: '8'
       name: ДУБРОВИН Яков Михайлович
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '23607'
       num: '9'
       name: ДУБЫШКИН Николай Александрович
+      rowinpage: '9'
       spravka: true
     - id: '23608'
       num: '10'
       name: ДУШИН Андрей Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '32202'
       num: '11'
       name: ЕВДОКИМОВ Борис Николаевич
+      rowinpage: '11'
       doublesexists: true
     - id: '32165'
       num: '12'
       name: ЕПИШКИН Дмитрий Павлович
+      rowinpage: '12'
       doublesexists: true
       spravka: true
     - id: '23611'
       num: '13'
       name: ЖИТЕНЕВ Сергей Федорович
+      rowinpage: '13'
       spravka: true
     - id: '32167'
       num: '14'
       name: ЗАК София Гавриловна
+      rowinpage: '14'
       doublesexists: true
       spravka: true
     - id: '23613'
       num: '15'
       name: КАСПАРОВ Авак Семенович
+      rowinpage: '15'
       spravka: true
     - id: '23614'
       num: '16'
       name: КОЗЛЕНКОВ Кузьма Ильич
+      rowinpage: '16'
       spravka: true
     - id: '32175'
       num: '17'
       name: КОНОНЫХИН Михаил Иванович
+      rowinpage: '17'
       doublesexists: true
       spravka: true
     - id: '23616'
       num: '18'
       name: КОПАНЕВИЧ Павел Николаевич
+      rowinpage: '18'
     - id: '23617'
       num: '19'
       name: КОСТРИЧЕНКО Михаил Афанасьевич
+      rowinpage: '19'
       spravka: true
     - id: '32177'
       num: '20'
       name: КУДРЯВЦЕВ Павел Абрамович
+      rowinpage: '20'
       doublesexists: true
       spravka: true
     - id: '23619'
       num: '21'
       name: ЛИХОДЗИЕВСКИЙ Франц Константинович
+      rowinpage: '21'
       spravka: true
 - pageintom: '349'
   image: v06/17-171-414-349.jpg
+  title: Тамбовская область
   sublists:
   - sublid: '426'
     persons:
     - id: '23620'
       num: '22'
       name: ЛЮБИМОВ Андрей Васильевич
+      rowinpage: '1'
       spravka: true
     - id: '23621'
       num: '23'
       name: МАЛЬКОВ Иван Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '23622'
       num: '24'
       name: МАСБЕРГ Герман Карлович
+      rowinpage: '3'
       spravka: true
     - id: '23623'
       num: '25'
       name: МАСТРЮКОВ Михаил Спиридонович
+      rowinpage: '4'
     - id: '23624'
       num: '26'
       name: НЕЧИН Михаил Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '23625'
       num: '27'
       name: ОДИНЦОВ Василий Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '32184'
       num: '28'
       name: ПОЗНЕР Леонид Матвеевич
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '23627'
       num: '29'
       name: ПОЛЯКОВ Петр Ефимович
+      rowinpage: '8'
       spravka: true
     - id: '32187'
       num: '30'
       name: ПОПОВ Сергей Афанасьевич
+      rowinpage: '9'
       doublesexists: true
       spravka: true
     - id: '23629'
       num: '31'
       name: РОЖИН Всеволод Александрович
+      rowinpage: '10'
     - id: '32190'
       num: '32'
       name: СКОРИН Гаврил Григорьевич
+      rowinpage: '11'
       doublesexists: true
       spravka: true
     - id: '23631'
       num: '33'
       name: СТЕПУРА Николай Константинович
+      rowinpage: '12'
       spravka: true
     - id: '23632'
       num: '34'
       name: ФЕДОСЕЕВ Александр Андреевич
+      rowinpage: '13'
       spravka: true
     - id: '23633'
       num: '35'
       name: ХАУСТОВ Александр Алексеевич
+      rowinpage: '14'
       spravka: true
     - id: '23634'
       num: '36'
       name: ХВОСТИКОВ Тимофей Устинович
+      rowinpage: '15'
       spravka: true
     - id: '23635'
       num: '37'
       name: ЧАГОВЕЦ Лидия Васильевна
+      rowinpage: '16'
       spravka: true
     - id: '32196'
       num: '38'
       name: ЧЕРНЯЕВ Михаил Тимофеевич
+      rowinpage: '17'
       doublesexists: true
       spravka: true
     - id: '23637'
       num: '39'
       name: ЭКТОВ Петр Павлович
+      rowinpage: '18'
       spravka: true
     - id: '23638'
       num: '40'
       name: ЮМАШЕВ Петр Иванович
+      rowinpage: '19'
     - id: '23639'
       num: '41'
       name: ЯСТРЖЕМБСКИЙ Николай Эдуардович
+      rowinpage: '20'
       spravka: true
 - pageintom: '350'
   image: v06/17-171-414-350.jpg
+  title: null
   sublists:
   - sublid: '426'
     persons:
     - id: '23640'
       num: '1'
       name: РОЩУПКИН Георгий Илларионович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>

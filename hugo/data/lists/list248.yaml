@@ -2,9 +2,10 @@ id: '248'
 title: 'Список лиц: Сталинградская обл., Татарская АССР, Башкирская АССР, Ярославская
   обл. // 21 октября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '234'
 date: '1937-10-21'
+date_ru: 21.10.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -71,260 +72,325 @@ sublists:
 pages:
 - pageintom: '234'
   image: v03/17-171-411-234.jpg
+  title: null
   sublists: []
 - pageintom: '235'
   image: v03/17-171-411-235.jpg
+  title: null
   sublists: []
 - pageintom: '236'
   image: v03/17-171-411-236.jpg
+  title: null
   sublists:
   - sublid: '398'
     persons:
     - id: '10384'
       num: '1'
       name: БАРТЕЛЬС Франц Августович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '10385'
       num: '2'
       name: БУШТА Карл Иоганович
+      rowinpage: '2'
     - id: '10386'
       num: '3'
       name: КРАНЦЛЕР Вильгельм Оттович, он же <br />КРОЛЛЬ Гергардт
+      rowinpage: '3'
     - id: '10387'
       num: '4'
       name: КРОЛЛЬ Курт (Эрих) Оттович
+      rowinpage: '4'
     - id: '10388'
       num: '5'
       name: КРОТТЕР Иоганн Иоганнович
+      rowinpage: '5'
     - id: '10389'
       num: '6'
       name: ФИШЕР Курт Робертович
+      rowinpage: '6'
     - id: '10390'
       num: '7'
       name: ШНАРРЕ Генрих Рихардович
+      rowinpage: '7'
 - pageintom: '237'
   image: v03/17-171-411-237.jpg
+  title: null
   sublists:
   - sublid: '398'
     persons:
     - id: '10391'
       num: '1'
       name: БАРТЕЛЬС Хорст Францевич
+      rowinpage: '1'
       gb_spravka: true
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u><br /><u> Иностранные
         подданные </u></p><p align="right"><u>1-я категория</u>
     - id: '10392'
       num: '2'
       name: ДРИЛЛИНГ Эрвин Вильгельмович
+      rowinpage: '2'
       gb_spravka: true
     - id: '10393'
       num: '3'
       name: КРАУС Эйген Яковлевич
+      rowinpage: '3'
       gb_spravka: true
     - id: '10394'
       num: '4'
       name: ШПРУНГ Пауль Теодорович
+      rowinpage: '4'
       gb_spravka: true
 - pageintom: '238'
   image: v03/17-171-411-238.jpg
+  title: null
   sublists: []
 - pageintom: '239'
   image: v03/17-171-411-239.jpg
+  title: null
   sublists: []
 - pageintom: '240'
   image: v03/17-171-411-240.jpg
+  title: null
   sublists: []
 - pageintom: '241'
   image: v03/17-171-411-241.jpg
+  title: null
   sublists: []
 - pageintom: '242'
   image: v03/17-171-411-242.jpg
+  title: null
   sublists:
   - sublid: '398'
     persons:
     - id: '10395'
       num: '1'
       name: ДОНСКИЙ Макс (Мориц) Фишелевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '10396'
       num: '2'
       name: ЗОРГЕ Вальтер Альбертович
+      rowinpage: '2'
     - id: '10397'
       num: '3'
       name: МЮЛЛЕР Вальтер Францевич
+      rowinpage: '3'
     - id: '10398'
       num: '4'
       name: ФОХТЛЕНДЕР Фридрих Вильгельмович
+      rowinpage: '4'
     - id: '10399'
       num: '5'
       name: ШИЛИХИН Павел Васильевич
+      rowinpage: '5'
 - pageintom: '243'
   image: v03/17-171-411-243.jpg
+  title: null
   sublists:
   - sublid: '398'
     persons:
     - id: '10400'
       num: '1'
       name: КРОТТЕР Ганс Иоганович
+      rowinpage: '1'
       gb_spravka: true
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u><br /><u> Иностранные
         подданные </u></p><p align="right"><u>2-я категория</u>
 - pageintom: '244'
   image: v03/17-171-411-244.jpg
+  title: null
   sublists: []
 - pageintom: '245'
   image: v03/17-171-411-245.jpg
+  title: null
   sublists:
   - sublid: '399'
     persons:
     - id: '10401'
       num: '1'
       name: АНТОНОВ Александр Сергеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАТАРСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '10402'
       num: '2'
       name: БОГДАНОВИЧ Якуб Сулейманович
+      rowinpage: '2'
       spravka: true
     - id: '10403'
       num: '3'
       name: ГАВРИЛОВ Даниил Гаврилович
+      rowinpage: '3'
       spravka: true
     - id: '10404'
       num: '4'
       name: ГАЛИУЛЛИН Сагман Фатихуллович
+      rowinpage: '4'
       spravka: true
     - id: '10405'
       num: '5'
       name: КАРТАШЕВ Григорий Фадеевич
+      rowinpage: '5'
       spravka: true
     - id: '10406'
       num: '6'
       name: САДЫКОВ Абдрахман Магдеевич
+      rowinpage: '6'
       spravka: true
     - id: '10407'
       num: '7'
       name: СИЛИКОВ Владимир Иванович
+      rowinpage: '7'
       spravka: true
     - id: '10408'
       num: '8'
       name: СУЛЕЙМАНОВ Ахсан Сулейманович
+      rowinpage: '8'
     - id: '10409'
       num: '9'
       name: ХАФИЗУЛЛИН Асгат Нигматович
+      rowinpage: '9'
       spravka: true
     - id: '10410'
       num: '10'
       name: ЮСУПОВ Нури Валеевич
+      rowinpage: '10'
     - id: '10411'
       num: '11'
       name: ЯФАЕВ Рахматзян Валиахметович
+      rowinpage: '11'
 - pageintom: '246'
   image: v03/17-171-411-246.jpg
+  title: null
   sublists:
   - sublid: '399'
     persons:
     - id: '10412'
       num: '1'
       name: АХМЕРОВ Саидгарей Гайнутдинович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАТАРСКАЯ А.С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
     - id: '10413'
       num: '2'
       name: БАТАНОВ Иван Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '10414'
       num: '3'
       name: БОГДАНОВИЧ Ильгамия Фасаховна
+      rowinpage: '3'
       spravka: true
     - id: '10415'
       num: '4'
       name: БОЛОТОВ Николай Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '10416'
       num: '5'
       name: ВАЛИУЛЛИН Рахим Калимуллович
+      rowinpage: '5'
       spravka: true
     - id: '10417'
       num: '6'
       name: ВАХИТОВ Габбас Нуреевич
+      rowinpage: '6'
       spravka: true
     - id: '10418'
       num: '7'
       name: ГИЛЬМИ Ахмет Гильмутдинович
+      rowinpage: '7'
       spravka: true
     - id: '10419'
       num: '8'
       name: ГИСМАТУЛЛИН Набиулла Нигматуллович
+      rowinpage: '8'
       spravka: true
     - id: '10420'
       num: '9'
       name: ИЛЬЯСОВ Гали Иксанович
+      rowinpage: '9'
       spravka: true
     - id: '10421'
       num: '10'
       name: КАДЫРОВ Хатып Галимович
+      rowinpage: '10'
       spravka: true
     - id: '10422'
       num: '11'
       name: КАРИМОВ Нагим Закирович
+      rowinpage: '11'
       spravka: true
     - id: '10423'
       num: '12'
       name: КОПП Исаак Файвысович
+      rowinpage: '12'
       spravka: true
     - id: '10424'
       num: '13'
       name: МУЗАФАРОВА Марьям Хасановна
+      rowinpage: '13'
       spravka: true
     - id: '10425'
       num: '14'
       name: МОРГУНОВ Павел Филиппович
+      rowinpage: '14'
     - id: '10426'
       num: '15'
       name: НИГМАТУЛЛИН Зайнулла Хайруллович
+      rowinpage: '15'
       spravka: true
     - id: '10427'
       num: '16'
       name: НИКИФОРОВ Тихон Герасимович
+      rowinpage: '16'
       spravka: true
     - id: '10428'
       num: '17'
       name: САИТОВ Харис Саитович
+      rowinpage: '17'
       spravka: true
     - id: '10429'
       num: '18'
       name: СКОРОХОДОВ Петр Федорович
+      rowinpage: '18'
     - id: '10430'
       num: '19'
       name: УРАЛЬСКИЙ Фазли Мусавирович
+      rowinpage: '19'
       spravka: true
     - id: '10431'
       num: '20'
       name: ЮДАНОВ Иван Дмитриевич
+      rowinpage: '20'
       spravka: true
 - pageintom: '247'
   image: v03/17-171-411-247.jpg
+  title: null
   sublists:
   - sublid: '400'
     persons:
     - id: '10432'
       num: '1'
       name: МАЛЫШЕВ Дмитрий Алексеевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>БАШКИРСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
 - pageintom: '248'
   image: v03/17-171-411-248.jpg
+  title: null
   sublists:
   - sublid: '401'
     persons:
     - id: '10433'
       num: '1'
       name: КРАСИЛЬНИКОВ Александр Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>

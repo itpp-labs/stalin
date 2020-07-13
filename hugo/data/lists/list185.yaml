@@ -1,9 +1,10 @@
 id: '185'
 title: Список лиц - Москва-центр // от " " августа 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '218'
 date: null
+date_ru: null
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -26,18 +27,22 @@ sublists:
 pages:
 - pageintom: '218'
   image: v09/17-171-417-218.jpg
+  title: null
   sublists: []
 - pageintom: '219'
   image: v09/17-171-417-219.jpg
+  title: null
   sublists: []
 - pageintom: '220'
   image: v09/17-171-417-220.jpg
+  title: null
   sublists:
   - sublid: '125'
     persons:
     - id: '36196'
       num: '1'
       name: КАННЕР Григорий Иосифович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
@@ -45,14 +50,17 @@ pages:
     - id: '36197'
       num: '2'
       name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '36198'
       num: '3'
       name: СОКОЛОВСКАЯ Елена Кирилловна
+      rowinpage: '3'
       spravka: true
     - id: '36199'
       num: '4'
       name: ТАИРОВ, он же ТЕР-ГРИГОРЬЯН Владимир Христофорович
+      rowinpage: '4'
       doublesexists: true
       spravka: true

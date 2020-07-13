@@ -1,9 +1,10 @@
 id: '233'
 title: 'Список лиц: Казахская ССР // 22 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '122'
 date: '1937-09-22'
+date_ru: 22.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,296 +29,368 @@ sublists:
 pages:
 - pageintom: '122'
   image: v03/17-171-411-122.jpg
+  title: null
   sublists: []
 - pageintom: '123'
   image: v03/17-171-411-123.jpg
+  title: null
   sublists: []
 - pageintom: '124'
   image: v03/17-171-411-124.jpg
+  title: null
   sublists:
   - sublid: '353'
     persons:
     - id: '9046'
       num: '1'
       name: АКУЛИНИН Тимофей Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '9047'
       num: '2'
       name: АЛЕКСЕЕВ Петр Павлович
+      rowinpage: '2'
     - id: '9048'
       num: '3'
       name: БАТАШЕВ Иван Александрович
+      rowinpage: '3'
       spravka: true
     - id: '9049'
       num: '4'
       name: БЕРМАН Бенциан Исаакович
+      rowinpage: '4'
       spravka: true
     - id: '9050'
       num: '5'
       name: БЛАГОВЕЩЕНСКИЙ Аполлон Евгеньевич
+      rowinpage: '5'
       spravka: true
     - id: '9051'
       num: '6'
       name: БОРИСЕНКО Николай Калинович
+      rowinpage: '6'
       spravka: true
     - id: '9052'
       num: '7'
       name: БУДЫЛЕВ Иван Григорьевич, он же АЛЕКСАНДРОВ, ДАНИЛОВ, АНАНЬЕВ, ГРАНЕВ,
         ЧЕРНЫШЕВ, ВОЛЖИН
+      rowinpage: '7'
       spravka: true
     - id: '9053'
       num: '8'
       name: БЯЛОВСКИЙ Франц Владиславович
+      rowinpage: '8'
       spravka: true
     - id: '9054'
       num: '9'
       name: ВАЙСБЕРГ-ЗАВАДОВСКИЙ Михаил-Моисей Иудович
+      rowinpage: '9'
       spravka: true
     - id: '9055'
       num: '10'
       name: ВЕДЕНЯПИН Михаил Александрович
+      rowinpage: '10'
       pometa_text: 10 лет
       spravka: true
     - id: '9056'
       num: '11'
       name: ВОЛЬСКИЙ Владимир Казимирович
+      rowinpage: '11'
       spravka: true
     - id: '9057'
       num: '12'
       name: ВОРОБЬЕВ Иван Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '9058'
       num: '13'
       name: ВЫСОЦКИЙ Павел Викторович
+      rowinpage: '13'
       spravka: true
     - id: '9059'
       num: '14'
       name: ГЕНДЕЛЬМАН Самуэль Яковлевич
+      rowinpage: '14'
       spravka: true
     - id: '9060'
       num: '15'
       name: ГЕРШГОРН Вениамин Константинович
+      rowinpage: '15'
       spravka: true
     - id: '9061'
       num: '16'
       name: ГОЛОСОВ Федор Леонтьевич
+      rowinpage: '16'
     - id: '9062'
       num: '17'
       name: ГОЦ Абрам Рафаилович
+      rowinpage: '17'
       underlined: true
       pometa_text: 10 лет
       spravka: true
     - id: '9063'
       num: '18'
       name: ГУСЕВ-ЗНАМЕНСКИЙ Африкан Алексеевич
+      rowinpage: '18'
       spravka: true
     - id: '9064'
       num: '19'
       name: ЕРУХИМОВИЧ Исаак Рувимович
+      rowinpage: '19'
       spravka: true
     - id: '9065'
       num: '20'
       name: ЖИГУЛИН Петр Зиновьевич
+      rowinpage: '20'
       spravka: true
     - id: '9066'
       num: '21'
       name: ЗАМЯТИН Николай Александрович
+      rowinpage: '21'
       spravka: true
     - id: '9067'
       num: '22'
       name: ЗАУЭРБРАЙ-КУЗЬМИЧ Елена Васильевна
+      rowinpage: '22'
       spravka: true
     - id: '9068'
       num: '23'
       name: ЗИСМАН Арон Ильич
+      rowinpage: '23'
       spravka: true
 - pageintom: '125'
   image: v03/17-171-411-125.jpg
+  title: Казахская ССР
   sublists:
   - sublid: '353'
     persons:
     - id: '9069'
       num: '24'
       name: ЗОРИН Евгений Владимирович, он же <br />КОВЕЛЬСКИЙ Игорь Мартынович
+      rowinpage: '1'
       spravka: true
     - id: '9070'
       num: '25'
       name: ИОГАНСЕН Валентин Александрович
+      rowinpage: '2'
       spravka: true
     - id: '9071'
       num: '26'
       name: КАЧОРОВСКИЙ Борис Павлович
+      rowinpage: '3'
     - id: '9072'
       num: '27'
       name: КАШИРИН Александр Иванович
+      rowinpage: '4'
       spravka: true
     - id: '9073'
       num: '28'
       name: КОЗЫРИН Василий Петрович
+      rowinpage: '5'
       spravka: true
     - id: '9074'
       num: '29'
       name: КОМАРОВ Николай Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '9075'
       num: '30'
       name: КОНОНОВА-РЫЦАРЕВА Юлия Никитична
+      rowinpage: '7'
       spravka: true
     - id: '9076'
       num: '31'
       name: КОНОНОВ Никита Иванович
+      rowinpage: '8'
       spravka: true
     - id: '9077'
       num: '32'
       name: КОРЕНЕВ Степан Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '9078'
       num: '33'
       name: КОТЛЯР Хаим Маркович
+      rowinpage: '10'
       spravka: true
     - id: '9079'
       num: '34'
       name: КОЧЕРГИНА Тамара Ивановна
+      rowinpage: '11'
       spravka: true
     - id: '9080'
       num: '35'
       name: КУСТАРЕВ Павел Сергеевич
+      rowinpage: '12'
       spravka: true
     - id: '9081'
       num: '36'
       name: ЛЕВИТ-ЛЕВИНА Роза Осиповна
+      rowinpage: '13'
       spravka: true
     - id: '9082'
       num: '37'
       name: ЛИБЕР-ГОЛЬДМАН Михаил Исаакович
+      rowinpage: '14'
       spravka: true
     - id: '9083'
       num: '38'
       name: ЛОЗДОВСКИЙ Александр Григорьевич
+      rowinpage: '15'
       spravka: true
     - id: '9084'
       num: '39'
       name: МАРКЕЛЫЧЕВ Дмитрий Михайлович
+      rowinpage: '16'
       spravka: true
     - id: '9085'
       num: '40'
       name: МОСКВИН Сергей Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '9086'
       num: '41'
       name: МУРАНОВА Прасковья Григорьевна
+      rowinpage: '18'
       spravka: true
     - id: '9087'
       num: '42'
       name: НЕВЛЕР Лазарь Иудович
+      rowinpage: '19'
       spravka: true
     - id: '9088'
       num: '43'
       name: НИКОЛАЕВ Герман Александрович
+      rowinpage: '20'
       spravka: true
     - id: '9089'
       num: '44'
       name: НОВИКОВ-ПОКРОВСКИЙ Николай Александрович
+      rowinpage: '21'
       spravka: true
     - id: '9090'
       num: '45'
       name: ОВСЕЕВИЧ Анатолий Давидович
+      rowinpage: '22'
       spravka: true
     - id: '9091'
       num: '46'
       name: ОСИПОВ Михаил Ливерьевич
+      rowinpage: '23'
       spravka: true
     - id: '9092'
       num: '47'
       name: ПАНКРАТОВ-ГОРБУНОВ Михаил Павлович
+      rowinpage: '24'
       spravka: true
     - id: '9093'
       num: '48'
       name: ПОПОВ Николай Евгеньевич
+      rowinpage: '25'
       spravka: true
     - id: '9094'
       num: '49'
       name: РАСНЕР Саул Моисеевич
+      rowinpage: '26'
       spravka: true
     - id: '9095'
       num: '50'
       name: РУДАКОВ Пантелеймон Александрович
+      rowinpage: '27'
       spravka: true
 - pageintom: '126'
   image: v03/17-171-411-126.jpg
+  title: Казахская ССР
   sublists:
   - sublid: '353'
     persons:
     - id: '9096'
       num: '51'
       name: САЛОВ Иван Алексеевич
+      rowinpage: '1'
       spravka: true
     - id: '9097'
       num: '52'
       name: САРТАКОВ Александр Иванович
+      rowinpage: '2'
       spravka: true
     - id: '9098'
       num: '53'
       name: СЕМЯТИЦКАЯ Рахиль Калмановна
+      rowinpage: '3'
       spravka: true
     - id: '9099'
       num: '54'
       name: СМОЛЕНСКИЙ Аркадий Петрович
+      rowinpage: '4'
       spravka: true
     - id: '9100'
       num: '55'
       name: СТРАХОВ Дмитрий Александрович
+      rowinpage: '5'
       spravka: true
     - id: '9101'
       num: '56'
       name: ТРУТОВСКИЙ Владимир Евгеньевич
+      rowinpage: '6'
       spravka: true
     - id: '9102'
       num: '57'
       name: ТЯПКИН Ефим Федорович
+      rowinpage: '7'
       spravka: true
     - id: '9103'
       num: '58'
       name: ФИЛАТОВ-БУРЯТОВ Ефим Семенович
+      rowinpage: '8'
       spravka: true
     - id: '9104'
       num: '59'
       name: ФОМИН Иван Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '9105'
       num: '60'
       name: ЧИЖОВ Владимир Петрович
+      rowinpage: '10'
       spravka: true
     - id: '9106'
       num: '61'
       name: ШВАДРОН Ефим Петрович
+      rowinpage: '11'
       spravka: true
     - id: '9107'
       num: '62'
       name: ШУГАЛ Александр Данилович
+      rowinpage: '12'
       spravka: true
     - id: '9108'
       num: '63'
       name: ЭРЕНБУРГ Соломон Леопольдович
+      rowinpage: '13'
       spravka: true
     - id: '9109'
       num: '64'
       name: ЯНКОВСКИЙ Рафаил Акимович
+      rowinpage: '14'
       spravka: true
 - pageintom: '127'
   image: v03/17-171-411-127.jpg
+  title: null
   sublists:
   - sublid: '353'
     persons:
     - id: '9110'
       num: '1'
       name: ЗАЙДЛЕР Юлий Вениаминович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
     - id: '9111'
       num: '2'
       name: ПЕНТОВ Борис Михайлович
+      rowinpage: '2'
       spravka: true

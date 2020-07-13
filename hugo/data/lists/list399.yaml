@@ -1,9 +1,10 @@
 id: '399'
 title: Список лиц - г.Ашхабад - Ашхабадская ж.д. // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '135'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,121 +29,156 @@ sublists:
 pages:
 - pageintom: '135'
   image: v11/17-171-419-135.jpg
+  title: null
   sublists: []
 - pageintom: '136'
   image: v11/17-171-419-136.jpg
+  title: null
   sublists: []
 - pageintom: '137'
   image: v11/17-171-419-137.jpg
+  title: null
   sublists:
   - sublid: '622'
     persons:
     - id: '42521'
       num: '1'
       name: БОЧАРОВ Павел Иванович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>Гор.Ашхабад - АШХАБАДСКАЯ ЖЕЛ.ДОР. </u></p><p
         align="right"><u>1-я КАТЕГОРИЯ</u>
     - id: '42522'
       num: '2'
       name: БЫКОВ Сергей Степанович
+      rowinpage: '2'
     - id: '42523'
       num: '3'
       name: ВЕРСТОНОВ Федор Иванович
+      rowinpage: '3'
       spravka: true
     - id: '42524'
       num: '4'
       name: ГЕРНШТЕЙН Борис Матвеевич
+      rowinpage: '4'
     - id: '42525'
       num: '5'
       name: ДЕМЕНТЬЕВ Сергей Григорьевич
+      rowinpage: '5'
     - id: '42526'
       num: '6'
       name: ДЕМИДОВ Сергей Иванович
+      rowinpage: '6'
     - id: '42527'
       num: '7'
       name: ЕРЕМЕЕВ Василий Павлович
+      rowinpage: '7'
       spravka: true
     - id: '42528'
       num: '8'
       name: ЕФИМОВ Владимир Николаевич
+      rowinpage: '8'
     - id: '42529'
       num: '9'
       name: ЖИГАЛОВ Дмитрий Борисович
+      rowinpage: '9'
     - id: '42530'
       num: '10'
       name: ИЛЬЯСОВ Ефрем Петрович
+      rowinpage: '10'
     - id: '42531'
       num: '11'
       name: КОРНЕВ Анатолий Семенович
+      rowinpage: '11'
     - id: '42532'
       num: '12'
       name: КРЕМЛЕВ-ЛОСКУТОВ Александр Николаевич
+      rowinpage: '12'
       spravka: true
     - id: '42533'
       num: '13'
       name: КУГУШЕВ Николай Иванович
+      rowinpage: '13'
     - id: '42534'
       num: '14'
       name: ЛЕДОВСКИЙ Константин Федорович
+      rowinpage: '14'
     - id: '42535'
       num: '15'
       name: НАБОКОВ Сергей Павлович
+      rowinpage: '15'
       spravka: true
     - id: '42536'
       num: '16'
       name: НИКУЛИН Виктор Георгиевич
+      rowinpage: '16'
     - id: '42537'
       num: '17'
       name: СТРУТЫНСКИЙ Владислав Станиславович
+      rowinpage: '17'
     - id: '42538'
       num: '18'
       name: ФИЛИППЕНКО Иосиф Васильевич
+      rowinpage: '18'
 - pageintom: '138'
   image: v11/17-171-419-138.jpg
+  title: г.Ашхабад - Ашхабадская ж.д.
   sublists:
   - sublid: '622'
     persons:
     - id: '42539'
       num: '19'
       name: ЧЕМОДАНКИН Михаил Фомич
+      rowinpage: '1'
     - id: '42540'
       num: '20'
       name: ШАНК Филипп Готлибович
+      rowinpage: '2'
     - id: '42541'
       num: '21'
       name: ШУСТОВ Василий Акимович
+      rowinpage: '3'
     - id: '42542'
       num: '22'
       name: ЩЕПОТКИН Григорий Федорович
+      rowinpage: '4'
 - pageintom: '139'
   image: v11/17-171-419-139.jpg
+  title: null
   sublists:
   - sublid: '622'
     persons:
     - id: '42543'
       num: '1'
       name: АНДРИАШКИН Тимофей Гурьевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>Гор.Ашхабад - АШХАБАДСКАЯ ЖЕЛ.ДОР. </u></p><p
         align="right"><u>2-я КАТЕГОРИЯ</u>
     - id: '42544'
       num: '2'
       name: ЗАЙЦЕВ Николай Федорович
+      rowinpage: '2'
     - id: '42545'
       num: '3'
       name: КАЛУГИН Антон Антонович
+      rowinpage: '3'
     - id: '42546'
       num: '4'
       name: КОЛБАСИНСКИЙ Алексей Николаевич
+      rowinpage: '4'
     - id: '42547'
       num: '5'
       name: КУРКОВ Борис Федорович
+      rowinpage: '5'
     - id: '42548'
       num: '6'
       name: САМОЙЛОВ Павел Емельянович
+      rowinpage: '6'
     - id: '42549'
       num: '7'
       name: ХАЧАТУРЬЯНЦ Григорий Степанович
+      rowinpage: '7'
     - id: '42550'
       num: '8'
       name: ШАПОШНИКОВ Николай Александрович
+      rowinpage: '8'
       spravka: true

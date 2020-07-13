@@ -1,9 +1,10 @@
 id: '410'
 title: Список арестованных участников антисоветских организаций (категория 2)
 archive:
-  ref: РГАСПИ, ф.17, т.14, оп.171, дело 420
+  ref: РГАСПИ, ф.17, оп.171, дело 420
   page1: '1'
 date: '1940-09-06'
+date_ru: 06.09.1940
 tom: 14
 delo:
   name: ''
@@ -25,12 +26,14 @@ sublists:
 pages:
 - pageintom: '1'
   image: v14/17-171-420-001.jpg
+  title: null
   sublists:
   - sublid: '669'
     persons:
     - id: '45007'
       num: '1'
       name: АЛИЕВ <br/> Бейбулла Алиевич
+      rowinpage: '1'
       primzv: Нач. Ахтынского Райотделения НКВД.
       doublesexists: true
       gb_spravka: true
@@ -41,6 +44,7 @@ pages:
     - id: '45008'
       num: '2'
       name: АЛИЕВ <br/> Магомед
+      rowinpage: '2'
       primzv: Нач. Дербентского Райотделения НКВД.
       doublesexists: true
       gb_spravka: true
@@ -48,569 +52,699 @@ pages:
     - id: '45009'
       num: '3'
       name: АНДРЕЕВ <br/> Павел Иванович
+      rowinpage: '3'
       primzv: Пом. директора по хозчасти Московск. хлебозавода № 12.
       gb_spravka: true
       spravka: true
     - id: '45010'
       num: '4'
       name: АНАНОВ <br/> Леон Каспарович
+      rowinpage: '4'
       primzv: Пом. зав. I-м Западным отделом НКИД.
       gb_spravka: true
     - id: '45011'
       num: '5'
       name: АШУРОВА <br/> Евдокия Васильевна
+      rowinpage: '5'
       primzv: Домашняя хозяйка.
       gb_spravka: true
     - id: '45012'
       num: '6'
       name: БАРАНОВ <br/> Тимофей Устинович
+      rowinpage: '6'
       primzv: Оперуполн. УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
     - id: '45013'
       num: '7'
       name: БАРСКИЙ <br/> Михаил Савельевич
+      rowinpage: '7'
       primzv: Консультант поликлиники им. Октябрьской революции.
       gb_spravka: true
     - id: '45014'
       num: '8'
       name: БЕЛОНОГОВ <br/> Савва Федорович
+      rowinpage: '8'
       primzv: Нач. отд. Службы подготовки ГУРКМ НКВД.
       gb_spravka: true
       spravka: true
     - id: '45015'
       num: '9'
       name: БЛАГОМЫСЛОВ <br/> Владимир Дмитриевич
+      rowinpage: '9'
       primzv: Зам. председ. Президиума Казпотребсоюза.
       gb_spravka: true
       spravka: true
     - id: '45016'
       num: '10'
       name: БРОДСКИЙ <br/> Евгений Григорьевич
+      rowinpage: '10'
       primzv: Нач. 6 отделения 4-го отдела УНКВД по Красноярскому краю.
       gb_spravka: true
       spravka: true
     - id: '45017'
       num: '11'
       name: БУЦКИЙ <br/> Захар Митрофанович
+      rowinpage: '11'
       primzv: Зам. Нач. службы движения  Южно-Уральской жел. дор.
       gb_spravka: true
       spravka: true
     - id: '45018'
       num: '12'
       name: ВАЛИОВИЧ <br/> Вениамин Ефимович
+      rowinpage: '12'
       primzv: Инженер по пассажирским перевозкам коммерческого отдела Центрального
         Упр. Морского флота Наркомвода.
       gb_spravka: true
       spravka: true
 - pageintom: '2'
   image: v14/17-171-420-002.jpg
+  title: ''
   sublists:
   - sublid: '669'
     persons:
     - id: '45019'
       num: '13'
       name: ВЕТВИНСКИЙ <br/> Александр Константинович
+      rowinpage: '1'
       primzv: Десятник строительства Зап. Украинской шоссейной дороги № 1.
       gb_spravka: true
       spravka: true
     - id: '45020'
       num: '14'
       name: ГРИШИН <br/> Александр Сергеевич
+      rowinpage: '2'
       primzv: Нач. I отд-ния 3 Спецотдела УНКВД по Краснодарскому краю.
       gb_spravka: true
       spravka: true
     - id: '45021'
       num: '15'
       name: ГУММЕЛЬ <br/> Эрнест Андреевич
+      rowinpage: '3'
       primzv: Приемщик-качественник в «Росглаввино».
       gb_spravka: true
     - id: '45022'
       num: '16'
       name: ДОБРЯКОВ <br/> Михаил Федорович
+      rowinpage: '4'
       primzv: Ст. инженер артиллерийского опытно-конструкторского отдела Кировского
         з-да в г. Ленинграде.
       gb_spravka: true
     - id: '45023'
       num: '17'
       name: ДОНЕЦ <br/> Владимир Маркович
+      rowinpage: '5'
       primzv: Директор Центр. Научно-Контрольн. И-та НКЗдрава.
       gb_spravka: true
       spravka: true
     - id: '45024'
       num: '18'
       name: ДУДОВСКИЙ <br/> Александр Давидович
+      rowinpage: '6'
       primzv: Бухгалтер Журавлевской МТС в Казахстане.
       doublesexists: true
       gb_spravka: true
     - id: '45025'
       num: '19'
       name: ЕРЕМИН <br/> Михаил Прокофьевич
+      rowinpage: '7'
       primzv: Директор лесотарного завода  в гор. Бор.
       gb_spravka: true
     - id: '45026'
       num: '20'
       name: ЖИЛКОВ <br/> Александр Антонович
+      rowinpage: '8'
       primzv: Начальник Бийской тюрьмы.
       gb_spravka: true
     - id: '45027'
       num: '21'
       name: ЖИТКОВ <br/> Иван Николаевич
+      rowinpage: '9'
       primzv: Гл. инж. Центральн. Управл. вагонного хоз. НКПС.
       gb_spravka: true
       spravka: true
     - id: '45028'
       num: '22'
       name: ЗАК <br/> Израиль Львович
+      rowinpage: '10'
       primzv: Ст. кассир Трансремстроя НКПС.
       gb_spravka: true
     - id: '45029'
       num: '23'
       name: ЗВОНОВ <br/> Михаил Ильич
+      rowinpage: '11'
       primzv: Ст. консультант Верховного суда РСФСР.
       gb_spravka: true
       spravka: true
     - id: '45030'
       num: '24'
       name: ЗИМИН <br/> Павел Михайлович
+      rowinpage: '12'
       primzv: Нач. Упр. Лесхозсоюза Наркомлеса Казахской ССР.
       gb_spravka: true
     - id: '45031'
       num: '25'
       name: ИСАЕВ <br/> Борис Викторович
+      rowinpage: '13'
       primzv: Зам. Гл. инженера «Союзтранспроекта».
       gb_spravka: true
       spravka: true
     - id: '45032'
       num: '26'
       name: КАМЕНСКИХ <br/> Геннадий Степанович
+      rowinpage: '14'
       primzv: Оперуполн. УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
     - id: '45033'
       num: '27'
       name: КАПЛАН <br/> Исай Еремеевич
+      rowinpage: '15'
       primzv: Начальник отдела Азербайджанск. Нархозучета.
       gb_spravka: true
       spravka: true
     - id: '45034'
       num: '28'
       name: КАТЕРУХИН <br/> Николай Петрович
+      rowinpage: '16'
       primzv: Начальник Политуправления САВО.
       gb_spravka: true
       spravka: true
 - pageintom: '3'
   image: v14/17-171-420-003.jpg
+  title: ''
   sublists:
   - sublid: '669'
     persons:
     - id: '45035'
       num: '29'
       name: КОБЕЛЬКОВ <br/> Василий Андреевич
+      rowinpage: '1'
       primzv: Ст. экономист отдела Материального снабжения Наркомзрава РСФСР.
       gb_spravka: true
       spravka: true
     - id: '45036'
       num: '30'
       name: КОВАЛЕНКО <br/> Иван Ефимович
+      rowinpage: '2'
       primzv: Бывший сотрудник УНКВД по Краснодарскому краю.
       gb_spravka: true
       spravka: true
     - id: '45037'
       num: '31'
       name: КУЗНЕЦОВ <br/> Алексей Иванович
+      rowinpage: '3'
       primzv: Подсобный рабочий на Московском аффинажном з-де.
       gb_spravka: true
     - id: '45038'
       num: '32'
       name: КУЗНЕЦОВА <br/> Аграфена Никитична
+      rowinpage: '4'
       primzv: Домашняя хозяйка.
       gb_spravka: true
     - id: '45039'
       num: '33'
       name: ЛАВРЕНТЬЕВ <br/> Михаил Васильевич
+      rowinpage: '5'
       primzv: Пом. гл. геолога по разработке тр. «Молотовнефть».
       gb_spravka: true
       spravka: true
     - id: '45040'
       num: '34'
       name: ЛАВРОВ <br/> Николай Иванович
+      rowinpage: '6'
       primzv: Пом. машиниста ст. Петропавловск Омской ж.д.
       gb_spravka: true
       spravka: true
     - id: '45041'
       num: '35'
       name: ЛЕВИТТ <br/> Павел Михайлович
+      rowinpage: '7'
       primzv: Редактор современной литературы «Ленгосиздата».
       gb_spravka: true
       spravka: true
     - id: '45042'
       num: '36'
       name: ЛЕОНОВ-НЕМИРОВСКИЙ <br/> Леонид Исаакович
+      rowinpage: '8'
       primzv: Зам. Наркома Внутр. Дел Узбекистана.
       gb_spravka: true
       spravka: true
     - id: '45043'
       num: '37'
       name: МАМЛЕЙ <br/> Ахмед Набиулич
+      rowinpage: '9'
       primzv: Нач. Планово-Экономич. отдела Совмонвнуторг.
       gb_spravka: true
     - id: '45044'
       num: '38'
       name: МИКЕЛАДЗЕ <br/> Арчил Соломонович
+      rowinpage: '10'
       primzv: Инженер завода Центролит в Ленинграде.
       gb_spravka: true
       spravka: true
     - id: '45045'
       num: '39'
       name: МИЛИЦИЯН <br/> Мартоха Яковлевна
+      rowinpage: '11'
       primzv: Домашняя хозяйка.
       gb_spravka: true
     - id: '45046'
       num: '40'
       name: МУРСАЛОВ, <br/> он же АХТУНСКИЙ Ахмедбек Мурсалович
+      rowinpage: '12'
       primzv: Начальник Заготторготдела завода № 182.
       gb_spravka: true
     - id: '45047'
       num: '41'
       name: МОКЕЕВ <br/> Иван Ефимович
+      rowinpage: '13'
       primzv: Зав. Сектором отдела печати при ЦК ВКП(б).
       doublesexists: true
       gb_spravka: true
     - id: '45048'
       num: '42'
       name: МУНКО-ГОМБОЖАБИН <br/>
+      rowinpage: '14'
       primzv: Нач. отд-ния погранотряда МВД МНР.
       gb_spravka: true
       spravka: true
     - id: '45049'
       num: '43'
       name: МУХИН <br/> Геннадий Иванович
+      rowinpage: '15'
       primzv: Врид. нач. 1 отд-ния 2 отд. УГБ НКВД по Краснодарск. краю.
       gb_spravka: true
       spravka: true
     - id: '45050'
       num: '44'
       name: МЯСОЕДОВ <br/> Николай Александрович
+      rowinpage: '16'
       primzv: Преподаватель Моск. Энергетического института.
       gb_spravka: true
       spravka: true
 - pageintom: '4'
   image: v14/17-171-420-004.jpg
+  title: ''
   sublists:
   - sublid: '669'
     persons:
     - id: '45051'
       num: '45'
       name: НАДЕЖДИН <br/> Николай Леонидович
+      rowinpage: '1'
       primzv: Зам. нач. отд. организации подготовки работ в Упр. стр-ва магистрали
         Москва-Хабаровск (Наркомсвязь).
       gb_spravka: true
     - id: '45052'
       num: '46'
       name: ОЛЕЙНИКОВ <br/> Федор Моисеевич
+      rowinpage: '2'
       primzv: Нач. отд. снабжения Челябинского тракторного завода.
       gb_spravka: true
     - id: '45053'
       num: '47'
       name: ОСКЕРКО <br/> Иосиф Станиславович
+      rowinpage: '3'
       primzv: Пом. нач. Краковской ж.д. в бывш. Польше.
       gb_spravka: true
     - id: '45054'
       num: '48'
       name: ПЕРЕПЕЛКИН <br/> Александр Иванович
+      rowinpage: '4'
       primzv: Нач. телеграф–телефон. отд. Московского почтамта.
       gb_spravka: true
       spravka: true
     - id: '45055'
       num: '49'
       name: ПОКРЫШКИН <br/> Никодим Анатольевич
+      rowinpage: '5'
       primzv: Секретарь Ишимского Райзо (Омская область).
       gb_spravka: true
       spravka: true
     - id: '45056'
       num: '50'
       name: РАЕВСКИЙ <br/> Петр Семенович
+      rowinpage: '6'
       primzv: Нач. Ново-Черкасской тюрьмы УНКВД по Ростовск. области.
       gb_spravka: true
       spravka: true
     - id: '45057'
       num: '51'
       name: РОМАНОВ <br/> Михаил Васильевич
+      rowinpage: '7'
       primzv: Начальник УРКМ НКВД Узб. ССР.
       gb_spravka: true
       spravka: true
     - id: '45058'
       num: '52'
       name: РУБЦОВ <br/> Дмитрий Иванович
+      rowinpage: '8'
       primzv: Нач. Окружн. отд-ния по призыву в войска НКВД.
       gb_spravka: true
       spravka: true
     - id: '45059'
       num: '53'
       name: САЛТЫМАКОВ <br/> Тимофей Кондратьевич
+      rowinpage: '9'
       primzv: Зам. нач. Следчасти УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
     - id: '45060'
       num: '54'
       name: СЕВОСТЬЯНОВ <br/> Иван Степанович
+      rowinpage: '10'
       primzv: Центр. Совет Осоавиахима – сотрудник.
       gb_spravka: true
     - id: '45061'
       num: '55'
       name: СМОЛЬНИКОВ <br/> Василий Иванович
+      rowinpage: '11'
       primzv: Начальник Бийского сектора УНКВД Алтайского края.
       gb_spravka: true
       spravka: true
     - id: '45062'
       num: '56'
       name: СОКОЛОВСКИЙ <br/> Георгий Викентьевич
+      rowinpage: '12'
       primzv: Отв. исполн. по хоз. части Политуправления ГУСМП.
       gb_spravka: true
     - id: '45063'
       num: '57'
       name: СТЕПАНОВ <br/> Александр Терентьевич
+      rowinpage: '13'
       primzv: Нач. отд. кадров УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
     - id: '45064'
       num: '58'
       name: СХИРТЛАДЗЕ <br/> Петр Спиридонович
+      rowinpage: '14'
       primzv: Нач. отд. кадров Наркомзема Дагестанской АССР.
       gb_spravka: true
     - id: '45065'
       num: '59'
       name: ТИМОХИН <br/> Василий Дмитриевич
+      rowinpage: '15'
       primzv: Гл. инж. жилищн. отд. Гл. Упр. Гражд. Воздушного флота.
       gb_spravka: true
     - id: '45066'
       num: '60'
       name: ФЕЙГИНА <br/> Любовь Ароновна
+      rowinpage: '16'
       primzv: Художествен. редактор Гослитиздата.
       gb_spravka: true
       spravka: true
 - pageintom: '5'
   image: v14/17-171-420-005.jpg
+  title: ''
   sublists:
   - sublid: '669'
     persons:
     - id: '45067'
       num: '61'
       name: ЧЕРСТВЕНКОВ <br/> Иван Алексеевич
+      rowinpage: '1'
       primzv: Председ. Приморского областного суда.
       gb_spravka: true
       spravka: true
     - id: '45068'
       num: '62'
       name: ШАХОВ <br/> Дмитрий Александрович
+      rowinpage: '2'
       primzv: Начальник УНКВД Молотовской области.
       gb_spravka: true
       spravka: true
     - id: '45069'
       num: '63'
       name: ШУТИЛИН <br/> Илья Яковлевич
+      rowinpage: '3'
       primzv: Нач. 6 отд. УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
     - id: '45070'
       num: '64'
       name: ШКЛЯРУК <br/> Владимир Антонович
+      rowinpage: '4'
       primzv: До ареста занимался собственным хозяйством.
       gb_spravka: true
       spravka: true
     - id: '45071'
       num: '65'
       name: ЮРКИН <br/> Иван Яковлевич
+      rowinpage: '5'
       primzv: Нач. Следчасти УНКВД по Алтайскому краю.
       gb_spravka: true
       spravka: true
 - pageintom: '6'
   image: v14/17-171-420-006.jpg
+  title: null
   sublists: []
 - pageintom: '7'
   image: v14/17-171-420-007.jpg
+  title: null
   sublists: []
 - pageintom: '8'
   image: v14/17-171-420-008.jpg
+  title: null
   sublists: []
 - pageintom: '9'
   image: v14/17-171-420-009.jpg
+  title: null
   sublists: []
 - pageintom: '10'
   image: v14/17-171-420-010.jpg
+  title: null
   sublists: []
 - pageintom: '11'
   image: v14/17-171-420-011.jpg
+  title: null
   sublists: []
 - pageintom: '12'
   image: v14/17-171-420-012.jpg
+  title: null
   sublists: []
 - pageintom: '13'
   image: v14/17-171-420-013.jpg
+  title: null
   sublists: []
 - pageintom: '14'
   image: v14/17-171-420-014.jpg
+  title: null
   sublists: []
 - pageintom: '15'
   image: v14/17-171-420-015.jpg
+  title: null
   sublists: []
 - pageintom: '16'
   image: v14/17-171-420-016.jpg
+  title: null
   sublists: []
 - pageintom: '17'
   image: v14/17-171-420-017.jpg
+  title: null
   sublists: []
 - pageintom: '18'
   image: v14/17-171-420-018.jpg
+  title: null
   sublists: []
 - pageintom: '19'
   image: v14/17-171-420-019.jpg
+  title: null
   sublists: []
 - pageintom: '20'
   image: v14/17-171-420-020.jpg
+  title: null
   sublists: []
 - pageintom: '21'
   image: v14/17-171-420-021.jpg
+  title: null
   sublists: []
 - pageintom: '22'
   image: v14/17-171-420-022.jpg
+  title: null
   sublists: []
 - pageintom: '23'
   image: v14/17-171-420-023.jpg
+  title: null
   sublists: []
 - pageintom: '24'
   image: v14/17-171-420-024.jpg
+  title: null
   sublists: []
 - pageintom: '25'
   image: v14/17-171-420-025.jpg
+  title: null
   sublists: []
 - pageintom: '26'
   image: v14/17-171-420-026.jpg
+  title: null
   sublists: []
 - pageintom: '27'
   image: v14/17-171-420-027.jpg
+  title: null
   sublists: []
 - pageintom: '28'
   image: v14/17-171-420-028.jpg
+  title: null
   sublists: []
 - pageintom: '29'
   image: v14/17-171-420-029.jpg
+  title: null
   sublists: []
 - pageintom: '30'
   image: v14/17-171-420-030.jpg
+  title: null
   sublists: []
 - pageintom: '31'
   image: v14/17-171-420-031.jpg
+  title: null
   sublists: []
 - pageintom: '32'
   image: v14/17-171-420-032.jpg
+  title: null
   sublists: []
 - pageintom: '33'
   image: v14/17-171-420-033.jpg
+  title: null
   sublists: []
 - pageintom: '34'
   image: v14/17-171-420-034.jpg
+  title: null
   sublists: []
 - pageintom: '35'
   image: v14/17-171-420-035.jpg
+  title: null
   sublists: []
 - pageintom: '36'
   image: v14/17-171-420-036.jpg
+  title: null
   sublists: []
 - pageintom: '37'
   image: v14/17-171-420-037.jpg
+  title: null
   sublists: []
 - pageintom: '38'
   image: v14/17-171-420-038.jpg
+  title: null
   sublists: []
 - pageintom: '39'
   image: v14/17-171-420-039.jpg
+  title: null
   sublists: []
 - pageintom: '40'
   image: v14/17-171-420-040.jpg
+  title: null
   sublists: []
 - pageintom: '41'
   image: v14/17-171-420-041.jpg
+  title: null
   sublists: []
 - pageintom: '42'
   image: v14/17-171-420-042.jpg
+  title: null
   sublists: []
 - pageintom: '43'
   image: v14/17-171-420-043.jpg
+  title: null
   sublists: []
 - pageintom: '44'
   image: v14/17-171-420-044.jpg
+  title: null
   sublists: []
 - pageintom: '45'
   image: v14/17-171-420-045.jpg
+  title: null
   sublists: []
 - pageintom: '46'
   image: v14/17-171-420-046.jpg
+  title: null
   sublists: []
 - pageintom: '47'
   image: v14/17-171-420-047.jpg
+  title: null
   sublists: []
 - pageintom: '48'
   image: v14/17-171-420-048.jpg
+  title: null
   sublists: []
 - pageintom: '49'
   image: v14/17-171-420-049.jpg
+  title: null
   sublists: []
 - pageintom: '50'
   image: v14/17-171-420-050.jpg
+  title: null
   sublists: []
 - pageintom: '51'
   image: v14/17-171-420-051.jpg
+  title: null
   sublists: []
 - pageintom: '52'
   image: v14/17-171-420-052.jpg
+  title: null
   sublists: []
 - pageintom: '53'
   image: v14/17-171-420-053.jpg
+  title: null
   sublists: []
 - pageintom: '54'
   image: v14/17-171-420-054.jpg
+  title: null
   sublists: []
 - pageintom: '55'
   image: v14/17-171-420-055.jpg
+  title: null
   sublists: []
 - pageintom: '56'
   image: v14/17-171-420-056.jpg
+  title: null
   sublists: []
 - pageintom: '57'
   image: v14/17-171-420-057.jpg
+  title: null
   sublists: []
 - pageintom: '58'
   image: v14/17-171-420-058.jpg
+  title: null
   sublists: []
 - pageintom: '59'
   image: v14/17-171-420-059.jpg
+  title: null
   sublists: []
 - pageintom: '60'
   image: v14/17-171-420-060.jpg
+  title: null
   sublists: []
 - pageintom: '61'
   image: v14/17-171-420-061.jpg
+  title: null
   sublists: []
 - pageintom: '62'
   image: v14/17-171-420-062.jpg
+  title: null
   sublists: []
 - pageintom: '63'
   image: v14/17-171-420-063.jpg
+  title: null
   sublists: []
 - pageintom: '64'
   image: v14/17-171-420-064.jpg
+  title: null
   sublists: []
 - pageintom: '65'
   image: v14/17-171-420-065.jpg
+  title: null
   sublists: []
 - pageintom: '66'
   image: v14/17-171-420-066.jpg
+  title: null
   sublists: []
 - pageintom: '67'
   image: v14/17-171-420-067.jpg
+  title: null
   sublists: []
 - pageintom: '68'
   image: v14/17-171-420-068.jpg
+  title: null
   sublists: []

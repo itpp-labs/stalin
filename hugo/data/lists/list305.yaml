@@ -1,9 +1,10 @@
 id: '305'
 title: Список лиц - Орловская область // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '150'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,112 +30,139 @@ sublists:
 pages:
 - pageintom: '150'
   image: v08/17-171-416-150.jpg
+  title: null
   sublists: []
 - pageintom: '151'
   image: v08/17-171-416-151.jpg
+  title: null
   sublists: []
 - pageintom: '152'
   image: v08/17-171-416-152.jpg
+  title: null
   sublists:
   - sublid: '554'
     persons:
     - id: '30961'
       num: '1'
       name: АРХИПОВ Николай Николаевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ОРЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '30962'
       num: '2'
       name: БЕРЕЗОВСКАЯ Александра Павловна
+      rowinpage: '2'
       spravka: true
     - id: '30963'
       num: '3'
       name: БОГРАД Александр Моисеевич
+      rowinpage: '3'
       spravka: true
     - id: '30964'
       num: '4'
       name: ВАСИЛЬЕВА Надежда Константиновна
+      rowinpage: '4'
       spravka: true
     - id: '30965'
       num: '5'
       name: ВОРОШНИН Николай Матвеевич
+      rowinpage: '5'
       spravka: true
     - id: '30966'
       num: '6'
       name: ГАВРИЛОВА Евгения Александровна
+      rowinpage: '6'
       spravka: true
     - id: '30967'
       num: '7'
       name: ДЕВЯТОВ Михаил Васильевич
+      rowinpage: '7'
       spravka: true
     - id: '30968'
       num: '8'
       name: КАЗАНСКИЙ Всеволод Владимирович
+      rowinpage: '8'
       spravka: true
     - id: '30969'
       num: '9'
       name: ЛИСОВСКИЙ Петр Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '30970'
       num: '10'
       name: ЛУЦЕНКО Иван Михеевич
+      rowinpage: '10'
       spravka: true
     - id: '30971'
       num: '11'
       name: МАРИНИН Владимир Семенович
+      rowinpage: '11'
       spravka: true
     - id: '30972'
       num: '12'
       name: МИЛКОВСКИЙ Иван Антонович
+      rowinpage: '12'
       spravka: true
     - id: '30973'
       num: '13'
       name: МИНЦЕНГОФ Арнольд Густавович
+      rowinpage: '13'
       spravka: true
     - id: '30974'
       num: '14'
       name: МОИСЕИЧЕВ Михаил Дмитриевич
+      rowinpage: '14'
       spravka: true
     - id: '30975'
       num: '15'
       name: ПЕТЕРСОН Евгений Рудольфович
+      rowinpage: '15'
       spravka: true
     - id: '30976'
       num: '16'
       name: РУДИН Богуслав Израилевич
+      rowinpage: '16'
       spravka: true
     - id: '30977'
       num: '17'
       name: ТЕЛЕГИН Валерий Дмитриевич
+      rowinpage: '17'
       spravka: true
     - id: '30978'
       num: '18'
       name: ФИЛОНОВ Василий Ефимович
+      rowinpage: '18'
       spravka: true
 - pageintom: '153'
   image: v08/17-171-416-153.jpg
+  title: null
   sublists:
   - sublid: '554'
     persons:
     - id: '30979'
       num: '1'
       name: ВОЛГИН Вадим Всеволодович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОРЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '30980'
       num: '2'
       name: КРАСНИКОВ Петр Филиппович
+      rowinpage: '2'
       spravka: true
     - id: '30981'
       num: '3'
       name: КУТАФИН Яков Павлович
+      rowinpage: '3'
       spravka: true
     - id: '30982'
       num: '4'
       name: МИЛЕНУШКИН Николай Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '30983'
       num: '5'
       name: ЧУПАХИН Григорий Борисович
+      rowinpage: '5'
       spravka: true

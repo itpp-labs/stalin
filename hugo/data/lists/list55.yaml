@@ -1,9 +1,10 @@
 id: '55'
 title: 'Список лиц: Казахская ССР // 10 августа 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '154'
 date: '1937-08-10'
+date_ru: 10.08.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -30,189 +31,234 @@ sublists:
 pages:
 - pageintom: '154'
   image: v02/17-171-410-154.jpg
+  title: null
   sublists: []
 - pageintom: '155'
   image: v02/17-171-410-155.jpg
+  title: null
   sublists: []
 - pageintom: '156'
   image: v02/17-171-410-156.jpg
+  title: null
   sublists:
   - sublid: '40'
     persons:
     - id: '4920'
       num: '1'
       name: АГЕЕВ Василий Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '4921'
       num: '2'
       name: АДАШЕВ Николай Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '4922'
       num: '3'
       name: АНИСИМОВ Николай Григорьевич
+      rowinpage: '3'
       spravka: true
     - id: '4923'
       num: '4'
       name: АТАМАНЕНКО Иван Борисович
+      rowinpage: '4'
       spravka: true
     - id: '4924'
       num: '5'
       name: БЫКОВ Александр Фотиевич
+      rowinpage: '5'
       spravka: true
     - id: '4925'
       num: '6'
       name: ВЕБЕР Владимир Федорович
+      rowinpage: '6'
       spravka: true
     - id: '4926'
       num: '7'
       name: ВИЦМАН Лев Эдуардович
+      rowinpage: '7'
       spravka: true
     - id: '4927'
       num: '8'
       name: ГОНИКМАН Хана Львовна
+      rowinpage: '8'
       spravka: true
     - id: '4928'
       num: '9'
       name: ИОГАНСОН Иван Иванович
+      rowinpage: '9'
       spravka: true
     - id: '4929'
       num: '10'
       name: КАВЕРНЕГО Иван Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '4930'
       num: '11'
       name: КЕЛЬМАНСОН Анатолий Израилевич
+      rowinpage: '11'
       spravka: true
     - id: '4931'
       num: '12'
       name: КРАУСС-ЭРДЕШ Елена Сигизмундовна
+      rowinpage: '12'
       spravka: true
     - id: '4932'
       num: '13'
       name: ЛАМБРОС Павел Алексеевич
+      rowinpage: '13'
       spravka: true
     - id: '4933'
       num: '14'
       name: ЛАРИН Михаил Николаевич
+      rowinpage: '14'
       spravka: true
     - id: '4934'
       num: '15'
       name: МАМЫРОВ (МАМЫРБАЕВ) Маулетхан Хаирбекович
+      rowinpage: '15'
       spravka: true
     - id: '4935'
       num: '16'
       name: МАРКОВ Александр Александрович
+      rowinpage: '16'
       spravka: true
     - id: '4936'
       num: '17'
       name: МИРМОВИЧ Илья Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '4937'
       num: '18'
       name: НЕВЗОРОВ Иван Егорович
+      rowinpage: '18'
       spravka: true
     - id: '4938'
       num: '19'
       name: ПАРАДИЕВ Петр Павлович
+      rowinpage: '19'
       spravka: true
     - id: '4939'
       num: '20'
       name: ПЕРСИЦ Рувим Львович
+      rowinpage: '20'
       spravka: true
     - id: '4940'
       num: '21'
       name: ПЕСКИН Ананий Анисимович
+      rowinpage: '21'
       spravka: true
     - id: '4941'
       num: '22'
       name: ПИОНТКЕВИЧ Леонид Никифорович
+      rowinpage: '22'
       spravka: true
     - id: '4942'
       num: '23'
       name: ПУГАЧЕВ Борис Михайлович
+      rowinpage: '23'
       spravka: true
     - id: '4943'
       num: '24'
       name: СКОРНЯКОВ Александр Николаевич
+      rowinpage: '24'
       spravka: true
 - pageintom: '157'
   image: v02/17-171-410-157.jpg
+  title: Казахская ССР
   sublists:
   - sublid: '40'
     persons:
     - id: '4944'
       num: '25'
       name: СКОРНЯКОВ Георгий Георгиевич
+      rowinpage: '1'
       spravka: true
     - id: '4945'
       num: '26'
       name: СМАГА Кирилл Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '4946'
       num: '27'
       name: ТЕРЕЩЕНКО Сергей Петрович
+      rowinpage: '3'
       spravka: true
     - id: '4947'
       num: '28'
       name: ТОНИН (САРСЕНЕВ) Халил Букончинович
+      rowinpage: '4'
       spravka: true
     - id: '4948'
       num: '29'
       name: ФРИДЛЯНД Симон Львович
+      rowinpage: '5'
       spravka: true
 - pageintom: '158'
   image: v02/17-171-410-158.jpg
+  title: null
   sublists:
   - sublid: '40'
     persons:
     - id: '4949'
       num: '1'
       name: АЛЛЕШ Людвиг Иосифович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ </u><br /><u> КАЗАХСКАЯ
         С.С.Р. </u></p><p align="right"><u>1-я категория</u>
 - pageintom: '159'
   image: v02/17-171-410-159.jpg
+  title: null
   sublists: []
 - pageintom: '160'
   image: v02/17-171-410-160.jpg
+  title: null
   sublists:
   - sublid: '40'
     persons:
     - id: '4950'
       num: '1'
       name: ЗЕЛЕНСКИЙ Антон Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
     - id: '4951'
       num: '2'
       name: КОВАЛЕНКО Алексей Иванович
+      rowinpage: '2'
       spravka: true
     - id: '4952'
       num: '3'
       name: МИРОХИН Федор Владимирович
+      rowinpage: '3'
       spravka: true
     - id: '4953'
       num: '4'
       name: ПИУНОВ Афанасий Александрович
+      rowinpage: '4'
       spravka: true
     - id: '4954'
       num: '5'
       name: СЛАУТИН Павел Петрович
+      rowinpage: '5'
       spravka: true
     - id: '4955'
       num: '6'
       name: СОЛОВЬЕВ Николай Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '4956'
       num: '7'
       name: ШАПОШНИКОВ Иосиф Сергеевич
+      rowinpage: '7'
       spravka: true
     - id: '4957'
       num: '8'
       name: ШАПОШНИКОВА Марина Ивановна
+      rowinpage: '8'
       spravka: true

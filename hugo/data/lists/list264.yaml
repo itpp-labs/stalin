@@ -1,9 +1,10 @@
 id: '264'
 title: Список лиц - Свердловская область // от 5 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '98'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,169 +30,210 @@ sublists:
 pages:
 - pageintom: '98'
   image: v07/17-171-415-098.jpg
+  title: null
   sublists: []
 - pageintom: '99'
   image: v07/17-171-415-099.jpg
+  title: null
   sublists: []
 - pageintom: '100'
   image: v07/17-171-415-100.jpg
+  title: null
   sublists:
   - sublid: '489'
     persons:
     - id: '26800'
       num: '1'
       name: АФАНАСЬЕВ Петр Михайлович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '26801'
       num: '2'
       name: БЕЛОЗЕРОВ-ГЛАДЫШЕВ Леонид Дмитриевич
+      rowinpage: '2'
       spravka: true
     - id: '26802'
       num: '3'
       name: ДМИТРИЕВ Георгий Степанович
+      rowinpage: '3'
       spravka: true
     - id: '26803'
       num: '4'
       name: ЕСИКОВ Григорий Петрович
+      rowinpage: '4'
       spravka: true
     - id: '26804'
       num: '5'
       name: ЕФРЕМОВ Аркадий Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '26805'
       num: '6'
       name: ЗАЛУПЕНКОВ Павел Степанович
+      rowinpage: '6'
       spravka: true
     - id: '26806'
       num: '7'
       name: ЗАХАРОВ Алексей Степанович
+      rowinpage: '7'
     - id: '26807'
       num: '8'
       name: ЗЯБКИН Анисим Ильич
+      rowinpage: '8'
       spravka: true
     - id: '26808'
       num: '9'
       name: ИВАНОВ Александр Яковлевич
+      rowinpage: '9'
       spravka: true
     - id: '26809'
       num: '10'
       name: ИВАНЧЕНКО Яков Павлович
+      rowinpage: '10'
       doublesexists: true
       spravka: true
     - id: '26810'
       num: '11'
       name: КАЛУГИН Иван Владимирович
+      rowinpage: '11'
       spravka: true
     - id: '26811'
       num: '12'
       name: КАТУГИН Михаил Иванович
+      rowinpage: '12'
       spravka: true
     - id: '26812'
       num: '13'
       name: КОЗЕРМАН Наум Михайлович
+      rowinpage: '13'
       spravka: true
     - id: '26813'
       num: '14'
       name: КОРОБЕЙНИКОВ Григорий Иванович
+      rowinpage: '14'
     - id: '26814'
       num: '15'
       name: КОРОВИН Василий Дмитриевич
+      rowinpage: '15'
       spravka: true
     - id: '26815'
       num: '16'
       name: НОВИКОВ Николай Александрович
+      rowinpage: '16'
       spravka: true
     - id: '26816'
       num: '17'
       name: НОСОВ Павел Иванович
+      rowinpage: '17'
       spravka: true
     - id: '26817'
       num: '18'
       name: ПОЛЯНСКИЙ Никифор Александрович
+      rowinpage: '18'
       spravka: true
     - id: '26818'
       num: '19'
       name: ПОТАСКУЕВ Федор Иванович
+      rowinpage: '19'
       spravka: true
     - id: '26819'
       num: '20'
       name: РАЧЕВ Александр Леонтьевич
+      rowinpage: '20'
       spravka: true
 - pageintom: '101'
   image: v07/17-171-415-101.jpg
+  title: Свердловская область
   sublists:
   - sublid: '489'
     persons:
     - id: '26820'
       num: '21'
       name: РЫЧКОВ Николай Васильевич
+      rowinpage: '1'
       spravka: true
     - id: '26821'
       num: '22'
       name: СВИННИКОВ Георгий Александрович
+      rowinpage: '2'
       spravka: true
     - id: '26822'
       num: '23'
       name: СИМОНОВ Алексей Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '26823'
       num: '24'
       name: СТЕПАНЧЕНКО Михаил Константинович
+      rowinpage: '4'
       spravka: true
     - id: '26824'
       num: '25'
       name: ТАГИЛЬЦЕВ Григорий Матвеевич
+      rowinpage: '5'
       spravka: true
     - id: '26825'
       num: '26'
       name: ТРУФАНОВ Анатолий Андреевич
+      rowinpage: '6'
       spravka: true
     - id: '26826'
       num: '27'
       name: ФОМИНЫХ Андрей Петрович
+      rowinpage: '7'
       spravka: true
     - id: '26827'
       num: '28'
       name: ФРОММ Вильгельм Павлович
+      rowinpage: '8'
       spravka: true
     - id: '26828'
       num: '29'
       name: ЧИКУРОВ Мирон Иванович
+      rowinpage: '9'
       spravka: true
     - id: '26829'
       num: '30'
       name: ЧИРКОВ Федор Зотович
+      rowinpage: '10'
       spravka: true
     - id: '26830'
       num: '31'
       name: ШЕИН Михаил Петрович
+      rowinpage: '11'
       spravka: true
     - id: '26831'
       num: '32'
       name: ШПЕХТ Евгений Федотович
+      rowinpage: '12'
       spravka: true
     - id: '26832'
       num: '33'
       name: ЯРОСЛАВЦЕВ Вениамин Павлович
+      rowinpage: '13'
       spravka: true
 - pageintom: '102'
   image: v07/17-171-415-102.jpg
+  title: null
   sublists:
   - sublid: '489'
     persons:
     - id: '26833'
       num: '1'
       name: АСТАШЕВ Михаил Борисович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '26834'
       num: '2'
       name: БОГОМОЛОВ Федор Петрович
+      rowinpage: '2'
       spravka: true
     - id: '26835'
       num: '3'
       name: ПЛОТЦЕВ Стахий Матвеевич
+      rowinpage: '3'
       spravka: true

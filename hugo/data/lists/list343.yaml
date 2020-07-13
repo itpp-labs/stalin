@@ -1,9 +1,10 @@
 id: '343'
 title: Список лиц - Горьковская область // 3 I 38
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '83'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,153 +30,191 @@ sublists:
 pages:
 - pageintom: '83'
   image: v06/17-171-414-083.jpg
+  title: null
   sublists: []
 - pageintom: '84'
   image: v06/17-171-414-084.jpg
+  title: null
   sublists:
   - sublid: '404'
     persons:
     - id: '20413'
       num: '1'
       name: АНИСИМОВ Александр Кондратьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ГОРЬКОВСКАЯ ОБЛАСТЬ </u><br /><u> (бывшие сотрудники
         НКВД) </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '20414'
       num: '2'
       name: БАРЫШЕВ-РУНЧКОВСКИЙ Иван Георгиевич, он же Феликс Войцехович
+      rowinpage: '2'
       spravka: true
     - id: '20415'
       num: '3'
       name: БРОНШТЕЙН Ким Соломонович
+      rowinpage: '3'
     - id: '20416'
       num: '4'
       name: БУКАНОВ Александр Константинович, он же ЗИЛЬБЕРМАН-ГУТМАН-КИСЕЛЕВ
+      rowinpage: '4'
       spravka: true
     - id: '20417'
       num: '5'
       name: ВОЛЬНЫЙ Трофим Павлович
+      rowinpage: '5'
       spravka: true
     - id: '20418'
       num: '6'
       name: ГРУНТМАН Сергей Юльевич
+      rowinpage: '6'
       spravka: true
     - id: '20419'
       num: '7'
       name: ДРАЛЮК Нахим Бершевич
+      rowinpage: '7'
       spravka: true
     - id: '20420'
       num: '8'
       name: ЕВПЛОВ Павел Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '20421'
       num: '9'
       name: ЖУРАВЛЕВ Павел Иванович
+      rowinpage: '9'
       spravka: true
     - id: '20422'
       num: '10'
       name: ЖИДКОВ Николай Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '20423'
       num: '11'
       name: ЖУКОВСКИЙ Митрофан Павлович
+      rowinpage: '11'
       spravka: true
     - id: '20424'
       num: '12'
       name: КУЛИКОВ Иван Иванович
+      rowinpage: '12'
       spravka: true
     - id: '20425'
       num: '13'
       name: КОЛОБОВ Владимир Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '20426'
       num: '14'
       name: КАЗАНСКИЙ Леонид Александрович
+      rowinpage: '14'
       spravka: true
     - id: '20427'
       num: '15'
       name: КИРСТ-ВИТВИЦКИЙ Вильгельм Вильгельмович
+      rowinpage: '15'
       spravka: true
     - id: '20428'
       num: '16'
       name: КУДОЯРОВ Иван Алексеевич
+      rowinpage: '16'
       spravka: true
     - id: '20429'
       num: '17'
       name: ЛИПЦЕРОВ Савва Ефимович
+      rowinpage: '17'
       spravka: true
     - id: '20430'
       num: '18'
       name: ЛОКТЕВ Алексей Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '20431'
       num: '19'
       name: МАТЮТА Андрей Митрофанович
+      rowinpage: '19'
       spravka: true
 - pageintom: '85'
   image: v06/17-171-414-085.jpg
+  title: Горьковская область
   sublists:
   - sublid: '404'
     persons:
     - id: '20432'
       num: '20'
       name: НАУМОВ Александр Иванович
+      rowinpage: '1'
       spravka: true
     - id: '20433'
       num: '21'
       name: НИКАНОРОВ-СУВОРОВСКИЙ Павел Кириллович
+      rowinpage: '2'
       spravka: true
     - id: '20434'
       num: '22'
       name: ПАВЛОВ Иван Павлович
+      rowinpage: '3'
       spravka: true
     - id: '20435'
       num: '23'
       name: ПАРФИАНОВИЧ Генрих Игнатьевич
+      rowinpage: '4'
     - id: '20436'
       num: '24'
       name: ПУЩЕНКО Олег Петрович
+      rowinpage: '5'
       spravka: true
     - id: '20437'
       num: '25'
       name: РОЗЕНЦВЕЙГ Арон Вениаминович
+      rowinpage: '6'
       spravka: true
     - id: '20438'
       num: '26'
       name: СВЕЧНИКОВ Василий Филиппович
+      rowinpage: '7'
       spravka: true
     - id: '20439'
       num: '27'
       name: СТРЕЛКОВ Павел Михайлович
+      rowinpage: '8'
     - id: '20440'
       num: '28'
       name: СИРОТИН Александр Иванович
+      rowinpage: '9'
       spravka: true
     - id: '20441'
       num: '29'
       name: СВИРИДОВ Леонид Спиридонович
+      rowinpage: '10'
       spravka: true
     - id: '20442'
       num: '30'
       name: СМОЛИЧ Иннокентий Николаевич
+      rowinpage: '11'
       spravka: true
     - id: '20443'
       num: '31'
       name: ТИХОВ Александр Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '20444'
       num: '32'
       name: ХРЮМИН Иван Федорович
+      rowinpage: '13'
       spravka: true
     - id: '20445'
       num: '33'
       name: ЧИТНАЕВ Артемий Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '20446'
       num: '34'
       name: ШИЛИН Петр Алексеевич
+      rowinpage: '15'
       spravka: true
     - id: '20447'
       num: '35'
       name: ШЕР Николай Александрович
+      rowinpage: '16'
       spravka: true

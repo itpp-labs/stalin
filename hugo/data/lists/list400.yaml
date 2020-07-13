@@ -1,9 +1,10 @@
 id: '400'
 title: Список лиц - Армянская ССР // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '140'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,197 +29,245 @@ sublists:
 pages:
 - pageintom: '140'
   image: v11/17-171-419-140.jpg
+  title: null
   sublists: []
 - pageintom: '141'
   image: v11/17-171-419-141.jpg
+  title: null
   sublists: []
 - pageintom: '142'
   image: v11/17-171-419-142.jpg
+  title: null
   sublists:
   - sublid: '623'
     persons:
     - id: '42551'
       num: '1'
       name: АВАКЯН (АВАКОВ) Варткес Антонович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>АРМЯНСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '42552'
       num: '2'
       name: АЙРАПЕТЯН Оник Филиппович
+      rowinpage: '2'
       spravka: true
     - id: '42553'
       num: '3'
       name: АМАРЯН Самвел Погосович
+      rowinpage: '3'
       spravka: true
     - id: '42554'
       num: '4'
       name: АМПЛЕЕВ Яков Александрович
+      rowinpage: '4'
       spravka: true
     - id: '42555'
       num: '5'
       name: АНАНЯН Армен Артемович
+      rowinpage: '5'
       spravka: true
     - id: '42556'
       num: '6'
       name: АРАМЯН Александр Артемович
+      rowinpage: '6'
       spravka: true
     - id: '42557'
       num: '7'
       name: АРУТЮНЯН Гурген Саакович
+      rowinpage: '7'
       spravka: true
     - id: '42558'
       num: '8'
       name: АРУТЮНЯН Манук Киракосович
+      rowinpage: '8'
       spravka: true
     - id: '42559'
       num: '9'
       name: БАБАЯН Хачатур Акопович
+      rowinpage: '9'
       spravka: true
     - id: '42560'
       num: '10'
       name: БАГДАСАРЯН Гайк Маркарович
+      rowinpage: '10'
       spravka: true
     - id: '42561'
       num: '11'
       name: БАЛЬЯН Гайказ Ваганович
+      rowinpage: '11'
       spravka: true
     - id: '42562'
       num: '12'
       name: ВАРТАНЯН Самсон Вартазарович
+      rowinpage: '12'
       spravka: true
     - id: '42563'
       num: '13'
       name: ВАРТАПЕТЯН Варткес Семенович
+      rowinpage: '13'
       spravka: true
     - id: '42564'
       num: '14'
       name: ГАЛУСТЯН Амаяк Саакович
+      rowinpage: '14'
       doublesexists: true
       spravka: true
     - id: '42565'
       num: '15'
       name: ГАРИБЯН Грант Мартиросович
+      rowinpage: '15'
       spravka: true
     - id: '42566'
       num: '16'
       name: ГРИГОРЯН Каро (Карапет) Шамирович
+      rowinpage: '16'
       spravka: true
     - id: '42567'
       num: '17'
       name: ГРИГОРЯН Сисак Геворкович
+      rowinpage: '17'
       spravka: true
     - id: '42568'
       num: '18'
       name: ГУМЕДИН Гурген Хоренович
+      rowinpage: '18'
       spravka: true
     - id: '42569'
       num: '19'
       name: ДОШОЯН Вартан Маркарович
+      rowinpage: '19'
       spravka: true
     - id: '42570'
       num: '20'
       name: ДУЛГАРОВ Александр Аркадьевич
+      rowinpage: '20'
       spravka: true
     - id: '42571'
       num: '21'
       name: ЕСАЯН Гарегин Левонович
+      rowinpage: '21'
       spravka: true
 - pageintom: '143'
   image: v11/17-171-419-143.jpg
+  title: Армянская ССР
   sublists:
   - sublid: '623'
     persons:
     - id: '42572'
       num: '22'
       name: ЗАКОЯН Оганес Никитович
+      rowinpage: '1'
       spravka: true
     - id: '42573'
       num: '23'
       name: КАЗАРЯН Патвакан Осипович
+      rowinpage: '2'
       spravka: true
     - id: '42574'
       num: '24'
       name: ЛЕВИН Михаил Моисеевич
+      rowinpage: '3'
       spravka: true
     - id: '42575'
       num: '25'
       name: МАЛХАСЯН Василий Иванович
+      rowinpage: '4'
       spravka: true
     - id: '42576'
       num: '26'
       name: МАНУЧАРЯН Арам Ваганович
+      rowinpage: '5'
     - id: '42577'
       num: '27'
       name: МЕЛИК-ОСИПОВ Сергей Джумшудович
+      rowinpage: '6'
       spravka: true
     - id: '42578'
       num: '28'
       name: МЕЛКУМЯН Ваган Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '42579'
       num: '29'
       name: МКРТЧЯН Николай Левонович
+      rowinpage: '8'
       spravka: true
     - id: '42580'
       num: '30'
       name: НАВАСАРДЯН Гегам Абисогомович
+      rowinpage: '9'
       spravka: true
     - id: '42581'
       num: '31'
       name: НУРИДЖАНЯН Авис (Аветис) Согомонович
+      rowinpage: '10'
       spravka: true
     - id: '42582'
       num: '32'
       name: ОГАНЕЗОВ Николай Матевосович
+      rowinpage: '11'
       spravka: true
     - id: '42583'
       num: '33'
       name: ОРДУХАНЯН Абел Искандарович
+      rowinpage: '12'
       spravka: true
     - id: '42584'
       num: '34'
       name: ПЕТРОСЯН Петик (Петрос) Езекович
+      rowinpage: '13'
       spravka: true
     - id: '42585'
       num: '35'
       name: САРКИСЯН Александр Данилович
+      rowinpage: '14'
     - id: '42586'
       num: '36'
       name: САФАРЯН Николай Оганесович
+      rowinpage: '15'
       spravka: true
     - id: '42587'
       num: '37'
       name: ТЕРНАКАЛОВ Саркис Артемович
+      rowinpage: '16'
       spravka: true
     - id: '42588'
       num: '38'
       name: ТОРОСЯН Петик (Петрос) Хачатурович
+      rowinpage: '17'
       spravka: true
     - id: '42589'
       num: '39'
       name: ХАЧАТРЯН Степан Сафарович
+      rowinpage: '18'
       spravka: true
     - id: '42590'
       num: '40'
       name: ХАЧИКЯН Каро (Карапет) Оганесович
+      rowinpage: '19'
       spravka: true
     - id: '42591'
       num: '41'
       name: ХОДЖАМИРЯН Ерванд Христофорович
+      rowinpage: '20'
       spravka: true
     - id: '42592'
       num: '42'
       name: ШАХСУВАРОВ Александр Арутюнович
+      rowinpage: '21'
       spravka: true
 - pageintom: '144'
   image: v11/17-171-419-144.jpg
+  title: null
   sublists:
   - sublid: '623'
     persons:
     - id: '42593'
       num: '1'
       name: АДАМЯН Завен Погосович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>АРМЯНСКАЯ ССР </u></p><p align="right"><u>2-я
@@ -226,72 +275,90 @@ pages:
     - id: '42594'
       num: '2'
       name: АКОПЯН Артавазд Тигранович
+      rowinpage: '2'
       spravka: true
     - id: '42595'
       num: '3'
       name: АКОПЯН Арутюн Антонович
+      rowinpage: '3'
       spravka: true
     - id: '42596'
       num: '4'
       name: АМБАРЦУМЯН Амуни Мкртичевич
+      rowinpage: '4'
       spravka: true
     - id: '42597'
       num: '5'
       name: АМИРАДЖИБИ Михаил Семенович
+      rowinpage: '5'
       spravka: true
     - id: '42598'
       num: '6'
       name: АНТОНЯН Арменак Амазаспович
+      rowinpage: '6'
       spravka: true
     - id: '42599'
       num: '7'
       name: ВАРТАНЯН Амазасп Вартанович
+      rowinpage: '7'
       spravka: true
     - id: '42600'
       num: '8'
       name: ГАБРИЕЛЯН Акоп Тигранович
+      rowinpage: '8'
       spravka: true
     - id: '42601'
       num: '9'
       name: ГАБРИЕЛЯН Генри Габриелович
+      rowinpage: '9'
       spravka: true
     - id: '42602'
       num: '10'
       name: ГЕВОРКЯН Мнацакан Еремович
+      rowinpage: '10'
       spravka: true
     - id: '42603'
       num: '11'
       name: ГОЛТУХЧЯН Левон Мартиросович
+      rowinpage: '11'
       spravka: true
     - id: '42604'
       num: '12'
       name: ГРИГОРЯН Артавазд Аршакович
+      rowinpage: '12'
       spravka: true
     - id: '42605'
       num: '13'
       name: КОЧАР (КОЧАРЯН) Геворк Барсегович
+      rowinpage: '13'
       spravka: true
     - id: '42606'
       num: '14'
       name: КЯЗУМОВ Василий Давидович
+      rowinpage: '14'
       spravka: true
     - id: '42607'
       num: '15'
       name: МАЗМАНЯН Михаил Давидович
+      rowinpage: '15'
       spravka: true
     - id: '42608'
       num: '16'
       name: МЕЛИК-АГАМИРЯН Амаяк Ростомович
+      rowinpage: '16'
       spravka: true
     - id: '42609'
       num: '17'
       name: НАЗАРЯН Сигуш Азарович
+      rowinpage: '17'
       spravka: true
     - id: '42610'
       num: '18'
       name: ПЕТРОСЯН Карапет Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '42611'
       num: '19'
       name: ШИРМАЗАН (ШИРМАЗАНЯН) Григорий Васильевич
+      rowinpage: '19'
       spravka: true

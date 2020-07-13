@@ -1,9 +1,10 @@
 id: '195'
 title: Список лиц - Чечено-Ингушская АССР // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
+  ref: РГАСПИ, ф.17, оп.171, дело 418
   page1: '49'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,228 +29,295 @@ sublists:
 pages:
 - pageintom: '49'
   image: v10/17-171-418-049.jpg
+  title: null
   sublists: []
 - pageintom: '50'
   image: v10/17-171-418-050.jpg
+  title: null
   sublists: []
 - pageintom: '51'
   image: v10/17-171-418-051.jpg
+  title: null
   sublists:
   - sublid: '131'
     persons:
     - id: '37557'
       num: '1'
       name: АЛБОГАЧИЕВ Юсуп Тохович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЧЕНО-ИНГУШСКАЯ АССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '37558'
       num: '2'
       name: АМАГОВ Умалат Тутакович
+      rowinpage: '2'
     - id: '37559'
       num: '3'
       name: АРСАНОВ Саибей Арсанбекович
+      rowinpage: '3'
       spravka: true
     - id: '37560'
       num: '4'
       name: АРСАНУКАЕВ Абумуслим
+      rowinpage: '4'
     - id: '37561'
       num: '5'
       name: АРСАНУКАЕВ Дауд Газиевич
+      rowinpage: '5'
       spravka: true
     - id: '37562'
       num: '6'
       name: АРСАНУКАЕВ Керим
+      rowinpage: '6'
     - id: '37563'
       num: '7'
       name: АРСАНУКАЕВ Халид Уцаевич
+      rowinpage: '7'
     - id: '37564'
       num: '8'
       name: АУШЕВ Магомет Дресович
+      rowinpage: '8'
     - id: '37565'
       num: '9'
       name: БЕХАРЧИХАДЖИЕВ Ильяс
+      rowinpage: '9'
     - id: '37566'
       num: '10'
       name: ВАХАЕВ Хаси Гайтукаевич
+      rowinpage: '10'
       spravka: true
     - id: '37567'
       num: '11'
       name: ВИСАИТОВ Ахмед Висаитович
+      rowinpage: '11'
     - id: '37568'
       num: '12'
       name: ВИСАИТОВ Муслин Висаитович
+      rowinpage: '12'
     - id: '37569'
       num: '13'
       name: ГОЙГОВ Абдулгамид Сипсоевич
+      rowinpage: '13'
       spravka: true
     - id: '37570'
       num: '14'
       name: ГОРЧХАНОВ Али Исаевич
+      rowinpage: '14'
       spravka: true
     - id: '37571'
       num: '15'
       name: ДЖАФАРОВ Ады Магомедович
+      rowinpage: '15'
     - id: '37572'
       num: '16'
       name: ДОЛУХАНОВ Арам Яковлевич
+      rowinpage: '16'
     - id: '37573'
       num: '17'
       name: ДЯТЛОВ Николай Алексеевич
+      rowinpage: '17'
     - id: '37574'
       num: '18'
       name: ЗЯЗИКОВ Идрис Бейсултанович
+      rowinpage: '18'
       spravka: true
     - id: '37575'
       num: '19'
       name: ИВАНЬКО Дмитрий Гаврилович
+      rowinpage: '19'
     - id: '37576'
       num: '20'
       name: ИСТАМУЛОВ Мада Мусаевич
+      rowinpage: '20'
     - id: '37577'
       num: '21'
       name: КАГЕРМАНОВ Усам Усманович
+      rowinpage: '21'
 - pageintom: '52'
   image: v10/17-171-418-052.jpg
+  title: Чечено-Ингушская АССР
   sublists:
   - sublid: '131'
     persons:
     - id: '37578'
       num: '22'
       name: КУРКИЕВ Сосламбек Хадисович
+      rowinpage: '1'
     - id: '37579'
       num: '23'
       name: МАЛЬСАГОВ Хаким Мусукаевич
+      rowinpage: '2'
     - id: '37580'
       num: '24'
       name: МАМАКАЕВ Магомед Амаевич
+      rowinpage: '3'
       spravka: true
     - id: '37581'
       num: '25'
       name: МАХАШЕВ Ибрагим
+      rowinpage: '4'
     - id: '37582'
       num: '26'
       name: МАЦИЕВ Ахмат Гехаевич
+      rowinpage: '5'
       spravka: true
     - id: '37583'
       num: '27'
       name: МЕДЖИЛИЕВ Альберт Берсанович
+      rowinpage: '6'
     - id: '37584'
       num: '28'
       name: МЕЖИДОВ Зеимахан
+      rowinpage: '7'
     - id: '37585'
       num: '29'
       name: МЕХТИЕВ Хасан Асланбекович
+      rowinpage: '8'
     - id: '37586'
       num: '30'
       name: МИДАЕВ Даша Геланович
+      rowinpage: '9'
     - id: '37587'
       num: '31'
       name: МУСАЕВ Пари
+      rowinpage: '10'
     - id: '37588'
       num: '32'
       name: ОКУЕВ Хусейн Арцуевич
+      rowinpage: '11'
     - id: '37589'
       num: '33'
       name: ОМАРОВ Магомед
+      rowinpage: '12'
     - id: '37590'
       num: '34'
       name: ОСМАЕВ Гамид Аслаханович
+      rowinpage: '13'
     - id: '37591'
       num: '35'
       name: ОШАЕВ Халид Дудаевич
+      rowinpage: '14'
       spravka: true
     - id: '37592'
       num: '36'
       name: ПОЛЛАК Иван Васильевич
+      rowinpage: '15'
     - id: '37593'
       num: '37'
       name: САЛАМОВ Абдулхалим Асхабович
+      rowinpage: '16'
       spravka: true
     - id: '37594'
       num: '38'
       name: САПАРОВ Шамсудин Джабаевич
+      rowinpage: '17'
     - id: '37595'
       num: '39'
       name: ТАРАМОВ Абдул Вагап Гакаевич
+      rowinpage: '18'
     - id: '37596'
       num: '40'
       name: ТОВБУЛАТОВ Баудин Товбулатович
+      rowinpage: '19'
     - id: '37597'
       num: '41'
       name: УМАРОВ Хожук
+      rowinpage: '20'
     - id: '37598'
       num: '42'
       name: ФОМИН Гавриил Федорович
+      rowinpage: '21'
     - id: '37599'
       num: '43'
       name: ХАДЖИЕВ Ахмат Атаевич
+      rowinpage: '22'
     - id: '37600'
       num: '44'
       name: ХАМЗАТОВ Махмуд Шамилевич
+      rowinpage: '23'
     - id: '37601'
       num: '45'
       name: ХАСАЕВ Джебраил
+      rowinpage: '24'
       spravka: true
     - id: '37602'
       num: '46'
       name: ЦИЦКИЕВ Висангирей Саулиевич
+      rowinpage: '25'
     - id: '37603'
       num: '47'
       name: ЦУЦАЕВ Магомет Магамадович
+      rowinpage: '26'
     - id: '37604'
       num: '48'
       name: ЧОРИЕВ Асултан Алиханович
+      rowinpage: '27'
     - id: '37605'
       num: '49'
       name: ШАМИЛЕВ Мааз Хаджиевич
+      rowinpage: '28'
 - pageintom: '53'
   image: v10/17-171-418-053.jpg
+  title: Чечено-Ингушская АССР
   sublists:
   - sublid: '131'
     persons:
     - id: '37606'
       num: '50'
       name: ШАТАЕВ Магомед
+      rowinpage: '1'
     - id: '37607'
       num: '51'
       name: ШАХГИРЕЕВ Ахмат Абуевич
+      rowinpage: '2'
     - id: '37608'
       num: '52'
       name: ШЕВЧЕНКО Николай Кондратьевич
+      rowinpage: '3'
     - id: '37609'
       num: '53'
       name: ЭПЕНДИЕВ Дока Муслиевич
+      rowinpage: '4'
     - id: '37610'
       num: '54'
       name: ЮСУПОВ Юнус
+      rowinpage: '5'
     - id: '37611'
       num: '55'
       name: ЯНДАРОВ Халид Эттиевич
+      rowinpage: '6'
       spravka: true
 - pageintom: '54'
   image: v10/17-171-418-054.jpg
+  title: null
   sublists:
   - sublid: '131'
     persons:
     - id: '37612'
       num: '1'
       name: АЛАДЖАНЦ Петр Георгиевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ЧЕЧЕНО-ИНГУШСКАЯ А.С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '37613'
       num: '2'
       name: ВЕДЗИЖЕВ Газимагамет Галихотович
+      rowinpage: '2'
     - id: '37614'
       num: '3'
       name: ГАШИН Степан Ефимович
+      rowinpage: '3'
     - id: '37615'
       num: '4'
       name: ДЫРЧЕНКО Борис Дмитриевич
+      rowinpage: '4'
       spravka: true
     - id: '37616'
       num: '5'
       name: КОРНИЕНКО Александр Дмитриевич
+      rowinpage: '5'
     - id: '37617'
       num: '6'
       name: ПОНОМАРЕВ Константин Петрович
+      rowinpage: '6'

@@ -3,9 +3,10 @@ title: 'Список лиц: Саратовская, Курская, Калин�
   ССР, Дальне-Восточный край, Сталинградская обл., Красноярский край, Омская обл.,
   Крымская АССР // 25 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '77'
 date: '1937-07-25'
+date_ru: 25.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -157,18 +158,22 @@ sublists:
 pages:
 - pageintom: '77'
   image: v02/17-171-410-077.jpg
+  title: null
   sublists: []
 - pageintom: '78'
   image: v02/17-171-410-078.jpg
+  title: null
   sublists: []
 - pageintom: '79'
   image: v02/17-171-410-079.jpg
+  title: null
   sublists:
   - sublid: '182'
     persons:
     - id: '4258'
       num: '1'
       name: АСТРАХАНОВ Виталий Федорович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
@@ -176,507 +181,625 @@ pages:
     - id: '4259'
       num: '2'
       name: АФАНАСЬЕВ Павел Андреевич
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '4260'
       num: '3'
       name: БУРАВЛЕВ Иван Андреевич
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '4261'
       num: '4'
       name: ВАДБОЛЬСКИЙ Всеволод Петрович
+      rowinpage: '4'
     - id: '4262'
       num: '5'
       name: ВАТОЛЛО Виктор Эммануилович
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '4263'
       num: '6'
       name: ВЕРУШКИН Сергей Макарович
+      rowinpage: '6'
       spravka: true
     - id: '4264'
       num: '7'
       name: ГАВВА Дмитрий Никитович
+      rowinpage: '7'
       spravka: true
     - id: '4265'
       num: '8'
       name: ГЕРМАНЮК Ирина Иосифовна
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '4266'
       num: '9'
       name: ЖИРОВ Иван Тихонович
+      rowinpage: '9'
       spravka: true
     - id: '4267'
       num: '10'
       name: ЗЛОТОВ Мирон Семенович
+      rowinpage: '10'
       spravka: true
     - id: '4268'
       num: '11'
       name: КОВТУНОВ Александр Никифорович
+      rowinpage: '11'
       spravka: true
     - id: '4269'
       num: '12'
       name: ЛАПКИН Валерий Семенович
+      rowinpage: '12'
       spravka: true
     - id: '4270'
       num: '13'
       name: ЛЕВИНА Тея Рубиновна
+      rowinpage: '13'
       spravka: true
     - id: '4271'
       num: '14'
       name: ЛЕЙСЛЕ Карл Карлович
+      rowinpage: '14'
       doublesexists: true
       spravka: true
     - id: '4272'
       num: '15'
       name: ЛООС Александр Александрович
+      rowinpage: '15'
       doublesexists: true
       spravka: true
     - id: '4273'
       num: '16'
       name: НОСОВ Яков Иванович
+      rowinpage: '16'
       spravka: true
     - id: '4274'
       num: '17'
       name: ПАВЛОВ Дмитрий Дмитриевич
+      rowinpage: '17'
       doublesexists: true
       spravka: true
     - id: '4275'
       num: '18'
       name: РЕПИН Василий Алексеевич
+      rowinpage: '18'
       doublesexists: true
     - id: '4276'
       num: '19'
       name: СВЕШНИКОВ Павел Петрович
+      rowinpage: '19'
       doublesexists: true
       spravka: true
     - id: '4277'
       num: '20'
       name: СЛЕСАРЕВ Григорий Сергеевич
+      rowinpage: '20'
       spravka: true
     - id: '4278'
       num: '21'
       name: СМИРНОВ Владимир Сергеевич
+      rowinpage: '21'
       spravka: true
     - id: '4279'
       num: '22'
       name: СМИРНОВА Клавдия Михайловна
+      rowinpage: '22'
       spravka: true
     - id: '4280'
       num: '23'
       name: СУППЕС Валентин Яковлевич
+      rowinpage: '23'
       doublesexists: true
       spravka: true
     - id: '4281'
       num: '24'
       name: ТЕМНИКОВ Григорий Иванович
+      rowinpage: '24'
       spravka: true
     - id: '4282'
       num: '25'
       name: ТИМРОТ Георгий Александрович
+      rowinpage: '25'
       spravka: true
     - id: '4283'
       num: '26'
       name: ТОЧЕНЫЙ Семен Иванович
+      rowinpage: '26'
       spravka: true
     - id: '4284'
       num: '27'
       name: ФОГЕЛЬ Иван Карлович
+      rowinpage: '27'
       spravka: true
 - pageintom: '80'
   image: v02/17-171-410-080.jpg
+  title: null
   sublists:
   - sublid: '182'
     persons:
     - id: '4285'
       num: '1'
       name: БАРТЕЛЬ Петр Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '4286'
       num: '2'
       name: БЕЛЬГЕР Христиан Карлович
+      rowinpage: '2'
       spravka: true
     - id: '4287'
       num: '3'
       name: ВАЙНШТЕЙН Агнеса Ефимовна
+      rowinpage: '3'
       spravka: true
     - id: '4288'
       num: '4'
       name: ВЕБЕР Александр Яковлевич
+      rowinpage: '4'
       spravka: true
     - id: '4289'
       num: '5'
       name: ГААН Тобиас Иванович
+      rowinpage: '5'
       spravka: true
     - id: '4290'
       num: '6'
       name: ГЛАДИЛИН Константин Федорович
+      rowinpage: '6'
       spravka: true
     - id: '4291'
       num: '7'
       name: ЕВСЕЕНКО Петр Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '4292'
       num: '8'
       name: ЗЕЙБЕРТ Фридрих Фридрихович
+      rowinpage: '8'
       spravka: true
     - id: '4293'
       num: '9'
       name: КАМЫШНЫЙ Степан Андреевич
+      rowinpage: '9'
       spravka: true
     - id: '4294'
       num: '10'
       name: КАПРАЛОВ Георгий Иванович
+      rowinpage: '10'
       spravka: true
     - id: '4295'
       num: '11'
       name: КЕКСЕЛЬ Гейнрих (он же Андрей) Фридрихович
+      rowinpage: '11'
       spravka: true
     - id: '4296'
       num: '12'
       name: КЕНИГ Герберт Андреевич
+      rowinpage: '12'
       spravka: true
     - id: '4297'
       num: '13'
       name: КОМИССАРЕНКО Василий Федорович
+      rowinpage: '13'
     - id: '4298'
       num: '14'
       name: ЛЕПЕШЕВ Петр Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '4299'
       num: '15'
       name: ЛОРЕНЦ Андрей Александрович
+      rowinpage: '15'
     - id: '4300'
       num: '16'
       name: МАРИНОВ Григорий Владимирович
+      rowinpage: '16'
       spravka: true
     - id: '4301'
       num: '17'
       name: МИХНЮК Василий Александрович
+      rowinpage: '17'
       spravka: true
     - id: '4302'
       num: '18'
       name: НИКАНЕНОК Константин Кириллович
+      rowinpage: '18'
       spravka: true
     - id: '4303'
       num: '19'
       name: ТРУШИН Василий Аверьянович
+      rowinpage: '19'
     - id: '4304'
       num: '20'
       name: ФЕДОТОВ Валентин Никифорович
+      rowinpage: '20'
     - id: '4305'
       num: '21'
       name: ЦИФРИНОВИЧ Зиновий Ефимович
+      rowinpage: '21'
       spravka: true
 - pageintom: '81'
   image: v02/17-171-410-081.jpg
+  title: null
   sublists:
   - sublid: '183'
     persons:
     - id: '4306'
       num: '1'
       name: АДОНИН Петр Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КУРСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4307'
       num: '2'
       name: БРЕУС Александр Ильич
+      rowinpage: '2'
       spravka: true
     - id: '4308'
       num: '3'
       name: ВЛАСОВ Василий Петрович
+      rowinpage: '3'
       spravka: true
     - id: '4309'
       num: '4'
       name: ГОЛОВКОВ Гавриил Никифорович
+      rowinpage: '4'
       spravka: true
     - id: '4310'
       num: '5'
       name: ЗАГНЕР Франц Антонович
+      rowinpage: '5'
       spravka: true
     - id: '4311'
       num: '6'
       name: ИНЯКОВ Яков Антонович
+      rowinpage: '6'
     - id: '4312'
       num: '7'
       name: КОВАЛЕНКО Григорий Романович
+      rowinpage: '7'
       spravka: true
     - id: '4313'
       num: '8'
       name: КОВАЛЕНКО Иван Павлович
+      rowinpage: '8'
       spravka: true
     - id: '4314'
       num: '9'
       name: КОПЫЛОВ Александр Григорьевич
+      rowinpage: '9'
     - id: '4315'
       num: '10'
       name: КУРДЮМОВ Павел Никитич
+      rowinpage: '10'
       spravka: true
     - id: '4316'
       num: '11'
       name: ЛЫСЕНКО Кондрат Федорович
+      rowinpage: '11'
       spravka: true
     - id: '4317'
       num: '12'
       name: ЛЫСЕНКО Федот Федорович
+      rowinpage: '12'
       spravka: true
     - id: '4318'
       num: '13'
       name: МАТОСОВ Константин Гаврилович
+      rowinpage: '13'
       spravka: true
     - id: '4319'
       num: '14'
       name: МОЛОЗИН Сергей Георгиевич
+      rowinpage: '14'
       spravka: true
     - id: '4320'
       num: '15'
       name: НАБОКОВ Максим Петрович
+      rowinpage: '15'
       spravka: true
     - id: '4321'
       num: '16'
       name: НОВИЦКИЙ Василий Яковлевич
+      rowinpage: '16'
       spravka: true
     - id: '4322'
       num: '17'
       name: ОВСЯННИКОВ Иван Павлович
+      rowinpage: '17'
       spravka: true
     - id: '4323'
       num: '18'
       name: ПЕРШИНА Мария Емельяновна
+      rowinpage: '18'
       spravka: true
     - id: '4324'
       num: '19'
       name: ПЕТРОВ Анатолий Филиппович
+      rowinpage: '19'
       spravka: true
     - id: '4325'
       num: '20'
       name: ПОДЗОЛКОВ Николай Иванович
+      rowinpage: '20'
       spravka: true
     - id: '4326'
       num: '21'
       name: ПОЛОСКОВ Федор Михайлович
+      rowinpage: '21'
       spravka: true
     - id: '4327'
       num: '22'
       name: РАКИТЯНСКИЙ Моисей Иванович
+      rowinpage: '22'
       spravka: true
     - id: '4328'
       num: '23'
       name: ТОЛМАЧЕВА Клавдия Александровна
+      rowinpage: '23'
       spravka: true
 - pageintom: '82'
   image: v02/17-171-410-082.jpg
+  title: null
   sublists:
   - sublid: '183'
     persons:
     - id: '4329'
       num: '1'
       name: ДРОБАТ Мартын Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КУРСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '4330'
       num: '2'
       name: ЖУРАВЛЕВ Михаил Гаврилович
+      rowinpage: '2'
       spravka: true
     - id: '4331'
       num: '3'
       name: ИЛЬИН Вениамин Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '4332'
       num: '4'
       name: КУЦЫН Иван Лукьянович
+      rowinpage: '4'
       spravka: true
     - id: '4333'
       num: '5'
       name: МИРОШНИЧЕНКО Иван Иванович
+      rowinpage: '5'
       spravka: true
     - id: '4334'
       num: '6'
       name: ПЕФТИ Иван Васильевич
+      rowinpage: '6'
     - id: '4335'
       num: '7'
       name: ЩЕПАНОВ Василий Дмитриевич
+      rowinpage: '7'
       spravka: true
 - pageintom: '83'
   image: v02/17-171-410-083.jpg
+  title: null
   sublists:
   - sublid: '184'
     persons:
     - id: '4336'
       num: '1'
       name: БОНДАРЕНКО Михаил Павлович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4337'
       num: '2'
       name: ДАШЕВСКИЙ Соломон Абрамович
+      rowinpage: '2'
       spravka: true
     - id: '4338'
       num: '3'
       name: ИВАНОВ Михаил Гаврилович
+      rowinpage: '3'
     - id: '4339'
       num: '4'
       name: КОЛОБОВ Михаил Иванович
+      rowinpage: '4'
       spravka: true
     - id: '4340'
       num: '5'
       name: КОНОВАЛОВ Егор Петрович
+      rowinpage: '5'
     - id: '4341'
       num: '6'
       name: ЛЕБЕДЕВ Иван Васильевич
+      rowinpage: '6'
     - id: '4342'
       num: '7'
       name: МАТМОВСКИЙ Михаил Александрович
+      rowinpage: '7'
       spravka: true
     - id: '4343'
       num: '8'
       name: РАЧКОВ Иван Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '4344'
       num: '9'
       name: ФИЛИППОВ Егор Филиппович
+      rowinpage: '9'
     - id: '4345'
       num: '10'
       name: ФРУКТОВ Николай Васильевич
+      rowinpage: '10'
 - pageintom: '84'
   image: v02/17-171-410-084.jpg
+  title: null
   sublists:
   - sublid: '184'
     persons:
     - id: '4346'
       num: '1'
       name: СЕРГЕЕВ Василий Ильич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '4347'
       num: '2'
       name: СЕРГЕЕВ Илья Сергеевич
+      rowinpage: '2'
 - pageintom: '85'
   image: v02/17-171-410-085.jpg
+  title: null
   sublists:
   - sublid: '185'
     persons:
     - id: '4348'
       num: '1'
       name: ПОСТОЛОВСКИЙ Михаил Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4349'
       num: '1'
       name: БОБРОВНИК Александр Николаевич
+      rowinpage: '2'
       doublesexists: true
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u>
     - id: '4350'
       num: '2'
       name: ЛЕВКОВИЧ Мария Остаповна
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '4351'
       num: '3'
       name: ПАРГАМАНИК Элиазар Аронович
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '4352'
       num: '4'
       name: ЧЕРФАС Исаак Абрамович
+      rowinpage: '5'
       spravka: true
     - id: '4353'
       num: '5'
       name: ЯРОШЕВСКИЙ Константин Петрович
+      rowinpage: '6'
       doublesexists: true
       spravka: true
 - pageintom: '86'
   image: v02/17-171-410-086.jpg
+  title: null
   sublists:
   - sublid: '186'
     persons:
     - id: '4354'
       num: '1'
       name: ОЛИКЕР Бер Лейбович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         категория.</u>
 - pageintom: '87'
   image: v02/17-171-410-087.jpg
+  title: null
   sublists:
   - sublid: '187'
     persons:
     - id: '25212'
       num: '1'
       name: ПИСКУНОВ Михаил Захарович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ </u></p><p align="right"><u>1-я
         категория.</u>
 - pageintom: '88'
   image: v02/17-171-410-088.jpg
+  title: null
   sublists:
   - sublid: '188'
     persons:
     - id: '4356'
       num: '1'
       name: БЕК Тадеус Матеосович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4357'
       num: '2'
       name: ГВОЗДИКОВ Георгий Павлович
+      rowinpage: '2'
       spravka: true
 - pageintom: '89'
   image: v02/17-171-410-089.jpg
+  title: null
   sublists:
   - sublid: '189'
     persons:
     - id: '4358'
       num: '1'
       name: ФОМКИН Николай Сергеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         категория.</u>
 - pageintom: '90'
   image: v02/17-171-410-090.jpg
+  title: null
   sublists:
   - sublid: '190'
     persons:
     - id: '4359'
       num: '1'
       name: АБРАМОВ Андрей Петрович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОМСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4360'
       num: '2'
       name: ТАРАСЕНКО Яков Ефимович
+      rowinpage: '2'
       spravka: true
     - id: '4361'
       num: '3'
       name: ФЕТИСКИН Гавриил Иванович
+      rowinpage: '3'
       spravka: true
 - pageintom: '91'
   image: v02/17-171-410-091.jpg
+  title: null
   sublists:
   - sublid: '191'
     persons:
     - id: '4362'
       num: '1'
       name: ГЛУСКИНА Анна Аркадьевна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4363'
       num: '2'
       name: КАЛИНИН Александр Георгиевич
+      rowinpage: '2'
     - id: '4364'
       num: '1'
       name: КЛЕЙТМАН Лев Ефимович
+      rowinpage: '3'
       spravka: true
       subtitle1: <p align="right">2-я категория.

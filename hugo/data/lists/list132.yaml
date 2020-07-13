@@ -2,9 +2,10 @@ id: '132'
 title: Список лиц - Челябинская область, Челябинск- Южно-Уральская ж.д. // 7 декабря
   1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '215'
 date: '1937-12-07'
+date_ru: 07.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -41,365 +42,459 @@ sublists:
 pages:
 - pageintom: '215'
   image: v05/17-171-413-215.jpg
+  title: null
   sublists: []
 - pageintom: '216'
   image: v05/17-171-413-216.jpg
+  title: null
   sublists: []
 - pageintom: '217'
   image: v05/17-171-413-217.jpg
+  title: null
   sublists:
   - sublid: '283'
     persons:
     - id: '17111'
       num: '1'
       name: АРНОЛЬДОВ Николай Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '17112'
       num: '2'
       name: АРНШТЕЙН Владимир Августович
+      rowinpage: '2'
       spravka: true
     - id: '17113'
       num: '3'
       name: АШ Моисей Израилевич
+      rowinpage: '3'
       spravka: true
     - id: '17114'
       num: '4'
       name: БАГРЯНСКИЙ Иван Владимирович
+      rowinpage: '4'
       spravka: true
     - id: '17115'
       num: '5'
       name: ВАШЕНКО Петр Иванович
+      rowinpage: '5'
     - id: '17116'
       num: '6'
       name: ГАГАРИН Федор Павлович
+      rowinpage: '6'
       spravka: true
     - id: '17117'
       num: '7'
       name: ГЕРМАН Афраил Моисеевич
+      rowinpage: '7'
     - id: '17118'
       num: '8'
       name: ГЛУШКОВ Павел Данилович
+      rowinpage: '8'
       spravka: true
     - id: '17119'
       num: '9'
       name: ГОЛОШАПОВ Александр Петрович
+      rowinpage: '9'
       spravka: true
     - id: '17120'
       num: '10'
       name: ГРАБЕРТ Отто
+      rowinpage: '10'
       spravka: true
     - id: '17121'
       num: '11'
       name: ЖУРАВЛЕВ Николай Васильевич
+      rowinpage: '11'
       spravka: true
     - id: '17122'
       num: '12'
       name: ЗААЛЬФРАНК Иоган Августович
+      rowinpage: '12'
     - id: '17123'
       num: '13'
       name: ИКОННИКОВ Дмитрий Иванович
+      rowinpage: '13'
       spravka: true
     - id: '17124'
       num: '14'
       name: ИЛЬИНЫХ Василий Кузьмич
+      rowinpage: '14'
       spravka: true
     - id: '17125'
       num: '15'
       name: КИРХНЕР Макс Францевич
+      rowinpage: '15'
       spravka: true
     - id: '17126'
       num: '16'
       name: КЛЕЙН Карл Карлович
+      rowinpage: '16'
     - id: '17127'
       num: '17'
       name: КОНДРАНИН Иван Владимирович
+      rowinpage: '17'
       spravka: true
     - id: '17128'
       num: '18'
       name: КОТТ Андрей Тимонович
+      rowinpage: '18'
       spravka: true
     - id: '17129'
       num: '19'
       name: КОЧНЕВ Александр Григорьевич
+      rowinpage: '19'
       spravka: true
     - id: '17130'
       num: '20'
       name: КОШЕЛЕВ Василий Павлович
+      rowinpage: '20'
       spravka: true
     - id: '17131'
       num: '21'
       name: КРАКОВСКИЙ Иосиф Иванович
+      rowinpage: '21'
       spravka: true
     - id: '26061'
       num: '22'
       name: КРИЧЕВСКИЙ Александр Матвеевич
+      rowinpage: '22'
       doublesexists: true
       spravka: true
     - id: '17133'
       num: '23'
       name: ЛЕБЕДЕВ Александр Александрович
+      rowinpage: '23'
       spravka: true
 - pageintom: '218'
   image: v05/17-171-413-218.jpg
+  title: Челябинская область
   sublists:
   - sublid: '283'
     persons:
     - id: '17134'
       num: '24'
       name: ЛОКШИН Григорий Яковлевич
+      rowinpage: '1'
       spravka: true
     - id: '17135'
       num: '25'
       name: ЛЬВОВ Модест Мефодьевич
+      rowinpage: '2'
       spravka: true
     - id: '17136'
       num: '26'
       name: ЛЮКС Рафаил Михайлович
+      rowinpage: '3'
     - id: '17137'
       num: '27'
       name: МИНЕЕВ Михаил Кузьмич
+      rowinpage: '4'
       spravka: true
     - id: '17138'
       num: '28'
       name: МИХАЛЕВСКИЙ Александр Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '17139'
       num: '29'
       name: МОНИН Александр Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '17140'
       num: '30'
       name: ОВЧИННИКОВ Александр Васильевич
+      rowinpage: '7'
     - id: '17141'
       num: '31'
       name: ОКИН Ефим Сергеевич
+      rowinpage: '8'
       spravka: true
     - id: '17142'
       num: '32'
       name: ПЛЕТНЕВ Иван Андреевич
+      rowinpage: '9'
       spravka: true
     - id: '17143'
       num: '33'
       name: ПОПКОВ Александр Тимофеевич
+      rowinpage: '10'
       spravka: true
     - id: '17144'
       num: '34'
       name: ПОРОСЕНКОВ Александр Федорович
+      rowinpage: '11'
       spravka: true
     - id: '17145'
       num: '35'
       name: ПРАНГЕ Фриц Фрицевич
+      rowinpage: '12'
       spravka: true
     - id: '17146'
       num: '36'
       name: ПРИБЫЛЕВ Сергей Семенович
+      rowinpage: '13'
       spravka: true
     - id: '17147'
       num: '37'
       name: РАСКИН Борис Матвеевич
+      rowinpage: '14'
       spravka: true
     - id: '17148'
       num: '38'
       name: РАТНЕР Григорий Маркович
+      rowinpage: '15'
       spravka: true
     - id: '17149'
       num: '39'
       name: РЕМЕЛЕ Гельмут Германович
+      rowinpage: '16'
     - id: '17150'
       num: '40'
       name: РОЗЕН Феликс Францевич
+      rowinpage: '17'
     - id: '17151'
       num: '41'
       name: САРАЙКИН Никанор Дормидонтович
+      rowinpage: '18'
     - id: '17152'
       num: '42'
       name: СИМОНОВ Георгий Матвеевич
+      rowinpage: '19'
       spravka: true
     - id: '17153'
       num: '43'
       name: СТЕПАНОВ Иван Тимофеевич
+      rowinpage: '20'
       spravka: true
     - id: '17154'
       num: '44'
       name: УЛЬРИХ Гергард Кальманович
+      rowinpage: '21'
     - id: '17155'
       num: '45'
       name: УЛЬРИХ Кальман Иванович
+      rowinpage: '22'
     - id: '17156'
       num: '46'
       name: ФРЕЙМАН Яков Александрович
+      rowinpage: '23'
       spravka: true
     - id: '17157'
       num: '47'
       name: ХОХЛОВКИН Владимир Яковлевич
+      rowinpage: '24'
     - id: '17158'
       num: '48'
       name: ШЕВАЛДИН Матвей Иванович
+      rowinpage: '25'
       spravka: true
     - id: '17159'
       num: '49'
       name: ШМАУС Антон Антонович
+      rowinpage: '26'
     - id: '17160'
       num: '50'
       name: ЩУКИН Петр Степанович
+      rowinpage: '27'
 - pageintom: '219'
   image: v05/17-171-413-219.jpg
+  title: Челябинская область
   sublists:
   - sublid: '283'
     persons:
     - id: '17161'
       num: '51'
       name: ЭЙХЛЕР Эрих Оттович
+      rowinpage: '1'
     - id: '17162'
       num: '52'
       name: ЭНДТЕР Бруно Фридрихович
+      rowinpage: '2'
 - pageintom: '220'
   image: v05/17-171-413-220.jpg
+  title: null
   sublists:
   - sublid: '283'
     persons:
     - id: '17163'
       num: '1'
       name: ЛЕБЕДЕВ Михаил Филиппович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
 - pageintom: '221'
   image: v05/17-171-413-221.jpg
+  title: null
   sublists:
   - sublid: '284'
     persons:
     - id: '17164'
       num: '1'
       name: АКСЕНОВ Константин Поликарпович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСК - ЮЖНО-УРАЛЬСКАЯ жел.дор.</u></p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '17165'
       num: '2'
       name: ВОЛКОВ Петр Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '17166'
       num: '3'
       name: ГУРТМАН Михаил Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '17167'
       num: '4'
       name: ДАВЫДОВ Александр Иванович
+      rowinpage: '4'
       spravka: true
     - id: '17168'
       num: '5'
       name: ЗАРАХОВИЧ Лев Владимирович
+      rowinpage: '5'
       spravka: true
     - id: '17169'
       num: '6'
       name: КОЛЕНДО Владимир Иосифович
+      rowinpage: '6'
       spravka: true
     - id: '17170'
       num: '7'
       name: ЛАГУНОВ Егор Никитич
+      rowinpage: '7'
       spravka: true
     - id: '17171'
       num: '8'
       name: ПОЛОНСКИЙ Иван Петрович
+      rowinpage: '8'
       spravka: true
     - id: '17172'
       num: '9'
       name: ПРОНИН Сергей Федорович
+      rowinpage: '9'
       spravka: true
     - id: '17173'
       num: '10'
       name: РИХТЕР Александр Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '17174'
       num: '11'
       name: РОЗМАРИНОВИЧ Михаил Иванович
+      rowinpage: '11'
     - id: '17175'
       num: '12'
       name: СЕРГЕЕВ Владимир Александрович
+      rowinpage: '12'
       spravka: true
     - id: '17176'
       num: '13'
       name: СИМБИРИН Александр Александрович
+      rowinpage: '13'
       spravka: true
     - id: '17177'
       num: '14'
       name: СТАТНЫХ Сергей Артемьевич
+      rowinpage: '14'
       spravka: true
     - id: '17178'
       num: '15'
       name: СТЕПАНОВ Тимофей Дмитриевич
+      rowinpage: '15'
       spravka: true
     - id: '17179'
       num: '16'
       name: ХАБАРОВ Борис Иванович
+      rowinpage: '16'
     - id: '17180'
       num: '17'
       name: ЧИКАНЦЕВ Сергей Александрович
+      rowinpage: '17'
     - id: '17181'
       num: '18'
       name: ШИПУЛИН Николай Петрович
+      rowinpage: '18'
     - id: '17182'
       num: '19'
       name: ЮРКЕВИЧ Владимир Семенович
+      rowinpage: '19'
 - pageintom: '222'
   image: v05/17-171-413-222.jpg
+  title: null
   sublists:
   - sublid: '284'
     persons:
     - id: '17183'
       num: '1'
       name: БАЕВ Григорий Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСК - ЮЖНО-УРАЛЬСК. жел.дор.</u></p><p
         align="right"><u>2-ая КАТЕГОРИЯ.</u>
     - id: '17184'
       num: '2'
       name: ГРИГОРЬЕВ Николай Павлович
+      rowinpage: '2'
     - id: '17185'
       num: '3'
       name: ЖЕЙЦ Иван Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '17186'
       num: '4'
       name: КУМЖА Георгий Фролович
+      rowinpage: '4'
       spravka: true
     - id: '17187'
       num: '5'
       name: КУЧИНСКИЙ Поликарп Иванович
+      rowinpage: '5'
       spravka: true
     - id: '17188'
       num: '6'
       name: ЛЕБЕДЕВ Александр Федорович
+      rowinpage: '6'
       spravka: true
     - id: '17189'
       num: '7'
       name: МАЛАХОВ Сергей Харитонович
+      rowinpage: '7'
     - id: '17190'
       num: '8'
       name: МАЛОФЕЕВ Александр Михайлович
+      rowinpage: '8'
     - id: '17191'
       num: '9'
       name: ОЛЬКОВ Степан Никитович
+      rowinpage: '9'
       spravka: true
     - id: '17192'
       num: '10'
       name: СЕВЕРИНОВ Василий Платонович
+      rowinpage: '10'
       spravka: true
     - id: '17193'
       num: '11'
       name: СТЕПАНОВ Иван Тимофеевич
+      rowinpage: '11'
       spravka: true
     - id: '17194'
       num: '12'
       name: ТАБАШНИКОВ Амфилоний Алексеевич
+      rowinpage: '12'
       spravka: true
     - id: '17195'
       num: '13'
       name: ФИЛИМОНОВ Николай Николаевич
+      rowinpage: '13'
     - id: '17196'
       num: '14'
       name: ШЕЛЕСТЕНКО Григорий Карпович
+      rowinpage: '14'
       spravka: true

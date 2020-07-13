@@ -1,9 +1,10 @@
 id: '40'
 title: 'Список лиц: Калининская обл. // 10 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '46'
 date: '1937-07-10'
+date_ru: 10.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -27,92 +28,115 @@ sublists:
 pages:
 - pageintom: '46'
   image: v02/17-171-410-046.jpg
+  title: null
   sublists: []
 - pageintom: '47'
   image: v02/17-171-410-047.jpg
+  title: null
   sublists: []
 - pageintom: '48'
   image: v02/17-171-410-048.jpg
+  title: null
   sublists:
   - sublid: '31'
     persons:
     - id: '3871'
       num: '1'
       name: АНТОНОВ Иван Егорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>КАЛИНИНСКАЯ
         ОБЛАСТЬ.</u>
     - id: '3872'
       num: '2'
       name: АФАНАСЬЕВ Николай Федорович
+      rowinpage: '2'
       spravka: true
     - id: '3873'
       num: '3'
       name: ГОРОВОЙ Евсей Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '3874'
       num: '4'
       name: ГУСАРОВ Степан Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '3875'
       num: '5'
       name: КОПЕЛЕВ Самуил Лазаревич
+      rowinpage: '5'
       spravka: true
     - id: '3876'
       num: '6'
       name: КРАСИКОВ Василий Матвеевич
+      rowinpage: '6'
       spravka: true
     - id: '3877'
       num: '7'
       name: КРЫЛОВ Николай Дмитриевич
+      rowinpage: '7'
       spravka: true
     - id: '3878'
       num: '8'
       name: ЛЮЛЬКИН Вениамин Львович
+      rowinpage: '8'
       spravka: true
     - id: '3879'
       num: '9'
       name: МЕЛИКСЕТОВ Арменак Моисеевич
+      rowinpage: '9'
       pometa_text: предвар. вызват. в Москву
       spravka: true
     - id: '3880'
       num: '10'
       name: МУРОМЦЕВ Алексей Ильич
+      rowinpage: '10'
       spravka: true
     - id: '3881'
       num: '11'
       name: ПОГУДКИН Николай Владимирович
+      rowinpage: '11'
       spravka: true
     - id: '3882'
       num: '12'
       name: САЛИОМОН Антон Иванович
+      rowinpage: '12'
       spravka: true
     - id: '3883'
       num: '13'
       name: СИМКИН Яков Григорьевич
+      rowinpage: '13'
       spravka: true
     - id: '3884'
       num: '14'
       name: СИТНИКОВ Петр Аверьянович
+      rowinpage: '14'
       spravka: true
     - id: '3885'
       num: '15'
       name: ФЕЛЬДМАН Жан Карлович
+      rowinpage: '15'
     - id: '3886'
       num: '16'
       name: ЧЕРНЫШЕВ Владимир Иванович
+      rowinpage: '16'
     - id: '3887'
       num: '17'
       name: АЛЬФ Семен Михайлович
+      rowinpage: '17'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u></p>
     - id: '3888'
       num: '18'
       name: БОРИСОВ Александр Георгиевич
+      rowinpage: '18'
       spravka: true
     - id: '3889'
       num: '19'
       name: ВИНОГРАДОВ Николай Иванович
+      rowinpage: '19'
     - id: '3890'
       num: '20'
       name: НИКОЛАЕВ Евгений Николаевич
+      rowinpage: '20'

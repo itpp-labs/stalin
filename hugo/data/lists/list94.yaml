@@ -1,9 +1,10 @@
 id: '94'
 title: Список лиц - Белорусская ССР // 1 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
+  ref: РГАСПИ, ф.17, оп.171, дело 412
   page1: '148'
 date: '1937-11-01'
+date_ru: 01.11.1937
 tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,172 +28,216 @@ sublists:
 pages:
 - pageintom: '148'
   image: v04/17-171-412-148.jpg
+  title: null
   sublists: []
 - pageintom: '149'
   image: v04/17-171-412-149.jpg
+  title: null
   sublists: []
 - pageintom: '150'
   image: v04/17-171-412-150.jpg
+  title: null
   sublists:
   - sublid: '65'
     persons:
     - id: '12380'
       num: '1'
       name: АВГУСТАЙТИС Александр Викентьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '12381'
       num: '2'
       name: БЕЛОШЕВСКИЙ Алексей Никитич
+      rowinpage: '2'
       spravka: true
     - id: '12382'
       num: '3'
       name: БОГОСЛАВСКИЙ Николай Иванович
+      rowinpage: '3'
       spravka: true
     - id: '12383'
       num: '4'
       name: БУРАЧЕВСКИЙ Павел Павлович
+      rowinpage: '4'
       spravka: true
     - id: '12384'
       num: '5'
       name: БЫЧКОВСКИЙ Антон Антонович
+      rowinpage: '5'
     - id: '12385'
       num: '6'
       name: ВАСИЛЕВИЧ Иван Антонович
+      rowinpage: '6'
       spravka: true
     - id: '12386'
       num: '7'
       name: ГАЛКОВСКИЙ Иосиф Антонович
+      rowinpage: '7'
       spravka: true
     - id: '12387'
       num: '8'
       name: ГЛЕЗЕРОВ Борис Маркович
+      rowinpage: '8'
       spravka: true
     - id: '12388'
       num: '9'
       name: ГОЛЬДБЕРГ Шолом Меерович
+      rowinpage: '9'
       spravka: true
     - id: '12389'
       num: '10'
       name: ГОМЗЯКОВ Александр Иванович
+      rowinpage: '10'
       spravka: true
     - id: '12390'
       num: '11'
       name: ГУРИНОВИЧ Сергей Михайлович
+      rowinpage: '11'
       spravka: true
     - id: '12391'
       num: '12'
       name: ЗАДЕРНЮК Василий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '12392'
       num: '13'
       name: ЗАЛЕССКИЙ Александр Ксаверьевич
+      rowinpage: '13'
       spravka: true
     - id: '12393'
       num: '14'
       name: КАЛЕНТО Михаил Мирофанович
+      rowinpage: '14'
       spravka: true
     - id: '12394'
       num: '15'
       name: КЛИМЧУК Матвей Иосифович
+      rowinpage: '15'
       spravka: true
     - id: '12395'
       num: '16'
       name: КОЗЛОВ Трофим Калиникович
+      rowinpage: '16'
       spravka: true
     - id: '12396'
       num: '17'
       name: КОНИК Дмитрий Юдович
+      rowinpage: '17'
       spravka: true
     - id: '12397'
       num: '18'
       name: КРЕЙНИН Лазарь Исаакович
+      rowinpage: '18'
       spravka: true
     - id: '12398'
       num: '19'
       name: КРУТОЛЕВИЧ Александр Прохорович
+      rowinpage: '19'
     - id: '12399'
       num: '20'
       name: КУЗНЕЦОВ Иван Николаевич
+      rowinpage: '20'
       spravka: true
     - id: '12400'
       num: '21'
       name: КУЗНЕЦОВ Лейба Шлемович
+      rowinpage: '21'
       spravka: true
     - id: '12401'
       num: '22'
       name: КУЗНЕЦОВА Мария Ивановна
+      rowinpage: '22'
       spravka: true
     - id: '12402'
       num: '23'
       name: ЛИТВИНЕНКО Ефим Лукич
+      rowinpage: '23'
       spravka: true
     - id: '12403'
       num: '24'
       name: МЕЛЬЦЕР Абрам Наумович
+      rowinpage: '24'
       spravka: true
     - id: '12404'
       num: '25'
       name: МИНКИН Калмон Маркович
+      rowinpage: '25'
       spravka: true
     - id: '12405'
       num: '26'
       name: НЕМИРСКИЙ Сигизмунд Янович
+      rowinpage: '26'
       spravka: true
     - id: '12406'
       num: '27'
       name: НОЙ Александр Иосифович
+      rowinpage: '27'
       spravka: true
 - pageintom: '151'
   image: v04/17-171-412-151.jpg
+  title: Белорусская ССР
   sublists:
   - sublid: '65'
     persons:
     - id: '12407'
       num: '28'
       name: ПОДОЛЬСКИЙ Давид Юрьевич
+      rowinpage: '1'
     - id: '12408'
       num: '29'
       name: РАДУШИНСКИЙ Владимир Семенович
+      rowinpage: '2'
     - id: '12409'
       num: '30'
       name: РОГОЖКИН Василий Ефимович
+      rowinpage: '3'
       spravka: true
     - id: '12410'
       num: '31'
       name: РУБИНШТЕЙН Григорий Миронович
+      rowinpage: '4'
       spravka: true
     - id: '12411'
       num: '32'
       name: РЫБАК Иван Маркович
+      rowinpage: '5'
     - id: '12412'
       num: '33'
       name: СААКЯН Ашот Михайлович
+      rowinpage: '6'
     - id: '12413'
       num: '34'
       name: СЕМЕНОВ Александр Иванович
+      rowinpage: '7'
     - id: '12414'
       num: '35'
       name: СТРУНКЕВИЧ Куприян Гурьевич
+      rowinpage: '8'
       spravka: true
     - id: '12415'
       num: '36'
       name: ТАВАКАЛЬЯН Аветис Абгарович
+      rowinpage: '9'
       spravka: true
     - id: '12416'
       num: '37'
       name: ХАСКИН Илья Захарович
+      rowinpage: '10'
       spravka: true
     - id: '12417'
       num: '38'
       name: ХАЦКЕВИЧ Александр Исаакович
+      rowinpage: '11'
       spravka: true
     - id: '12418'
       num: '39'
       name: ХОВРУНОВ Михаил Игнатьевич
+      rowinpage: '12'
       spravka: true
     - id: '12419'
       num: '40'
       name: ЧЕРНЫШЕВ Василий Яковлевич
+      rowinpage: '13'
       spravka: true

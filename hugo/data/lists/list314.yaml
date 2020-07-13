@@ -1,9 +1,10 @@
 id: '314'
 title: Список лиц - Белорусская ССР,Гомель-Белорусская ж.д. // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '210'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -41,231 +42,291 @@ sublists:
 pages:
 - pageintom: '210'
   image: v08/17-171-416-210.jpg
+  title: null
   sublists: []
 - pageintom: '211'
   image: v08/17-171-416-211.jpg
+  title: null
   sublists: []
 - pageintom: '212'
   image: v08/17-171-416-212.jpg
+  title: null
   sublists:
   - sublid: '604'
     persons:
     - id: '31780'
       num: '1'
       name: АНОШКИН Антон Андрианович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '31781'
       num: '2'
       name: АНТОНОВ Петр Иосифович
+      rowinpage: '2'
       spravka: true
     - id: '31782'
       num: '3'
       name: БЕЛЯКОВ Николай Алексеевич
+      rowinpage: '3'
     - id: '31783'
       num: '4'
       name: БИРУЛЯ Антон Антонович
+      rowinpage: '4'
       spravka: true
     - id: '31784'
       num: '5'
       name: БОДОПРОСТ Антон Никифорович
+      rowinpage: '5'
       spravka: true
     - id: '31785'
       num: '6'
       name: ВОЛКОВ Иван Гаврилович
+      rowinpage: '6'
     - id: '31786'
       num: '7'
       name: ГОЛОДНЫЙ Иван Никитович
+      rowinpage: '7'
       spravka: true
     - id: '31787'
       num: '8'
       name: ГОРЧАКОВ Николай Михайлович
+      rowinpage: '8'
     - id: '31788'
       num: '9'
       name: ГРОССБЕРГ Рихард Карлович
+      rowinpage: '9'
       spravka: true
     - id: '31789'
       num: '10'
       name: ДРОЗДОВ Николай Иванович
+      rowinpage: '10'
     - id: '31790'
       num: '11'
       name: ЗАХАРОВ Михаил Федорович
+      rowinpage: '11'
     - id: '31791'
       num: '12'
       name: КАРКЛИН Павел Иванович
+      rowinpage: '12'
     - id: '31792'
       num: '13'
       name: КАТОЛУПОВ Петр Маркович
+      rowinpage: '13'
     - id: '31793'
       num: '14'
       name: КРЕЙЕР Николай Карлович
+      rowinpage: '14'
       spravka: true
     - id: '31794'
       num: '15'
       name: ЛЕЙМАН Арвид Петрович
+      rowinpage: '15'
       spravka: true
     - id: '31795'
       num: '16'
       name: ЛИСОВСКИЙ Станислав Игнатьевич
+      rowinpage: '16'
       spravka: true
     - id: '31796'
       num: '17'
       name: МАЦЕХА Израиль Самойлович
+      rowinpage: '17'
     - id: '31797'
       num: '18'
       name: МЕНДЖЕРИЦКИЙ Леонид Абрамович
+      rowinpage: '18'
       spravka: true
     - id: '31798'
       num: '19'
       name: МОРОЗОВ Василий Федорович
+      rowinpage: '19'
       spravka: true
     - id: '31799'
       num: '20'
       name: МОРОЗОВ Петр Ильич
+      rowinpage: '20'
       spravka: true
     - id: '31800'
       num: '21'
       name: НЕЙМАН Александр Георгиевич
+      rowinpage: '21'
     - id: '31801'
       num: '22'
       name: НИКИТЕНКО Александр Константинович
+      rowinpage: '22'
     - id: '31802'
       num: '23'
       name: НИКИТИН Владимир Викторович
+      rowinpage: '23'
       spravka: true
     - id: '31803'
       num: '24'
       name: ПАВЛЮЧЕНКО Калистрат Иванович
+      rowinpage: '24'
 - pageintom: '213'
   image: v08/17-171-416-213.jpg
+  title: Белорусская ССР
   sublists:
   - sublid: '604'
     persons:
     - id: '31804'
       num: '25'
       name: ПЕХОВСКИЙ Петр Иванович
+      rowinpage: '1'
       spravka: true
     - id: '31805'
       num: '26'
       name: ПОВАРОВ Сергей Васильевич
+      rowinpage: '2'
     - id: '31806'
       num: '27'
       name: ПОЛЯК Михаил Вениаминович
+      rowinpage: '3'
     - id: '31807'
       num: '28'
       name: ПРИЩЕПОВ Федор Андреевич
+      rowinpage: '4'
       spravka: true
     - id: '31808'
       num: '29'
       name: СТУМБУР Вольдемар Давович
+      rowinpage: '5'
       spravka: true
     - id: '31809'
       num: '30'
       name: СУРКОВ Тимофей Феоктистович
+      rowinpage: '6'
       spravka: true
     - id: '31810'
       num: '31'
       name: УРАЕВ Усман Мирсояфович
+      rowinpage: '7'
       spravka: true
     - id: '31811'
       num: '32'
       name: ХАНИН Эмануил Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '31812'
       num: '33'
       name: ХАРЧИКОВ Василий Иванович
+      rowinpage: '9'
       spravka: true
     - id: '31813'
       num: '34'
       name: ЧЕМИС Владислав Игнатьевич
+      rowinpage: '10'
     - id: '31814'
       num: '35'
       name: ШАЛИМОВ Александр Дмитриевич
+      rowinpage: '11'
       spravka: true
     - id: '31815'
       num: '36'
       name: ШВАРЦ Владимир Антонович
+      rowinpage: '12'
       spravka: true
     - id: '31816'
       num: '37'
       name: ШЕВЧЕНКО Иван Демьянович
+      rowinpage: '13'
     - id: '31817'
       num: '38'
       name: ЮВКО Владимир Кондратьевич
+      rowinpage: '14'
       spravka: true
 - pageintom: '214'
   image: v08/17-171-416-214.jpg
+  title: null
   sublists:
   - sublid: '604'
     persons:
     - id: '31818'
       num: '1'
       name: АРОНСКИЙ Абрам Адольфович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
 - pageintom: '215'
   image: v08/17-171-416-215.jpg
+  title: null
   sublists:
   - sublid: '605'
     persons:
     - id: '31819'
       num: '1'
       name: АДАМОВ Алексей Георгиевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>Гор.ГОМЕЛЬ. БЕЛОРУССКАЯ ж.д.</u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '31820'
       num: '2'
       name: БАРКОВСКИЙ Казимир Иосифович
+      rowinpage: '2'
       spravka: true
     - id: '31821'
       num: '3'
       name: ВОЛЧКОВ Алексей Петрович
+      rowinpage: '3'
     - id: '31822'
       num: '4'
       name: ВОРОНЕЦКИЙ Николай Иванович
+      rowinpage: '4'
       spravka: true
     - id: '31823'
       num: '5'
       name: ГАЙДАШ Константин Яковлевич
+      rowinpage: '5'
     - id: '31824'
       num: '6'
       name: ГУПАЙЛОВИЧ Александр Васильевич
+      rowinpage: '6'
     - id: '31825'
       num: '7'
       name: ЖАХОВЕЦ Павел Иванович
+      rowinpage: '7'
       spravka: true
     - id: '31826'
       num: '8'
       name: КАЗАКЕВИЧ Иван Фабианович
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '31827'
       num: '9'
       name: МАНКЕВИЧ Александр Николаевич
+      rowinpage: '9'
     - id: '31828'
       num: '10'
       name: РАКОВ Павел Николаевич
+      rowinpage: '10'
       doublesexists: true
       spravka: true
 - pageintom: '216'
   image: v08/17-171-416-216.jpg
+  title: null
   sublists:
   - sublid: '605'
     persons:
     - id: '31829'
       num: '1'
       name: АЗБУКИН Павел Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.ГОМЕЛЬ. БЕЛОРУССКАЯ ж.д.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '31830'
       num: '2'
       name: МАЙСАК Сергей Исидорович
+      rowinpage: '2'
       spravka: true
     - id: '31831'
       num: '3'
       name: ФИЛОНОВ Сергей Филиппович
+      rowinpage: '3'
     - id: '31832'
       num: '4'
       name: ХАЦЬКО Николай Александрович
+      rowinpage: '4'

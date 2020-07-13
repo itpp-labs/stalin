@@ -1,9 +1,10 @@
 id: '222'
 title: 'Список лиц: Красноярский край // 15 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '45'
 date: '1937-09-15'
+date_ru: 15.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,231 +28,288 @@ sublists:
 pages:
 - pageintom: '45'
   image: v03/17-171-411-045.jpg
+  title: null
   sublists: []
 - pageintom: '46'
   image: v03/17-171-411-046.jpg
+  title: null
   sublists: []
 - pageintom: '47'
   image: v03/17-171-411-047.jpg
+  title: null
   sublists:
   - sublid: '345'
     persons:
     - id: '8133'
       num: '1'
       name: АКУЛОВ Алексей Дмитриевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '8134'
       num: '2'
       name: АКУЛОВ Василий Дмитриевич
+      rowinpage: '2'
       spravka: true
     - id: '8135'
       num: '3'
       name: АНТОНОВ Александр Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '8136'
       num: '4'
       name: АСТАФЬЕВ Александр Федорович
+      rowinpage: '4'
       spravka: true
     - id: '8137'
       num: '5'
       name: БАЛАКИН Михаил Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '8138'
       num: '6'
       name: БАСАЛГИН Дмитрий Степанович
+      rowinpage: '6'
       spravka: true
     - id: '8139'
       num: '7'
       name: БЕЛИЦИН Николай Антонович
+      rowinpage: '7'
       spravka: true
     - id: '8140'
       num: '8'
       name: БЕЛЯК Иван Емельянович
+      rowinpage: '8'
       spravka: true
     - id: '8141'
       num: '9'
       name: БЕЛЯКОВ Иван Александрович
+      rowinpage: '9'
       spravka: true
     - id: '8142'
       num: '10'
       name: ВЕЩЕТНОВ Михаил Иванович
+      rowinpage: '10'
       spravka: true
     - id: '8143'
       num: '11'
       name: БОЧКАРЕВ Виктор Иванович
+      rowinpage: '11'
       spravka: true
     - id: '8144'
       num: '12'
       name: ГЕНЕРАЛОВ Иван Алексеевич
+      rowinpage: '12'
       spravka: true
     - id: '8145'
       num: '13'
       name: ГОВОРИН Михаил Михайлович
+      rowinpage: '13'
       spravka: true
     - id: '8146'
       num: '14'
       name: ГОЛЕНКОВ Иван Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '8147'
       num: '15'
       name: ДМИТРИЕВ Дмитрий Сергеевич
+      rowinpage: '15'
       spravka: true
     - id: '8148'
       num: '16'
       name: ЕФРЕМОВ Василий Яковлевич
+      rowinpage: '16'
       spravka: true
     - id: '8149'
       num: '17'
       name: ЖЕГУЦ Иван Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '8150'
       num: '18'
       name: ИВАНОВ Андрей Илларионович
+      rowinpage: '18'
       spravka: true
     - id: '8151'
       num: '19'
       name: КИСЕЛЕВ Антон Наумович
+      rowinpage: '19'
       spravka: true
     - id: '8152'
       num: '20'
       name: КОЗИНКИН Иван Васильевич
+      rowinpage: '20'
       spravka: true
     - id: '8153'
       num: '21'
       name: КОЛЕГОВ Леонид Иванович
+      rowinpage: '21'
       spravka: true
     - id: '8154'
       num: '22'
       name: КРАСНОЯРОВ Александр Иванович
+      rowinpage: '22'
       spravka: true
     - id: '8155'
       num: '23'
       name: ЛАПТЕВ Георгий Яковлевич
+      rowinpage: '23'
       spravka: true
     - id: '8156'
       num: '24'
       name: ЛАПТЕВ Иван Васильевич
+      rowinpage: '24'
       spravka: true
     - id: '8157'
       num: '25'
       name: ЛАПТЕВ Яков Васильевич
+      rowinpage: '25'
       spravka: true
     - id: '8158'
       num: '26'
       name: ЛАШУК Петр Васильевич
+      rowinpage: '26'
       spravka: true
     - id: '8159'
       num: '27'
       name: ЛОБАНОВ Федор Ефремович
+      rowinpage: '27'
       spravka: true
     - id: '8160'
       num: '28'
       name: МАКСАК Михаил Захарович
+      rowinpage: '28'
       spravka: true
 - pageintom: '48'
   image: v03/17-171-411-048.jpg
+  title: Красноярский край
   sublists:
   - sublid: '345'
     persons:
     - id: '8161'
       num: '29'
       name: МАТВЕЕВ Иван Степанович
+      rowinpage: '1'
       spravka: true
     - id: '8162'
       num: '30'
       name: НЕСТЕРОВ Иван Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '8163'
       num: '31'
       name: ПАВЛОВ Куприян Андриянович
+      rowinpage: '3'
       spravka: true
     - id: '8164'
       num: '32'
       name: ПОЛЯКОВ Игнатий Федорович
+      rowinpage: '4'
       spravka: true
     - id: '8165'
       num: '33'
       name: ПРАВДИКОВ Михаил Киреевич
+      rowinpage: '5'
       spravka: true
     - id: '8166'
       num: '34'
       name: РОМАНЕНКО Александр Прохорович
+      rowinpage: '6'
       spravka: true
     - id: '8167'
       num: '35'
       name: РЯБЦЕВ Герасим Макарович
+      rowinpage: '7'
       spravka: true
     - id: '8168'
       num: '36'
       name: САМОЙЛОВ Иван Алексеевич
+      rowinpage: '8'
       spravka: true
     - id: '8169'
       num: '37'
       name: СОЛДАТОВ Селиверст Антонович
+      rowinpage: '9'
       spravka: true
     - id: '8170'
       num: '38'
       name: СОЛОВЬЕВ Василий Иванович
+      rowinpage: '10'
       spravka: true
     - id: '8171'
       num: '39'
       name: СТРАЖНИКОВ Григорий Романович
+      rowinpage: '11'
       spravka: true
     - id: '8172'
       num: '40'
       name: ТАМКОВИЧ Василий Алексеевич
+      rowinpage: '12'
       spravka: true
     - id: '8173'
       num: '41'
       name: ТАРАБУКИН Игнатий Гаврилович
+      rowinpage: '13'
       spravka: true
     - id: '8174'
       num: '42'
       name: ТАРАНОВСКИЙ Николай Николаевич
+      rowinpage: '14'
       spravka: true
     - id: '8175'
       num: '43'
       name: УСИК Прокопий Тимофеевич
+      rowinpage: '15'
       spravka: true
     - id: '8176'
       num: '44'
       name: УТКИН Гавриил Павлович
+      rowinpage: '16'
       spravka: true
     - id: '8177'
       num: '45'
       name: ФЕДОРОВ Николай Антипович
+      rowinpage: '17'
       spravka: true
     - id: '8178'
       num: '46'
       name: ФИЛИПЕНКО Яков Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '8179'
       num: '47'
       name: ФИЛИППОВ Михаил Кириллович
+      rowinpage: '19'
       spravka: true
     - id: '8180'
       num: '48'
       name: ФРОЛОВИЧ Иван Антонович
+      rowinpage: '20'
       spravka: true
     - id: '8181'
       num: '49'
       name: ШАБАНОВ Максим Алексеевич
+      rowinpage: '21'
       spravka: true
     - id: '8182'
       num: '50'
       name: ШВАЙКИН Давыд Степанович
+      rowinpage: '22'
       spravka: true
     - id: '8183'
       num: '51'
       name: ШУРЫГИН Ананий Иванович
+      rowinpage: '23'
       spravka: true
     - id: '8184'
       num: '52'
       name: ШУРЫГИН Григорий Артамонович
+      rowinpage: '24'
       spravka: true
     - id: '8185'
       num: '53'
       name: ШУРЫГИН Федос Артамонович
+      rowinpage: '25'
       spravka: true

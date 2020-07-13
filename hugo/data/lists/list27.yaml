@@ -1,9 +1,10 @@
 id: '27'
 title: Список лиц - Украинская ССР // 25 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '204'
 date: '1937-06-25'
+date_ru: 25.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -37,28 +38,34 @@ sublists:
 pages:
 - pageintom: '204'
   image: v01/17-171-409-204.jpg
+  title: null
   sublists: []
 - pageintom: '205'
   image: v01/17-171-409-205.jpg
+  title: null
   sublists: []
 - pageintom: '206'
   image: v01/17-171-409-206.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3019'
       num: '1'
       name: БЕЛЯЕВ Алексей Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1 КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
         С.С.Р. </u><br /><u> гор. Киев.</u>
     - id: '3020'
       num: '2'
       name: БЕРЕЗИН Борис Давыдович
+      rowinpage: '2'
       spravka: true
     - id: '6686'
       num: '3'
       name: ГОЛУБ Федор Яковлевич
+      rowinpage: '3'
       underlined: true
       pometa_text: отложить
       doublesexists: true
@@ -66,350 +73,438 @@ pages:
     - id: '3022'
       num: '4'
       name: ГОНТАРЬ Андрей Тимофеевич
+      rowinpage: '4'
       spravka: true
     - id: '3023'
       num: '5'
       name: ГРЕБЕНКОВ Константин Федорович
+      rowinpage: '5'
       spravka: true
     - id: '3024'
       num: '6'
       name: ЗЕМЛЯНОЙ Арон Соломонович
+      rowinpage: '6'
       spravka: true
     - id: '3025'
       num: '7'
       name: КОСМАН Иосиф Александрович
+      rowinpage: '7'
       spravka: true
     - id: '3026'
       num: '8'
       name: КУШНИР Александр Степанович
+      rowinpage: '8'
       spravka: true
     - id: '3027'
       num: '9'
       name: ЛАБУРДА Григорий Павлович
+      rowinpage: '9'
       spravka: true
     - id: '3028'
       num: '10'
       name: ЛОМАКО Михаил Федорович
+      rowinpage: '10'
       spravka: true
     - id: '3029'
       num: '11'
       name: МАШКЕВИЧ Степан Герасьевич
+      rowinpage: '11'
       spravka: true
     - id: '3030'
       num: '12'
       name: МИНАЕВ-КАНЕВСКИЙ Сергей Владимирович
+      rowinpage: '12'
       spravka: true
     - id: '3031'
       num: '13'
       name: ОГИЙ Яков Родионович
+      rowinpage: '13'
       spravka: true
     - id: '3032'
       num: '14'
       name: ОДИНЦОВ Александр Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '3033'
       num: '15'
       name: ПОПОВ Павел Иванович
+      rowinpage: '15'
       spravka: true
     - id: '3034'
       num: '16'
       name: ПУШКО Семен Васильевич
+      rowinpage: '16'
     - id: '3035'
       num: '17'
       name: РЫБАК Лев Борисович
+      rowinpage: '17'
       spravka: true
     - id: '3036'
       num: '18'
       name: САГАЙДАКОВСКИЙ Георгий Вячеславович
+      rowinpage: '18'
       spravka: true
     - id: '3037'
       num: '19'
       name: СКАЛЫГА Никифор Филиппович
+      rowinpage: '19'
     - id: '3038'
       num: '20'
       name: СЛЕПУШЕНКО Макар Васильевич
+      rowinpage: '20'
       spravka: true
     - id: '3039'
       num: '21'
       name: ЧАБАЙ Григорий Данилович
+      rowinpage: '21'
       spravka: true
 - pageintom: '207'
   image: v01/17-171-409-207.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3040'
       num: '1'
       name: АГУПОВ Даниил Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>гор. Сталино.</u>
     - id: '3041'
       num: '2'
       name: ГАВРИЛЮК Иван Семенович
+      rowinpage: '2'
       spravka: true
     - id: '3042'
       num: '3'
       name: ГЕРАСИМЕНКО Алексей Семенович
+      rowinpage: '3'
       spravka: true
     - id: '3043'
       num: '4'
       name: МАРДЫБАН Владимир Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '3044'
       num: '5'
       name: ПЕЛИПЕШКО Петр Георгиевич
+      rowinpage: '5'
       spravka: true
     - id: '3045'
       num: '6'
       name: ПЕРЕРВА Алексей Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '3046'
       num: '7'
       name: ПРИМЕРОВ Василий Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '3047'
       num: '8'
       name: ПРИХОДЬКО Артем Яковлевич
+      rowinpage: '8'
       spravka: true
     - id: '3048'
       num: '9'
       name: СИМОНОВ Алексей Иванович
+      rowinpage: '9'
       spravka: true
     - id: '3049'
       num: '10'
       name: СТАРЦЕВ Антон Антонович
+      rowinpage: '10'
       spravka: true
     - id: '3050'
       num: '1'
       name: БОГУЦКИЙ Владимир Никифорович
+      rowinpage: '11'
       spravka: true
       subtitle1: <p align="center"><u>гор. Харьков</u>
     - id: '3051'
       num: '2'
       name: ЕМЕЦ Павел Федорович
+      rowinpage: '12'
       spravka: true
     - id: '3052'
       num: '3'
       name: ЗАСЛАВСКИЙ Ефим Шулимович
+      rowinpage: '13'
       spravka: true
     - id: '3053'
       num: '4'
       name: ЗИНЦОВ Николай Иванович
+      rowinpage: '14'
     - id: '3054'
       num: '5'
       name: КАСЬЯН Яков Яковлевич
+      rowinpage: '15'
       spravka: true
     - id: '3055'
       num: '6'
       name: КЛУПТ Георгий Соломонович
+      rowinpage: '16'
       spravka: true
     - id: '3056'
       num: '7'
       name: КОЛЕСНИКОВ Алексей Зиновьевич
+      rowinpage: '17'
     - id: '3057'
       num: '8'
       name: ЛЫМАРЕНКО Даниил Семенович
+      rowinpage: '18'
     - id: '3058'
       num: '9'
       name: МАЕВСКИЙ Николай Захарович
+      rowinpage: '19'
       spravka: true
     - id: '3059'
       num: '10'
       name: МАШИНКО Антон Иванович
+      rowinpage: '20'
       spravka: true
     - id: '3060'
       num: '11'
       name: МИНИЦКИЙ Франц Янович
+      rowinpage: '21'
       spravka: true
     - id: '3061'
       num: '12'
       name: ТАНЦИОРА Михаил Андреевич
+      rowinpage: '22'
       spravka: true
     - id: '3062'
       num: '13'
       name: ЧЕЧЕЛЬ Василий Архипович
+      rowinpage: '23'
       spravka: true
     - id: '3063'
       num: '14'
       name: ШАПОШНИКОВ Иван Леонтьевич
+      rowinpage: '24'
       spravka: true
 - pageintom: '208'
   image: v01/17-171-409-208.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3064'
       num: '1'
       name: АНОХИН Николай Захарович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>гор. Днепропетровск</u>
     - id: '3065'
       num: '2'
       name: КЛИГ Григорий Исаакович
+      rowinpage: '2'
     - id: '3066'
       num: '3'
       name: КЛИГ Ефим Исаакович
+      rowinpage: '3'
     - id: '3067'
       num: '4'
       name: КРЫЛОВ Степан Иванович
+      rowinpage: '4'
     - id: '3068'
       num: '5'
       name: ЛАКУТА Владимир Кондратьевич
+      rowinpage: '5'
     - id: '3069'
       num: '6'
       name: МАРЬЯНОВСКИЙ Овсей Ефимович
+      rowinpage: '6'
     - id: '3070'
       num: '7'
       name: ПОНОМАРЕНКО Владимир Степанович
+      rowinpage: '7'
     - id: '7044'
       num: '1'
       name: БЕРБЕКА Александр Тихонович
+      rowinpage: '8'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>гор. Одесса.</u>
     - id: '3072'
       num: '2'
       name: БУРЛАКОВ Павел Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '3073'
       num: '3'
       name: ДУБОВ Ефим Соломонович
+      rowinpage: '10'
       spravka: true
     - id: '3074'
       num: '4'
       name: КУЗНЕЦОВ Николай Павлович
+      rowinpage: '11'
       spravka: true
     - id: '3075'
       num: '5'
       name: МОРОЗОВ-ВОРОНЦОВ Николай Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '3076'
       num: '6'
       name: ПИСАРЕВ Василий Афанасьевич
+      rowinpage: '13'
     - id: '3077'
       num: '7'
       name: ПОГРЕБНОЙ Спиридон Иванович
+      rowinpage: '14'
     - id: '3078'
       num: '8'
       name: РОЗГОН Иван Афанасьевич
+      rowinpage: '15'
       spravka: true
 - pageintom: '209'
   image: v01/17-171-409-209.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3079'
       num: '1'
       name: БИТТЕЛЬМАХЕР Самуил Абрамович
+      rowinpage: '1'
       subtitle1: <p align="right"><u>1 КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
         С.С.Р. </u><br /><u> г. Киев.</u>
     - id: '9257'
       num: '2'
       name: ДЗЮБЕНКО Степан Яковлевич
+      rowinpage: '2'
       doublesexists: true
     - id: '3081'
       num: '3'
       name: НЕБИЙ Аис Андреевич
+      rowinpage: '3'
       spravka: true
     - id: '3082'
       num: '4'
       name: РОМАНЕНКО Василий Михайлович
+      rowinpage: '4'
     - id: '3083'
       num: '5'
       name: ЮШМАНОВ Николай Захарович
+      rowinpage: '5'
       spravka: true
     - id: '3084'
       num: '1'
       name: АВЕРЬЯНОВ Михаил Матвеевич
+      rowinpage: '6'
       spravka: true
       subtitle1: <p align="center"><u>гор. Сталино.</u>
     - id: '3085'
       num: '2'
       name: БЫКАНОВ Иван Трофимович
+      rowinpage: '7'
       spravka: true
     - id: '3086'
       num: '3'
       name: ВАСИЛЮК Иван Иванович
+      rowinpage: '8'
       spravka: true
     - id: '3087'
       num: '4'
       name: ГУТКОВСКИЙ Дмитрий Иванович
+      rowinpage: '9'
       spravka: true
     - id: '3088'
       num: '5'
       name: КОВАЛЕВ Иван Поликарпович
+      rowinpage: '10'
       spravka: true
     - id: '3089'
       num: '6'
       name: КОЗЕРОД Григорий Миронович
+      rowinpage: '11'
       spravka: true
     - id: '3090'
       num: '7'
       name: КОРАБЕЛЬСКИЙ Владимир Кузьмич
+      rowinpage: '12'
       spravka: true
     - id: '3091'
       num: '8'
       name: МЕЛЬНИКОВ Семен Стефанович
+      rowinpage: '13'
       spravka: true
     - id: '3092'
       num: '9'
       name: ТОЛСТУШЕНКО Иван Трофимович
+      rowinpage: '14'
       spravka: true
     - id: '3093'
       num: '1'
       name: БЕЛКИН Даниил Данилович
+      rowinpage: '15'
       spravka: true
       subtitle1: <p align="center"><u>гор. Харьков.</u>
     - id: '3094'
       num: '2'
       name: КРАЗ Юрий Яковлевич
+      rowinpage: '16'
       spravka: true
     - id: '3095'
       num: '3'
       name: ТОВАРИЩ Петр Иванович
+      rowinpage: '17'
       spravka: true
 - pageintom: '210'
   image: v01/17-171-409-210.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3096'
       num: '1'
       name: ДЗЮБЕНКО Иван Григорьевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>гор. Днепропетровск.</u>
     - id: '3097'
       num: '2'
       name: ДУКА Николай Иванович
+      rowinpage: '2'
     - id: '3098'
       num: '3'
       name: МИЛЛЕР-ЛОКУТА Александра Федоровна
+      rowinpage: '3'
       spravka: true
     - id: '3099'
       num: '4'
       name: СОШКО Михаил Игнатьевич
+      rowinpage: '4'
     - id: '3100'
       num: '1'
       name: БЕЛИЛОВСКАЯ Тася Натановна
+      rowinpage: '5'
       spravka: true
       subtitle1: <p align="center"><u>гор. Одесса.</u>
     - id: '3101'
       num: '2'
       name: КУЗНЕЦОВ Петр Лаврентьевич
+      rowinpage: '6'
     - id: '7113'
       num: '3'
       name: ТУЛЬСКИЙ Ефим Владимирович
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '3103'
       num: '4'
       name: ЮЗЕВИЧ Исаак Осипович
+      rowinpage: '8'
       spravka: true
 - pageintom: '211'
   image: v01/17-171-409-211.jpg
+  title: null
   sublists:
   - sublid: '24'
     persons:
     - id: '3104'
       num: '1'
       name: ПЕРЕПЕЛИЦА Петр Васильевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>3-я КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
         С.С.Р. </u><br /><u> гор. Харьков.</u>

@@ -1,9 +1,10 @@
 id: '374'
 title: Список лиц - Калининская область // от 3 февраля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '321'
 date: '1938-02-03'
+date_ru: 03.02.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,82 +30,102 @@ sublists:
 pages:
 - pageintom: '321'
   image: v06/17-171-414-321.jpg
+  title: null
   sublists: []
 - pageintom: '322'
   image: v06/17-171-414-322.jpg
+  title: null
   sublists: []
 - pageintom: '323'
   image: v06/17-171-414-323.jpg
+  title: null
   sublists:
   - sublid: '422'
     persons:
     - id: '23286'
       num: '1'
       name: БОТЕВ Иван Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '23287'
       num: '2'
       name: ИОФФЕ Залман Ильич
+      rowinpage: '2'
     - id: '23288'
       num: '3'
       name: КАГАНСКИЙ Иосиф Моисеевич
+      rowinpage: '3'
       spravka: true
     - id: '23289'
       num: '4'
       name: КАГАНОВСКИЙ Самуил Наумович
+      rowinpage: '4'
       spravka: true
     - id: '23290'
       num: '5'
       name: КИРИЛЛОВ Павел Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '23291'
       num: '6'
       name: МИХАЙЛОВ Александр Сергеевич
+      rowinpage: '6'
       spravka: true
     - id: '23292'
       num: '7'
       name: НОВИКОВ Иван Федосеевич
+      rowinpage: '7'
       spravka: true
     - id: '23293'
       num: '8'
       name: ПОЛИЩУК Филипп Семенович
+      rowinpage: '8'
       spravka: true
     - id: '23294'
       num: '9'
       name: РАЙЦЕС Илья Симонович
+      rowinpage: '9'
       spravka: true
     - id: '23295'
       num: '10'
       name: СИЗОВ Петр Павлович
+      rowinpage: '10'
       spravka: true
     - id: '23296'
       num: '11'
       name: СОКОЛОВ Анатолий Васильевич
+      rowinpage: '11'
     - id: '23297'
       num: '12'
       name: ФАЛКИН Борис Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '23298'
       num: '13'
       name: ХАДЖИН Александр Иванович
+      rowinpage: '13'
 - pageintom: '324'
   image: v06/17-171-414-324.jpg
+  title: null
   sublists:
   - sublid: '422'
     persons:
     - id: '23299'
       num: '1'
       name: ПЕВЗНЕР Федор Михайлович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
     - id: '23300'
       num: '2'
       name: РОДИОНОВ Степан Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '23301'
       num: '3'
       name: ЭПШТЕЙН Сарра Марковна
+      rowinpage: '3'
       spravka: true

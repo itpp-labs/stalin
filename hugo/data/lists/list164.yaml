@@ -1,9 +1,10 @@
 id: '164'
 title: Список лиц - Москва-центр // 10 / VI 38 г
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '68'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,30 +28,37 @@ sublists:
 pages:
 - pageintom: '68'
   image: v09/17-171-417-068.jpg
+  title: null
   sublists: []
 - pageintom: '69'
   image: v09/17-171-417-069.jpg
+  title: null
   sublists: []
 - pageintom: '70'
   image: v09/17-171-417-070.jpg
+  title: null
   sublists:
   - sublid: '105'
     persons:
     - id: '34174'
       num: '1'
       name: АВЕРБАХ Ида Леонидовна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '34175'
       num: '2'
       name: ГЕРАСИМОВ Владимир Иванович
+      rowinpage: '2'
       spravka: true
     - id: '34176'
       num: '3'
       name: ЯГОДА Лидия Григорьевна
+      rowinpage: '3'
       spravka: true
     - id: '34177'
       num: '4'
       name: ЯГОДА-ЗНАМЕНСКАЯ Эсфирь Григорьевна
+      rowinpage: '4'
       spravka: true

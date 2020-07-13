@@ -1,9 +1,10 @@
 id: '332'
 title: Список лиц - Архангельская,Вологодская области // от 3 мая 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '340'
 date: '1938-05-03'
+date_ru: 03.05.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -40,153 +41,189 @@ sublists:
 pages:
 - pageintom: '340'
   image: v08/17-171-416-340.jpg
+  title: null
   sublists: []
 - pageintom: '341'
   image: v08/17-171-416-341.jpg
+  title: null
   sublists: []
 - pageintom: '342'
   image: v08/17-171-416-342.jpg
+  title: null
   sublists:
   - sublid: '611'
     persons:
     - id: '33278'
       num: '1'
       name: АККЕРМАН Мартын Рудольфович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '33279'
       num: '2'
       name: БЕЧИН Михаил Иванович
+      rowinpage: '2'
       spravka: true
     - id: '33280'
       num: '3'
       name: ДАШЕВСКИЙ Эммануил Давыдович
+      rowinpage: '3'
       spravka: true
     - id: '33281'
       num: '4'
       name: ДРЕЙМАН Федор Францевич
+      rowinpage: '4'
       spravka: true
     - id: '33282'
       num: '5'
       name: ЛЕГОТИН Сергей Никитич
+      rowinpage: '5'
       spravka: true
     - id: '33283'
       num: '6'
       name: МАКЕЕВ Константин Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '33284'
       num: '7'
       name: МАРШАК Филипп Семенович
+      rowinpage: '7'
       spravka: true
     - id: '33285'
       num: '8'
       name: МИНАРСКИЙ Евгений Иванович
+      rowinpage: '8'
       spravka: true
     - id: '33286'
       num: '9'
       name: НАЗАРОВ-АМУРСКИЙ Константин Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '33287'
       num: '10'
       name: ОНШИН Иван Семенович
+      rowinpage: '10'
       spravka: true
     - id: '33288'
       num: '11'
       name: ПАНОВ Александр Дмитриевич
+      rowinpage: '11'
       spravka: true
     - id: '33289'
       num: '12'
       name: ПУЗЫРЕВ Петр Степанович
+      rowinpage: '12'
       spravka: true
     - id: '33290'
       num: '13'
       name: СИЛИН Аркадий Константинович
+      rowinpage: '13'
     - id: '33291'
       num: '14'
       name: СМИРНОВ Иван Осипович
+      rowinpage: '14'
       spravka: true
     - id: '33292'
       num: '15'
       name: ХАРИТОНОВ Павел Кузьмич
+      rowinpage: '15'
       spravka: true
     - id: '33293'
       num: '16'
       name: ШАЛАВИН Василий Александрович
+      rowinpage: '16'
       spravka: true
     - id: '33294'
       num: '17'
       name: ШПИЛЕВСКИЙ Юлиан Григорьевич
+      rowinpage: '17'
       spravka: true
 - pageintom: '343'
   image: v08/17-171-416-343.jpg
+  title: null
   sublists:
   - sublid: '611'
     persons:
     - id: '33295'
       num: '1'
       name: ГРЕБЛЬ Карл Карлович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ</u><br />(Иностранные
         подданные)</p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
 - pageintom: '344'
   image: v08/17-171-416-344.jpg
+  title: null
   sublists: []
 - pageintom: '345'
   image: v08/17-171-416-345.jpg
+  title: null
   sublists:
   - sublid: '611'
     persons:
     - id: '33296'
       num: '1'
       name: ВОРОБЬЕВ Иван Александрович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>АРХАНГЕЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '33297'
       num: '2'
       name: ЖИТОВ Константин Алексеевич
+      rowinpage: '2'
     - id: '33298'
       num: '3'
       name: ИВАХНОВ Александр Федорович
+      rowinpage: '3'
       spravka: true
     - id: '33299'
       num: '4'
       name: КУЗНЕЦОВ Михаил Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '33300'
       num: '5'
       name: МИКУЛИН Василий Дмитриевич
+      rowinpage: '5'
       spravka: true
     - id: '33301'
       num: '6'
       name: РОСЛЯКОВ Николай Иванович
+      rowinpage: '6'
       spravka: true
     - id: '33302'
       num: '7'
       name: СМЕТАНИН Семен Васильевич
+      rowinpage: '7'
       spravka: true
 - pageintom: '346'
   image: v08/17-171-416-346.jpg
+  title: null
   sublists:
   - sublid: '612'
     persons:
     - id: '33303'
       num: '1'
       name: ДУБРОВИН Михаил Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОЛОГОДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '33304'
       num: '2'
       name: КОШУТИН Иван Федорович
+      rowinpage: '2'
       spravka: true
     - id: '33305'
       num: '1'
       name: ДИЕВ Петр Степанович
+      rowinpage: '3'
       spravka: true
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
     - id: '33306'
       num: '2'
       name: ШЕЛКОВ Кузьма Иванович
+      rowinpage: '4'
       spravka: true

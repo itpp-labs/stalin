@@ -1,9 +1,10 @@
 id: '310'
 title: Список лиц - Курская область // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '183'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,339 +30,435 @@ sublists:
 pages:
 - pageintom: '183'
   image: v08/17-171-416-183.jpg
+  title: null
   sublists: []
 - pageintom: '184'
   image: v08/17-171-416-184.jpg
+  title: null
   sublists: []
 - pageintom: '185'
   image: v08/17-171-416-185.jpg
+  title: null
   sublists:
   - sublid: '558'
     persons:
     - id: '31399'
       num: '1'
       name: АРТЕМОВ Митрофан Герасимович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КУРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '31400'
       num: '2'
       name: БАРАНОВСКИЙ Петр Константинович
+      rowinpage: '2'
       spravka: true
     - id: '31401'
       num: '3'
       name: БИРМАН Исаак Петрович
+      rowinpage: '3'
       spravka: true
     - id: '31402'
       num: '4'
       name: БОРИСОВ Михаил Константинович
+      rowinpage: '4'
     - id: '31403'
       num: '5'
       name: БОРТКО Владимир Александрович
+      rowinpage: '5'
       spravka: true
     - id: '31404'
       num: '6'
       name: БУКРЕЕВ Сергей Георгиевич
+      rowinpage: '6'
     - id: '31405'
       num: '7'
       name: БУЛАТОВ Василий Федорович
+      rowinpage: '7'
     - id: '31406'
       num: '8'
       name: БЫКОВ Тихон Зосимович
+      rowinpage: '8'
     - id: '31407'
       num: '9'
       name: ВАДЛЕВСКИЙ Михаил Александрович
+      rowinpage: '9'
     - id: '31408'
       num: '10'
       name: ВАЛЬДЕН Иосиф Анатольевич
+      rowinpage: '10'
     - id: '31409'
       num: '11'
       name: ВДОВИН Алексей Семенович
+      rowinpage: '11'
     - id: '31410'
       num: '12'
       name: ГАЛДИН Александр Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '31411'
       num: '13'
       name: ГИРШГОРН Гдалий Абрамович
+      rowinpage: '13'
     - id: '31412'
       num: '14'
       name: ГОЛОБОРОДЬКО Иван Павлович
+      rowinpage: '14'
     - id: '31413'
       num: '15'
       name: ГОРЕЛИК Соломон Григорьевич
+      rowinpage: '15'
       spravka: true
     - id: '31414'
       num: '16'
       name: ДЕМИДОВ Борис Иванович
+      rowinpage: '16'
     - id: '31415'
       num: '17'
       name: ДЕМЬЯНОВ Дмитрий Яковлевич
+      rowinpage: '17'
     - id: '31416'
       num: '18'
       name: ДРОБЕНИН Сергей Васильевич
+      rowinpage: '18'
       spravka: true
     - id: '31417'
       num: '19'
       name: ДЮКАРЕВ Трофим Григорьевич
+      rowinpage: '19'
       spravka: true
     - id: '31418'
       num: '20'
       name: ЕГОРОВ Арсений Герасимович
+      rowinpage: '20'
     - id: '31419'
       num: '21'
       name: ЕНДРЖИЕВСКИЙ Иван Леонович
+      rowinpage: '21'
       spravka: true
     - id: '31420'
       num: '22'
       name: ЕФРЕМЕНКО Леонтий Иосифович
+      rowinpage: '22'
     - id: '31421'
       num: '23'
       name: ЗАЙЧИК Григорий Романович
+      rowinpage: '23'
       spravka: true
 - pageintom: '186'
   image: v08/17-171-416-186.jpg
+  title: Курская область
   sublists:
   - sublid: '558'
     persons:
     - id: '31422'
       num: '24'
       name: ЗАСИМЧУК Константин Герасимович
+      rowinpage: '1'
     - id: '31423'
       num: '25'
       name: ЗАСЛАВСКИЙ Георгий Георгиевич
+      rowinpage: '2'
       spravka: true
     - id: '31424'
       num: '26'
       name: ЗАХАРОВ Владимир Гаврилович
+      rowinpage: '3'
     - id: '31425'
       num: '27'
       name: КАМЕНЕВ Василий Иванович
+      rowinpage: '4'
     - id: '31426'
       num: '28'
       name: КИСЛОВ Григорий Захарович
+      rowinpage: '5'
     - id: '31427'
       num: '29'
       name: КОВАЧИК Михаил Степанович
+      rowinpage: '6'
     - id: '31428'
       num: '30'
       name: КОНСТАНТИНОВСКИЙ Александр Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '31429'
       num: '31'
       name: КОТЕЛЬНИКОВ Сергей Иванович
+      rowinpage: '8'
     - id: '31430'
       num: '32'
       name: КРЕЧЕТОВ Валентин Николаевич
+      rowinpage: '9'
     - id: '31431'
       num: '33'
       name: КУЗНЕЦОВ Василий Давыдович
+      rowinpage: '10'
     - id: '31432'
       num: '34'
       name: КУРБАТОВ Владимир Иванович
+      rowinpage: '11'
       spravka: true
     - id: '31433'
       num: '35'
       name: КУШИНА Людмила Александровна
+      rowinpage: '12'
       spravka: true
     - id: '31434'
       num: '36'
       name: ЛАДЫЖЕНСКИЙ Семен Абрамович
+      rowinpage: '13'
       spravka: true
     - id: '31435'
       num: '37'
       name: ЛАЗАРЕВ Андрей Иванович
+      rowinpage: '14'
     - id: '31436'
       num: '38'
       name: ЛАПИЦКИЙ Самуил Эмануилович
+      rowinpage: '15'
     - id: '31437'
       num: '39'
       name: ЛАРИН Михаил Самсонович
+      rowinpage: '16'
     - id: '31438'
       num: '40'
       name: ЛИТВИНОВ Николай Петрович
+      rowinpage: '17'
     - id: '31439'
       num: '41'
       name: ЛИТВИШКОВ Трофим Иванович
+      rowinpage: '18'
       spravka: true
     - id: '31440'
       num: '42'
       name: МЕДОВЩИКОВ Иван Антонович
+      rowinpage: '19'
     - id: '31441'
       num: '43'
       name: МИНАКОВ Федор Иванович
+      rowinpage: '20'
       spravka: true
     - id: '31442'
       num: '44'
       name: МОДАЛЛО Леонид Максимович
+      rowinpage: '21'
       spravka: true
     - id: '31443'
       num: '45'
       name: МОЗЖУХИН Александр Андреевич
+      rowinpage: '22'
     - id: '31444'
       num: '46'
       name: МОРОЗОВ Георгий Николаевич
+      rowinpage: '23'
       spravka: true
     - id: '31445'
       num: '47'
       name: НЕКРАСОВ Михаил Павлович
+      rowinpage: '24'
       spravka: true
     - id: '31446'
       num: '48'
       name: ОБУХОВ Яков Иванович
+      rowinpage: '25'
       spravka: true
     - id: '31447'
       num: '49'
       name: ПАВЛЕНКО Михаил Лаврентьевич
+      rowinpage: '26'
     - id: '31448'
       num: '50'
       name: ПОДВОЛОЦКИЙ Иван Петрович
+      rowinpage: '27'
       spravka: true
     - id: '31449'
       num: '51'
       name: ПОЛЯКОВ Иван Игнатович
+      rowinpage: '28'
 - pageintom: '187'
   image: v08/17-171-416-187.jpg
+  title: Курская область
   sublists:
   - sublid: '558'
     persons:
     - id: '31450'
       num: '52'
       name: ПОПОЛЗУНОВ Иван Григорьевич
+      rowinpage: '1'
     - id: '31451'
       num: '53'
       name: ПОСТНИКОВ Сергей Николаевич
+      rowinpage: '2'
       spravka: true
     - id: '31452'
       num: '54'
       name: ПРОКОПЧИК Иван Иванович
+      rowinpage: '3'
     - id: '31453'
       num: '55'
       name: РАЗИНКОВ Григорий Дмитриевич
+      rowinpage: '4'
     - id: '31454'
       num: '56'
       name: РОДИОНОВ Константин Степанович
+      rowinpage: '5'
       spravka: true
     - id: '31455'
       num: '57'
       name: РУДАКОВ Иван Павлович
+      rowinpage: '6'
     - id: '31456'
       num: '58'
       name: РЫСИН Моисей Исаевич
+      rowinpage: '7'
     - id: '31457'
       num: '59'
       name: СОРОКИН Иван Степанович
+      rowinpage: '8'
       spravka: true
     - id: '31458'
       num: '60'
       name: ТЕЛЕГИН Дмитрий Васильевич
+      rowinpage: '9'
     - id: '31459'
       num: '61'
       name: ТОКМАКОВ Василий Михайлович
+      rowinpage: '10'
     - id: '31460'
       num: '62'
       name: ТОКМАКОВ Иван Родионович
+      rowinpage: '11'
       spravka: true
     - id: '31461'
       num: '63'
       name: УШЕРЕНКО Абрам Борисович
+      rowinpage: '12'
       spravka: true
     - id: '31462'
       num: '64'
       name: ФИШМАН Абрам Григорьевич
+      rowinpage: '13'
       spravka: true
     - id: '31463'
       num: '65'
       name: ФОКИНА Анна Порфирьевна
+      rowinpage: '14'
       spravka: true
     - id: '31464'
       num: '66'
       name: ЦАРЕВ Петр Степанович
+      rowinpage: '15'
       spravka: true
     - id: '31465'
       num: '67'
       name: ШАВАРИН Андрей Ефимович
+      rowinpage: '16'
       spravka: true
     - id: '31466'
       num: '68'
       name: ШОР Лев Юрьевич
+      rowinpage: '17'
 - pageintom: '188'
   image: v08/17-171-416-188.jpg
+  title: null
   sublists:
   - sublid: '558'
     persons:
     - id: '31467'
       num: '1'
       name: АЛЕХИН Георгий Герасимович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КУРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '31468'
       num: '2'
       name: БОНДАРЕВ Иван Иванович
+      rowinpage: '2'
     - id: '31469'
       num: '3'
       name: ГЛАДИЛИН Семен Алексеевич
+      rowinpage: '3'
     - id: '31470'
       num: '4'
       name: ГЛОД Нихемий Абрамович
+      rowinpage: '4'
       spravka: true
     - id: '31471'
       num: '5'
       name: ДЕРБАНОСОВ Михаил Гаврилович
+      rowinpage: '5'
       spravka: true
     - id: '31472'
       num: '6'
       name: ЕПИФАНОВ Николай Иванович
+      rowinpage: '6'
     - id: '31473'
       num: '7'
       name: ЕРШОВ Модест Иванович
+      rowinpage: '7'
     - id: '31474'
       num: '8'
       name: КУЛЕШОВ Савва Леонтьевич
+      rowinpage: '8'
     - id: '31475'
       num: '9'
       name: КУЛИКОВ Алексей Иванович
+      rowinpage: '9'
     - id: '31476'
       num: '10'
       name: ЛОКЕРМАН Елена Самойловна
+      rowinpage: '10'
       spravka: true
     - id: '31477'
       num: '11'
       name: ЛЫТНЕВ Михаил Иванович
+      rowinpage: '11'
     - id: '31478'
       num: '12'
       name: МАМЧЕНКО Павел Павлович
+      rowinpage: '12'
       spravka: true
     - id: '31479'
       num: '13'
       name: МОИСЕЕВА Татьяна Федоровна
+      rowinpage: '13'
     - id: '31480'
       num: '14'
       name: ПРОНСКИЙ Козьма Федорович
+      rowinpage: '14'
     - id: '31481'
       num: '15'
       name: ПУЗИКОВ Алексей Тихонович
+      rowinpage: '15'
       spravka: true
     - id: '31482'
       num: '16'
       name: РУДЕНСКИЙ Павел Александрович
+      rowinpage: '16'
       spravka: true
     - id: '31483'
       num: '17'
       name: СОЛОВЬЕВ Алексей Федорович
+      rowinpage: '17'
     - id: '31484'
       num: '18'
       name: УРОНИЧ Дмитрий Семенович
+      rowinpage: '18'
       spravka: true
     - id: '31485'
       num: '19'
       name: ХАРЬКИН Митрофан Петрович
+      rowinpage: '19'
     - id: '31486'
       num: '20'
       name: ХЛЕБНИКОВ Петр Васильевич
+      rowinpage: '20'
     - id: '31487'
       num: '21'
       name: ЧЕМПЛИЕВИЧ Франц Яковлевич
+      rowinpage: '21'
     - id: '31488'
       num: '22'
       name: ЯШИН Леонид Семенович
+      rowinpage: '22'
       spravka: true

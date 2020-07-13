@@ -1,9 +1,10 @@
 id: '48'
 title: 'Список лиц: Москва-центр // 25 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '109'
 date: '1937-07-25'
+date_ru: 25.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -27,18 +28,22 @@ sublists:
 pages:
 - pageintom: '109'
   image: v02/17-171-410-109.jpg
+  title: null
   sublists: []
 - pageintom: '110'
   image: v02/17-171-410-110.jpg
+  title: null
   sublists: []
 - pageintom: '111'
   image: v02/17-171-410-111.jpg
+  title: null
   sublists:
   - sublid: '36'
     persons:
     - id: '4618'
       num: '1'
       name: ЛЮЛЬСДОРФ Бартель Бартелевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА - ЦЕНТР. </u></p><p align="right"><u>1-я
@@ -46,26 +51,33 @@ pages:
     - id: '4619'
       num: '2'
       name: МУССУРИ Петр Степанович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
     - id: '4620'
       num: '3'
       name: ШРЕЙБЕР Элиас Максимович
+      rowinpage: '3'
       gb_spravka: true
     - id: '4621'
       num: '1'
       name: МУССУРИ Николай Степанович
+      rowinpage: '4'
       gb_spravka: true
       subtitle1: <p align="right">2-я категория.
 - pageintom: '112'
   image: v02/17-171-410-112.jpg
+  title: null
   sublists: []
 - pageintom: '113'
   image: v02/17-171-410-113.jpg
+  title: null
   sublists: []
 - pageintom: '114'
   image: v02/17-171-410-114.jpg
+  title: null
   sublists: []
 - pageintom: '115'
   image: v02/17-171-410-115.jpg
+  title: null
   sublists: []

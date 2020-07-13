@@ -1,9 +1,10 @@
 id: '275'
 title: Список лиц - Вологодская область // от 28 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '184'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -30,369 +31,460 @@ sublists:
 pages:
 - pageintom: '184'
   image: v07/17-171-415-184.jpg
+  title: null
   sublists: []
 - pageintom: '185'
   image: v07/17-171-415-185.jpg
+  title: null
   sublists: []
 - pageintom: '186'
   image: v07/17-171-415-186.jpg
+  title: null
   sublists:
   - sublid: '495'
     persons:
     - id: '27889'
       num: '1'
       name: АКИНЬХОВ Александр Петрович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОЛОГОДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '27890'
       num: '2'
       name: АРСЕНЬЕВ Сергей Александрович
+      rowinpage: '2'
       spravka: true
     - id: '27891'
       num: '3'
       name: БАЕВ Николай Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '27892'
       num: '4'
       name: БАРАНОВ Николай Андреевич
+      rowinpage: '4'
       spravka: true
     - id: '27893'
       num: '5'
       name: БЕЛЯЕВ Александр Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '27894'
       num: '6'
       name: БОГДАНОВ Петр Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '27895'
       num: '7'
       name: ВЛАСОВ Александр Иванович
+      rowinpage: '7'
       spravka: true
     - id: '27896'
       num: '8'
       name: ВОРОНКОВ Александр Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '27897'
       num: '9'
       name: ГЕЛЬФГОТ Александр Павлович
+      rowinpage: '9'
       spravka: true
     - id: '27898'
       num: '10'
       name: ГУДКОВ Владимир Петрович
+      rowinpage: '10'
       spravka: true
     - id: '27899'
       num: '11'
       name: ГУЩИН Феодосий Иванович
+      rowinpage: '11'
       spravka: true
     - id: '27900'
       num: '12'
       name: ДЕЛЯГИН Александр Иванович
+      rowinpage: '12'
       spravka: true
     - id: '27901'
       num: '13'
       name: ДИОМИДОВ Антон Николаевич
+      rowinpage: '13'
       spravka: true
     - id: '27902'
       num: '14'
       name: ДУДНИКОВ Константин Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '27903'
       num: '15'
       name: ЖИЛЬЦОВ Павел Георгиевич
+      rowinpage: '15'
       spravka: true
     - id: '27904'
       num: '16'
       name: ЖУРАВЛЕВ Павел Иванович
+      rowinpage: '16'
       spravka: true
     - id: '27905'
       num: '17'
       name: ЗАЙЦЕВ Николай Фаустович
+      rowinpage: '17'
       spravka: true
     - id: '27906'
       num: '18'
       name: КИРИЛЛОВ Павел Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '27907'
       num: '19'
       name: КИРОВ Михаил Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '27908'
       num: '20'
       name: КИСЕЛЕВ Валерьян Николаевич
+      rowinpage: '20'
       spravka: true
     - id: '27909'
       num: '21'
       name: КОЗЫРЕВ Иван Дмитриевич
+      rowinpage: '21'
       spravka: true
     - id: '27910'
       num: '22'
       name: КОМАНДИРОВ Николай Николаевич
+      rowinpage: '22'
       spravka: true
     - id: '27911'
       num: '23'
       name: КРЕЙВИС Михаил Тадеушевич
+      rowinpage: '23'
       spravka: true
     - id: '27912'
       num: '24'
       name: КУБЕНСКИЙ Петр Владимирович
+      rowinpage: '24'
       spravka: true
 - pageintom: '187'
   image: v07/17-171-415-187.jpg
+  title: Вологодская область
   sublists:
   - sublid: '495'
     persons:
     - id: '27913'
       num: '25'
       name: КУБЛАНОВ Иосиф Вениаминович
+      rowinpage: '1'
       spravka: true
     - id: '27914'
       num: '26'
       name: ЛЕОНТЬЕВСКИЙ Герман Александрович
+      rowinpage: '2'
       spravka: true
     - id: '27915'
       num: '27'
       name: ЛЮСТРОВ Николай Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '27916'
       num: '28'
       name: МАЛКОВ Павел Петрович
+      rowinpage: '4'
       spravka: true
     - id: '27917'
       num: '29'
       name: МЕЛЬНИКОВ Леонид Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '27918'
       num: '30'
       name: МИХЕЛЬСОН Николай Иванович
+      rowinpage: '6'
       spravka: true
     - id: '27919'
       num: '31'
       name: МИШИН Михаил Иванович
+      rowinpage: '7'
       spravka: true
     - id: '27920'
       num: '32'
       name: МОКРЕЦОВ Петр Федорович
+      rowinpage: '8'
       spravka: true
     - id: '27921'
       num: '33'
       name: МОРГАЙЛИК Иван Иосифович
+      rowinpage: '9'
       spravka: true
     - id: '27922'
       num: '34'
       name: МОРОХИН Алексей Александрович
+      rowinpage: '10'
       spravka: true
     - id: '27923'
       num: '35'
       name: МУМИН Николай Алексеевич
+      rowinpage: '11'
       spravka: true
     - id: '27924'
       num: '36'
       name: НИКУЛИН Кузьма Федорович
+      rowinpage: '12'
       spravka: true
     - id: '27925'
       num: '37'
       name: ОСМИНИН Евгений Иванович
+      rowinpage: '13'
       spravka: true
     - id: '27926'
       num: '38'
       name: ПАСХИН Иван Степанович
+      rowinpage: '14'
       spravka: true
     - id: '27927'
       num: '39'
       name: ПЕГАСОВ Петр Артемьевич
+      rowinpage: '15'
       spravka: true
     - id: '27928'
       num: '40'
       name: ПЕТРОВ Николай Николаевич
+      rowinpage: '16'
       spravka: true
     - id: '27929'
       num: '41'
       name: ПИСКОВ Иван Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '27930'
       num: '42'
       name: ПОЛУЭКТОВ Михаил Александрович
+      rowinpage: '18'
       spravka: true
     - id: '27931'
       num: '43'
       name: ПРЕЛОВСКИЙ Михаил Дмитриевич
+      rowinpage: '19'
       spravka: true
     - id: '27932'
       num: '44'
       name: ПРИПОРОВ Александр Луппович
+      rowinpage: '20'
       spravka: true
     - id: '27933'
       num: '45'
       name: РАСКИН Соломон Натанович
+      rowinpage: '21'
       spravka: true
     - id: '27934'
       num: '46'
       name: РЕШЕТНИКОВ Николай Никонорович
+      rowinpage: '22'
       spravka: true
     - id: '27935'
       num: '47'
       name: РЫЖЕНКО Владимир Михайлович
+      rowinpage: '23'
       spravka: true
     - id: '27936'
       num: '48'
       name: РЯБКОВ Семен Иванович
+      rowinpage: '24'
       spravka: true
     - id: '27937'
       num: '49'
       name: СИДОРОВ Михаил Константинович
+      rowinpage: '25'
       spravka: true
     - id: '27938'
       num: '50'
       name: СОКОЛОВ-ЭНСКИЙ Василий Фадеевич
+      rowinpage: '26'
       spravka: true
     - id: '27939'
       num: '51'
       name: ТРЕТЬЯКОВ Григорий Васильевич
+      rowinpage: '27'
       spravka: true
     - id: '27940'
       num: '52'
       name: ФРОЛОВ Иван Иванович
+      rowinpage: '28'
       spravka: true
     - id: '27941'
       num: '53'
       name: ХВАТАЕВ Тимофей Денисович
+      rowinpage: '29'
       spravka: true
 - pageintom: '188'
   image: v07/17-171-415-188.jpg
+  title: Вологодская область
   sublists:
   - sublid: '495'
     persons:
     - id: '27942'
       num: '54'
       name: ЧЕЧУЛИН Валерьян Николаевич
+      rowinpage: '1'
     - id: '27943'
       num: '55'
       name: ЧУЕВ Алексей Александрович
+      rowinpage: '2'
       spravka: true
     - id: '27944'
       num: '56'
       name: ШАПОШНИКОВ Алексей Иванович
+      rowinpage: '3'
       spravka: true
     - id: '27945'
       num: '57'
       name: ШЕЙБУХОВ Александр Иванович
+      rowinpage: '4'
       spravka: true
     - id: '27946'
       num: '58'
       name: ШЕРСТЕННИКОВ Иван Дмитриевич
+      rowinpage: '5'
       spravka: true
     - id: '27947'
       num: '59'
       name: ШУЛЬГИН Клавдий Иванович
+      rowinpage: '6'
       spravka: true
     - id: '27948'
       num: '60'
       name: ЩАГИН Михаил Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '27949'
       num: '61'
       name: ЩЕПЕЛИН Леонид Андреевич
+      rowinpage: '8'
       spravka: true
     - id: '27950'
       num: '62'
       name: ЮЖАКОВ Иван Филиппович
+      rowinpage: '9'
       spravka: true
 - pageintom: '189'
   image: v07/17-171-415-189.jpg
+  title: null
   sublists:
   - sublid: '495'
     persons:
     - id: '27951'
       num: '1'
       name: АНТОНОВ Василий Витальевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОЛОГОДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '27952'
       num: '2'
       name: ВОРОНЦОВ Александр Иванович
+      rowinpage: '2'
       spravka: true
     - id: '27953'
       num: '3'
       name: ЖУКОВ Сергей Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '27954'
       num: '4'
       name: ЗАБЕЛИН Евгений Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '27955'
       num: '5'
       name: ЗАВАРЗИНА Лариса Михайловна
+      rowinpage: '5'
       spravka: true
     - id: '27956'
       num: '6'
       name: ЕШЕВСКИЙ Анатолий Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '27957'
       num: '7'
       name: КАТАННИКОВ Александр Федорович
+      rowinpage: '7'
       spravka: true
     - id: '27958'
       num: '8'
       name: КОВАЛЕВ Борис Александрович
+      rowinpage: '8'
       spravka: true
     - id: '27959'
       num: '9'
       name: КОЗЛОВА Анна Яковлевна
+      rowinpage: '9'
       spravka: true
     - id: '27960'
       num: '10'
       name: КРУТОВ Александр Дмитриевич
+      rowinpage: '10'
       spravka: true
     - id: '27961'
       num: '11'
       name: КУЗНЕЦОВ Иван Александрович
+      rowinpage: '11'
       spravka: true
     - id: '27962'
       num: '12'
       name: ЛАПИН Константин Иванович
+      rowinpage: '12'
       spravka: true
     - id: '27963'
       num: '13'
       name: ЛИПАТНИКОВ Зосим Гаврилович
+      rowinpage: '13'
       spravka: true
     - id: '27964'
       num: '14'
       name: ЛУЖИЦКИЙ Василий Иванович
+      rowinpage: '14'
       spravka: true
     - id: '27965'
       num: '15'
       name: МЯСНИКОВ Борис Александрович
+      rowinpage: '15'
       spravka: true
     - id: '27966'
       num: '16'
       name: НИЖНИК Ростислав Александрович
+      rowinpage: '16'
       spravka: true
     - id: '27967'
       num: '17'
       name: ОКЛАДНИКОВ Андрей Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '27968'
       num: '18'
       name: ПОЛЕНОВ Василий Дмитриевич
+      rowinpage: '18'
       spravka: true
     - id: '27969'
       num: '19'
       name: ПОПОВ Михаил Кузьмич
+      rowinpage: '19'
       spravka: true
     - id: '27970'
       num: '20'
       name: СТАРОСТИН Николай Васильевич
+      rowinpage: '20'
     - id: '27971'
       num: '21'
       name: УЛОВСКИЙ Василий Алексеевич
+      rowinpage: '21'
       spravka: true
     - id: '27972'
       num: '22'
       name: УШКОВ Николай Михайлович
+      rowinpage: '22'
       spravka: true
     - id: '27973'
       num: '23'
       name: ШУТОВ Борис Александрович
+      rowinpage: '23'
       spravka: true

@@ -1,9 +1,10 @@
 id: '50'
 title: 'Список лиц: Горьковская, Саратовская области // 31 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '124'
 date: '1937-07-31'
+date_ru: 31.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -43,126 +44,156 @@ sublists:
 pages:
 - pageintom: '124'
   image: v02/17-171-410-124.jpg
+  title: null
   sublists: []
 - pageintom: '125'
   image: v02/17-171-410-125.jpg
+  title: null
   sublists: []
 - pageintom: '126'
   image: v02/17-171-410-126.jpg
+  title: null
   sublists:
   - sublid: '194'
     persons:
     - id: '4662'
       num: '1'
       name: БЕЛОЗЕРОВ Алексей Терентьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ГОРЬКОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4663'
       num: '2'
       name: БОГДАНОВ Георгий Григорьевич
+      rowinpage: '2'
       spravka: true
     - id: '4664'
       num: '3'
       name: БУЙЛОВ Михаил Георгиевич
+      rowinpage: '3'
       spravka: true
     - id: '4665'
       num: '4'
       name: ГАРИН Петр Никитич
+      rowinpage: '4'
       spravka: true
     - id: '4666'
       num: '5'
       name: ГЛАЗКОВ Александр Гаврилович
+      rowinpage: '5'
       spravka: true
     - id: '4667'
       num: '6'
       name: ГОЛОВАНОВ Николай Сергеевич
+      rowinpage: '6'
       spravka: true
     - id: '4668'
       num: '7'
       name: ГРУЗДЕВСКИЙ Константин Полуэктович
+      rowinpage: '7'
       spravka: true
     - id: '4669'
       num: '8'
       name: ДРИДИГЕР Яков Яковлевич
+      rowinpage: '8'
       spravka: true
     - id: '4670'
       num: '9'
       name: ЗЕФИРОВ Гавриил Иванович
+      rowinpage: '9'
       spravka: true
     - id: '4671'
       num: '10'
       name: КАПУСТИН Геннадий Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '4672'
       num: '11'
       name: КЕДРОВ Павел Романович
+      rowinpage: '11'
     - id: '4673'
       num: '12'
       name: КОРНИЛОВ Николай Александрович
+      rowinpage: '12'
       spravka: true
     - id: '4674'
       num: '13'
       name: КОСТАКОВ Михаил Алексеевич
+      rowinpage: '13'
       spravka: true
     - id: '4675'
       num: '14'
       name: МАЛИНИН Павел Алексеевич
+      rowinpage: '14'
       spravka: true
     - id: '4676'
       num: '15'
       name: МУЗЮКИН Иван Федорович
+      rowinpage: '15'
       spravka: true
     - id: '4677'
       num: '16'
       name: СТЕЛЬМАШУК Иван Алексеевич
+      rowinpage: '16'
       spravka: true
     - id: '4678'
       num: '17'
       name: ТЮРЕНКОВ Николай Григорьевич
+      rowinpage: '17'
       spravka: true
     - id: '4679'
       num: '18'
       name: УКРАИНЦЕВ Иван Васильевич
+      rowinpage: '18'
       spravka: true
 - pageintom: '127'
   image: v02/17-171-410-127.jpg
+  title: null
   sublists:
   - sublid: '194'
     persons:
     - id: '4680'
       num: '1'
       name: ГОРДЕЕВ Иван Матвеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ГОРЬКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '4681'
       num: '2'
       name: ЕФИМОВА Вера Яковлевна
+      rowinpage: '2'
     - id: '4682'
       num: '3'
       name: ИГНАТОВИЧ Наум Мартынович
+      rowinpage: '3'
       spravka: true
     - id: '4683'
       num: '4'
       name: КОЗЫРИХИН Борис Иванович
+      rowinpage: '4'
       spravka: true
     - id: '4684'
       num: '5'
       name: ЛЫЧАКОВ Сергей Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '4685'
       num: '6'
       name: ШМИДТ Яков Савельевич
+      rowinpage: '6'
       spravka: true
 - pageintom: '128'
   image: v02/17-171-410-128.jpg
+  title: null
   sublists:
   - sublid: '195'
     persons:
     - id: '4686'
       num: '1'
       name: АШЕР Эрнст Гугович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
@@ -170,41 +201,49 @@ pages:
     - id: '4687'
       num: '2'
       name: БАЙЕР Ганс Иванович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '4688'
       num: '3'
       name: ВИЛЬДЕ Гарри Оттович
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '4689'
       num: '4'
       name: ВИРГИН-ШТАРКЕ Фриц Густавович
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '4690'
       num: '5'
       name: ГОФМАН-ЛЕОВ Вилли
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '4691'
       num: '6'
       name: ФАЛЕНТИН Андреас Францевич
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '4692'
       num: '7'
       name: ШЕЛЕНБЕРГ Пауль Павлович (Берг Клаус)
+      rowinpage: '7'
       doublesexists: true
       spravka: true
 - pageintom: '129'
   image: v02/17-171-410-129.jpg
+  title: null
   sublists:
   - sublid: '195'
     persons:
     - id: '4693'
       num: '1'
       name: АККЕРМАН Отто Максович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
@@ -213,20 +252,25 @@ pages:
     - id: '4694'
       num: '2'
       name: БРУНС Петр Артурович (Клозе Вольфрам)
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
     - id: '4695'
       num: '3'
       name: ЯКОБ Эрнст Бертрамович
+      rowinpage: '3'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '130'
   image: v02/17-171-410-130.jpg
+  title: null
   sublists: []
 - pageintom: '131'
   image: v02/17-171-410-131.jpg
+  title: null
   sublists: []
 - pageintom: '132'
   image: v02/17-171-410-132.jpg
+  title: null
   sublists: []

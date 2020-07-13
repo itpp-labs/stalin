@@ -1,9 +1,10 @@
 id: '121'
 title: Список лиц - Армянская ССР // 22 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '103'
 date: '1937-11-22'
+date_ru: 22.11.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,42 +29,52 @@ sublists:
 pages:
 - pageintom: '103'
   image: v05/17-171-413-103.jpg
+  title: null
   sublists: []
 - pageintom: '104'
   image: v05/17-171-413-104.jpg
+  title: null
   sublists: []
 - pageintom: '105'
   image: v05/17-171-413-105.jpg
+  title: null
   sublists:
   - sublid: '80'
     persons:
     - id: '15299'
       num: '1'
       name: ГЕВОРКОВ Иван Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>АРМЯНСКАЯ С.С.Р.</u> <br /> (быв.работники НКВД)
         </p><p align="right"><u>1-я категория</u>
     - id: '15300'
       num: '2'
       name: КОСТИКЯН Баград Петросович
+      rowinpage: '2'
       spravka: true
     - id: '15301'
       num: '3'
       name: МАРКАРЬЯН Леван Акопович
+      rowinpage: '3'
       spravka: true
     - id: '15302'
       num: '4'
       name: МУГДУСИ Хачик Хагатович
+      rowinpage: '4'
       spravka: true
     - id: '15303'
       num: '5'
       name: НИКОГОСЯН Ехпае Оганесович
+      rowinpage: '5'
       spravka: true
     - id: '15304'
       num: '6'
       name: ПАНЯН Перч Христофорович
+      rowinpage: '6'
       spravka: true
     - id: '15305'
       num: '7'
       name: ЧИТУНИ Ваград
+      rowinpage: '7'
       spravka: true

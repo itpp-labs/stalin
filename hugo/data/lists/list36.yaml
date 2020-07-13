@@ -1,9 +1,10 @@
 id: '36'
 title: 'Список лиц: Азербайджанская ССР, Грузинская ССР // 10 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '21'
 date: '1937-07-10'
+date_ru: 10.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -39,180 +40,233 @@ sublists:
 pages:
 - pageintom: '21'
   image: v02/17-171-410-021.jpg
+  title: null
   sublists: []
 - pageintom: '22'
   image: v02/17-171-410-022.jpg
+  title: null
   sublists: []
 - pageintom: '23'
   image: v02/17-171-410-023.jpg
+  title: null
   sublists:
   - sublid: '173'
     persons:
     - id: '3597'
       num: '1'
       name: АРУТЮНОВ Рубен Манвелович
+      rowinpage: '1'
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>АЗЕРБАЙДЖАНСКАЯ
         ССР.</u>
     - id: '3598'
       num: '2'
       name: БАЙРАМОВ Орудж Байрам Оглы
+      rowinpage: '2'
     - id: '3599'
       num: '3'
       name: БОНДАРЕНКО Василий Моисеевич
+      rowinpage: '3'
     - id: '3600'
       num: '4'
       name: БРУСЕНКО Николай Константинович
+      rowinpage: '4'
     - id: '3601'
       num: '5'
       name: ВЛАСОВ Иван Андреевич
+      rowinpage: '5'
     - id: '3602'
       num: '6'
       name: ГОЛОВАНОВ Григорий Григорьевич
+      rowinpage: '6'
     - id: '3603'
       num: '7'
       name: ГОЛОВАНОВ Иван Григорьевич
+      rowinpage: '7'
     - id: '3604'
       num: '8'
       name: ДАВЫДОВ Роман Давыдович
+      rowinpage: '8'
     - id: '3605'
       num: '9'
       name: ЕРШОВ Леонтий Иванович
+      rowinpage: '9'
     - id: '3606'
       num: '10'
       name: ЗАЙЧИКОВ Николай Максимович
+      rowinpage: '10'
     - id: '3607'
       num: '11'
       name: ЗАНИН Александр Васильевич
+      rowinpage: '11'
     - id: '3608'
       num: '12'
       name: ИВАНОВ Владимир Петрович
+      rowinpage: '12'
     - id: '3609'
       num: '13'
       name: ИНЖЕВАТКИН Прокофий Васильевич
+      rowinpage: '13'
     - id: '3610'
       num: '14'
       name: КАЛАЙДОВИЧ Борис Николаевич
+      rowinpage: '14'
     - id: '3611'
       num: '15'
       name: КОЛОМЕЙЦЕВ Пантелей Васильевич
+      rowinpage: '15'
     - id: '3612'
       num: '16'
       name: КУЗОВЕНКО Владимир Федорович
+      rowinpage: '16'
     - id: '3613'
       num: '17'
       name: МАДАТОВ Ганифа Ибрагимович
+      rowinpage: '17'
     - id: '3614'
       num: '18'
       name: МАЙЕР Яков Адамович
+      rowinpage: '18'
     - id: '3615'
       num: '19'
       name: МАЛАХОВ Василий Андреевич
+      rowinpage: '19'
     - id: '3616'
       num: '20'
       name: МАРШЕВ Андрей Иванович
+      rowinpage: '20'
       spravka: true
     - id: '3617'
       num: '21'
       name: МАЯЦКИЙ Николай Иванович
+      rowinpage: '21'
     - id: '3618'
       num: '22'
       name: МИНЕЕВ Алексей Семенович
+      rowinpage: '22'
     - id: '3619'
       num: '23'
       name: МИНЕЕВ Георгий Федорович
+      rowinpage: '23'
     - id: '3620'
       num: '24'
       name: НЕМЧЕНКО Михаил Лукьянович
+      rowinpage: '24'
 - pageintom: '24'
   image: v02/17-171-410-024.jpg
+  title: Азербайджанская ССР
   sublists:
   - sublid: '173'
     persons:
     - id: '3621'
       num: '25'
       name: НОВИКОВ Николай Николаевич
+      rowinpage: '1'
     - id: '3622'
       num: '26'
       name: НОЖИН Федор Савельевич
+      rowinpage: '2'
     - id: '3623'
       num: '27'
       name: ОВТИН Сергей Кузьмич
+      rowinpage: '3'
     - id: '3624'
       num: '28'
       name: ПОГОРЕЛОВ Григорий Сидорович
+      rowinpage: '4'
     - id: '3625'
       num: '29'
       name: ПОТТ Иосиф Георгиевич
+      rowinpage: '5'
     - id: '3626'
       num: '30'
       name: РОМАНОШВИЛИ Георгий Давидович
+      rowinpage: '6'
     - id: '3627'
       num: '31'
       name: РУБЧЕВСКИЙ Николай Николаевич
+      rowinpage: '7'
     - id: '3628'
       num: '32'
       name: СЛАВНИЦКИЙ Иван Федорович
+      rowinpage: '8'
     - id: '3629'
       num: '33'
       name: СУТИДЗЕ Петр Владимирович
+      rowinpage: '9'
     - id: '3630'
       num: '34'
       name: ТОГОБИЦКИЙ Николай Терентьевич
+      rowinpage: '10'
     - id: '3631'
       num: '35'
       name: ТОГОБИЦКИЙ Терентий Терентьевич
+      rowinpage: '11'
     - id: '3632'
       num: '36'
       name: ТЫРТЫЧНИКОВ Георгий Данилович
+      rowinpage: '12'
     - id: '3633'
       num: '37'
       name: ЧАПАЕВ Николай Давидович
+      rowinpage: '13'
     - id: '3634'
       num: '38'
       name: ШАРОВ Николай Алексеевич
+      rowinpage: '14'
       spravka: true
     - id: '3635'
       num: '39'
       name: ШУКЛИН Константин Георгиевич
+      rowinpage: '15'
     - id: '3636'
       num: '40'
       name: ШУКЛИН Степан Георгиевич
+      rowinpage: '16'
     - id: '3637'
       num: '41'
       name: ЮЖАНИН Максим Федорович
+      rowinpage: '17'
     - id: '3638'
       num: '42'
       name: ЮНИН Илья Васильевич
+      rowinpage: '18'
 - pageintom: '25'
   image: v02/17-171-410-025.jpg
+  title: null
   sublists:
   - sublid: '173'
     persons:
     - id: '3639'
       num: '1'
       name: СОБКО Григорий Яковлевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>АЗЕРБАЙДЖАНСКАЯ
         ССР.</u>
     - id: '3640'
       num: '2'
       name: ФОРИС Сергей Яковлевич
+      rowinpage: '2'
     - id: '3641'
       num: '3'
       name: ЦЕЛИКИНА Нина Ивановна
+      rowinpage: '3'
 - pageintom: '26'
   image: v02/17-171-410-026.jpg
+  title: null
   sublists:
   - sublid: '174'
     persons:
     - id: '3642'
       num: '1'
       name: ГАБЕЛАШВИЛИ Левон Барнабович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>ГРУЗИНСКАЯ
         ССР.</u>
     - id: '8498'
       num: '2'
       name: ДИДМАНИШВИЛИ Петр Гаврилович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u>

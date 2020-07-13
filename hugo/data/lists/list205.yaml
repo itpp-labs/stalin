@@ -1,9 +1,10 @@
 id: '205'
 title: Список лиц - Свердловская область // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
+  ref: РГАСПИ, ф.17, оп.171, дело 418
   page1: '173'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,134 +29,168 @@ sublists:
 pages:
 - pageintom: '173'
   image: v10/17-171-418-173.jpg
+  title: null
   sublists: []
 - pageintom: '174'
   image: v10/17-171-418-174.jpg
+  title: null
   sublists: []
 - pageintom: '175'
   image: v10/17-171-418-175.jpg
+  title: null
   sublists:
   - sublid: '137'
     persons:
     - id: '39659'
       num: '1'
       name: АЛЛАГУРОВ Александр Илларионович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '39660'
       num: '2'
       name: БОГДАНОВ Алексей Константинович
+      rowinpage: '2'
       spravka: true
     - id: '39661'
       num: '3'
       name: БОЖИН Александр Филиппович
+      rowinpage: '3'
     - id: '39662'
       num: '4'
       name: ВОЙЦЕХОВИЧ Альфонс Феликсович
+      rowinpage: '4'
       spravka: true
     - id: '39663'
       num: '5'
       name: ВОЛЛЕНБЕРГ Георгий Людвигович
+      rowinpage: '5'
       spravka: true
     - id: '39664'
       num: '6'
       name: ГРАБЛАУС Рудольф Ансович
+      rowinpage: '6'
       spravka: true
     - id: '39665'
       num: '7'
       name: КАЙГОРОДОВ Николай Васильевич
+      rowinpage: '7'
     - id: '39666'
       num: '8'
       name: КАЛИНИН Александр Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '39667'
       num: '9'
       name: КРАСНЮК Деонисий Алексеевич
+      rowinpage: '9'
       spravka: true
     - id: '39668'
       num: '10'
       name: МАКАРОВ Никита Эрастович
+      rowinpage: '10'
     - id: '39669'
       num: '11'
       name: МАМКЕЕВ Якуб Имамович
+      rowinpage: '11'
       spravka: true
     - id: '39670'
       num: '12'
       name: МЕДВЕДЕВ Андрей Степанович
+      rowinpage: '12'
     - id: '39671'
       num: '13'
       name: МИРОНОВ Николай Александрович
+      rowinpage: '13'
       spravka: true
     - id: '39672'
       num: '14'
       name: МУРИН Николай Петрович
+      rowinpage: '14'
       spravka: true
     - id: '39673'
       num: '15'
       name: ОБРЕЗКОВ Николай Александрович
+      rowinpage: '15'
     - id: '39674'
       num: '16'
       name: ПАВЛОЦКИЙ Григорий Зиновьевич
+      rowinpage: '16'
       spravka: true
     - id: '39675'
       num: '17'
       name: ПАНОВ Василий Денисович
+      rowinpage: '17'
       spravka: true
     - id: '39676'
       num: '18'
       name: РЕЗНИКОВ Аврам Леонидович
+      rowinpage: '18'
       spravka: true
     - id: '39677'
       num: '19'
       name: САБУРОВ Павел Акимович
+      rowinpage: '19'
       spravka: true
     - id: '39678'
       num: '20'
       name: СМЫШЛЯЕВ Иван Никифорович
+      rowinpage: '20'
     - id: '39679'
       num: '21'
       name: СТАБИН Иван Иванович
+      rowinpage: '21'
       spravka: true
 - pageintom: '176'
   image: v10/17-171-418-176.jpg
+  title: Свердловская область
   sublists:
   - sublid: '137'
     persons:
     - id: '39680'
       num: '22'
       name: ФРЕЙДЕНЗОН Захар Наумович
+      rowinpage: '1'
       spravka: true
     - id: '39681'
       num: '23'
       name: ШУПИКОВ Ефим Парфенович
+      rowinpage: '2'
       spravka: true
     - id: '39682'
       num: '24'
       name: ЩЕПИН Владимир Алексеевич
+      rowinpage: '3'
     - id: '39683'
       num: '25'
       name: ЯРОСЛАВЦЕВ Павел Павлович
+      rowinpage: '4'
       spravka: true
 - pageintom: '177'
   image: v10/17-171-418-177.jpg
+  title: null
   sublists:
   - sublid: '137'
     persons:
     - id: '39684'
       num: '1'
       name: ЗЕЕМАН Борис Борисович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '39685'
       num: '2'
       name: ЛАРИОНОВ Михаил Михайлович
+      rowinpage: '2'
     - id: '39686'
       num: '3'
       name: НОВОКШЕНОВ Иван Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '39687'
       num: '4'
       name: ФУГЕНФИРОВ Моисей Израилевич
+      rowinpage: '4'
       spravka: true

@@ -1,9 +1,10 @@
 id: '209'
 title: Список лиц - Орджоникидзевский край // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
+  ref: РГАСПИ, ф.17, оп.171, дело 418
   page1: '212'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,348 +29,443 @@ sublists:
 pages:
 - pageintom: '212'
   image: v10/17-171-418-212.jpg
+  title: null
   sublists: []
 - pageintom: '213'
   image: v10/17-171-418-213.jpg
+  title: null
   sublists: []
 - pageintom: '214'
   image: v10/17-171-418-214.jpg
+  title: null
   sublists:
   - sublid: '140'
     persons:
     - id: '40203'
       num: '1'
       name: АБАЗАЛИЕВ Локман Кашикович
+      rowinpage: '1'
       doublesexists: true
       subtitle1: <p align="center"><u>ОРДЖОНИКИДЗЕВСКИЙ КРАЙ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '40204'
       num: '2'
       name: АДЖИЕВ Аубекир Койчуевич
+      rowinpage: '2'
     - id: '40205'
       num: '3'
       name: АНИСКОВИЧ Николай Владиславович
+      rowinpage: '3'
     - id: '40206'
       num: '4'
       name: АППАЕВ Хасан Алиевич
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '40207'
       num: '5'
       name: АРГУНОВ Абубекир Абдулахович
+      rowinpage: '5'
       spravka: true
     - id: '40208'
       num: '6'
       name: АРХИПОВ Вениамин Федорович
+      rowinpage: '6'
       spravka: true
     - id: '40209'
       num: '7'
       name: БАЙКУЛОВ Шогаиб Хусинович
+      rowinpage: '7'
       spravka: true
     - id: '40210'
       num: '8'
       name: БАЙРАМУКОВ Аскер Ходжаевич
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '40211'
       num: '9'
       name: БАКУЛИН Михаил Васильевич
+      rowinpage: '9'
     - id: '40212'
       num: '10'
       name: БЕГЕУДОВ Ахмет Исламович
+      rowinpage: '10'
     - id: '40213'
       num: '11'
       name: БИДЖИЕВ Магомет Томботович
+      rowinpage: '11'
     - id: '40214'
       num: '12'
       name: БЛЮМ Николай Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '40215'
       num: '13'
       name: БОТАШЕВ Касым Хаджи-Бекирович
+      rowinpage: '13'
       spravka: true
     - id: '40216'
       num: '14'
       name: БРЮХОВЕЦКИЙ Иван Михайлович
+      rowinpage: '14'
     - id: '40217'
       num: '15'
       name: ГАДЖИЕВ Мухтар Шахбанович
+      rowinpage: '15'
     - id: '40218'
       num: '16'
       name: ГЛАДКОВ Василий Федорович
+      rowinpage: '16'
       spravka: true
     - id: '40219'
       num: '17'
       name: ГОЛОВАТСКИЙ Мефодий Иванович
+      rowinpage: '17'
       spravka: true
     - id: '40220'
       num: '18'
       name: ГРУМСЛИС Виктор Осипович
+      rowinpage: '18'
     - id: '40221'
       num: '19'
       name: ГРЮНБЕРГ Роберт Карлович
+      rowinpage: '19'
     - id: '40222'
       num: '20'
       name: ДИКИЙ Иван Григорьевич
+      rowinpage: '20'
       spravka: true
     - id: '40223'
       num: '21'
       name: ДОХОВ Исмаил Ногаевич
+      rowinpage: '21'
 - pageintom: '215'
   image: v10/17-171-418-215.jpg
+  title: Орджоникидзевский край
   sublists:
   - sublid: '140'
     persons:
     - id: '40224'
       num: '22'
       name: ЖУЙКОВ Григорий Федотович
+      rowinpage: '1'
       spravka: true
     - id: '40225'
       num: '23'
       name: ЗОЗУЛЯ Николай Александрович
+      rowinpage: '2'
       spravka: true
     - id: '40226'
       num: '24'
       name: ИГНАТЬЕВ Григорий Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '40227'
       num: '25'
       name: КАБАН Мефодий Трофимович
+      rowinpage: '4'
     - id: '40228'
       num: '26'
       name: КАЗОВ Курман Али-Кучукович
+      rowinpage: '5'
     - id: '40229'
       num: '27'
       name: КАЛУГИН Михаил Иванович
+      rowinpage: '6'
       spravka: true
     - id: '40230'
       num: '28'
       name: КОЗЫРЕВ Агубечир Дзамболатович
+      rowinpage: '7'
     - id: '40231'
       num: '29'
       name: КОЛЕУХ Иван Иванович
+      rowinpage: '8'
       spravka: true
     - id: '40232'
       num: '30'
       name: КОРДЕЛЮК Дмитрий Селиверстович
+      rowinpage: '9'
     - id: '40233'
       num: '31'
       name: КРОПАЧЕВ Иван Павлович
+      rowinpage: '10'
       spravka: true
     - id: '40234'
       num: '32'
       name: КРУТЬКО Кирилл Иванович
+      rowinpage: '11'
       spravka: true
     - id: '40235'
       num: '33'
       name: ЛЕОНОВ Иван Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '40236'
       num: '34'
       name: ЛОБАКИН Николай Яковлевич
+      rowinpage: '13'
       spravka: true
     - id: '40237'
       num: '35'
       name: ЛОГВИНЕНКО Андрей Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '40238'
       num: '36'
       name: ЛЮБИМОВ Сергей Иванович
+      rowinpage: '15'
     - id: '40239'
       num: '37'
       name: МАНСУРОВ Эдыгей Гиреевич
+      rowinpage: '16'
       spravka: true
     - id: '40240'
       num: '38'
       name: МАХОВ Ильяс Чатович
+      rowinpage: '17'
     - id: '40241'
       num: '39'
       name: МИЖЕВ Алиби Абубекирович
+      rowinpage: '18'
     - id: '40242'
       num: '40'
       name: НОВОЗОНОВ Гавриил Георгиевич
+      rowinpage: '19'
       spravka: true
     - id: '40243'
       num: '41'
       name: НУДЬГА Иван Петрович
+      rowinpage: '20'
       spravka: true
     - id: '40244'
       num: '42'
       name: ПАВЛОВСКИЙ Анатолий Михайлович
+      rowinpage: '21'
     - id: '40245'
       num: '43'
       name: ПЕРЦЕВ Александр Павлович
+      rowinpage: '22'
       spravka: true
     - id: '40246'
       num: '44'
       name: ПЕТРОВ Юрий Николаевич
+      rowinpage: '23'
     - id: '40247'
       num: '45'
       name: ПЕТРОВСКИЙ, он же РОДИЛОВСКИЙ Борис Михайлович
+      rowinpage: '24'
       spravka: true
     - id: '40248'
       num: '46'
       name: ПЛОТНИКОВ Федор Андреевич
+      rowinpage: '25'
       spravka: true
 - pageintom: '216'
   image: v10/17-171-418-216.jpg
+  title: Орджоникидзевский край
   sublists:
   - sublid: '140'
     persons:
     - id: '40249'
       num: '47'
       name: ПОДЛИСЕВИЧ Иван Семенович
+      rowinpage: '1'
       spravka: true
     - id: '40250'
       num: '48'
       name: ПРОКОФЬЕВ Николай Макарович
+      rowinpage: '2'
       spravka: true
     - id: '40251'
       num: '49'
       name: ПЧЕЛИНЦЕВ Константин Иванович
+      rowinpage: '3'
       spravka: true
     - id: '40252'
       num: '50'
       name: ПШЕНИЧНЫЙ Георгий Андреевич
+      rowinpage: '4'
       spravka: true
     - id: '40253'
       num: '51'
       name: РОВНЕЙКО Петр Семенович
+      rowinpage: '5'
       spravka: true
     - id: '40254'
       num: '52'
       name: РОДЗИНСКИЙ Исай Иделевич
+      rowinpage: '6'
       spravka: true
     - id: '40255'
       num: '53'
       name: САВИН Михаил Осипович
+      rowinpage: '7'
       spravka: true
     - id: '40256'
       num: '54'
       name: СЕРГЕЕВ Андрей Григорьевич
+      rowinpage: '8'
     - id: '40257'
       num: '55'
       name: СИЛИНСКИЙ Дмитрий Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '40258'
       num: '56'
       name: СЫСОЕВ Владимир Тихонович
+      rowinpage: '10'
       spravka: true
     - id: '40259'
       num: '57'
       name: ТАТАРСКИЙ Александр Алексеевич
+      rowinpage: '11'
     - id: '40260'
       num: '58'
       name: ТИТОВ Матвей Алексеевич
+      rowinpage: '12'
     - id: '40261'
       num: '59'
       name: ТЮТЮННИКОВ Семен Иванович
+      rowinpage: '13'
     - id: '40262'
       num: '60'
       name: УРУСОВ Мудалиф Аслан -Мурзаевич
+      rowinpage: '14'
       doublesexists: true
     - id: '40263'
       num: '61'
       name: ФАРГИЕВ Алихан Магомедович
+      rowinpage: '15'
     - id: '40264'
       num: '62'
       name: ФЕНЬ Никита Саввич
+      rowinpage: '16'
     - id: '40265'
       num: '63'
       name: ФИЛОНОВ Михаил Иванович
+      rowinpage: '17'
     - id: '40266'
       num: '64'
       name: ХАПСИРОКОВ Яхья Ахмедович
+      rowinpage: '18'
     - id: '40267'
       num: '65'
       name: ХАТУКАЕВ Абубекир Талхатович
+      rowinpage: '19'
     - id: '40268'
       num: '66'
       name: ЦЕЙ Даут Хатитович
+      rowinpage: '20'
       spravka: true
     - id: '40269'
       num: '67'
       name: ЧАЛЬЯН Мушег Мовсеевич
+      rowinpage: '21'
       spravka: true
     - id: '40270'
       num: '68'
       name: ЧАПАРОВ Кучук Садыкович
+      rowinpage: '22'
     - id: '40271'
       num: '69'
       name: ШАПОВАЛОВ Иван Трофимович
+      rowinpage: '23'
     - id: '40272'
       num: '70'
       name: ЯНДЫШЕВСКИЙ Борис Леонидович
+      rowinpage: '24'
 - pageintom: '217'
   image: v10/17-171-418-217.jpg
+  title: null
   sublists:
   - sublid: '140'
     persons:
     - id: '40273'
       num: '1'
       name: АНДРЕЕВ Павел Васильевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ОРДЖОНИКИДЗЕВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '40274'
       num: '2'
       name: БОГОМАЗОВ Иван Фотиевич
+      rowinpage: '2'
       spravka: true
     - id: '40275'
       num: '3'
       name: БУЛАТОВ Дмитрий Петрович
+      rowinpage: '3'
       spravka: true
     - id: '40276'
       num: '4'
       name: ГУКЕМУХОВ Абубекир Махмудович
+      rowinpage: '4'
     - id: '40277'
       num: '5'
       name: ГУРДЖИЕВ Никита Григорьевич
+      rowinpage: '5'
     - id: '40278'
       num: '6'
       name: ДЕМЬЯНЦЕВ Михаил Иванович
+      rowinpage: '6'
     - id: '40279'
       num: '7'
       name: ДРОЖЖИНОВ Владимир Герасимович
+      rowinpage: '7'
     - id: '40280'
       num: '8'
       name: ЕСИН Иван Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '40281'
       num: '9'
       name: ЗАГОРЕЛОВ Алексей Васильевич, он же <br />ПЕРОВ Семен Никитович
+      rowinpage: '9'
     - id: '40282'
       num: '10'
       name: ЗУЕВ Григорий Лукич
+      rowinpage: '10'
     - id: '40283'
       num: '11'
       name: КРИКОВЦЕВ Федор Агафонович
+      rowinpage: '11'
     - id: '40284'
       num: '12'
       name: МАДАТОВ Леонид Амбарцумович
+      rowinpage: '12'
       spravka: true
     - id: '40285'
       num: '13'
       name: МАРЧИХИН Александр Никонорович
+      rowinpage: '13'
       spravka: true
     - id: '40286'
       num: '14'
       name: НОСИКОВ Павел Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '40287'
       num: '15'
       name: ОЛЬЧАК Иван Антонович
+      rowinpage: '15'
       spravka: true
     - id: '40288'
       num: '16'
       name: САЧКОВ Дмитрий Гаврилович
+      rowinpage: '16'
       spravka: true
     - id: '40289'
       num: '17'
       name: ТЕЛЕПИН Петр Егорович
+      rowinpage: '17'
       spravka: true
     - id: '40290'
       num: '18'
       name: ЧЕЖИН Николай Максимович
+      rowinpage: '18'
     - id: '40291'
       num: '19'
       name: ЯНЫШЕВСКИЙ Ефим Степанович
+      rowinpage: '19'

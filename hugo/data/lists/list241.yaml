@@ -1,9 +1,10 @@
 id: '241'
 title: 'Список лиц: Восточно-Сибирская обл. // 3 октября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '180'
 date: '1937-10-03'
+date_ru: 03.10.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,219 +29,278 @@ sublists:
 pages:
 - pageintom: '180'
   image: v03/17-171-411-180.jpg
+  title: null
   sublists: []
 - pageintom: '181'
   image: v03/17-171-411-181.jpg
+  title: null
   sublists: []
 - pageintom: '182'
   image: v03/17-171-411-182.jpg
+  title: null
   sublists:
   - sublid: '360'
     persons:
     - id: '9731'
       num: '1'
       name: АКУЛОВА Нина Семеновна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОСТОЧНО-СИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '9732'
       num: '2'
       name: АМАЛИН Ефим Борисович
+      rowinpage: '2'
       spravka: true
     - id: '9733'
       num: '3'
       name: БЛЕЗЕ Николай Рихардович
+      rowinpage: '3'
       spravka: true
     - id: '9734'
       num: '4'
       name: БУЛЫЧЕВ Петр Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '9735'
       num: '5'
       name: БЫСТРОВ Михаил Петрович
+      rowinpage: '5'
     - id: '9736'
       num: '6'
       name: ВЕРБИЦКИЙ Андор Антонович
+      rowinpage: '6'
       spravka: true
     - id: '9737'
       num: '7'
       name: ВЫДРИН Василий Трофимович
+      rowinpage: '7'
       spravka: true
     - id: '9738'
       num: '8'
       name: ГЛАГОЛЕВ Глеб Дмитриевич
+      rowinpage: '8'
     - id: '9739'
       num: '9'
       name: ГОЛУБЕВ Гавриил Нилович
+      rowinpage: '9'
       spravka: true
     - id: '9740'
       num: '10'
       name: ГОРНОСТАЕВ Александр Степанович
+      rowinpage: '10'
       spravka: true
     - id: '9741'
       num: '11'
       name: ГОРЯЕВ Василий Матвеевич
+      rowinpage: '11'
       spravka: true
     - id: '9742'
       num: '12'
       name: ГРОБЕРГ Александр Александрович
+      rowinpage: '12'
       spravka: true
     - id: '9743'
       num: '13'
       name: ГРОБЕРГ-БИЦЕНКО Надежда Александровна
+      rowinpage: '13'
     - id: '9744'
       num: '14'
       name: ДЕНИСОВ Алексей Дмитриевич
+      rowinpage: '14'
       spravka: true
     - id: '9745'
       num: '15'
       name: ДМИТРЕНКО Филипп Никифорович
+      rowinpage: '15'
     - id: '9746'
       num: '16'
       name: ДЮКИН Александр Иванович
+      rowinpage: '16'
       spravka: true
     - id: '9747'
       num: '17'
       name: ЗЫБИН Сергей Сергеевич
+      rowinpage: '17'
       spravka: true
     - id: '9748'
       num: '18'
       name: ЕГОРОВ Михаил Матвеевич
+      rowinpage: '18'
     - id: '9749'
       num: '19'
       name: ЕДЕМСКИЙ Владимир Андреевич
+      rowinpage: '19'
     - id: '9750'
       num: '20'
       name: ЕФИМОВА Валентина Михайловна
+      rowinpage: '20'
     - id: '9751'
       num: '21'
       name: КАВЕШНИКОВ Иван Семенович
+      rowinpage: '21'
       spravka: true
     - id: '9752'
       num: '22'
       name: КЕЛЬМАХТЕР Роберт Сигизмундович
+      rowinpage: '22'
       spravka: true
     - id: '9753'
       num: '23'
       name: КОЗЛОВ Сергей Иванович
+      rowinpage: '23'
       spravka: true
     - id: '9754'
       num: '24'
       name: КОРЧАГИН Василий Андреевич
+      rowinpage: '24'
       spravka: true
     - id: '9755'
       num: '25'
       name: КОСТАРЕВ Леонид Иванович
+      rowinpage: '25'
       spravka: true
     - id: '9756'
       num: '26'
       name: КРЯТ Павел Дмитриевич
+      rowinpage: '26'
       spravka: true
 - pageintom: '183'
   image: v03/17-171-411-183.jpg
+  title: Восточно-Сибирская обл.
   sublists:
   - sublid: '360'
     persons:
     - id: '9757'
       num: '27'
       name: МАТВЕЕВ Автоном Никитич
+      rowinpage: '1'
     - id: '9758'
       num: '28'
       name: МАТЭР Ян Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '9759'
       num: '29'
       name: МУШКАРОВ Всеволод Федорович
+      rowinpage: '3'
       spravka: true
     - id: '9760'
       num: '30'
       name: МЫСИН Григорий Иванович
+      rowinpage: '4'
     - id: '9761'
       num: '31'
       name: НАЙДЕНОВ Михаил Иванович
+      rowinpage: '5'
       spravka: true
     - id: '9762'
       num: '32'
       name: НАТЕСОВ Василий Степанович
+      rowinpage: '6'
     - id: '9763'
       num: '33'
       name: НОВИКОВ Иван Федорович
+      rowinpage: '7'
     - id: '9764'
       num: '34'
       name: ПАВЛОВ Дмитрий Ксенофонтович
+      rowinpage: '8'
     - id: '9765'
       num: '35'
       name: РОМАШИН Федор Федорович
+      rowinpage: '9'
       spravka: true
     - id: '9766'
       num: '36'
       name: СЕМИСЧАСТНЫЙ Николай Георгиевич
+      rowinpage: '10'
     - id: '9767'
       num: '37'
       name: СМАГИН Филипп Назарович
+      rowinpage: '11'
     - id: '9768'
       num: '38'
       name: СТРЕЛЬЧЕВСКИЙ Владимир Ипполитович
+      rowinpage: '12'
       spravka: true
     - id: '9769'
       num: '39'
       name: ТАРАСОВ Семен Андреевич
+      rowinpage: '13'
     - id: '9770'
       num: '40'
       name: ЧИНАРЬЯН Саркис Айрабетович, он же Сергей Карпович
+      rowinpage: '14'
     - id: '9771'
       num: '41'
       name: ЯРОСЛАВЦЕВ Александр Васильевич
+      rowinpage: '15'
     - id: '9772'
       num: '42'
       name: ЯШИН Василий Васильевич
+      rowinpage: '16'
 - pageintom: '184'
   image: v03/17-171-411-184.jpg
+  title: null
   sublists:
   - sublid: '360'
     persons:
     - id: '9773'
       num: '1'
       name: АНАНЬИН Иннокентий Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОСТОЧНО-СИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '9774'
       num: '2'
       name: ДВОЙНИКОВ Николай Данилович
+      rowinpage: '2'
       spravka: true
     - id: '9775'
       num: '3'
       name: ЗУЕВ Алексей Яковлевич
+      rowinpage: '3'
     - id: '9776'
       num: '4'
       name: КУДРЯВЦЕВ Дмитрий Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '9777'
       num: '5'
       name: МЕДВЕДЕВ Георгий Михайлович
+      rowinpage: '5'
     - id: '9778'
       num: '6'
       name: МОРОЗОВ Петр Каленикович
+      rowinpage: '6'
       spravka: true
     - id: '9779'
       num: '7'
       name: НИКОЛЬСКИЙ Михаил Петрович
+      rowinpage: '7'
       spravka: true
     - id: '9780'
       num: '8'
       name: СТРЮВЕР Борис Федорович
+      rowinpage: '8'
       spravka: true
     - id: '9781'
       num: '9'
       name: ТИТОВ Петр Иванович
+      rowinpage: '9'
     - id: '9782'
       num: '10'
       name: ХАРИТОНОВ Семен Георгиевич
+      rowinpage: '10'
     - id: '9783'
       num: '11'
       name: ЦЕЛЯРИЦКИЙ Артемий Константинович
+      rowinpage: '11'
     - id: '9784'
       num: '12'
       name: ШВЕДОВ Александр Николаевич
+      rowinpage: '12'
       spravka: true

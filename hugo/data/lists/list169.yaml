@@ -1,9 +1,10 @@
 id: '169'
 title: Список лиц - Омская область // от 10 июня 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '99'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,58 +28,75 @@ sublists:
 pages:
 - pageintom: '99'
   image: v09/17-171-417-099.jpg
+  title: null
   sublists: []
 - pageintom: '100'
   image: v09/17-171-417-100.jpg
+  title: null
   sublists: []
 - pageintom: '101'
   image: v09/17-171-417-101.jpg
+  title: null
   sublists:
   - sublid: '110'
     persons:
     - id: '34609'
       num: '1'
       name: АЛЕКСЕЕВ Матвей Георгиевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ОМСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '34610'
       num: '2'
       name: БОГДАНОВ Иван Михайлович
+      rowinpage: '2'
     - id: '34611'
       num: '3'
       name: ГРИЩЕНКО Максим Устинович
+      rowinpage: '3'
     - id: '34612'
       num: '4'
       name: ИЛЛАРИОНОВ Михаил Тимофеевич
+      rowinpage: '4'
     - id: '34613'
       num: '5'
       name: КУЦЕРЫБ Иван Андреевич
+      rowinpage: '5'
     - id: '34614'
       num: '6'
       name: ЛИФАНОВ Михаил Иванович
+      rowinpage: '6'
     - id: '34615'
       num: '7'
       name: МИЛЛЕР Ян Семенович, он же <br />МЮЛЛЕР Жан Семенович
+      rowinpage: '7'
     - id: '34616'
       num: '8'
       name: МОЛОДЫХ Николай Емельянович
+      rowinpage: '8'
     - id: '34617'
       num: '9'
       name: ПЕРЕПЕЛОВ Иван Николаевич
+      rowinpage: '9'
     - id: '34618'
       num: '10'
       name: ПЕТРОВ Дмитрий Иванович
+      rowinpage: '10'
     - id: '34619'
       num: '11'
       name: ПЛЕГАНСКИЙ, он же ВАСИН Иван Иванович
+      rowinpage: '11'
     - id: '34620'
       num: '12'
       name: СВЕРДЛОВ Сергей Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '34621'
       num: '13'
       name: ТАРАСОВ Николай Васильевич
+      rowinpage: '13'
     - id: '34622'
       num: '1'
       name: САЛЫКОВ Константин Алексеевич
+      rowinpage: '14'
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ</u>

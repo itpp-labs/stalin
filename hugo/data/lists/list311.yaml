@@ -1,9 +1,10 @@
 id: '311'
 title: Список лиц - г.Куйбышев-Куйбышевская ж.д. // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '189'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,77 +30,96 @@ sublists:
 pages:
 - pageintom: '189'
   image: v08/17-171-416-189.jpg
+  title: null
   sublists: []
 - pageintom: '190'
   image: v08/17-171-416-190.jpg
+  title: null
   sublists: []
 - pageintom: '191'
   image: v08/17-171-416-191.jpg
+  title: null
   sublists:
   - sublid: '559'
     persons:
     - id: '31489'
       num: '1'
       name: БОРЕШКО Сергей Акимович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.КУЙБЫШЕВ. Жел.дор.им.КУЙБЫШЕВА </u></p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '31490'
       num: '2'
       name: БЫКОВ Василий Петрович
+      rowinpage: '2'
       spravka: true
     - id: '31491'
       num: '3'
       name: ЖИВОВ Дмитрий Егорович
+      rowinpage: '3'
       spravka: true
     - id: '31492'
       num: '4'
       name: ЗАГОВАЛКО Николай Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '31493'
       num: '5'
       name: НЕКРАШЕВИЧ Иван Иосифович
+      rowinpage: '5'
       spravka: true
     - id: '31494'
       num: '6'
       name: НИКУЛИН Афанасий Артемьевич
+      rowinpage: '6'
       spravka: true
     - id: '31495'
       num: '7'
       name: РЕМИЗОВ Николай Алексеевич
+      rowinpage: '7'
     - id: '31496'
       num: '8'
       name: ШТОББЕ Александр Генрихович
+      rowinpage: '8'
       spravka: true
 - pageintom: '192'
   image: v08/17-171-416-192.jpg
+  title: null
   sublists:
   - sublid: '559'
     persons:
     - id: '31497'
       num: '1'
       name: БОЗЕНЕНКОВ Георгий Симонович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.КУЙБЫШЕВ. Жел.дор.им.КУЙБЫШЕВА </u></p><p
         align="right"><u>2-я КАТЕГОРИЯ.</u>
     - id: '31498'
       num: '2'
       name: КАРПЕКО Кирилл Григорьевич
+      rowinpage: '2'
     - id: '31499'
       num: '3'
       name: КУЛИГИН Александр Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '31500'
       num: '4'
       name: КУЛИКОВ Сергей Яковлевич
+      rowinpage: '4'
     - id: '31501'
       num: '5'
       name: МУЧКИН Михаил Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '31502'
       num: '6'
       name: НЕТУНАХИН Иван Павлович
+      rowinpage: '6'
       spravka: true
     - id: '31503'
       num: '7'
       name: РОЖНОВ Александр Васильевич
+      rowinpage: '7'

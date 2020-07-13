@@ -1,9 +1,10 @@
 id: '329'
 title: Список лиц - Алтайский край // от 3 мая 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '312'
 date: '1938-05-03'
+date_ru: 03.05.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,97 +28,120 @@ sublists:
 pages:
 - pageintom: '312'
   image: v08/17-171-416-312.jpg
+  title: null
   sublists: []
 - pageintom: '313'
   image: v08/17-171-416-313.jpg
+  title: null
   sublists: []
 - pageintom: '314'
   image: v08/17-171-416-314.jpg
+  title: null
   sublists:
   - sublid: '575'
     persons:
     - id: '32870'
       num: '1'
       name: БЕЛОКОПЫТОВ Константин Данилович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '32871'
       num: '2'
       name: БЫЧКОВ Алексей Игнатьевич
+      rowinpage: '2'
       spravka: true
     - id: '32872'
       num: '3'
       name: ЖИТЛОВСКИЙ Наум Иосифович
+      rowinpage: '3'
       spravka: true
     - id: '32873'
       num: '4'
       name: ЗИЗЯНОВ Семен Иванович
+      rowinpage: '4'
       spravka: true
     - id: '32874'
       num: '5'
       name: КОРОБЧЕНКО Давид Фраимович
+      rowinpage: '5'
       spravka: true
     - id: '32875'
       num: '6'
       name: КУЛЬКОС Николай Вениаминович
+      rowinpage: '6'
       spravka: true
     - id: '32876'
       num: '7'
       name: ЛЕВИН Константин Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '32877'
       num: '8'
       name: ДЫНКЕВИЧ Абрам Соломонович
+      rowinpage: '8'
       spravka: true
     - id: '32878'
       num: '9'
       name: МОЛЧАНОВ Николай Харитонович
+      rowinpage: '9'
       spravka: true
     - id: '32879'
       num: '10'
       name: САЛЬНИКОВ Александр Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '32880'
       num: '11'
       name: СУХИНИН Семен Романович
+      rowinpage: '11'
       spravka: true
     - id: '32881'
       num: '12'
       name: ТАРАСОВ Николай Григорьевич
+      rowinpage: '12'
       spravka: true
     - id: '32882'
       num: '13'
       name: ТИВЕРИАДСКИЙ Павел Степанович
+      rowinpage: '13'
       spravka: true
     - id: '32883'
       num: '14'
       name: ТИСКИНЕКОВ Василий Иванович
+      rowinpage: '14'
       spravka: true
     - id: '32884'
       num: '15'
       name: УРБШТАС Иван Яковлевич
+      rowinpage: '15'
       spravka: true
     - id: '32885'
       num: '16'
       name: ХОХЛАЧЕВ Михаил Степанович
+      rowinpage: '16'
       spravka: true
     - id: '32886'
       num: '17'
       name: ЦВИКЕВИЧ Иван Иванович
+      rowinpage: '17'
       spravka: true
     - id: '32887'
       num: '18'
       name: ЧЕРКАСОВ Алексей Афанасьевич
+      rowinpage: '18'
       spravka: true
 - pageintom: '315'
   image: v08/17-171-416-315.jpg
+  title: null
   sublists:
   - sublid: '575'
     persons:
     - id: '32888'
       num: '1'
       name: ДОЙНИКОВ Михаил Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>АЛТАЙСКИЙ КРАЙ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>

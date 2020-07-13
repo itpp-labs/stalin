@@ -1,9 +1,10 @@
 id: '219'
 title: 'Список лиц: Ленинградская обл. // 7 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '19'
 date: '1937-09-07'
+date_ru: 07.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -30,134 +31,167 @@ sublists:
 pages:
 - pageintom: '19'
   image: v03/17-171-411-019.jpg
+  title: null
   sublists: []
 - pageintom: '20'
   image: v03/17-171-411-020.jpg
+  title: null
   sublists: []
 - pageintom: '21'
   image: v03/17-171-411-021.jpg
+  title: null
   sublists:
   - sublid: '343'
     persons:
     - id: '7948'
       num: '1'
       name: АГЕЕВ Иван Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '7949'
       num: '2'
       name: БУКОВСКИЙ Лев Фомич
+      rowinpage: '2'
       spravka: true
     - id: '7950'
       num: '3'
       name: БУШУЕВ Павел Иванович
+      rowinpage: '3'
       spravka: true
     - id: '7951'
       num: '4'
       name: ГРИБОВ Александр Иванович
+      rowinpage: '4'
       spravka: true
     - id: '7952'
       num: '5'
       name: ГОРЕЛИК Исаак Ильич
+      rowinpage: '5'
       spravka: true
     - id: '7953'
       num: '6'
       name: ДЕСОВ Георгий Александрович
+      rowinpage: '6'
       spravka: true
     - id: '7954'
       num: '7'
       name: ДМИТРИЕВ Степан Дмитриевич
+      rowinpage: '7'
       spravka: true
     - id: '7955'
       num: '8'
       name: ДРОНОВ Иван Петрович
+      rowinpage: '8'
       spravka: true
     - id: '7956'
       num: '9'
       name: ДЬЯКОНОВ Борис Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '7957'
       num: '10'
       name: ЕРМОЛАЕВА Татьяна Сергеевна
+      rowinpage: '10'
       spravka: true
     - id: '7958'
       num: '11'
       name: ЖЕЙЦ Иосиф Владиславович
+      rowinpage: '11'
       spravka: true
     - id: '7959'
       num: '12'
       name: ЗЕРНОВ Михаил Николаевич
+      rowinpage: '12'
       underlined: true
       spravka: true
     - id: '7960'
       num: '13'
       name: ИВАНЮК Никифор Осипович
+      rowinpage: '13'
       spravka: true
     - id: '7961'
       num: '14'
       name: ИРКЛИС Петр Андреевич
+      rowinpage: '14'
       spravka: true
     - id: '7962'
       num: '15'
       name: КОНДИАЙН Александр Александрович
+      rowinpage: '15'
       spravka: true
     - id: '7963'
       num: '16'
       name: КОРОЛЕВ Евгений Иванович
+      rowinpage: '16'
       spravka: true
     - id: '7964'
       num: '17'
       name: КУЗНЕЦОВ Иван Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '7965'
       num: '18'
       name: ЛАРИОНОВ Николай Николаевич
+      rowinpage: '18'
       spravka: true
     - id: '7966'
       num: '19'
       name: ЛЕБЕДЕВ Иван Егорович
+      rowinpage: '19'
       spravka: true
     - id: '7967'
       num: '20'
       name: ЛЕЙЧЕНКОВ Никита Филиппович
+      rowinpage: '20'
     - id: '7968'
       num: '21'
       name: МИХАЙЛОВ Василий Михайлович
+      rowinpage: '21'
     - id: '7969'
       num: '22'
       name: МИХАЙЛОВ Иван Васильевич
+      rowinpage: '22'
       spravka: true
     - id: '7970'
       num: '23'
       name: МУРАВЬЕВ Федор Александрович
+      rowinpage: '23'
       spravka: true
     - id: '7971'
       num: '24'
       name: СВЕТОВ Василий Михайлович
+      rowinpage: '24'
       spravka: true
     - id: '7972'
       num: '25'
       name: ФЕДОРОВ Иван Федорович
+      rowinpage: '25'
       spravka: true
     - id: '7973'
       num: '26'
       name: ЧАПАЙТИС Павел Иосифович
+      rowinpage: '26'
       spravka: true
 - pageintom: '22'
   image: v03/17-171-411-022.jpg
+  title: Ленинградская обл.
   sublists:
   - sublid: '343'
     persons:
     - id: '7974'
       num: '27'
       name: ШВАРЦ Федор Карлович
+      rowinpage: '1'
       spravka: true
     - id: '7975'
       num: '1'
       name: РАСКИН Григорий Феликсович
+      rowinpage: '2'
       subtitle1: <p align="right"><u>2-я категория</u>
     - id: '7976'
       num: '2'
       name: ЭДЕЛЬСОН Лев Романович
+      rowinpage: '3'
       spravka: true

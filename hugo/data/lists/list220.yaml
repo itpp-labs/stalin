@@ -1,9 +1,10 @@
 id: '220'
 title: 'Список лиц: Москва-центр // 7 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '23'
 date: '1937-09-07'
+date_ru: 07.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -32,303 +33,376 @@ sublists:
 pages:
 - pageintom: '23'
   image: v03/17-171-411-023.jpg
+  title: null
   sublists: []
 - pageintom: '24'
   image: v03/17-171-411-024.jpg
+  title: null
   sublists: []
 - pageintom: '25'
   image: v03/17-171-411-025.jpg
+  title: null
   sublists:
   - sublid: '344'
     persons:
     - id: '7977'
       num: '1'
       name: АЛЕКСАНДРОВ Григорий Григорьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
         категория</u>
     - id: '7978'
       num: '2'
       name: АЛЕКСЕЕВ Николай Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '7979'
       num: '3'
       name: АЛЬПЕРОВИЧ Евгений Маркович
+      rowinpage: '3'
       spravka: true
     - id: '7980'
       num: '4'
       name: БОРИСОВ Сергей Степанович
+      rowinpage: '4'
       spravka: true
     - id: '7981'
       num: '5'
       name: БОТНЕР Стефан Освальдович
+      rowinpage: '5'
       spravka: true
     - id: '7982'
       num: '6'
       name: БУРНАЗОВ Федор Лазаревич
+      rowinpage: '6'
     - id: '7983'
       num: '7'
       name: ВАЙНЕРТ-ВЕРНИК Эрик-Август Валентинович
+      rowinpage: '7'
       spravka: true
     - id: '7984'
       num: '8'
       name: ВАЙНОВ Антон Романович
+      rowinpage: '8'
       spravka: true
     - id: '7985'
       num: '9'
       name: ВАТС, он же ДИШИНГЕР Андрей Леонардович
+      rowinpage: '9'
       spravka: true
     - id: '7986'
       num: '10'
       name: ВИШНЯКОВ-КУРАЖЕНКО Иван Демьянович
+      rowinpage: '10'
       spravka: true
     - id: '7987'
       num: '11'
       name: ВОЙТЮК Константин Моисеевич
+      rowinpage: '11'
       doublesexists: true
       spravka: true
     - id: '7988'
       num: '12'
       name: ВОЛЬФ Александр Самсонович, он же <br />Лев Эммануил ШЕПШЕЛЕВИЧ
+      rowinpage: '12'
       spravka: true
     - id: '7989'
       num: '13'
       name: ГЕРИШ Григорий Моисеевич
+      rowinpage: '13'
       spravka: true
     - id: '7990'
       num: '14'
       name: ГОРДИЕНКО Гавриил Митрофанович
+      rowinpage: '14'
       spravka: true
     - id: '7991'
       num: '15'
       name: ДМИТРИЕВ Григорий Алексеевич
+      rowinpage: '15'
       spravka: true
     - id: '7992'
       num: '16'
       name: ДОБРОВОЛЬСКАЯ Агнесса Даниловна
+      rowinpage: '16'
       spravka: true
     - id: '7993'
       num: '17'
       name: ДОЛЖЕНКО Семен Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '7994'
       num: '18'
       name: ДЬЯКОВ Иван Николаевич
+      rowinpage: '18'
       spravka: true
     - id: '7995'
       num: '19'
       name: ДЬЯКОНОВ Николай Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '7996'
       num: '20'
       name: ЕРМАН Семен Зиновьевич
+      rowinpage: '20'
       spravka: true
     - id: '7997'
       num: '21'
       name: ЖЕРЕБЦОВ Федор Михайлович
+      rowinpage: '21'
       spravka: true
     - id: '7998'
       num: '22'
       name: ИГНАТОВ-ГВОЗДИКОВ Карп Дмитриевич
+      rowinpage: '22'
       spravka: true
     - id: '10341'
       num: '23'
       name: КАБАКОВ Иван Дмитриевич
+      rowinpage: '23'
       doublesexists: true
       spravka: true
     - id: '8000'
       num: '24'
       name: КАЗИНИЦКИЙ Ефим Константинович
+      rowinpage: '24'
       spravka: true
     - id: '8001'
       num: '25'
       name: КАНАШ Федор Харитонович
+      rowinpage: '25'
       spravka: true
 - pageintom: '26'
   image: v03/17-171-411-026.jpg
+  title: Москва-центр
   sublists:
   - sublid: '344'
     persons:
     - id: '8002'
       num: '26'
       name: КЛАССЕН Петр Петрович
+      rowinpage: '1'
       spravka: true
     - id: '8003'
       num: '27'
       name: КЛОЧКО Иван Гаврилович
+      rowinpage: '2'
       spravka: true
     - id: '8004'
       num: '28'
       name: КОНДРАТЬЕВ Владимир Александрович
+      rowinpage: '3'
     - id: '8005'
       num: '29'
       name: ЛЕМАН Ионни-Отто Оттович
+      rowinpage: '4'
       spravka: true
     - id: '8006'
       num: '30'
       name: ЛИДЕМАН Рафаил Модестович
+      rowinpage: '5'
       spravka: true
     - id: '8007'
       num: '31'
       name: ЛИСТОВСКИЙ Петр Петрович
+      rowinpage: '6'
       spravka: true
     - id: '8008'
       num: '32'
       name: ЛЫЗЛОВА Елена Петровна
+      rowinpage: '7'
       spravka: true
     - id: '8009'
       num: '33'
       name: МАРЬЯСИН Лев Ефимович
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '8010'
       num: '34'
       name: МАЦИЛЕЦКИЙ Сергей Константинович
+      rowinpage: '9'
       spravka: true
     - id: '8011'
       num: '35'
       name: МЕДВЕДЕВ Сергей Павлович
+      rowinpage: '10'
       spravka: true
     - id: '8012'
       num: '36'
       name: ОСЕПЯН Гайк Александрович
+      rowinpage: '11'
       spravka: true
     - id: '8013'
       num: '37'
       name: ОСТРОГОРСКИЙ Михаил Иванович
+      rowinpage: '12'
       spravka: true
     - id: '8014'
       num: '38'
       name: ОЧКОВ Николай Иванович, он же ПРЕШ-ПАЛ-СИНГ
+      rowinpage: '13'
       spravka: true
     - id: '8015'
       num: '39'
       name: ПЕППЕЛЬ Евгений Иванович
+      rowinpage: '14'
       spravka: true
     - id: '8016'
       num: '40'
       name: ПЕТРОВСКИЙ-ЛИПЕЦ Давид Александрович
+      rowinpage: '15'
       spravka: true
     - id: '8017'
       num: '41'
       name: ПИВОВАРОВ Иван Никифорович
+      rowinpage: '16'
       spravka: true
     - id: '8018'
       num: '42'
       name: ПОДОЛЬСКИЙ Яков Борисович
+      rowinpage: '17'
       spravka: true
     - id: '8019'
       num: '43'
       name: РЕЙЗИН Семен Борисович
+      rowinpage: '18'
       spravka: true
     - id: '8020'
       num: '44'
       name: РОГОВСКИЙ Николай Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '8021'
       num: '45'
       name: РОХКИН Григорий Евсеевич
+      rowinpage: '20'
       spravka: true
     - id: '8022'
       num: '46'
       name: САФРАЗБЕКЯН Геворк Садатович
+      rowinpage: '21'
       spravka: true
     - id: '8023'
       num: '47'
       name: СЕРГЕЕВ Евгений Николаевич
+      rowinpage: '22'
       spravka: true
     - id: '8024'
       num: '48'
       name: СЫРЦОВ Сергей Иванович
+      rowinpage: '23'
       spravka: true
     - id: '8025'
       num: '49'
       name: ТАЛЕВИЧ Болеслав Иосифович
+      rowinpage: '24'
       spravka: true
     - id: '8026'
       num: '50'
       name: ТКАЧЕНКО Георгий Степанович
+      rowinpage: '25'
       spravka: true
     - id: '8027'
       num: '51'
       name: ТОДОРСКИЙ Иван Иванович
+      rowinpage: '26'
       spravka: true
     - id: '8028'
       num: '52'
       name: ТОПОРКОВ Лев Григорьевич
+      rowinpage: '27'
       spravka: true
 - pageintom: '27'
   image: v03/17-171-411-027.jpg
+  title: Москва-центр
   sublists:
   - sublid: '344'
     persons:
     - id: '8029'
       num: '53'
       name: ТРЕТЬЯКОВ Сергей Михайлович
+      rowinpage: '1'
       spravka: true
     - id: '8030'
       num: '54'
       name: УСТРЯЛОВ Николай Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '8031'
       num: '55'
       name: ХАРИТОНОВ Харлампий Харлампиевич
+      rowinpage: '3'
       spravka: true
     - id: '8032'
       num: '56'
       name: ЧУМИЧЕВ Григорий Данилович
+      rowinpage: '4'
       spravka: true
     - id: '8033'
       num: '57'
       name: ШЕБОЛДАЕВ Борис Петрович
+      rowinpage: '5'
       spravka: true
     - id: '8034'
       num: '58'
       name: ШИТЦ Иван Юльевич
+      rowinpage: '6'
       spravka: true
     - id: '8035'
       num: '59'
       name: ШМОЙШ-БРОНСКАЯ Бронислава Иосифовна
+      rowinpage: '7'
       spravka: true
     - id: '8036'
       num: '60'
       name: ШОК-БОРЕЦКИЙ Густав Антонович
+      rowinpage: '8'
       spravka: true
     - id: '8037'
       num: '61'
       name: ШПЕКТОРОВ Натан Лазаревич
+      rowinpage: '9'
       spravka: true
     - id: '8038'
       num: '62'
       name: ЩЕГОЛЕВ Лев Израилевич
+      rowinpage: '10'
       spravka: true
     - id: '8039'
       num: '63'
       name: ЩИПЦОВ Анатолий, он же Порфирий Александрович
+      rowinpage: '11'
       spravka: true
     - id: '8040'
       num: '64'
       name: АЛМАЕВ Ахмед Хасанович
+      rowinpage: '12'
       primcoc: (быв.сотрудник НКВД)
       spravka: true
     - id: '8041'
       num: '65'
       name: НИКОЛАЕВ-РАМБЕРГ Израиль Маркович
+      rowinpage: '13'
       primcoc: (б.сотрудн.НКВД)
       spravka: true
     - id: '8042'
       num: '66'
       name: МОЛОТКОВСКИЙ Михаил Григорьевич
+      rowinpage: '14'
       primcoc: (б.сотрудн.НКВД)
       spravka: true
 - pageintom: '28'
   image: v03/17-171-411-028.jpg
+  title: null
   sublists:
   - sublid: '344'
     persons:
     - id: '8043'
       num: '1'
       name: ДАНИЭЛЬ Берта Робертовна
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>МОСКВА-ЦЕНТР</u></p><p
@@ -336,26 +410,32 @@ pages:
     - id: '8044'
       num: '2'
       name: МИЛЛЕР Эрна Оттовна, она же <br />РОНТКЕ Люция
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '29'
   image: v03/17-171-411-029.jpg
+  title: null
   sublists: []
 - pageintom: '30'
   image: v03/17-171-411-030.jpg
+  title: null
   sublists: []
 - pageintom: '31'
   image: v03/17-171-411-031.jpg
+  title: null
   sublists:
   - sublid: '344'
     persons:
     - id: '8045'
       num: '1'
       name: ВИРОБЯН Рафаэль Александрович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
         категория</u>
     - id: '19197'
       num: '2'
       name: СТАВРОВСКИЙ Эдуард Сигизмундович
+      rowinpage: '2'
       doublesexists: true
       spravka: true

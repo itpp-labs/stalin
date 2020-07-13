@@ -1,9 +1,10 @@
 id: '270'
 title: Список лиц - Ленинградская,Калининская области // от 5 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '151'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -41,178 +42,223 @@ sublists:
 pages:
 - pageintom: '151'
   image: v07/17-171-415-151.jpg
+  title: null
   sublists: []
 - pageintom: '152'
   image: v07/17-171-415-152.jpg
+  title: null
   sublists: []
 - pageintom: '153'
   image: v07/17-171-415-153.jpg
+  title: null
   sublists:
   - sublid: '534'
     persons:
     - id: '27524'
       num: '1'
       name: АРХИПОВ Павел Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '27525'
       num: '2'
       name: БЕЛИЦКИЙ Георгий Еремеевич
+      rowinpage: '2'
       spravka: true
     - id: '27526'
       num: '3'
       name: БРУСИЛОВСКИЙ Юлий Исаакович
+      rowinpage: '3'
       spravka: true
     - id: '27527'
       num: '4'
       name: ГЕРШТЕНЗАНГ Соломон Федорович
+      rowinpage: '4'
       spravka: true
     - id: '27528'
       num: '5'
       name: ГИТЕЛЬСОН Мирон Максимович
+      rowinpage: '5'
       spravka: true
     - id: '27529'
       num: '6'
       name: КАЦНЕЛЬСОН Израиль Григорьевич
+      rowinpage: '6'
       spravka: true
     - id: '27530'
       num: '7'
       name: МАЛАХОВСКИЙ Ефим Яковлевич
+      rowinpage: '7'
       spravka: true
     - id: '27531'
       num: '8'
       name: МИХАЙЛЫК Василий Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '27532'
       num: '9'
       name: ПАХНУТОВ Павел Степанович
+      rowinpage: '9'
       spravka: true
     - id: '27533'
       num: '10'
       name: ПОРТНОВ Виктор Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '27534'
       num: '11'
       name: САЗОНОВ Василий Дмитриевич
+      rowinpage: '11'
       spravka: true
     - id: '27535'
       num: '12'
       name: ТЕРЕБЕНЕВ Андрей Николаевич
+      rowinpage: '12'
       spravka: true
     - id: '27536'
       num: '13'
       name: ТРАВИН Алексей Петрович
+      rowinpage: '13'
       spravka: true
     - id: '27537'
       num: '14'
       name: ХРУЛЕВ Михаил Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '27538'
       num: '15'
       name: ЧИБИСОВ Александр Михайлович
+      rowinpage: '15'
       spravka: true
     - id: '27539'
       num: '16'
       name: ШАТРОВ Иван Федорович
+      rowinpage: '16'
       spravka: true
 - pageintom: '154'
   image: v07/17-171-415-154.jpg
+  title: null
   sublists:
   - sublid: '534'
     persons:
     - id: '27540'
       num: '1'
       name: БОЙКО Афанасий Гаврилович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '27541'
       num: '2'
       name: ЗЛАТОГОРОВ Павел Семенович
+      rowinpage: '2'
       spravka: true
     - id: '27542'
       num: '3'
       name: КЛИГМАН Сергей Маркович
+      rowinpage: '3'
     - id: '27543'
       num: '4'
       name: ЛЮККЕ Рене Ефимович
+      rowinpage: '4'
     - id: '27544'
       num: '5'
       name: МАХЛИС Иссак Петрович
+      rowinpage: '5'
       spravka: true
     - id: '27545'
       num: '6'
       name: СЕМЕНОВ Евлогий Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '27546'
       num: '7'
       name: СТАТИНА Фаина Владимировна
+      rowinpage: '7'
     - id: '27547'
       num: '8'
       name: СТЕПАНОВ Дмитрий Степанович
+      rowinpage: '8'
       spravka: true
     - id: '27548'
       num: '9'
       name: ХМЕЛЬНИЦКИЙ Абрам Вениаминович
+      rowinpage: '9'
 - pageintom: '155'
   image: v07/17-171-415-155.jpg
+  title: null
   sublists:
   - sublid: '535'
     persons:
     - id: '27549'
       num: '1'
       name: БЕЛОЗЕРОВ Петр Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '27550'
       num: '2'
       name: БЕЛЯВСКИЙ Василий Иванович
+      rowinpage: '2'
       spravka: true
     - id: '27551'
       num: '3'
       name: БЕЛЯВСКИЙ Казимир Викентьевич
+      rowinpage: '3'
       spravka: true
     - id: '27552'
       num: '4'
       name: ЕПИХИН Николай Петрович
+      rowinpage: '4'
     - id: '27553'
       num: '5'
       name: ЖИГАЛОВ Лев Александрович
+      rowinpage: '5'
     - id: '27554'
       num: '6'
       name: КОСИЧ Сергей Степанович
+      rowinpage: '6'
       spravka: true
     - id: '27555'
       num: '7'
       name: КОТЛЯРОВ Василий Кононович
+      rowinpage: '7'
     - id: '27556'
       num: '8'
       name: МУНГАЛОВ Андрей Гаврилович
+      rowinpage: '8'
     - id: '27557'
       num: '9'
       name: ПОКРОВСКИЙ Федор Александрович
+      rowinpage: '9'
     - id: '27558'
       num: '10'
       name: СТАНКЕВИЧ Ефим Анастасьевич
+      rowinpage: '10'
       spravka: true
     - id: '27559'
       num: '11'
       name: ТИХОМИРОВ Петр Георгиевич
+      rowinpage: '11'
       spravka: true
     - id: '27560'
       num: '12'
       name: ТОМ Давид Давидович
+      rowinpage: '12'
       spravka: true
     - id: '27561'
       num: '13'
       name: УНГЕР Валериан Абрамович
+      rowinpage: '13'
       spravka: true
     - id: '27562'
       num: '14'
       name: ЩЕНСНОВИЧ Аркадий Игнатьевич
+      rowinpage: '14'
       spravka: true
     - id: '27563'
       num: '1'
       name: ЛАХТЕРМАН Беня Аронович (Борис Аркадьевич)
+      rowinpage: '15'
       subtitle1: <p align="right"><u>2-я категория.</u>

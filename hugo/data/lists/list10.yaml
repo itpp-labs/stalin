@@ -1,9 +1,10 @@
 id: '10'
 title: Список лиц - Горьковская область // 5 апреля 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '86'
 date: '1937-04-05'
+date_ru: 05.04.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,18 +30,22 @@ sublists:
 pages:
 - pageintom: '86'
   image: v01/17-171-409-086.jpg
+  title: null
   sublists: []
 - pageintom: '87'
   image: v01/17-171-409-087.jpg
+  title: null
   sublists: []
 - pageintom: '88'
   image: v01/17-171-409-088.jpg
+  title: null
   sublists:
   - sublid: '7'
     persons:
     - id: '1423'
       num: '1'
       name: АГАФОНОВ Давид Константинович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="right"><u>1-я КАТЕГОРИЯ</u></p><p align="center"><u>ГОРЬКОВСКАЯ
@@ -48,297 +53,370 @@ pages:
     - id: '1424'
       num: '2'
       name: АКАТОВ Геннадий Павлович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '1425'
       num: '3'
       name: АЛЕКСЕЕВ Павел Петрович
+      rowinpage: '3'
       spravka: true
     - id: '1426'
       num: '4'
       name: АРНАДСКИЙ Лев Николаевич
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '1427'
       num: '5'
       name: АХМЕТОВ Хабиб Хисамович
+      rowinpage: '5'
       spravka: true
     - id: '1428'
       num: '6'
       name: БЕЛЯЕВ Андрей Иванович
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '1429'
       num: '7'
       name: БЫКОВ Василий Вячеславович
+      rowinpage: '7'
       spravka: true
     - id: '1430'
       num: '8'
       name: ГОЛОВИН Евгений Александрович
+      rowinpage: '8'
       spravka: true
     - id: '1431'
       num: '9'
       name: ДУБИНСКИЙ Леонид Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '1432'
       num: '10'
       name: ИОСИЛЕВИЧ Александр Соломонович
+      rowinpage: '10'
       doublesexists: true
       spravka: true
     - id: '1433'
       num: '11'
       name: КИКИС Арвид Янович
+      rowinpage: '11'
       spravka: true
     - id: '1434'
       num: '12'
       name: КОНДРАШОВ Николай Иванович
+      rowinpage: '12'
     - id: '1435'
       num: '13'
       name: ЛАКИН Петр Семенович
+      rowinpage: '13'
       spravka: true
     - id: '1436'
       num: '14'
       name: МАНЕЖНОВ Константин Николаевич
+      rowinpage: '14'
       spravka: true
     - id: '1437'
       num: '15'
       name: ОКАТОВ Матвей Петрович
+      rowinpage: '15'
       spravka: true
     - id: '1438'
       num: '16'
       name: ПУСТОВАЛОВ Иван Михайлович
+      rowinpage: '16'
     - id: '1439'
       num: '17'
       name: РЫЖКОВ Иван Иванович
+      rowinpage: '17'
     - id: '1440'
       num: '18'
       name: РЯБОВ Матвей Дмитриевич
+      rowinpage: '18'
       spravka: true
     - id: '1441'
       num: '19'
       name: САЛОМАДИН Сергей Георгиевич
+      rowinpage: '19'
       spravka: true
     - id: '1442'
       num: '20'
       name: СКОБЕННИКОВА Антонина Алексеевна
+      rowinpage: '20'
       spravka: true
     - id: '1443'
       num: '21'
       name: СМИРНОВ Николай Арсентьевич
+      rowinpage: '21'
       doublesexists: true
       spravka: true
     - id: '1444'
       num: '22'
       name: ХАРИСОВ Риза Харисович
+      rowinpage: '22'
       spravka: true
     - id: '1445'
       num: '23'
       name: ШЕЛОНИН Серафим Дмитриевич
+      rowinpage: '23'
       spravka: true
 - pageintom: '89'
   image: v01/17-171-409-089.jpg
+  title: null
   sublists:
   - sublid: '7'
     persons:
     - id: '1446'
       num: '1'
       name: БАСОВ Павел Осипович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>II. КАТЕГОРИЯ</u></p><p align="center"><u>ГОРЬКОВСКАЯ
         ОБЛАСТЬ</u>
     - id: '1447'
       num: '2'
       name: ГУЩИНА Серафима Петровна
+      rowinpage: '2'
       spravka: true
     - id: '1448'
       num: '3'
       name: ДВОРЕЦКИЙ Кузьма Иванович
+      rowinpage: '3'
       spravka: true
     - id: '1449'
       num: '4'
       name: ДУШИН Александр Иванович
+      rowinpage: '4'
       spravka: true
     - id: '1450'
       num: '5'
       name: ДЕГТЯРЕВ Андриан Александрович
+      rowinpage: '5'
       spravka: true
     - id: '1451'
       num: '6'
       name: ДЕМИН Семен Федорович
+      rowinpage: '6'
     - id: '1452'
       num: '7'
       name: ЗАГОРОВСКИЙ Александр Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '1453'
       num: '8'
       name: ИВАНОВА Антонина Николаевна
+      rowinpage: '8'
       spravka: true
     - id: '1454'
       num: '9'
       name: КАСАТКИН Павел Федорович
+      rowinpage: '9'
       spravka: true
     - id: '1455'
       num: '10'
       name: КОЛОБАЕВ Сергей Петрович
+      rowinpage: '10'
     - id: '1456'
       num: '11'
       name: КОЛОСОВ Александр Васильевич
+      rowinpage: '11'
       spravka: true
     - id: '1457'
       num: '12'
       name: КОРОТКОВ Иван Андреевич
+      rowinpage: '12'
       spravka: true
     - id: '1458'
       num: '13'
       name: КОШЕЛЕВ Федор Иванович
+      rowinpage: '13'
       spravka: true
     - id: '1459'
       num: '14'
       name: КУЗЬМИЧЕВ Василий Фекеевич
+      rowinpage: '14'
     - id: '1460'
       num: '15'
       name: КУЗНЕЦОВ Валентин Николаевич
+      rowinpage: '15'
       spravka: true
     - id: '1461'
       num: '16'
       name: КУКУШКИН Владимир Константинович
+      rowinpage: '16'
       spravka: true
     - id: '1462'
       num: '17'
       name: ЛАВРЕНТЬЕВ Александр Алексеевич
+      rowinpage: '17'
       spravka: true
     - id: '1463'
       num: '18'
       name: ЛЕВИН Нестор Дмитриевич
+      rowinpage: '18'
       spravka: true
     - id: '1464'
       num: '19'
       name: ЛУКОВНИКОВ Леонид Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '1465'
       num: '20'
       name: НИКУЛИНА Прасковья Федоровна
+      rowinpage: '20'
       spravka: true
     - id: '1466'
       num: '21'
       name: ПАЯТЕЛЕЕВ Иван Павлович
+      rowinpage: '21'
       spravka: true
     - id: '1467'
       num: '22'
       name: ПЕХОВ Иван Николаевич
+      rowinpage: '22'
       spravka: true
     - id: '1468'
       num: '23'
       name: СТЕПАНЧУК Иван Григорьевич
+      rowinpage: '23'
       spravka: true
     - id: '1469'
       num: '24'
       name: СТРУЧКОВ Николай Федорович
+      rowinpage: '24'
       spravka: true
     - id: '1470'
       num: '25'
       name: ТАРАНЕНКО Иван Михайлович
+      rowinpage: '25'
       spravka: true
     - id: '1471'
       num: '26'
       name: ФЕДУРИН Василий Дмитриевич
+      rowinpage: '26'
       spravka: true
     - id: '1472'
       num: '27'
       name: ХАНИНА Рахиль Моисеевна
+      rowinpage: '27'
       spravka: true
     - id: '1473'
       num: '28'
       name: ШАЛЬНОВ Андрей Яковлевич
+      rowinpage: '28'
       spravka: true
     - id: '1474'
       num: '29'
       name: ЩЕРБАКОВ Василий Михайлович
+      rowinpage: '29'
       spravka: true
 - pageintom: '90'
   image: v01/17-171-409-090.jpg
+  title: null
   sublists:
   - sublid: '7'
     persons:
     - id: '1475'
       num: '1'
       name: АВЗАЛОВ Гильфан Авзалович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>III-я КАТЕГОРИЯ</u></p><p align="center"><u>ГОРЬКОВСКАЯ
         ОБЛАСТЬ</u>
     - id: '1476'
       num: '2'
       name: АНТОНОВ Терентий Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '1477'
       num: '3'
       name: АФОНИН Сергей Григорьевич
+      rowinpage: '3'
       spravka: true
     - id: '1478'
       num: '4'
       name: БАРТОШ Тарас Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '1479'
       num: '5'
       name: БЕРЕЗИНА Зинаида Павловна
+      rowinpage: '5'
       spravka: true
     - id: '1480'
       num: '6'
       name: БУСЛАЕВ Андрей Петрович
+      rowinpage: '6'
       spravka: true
     - id: '1481'
       num: '7'
       name: ГАЛИН Андрей Иванович
+      rowinpage: '7'
       spravka: true
     - id: '1482'
       num: '8'
       name: ГРАЧЕВ Николай Матвеевич
+      rowinpage: '8'
       spravka: true
     - id: '1483'
       num: '9'
       name: ДЬЯКОНОВ Михаил Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '1484'
       num: '10'
       name: ЕСИН Алексей Петрович
+      rowinpage: '10'
       spravka: true
     - id: '1485'
       num: '11'
       name: ЕРОФЕЕВ Владимир Александрович
+      rowinpage: '11'
       spravka: true
     - id: '1486'
       num: '12'
       name: ЗУБОВ Григорий Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '1487'
       num: '13'
       name: КЛИМОВ Николай Иванович
+      rowinpage: '13'
       spravka: true
     - id: '1488'
       num: '14'
       name: КРЫЛОВ Кузьма Иванович
+      rowinpage: '14'
       spravka: true
     - id: '1489'
       num: '15'
       name: КОКУРИН Александр Иванович
+      rowinpage: '15'
       spravka: true
     - id: '1490'
       num: '16'
       name: КРУЧИНИН Юрий Владиславович
+      rowinpage: '16'
       spravka: true
     - id: '1491'
       num: '17'
       name: МОЗГАЛОВ Николай Федотович
+      rowinpage: '17'
       spravka: true
     - id: '1492'
       num: '18'
       name: СЕНЬКОВ Василий Иванович
+      rowinpage: '18'
       spravka: true
     - id: '1493'
       num: '19'
       name: СЛЕПОВ Иван Данилович
+      rowinpage: '19'
       spravka: true
     - id: '1494'
       num: '20'
       name: ТЕПЛОВ Петр Сергеевич
+      rowinpage: '20'
       spravka: true

@@ -1,9 +1,10 @@
 id: '127'
 title: Список лиц - Чечено-Ингушская АССР, Крымская АССР // 7 декабря 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '171'
 date: '1937-12-07'
+date_ru: 07.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -40,220 +41,282 @@ sublists:
 pages:
 - pageintom: '171'
   image: v05/17-171-413-171.jpg
+  title: null
   sublists: []
 - pageintom: '172'
   image: v05/17-171-413-172.jpg
+  title: null
   sublists: []
 - pageintom: '173'
   image: v05/17-171-413-173.jpg
+  title: null
   sublists:
   - sublid: '281'
     persons:
     - id: '16445'
       num: '1'
       name: АДЛЕР Рудольф Моисеевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ЧЕЧЕНО-ИНГУШСКОЙ АССР. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '16446'
       num: '2'
       name: ВИНТЕР Борис Сергеевич
+      rowinpage: '2'
     - id: '16447'
       num: '3'
       name: ГАГИН Алексей Филиппович
+      rowinpage: '3'
     - id: '16448'
       num: '4'
       name: ГОВОРКОВ Владимир Петрович
+      rowinpage: '4'
     - id: '16449'
       num: '5'
       name: ГРЕБЕННИКОВ Козьма Дмитриевич
+      rowinpage: '5'
     - id: '16450'
       num: '6'
       name: ГРЕБЕННИКОВ Александр Петрович
+      rowinpage: '6'
     - id: '16451'
       num: '7'
       name: КАИРОВ Павел Ефимович
+      rowinpage: '7'
     - id: '16452'
       num: '8'
       name: КАЧУРЕЦ Александр Павлович
+      rowinpage: '8'
     - id: '16453'
       num: '9'
       name: КОЛКОВ Василий Антонович
+      rowinpage: '9'
     - id: '16454'
       num: '10'
       name: КОЛЬБУС Михаил Иванович
+      rowinpage: '10'
       spravka: true
     - id: '16455'
       num: '11'
       name: КРЫЛИКОВ Василий Филимонович
+      rowinpage: '11'
     - id: '16456'
       num: '12'
       name: КУЛИКОВ Александр Ильич
+      rowinpage: '12'
     - id: '16457'
       num: '13'
       name: ЛИТВИНОВ Иван Иванович
+      rowinpage: '13'
     - id: '16458'
       num: '14'
       name: ЛЮЦЕР Федор Генрихович
+      rowinpage: '14'
     - id: '16459'
       num: '15'
       name: МАНУКОВ Сергей Савельевич
+      rowinpage: '15'
     - id: '16460'
       num: '16'
       name: МАТВИЕНКО Максим Михайлович
+      rowinpage: '16'
     - id: '16461'
       num: '17'
       name: МИРОНОВ Павел Васильевич
+      rowinpage: '17'
     - id: '16462'
       num: '18'
       name: МИШИН Прокофий Матвеевич
+      rowinpage: '18'
     - id: '16463'
       num: '19'
       name: МИШИН Семен Матвеевич
+      rowinpage: '19'
     - id: '16464'
       num: '20'
       name: ПУЧКОВСКИЙ Василий Архипович
+      rowinpage: '20'
     - id: '16465'
       num: '21'
       name: РЕГЕНБАУМ Густав Симонович
+      rowinpage: '21'
     - id: '16466'
       num: '22'
       name: РУДЕЛЬ Севостьян Иванович
+      rowinpage: '22'
     - id: '16467'
       num: '23'
       name: САМОЙЛЕНКО Григорий Васильевич
+      rowinpage: '23'
 - pageintom: '174'
   image: v05/17-171-413-174.jpg
+  title: Чечено-Ингушской АССР
   sublists:
   - sublid: '281'
     persons:
     - id: '16468'
       num: '24'
       name: САРУХАНОВ Амбарцум Макарович
+      rowinpage: '1'
     - id: '16469'
       num: '25'
       name: СЕЧИН Александр Иустинович
+      rowinpage: '2'
     - id: '16470'
       num: '26'
       name: СКОРИКОВ Георгий Куприянович
+      rowinpage: '3'
     - id: '16471'
       num: '27'
       name: ФОМЕНКО Илья Яковлевич
+      rowinpage: '4'
     - id: '16472'
       num: '28'
       name: ШЕНГЕЛИ Андрей Павлович
+      rowinpage: '5'
     - id: '16473'
       num: '29'
       name: ШИРКИН Андрей Васильевич
+      rowinpage: '6'
     - id: '16474'
       num: '30'
       name: ШИРОКОБОКОВ Владимир Эльпидифордович
+      rowinpage: '7'
     - id: '16475'
       num: '31'
       name: ШМИДТ Теодор Петрович
+      rowinpage: '8'
     - id: '16476'
       num: '32'
       name: ШРЕДЕР Петр Яковлевич
+      rowinpage: '9'
 - pageintom: '175'
   image: v05/17-171-413-175.jpg
+  title: null
   sublists:
   - sublid: '282'
     persons:
     - id: '16477'
       num: '1'
       name: АЛЕКСЕЕВСКИЙ Валериан Степанович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ АССР. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '16478'
       num: '2'
       name: БЕРДЫШЕВ Дмитрий Тимофеевич
+      rowinpage: '2'
       spravka: true
     - id: '16479'
       num: '3'
       name: БУХБАНД Яков Арнольдович
+      rowinpage: '3'
       spravka: true
     - id: '16480'
       num: '4'
       name: ГЕЛЬБУХ Наум Яковлевич
+      rowinpage: '4'
       spravka: true
     - id: '16481'
       num: '5'
       name: ЛЕВИТИН Александр Савельевич
+      rowinpage: '5'
       spravka: true
     - id: '16482'
       num: '6'
       name: МАДОНОВ Самуил Григорьевич
+      rowinpage: '6'
       spravka: true
     - id: '16483'
       num: '7'
       name: МАРЬЯМОВ Ханан Борисович
+      rowinpage: '7'
       spravka: true
     - id: '16484'
       num: '8'
       name: НЕСТРУЕВ Федор Абрамович
+      rowinpage: '8'
       spravka: true
     - id: '16485'
       num: '9'
       name: ОКОРКОВ Константин Иванович
+      rowinpage: '9'
       spravka: true
     - id: '16486'
       num: '10'
       name: ОЛЬХОВЫЙ Борис Семенович
+      rowinpage: '10'
       spravka: true
     - id: '16487'
       num: '11'
       name: РАЗИН Марк Михайлович
+      rowinpage: '11'
     - id: '16488'
       num: '12'
       name: САНАЕВ Михаил Иванович
+      rowinpage: '12'
       spravka: true
     - id: '16489'
       num: '13'
       name: СОВЕТОВ Владимир Иванович
+      rowinpage: '13'
       spravka: true
     - id: '16490'
       num: '14'
       name: ТЫЛЬМАН Моисей Александрович
+      rowinpage: '14'
       spravka: true
     - id: '16491'
       num: '15'
       name: ФИАЛКОВ Абрам Невахович
+      rowinpage: '15'
       spravka: true
     - id: '16492'
       num: '16'
       name: ФОМИН Федор Анисимович
+      rowinpage: '16'
     - id: '16493'
       num: '17'
       name: ХАРЧЕНКО Николай Алексеевич
+      rowinpage: '17'
       spravka: true
 - pageintom: '176'
   image: v05/17-171-413-176.jpg
+  title: null
   sublists:
   - sublid: '282'
     persons:
     - id: '16494'
       num: '1'
       name: БЕДНОВ Михаил Давидович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КРЫМСКАЯ АССР. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '16495'
       num: '2'
       name: ГАРИН Петр Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '16496'
       num: '3'
       name: ГАРКУШ Иван Федорович
+      rowinpage: '3'
       spravka: true
     - id: '16497'
       num: '4'
       name: ДАШЕВСКИЙ Владимир Львович, он же <br />ДАШЕВСКИЙ Вульф Лейбович
+      rowinpage: '4'
       spravka: true
     - id: '16498'
       num: '5'
       name: КАПЛУН Самуил Семенович
+      rowinpage: '5'
     - id: '16499'
       num: '6'
       name: КРЕМНЕВ Василий Алексеевич
+      rowinpage: '6'
     - id: '16500'
       num: '7'
       name: СИБИРЯКОВА Мария Серапионовна
+      rowinpage: '7'

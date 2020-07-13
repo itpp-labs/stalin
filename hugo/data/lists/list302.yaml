@@ -2,9 +2,10 @@ id: '302'
 title: Список лиц - Смоленская область,Смоленск-Западная ж.д. // от 19 апреля 1938
   года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '133'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -42,228 +43,284 @@ sublists:
 pages:
 - pageintom: '133'
   image: v08/17-171-416-133.jpg
+  title: null
   sublists: []
 - pageintom: '134'
   image: v08/17-171-416-134.jpg
+  title: null
   sublists: []
 - pageintom: '135'
   image: v08/17-171-416-135.jpg
+  title: null
   sublists:
   - sublid: '600'
     persons:
     - id: '30802'
       num: '1'
       name: АНДРУШКЕВИЧ-ШЕПЕЛЬ Николай Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СМОЛЕНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '30803'
       num: '2'
       name: БЕНЕК Гвидо Иосифович
+      rowinpage: '2'
       spravka: true
     - id: '30804'
       num: '3'
       name: БЛИГЗНЕ Петр Фрицевич
+      rowinpage: '3'
       spravka: true
     - id: '30805'
       num: '4'
       name: ДАБОЛИН Кришьян Мартынович
+      rowinpage: '4'
       spravka: true
     - id: '30806'
       num: '5'
       name: ЕРМОЛЬЧИК Митрофан Петрович
+      rowinpage: '5'
       spravka: true
     - id: '30807'
       num: '6'
       name: КАЛНЫНЬ Петр Яковлевич
+      rowinpage: '6'
       spravka: true
     - id: '30808'
       num: '7'
       name: КИЛЬДЮШЕВСКИЙ Иван Трофимович
+      rowinpage: '7'
     - id: '30809'
       num: '8'
       name: МАШИНСКИЙ Дмитрий Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '30810'
       num: '9'
       name: НОВИКОВ Дмитрий Яковлевич
+      rowinpage: '9'
     - id: '30811'
       num: '10'
       name: ПИЛСКАЛН Эльмар Томович
+      rowinpage: '10'
       spravka: true
     - id: '30812'
       num: '11'
       name: ПИТКЕВИЦ Карл Яковлевич
+      rowinpage: '11'
       spravka: true
     - id: '30813'
       num: '12'
       name: ТАРУТИНСКИЙ Александр Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '30814'
       num: '13'
       name: ФИЛЬЧЕНКО Василий Никитич
+      rowinpage: '13'
     - id: '30815'
       num: '14'
       name: ЧЕРНОБРОВКИН Сергей Алексеевич
+      rowinpage: '14'
       spravka: true
     - id: '30816'
       num: '15'
       name: ЮНГ Николай Альбертович
+      rowinpage: '15'
       spravka: true
 - pageintom: '136'
   image: v08/17-171-416-136.jpg
+  title: null
   sublists:
   - sublid: '601'
     persons:
     - id: '30817'
       num: '1'
       name: АБРАМЕНКО Афанасий Иудович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.СМОЛЕНСК. ЗАПАДНАЯ жел.дор.</u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '30818'
       num: '2'
       name: БАБАЕВ Дмитрий Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '30819'
       num: '3'
       name: БОЛБОТ Яков Лаврентьевич
+      rowinpage: '3'
       spravka: true
     - id: '30820'
       num: '4'
       name: БОЧАРОВ Михаил Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '30821'
       num: '5'
       name: ВАСИЛЬЕВ Федор Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '30822'
       num: '6'
       name: ГАЛУЗИН Антон Емельянович
+      rowinpage: '6'
       spravka: true
     - id: '30823'
       num: '7'
       name: ГРИГОРЬЕВ Александр Григорьевич
+      rowinpage: '7'
       spravka: true
     - id: '30824'
       num: '8'
       name: ГУСАРОВ Федор Фролович
+      rowinpage: '8'
       spravka: true
     - id: '30825'
       num: '9'
       name: ДАВИДЮК Михаил Владимирович
+      rowinpage: '9'
       spravka: true
     - id: '30826'
       num: '10'
       name: ЕФИМОВ Василий Лаврентьевич
+      rowinpage: '10'
       spravka: true
     - id: '30827'
       num: '11'
       name: ЕФИМОВ Николай Ефимович
+      rowinpage: '11'
       spravka: true
     - id: '30828'
       num: '12'
       name: ЖУРАВЛЕВИЧ Петр Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '30829'
       num: '13'
       name: ЗАХАРЕНКО Николай Григорьевич
+      rowinpage: '13'
       spravka: true
     - id: '30830'
       num: '14'
       name: ЗОРСКИЙ Яков Александрович
+      rowinpage: '14'
       spravka: true
     - id: '30831'
       num: '15'
       name: КАПУСТИК Владимир Филиппович
+      rowinpage: '15'
       spravka: true
     - id: '30832'
       num: '16'
       name: КОМЕЛЬ Кузьма Иванович
+      rowinpage: '16'
       spravka: true
     - id: '30833'
       num: '17'
       name: ЛАБУХИН Дмитрий Никифорович
+      rowinpage: '17'
     - id: '30834'
       num: '18'
       name: НАРЕЙКО Константин Степанович
+      rowinpage: '18'
       spravka: true
     - id: '30835'
       num: '19'
       name: ПОМАРАНСКИЙ Александр Иосифович
+      rowinpage: '19'
       spravka: true
     - id: '30836'
       num: '20'
       name: ПОПКОВИЧ Константин Николаевич
+      rowinpage: '20'
       spravka: true
     - id: '30837'
       num: '21'
       name: СААКОВ Оник Арзуманович
+      rowinpage: '21'
       spravka: true
     - id: '30838'
       num: '22'
       name: САФРОНОВ Константин Дмитриевич
+      rowinpage: '22'
       spravka: true
 - pageintom: '137'
   image: v08/17-171-416-137.jpg
+  title: Смоленск-Западная ж.д.
   sublists:
   - sublid: '601'
     persons:
     - id: '30839'
       num: '23'
       name: СЕРГЕЕВ Николай Александрович
+      rowinpage: '1'
       spravka: true
     - id: '30840'
       num: '24'
       name: СТЕПАНОВ Василий Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '30841'
       num: '25'
       name: ТЕРЕХИН Петр Григорьевич
+      rowinpage: '3'
       spravka: true
     - id: '30842'
       num: '26'
       name: ФИЛАТОВ Андрей Иванович
+      rowinpage: '4'
       spravka: true
     - id: '30843'
       num: '27'
       name: ХОВРАТОВИЧ Николай Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '30844'
       num: '28'
       name: ШТЕЙН Александр Павлович
+      rowinpage: '6'
       spravka: true
     - id: '30845'
       num: '29'
       name: ЩЕКОЛДИН Андрей Васильевич
+      rowinpage: '7'
       spravka: true
 - pageintom: '138'
   image: v08/17-171-416-138.jpg
+  title: null
   sublists:
   - sublid: '601'
     persons:
     - id: '30846'
       num: '1'
       name: ГНЕЦКО Михаил Иосифович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.СМОЛЕНСК. ЗАПАДНАЯ жел.дор.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '30847'
       num: '2'
       name: ЖИГМУНТ Михаил Антонович
+      rowinpage: '2'
     - id: '30848'
       num: '3'
       name: КРУК Афанасий Антонович
+      rowinpage: '3'
       spravka: true
     - id: '30849'
       num: '4'
       name: РАЗУМОВ Александр Петрович
+      rowinpage: '4'
       spravka: true
     - id: '30850'
       num: '5'
       name: РЫЖКИН Вениамин Львович
+      rowinpage: '5'
       spravka: true
     - id: '30851'
       num: '6'
       name: САЛЬНИКОВ Николай Иванович
+      rowinpage: '6'
       spravka: true

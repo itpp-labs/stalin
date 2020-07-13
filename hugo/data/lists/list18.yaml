@@ -1,9 +1,10 @@
 id: '18'
 title: Список лиц - Московская область // 31 мая 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '145'
 date: '1937-05-31'
+date_ru: 31.05.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -26,89 +27,111 @@ sublists:
 pages:
 - pageintom: '145'
   image: v01/17-171-409-145.jpg
+  title: null
   sublists: []
 - pageintom: '146'
   image: v01/17-171-409-146.jpg
+  title: null
   sublists: []
 - pageintom: '147'
   image: v01/17-171-409-147.jpg
+  title: null
   sublists:
   - sublid: '15'
     persons:
     - id: '2208'
       num: '1'
       name: АНДРЕЕВ Глеб Константинович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я КАТЕГОРИЯ.</u><br /><u>МОСКОВСКАЯ ОБЛАСТЬ.</u>
     - id: '2209'
       num: '2'
       name: БИРЮКОВ Александр Иванович
+      rowinpage: '2'
       spravka: true
     - id: '2210'
       num: '3'
       name: ВИНОГРАДСКИЙ Юрий Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '2211'
       num: '4'
       name: ГРАБИВКЕР Иосиф Петрович
+      rowinpage: '4'
       spravka: true
     - id: '2212'
       num: '5'
       name: ДУБРОВИН Николай Александрович
+      rowinpage: '5'
       spravka: true
     - id: '2213'
       num: '6'
       name: МАЙЗЕЛЬ Виталий Львович
+      rowinpage: '6'
       spravka: true
     - id: '2214'
       num: '7'
       name: МЕДАЛЬЕ Владимир Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '2215'
       num: '8'
       name: МИЛЬШТЕЙН Наум Моисеевич
+      rowinpage: '8'
       spravka: true
     - id: '2216'
       num: '9'
       name: НЕМОЛЯКИН Александр Иванович
+      rowinpage: '9'
       spravka: true
     - id: '2217'
       num: '10'
       name: ОТРАДИН Федор Николаевич
+      rowinpage: '10'
       spravka: true
     - id: '2218'
       num: '11'
       name: ПИСАРЕВ Анатолий Николаевич
+      rowinpage: '11'
       spravka: true
     - id: '2219'
       num: '12'
       name: ПОНОМАРЕВ Василий Александрович
+      rowinpage: '12'
       spravka: true
     - id: '2220'
       num: '13'
       name: ПОСТНИКОВ Михаил Степанович
+      rowinpage: '13'
       spravka: true
     - id: '2221'
       num: '14'
       name: САМОЙЛОВ Давид Александрович
+      rowinpage: '14'
       spravka: true
     - id: '2222'
       num: '15'
       name: СТАРШИНОВ Алексей Иванович
+      rowinpage: '15'
       spravka: true
     - id: '2223'
       num: '16'
       name: ТЕРЯЕВ Михаил Афанасьевич
+      rowinpage: '16'
       spravka: true
     - id: '2224'
       num: '17'
       name: ЭЙСМАН Александр Иванович
+      rowinpage: '17'
       spravka: true
     - id: '2225'
       num: '18'
       name: ЭКЛЕ Виктор Георгиевич
+      rowinpage: '18'
       spravka: true
     - id: '2226'
       num: '19'
       name: ЯВОРСКИЙ Владимир Владимирович
+      rowinpage: '19'
       spravka: true

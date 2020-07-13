@@ -1,9 +1,10 @@
 id: '28'
 title: Список лиц - Украинская ССР // 26 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '212'
 date: '1937-06-26'
+date_ru: 26.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -28,131 +29,164 @@ sublists:
 pages:
 - pageintom: '212'
   image: v01/17-171-409-212.jpg
+  title: null
   sublists: []
 - pageintom: '213'
   image: v01/17-171-409-213.jpg
+  title: null
   sublists: []
 - pageintom: '214'
   image: v01/17-171-409-214.jpg
+  title: null
   sublists:
   - sublid: '25'
     persons:
     - id: '3105'
       num: '1'
       name: БОЙЧУК Михаил Львович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u><br /><u>УКРАИНА. </u></p><p
         align="center"><u> гор. КИЕВ.</u>
     - id: '3106'
       num: '2'
       name: ВОЛКОВИЧ Анатолий Сергеевич
+      rowinpage: '2'
       spravka: true
     - id: '3107'
       num: '3'
       name: ВОРОБЬЕВ Архип Максимович
+      rowinpage: '3'
       spravka: true
     - id: '3108'
       num: '4'
       name: ДОВГАНЬ Константин Андреевич
+      rowinpage: '4'
     - id: '3109'
       num: '5'
       name: ИВАНУШКИН Василий Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '3110'
       num: '6'
       name: КАЛЯННИК Иван Иванович
+      rowinpage: '6'
       spravka: true
     - id: '3111'
       num: '7'
       name: КОВТУН-ВУХНАЛЬ Иван Дмитриевич
+      rowinpage: '7'
       spravka: true
     - id: '3112'
       num: '8'
       name: КОВАЛЕНКО Борис Львович
+      rowinpage: '8'
       spravka: true
     - id: '3113'
       num: '9'
       name: ЛИПКОВСКИЙ Иван Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '3114'
       num: '10'
       name: ЛОЗОРИШАК Алексей Миронович
+      rowinpage: '10'
     - id: '3115'
       num: '11'
       name: МАЛЮГА Николай Максимович
+      rowinpage: '11'
     - id: '3116'
       num: '12'
       name: МОРОЗ Михаил Антонович
+      rowinpage: '12'
       spravka: true
     - id: '3117'
       num: '13'
       name: ОРЕЛ-ОРЛЕНКО Иван Михайлович
+      rowinpage: '13'
       spravka: true
     - id: '3118'
       num: '14'
       name: ПАВЛОВСКИЙ Петр Федорович
+      rowinpage: '14'
       spravka: true
     - id: '3119'
       num: '15'
       name: ПАДАЛКА Иван Иванович
+      rowinpage: '15'
       spravka: true
     - id: '3120'
       num: '16'
       name: ПРОНЬ Игнат Яковлевич
+      rowinpage: '16'
     - id: '3121'
       num: '17'
       name: САВИЦКИЙ-ГЕДЗЬ (ЯСНЫЙ) Алексей Васильевич
+      rowinpage: '17'
       spravka: true
     - id: '3122'
       num: '18'
       name: СЕДЛЯР Василий Феофанович
+      rowinpage: '18'
       spravka: true
     - id: '3123'
       num: '19'
       name: ТАРАНЕНКО Корней Семенович
+      rowinpage: '19'
       spravka: true
     - id: '3124'
       num: '20'
       name: ЧИЧВЯНСКИЙ-ГУБЕНКО Иван Дмитриевич
+      rowinpage: '20'
       spravka: true
 - pageintom: '215'
   image: v01/17-171-409-215.jpg
+  title: Украинская ССР
   sublists:
   - sublid: '25'
     persons:
     - id: '3125'
       num: '21'
       name: ЧИГИРИН Виталий Елисеевич
+      rowinpage: '1'
       spravka: true
     - id: '3126'
       num: '22'
       name: ЯКУБОВСКИЙ Сергей Васильевич
+      rowinpage: '2'
     - id: '3127'
       num: '23'
       name: ЯРОШЕНКО Владимир Моисеевич
+      rowinpage: '3'
       spravka: true
     - id: '3128'
       num: '24'
       name: ЯРУТА Никанор Степанович
+      rowinpage: '4'
 - pageintom: '216'
   image: v01/17-171-409-216.jpg
+  title: null
   sublists:
   - sublid: '25'
     persons:
     - id: '3129'
       num: '1'
       name: БЛЕЕР Апполон Дмитриевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u><br /><u>УКРАИНА. </u></p><p
         align="center"><u> гор. КИЕВ.</u>
     - id: '3130'
       num: '2'
       name: ГВОЗДИК Кирилл Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '3131'
       num: '3'
       name: СОЛОВЕЙ Иван Прокофьевич
+      rowinpage: '3'
     - id: '3132'
       num: '4'
       name: ЧЕПУРНЫЙ Дмитрий Иванович
+      rowinpage: '4'
       spravka: true

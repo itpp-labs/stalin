@@ -1,9 +1,10 @@
 id: '110'
 title: Список лиц - Москва-центр // 13 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '1'
 date: '1937-11-13'
+date_ru: 13.11.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -31,193 +32,239 @@ sublists:
 pages:
 - pageintom: '1'
   image: v05/17-171-413-001.jpg
+  title: null
   sublists: []
 - pageintom: '2'
   image: v05/17-171-413-002.jpg
+  title: null
   sublists: []
 - pageintom: '3'
   image: v05/17-171-413-003.jpg
+  title: null
   sublists:
   - sublid: '76'
     persons:
     - id: '14047'
       num: '1'
       name: БАБУШКИН Николай Семенович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '14048'
       num: '2'
       name: БАРЫШНИКОВ Михаил Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '14049'
       num: '3'
       name: БОГРЯНОВ Михаил Иванович
+      rowinpage: '3'
       spravka: true
     - id: '14050'
       num: '4'
       name: БРИГАДЕР Арвид Арвидович
+      rowinpage: '4'
       spravka: true
     - id: '14051'
       num: '5'
       name: ВАЛЬДЕЙТ Дмитрий Петрович
+      rowinpage: '5'
       spravka: true
     - id: '14052'
       num: '6'
       name: ВИЛЬГЕЛЬМСОН Виктория Рудольфовна
+      rowinpage: '6'
       spravka: true
     - id: '14053'
       num: '7'
       name: ВИННИКОВ Иосиф Менделеевич
+      rowinpage: '7'
       spravka: true
     - id: '14054'
       num: '8'
       name: ВОЛЫНСКАЯ-РЫЛЬСКАЯ Лидия Григорьевна
+      rowinpage: '8'
       spravka: true
     - id: '14055'
       num: '9'
       name: ГОЛОДУБОВ Петр Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '14056'
       num: '10'
       name: ГОЛЬДБЕРГ Самуил Львович
+      rowinpage: '10'
       spravka: true
     - id: '14057'
       num: '11'
       name: ГОЛЬФАРБ Иосиф Давыдович
+      rowinpage: '11'
       spravka: true
     - id: '14058'
       num: '12'
       name: ГОРЕЛИН Александр Петрович
+      rowinpage: '12'
       spravka: true
     - id: '14059'
       num: '13'
       name: ДЛУГАЧ Мария Соломоновна
+      rowinpage: '13'
       spravka: true
     - id: '14060'
       num: '14'
       name: ДЛУГОЦКИЙ Лев Иванович
+      rowinpage: '14'
       spravka: true
     - id: '14061'
       num: '15'
       name: ЕВТЕЕВ Андрей Федорович
+      rowinpage: '15'
       spravka: true
     - id: '14062'
       num: '16'
       name: ЗАКРЖЕВСКИЙ Станислав Петрович, он же <br />ГЕРЦБЕРГ Авраам Львович
+      rowinpage: '16'
       spravka: true
     - id: '14063'
       num: '17'
       name: ЗДОБНОВ Александр Зиновьевич
+      rowinpage: '17'
       spravka: true
     - id: '14064'
       num: '18'
       name: ИЗРАИЛЬСОН Леон Маркович
+      rowinpage: '18'
       spravka: true
     - id: '14065'
       num: '19'
       name: ИОФФЕ Яков Моисеевич
+      rowinpage: '19'
       spravka: true
     - id: '14066'
       num: '20'
       name: ЛИБИНСОН Соломон Львович
+      rowinpage: '20'
       underlined: true
       spravka: true
     - id: '14067'
       num: '21'
       name: ЛОВИН Казимир Петрович
+      rowinpage: '21'
       underlined: true
       spravka: true
     - id: '14068'
       num: '22'
       name: ЛЮБИЧ Алексей Иванович
+      rowinpage: '22'
       spravka: true
 - pageintom: '4'
   image: v05/17-171-413-004.jpg
+  title: Моква-центр
   sublists:
   - sublid: '76'
     persons:
     - id: '14069'
       num: '23'
       name: МАЙОФИС Абрам Григорьевич
+      rowinpage: '1'
       spravka: true
     - id: '14070'
       num: '24'
       name: МАКОВЕЦКАЯ Елена Нестеровна
+      rowinpage: '2'
       spravka: true
     - id: '14071'
       num: '25'
       name: МАЛЕЦКИЙ Александр Маврикеевич
+      rowinpage: '3'
       spravka: true
     - id: '14072'
       num: '26'
       name: МУСИН-ПУШКИН Иван Дмитриевич
+      rowinpage: '4'
       spravka: true
     - id: '14073'
       num: '27'
       name: НЕМЧИНОВ Константин Тихонович
+      rowinpage: '5'
       spravka: true
     - id: '14074'
       num: '28'
       name: НОЖНИЦКАЯ Иэтта Иосифовна
+      rowinpage: '6'
       spravka: true
     - id: '14075'
       num: '29'
       name: ОРТИНСКИЙ Дмитрий Владимирович
+      rowinpage: '7'
       spravka: true
     - id: '14076'
       num: '30'
       name: ПЕСТКОВСКИЙ Станислав Станиславович
+      rowinpage: '8'
       spravka: true
     - id: '14077'
       num: '31'
       name: ПОЛУМОРДВИНОВ Дмитрий Федорович
+      rowinpage: '9'
       spravka: true
     - id: '14078'
       num: '32'
       name: РУМЯНЦЕВ Александр Сергеевич
+      rowinpage: '10'
       underlined: true
       spravka: true
     - id: '14079'
       num: '33'
       name: САБИРОВ Рауер Ахметович
+      rowinpage: '11'
       spravka: true
     - id: '14080'
       num: '34'
       name: СИДОРИН Петр Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '14081'
       num: '35'
       name: СТАНЧАК Василий Валентинович
+      rowinpage: '13'
     - id: '14082'
       num: '36'
       name: ФАЙНБЕРГ Михаил Борисович
+      rowinpage: '14'
       spravka: true
     - id: '14083'
       num: '37'
       name: ФРАНКФУРТ Соломон Владимирович
+      rowinpage: '15'
       spravka: true
     - id: '14084'
       num: '38'
       name: ХАРЧЕНКО Павел Павлович
+      rowinpage: '16'
       spravka: true
     - id: '14085'
       num: '39'
       name: ЯСИНСКИЙ Антон Васильевич
+      rowinpage: '17'
       spravka: true
     - id: '14086'
       num: '40'
       name: ШЕРМЕРГОРН Дирк Тимофеевич
+      rowinpage: '18'
       doublesexists: true
       spravka: true
 - pageintom: '5'
   image: v05/17-171-413-005.jpg
+  title: null
   sublists:
   - sublid: '76'
     persons:
     - id: '14087'
       num: '1'
       name: ВИНАВЕР Михаил Львович
+      rowinpage: '1'
       underlined: true
       gb_spravka: true
       spravka: true
@@ -226,53 +273,66 @@ pages:
     - id: '14088'
       num: '2'
       name: ПЛАТТЕН-ЦИММЕРМАН Берта Георгиевна
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
     - id: '14089'
       num: '3'
       name: РУСС Карл Иванович
+      rowinpage: '3'
       gb_spravka: true
     - id: '14090'
       num: '4'
       name: ШТРАУС Вальтер Карлович
+      rowinpage: '4'
       gb_spravka: true
 - pageintom: '6'
   image: v05/17-171-413-006.jpg
+  title: null
   sublists: []
 - pageintom: '7'
   image: v05/17-171-413-007.jpg
+  title: null
   sublists: []
 - pageintom: '8'
   image: v05/17-171-413-008.jpg
+  title: null
   sublists: []
 - pageintom: '9'
   image: v05/17-171-413-009.jpg
+  title: null
   sublists: []
 - pageintom: '10'
   image: v05/17-171-413-010.jpg
+  title: null
   sublists:
   - sublid: '76'
     persons:
     - id: '14091'
       num: '1'
       name: ВУНШТЕЙН Александр Евсеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u> <br /> (быв.сотрудники НКВД)
         </p><p align="right"><u>1-я КАТЕГОРИЯ</u>
     - id: '14092'
       num: '2'
       name: ПОПОВ Владимир Александрович
+      rowinpage: '2'
     - id: '14093'
       num: '3'
       name: САМСОНОВ Николай Григорьевич
+      rowinpage: '3'
       spravka: true
 - pageintom: '11'
   image: v05/17-171-413-011.jpg
+  title: null
   sublists:
   - sublid: '76'
     persons:
     - id: '14094'
       num: '1'
       name: КОМАРОВ Василий Сергеевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>

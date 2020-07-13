@@ -1,9 +1,10 @@
 id: '23'
 title: Список лиц - Свердловская область // 14 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '181'
 date: '1937-06-14'
+date_ru: 14.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,351 +30,438 @@ sublists:
 pages:
 - pageintom: '181'
   image: v01/17-171-409-181.jpg
+  title: null
   sublists: []
 - pageintom: '182'
   image: v01/17-171-409-182.jpg
+  title: null
   sublists: []
 - pageintom: '183'
   image: v01/17-171-409-183.jpg
+  title: null
   sublists:
   - sublid: '20'
     persons:
     - id: '2730'
       num: '1'
       name: АВДЕЕВИЧ Иван Трофимович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u><br /><u>Свердловская область.</u>
     - id: '2731'
       num: '2'
       name: АЛАДЬИН Андрей Григорьевич
+      rowinpage: '2'
       spravka: true
     - id: '2732'
       num: '3'
       name: АНДРОНИКОВ Николай Семенович
+      rowinpage: '3'
       underlined: true
       spravka: true
     - id: '2733'
       num: '4'
       name: АРТЕБЯКИН Анатолий Георгиевич
+      rowinpage: '4'
       spravka: true
     - id: '2734'
       num: '5'
       name: БАЯНОВ Василий Иванович
+      rowinpage: '5'
       spravka: true
     - id: '2735'
       num: '6'
       name: БЕЕВ Прокопий Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '2736'
       num: '7'
       name: БОРИСОВ Александр Иванович
+      rowinpage: '7'
       spravka: true
     - id: '2737'
       num: '8'
       name: ВАСИЛЬЕВ Александр Григорьевич
+      rowinpage: '8'
       spravka: true
     - id: '2738'
       num: '9'
       name: ВЕЛЕЖЕВ Николай Николаевич
+      rowinpage: '9'
     - id: '2739'
       num: '10'
       name: ГАРАЩЕНКО Виталий Наумович
+      rowinpage: '10'
       spravka: true
     - id: '2740'
       num: '11'
       name: ГРЕЙМАН Геннадий Леонтьевич
+      rowinpage: '11'
       spravka: true
     - id: '2741'
       num: '12'
       name: ДРЯГУНОВ Александр Сергеевич
+      rowinpage: '12'
       spravka: true
     - id: '2742'
       num: '13'
       name: ДУБОК Иван Филиппович
+      rowinpage: '13'
       spravka: true
     - id: '2743'
       num: '14'
       name: ЖАРОВ Андрей Кузьмич
+      rowinpage: '14'
       spravka: true
     - id: '2744'
       num: '15'
       name: ЗАЙЧЕНКОВ Владимир Борисович
+      rowinpage: '15'
       spravka: true
     - id: '2745'
       num: '16'
       name: ИВЧЕНКО Степан Алексеевич
+      rowinpage: '16'
       spravka: true
     - id: '2746'
       num: '17'
       name: КАБАКОВ Владислав Александрович
+      rowinpage: '17'
       spravka: true
     - id: '2747'
       num: '18'
       name: КАМЕНЕВ Валериан Павлович
+      rowinpage: '18'
       spravka: true
     - id: '2748'
       num: '19'
       name: КАПЕЛЛЕР Вильгельм Александрович
+      rowinpage: '19'
       spravka: true
     - id: '2749'
       num: '20'
       name: КАПУСТИН Николай Николаевич
+      rowinpage: '20'
     - id: '2750'
       num: '21'
       name: КИЛЬДЫШЕВ Серафим Ефимович
+      rowinpage: '21'
     - id: '2751'
       num: '22'
       name: КОЗЛОВСКИЙ Федор Иванович
+      rowinpage: '22'
       spravka: true
     - id: '2752'
       num: '23'
       name: КОНДРАТЬЕВ Фока Федорович
+      rowinpage: '23'
       spravka: true
     - id: '2753'
       num: '24'
       name: КОНОВАЛОВ Григорий Яковлевич
+      rowinpage: '24'
       spravka: true
     - id: '2754'
       num: '25'
       name: КОСТОГЛАДОВ Георгий Семенович
+      rowinpage: '25'
       spravka: true
     - id: '2755'
       num: '26'
       name: КРАУС Арнольд Фридрихович
+      rowinpage: '26'
       pometa_text: (герм. подданный; судить обычным порядком)
     - id: '2756'
       num: '27'
       name: КУЗНЕЦОВА Анна Федоровна
+      rowinpage: '27'
       spravka: true
 - pageintom: '184'
   image: v01/17-171-409-184.jpg
+  title: Свердловская область
   sublists:
   - sublid: '20'
     persons:
     - id: '2757'
       num: '28'
       name: КУРЕНКОВ Семен Захарович
+      rowinpage: '1'
       spravka: true
     - id: '2758'
       num: '29'
       name: КУТИН Алексей Семенович
+      rowinpage: '2'
       spravka: true
     - id: '2759'
       num: '30'
       name: ЛЕПИХИН Андрей Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '2760'
       num: '31'
       name: ЛУКАШЕВСКИЙ Тимофей Степанович
+      rowinpage: '4'
       spravka: true
     - id: '2761'
       num: '32'
       name: ЛЮБИМОВА Варвара Николаевна
+      rowinpage: '5'
       spravka: true
     - id: '2762'
       num: '33'
       name: МАНОХИН Алексей Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '2763'
       num: '34'
       name: МАРЧЕНКО Михаил Григорьевич
+      rowinpage: '7'
       spravka: true
     - id: '2764'
       num: '35'
       name: МЕХАНОШИН Павел Вячеславович
+      rowinpage: '8'
       spravka: true
     - id: '2765'
       num: '36'
       name: МИХАЙЛОВ Иван Алексеевич
+      rowinpage: '9'
       spravka: true
     - id: '2766'
       num: '37'
       name: МЯСНИКОВ Василий Алексеевич
+      rowinpage: '10'
       spravka: true
     - id: '2767'
       num: '38'
       name: НЕЗАЙЧЕНКО Михаил Антонович
+      rowinpage: '11'
       spravka: true
     - id: '2768'
       num: '39'
       name: НЕТРЕБИН Василий Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '2769'
       num: '40'
       name: НОВИК Павел Иванович
+      rowinpage: '13'
       spravka: true
     - id: '2770'
       num: '41'
       name: НОВИКОВ Степан Кузьмич
+      rowinpage: '14'
       spravka: true
     - id: '2771'
       num: '42'
       name: НОВОСЕЛОВ Павел Афанасьевич
+      rowinpage: '15'
       spravka: true
     - id: '2772'
       num: '43'
       name: ОСИННИКОВ Николай Яковлевич
+      rowinpage: '16'
       spravka: true
     - id: '2773'
       num: '44'
       name: ПАСТУХОВ Валентин Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '2774'
       num: '45'
       name: ПЛОТНИКОВ Николай Алексеевич
+      rowinpage: '18'
       spravka: true
     - id: '2775'
       num: '46'
       name: ПОСУНЬКО Лев Семенович
+      rowinpage: '19'
       spravka: true
     - id: '2776'
       num: '47'
       name: РОМАШЕВ Виталий Федорович
+      rowinpage: '20'
       spravka: true
     - id: '2777'
       num: '48'
       name: РУМЯНЦЕВ Илья Алексеевич
+      rowinpage: '21'
       spravka: true
     - id: '2778'
       num: '49'
       name: РЯБУХИН Александр Михайлович
+      rowinpage: '22'
       spravka: true
     - id: '2779'
       num: '50'
       name: СЕМАКОВ Василий Кондратьевич
+      rowinpage: '23'
       spravka: true
     - id: '2780'
       num: '51'
       name: СОКОЛОВ Виктор Иванович
+      rowinpage: '24'
       spravka: true
     - id: '2781'
       num: '52'
       name: СОКОЛОВ Федор Михайлович
+      rowinpage: '25'
       spravka: true
     - id: '2782'
       num: '53'
       name: СПЕКТОР Ион Исаакович
+      rowinpage: '26'
       spravka: true
     - id: '2783'
       num: '54'
       name: ТЕТЕРИН Петр Осипович
+      rowinpage: '27'
       spravka: true
     - id: '2784'
       num: '55'
       name: ТИШ Иван Иванович
+      rowinpage: '28'
       spravka: true
 - pageintom: '185'
   image: v01/17-171-409-185.jpg
+  title: Свердловская область
   sublists:
   - sublid: '20'
     persons:
     - id: '2785'
       num: '56'
       name: ФЕДОТОВ Кронид Ильич
+      rowinpage: '1'
       spravka: true
     - id: '2786'
       num: '57'
       name: ХВАТОВ Константин Константинович
+      rowinpage: '2'
       spravka: true
     - id: '2787'
       num: '58'
       name: ЦАРЕГОРОДЦЕВ Петр Степанович
+      rowinpage: '3'
       spravka: true
     - id: '2788'
       num: '59'
       name: ЧЕЛПАНОВ Павел Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '2789'
       num: '60'
       name: ЧЕСНОКОВ Александр Александрович
+      rowinpage: '5'
       spravka: true
     - id: '2790'
       num: '61'
       name: ЧЕСНОКОВ Михаил Александрович
+      rowinpage: '6'
       spravka: true
     - id: '2791'
       num: '62'
       name: ЧУГУНОВ Николай Иванович
+      rowinpage: '7'
       spravka: true
     - id: '2792'
       num: '63'
       name: ШАРИН Яков Иванович
+      rowinpage: '8'
       spravka: true
     - id: '2793'
       num: '64'
       name: ШЕСТАКОВ Пантелеймон Александрович
+      rowinpage: '9'
       spravka: true
     - id: '2794'
       num: '65'
       name: ШИК Генри Григорьевич
+      rowinpage: '10'
       spravka: true
     - id: '2795'
       num: '66'
       name: ЩЕРБАК Иван Максимович
+      rowinpage: '11'
       spravka: true
 - pageintom: '186'
   image: v01/17-171-409-186.jpg
+  title: Свердловская область
   sublists:
   - sublid: '20'
     persons:
     - id: '2796'
       num: '1'
       name: БАРАНОВ Александр Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u><br /><u>Свердловская область.</u>
     - id: '2797'
       num: '2'
       name: БУДРИН Степан Евгеньевич
+      rowinpage: '2'
       spravka: true
     - id: '2798'
       num: '3'
       name: БУЗИН Николай Сергеевич
+      rowinpage: '3'
       spravka: true
     - id: '2799'
       num: '4'
       name: КАМЕНЕВ Лука Григорьевич
+      rowinpage: '4'
       spravka: true
     - id: '2800'
       num: '5'
       name: КУСАКИН Сергей Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '2801'
       num: '6'
       name: МАЛЮКОВ Иван Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '2802'
       num: '7'
       name: МИХАЛЕВ Сергей Иванович
+      rowinpage: '7'
       spravka: true
     - id: '2803'
       num: '8'
       name: РАСКОВАЛОВ Георгий Степанович
+      rowinpage: '8'
       spravka: true
     - id: '2804'
       num: '9'
       name: РОМАЧЕВ Никита Иванович
+      rowinpage: '9'
       spravka: true
     - id: '2805'
       num: '10'
       name: САМОЙЛОВ Петр Куприянович
+      rowinpage: '10'
       spravka: true
     - id: '2806'
       num: '11'
       name: СКАКУН Василий Матвеевич
+      rowinpage: '11'
       spravka: true
     - id: '2807'
       num: '12'
       name: УСОВ Василий Кузьмич
+      rowinpage: '12'
       spravka: true
     - id: '2808'
       num: '13'
       name: ЧЕРНОЩЕК Евгений Иосифович
+      rowinpage: '13'
       spravka: true
     - id: '2809'
       num: '14'
       name: ШАСТИН Федор Александрович
+      rowinpage: '14'
       spravka: true
     - id: '2810'
       num: '15'
       name: ШУБИН Иван Николаевич
+      rowinpage: '15'
       spravka: true

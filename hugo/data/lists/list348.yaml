@@ -1,9 +1,10 @@
 id: '348'
 title: Список лиц - Челябинская область // от 3 января 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '120'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -30,294 +31,374 @@ sublists:
 pages:
 - pageintom: '120'
   image: v06/17-171-414-120.jpg
+  title: null
   sublists: []
 - pageintom: '121'
   image: v06/17-171-414-121.jpg
+  title: null
   sublists: []
 - pageintom: '122'
   image: v06/17-171-414-122.jpg
+  title: null
   sublists:
   - sublid: '407'
     persons:
     - id: '20915'
       num: '1'
       name: АБРАМОВ Василий Павлович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '20916'
       num: '2'
       name: АКАТЬЕВ Павел Александрович
+      rowinpage: '2'
       spravka: true
     - id: '20917'
       num: '3'
       name: АКИМОВ-НАЦВИН Николай Петрович
+      rowinpage: '3'
       spravka: true
     - id: '20918'
       num: '4'
       name: АМПЕНОВ Семен Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '20919'
       num: '5'
       name: АНЦИФЕРОВ Иван Петрович
+      rowinpage: '5'
       spravka: true
     - id: '20920'
       num: '6'
       name: АФАНАСЬЕВ Николай Александрович
+      rowinpage: '6'
     - id: '20921'
       num: '7'
       name: БАЛАКИН Михаил Александрович
+      rowinpage: '7'
       spravka: true
     - id: '20922'
       num: '8'
       name: БЕЛОКРИНИЦКИЙ Юлий Викторович
+      rowinpage: '8'
       spravka: true
     - id: '20923'
       num: '9'
       name: БЕССАРАБОВ Иосиф Григорьевич
+      rowinpage: '9'
       spravka: true
     - id: '20924'
       num: '10'
       name: БОЙЗЕН Фридрих Георгиевич
+      rowinpage: '10'
     - id: '20925'
       num: '11'
       name: БУНДИН Иван Тимофеевич
+      rowinpage: '11'
       spravka: true
     - id: '20926'
       num: '12'
       name: ВАЙСМАН Григорий Израилевич
+      rowinpage: '12'
       spravka: true
     - id: '20927'
       num: '13'
       name: ВАСИЛЬЕВ Петр Иванович
+      rowinpage: '13'
       spravka: true
     - id: '20928'
       num: '14'
       name: ВОЙНОВА Раиса Ивановна
+      rowinpage: '14'
     - id: '20929'
       num: '15'
       name: ВОЛКОВ Константин Васильевич
+      rowinpage: '15'
       spravka: true
     - id: '20930'
       num: '16'
       name: ГАЛИМОВ Корней Мухаметович
+      rowinpage: '16'
       spravka: true
     - id: '20931'
       num: '17'
       name: ГЕЙНЕ Михаил Станиславович
+      rowinpage: '17'
     - id: '20932'
       num: '18'
       name: ГОЛОВЧИНЕР Давид Леонтьевич
+      rowinpage: '18'
       spravka: true
     - id: '20933'
       num: '19'
       name: ДМИТРИЕВ Константин Дмитриевич
+      rowinpage: '19'
       spravka: true
     - id: '20934'
       num: '20'
       name: ЗАЯК Теодор Теодорович
+      rowinpage: '20'
       spravka: true
     - id: '20935'
       num: '21'
       name: ИВАНОВ Дмитрий Васильевич
+      rowinpage: '21'
 - pageintom: '123'
   image: v06/17-171-414-123.jpg
+  title: Челябинская область
   sublists:
   - sublid: '407'
     persons:
     - id: '20936'
       num: '22'
       name: КАЗАНЦЕВ Афонасий Селиверстович
+      rowinpage: '1'
       spravka: true
     - id: '20937'
       num: '23'
       name: КАЦ Иосиф Яковлевич
+      rowinpage: '2'
       spravka: true
     - id: '20938'
       num: '24'
       name: КЕРТИС Павел Михайлович
+      rowinpage: '3'
     - id: '20939'
       num: '25'
       name: КИПРИЯНОВ Валентин Иванович
+      rowinpage: '4'
       spravka: true
     - id: '20940'
       num: '26'
       name: КИРШОН Александр Львович
+      rowinpage: '5'
       spravka: true
     - id: '20941'
       num: '27'
       name: КЛЮКИН Иван Еремеевич
+      rowinpage: '6'
       spravka: true
     - id: '20942'
       num: '28'
       name: КЛЮШНИК Григорий Тимофеевич
+      rowinpage: '7'
       spravka: true
     - id: '20943'
       num: '29'
       name: КОВАЛЕВСКИЙ Виктор Генрихович
+      rowinpage: '8'
       spravka: true
     - id: '20944'
       num: '30'
       name: КОЛОТИЛОВ Александр Григорьевич
+      rowinpage: '9'
       spravka: true
     - id: '20945'
       num: '31'
       name: КРАЧКОВСКИЙ Михаил Петрович
+      rowinpage: '10'
       spravka: true
     - id: '20946'
       num: '32'
       name: КУДРИН Константин Иванович
+      rowinpage: '11'
       spravka: true
     - id: '20947'
       num: '33'
       name: КУМЫЗАРОВ Андрей Федорович
+      rowinpage: '12'
       spravka: true
     - id: '20948'
       num: '34'
       name: КУН Александр Иосифович
+      rowinpage: '13'
     - id: '20949'
       num: '35'
       name: ЛАМЕХОВ Виктор Георгиевич
+      rowinpage: '14'
     - id: '20950'
       num: '36'
       name: ЛАМПЕРТ Вильгельм Георгиевич
+      rowinpage: '15'
     - id: '20951'
       num: '37'
       name: ЛЕВИН Давид Моисеевич
+      rowinpage: '16'
     - id: '20952'
       num: '38'
       name: ЛЮБАРСКИЙ Семен Пейсахович
+      rowinpage: '17'
       spravka: true
     - id: '20953'
       num: '39'
       name: МАЙЗЕЛЬ Иоган Иоганович
+      rowinpage: '18'
     - id: '20954'
       num: '40'
       name: МАКАРОВ Василий Александрович
+      rowinpage: '19'
       spravka: true
     - id: '20955'
       num: '41'
       name: МАМКИН Борис Витальевич
+      rowinpage: '20'
       spravka: true
     - id: '20956'
       num: '42'
       name: МАСЛАК Максим Иванович
+      rowinpage: '21'
     - id: '20957'
       num: '43'
       name: МИЛЬМАН Абрам Лейбович
+      rowinpage: '22'
       spravka: true
     - id: '20958'
       num: '44'
       name: МОИСЕЕНКО Аким Никонович
+      rowinpage: '23'
       spravka: true
     - id: '20959'
       num: '45'
       name: МОТОВИЛОВ Артемий Анфиногенович
+      rowinpage: '24'
       spravka: true
     - id: '20960'
       num: '46'
       name: НАУМОВ Георгий Терентьевич
+      rowinpage: '25'
       spravka: true
     - id: '20961'
       num: '47'
       name: НЕЛЬКЕ Макс Иоганнович
+      rowinpage: '26'
       spravka: true
     - id: '20962'
       num: '48'
       name: НИКОЛАЕВА Екатерина Анисимовна
+      rowinpage: '27'
     - id: '20963'
       num: '49'
       name: ОСИПОВИЧ Александр Альбертович
+      rowinpage: '28'
     - id: '20964'
       num: '50'
       name: ПИАНСКИЙ Рихард Фрицевич
+      rowinpage: '29'
       spravka: true
 - pageintom: '124'
   image: v06/17-171-414-124.jpg
+  title: Челябинская область
   sublists:
   - sublid: '407'
     persons:
     - id: '20965'
       num: '51'
       name: ПОТАПОВ Андрей Иванович
+      rowinpage: '1'
     - id: '20966'
       num: '52'
       name: ПРИСТАВЧЕНКОВ Виктор Сергеевич
+      rowinpage: '2'
     - id: '20967'
       num: '53'
       name: ПШЕНИЧНЫЙ-ВЕЧЕРИН Михаил Андреевич
+      rowinpage: '3'
     - id: '20968'
       num: '54'
       name: РАЗУМОВ Михаил Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '20969'
       num: '55'
       name: САВЕЛЬЕВ Павел Степанович
+      rowinpage: '5'
     - id: '20970'
       num: '56'
       name: САЗОНОВ Радион Алексеевич
+      rowinpage: '6'
     - id: '20971'
       num: '57'
       name: САМОДЕЛКИН Александр Алексеевич
+      rowinpage: '7'
     - id: '20972'
       num: '58'
       name: СЕЛЕЗНЕВ Константин Федорович
+      rowinpage: '8'
     - id: '20973'
       num: '59'
       name: СТЕБЛЕВСКИЙ Калина Моисеевич
+      rowinpage: '9'
     - id: '20974'
       num: '60'
       name: СТЕПАНЮК Василий Георгиевич
+      rowinpage: '10'
     - id: '20975'
       num: '61'
       name: СТРОКОВ Николай Михайлович
+      rowinpage: '11'
     - id: '20976'
       num: '62'
       name: ТАНОВ Рафаил Алексеевич
+      rowinpage: '12'
     - id: '20977'
       num: '63'
       name: ТАРХОВ Дмитрий Андреевич
+      rowinpage: '13'
     - id: '20978'
       num: '64'
       name: ТИМАШЕВА Мария Георгиевна
+      rowinpage: '14'
     - id: '20979'
       num: '65'
       name: ФАЗЫЛОВ Валей Кабирович
+      rowinpage: '15'
     - id: '20980'
       num: '66'
       name: ФИНКЕЛЬ Лия Иделевна
+      rowinpage: '16'
     - id: '20981'
       num: '67'
       name: ХАРТУЛЯРИ Всеволод Дмитриевич
+      rowinpage: '17'
       spravka: true
     - id: '20982'
       num: '68'
       name: ШАБУРОВ Яков Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '20983'
       num: '69'
       name: ШАЛАЙ Иосиф Николаевич
+      rowinpage: '19'
     - id: '20984'
       num: '70'
       name: ШРАЙБЕР Карл Иосифович
+      rowinpage: '20'
     - id: '20985'
       num: '71'
       name: ШЮНЕМАН Вернер Германович
+      rowinpage: '21'
     - id: '20986'
       num: '72'
       name: ЯРОВСКИЙ Александр Васильевич
+      rowinpage: '22'
 - pageintom: '125'
   image: v06/17-171-414-125.jpg
+  title: null
   sublists:
   - sublid: '407'
     persons:
     - id: '20987'
       num: '1'
       name: КОЛЛЕР Ганс Леопальдович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u><br /><u>(иностранный
         подданный)</u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
 - pageintom: '126'
   image: v06/17-171-414-126.jpg
+  title: null
   sublists: []

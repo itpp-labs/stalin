@@ -1,9 +1,10 @@
 id: '323'
 title: Список лиц - Северо-Осетинская АССР // от 3 мая 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '263'
 date: '1938-05-03'
+date_ru: 03.05.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,227 +28,283 @@ sublists:
 pages:
 - pageintom: '263'
   image: v08/17-171-416-263.jpg
+  title: null
   sublists: []
 - pageintom: '264'
   image: v08/17-171-416-264.jpg
+  title: null
   sublists: []
 - pageintom: '265'
   image: v08/17-171-416-265.jpg
+  title: null
   sublists:
   - sublid: '569'
     persons:
     - id: '32329'
       num: '1'
       name: АККАЛАЕВ Ефим Испанович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СЕВЕРО-ОСЕТИНСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '32330'
       num: '2'
       name: АРСАГОВ Горга Беппоевич
+      rowinpage: '2'
       spravka: true
     - id: '32331'
       num: '3'
       name: БАЕВА Нина Львовна
+      rowinpage: '3'
       spravka: true
     - id: '32332'
       num: '4'
       name: БАЗРОВ Саханджери Дахцикоевич
+      rowinpage: '4'
       spravka: true
     - id: '32333'
       num: '5'
       name: БУТАЕВ Казбек Саввич
+      rowinpage: '5'
       spravka: true
     - id: '32334'
       num: '6'
       name: ГАЛАЕВ Степан Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '32335'
       num: '7'
       name: ГАТУЕВ Константин (Дзахо) Алексеевич
+      rowinpage: '7'
       spravka: true
     - id: '32336'
       num: '8'
       name: ГАЦОЕВ Владимир Данилович
+      rowinpage: '8'
       spravka: true
     - id: '32337'
       num: '9'
       name: ГАЦОЕВ Иван Тимофеевич
+      rowinpage: '9'
       spravka: true
     - id: '32338'
       num: '10'
       name: ГЛАДИЛИН Николай Алексеевич
+      rowinpage: '10'
       spravka: true
     - id: '32339'
       num: '11'
       name: ГОДЖИЕВ Дзамбулат Тузарович
+      rowinpage: '11'
       spravka: true
     - id: '32340'
       num: '12'
       name: ГУСОВ Гадагко Дахцикоевич
+      rowinpage: '12'
       spravka: true
     - id: '32341'
       num: '13'
       name: ГУТНОВ Николай Давидович
+      rowinpage: '13'
     - id: '32342'
       num: '14'
       name: ДАУРОВ Майрам (Матвей) Харитонович
+      rowinpage: '14'
       spravka: true
     - id: '32343'
       num: '15'
       name: ДЗАМПАЕВ Александр Гаврилович
+      rowinpage: '15'
       spravka: true
     - id: '32344'
       num: '16'
       name: ДЗАТИЕВ Николай Григорьевич
+      rowinpage: '16'
     - id: '32345'
       num: '17'
       name: ДЗБОЕВ Гавриил Муссаевич
+      rowinpage: '17'
       spravka: true
     - id: '32346'
       num: '18'
       name: ДЗГОЕВ Алибан Муссаевич
+      rowinpage: '18'
       spravka: true
     - id: '32347'
       num: '19'
       name: ЕЛБАЕВ Дзандар Данилович
+      rowinpage: '19'
       spravka: true
     - id: '32348'
       num: '20'
       name: ЗАГАЛОВ Виссарион Виссарионович
+      rowinpage: '20'
       spravka: true
     - id: '32349'
       num: '21'
       name: ЗАНГИЕВ Борис Георгиевич
+      rowinpage: '21'
       spravka: true
     - id: '32350'
       num: '22'
       name: КАБОЕВ Георгий, он же Татари Федорович
+      rowinpage: '22'
       spravka: true
     - id: '32351'
       num: '23'
       name: КАРСАНОВ Хатахцико Сахмурзаевич
+      rowinpage: '23'
 - pageintom: '266'
   image: v08/17-171-416-266.jpg
+  title: Северо-Осетинская АССР
   sublists:
   - sublid: '569'
     persons:
     - id: '32352'
       num: '24'
       name: КОРНАЕВ Мусса Давыдович, он же Моисей Дзахоевич
+      rowinpage: '1'
       spravka: true
     - id: '32353'
       num: '25'
       name: КОРНАЕВ Харитон Давыдович
+      rowinpage: '2'
       spravka: true
     - id: '32354'
       num: '26'
       name: КУЛАЕВ Туган Хатоевич
+      rowinpage: '3'
       spravka: true
     - id: '32355'
       num: '27'
       name: КУЧИЕВ Сергей Тимофеевич
+      rowinpage: '4'
       spravka: true
     - id: '32356'
       num: '28'
       name: ЛЕОНОВ Алексей Дмитриевич
+      rowinpage: '5'
       spravka: true
     - id: '32357'
       num: '29'
       name: МАКЕЕВ Ислам Хусинович
+      rowinpage: '6'
       spravka: true
     - id: '32358'
       num: '30'
       name: МЗОКОВ Тембулат Исрафилович
+      rowinpage: '7'
       spravka: true
     - id: '32359'
       num: '31'
       name: МИЛЬДЗИХОВ Пела Тебоевич
+      rowinpage: '8'
       spravka: true
     - id: '32360'
       num: '32'
       name: ПСХАЦИЕВ Хаджимурат-Магомет Гиреевич
+      rowinpage: '9'
       spravka: true
     - id: '32361'
       num: '33'
       name: РАМОНОВ Заурбек Кириллович
+      rowinpage: '10'
       spravka: true
     - id: '32362'
       num: '34'
       name: САЛБИЕВ Камбулат Гаппоевич
+      rowinpage: '11'
       spravka: true
     - id: '32363'
       num: '35'
       name: СОЗАНОВ Магомет Ильясович
+      rowinpage: '12'
       spravka: true
     - id: '32364'
       num: '36'
       name: СТУПНИКОВ Иван Николаевич
+      rowinpage: '13'
       spravka: true
     - id: '32365'
       num: '37'
       name: ТАБОЛОВ Петр Иосифович
+      rowinpage: '14'
       spravka: true
     - id: '32366'
       num: '38'
       name: ТЕТДОЕВ Виктор Антонович
+      rowinpage: '15'
       spravka: true
     - id: '32367'
       num: '39'
       name: ТОМАЕВ Иван Ростомович
+      rowinpage: '16'
       spravka: true
     - id: '32368'
       num: '40'
       name: ТОТРОВ Хадзибатыр Ельмурзаевич
+      rowinpage: '17'
       spravka: true
     - id: '32369'
       num: '41'
       name: ХАСИЕВ Константин Тембулатович
+      rowinpage: '18'
       spravka: true
     - id: '32370'
       num: '42'
       name: ЦАБОЛОВ Албек (Алибек) Казбекович
+      rowinpage: '19'
       spravka: true
     - id: '32371'
       num: '43'
       name: ЦАЛЛАГОВ Коста Кириллович
+      rowinpage: '20'
       spravka: true
     - id: '32372'
       num: '44'
       name: ЦОГОЕВ Семен Хадзиметович
+      rowinpage: '21'
       spravka: true
     - id: '32373'
       num: '45'
       name: ШИПОВ Константин Максимович
+      rowinpage: '22'
       spravka: true
 - pageintom: '267'
   image: v08/17-171-416-267.jpg
+  title: null
   sublists:
   - sublid: '569'
     persons:
     - id: '32374'
       num: '1'
       name: АЛКАЦЕВ Дебола Каспулатович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СЕВЕРО-ОСЕТИНСКАЯ АССР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '32375'
       num: '2'
       name: БЕКУЗАРОВ Бодра Ахполович
+      rowinpage: '2'
       spravka: true
     - id: '32376'
       num: '3'
       name: БОЖКО Александр Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '32377'
       num: '4'
       name: ДЖИГКАЕВ Кишу Боциевич
+      rowinpage: '4'
       spravka: true
     - id: '32378'
       num: '5'
       name: ЛЕКОВ Коста Георгиевич
+      rowinpage: '5'
       spravka: true
     - id: '32379'
       num: '6'
       name: МАКАРОВ Иван Васильевич
+      rowinpage: '6'
       spravka: true

@@ -1,9 +1,10 @@
 id: '140'
 title: Список лиц - Ивановская область // 13 декабря 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '286'
 date: '1937-12-13'
+date_ru: 13.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,185 +29,233 @@ sublists:
 pages:
 - pageintom: '286'
   image: v05/17-171-413-286.jpg
+  title: null
   sublists: []
 - pageintom: '287'
   image: v05/17-171-413-287.jpg
+  title: null
   sublists: []
 - pageintom: '288'
   image: v05/17-171-413-288.jpg
+  title: null
   sublists:
   - sublid: '90'
     persons:
     - id: '18092'
       num: '1'
       name: АДМИРАЛЬСКАЯ Зинаида Алексеевна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ИВАНОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '18093'
       num: '2'
       name: АЛЕКСАНДРОВ Евгений Александрович
+      rowinpage: '2'
       spravka: true
     - id: '18094'
       num: '3'
       name: БАЛАНИН Николай Иванович
+      rowinpage: '3'
       spravka: true
     - id: '18095'
       num: '4'
       name: БАЛУНОВ Павел Иванович
+      rowinpage: '4'
     - id: '18096'
       num: '5'
       name: БУХАНОВ Николай Иванович
+      rowinpage: '5'
       spravka: true
     - id: '18097'
       num: '6'
       name: БЫКОВСКИЙ Яков Романович
+      rowinpage: '6'
       spravka: true
     - id: '18098'
       num: '7'
       name: ВЕРЕВКИН Петр Дмитриевич
+      rowinpage: '7'
       spravka: true
     - id: '18099'
       num: '8'
       name: ГОЛУБЕВ Николай Иванович
+      rowinpage: '8'
       spravka: true
     - id: '18100'
       num: '9'
       name: ГУСАРОВ Андрей Иванович
+      rowinpage: '9'
       spravka: true
     - id: '18101'
       num: '10'
       name: ДАНИЛОВ Николай Дмитриевич
+      rowinpage: '10'
       spravka: true
     - id: '18102'
       num: '11'
       name: ЕГОРОВ Константин Георгиевич
+      rowinpage: '11'
       spravka: true
     - id: '18103'
       num: '12'
       name: ЗАЙЦЕВ Василий Васильевич
+      rowinpage: '12'
     - id: '18104'
       num: '13'
       name: ЗОЛОТКОВ Георгий Дмитриевич
+      rowinpage: '13'
     - id: '18105'
       num: '14'
       name: ЗОЛОТКОВ Николай Дмитриевич
+      rowinpage: '14'
       spravka: true
     - id: '18106'
       num: '15'
       name: ИЛЬИН Григорий Дмитриевич
+      rowinpage: '15'
       spravka: true
     - id: '18107'
       num: '16'
       name: КАЦКОВ Константин Иванович
+      rowinpage: '16'
       spravka: true
     - id: '18108'
       num: '17'
       name: КОРНИЛОВ Георгий Васильевич
+      rowinpage: '17'
     - id: '18109'
       num: '18'
       name: КОСТЫЛЕВ Константин Иванович
+      rowinpage: '18'
     - id: '18110'
       num: '19'
       name: ЛОМАКИН Сергей Павлович
+      rowinpage: '19'
     - id: '18111'
       num: '20'
       name: МАКСИМОВ Александр Федорович
+      rowinpage: '20'
       spravka: true
     - id: '18112'
       num: '21'
       name: МАХЛОВ Александр Георгиевич
+      rowinpage: '21'
       spravka: true
 - pageintom: '289'
   image: v05/17-171-413-289.jpg
+  title: Ивановская область
   sublists:
   - sublid: '90'
     persons:
     - id: '18113'
       num: '22'
       name: НЕШУМОВ Петр Иванович
+      rowinpage: '1'
     - id: '18114'
       num: '23'
       name: ПАВЛОВ Николай Дмитриевич
+      rowinpage: '2'
       spravka: true
     - id: '18115'
       num: '24'
       name: ПЕШНИКОВ Николай Константинович
+      rowinpage: '3'
       spravka: true
     - id: '18116'
       num: '25'
       name: ПОСЕЕВ Александр Васильевич
+      rowinpage: '4'
       spravka: true
     - id: '18117'
       num: '26'
       name: ПРОВОРОВ Александр Артемьевич
+      rowinpage: '5'
     - id: '18118'
       num: '27'
       name: РОЩИН Николай Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '18119'
       num: '28'
       name: САВАНОВ Михаил Аркадьевич
+      rowinpage: '7'
       spravka: true
     - id: '18120'
       num: '29'
       name: СЕМЕНОВ Николай Карпович
+      rowinpage: '8'
       spravka: true
     - id: '18121'
       num: '30'
       name: СТРЫГИН Алексей Федорович
+      rowinpage: '9'
       spravka: true
     - id: '18122'
       num: '31'
       name: ТЕРЕХОВ Авксентий Васильевич
+      rowinpage: '10'
     - id: '18123'
       num: '32'
       name: ФРОЛОВ Иван Егорович
+      rowinpage: '11'
     - id: '18124'
       num: '33'
       name: ЦВЕТКОВ Петр Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '18125'
       num: '34'
       name: ЯКОВЛЕВ Владимир Михайлович
+      rowinpage: '13'
     - id: '18126'
       num: '35'
       name: ЯСАКОВ Иван Корнеевич
+      rowinpage: '14'
       spravka: true
 - pageintom: '290'
   image: v05/17-171-413-290.jpg
+  title: null
   sublists:
   - sublid: '90'
     persons:
     - id: '18127'
       num: '1'
       name: АЛИФАНОВ Николай Сергеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ИВАНОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '18128'
       num: '2'
       name: БОРОДЬКО Иван Иванович
+      rowinpage: '2'
       spravka: true
     - id: '18129'
       num: '3'
       name: ВИКТОРОВ Георгий Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '18130'
       num: '4'
       name: ДЕНИСОВ Михаил Поликарпович
+      rowinpage: '4'
       spravka: true
     - id: '18131'
       num: '5'
       name: КРАСОВСКИЙ Александр Павлович
+      rowinpage: '5'
     - id: '18132'
       num: '6'
       name: МАЙСТРИКОВ Борис Федорович
+      rowinpage: '6'
     - id: '18133'
       num: '7'
       name: ПЫХОВА Вера Ефимовна
+      rowinpage: '7'
       spravka: true
     - id: '18134'
       num: '8'
       name: ШВЕЦОВ Валентин Федорович
+      rowinpage: '8'
       spravka: true

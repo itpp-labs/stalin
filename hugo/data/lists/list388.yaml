@@ -1,9 +1,10 @@
 id: '388'
 title: Список лиц - Красноярский край // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '8'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,182 +29,226 @@ sublists:
 pages:
 - pageintom: '8'
   image: v11/17-171-419-008.jpg
+  title: null
   sublists: []
 - pageintom: '9'
   image: v11/17-171-419-009.jpg
+  title: null
   sublists: []
 - pageintom: '10'
   image: v11/17-171-419-010.jpg
+  title: null
   sublists:
   - sublid: '614'
     persons:
     - id: '40908'
       num: '1'
       name: АЗИС Лев Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '40909'
       num: '2'
       name: АРГУДАЕВ Александр Макарович
+      rowinpage: '2'
       spravka: true
     - id: '40910'
       num: '3'
       name: БАСКОВ Иван Константинович
+      rowinpage: '3'
       spravka: true
     - id: '40911'
       num: '4'
       name: БОРГОЯКОВ Прокопий Семенович
+      rowinpage: '4'
       spravka: true
     - id: '40912'
       num: '5'
       name: ВОЮЦ Михаил Осипович
+      rowinpage: '5'
       spravka: true
     - id: '40913'
       num: '6'
       name: ИНТУТОВ Яков Константинович
+      rowinpage: '6'
       spravka: true
     - id: '40914'
       num: '7'
       name: КОНОВАЛОВ Николай Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '40915'
       num: '8'
       name: КУЗУГАШЕВ Андрей Иванович
+      rowinpage: '8'
       spravka: true
     - id: '40916'
       num: '9'
       name: КЫЗЛАСОВ Роман Афанасьевич
+      rowinpage: '9'
       spravka: true
     - id: '40917'
       num: '10'
       name: МАШУКОВ Тимофей Егорович
+      rowinpage: '10'
       spravka: true
     - id: '40918'
       num: '11'
       name: ПОСТНИКОВ Анатолий Алексеевич
+      rowinpage: '11'
       spravka: true
     - id: '40919'
       num: '12'
       name: САФРЫГИН Алексей Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '40920'
       num: '13'
       name: САЧКОВСКИЙ Михаил Илларионович
+      rowinpage: '13'
       spravka: true
     - id: '40921'
       num: '14'
       name: СЕЛЕГЕЕВ Петр Егорович
+      rowinpage: '14'
       spravka: true
     - id: '40922'
       num: '15'
       name: СИВОДЕД Матвей Алексеевич
+      rowinpage: '15'
       spravka: true
     - id: '40923'
       num: '16'
       name: ТОПОЕВ Николай Владимирович
+      rowinpage: '16'
       spravka: true
     - id: '40924'
       num: '17'
       name: ТЯПИН Николай Иванович
+      rowinpage: '17'
       spravka: true
     - id: '40925'
       num: '18'
       name: УГДЫЖЕКОВ Василий Васильевич
+      rowinpage: '18'
       spravka: true
     - id: '40926'
       num: '19'
       name: УРУЛЬ Ян Антонович
+      rowinpage: '19'
       spravka: true
 - pageintom: '11'
   image: v11/17-171-419-011.jpg
+  title: Красноярский край
   sublists:
   - sublid: '614'
     persons:
     - id: '40927'
       num: '20'
       name: ФЕСЕНКО Василий Герасимович
+      rowinpage: '1'
       spravka: true
     - id: '40928'
       num: '21'
       name: ЧУСТЕЕВ Виктор Семенович
+      rowinpage: '2'
       spravka: true
 - pageintom: '12'
   image: v11/17-171-419-012.jpg
+  title: null
   sublists:
   - sublid: '614'
     persons:
     - id: '40929'
       num: '1'
       name: БОРГОЯКОВ Павел Тимофеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '40930'
       num: '2'
       name: ДОБРОВ Дмитрий Семенович
+      rowinpage: '2'
       spravka: true
     - id: '40931'
       num: '3'
       name: ЕВТУШЕНКО Александр Иванович
+      rowinpage: '3'
       spravka: true
     - id: '40932'
       num: '4'
       name: КАРАГУСОВ Александр Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '40933'
       num: '5'
       name: КИШТЕЕВ Николай Исаевич
+      rowinpage: '5'
       spravka: true
     - id: '40934'
       num: '6'
       name: КУЧЕНДАЕВ Георгий Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '40935'
       num: '7'
       name: МАЙНАГАШЕВ Пахом Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '40936'
       num: '8'
       name: МАМЫШЕВ Анисим Александрович
+      rowinpage: '8'
       spravka: true
     - id: '40937'
       num: '9'
       name: МАСТРАКОВ Григорий Иванович
+      rowinpage: '9'
       spravka: true
     - id: '40938'
       num: '10'
       name: РЫКОВ Алексей Семенович
+      rowinpage: '10'
       spravka: true
     - id: '40939'
       num: '11'
       name: САДКОВ Николай Иванович
+      rowinpage: '11'
       spravka: true
     - id: '40940'
       num: '12'
       name: САФРЫГИН Павел Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '40941'
       num: '13'
       name: СЕННИКОВ Иван Кононович
+      rowinpage: '13'
       spravka: true
     - id: '40942'
       num: '14'
       name: СУБРАКОВ Василий Петрович
+      rowinpage: '14'
       spravka: true
     - id: '40943'
       num: '15'
       name: ТАРМАЗАКОВ Семен Харитонович
+      rowinpage: '15'
       spravka: true
     - id: '40944'
       num: '16'
       name: ТИННИКОВ Федор Федорович
+      rowinpage: '16'
       spravka: true
     - id: '40945'
       num: '17'
       name: ТОКМАШЕВ Илья Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '40946'
       num: '18'
       name: ФЕДЦОВ Николай Митрофанович
+      rowinpage: '18'
       spravka: true

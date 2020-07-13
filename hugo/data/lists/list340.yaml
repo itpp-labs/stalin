@@ -1,9 +1,10 @@
 id: '340'
 title: Список лиц - Горьковская область // от 3 января 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '60'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,258 +30,320 @@ sublists:
 pages:
 - pageintom: '60'
   image: v06/17-171-414-060.jpg
+  title: null
   sublists: []
 - pageintom: '61'
   image: v06/17-171-414-061.jpg
+  title: null
   sublists: []
 - pageintom: '62'
   image: v06/17-171-414-062.jpg
+  title: null
   sublists:
   - sublid: '403'
     persons:
     - id: '20117'
       num: '1'
       name: АГАФОНОВ Михаил Яковлевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ГОРЬКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '20118'
       num: '2'
       name: БАТЮК-УРУСОВ Иван Иванович
+      rowinpage: '2'
       spravka: true
     - id: '20119'
       num: '3'
       name: БЕКЕНЕВ Иван Александрович
+      rowinpage: '3'
       spravka: true
     - id: '20120'
       num: '4'
       name: БЕЛОВ Леонид Алексеевич
+      rowinpage: '4'
       spravka: true
     - id: '20121'
       num: '5'
       name: БЕЛЯЕВ Алексей Павлович
+      rowinpage: '5'
       spravka: true
     - id: '20122'
       num: '6'
       name: БЕРЕЗКИН Ефим Анфимович
+      rowinpage: '6'
       spravka: true
     - id: '20123'
       num: '7'
       name: БЕРНАДСКИЙ Николай Александрович
+      rowinpage: '7'
       spravka: true
     - id: '20124'
       num: '8'
       name: БОБРОВ Лев Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '20125'
       num: '9'
       name: БОХОНОВ Вениамин Павлович
+      rowinpage: '9'
       spravka: true
     - id: '20126'
       num: '10'
       name: БУТЯГИН Евгений Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '20127'
       num: '11'
       name: ВИНОГРАДОВ Анатолий Константинович
+      rowinpage: '11'
       spravka: true
     - id: '20128'
       num: '12'
       name: ВИТКЕВИЧ Зенон Владиславович
+      rowinpage: '12'
       spravka: true
     - id: '20129'
       num: '14'
       name: ГРЕСЕЛЬ Ефим Самойлович
+      rowinpage: '13'
       spravka: true
     - id: '20130'
       num: '15'
       name: ГУЛЕНКИН Федор Осипович
+      rowinpage: '14'
       spravka: true
     - id: '20131'
       num: '16'
       name: ГУРЯГИН Александр Степанович
+      rowinpage: '15'
       spravka: true
     - id: '20132'
       num: '17'
       name: ДОЛГОВ Василий Иванович
+      rowinpage: '16'
       spravka: true
     - id: '20133'
       num: '18'
       name: ЗАГИКО-ЗОШКО Моисей Ефимович
+      rowinpage: '17'
       spravka: true
     - id: '20134'
       num: '19'
       name: ЗРАКОВ Иустин Антонович
+      rowinpage: '18'
       spravka: true
     - id: '20135'
       num: '20'
       name: КАТКОВ Николай Акимович
+      rowinpage: '19'
       spravka: true
     - id: '45667'
       num: '13'
       name: ГЛАЗКОВ Николай Иванович
+      rowinpage: '13'
       spravka: true
 - pageintom: '63'
   image: v06/17-171-414-063.jpg
+  title: Горьковская область
   sublists:
   - sublid: '403'
     persons:
     - id: '20136'
       num: '21'
       name: КОСАРЕВ Василий Александрович
+      rowinpage: '1'
       spravka: true
     - id: '20137'
       num: '22'
       name: КОТЛОВ Василий Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '35540'
       num: '23'
       name: КРАСНОВ Андрей Федорович
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '20139'
       num: '24'
       name: КУРОЧКИН Василий Иванович
+      rowinpage: '4'
       spravka: true
     - id: '20140'
       num: '25'
       name: ЛЕБЕДЕВ Иван Илларионович
+      rowinpage: '5'
       spravka: true
     - id: '20141'
       num: '26'
       name: ЛЬВОВИЧ Рафаэль Владимирович
+      rowinpage: '6'
       spravka: true
     - id: '35542'
       num: '27'
       name: МАКСИМОВ Владимир Николаевич
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '20143'
       num: '28'
       name: МАЛЫШЕВ Сергей Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '20144'
       num: '29'
       name: МИРОНОВ Николай Федорович
+      rowinpage: '9'
       spravka: true
     - id: '20145'
       num: '30'
       name: НАМЕСТНИКОВ Иван Павлович
+      rowinpage: '10'
       spravka: true
     - id: '20146'
       num: '31'
       name: НАУМОВ Иван Алексеевич
+      rowinpage: '11'
       spravka: true
     - id: '20147'
       num: '32'
       name: НЕНСБЕРГ Юрий Владимирович
+      rowinpage: '12'
       spravka: true
     - id: '20148'
       num: '33'
       name: НОВОЖИЛОВ Валентин Сергеевич
+      rowinpage: '13'
       spravka: true
     - id: '20149'
       num: '34'
       name: ОКСНЕР Роман Робертович
+      rowinpage: '14'
       spravka: true
     - id: '20150'
       num: '35'
       name: ПОСТНИКОВ Павел Евгеньевич
+      rowinpage: '15'
       spravka: true
     - id: '20151'
       num: '36'
       name: РАКУЦ Филипп Лукич
+      rowinpage: '16'
       spravka: true
     - id: '20152'
       num: '37'
       name: РУКАВИШНИКОВ Владимир Дмитриевич
+      rowinpage: '17'
       spravka: true
     - id: '20153'
       num: '38'
       name: РУССЕЛИК Тимофей Венедиктович
+      rowinpage: '18'
       spravka: true
     - id: '20154'
       num: '39'
       name: САВИН Дмитрий Георгиевич
+      rowinpage: '19'
       spravka: true
     - id: '20155'
       num: '40'
       name: СЕВАСТЬЯНОВ Сергей Алексеевич
+      rowinpage: '20'
       spravka: true
     - id: '20156'
       num: '41'
       name: СИЗОВ-ШЕРСТНЕВ Павел Андреевич
+      rowinpage: '21'
       spravka: true
     - id: '20157'
       num: '42'
       name: СИНЧУГОВ Владимир Николаевич
+      rowinpage: '22'
       spravka: true
     - id: '20158'
       num: '43'
       name: СМИРНОВ Николай Владимирович
+      rowinpage: '23'
       spravka: true
     - id: '20159'
       num: '44'
       name: СОЛОВЕЙ Иван Фомич
+      rowinpage: '24'
       spravka: true
     - id: '20160'
       num: '45'
       name: СОСНИН Павел Иванович
+      rowinpage: '25'
       spravka: true
     - id: '20161'
       num: '46'
       name: СПАССКИЙ Дмитрий Дмитриевич
+      rowinpage: '26'
       spravka: true
     - id: '20162'
       num: '47'
       name: СПЫЛИХИН Николай Владимирович
+      rowinpage: '27'
       spravka: true
     - id: '20163'
       num: '48'
       name: СТАРОСТИН Иван Павлович
+      rowinpage: '28'
       spravka: true
 - pageintom: '64'
   image: v06/17-171-414-064.jpg
+  title: Горьковская область
   sublists:
   - sublid: '403'
     persons:
     - id: '20164'
       num: '49'
       name: СЫРОМЯТНОВ Николай Семенович
+      rowinpage: '1'
       spravka: true
     - id: '35554'
       num: '50'
       name: ТИМАШЕВ Павел Николаевич
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '20166'
       num: '51'
       name: ТУРИЛОВ Николай Георгиевич
+      rowinpage: '3'
       spravka: true
     - id: '20167'
       num: '52'
       name: ЭРЛАНГЕР Петр Антонович
+      rowinpage: '4'
       spravka: true
     - id: '20168'
       num: '53'
       name: ЭРЛИХ-НАХМАНСОН Максим Иванович
+      rowinpage: '5'
       spravka: true
 - pageintom: '65'
   image: v06/17-171-414-065.jpg
+  title: null
   sublists:
   - sublid: '403'
     persons:
     - id: '20169'
       num: '1'
       name: ГОРДЕЕВА Елизавета Дмитриевна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ГОРЬКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '20170'
       num: '2'
       name: ДУППУР Серафима Мартыновна
+      rowinpage: '2'
       spravka: true
     - id: '20171'
       num: '3'
       name: ПОПУГАЕВ Константин Николаевич
+      rowinpage: '3'
       spravka: true

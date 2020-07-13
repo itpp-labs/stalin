@@ -1,9 +1,10 @@
 id: '371'
 title: Список лиц - г.Свердловск,ж.д. им.Кагановича // от 3 февраля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '305'
 date: '1938-02-03'
+date_ru: 03.02.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,120 +30,150 @@ sublists:
 pages:
 - pageintom: '305'
   image: v06/17-171-414-305.jpg
+  title: null
   sublists: []
 - pageintom: '306'
   image: v06/17-171-414-306.jpg
+  title: null
   sublists: []
 - pageintom: '307'
   image: v06/17-171-414-307.jpg
+  title: null
   sublists:
   - sublid: '420'
     persons:
     - id: '23197'
       num: '1'
       name: БАСТРИКОВ Никита Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>гор.СВЕРДЛОВСК - ЖЕЛЕЗНАЯ ДОРОГА им.КАГАНОВИЧА
         </u></p><p align="right"><u>1-я категория:</u>
     - id: '23198'
       num: '2'
       name: БЕЛЬСКИЙ Николай Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '23199'
       num: '3'
       name: ВАСИЛЬЕВ Прокопий Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '23200'
       num: '4'
       name: ВЕТЛУГИН Александр Егорович
+      rowinpage: '4'
       spravka: true
     - id: '23201'
       num: '5'
       name: КАРПОВ Степан Павлович
+      rowinpage: '5'
       spravka: true
     - id: '23202'
       num: '6'
       name: КОЛМОГОРЦЕВ Илья Александрович
+      rowinpage: '6'
     - id: '23203'
       num: '7'
       name: КОМАРИН Петр Семенович
+      rowinpage: '7'
     - id: '23204'
       num: '8'
       name: КОСТЕНКОВ Захар Яковлевич
+      rowinpage: '8'
     - id: '23205'
       num: '9'
       name: ЛИФШИЦ Арон Колманович
+      rowinpage: '9'
       spravka: true
     - id: '23206'
       num: '10'
       name: МЕДВЕДЕВ Захар Васильевич
+      rowinpage: '10'
       spravka: true
     - id: '23207'
       num: '11'
       name: МЕРКУРЬЕВ Николай Васильевич
+      rowinpage: '11'
     - id: '23208'
       num: '12'
       name: МОРУГИЙ Степан Иванович
+      rowinpage: '12'
       spravka: true
     - id: '23209'
       num: '13'
       name: НАГИБИН Борис Александрович
+      rowinpage: '13'
       spravka: true
     - id: '23210'
       num: '14'
       name: ПЕРЕЗОЛОВ Василий Иванович
+      rowinpage: '14'
       spravka: true
     - id: '23211'
       num: '15'
       name: ПОПОВ Дмитрий Иванович
+      rowinpage: '15'
       spravka: true
     - id: '23212'
       num: '16'
       name: ПОПЦОВ Михаил Кузьмич
+      rowinpage: '16'
       spravka: true
     - id: '23213'
       num: '17'
       name: РОМАНОВ Николай Валерьянович
+      rowinpage: '17'
       spravka: true
     - id: '23214'
       num: '18'
       name: СИТНИКОВ Павел Александрович
+      rowinpage: '18'
       spravka: true
     - id: '23215'
       num: '19'
       name: СОРОКИН Петр Иванович
+      rowinpage: '19'
       spravka: true
     - id: '23216'
       num: '20'
       name: СТЕРХОВ Николай Иванович
+      rowinpage: '20'
       spravka: true
     - id: '23217'
       num: '21'
       name: СУББОТИН Иван Иванович
+      rowinpage: '21'
       spravka: true
 - pageintom: '308'
   image: v06/17-171-414-308.jpg
+  title: г.Свердловск,ж.д. им.Кагановича
   sublists:
   - sublid: '420'
     persons:
     - id: '23218'
       num: '22'
       name: СУВОРОВ Василий Устинович
+      rowinpage: '1'
       spravka: true
     - id: '23219'
       num: '23'
       name: ФЕДЕНЕВ Александр Павлович
+      rowinpage: '2'
       spravka: true
     - id: '23220'
       num: '24'
       name: ЧИЖИК Дмитрий Иванович
+      rowinpage: '3'
       spravka: true
     - id: '23221'
       num: '25'
       name: ШАХГИЛЬДЯН Ваган Петрович
+      rowinpage: '4'
       spravka: true
     - id: '23222'
       num: '1'
       name: ТРАПЕЗНИКОВ Дорофей Иванович
+      rowinpage: '5'
       spravka: true
       subtitle1: <p align="center"><u>2-я категория:</u>

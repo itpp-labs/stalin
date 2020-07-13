@@ -1,9 +1,10 @@
 id: '124'
 title: Список лиц - Москва-центр // 7 декабря 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '124'
 date: '1937-12-07'
+date_ru: 07.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,59 +29,73 @@ sublists:
 pages:
 - pageintom: '124'
   image: v05/17-171-413-124.jpg
+  title: null
   sublists: []
 - pageintom: '125'
   image: v05/17-171-413-125.jpg
+  title: null
   sublists:
   - sublid: '81'
     persons:
     - id: '15512'
       num: '1'
       name: АЛЕКСЕЕВ Николай Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(быв.сотрудники НКВД)<u>
         </u></p><p align="right"><u>1-я категория</u>
     - id: '15513'
       num: '2'
       name: БЕЛИКОВ Василий Саввич
+      rowinpage: '2'
       spravka: true
     - id: '15514'
       num: '3'
       name: ГАВРИЛКЕВИЧ Григорий Викторович
+      rowinpage: '3'
       spravka: true
     - id: '15515'
       num: '4'
       name: ГЛИНСКИЙ (СМИРНОВ) Станислав Мартынович
+      rowinpage: '4'
       spravka: true
     - id: '15516'
       num: '5'
       name: ДЖАВАТ Хасан Мамедович
+      rowinpage: '5'
       spravka: true
     - id: '15517'
       num: '6'
       name: ИВАНОВ Василий Тимофеевич
+      rowinpage: '6'
       spravka: true
     - id: '15518'
       num: '7'
       name: МЕЛЬЦЕР Николай Иосифович
+      rowinpage: '7'
       spravka: true
     - id: '15519'
       num: '8'
       name: МИНГУЛИН Иван Георгиевич
+      rowinpage: '8'
       spravka: true
     - id: '15520'
       num: '9'
       name: МИРОНОВА Надежда Григорьевна
+      rowinpage: '9'
       spravka: true
     - id: '15521'
       num: '10'
       name: МЯННИК Павел Адамович
+      rowinpage: '10'
       spravka: true
     - id: '15522'
       num: '11'
       name: ОНЕГИН, он же ГОРСКИЙ-ОРЛОВ Евгений Николаевич
+      rowinpage: '11'
       spravka: true
     - id: '15523'
       num: '12'
       name: ПИНТАЛЬ Станислав Францевич
+      rowinpage: '12'
       spravka: true

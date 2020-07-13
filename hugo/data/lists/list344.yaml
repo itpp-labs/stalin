@@ -1,9 +1,10 @@
 id: '344'
 title: Список лиц - Москва-центр // 3 I 38
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '86'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,43 +30,53 @@ sublists:
 pages:
 - pageintom: '86'
   image: v06/17-171-414-086.jpg
+  title: null
   sublists: []
 - pageintom: '87'
   image: v06/17-171-414-087.jpg
+  title: null
   sublists:
   - sublid: '405'
     persons:
     - id: '20448'
       num: '1'
       name: БАК Борис Аркадьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u><br /><u> (бывшие сотрудники
         НКВД) </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '20449'
       num: '2'
       name: БАРКОВСКИЙ-ШАШКОВ Александр Николаевич
+      rowinpage: '2'
       spravka: true
     - id: '20450'
       num: '3'
       name: ГОЛЬДА Матвей Львович
+      rowinpage: '3'
       spravka: true
     - id: '20451'
       num: '4'
       name: ДЕНИСЕВИЧ Владимир Ильич
+      rowinpage: '4'
       spravka: true
     - id: '20452'
       num: '5'
       name: МИРАМ Ян Христофорович
+      rowinpage: '5'
       spravka: true
     - id: '20453'
       num: '6'
       name: РАХЛИС Пейсах Меерович
+      rowinpage: '6'
       spravka: true
     - id: '20454'
       num: '7'
       name: РУБИНОВ-ШТИЛЬ Петр Оскарович
+      rowinpage: '7'
       spravka: true
     - id: '20455'
       num: '8'
       name: САДНОМОН Радна Базар
+      rowinpage: '8'
       spravka: true

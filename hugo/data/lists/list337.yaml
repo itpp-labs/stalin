@@ -2,9 +2,10 @@ id: '337'
 title: Список лиц - Воронежская,Калининская,Северная области,Крымская АССР // от 3
   января 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '26'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -66,204 +67,253 @@ sublists:
 pages:
 - pageintom: '26'
   image: v06/17-171-414-026.jpg
+  title: null
   sublists: []
 - pageintom: '27'
   image: v06/17-171-414-027.jpg
+  title: null
   sublists: []
 - pageintom: '28'
   image: v06/17-171-414-028.jpg
+  title: null
   sublists:
   - sublid: '439'
     persons:
     - id: '19658'
       num: '1'
       name: АЛЕКСЕЕВ Сергей Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОРОНЕЖСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '19659'
       num: '2'
       name: БАЖАНОВ Николай Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '19660'
       num: '3'
       name: ЖАРКОВ Иван Иосифович
+      rowinpage: '3'
       spravka: true
     - id: '19661'
       num: '4'
       name: КАГАН Григорий Яковлевич
+      rowinpage: '4'
       spravka: true
     - id: '19662'
       num: '5'
       name: КАГАН Давид Соломонович
+      rowinpage: '5'
       spravka: true
     - id: '19663'
       num: '6'
       name: КОГАН Александр Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '19664'
       num: '7'
       name: КОТОВ Николай Яковлевич
+      rowinpage: '7'
       spravka: true
     - id: '19665'
       num: '8'
       name: ЛАВЫГИН Борис Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '19666'
       num: '9'
       name: МИРОВИЦКИЙ Павел Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '19667'
       num: '10'
       name: МИХАЙЛОВ Александр Васильевич
+      rowinpage: '10'
       spravka: true
     - id: '19668'
       num: '11'
       name: ПАРИНОВ Петр Федорович
+      rowinpage: '11'
       spravka: true
     - id: '19669'
       num: '12'
       name: ПЕВЗНЕР Владимир Семенович
+      rowinpage: '12'
       spravka: true
     - id: '19670'
       num: '13'
       name: ПОВОЛОЦКИЙ Михаил Абрамович
+      rowinpage: '13'
       spravka: true
     - id: '19671'
       num: '14'
       name: ПОЛУХИН Даниил Павлович
+      rowinpage: '14'
       spravka: true
     - id: '19672'
       num: '15'
       name: РЕШЕТНЯК Федор Федорович
+      rowinpage: '15'
       spravka: true
     - id: '19673'
       num: '16'
       name: РОДИОНОВ Иван Иванович
+      rowinpage: '16'
       spravka: true
     - id: '19674'
       num: '17'
       name: РОЗЕНЦВЕЙГ Вульф Семенович
+      rowinpage: '17'
       spravka: true
     - id: '19675'
       num: '18'
       name: ФРУМКИН Валерий Соломонович
+      rowinpage: '18'
       spravka: true
 - pageintom: '29'
   image: v06/17-171-414-029.jpg
+  title: Воронежская область
   sublists:
   - sublid: '439'
     persons:
     - id: '19676'
       num: '19'
       name: ШАПИРО Давид Абрамович
+      rowinpage: '1'
       spravka: true
     - id: '19677'
       num: '20'
       name: ШАШИРИН Александр Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '19678'
       num: '21'
       name: ШИППЕР Михаил Борисович
+      rowinpage: '3'
       spravka: true
 - pageintom: '30'
   image: v06/17-171-414-030.jpg
+  title: null
   sublists:
   - sublid: '439'
     persons:
     - id: '19679'
       num: '1'
       name: БОЖКО Василий Степанович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОРОНЕЖСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '19680'
       num: '2'
       name: БУХАРИН Сергей Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '19681'
       num: '3'
       name: ВОРОБЬЕВ Владимир Федорович
+      rowinpage: '3'
       spravka: true
     - id: '19682'
       num: '4'
       name: ПОЛОСУХИН Григорий Иванович
+      rowinpage: '4'
       spravka: true
     - id: '19683'
       num: '5'
       name: СЕРТАКОВ Николай Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '19684'
       num: '6'
       name: УЛЬЯНИШЕВ Владимир Митрофанович
+      rowinpage: '6'
       spravka: true
 - pageintom: '31'
   image: v06/17-171-414-031.jpg
+  title: null
   sublists:
   - sublid: '440'
     persons:
     - id: '19685'
       num: '1'
       name: БЕЛЯЕВ Иван Степанович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КАЛИНИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '19686'
       num: '2'
       name: БОРОДИН Семен Семенович
+      rowinpage: '2'
     - id: '19687'
       num: '3'
       name: ВОСКРЕСЕНСКИЙ Александр Александрович
+      rowinpage: '3'
     - id: '19688'
       num: '4'
       name: ИВАНОВ Василий Федорович
+      rowinpage: '4'
     - id: '19689'
       num: '5'
       name: ЧЛЕНОВ Исидор Николаевич
+      rowinpage: '5'
     - id: '19690'
       num: '6'
       name: ШТАФИНСКИЙ Аркадий Ильич
+      rowinpage: '6'
 - pageintom: '32'
   image: v06/17-171-414-032.jpg
+  title: null
   sublists:
   - sublid: '441'
     persons:
     - id: '19691'
       num: '1'
       name: ПОДОЛЬСКИЙ Исаак Моисеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СЕВЕРНАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '19692'
       num: '2'
       name: СМОРЧКОВ Михаил Алексеевич
+      rowinpage: '2'
     - id: '19693'
       num: '3'
       name: ШАГОВ Николай Васильевич
+      rowinpage: '3'
 - pageintom: '33'
   image: v06/17-171-414-033.jpg
+  title: null
   sublists:
   - sublid: '441'
     persons:
     - id: '19694'
       num: '1'
       name: ВЕПРЕВ Иван Яковлевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СЕВЕРНАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '19695'
       num: '2'
       name: ГОНЧАРОВ Арсений Николаевич
+      rowinpage: '2'
     - id: '19696'
       num: '3'
       name: ЦЕЛИНСКИЙ Генрих Александрович
+      rowinpage: '3'
 - pageintom: '34'
   image: v06/17-171-414-034.jpg
+  title: null
   sublists:
   - sublid: '442'
     persons:
     - id: '19697'
       num: '1'
       name: ИВАНОВ Василий Григорьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>

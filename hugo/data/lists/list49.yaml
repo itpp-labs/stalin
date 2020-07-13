@@ -1,9 +1,10 @@
 id: '49'
 title: 'Список лиц: Москва-центр, Московская обл. // 31 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '116'
 date: '1937-07-31'
+date_ru: 31.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -43,192 +44,237 @@ sublists:
 pages:
 - pageintom: '116'
   image: v02/17-171-410-116.jpg
+  title: null
   sublists: []
 - pageintom: '117'
   image: v02/17-171-410-117.jpg
+  title: null
   sublists: []
 - pageintom: '118'
   image: v02/17-171-410-118.jpg
+  title: null
   sublists:
   - sublid: '192'
     persons:
     - id: '4622'
       num: '1'
       name: АВИН Рудольф Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '4623'
       num: '2'
       name: АДАМОВ Герман Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '4624'
       num: '3'
       name: АДРИАНОВ Николай Павлович
+      rowinpage: '3'
       spravka: true
     - id: '4625'
       num: '4'
       name: БАЛОДИС Ян Петрович
+      rowinpage: '4'
       spravka: true
     - id: '4626'
       num: '5'
       name: БАРСУКОВ Борис Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '4627'
       num: '6'
       name: БАУЭР Алексей Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '4628'
       num: '7'
       name: БЕККЕР Гуго Эдуардович
+      rowinpage: '7'
       spravka: true
     - id: '4629'
       num: '8'
       name: ВИЛЬКОВЫССКИЙ Владимир Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '4630'
       num: '9'
       name: ВИНКЛЕР Владимир Владимирович
+      rowinpage: '9'
       spravka: true
     - id: '4631'
       num: '10'
       name: ВОЛЯНСКИЙ Николай Владимирович
+      rowinpage: '10'
       spravka: true
     - id: '4632'
       num: '11'
       name: ГЕРАСИМОВ Алексей Федорович
+      rowinpage: '11'
       spravka: true
     - id: '4633'
       num: '12'
       name: ГЮБНЕР Иван Александрович
+      rowinpage: '12'
       spravka: true
     - id: '4634'
       num: '13'
       name: КАПУСТИНСКИЙ Николай Иванович
+      rowinpage: '13'
       spravka: true
     - id: '4635'
       num: '14'
       name: КАРПОВИЧ Дмитрий Александрович
+      rowinpage: '14'
       spravka: true
     - id: '4636'
       num: '15'
       name: КАШТАЛЕВ Владимир Саввич
+      rowinpage: '15'
       spravka: true
     - id: '4637'
       num: '16'
       name: КРАСИНСКИЙ (ЛАДОВСКИЙ) Фердинанд Станиславович
+      rowinpage: '16'
       spravka: true
     - id: '4638'
       num: '17'
       name: КЮНЕР Густав Эдуардович
+      rowinpage: '17'
       spravka: true
     - id: '4639'
       num: '18'
       name: ЛАЙЦЕНЕС Линард Петрович
+      rowinpage: '18'
       spravka: true
     - id: '4640'
       num: '19'
       name: ЛАПИН Артур Петрович
+      rowinpage: '19'
       spravka: true
     - id: '4641'
       num: '20'
       name: МЕЙЕР-ЗАХАРОВ Лев Николаевич
+      rowinpage: '20'
       spravka: true
     - id: '4642'
       num: '21'
       name: МЕЩЕРЯКОВ Козьма Антонович
+      rowinpage: '21'
       spravka: true
     - id: '4643'
       num: '22'
       name: НИКОЛЬСКИЙ Даниил Григорьевич
+      rowinpage: '22'
       spravka: true
     - id: '4644'
       num: '23'
       name: ПАНКРАТОВ Михаил Никанорович
+      rowinpage: '23'
       spravka: true
 - pageintom: '119'
   image: v02/17-171-410-119.jpg
+  title: Москва-центр
   sublists:
   - sublid: '192'
     persons:
     - id: '4645'
       num: '24'
       name: ПОПОВ Александр Николаевич
+      rowinpage: '1'
       spravka: true
     - id: '4646'
       num: '25'
       name: РУБЛЕВ Лев Яковлевич
+      rowinpage: '2'
       spravka: true
     - id: '4647'
       num: '26'
       name: САВИЧ, он же КИЗЕНКО Иван Иванович
+      rowinpage: '3'
       spravka: true
     - id: '4648'
       num: '27'
       name: СТРАУТИН-ЦИТРОН Альберт Замелович
+      rowinpage: '4'
       spravka: true
     - id: '4649'
       num: '28'
       name: СУДМАЛС Эмиль Гиртович
+      rowinpage: '5'
       spravka: true
     - id: '4650'
       num: '29'
       name: СУК Алексей Эдуардович
+      rowinpage: '6'
       spravka: true
     - id: '4651'
       num: '30'
       name: ЦИОНСКИЙ Ян Львович
+      rowinpage: '7'
       spravka: true
     - id: '4652'
       num: '31'
       name: ЦОНЕВ Иван Степанович
+      rowinpage: '8'
       spravka: true
     - id: '4653'
       num: '32'
       name: ШЕШЕНЯ-АДАРСКИЙ Леонид Николаевич, он же Данилович
+      rowinpage: '9'
       spravka: true
     - id: '4654'
       num: '33'
       name: ЯНКУС Оскар Фрицевич
+      rowinpage: '10'
       spravka: true
 - pageintom: '120'
   image: v02/17-171-410-120.jpg
+  title: null
   sublists:
   - sublid: '192'
     persons:
     - id: '4655'
       num: '1'
       name: КИПЕРС Юлий Янович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР. </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '4656'
       num: '2'
       name: КОРНИЕНКО Иван Осипович
+      rowinpage: '2'
       spravka: true
 - pageintom: '121'
   image: v02/17-171-410-121.jpg
+  title: null
   sublists:
   - sublid: '192'
     persons:
     - id: '4657'
       num: '1'
       name: РОЗЕНБАХ Фриц Карлович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ  </u><br /><u> МОСКВА-ЦЕНТР
         </u></p><p align="right"><u>2-я категория.</u>
 - pageintom: '122'
   image: v02/17-171-410-122.jpg
+  title: null
   sublists: []
 - pageintom: '123'
   image: v02/17-171-410-123.jpg
+  title: null
   sublists:
   - sublid: '193'
     persons:
     - id: '4658'
       num: '1'
       name: ЕГОРОВ Владимир Михайлович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
@@ -236,11 +282,14 @@ pages:
     - id: '4659'
       num: '2'
       name: МАРГОЛИН Гершл Давидович
+      rowinpage: '2'
       spravka: true
     - id: '4660'
       num: '3'
       name: ЦЕНАРИ Альберт Иванович
+      rowinpage: '3'
       spravka: true
     - id: '4661'
       num: '4'
       name: ЧЕРНЫХ Максим Петрович
+      rowinpage: '4'

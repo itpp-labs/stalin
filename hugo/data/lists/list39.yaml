@@ -1,9 +1,10 @@
 id: '39'
 title: 'Список лиц: г.Хабаровск // 10 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '42'
 date: '1937-07-10'
+date_ru: 10.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -27,112 +28,139 @@ sublists:
 pages:
 - pageintom: '42'
   image: v02/17-171-410-042.jpg
+  title: null
   sublists: []
 - pageintom: '43'
   image: v02/17-171-410-043.jpg
+  title: null
   sublists: []
 - pageintom: '44'
   image: v02/17-171-410-044.jpg
+  title: null
   sublists:
   - sublid: '30'
     persons:
     - id: '3848'
       num: '1'
       name: АФАНАСЬЕВ Леонид Георгиевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>Гор.
         ХАБАРОВСК.</u>
     - id: '3849'
       num: '2'
       name: БЕНЦ Илья Семенович
+      rowinpage: '2'
       spravka: true
     - id: '3850'
       num: '3'
       name: ГОЛОДЕЦ Вениамин Гелярдович
+      rowinpage: '3'
       spravka: true
     - id: '3851'
       num: '4'
       name: ЕФИМОВ Виктор Александрович
+      rowinpage: '4'
     - id: '3852'
       num: '5'
       name: ЗАЙДЕНШНИР Иван Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '3853'
       num: '6'
       name: ЗЕНЬКОВИЧ Федор Александрович
+      rowinpage: '6'
       spravka: true
     - id: '3854'
       num: '7'
       name: ИВАНОВ Сергей Константинович
+      rowinpage: '7'
       spravka: true
     - id: '3855'
       num: '8'
       name: КАЛЕНКО Евгений Алексеевич
+      rowinpage: '8'
       spravka: true
     - id: '3856'
       num: '9'
       name: КАРОЛЮНАС Бронислав Казимирович
+      rowinpage: '9'
       spravka: true
     - id: '3857'
       num: '10'
       name: КОРОБКИН Константин Никитич
+      rowinpage: '10'
       spravka: true
     - id: '3858'
       num: '11'
       name: ЛИФШИЦ Семен Робертович
+      rowinpage: '11'
       spravka: true
     - id: '3859'
       num: '12'
       name: МАЙСТРАХ Андрей Владимирович
+      rowinpage: '12'
       spravka: true
     - id: '3860'
       num: '13'
       name: МИХАЙЛОВСКИЙ Михаил Евдокимович
+      rowinpage: '13'
     - id: '3861'
       num: '14'
       name: НИКОЛАЕВ Сергей Андреевич
+      rowinpage: '14'
       spravka: true
     - id: '3862'
       num: '15'
       name: ОГАНЕЗОВ Павел Багратович
+      rowinpage: '15'
       spravka: true
     - id: '3863'
       num: '16'
       name: ПЧЕЛКИН Андрей Матвеевич
+      rowinpage: '16'
       spravka: true
     - id: '3864'
       num: '17'
       name: СЕВРИКОВ Александр Александрович
+      rowinpage: '17'
       spravka: true
     - id: '3865'
       num: '18'
       name: ФРУМКИН Юлий Федорович
+      rowinpage: '18'
       spravka: true
     - id: '3866'
       num: '19'
       name: ЦИММЕРМАН Илья Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '3867'
       num: '20'
       name: ШАПОВАЛОВ Григорий Иванович
+      rowinpage: '20'
       spravka: true
     - id: '3868'
       num: '21'
       name: ШЕРЕШЕВСКИЙ Леонид Захарович
+      rowinpage: '21'
       spravka: true
     - id: '24687'
       num: '22'
       name: ШКАНДЕЛЬ Алексей Максимович
+      rowinpage: '22'
       doublesexists: true
       spravka: true
 - pageintom: '45'
   image: v02/17-171-410-045.jpg
+  title: null
   sublists:
   - sublid: '30'
     persons:
     - id: '24678'
       num: '1'
       name: ШВАРЦБУРГ Семен Борисович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>Гор.

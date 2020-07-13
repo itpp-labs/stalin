@@ -1,9 +1,10 @@
 id: '8'
 title: Список лиц - Омская область // 5 апреля 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '72'
 date: '1937-04-05'
+date_ru: 05.04.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,199 +30,249 @@ sublists:
 pages:
 - pageintom: '72'
   image: v01/17-171-409-072.jpg
+  title: null
   sublists: []
 - pageintom: '73'
   image: v01/17-171-409-073.jpg
+  title: null
   sublists: []
 - pageintom: '74'
   image: v01/17-171-409-074.jpg
+  title: null
   sublists:
   - sublid: '5'
     persons:
     - id: '1224'
       num: '1'
       name: ГУСЕВ Василий Александрович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я КАТЕГОРИЯ.</u></p><p align="center"><u>ОМСКАЯ
         ОБЛАСТЬ.</u>
     - id: '1225'
       num: '2'
       name: ДМИТРИЕВ Николай Александрович
+      rowinpage: '2'
       spravka: true
     - id: '1226'
       num: '3'
       name: ДМИТРИЕВ Павел Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '1227'
       num: '4'
       name: ДМИТРИЕВ Петр Андреевич
+      rowinpage: '4'
       spravka: true
     - id: '1228'
       num: '5'
       name: ИОФФЕ Израиль Тевелевич
+      rowinpage: '5'
       spravka: true
     - id: '1229'
       num: '6'
       name: МАЛЫШЕВ Петр Андреевич
+      rowinpage: '6'
       spravka: true
     - id: '1230'
       num: '7'
       name: ПОЗДНЯКОВ Семен Семенович
+      rowinpage: '7'
       spravka: true
     - id: '1231'
       num: '8'
       name: РОЦКАН Петр Эдуардович
+      rowinpage: '8'
       spravka: true
     - id: '1232'
       num: '9'
       name: ТАРАСОВ Алексей Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '1233'
       num: '10'
       name: ЦЮНСКИЙ Константин Антонович
+      rowinpage: '10'
       spravka: true
 - pageintom: '75'
   image: v01/17-171-409-075.jpg
+  title: null
   sublists:
   - sublid: '5'
     persons:
     - id: '1234'
       num: '1'
       name: АВЕРКИЕВА Вера Александровна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>II-я КАТЕГОРИЯ.</u></p><p align="center"><u>ОМСКАЯ
         ОБЛАСТЬ.</u>
     - id: '1235'
       num: '2'
       name: АНТИПОВА Александра Александровна
+      rowinpage: '2'
       spravka: true
     - id: '1236'
       num: '3'
       name: БУРЦЕВА Татьяна Васильевна
+      rowinpage: '3'
       spravka: true
     - id: '1237'
       num: '4'
       name: ВЫВОДЦЕВ Николай Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '1238'
       num: '5'
       name: ГАВРИЛОВ Георгий Гаврилович
+      rowinpage: '5'
     - id: '1239'
       num: '6'
       name: ГАВРИЛОВ Сергей Михайлович
+      rowinpage: '6'
     - id: '1240'
       num: '7'
       name: ГИРШОВИЧ Григорий Исаакович
+      rowinpage: '7'
       spravka: true
     - id: '1241'
       num: '8'
       name: ГУТЕР Георгий Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '1242'
       num: '9'
       name: ЕГОРОВ-КУДРЯШОВ Григорий Васильевич
+      rowinpage: '9'
     - id: '1243'
       num: '10'
       name: ЖУКОВ Зинон Иванович
+      rowinpage: '10'
       spravka: true
     - id: '1244'
       num: '11'
       name: ЗЕЙТ Федор Романович
+      rowinpage: '11'
       spravka: true
     - id: '1245'
       num: '12'
       name: ИВЛИЕВ Николай Павлович
+      rowinpage: '12'
       spravka: true
     - id: '1246'
       num: '13'
       name: ИЛЛАРИОНОВ Павел Павлович
+      rowinpage: '13'
     - id: '1247'
       num: '14'
       name: ЛИВШИЦ Борис Ефимович
+      rowinpage: '14'
     - id: '1248'
       num: '15'
       name: МАГИД Израиль Шоломович
+      rowinpage: '15'
       spravka: true
     - id: '1249'
       num: '16'
       name: МАЗНИНА Зоя Михайловна
+      rowinpage: '16'
     - id: '1250'
       num: '17'
       name: МАЛЯЦКАЯ Мира Израилевна
+      rowinpage: '17'
       spravka: true
     - id: '1251'
       num: '18'
       name: МИРКИН Соломон Меерович
+      rowinpage: '18'
       spravka: true
     - id: '1252'
       num: '19'
       name: ОСВЕНСКИЙ Зиновий Абрамович
+      rowinpage: '19'
       spravka: true
     - id: '1253'
       num: '20'
       name: ПЕСТРЯКОВА Анна Георгиевна
+      rowinpage: '20'
       spravka: true
     - id: '1254'
       num: '21'
       name: ПОЛОМОДОВ Леонид Федосеевич
+      rowinpage: '21'
       spravka: true
     - id: '1255'
       num: '22'
       name: РОГАТИНСКАЯ Минна Григорьевна
+      rowinpage: '22'
       spravka: true
     - id: '1256'
       num: '23'
       name: СВЕРЕЖЕВ Василий Ефимович
+      rowinpage: '23'
 - pageintom: '76'
   image: v01/17-171-409-076.jpg
+  title: Омская область
   sublists:
   - sublid: '5'
     persons:
     - id: '1257'
       num: '24'
       name: ТАРТАКОВСКАЯ Юлия Борисовна
+      rowinpage: '1'
       spravka: true
     - id: '1258'
       num: '25'
       name: ТИШКИН Андрей Максимович
+      rowinpage: '2'
     - id: '1259'
       num: '26'
       name: УШАРЕНКО Ефим Львович
+      rowinpage: '3'
       spravka: true
     - id: '1260'
       num: '27'
       name: ФЕДЕР Эйдля Абрамовна
+      rowinpage: '4'
       spravka: true
     - id: '1261'
       num: '28'
       name: ЦАДКИН Иосиф Григорьевич
+      rowinpage: '5'
       spravka: true
     - id: '1262'
       num: '29'
       name: ЦЕРЕТЕЛЛИ Иосиф Багратович
+      rowinpage: '6'
       spravka: true
     - id: '1263'
       num: '30'
       name: ЧЕРЕПАХИН Василий Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '1264'
       num: '31'
       name: ШАРОВ, он же КЛЮЕВ Иван Филиппович
+      rowinpage: '8'
     - id: '1265'
       num: '32'
       name: ШУШАРИН Филипп Сергеевич
+      rowinpage: '9'
       spravka: true
     - id: '1266'
       num: '33'
       name: ЮДИН Александр Александрович
+      rowinpage: '10'
 - pageintom: '77'
   image: v01/17-171-409-077.jpg
+  title: null
   sublists:
   - sublid: '5'
     persons:
     - id: '1267'
       num: '1'
       name: ЛЕВИН Давид Маркович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>3-я КАТЕГОРИЯ.</u></p><p align="center"><u>ОМСКАЯ
         ОБЛАСТЬ</u>

@@ -1,9 +1,10 @@
 id: '143'
 title: Список лиц - Москва-центр // 22 / XII
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '311'
 date: '1937-12-22'
+date_ru: 22.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,27 +30,33 @@ sublists:
 pages:
 - pageintom: '311'
   image: v05/17-171-413-311.jpg
+  title: null
   sublists: []
 - pageintom: '312'
   image: v05/17-171-413-312.jpg
+  title: null
   sublists:
   - sublid: '92'
     persons:
     - id: '18443'
       num: '1'
       name: ВАЛУКИНА Галина Ивановна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА - ЦЕНТР</u><br />(быв.сотрудники НКВД).<u>
         </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '18444'
       num: '2'
       name: ГОПИУС Евгений Евгеньевич
+      rowinpage: '2'
       spravka: true
     - id: '18445'
       num: '3'
       name: НИКОЛАЕВ Николай Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '18446'
       num: '4'
       name: ШИШЕЛОВА, она же МАРКОВА Лидия Николаевна
+      rowinpage: '4'
       spravka: true

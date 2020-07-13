@@ -1,9 +1,10 @@
 id: '196'
 title: Список лиц - Челябинская область // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
+  ref: РГАСПИ, ф.17, оп.171, дело 418
   page1: '55'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,198 +29,250 @@ sublists:
 pages:
 - pageintom: '55'
   image: v10/17-171-418-055.jpg
+  title: null
   sublists: []
 - pageintom: '56'
   image: v10/17-171-418-056.jpg
+  title: null
   sublists: []
 - pageintom: '57'
   image: v10/17-171-418-057.jpg
+  title: null
   sublists:
   - sublid: '132'
     persons:
     - id: '37618'
       num: '1'
       name: АНЦЕЛЕВИЧ Григорий Александрович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '37619'
       num: '2'
       name: ВАСИЛЕВСКИЙ Евгений Викторович
+      rowinpage: '2'
       spravka: true
     - id: '37620'
       num: '3'
       name: ВАСИЛЕВСКИЙ Михаил Викторович
+      rowinpage: '3'
       spravka: true
     - id: '37621'
       num: '4'
       name: ВЯТКИН Александр Алексеевич
+      rowinpage: '4'
       spravka: true
     - id: '37622'
       num: '5'
       name: ГАНЮШИН Михаил Андреевич
+      rowinpage: '5'
       spravka: true
     - id: '37623'
       num: '6'
       name: ГОЛУБИЦКИЙ Федор Иванович
+      rowinpage: '6'
       spravka: true
     - id: '37624'
       num: '7'
       name: ГОРЯЕВ Лев Николаевич
+      rowinpage: '7'
       spravka: true
     - id: '37625'
       num: '8'
       name: ГРОНСКИЙ Феликс Станиславович
+      rowinpage: '8'
       spravka: true
     - id: '37626'
       num: '9'
       name: ГУСЕВ Михаил Иванович
+      rowinpage: '9'
       spravka: true
     - id: '37627'
       num: '10'
       name: ГУСЕВ Павел Яковлевич
+      rowinpage: '10'
       spravka: true
     - id: '37628'
       num: '11'
       name: ЗИНОВЬЕВ Федор Александрович
+      rowinpage: '11'
       spravka: true
     - id: '37629'
       num: '12'
       name: ИНОЗЕМЦЕВ Виктор Дмитриевич
+      rowinpage: '12'
       spravka: true
     - id: '37630'
       num: '13'
       name: КАЛАБУХОВ Николай Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '37631'
       num: '14'
       name: КЛОКОВ Сергей Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '37632'
       num: '15'
       name: КРОТОВ Иван Яковлевич
+      rowinpage: '15'
       spravka: true
     - id: '37633'
       num: '16'
       name: КУВАЙЦЕВ Иван Григорьевич
+      rowinpage: '16'
       spravka: true
     - id: '37634'
       num: '17'
       name: КУДИНОВ Михаил Герасимович
+      rowinpage: '17'
       spravka: true
     - id: '37635'
       num: '18'
       name: КУЗНЕЦОВ Николай Алексеевич
+      rowinpage: '18'
       spravka: true
     - id: '37636'
       num: '19'
       name: КУЛИКОВ Василий Андреевич
+      rowinpage: '19'
       spravka: true
     - id: '37637'
       num: '20'
       name: ЛЕХНЕР Владимир Иванович
+      rowinpage: '20'
       spravka: true
     - id: '37638'
       num: '21'
       name: ЛЮБЕЦКИЙ Александр Филиппович
+      rowinpage: '21'
     - id: '37639'
       num: '22'
       name: МОВШЕНЗОН Абрам Рафаилович
+      rowinpage: '22'
       spravka: true
 - pageintom: '58'
   image: v10/17-171-418-058.jpg
+  title: Челябинская область
   sublists:
   - sublid: '132'
     persons:
     - id: '37640'
       num: '23'
       name: МОКШАНЦЕВ Петр Иванович
+      rowinpage: '1'
     - id: '37641'
       num: '24'
       name: МУХАЧЕВ Александр Кузьмич
+      rowinpage: '2'
       spravka: true
     - id: '37642'
       num: '25'
       name: НЕСТОР Александр Александрович
+      rowinpage: '3'
       spravka: true
     - id: '37643'
       num: '26'
       name: НИКОЛАЕВ Александр Николаевич
+      rowinpage: '4'
     - id: '37644'
       num: '27'
       name: ОСИНИН Петр Александрович
+      rowinpage: '5'
     - id: '37645'
       num: '28'
       name: ПИВОВАРОВ Иван Степанович
+      rowinpage: '6'
     - id: '37646'
       num: '29'
       name: ПИОНЕРСКИЙ Ким Мухаметович
+      rowinpage: '7'
       spravka: true
     - id: '37647'
       num: '30'
       name: ПРОТАСОВ Александр Александрович
+      rowinpage: '8'
     - id: '37648'
       num: '31'
       name: СЕМЕНОВ Александр Никандрович
+      rowinpage: '9'
     - id: '37649'
       num: '32'
       name: СКВОРЦОВ Василий Алексеевич
+      rowinpage: '10'
     - id: '37650'
       num: '33'
       name: СОВА Иван Михайлович
+      rowinpage: '11'
     - id: '37651'
       num: '34'
       name: ФИЛИППОВ Василий Васильевич
+      rowinpage: '12'
     - id: '37652'
       num: '35'
       name: ФРИДМАН Давид Александрович
+      rowinpage: '13'
       spravka: true
     - id: '37653'
       num: '36'
       name: ХОРЕШКО Иосиф Акимович
+      rowinpage: '14'
     - id: '37654'
       num: '37'
       name: ЧЕДИА Константин Михайлович
+      rowinpage: '15'
       spravka: true
     - id: '37655'
       num: '38'
       name: ШТЕРНБЕРГ Александр Маркович
+      rowinpage: '16'
     - id: '37656'
       num: '39'
       name: ЩЕРБОВИЧ Анатолий Адамович
+      rowinpage: '17'
 - pageintom: '59'
   image: v10/17-171-418-059.jpg
+  title: null
   sublists:
   - sublid: '132'
     persons:
     - id: '37657'
       num: '1'
       name: БОСИН Иван Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
     - id: '37658'
       num: '2'
       name: ЗИТИЕВ Яков Игнатьевич
+      rowinpage: '2'
       spravka: true
     - id: '37659'
       num: '3'
       name: КИСЕЛЕВ Александр Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '37660'
       num: '4'
       name: МОХОВ Николай Иванович
+      rowinpage: '4'
       spravka: true
     - id: '37661'
       num: '5'
       name: НЕЧЕТНЫЙ Семен Борисович
+      rowinpage: '5'
       spravka: true
     - id: '37662'
       num: '6'
       name: РУГАЛЕВ Николай Павлович
+      rowinpage: '6'
     - id: '37663'
       num: '7'
       name: ТЕРЕХОВ Алексей Григорьевич
+      rowinpage: '7'
     - id: '37664'
       num: '8'
       name: ТУРКИН Георгий Тимофеевич
+      rowinpage: '8'

@@ -2,9 +2,10 @@ id: '336'
 title: Список лиц - Тамбовская,Ярославская,Ленинградская области,Белорусская ССР //
   3 января 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '20'
 date: '1938-01-03'
+date_ru: 03.01.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -70,156 +71,193 @@ sublists:
 pages:
 - pageintom: '20'
   image: v06/17-171-414-020.jpg
+  title: null
   sublists: []
 - pageintom: '21'
   image: v06/17-171-414-021.jpg
+  title: null
   sublists: []
 - pageintom: '22'
   image: v06/17-171-414-022.jpg
+  title: null
   sublists:
   - sublid: '435'
     persons:
     - id: '19627'
       num: '1'
       name: АСТАХОВ Яков Дмитриевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '19628'
       num: '2'
       name: БЕРКИС Ян Андреевич
+      rowinpage: '2'
     - id: '19629'
       num: '3'
       name: БОЧЕК Григорий Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '19630'
       num: '4'
       name: ВЕНКОВ Яков Алексеевич
+      rowinpage: '4'
     - id: '19631'
       num: '5'
       name: ДМОХОВСКИЙ Николай Генрихович
+      rowinpage: '5'
       spravka: true
     - id: '19632'
       num: '6'
       name: ДУРНИН Михаил Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '19633'
       num: '7'
       name: КАРПОВ Сергей Васильевич
+      rowinpage: '7'
       spravka: true
     - id: '19634'
       num: '8'
       name: КОВЫРШИН Пантелеймон Александрович
+      rowinpage: '8'
       spravka: true
     - id: '19635'
       num: '9'
       name: КОЗЛОВСКИЙ Павел Алексеевич
+      rowinpage: '9'
       spravka: true
     - id: '19636'
       num: '10'
       name: КУШЛЯНСКИЙ Николай Евлампиевич
+      rowinpage: '10'
       spravka: true
     - id: '19637'
       num: '11'
       name: НИКОЛАЕВ Петр Ефимович
+      rowinpage: '11'
       spravka: true
     - id: '19638'
       num: '12'
       name: ПАРАМОНОВ Михаил Авдеевич
+      rowinpage: '12'
       spravka: true
     - id: '19639'
       num: '13'
       name: ПОКРОВСКИЙ Алексей Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '19640'
       num: '14'
       name: РЕНАРД-ФУКС Адольф Львович
+      rowinpage: '14'
     - id: '19641'
       num: '15'
       name: СЕДОВ Геннадий Федорович
+      rowinpage: '15'
       spravka: true
     - id: '19642'
       num: '16'
       name: СЕМЕНОВ Илья Георгиевич
+      rowinpage: '16'
       spravka: true
     - id: '19643'
       num: '17'
       name: ТАРАСОВ Александр Дмитриевич
+      rowinpage: '17'
       spravka: true
     - id: '19644'
       num: '18'
       name: ФИЛАТОВ Петр Федорович
+      rowinpage: '18'
       spravka: true
     - id: '19645'
       num: '19'
       name: ШИШКИН Борис Александрович
+      rowinpage: '19'
     - id: '19646'
       num: '20'
       name: ЯНСЕН Елена Ивановна
+      rowinpage: '20'
       spravka: true
 - pageintom: '23'
   image: v06/17-171-414-023.jpg
+  title: null
   sublists:
   - sublid: '436'
     persons:
     - id: '19647'
       num: '1'
       name: ГАЙДУКЕВИЧ Владимир Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '19648'
       num: '2'
       name: ЕЛЕНИН Василий Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '19649'
       num: '3'
       name: ЛИТВИНОВ Алексей Семенович
+      rowinpage: '3'
       spravka: true
     - id: '19650'
       num: '4'
       name: ЛЯПИН Иван Иванович
+      rowinpage: '4'
       spravka: true
     - id: '19651'
       num: '5'
       name: МРОЗ Мартемьян Константинович
+      rowinpage: '5'
       spravka: true
     - id: '19652'
       num: '6'
       name: ЯМПОЛЬСКИЙ Лазарь Хаимович
+      rowinpage: '6'
       spravka: true
     - id: '19653'
       num: '1'
       name: ДЕНИСОВ Павел Васильевич
+      rowinpage: '7'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория</u>
     - id: '19654'
       num: '2'
       name: МУРОВАННЫЙ Константин Тихонович
+      rowinpage: '8'
       spravka: true
 - pageintom: '24'
   image: v06/17-171-414-024.jpg
+  title: null
   sublists:
   - sublid: '437'
     persons:
     - id: '19655'
       num: '1'
       name: ВАВИЛОВ Михаил Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '19656'
       num: '2'
       name: ЯКСОН Ян Петрович
+      rowinpage: '2'
       spravka: true
 - pageintom: '25'
   image: v06/17-171-414-025.jpg
+  title: null
   sublists:
   - sublid: '438'
     persons:
     - id: '19657'
       num: '1'
       name: СОБЯНИН Арефий Павлович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ ССР </u></p><p align="right"><u>1-я
         категория</u>

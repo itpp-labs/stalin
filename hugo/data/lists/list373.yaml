@@ -2,9 +2,10 @@ id: '373'
 title: Список лиц - Смоленская область; Ржев.Калининская ж.д.; Свердловская,Сталинградская
   области // от 3 февраля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.6, оп.171, дело 414
+  ref: РГАСПИ, ф.17, оп.171, дело 414
   page1: '314'
 date: '1938-02-03'
+date_ru: 03.02.1938
 tom: 6
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -70,100 +71,122 @@ sublists:
 pages:
 - pageintom: '314'
   image: v06/17-171-414-314.jpg
+  title: null
   sublists: []
 - pageintom: '315'
   image: v06/17-171-414-315.jpg
+  title: null
   sublists: []
 - pageintom: '316'
   image: v06/17-171-414-316.jpg
+  title: null
   sublists:
   - sublid: '477'
     persons:
     - id: '23271'
       num: '1'
       name: ВОЙНОВСКИЙ Виктор Кузьмич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СМОЛЕНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '23272'
       num: '2'
       name: ГОРУНОВИЧ Афанасий Афанасьевич
+      rowinpage: '2'
       spravka: true
     - id: '23273'
       num: '3'
       name: ЛЕВИН Михаил Маркович
+      rowinpage: '3'
       spravka: true
     - id: '23274'
       num: '4'
       name: РОЗЕНШТЕЙН Александр Иосифович
+      rowinpage: '4'
       spravka: true
     - id: '23275'
       num: '5'
       name: ТИЛЬ Бруно Иванович
+      rowinpage: '5'
       spravka: true
     - id: '23276'
       num: '6'
       name: ФУРМАН Михаил Михайлович
+      rowinpage: '6'
       spravka: true
 - pageintom: '317'
   image: v06/17-171-414-317.jpg
+  title: null
   sublists:
   - sublid: '478'
     persons:
     - id: '23277'
       num: '1'
       name: БОРАТЫНСКИЙ Роман Львович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>РЖЕВ. КАЛИНИНСКАЯ жел.дор.</u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '23278'
       num: '2'
       name: ГОДОВИКОВ Александр Митрофанович
+      rowinpage: '2'
       spravka: true
     - id: '23279'
       num: '3'
       name: ИРБЕНЕК Леонид Карлович
+      rowinpage: '3'
       spravka: true
     - id: '23280'
       num: '4'
       name: ЛОМАНОВ Леонид Гаврилович
+      rowinpage: '4'
     - id: '23281'
       num: '5'
       name: МАНДРУКЕВИЧ Николай Иосифович
+      rowinpage: '5'
     - id: '23282'
       num: '6'
       name: РУДЕНКО Иван Георгиевич
+      rowinpage: '6'
       spravka: true
 - pageintom: '318'
   image: v06/17-171-414-318.jpg
+  title: null
   sublists:
   - sublid: '478'
     persons:
     - id: '23283'
       num: '1'
       name: МУРЛАЕВ Григорий Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>РЖЕВ. КАЛИНИНСКАЯ жел.дор.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
 - pageintom: '319'
   image: v06/17-171-414-319.jpg
+  title: null
   sublists:
   - sublid: '479'
     persons:
     - id: '23284'
       num: '1'
       name: ВОЛКОВА Анна Георгиевна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
 - pageintom: '320'
   image: v06/17-171-414-320.jpg
+  title: null
   sublists:
   - sublid: '480'
     persons:
     - id: '23285'
       num: '1'
       name: УДАЛОВ Сергей Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>

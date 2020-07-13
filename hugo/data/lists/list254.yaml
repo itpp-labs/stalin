@@ -1,9 +1,10 @@
 id: '254'
 title: Список лиц - Дальне-Восточный край // от 5 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '39'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,75 +30,91 @@ sublists:
 pages:
 - pageintom: '32'
   image: v07/17-171-415-032.jpg
+  title: null
   sublists: []
 - pageintom: '33'
   image: v07/17-171-415-033.jpg
+  title: null
   sublists: []
 - pageintom: '34'
   image: v07/17-171-415-034.jpg
+  title: null
   sublists:
   - sublid: '511'
     persons:
     - id: '26231'
       num: '1'
       name: САМАРСКИЙ Павел Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '26232'
       num: '1'
       name: НИКОЛАЕВ Василий Филиппович
+      rowinpage: '2'
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ</u>
 - pageintom: '35'
   image: v07/17-171-415-035.jpg
+  title: null
   sublists:
   - sublid: '512'
     persons:
     - id: '26233'
       num: '1'
       name: ГАЙМЛЕР Георгий Генрихович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '26234'
       num: '2'
       name: ФРИАУФ Александр Фридрихович
+      rowinpage: '2'
     - id: '26235'
       num: '3'
       name: ШНЕЙДЕР Фридрих Конрадович
+      rowinpage: '3'
       spravka: true
     - id: '26236'
       num: '1'
       name: КРУППАН Константин Васильевич
+      rowinpage: '4'
       spravka: true
       subtitle1: <p align="center"><u>САРАТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '26237'
       num: '2'
       name: ЮРК Давид Давидович
+      rowinpage: '5'
       spravka: true
 - pageintom: '36'
   image: v07/17-171-415-036.jpg
+  title: null
   sublists:
   - sublid: '513'
     persons:
     - id: '26238'
       num: '1'
       name: ДИТМАР Гельмут Георгиевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ТУЛЬСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '26239'
       num: '2'
       name: ДОБРОХОТОВ Константин Дмитриевич
+      rowinpage: '2'
       spravka: true
 - pageintom: '37'
   image: v07/17-171-415-037.jpg
+  title: null
   sublists:
   - sublid: '514'
     persons:
     - id: '26240'
       num: '1'
       name: АВАКЬЯН Баграт Савадович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>АРМЯНСКАЯ ССР </u></p><p align="right"><u>1-я
@@ -105,193 +122,244 @@ pages:
     - id: '26241'
       num: '2'
       name: ЗАХАРЬЯН Ашот Георгиевич
+      rowinpage: '2'
       spravka: true
     - id: '26242'
       num: '3'
       name: КУРАНЯН Гарегин Алексеевич
+      rowinpage: '3'
       spravka: true
 - pageintom: '38'
   image: v07/17-171-415-038.jpg
+  title: null
   sublists:
   - sublid: '515'
     persons:
     - id: '26243'
       num: '1'
       name: ЗАБОРОВСКИЙ Виктор Брониславович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
 - pageintom: '39'
   image: v07/17-171-415-039.jpg
+  title: null
   sublists: []
 - pageintom: '40'
   image: v07/17-171-415-040.jpg
+  title: null
   sublists: []
 - pageintom: '41'
   image: v07/17-171-415-041.jpg
+  title: null
   sublists:
   - sublid: '484'
     persons:
     - id: '26244'
       num: '1'
       name: АБРАМОВ Петр Кириллович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ.</u>
     - id: '26245'
       num: '2'
       name: АЗАНОВ Борис Иванович
+      rowinpage: '2'
     - id: '26246'
       num: '3'
       name: АКСЕНОВ Александр Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '26247'
       num: '4'
       name: АЛЕКСАНДРОВ Борис Валентинович
+      rowinpage: '4'
       spravka: true
     - id: '26248'
       num: '5'
       name: АНДРЕЕВ Михаил Андреевич
+      rowinpage: '5'
     - id: '26249'
       num: '6'
       name: АЧАТОВ Ульян Кириллович
+      rowinpage: '6'
       spravka: true
     - id: '26250'
       num: '7'
       name: БИБЕРГАН Марк Абрамович
+      rowinpage: '7'
       spravka: true
     - id: '26251'
       num: '8'
       name: БИБИКОВ Дмитрий Владимирович
+      rowinpage: '8'
       spravka: true
     - id: '26252'
       num: '9'
       name: БОЖКО Виталий Тарасович
+      rowinpage: '9'
       spravka: true
     - id: '26253'
       num: '10'
       name: ВЛАДИМИРОВ Моисей Александрович
+      rowinpage: '10'
       spravka: true
     - id: '26254'
       num: '11'
       name: ГОЛАНИН Геннадий Тимофеевич
+      rowinpage: '11'
     - id: '26255'
       num: '12'
       name: ГРАВЕЛЬ Эрнест Эрнестович
+      rowinpage: '12'
     - id: '26256'
       num: '13'
       name: ДМИТРИЕНКО Иван Степанович
+      rowinpage: '13'
       spravka: true
     - id: '26257'
       num: '14'
       name: ЖИТНЮК Иван Демьянович
+      rowinpage: '14'
       spravka: true
     - id: '26258'
       num: '15'
       name: ЗАЙЦЕВ Андрей Андреевич
+      rowinpage: '15'
       spravka: true
     - id: '26259'
       num: '16'
       name: ИЗОКОВ Борис Исаакович
+      rowinpage: '16'
     - id: '26260'
       num: '17'
       name: КАЛМЫКОВ Дмитрий Иванович
+      rowinpage: '17'
       spravka: true
     - id: '26261'
       num: '18'
       name: КАПТЕНОР Андрей Ильич
+      rowinpage: '18'
       spravka: true
     - id: '26262'
       num: '19'
       name: КАРАСЕВ Николай Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '26263'
       num: '20'
       name: КИРШОН Абрам Соломонович
+      rowinpage: '20'
       spravka: true
     - id: '26264'
       num: '21'
       name: КОЖАНОВ Валентин Евгеньевич
+      rowinpage: '21'
       spravka: true
     - id: '26265'
       num: '22'
       name: КОЗЛОВ Петр Григорьевич
+      rowinpage: '22'
       spravka: true
 - pageintom: '42'
   image: v07/17-171-415-042.jpg
+  title: Дальне-Восточный край
   sublists:
   - sublid: '484'
     persons:
     - id: '26266'
       num: '23'
       name: КОЛЕСНИЧЕНКО Иван Афанасьевич
+      rowinpage: '1'
     - id: '26267'
       num: '24'
       name: КОСОЛАПОВ Андриан Иванович
+      rowinpage: '2'
       spravka: true
     - id: '26268'
       num: '25'
       name: КОТЫЛЕВСКИЙ Сергей Иванович
+      rowinpage: '3'
     - id: '26269'
       num: '26'
       name: КРАЕВСКИЙ Бранислав Игнатьевич
+      rowinpage: '4'
       spravka: true
     - id: '26270'
       num: '27'
       name: ЛАНГЕРМАН Вениамин Моисеевич
+      rowinpage: '5'
     - id: '26271'
       num: '28'
       name: ЛИСОВСКИЙ Анатолий Корнилович
+      rowinpage: '6'
       spravka: true
     - id: '26272'
       num: '29'
       name: ЛЫСЕНКО Дмитрий Васильевич
+      rowinpage: '7'
     - id: '26273'
       num: '30'
       name: МАСЕВИЦКИЙ Исаак Ефимович
+      rowinpage: '8'
       spravka: true
     - id: '26274'
       num: '31'
       name: МИХЛИН Семен Маркович
+      rowinpage: '9'
     - id: '26275'
       num: '32'
       name: ОРЛОВ Александр Ефимович
+      rowinpage: '10'
     - id: '26276'
       num: '33'
       name: ПАВЛОВ Владимир Александрович
+      rowinpage: '11'
       spravka: true
     - id: '26277'
       num: '34'
       name: ПАЛЛОН Карл Николаевич
+      rowinpage: '12'
     - id: '26278'
       num: '35'
       name: ПОЛЕНИЦА Федор Прокопьевич
+      rowinpage: '13'
       spravka: true
     - id: '26279'
       num: '36'
       name: ПОПОВ Николай Александрович
+      rowinpage: '14'
       spravka: true
     - id: '26280'
       num: '37'
       name: СЕРДЮКОВ Иннокентий Александрович
+      rowinpage: '15'
       spravka: true
     - id: '26281'
       num: '38'
       name: ТОМАШЕВСКИЙ Иван Иосифович
+      rowinpage: '16'
     - id: '26282'
       num: '39'
       name: ТРУХАНИН Михаил Захарович
+      rowinpage: '17'
       spravka: true
     - id: '26283'
       num: '40'
       name: ШЕЛКОВНИКОВА Тамара Евгеньевна
+      rowinpage: '18'
     - id: '26284'
       num: '41'
       name: ШИЛКИН Василий Яковлевич
+      rowinpage: '19'
       spravka: true
     - id: '26285'
       num: '42'
       name: ЭРАК Марк Ильич
+      rowinpage: '20'
     - id: '26286'
       num: '43'
       name: ЮРЬЕВ Трофим Степанович
+      rowinpage: '21'
       spravka: true

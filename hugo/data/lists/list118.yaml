@@ -1,9 +1,10 @@
 id: '118'
 title: Список лиц - Свердловская область, ж.д.им.Кагановича // 22 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '73'
 date: '1937-11-22'
+date_ru: 22.11.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -40,354 +41,440 @@ sublists:
 pages:
 - pageintom: '73'
   image: v05/17-171-413-073.jpg
+  title: null
   sublists: []
 - pageintom: '74'
   image: v05/17-171-413-074.jpg
+  title: null
   sublists: []
 - pageintom: '75'
   image: v05/17-171-413-075.jpg
+  title: null
   sublists:
   - sublid: '266'
     persons:
     - id: '14972'
       num: '1'
       name: БАИШЕВ Хабибулла Насипович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '14973'
       num: '2'
       name: БОГАЧЕВ Георгий Сергеевич
+      rowinpage: '2'
       spravka: true
     - id: '14974'
       num: '3'
       name: БУШУЕВ Владимир Григорьевич
+      rowinpage: '3'
       spravka: true
     - id: '14975'
       num: '4'
       name: ВАНДЫШЕВ Федот Яковлевич
+      rowinpage: '4'
       spravka: true
     - id: '30858'
       num: '5'
       name: ВАСИЛЬЕВ Александр Александрович
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '14977'
       num: '6'
       name: ВЕПРЕВ Георгий Яковлевич
+      rowinpage: '6'
       spravka: true
     - id: '14978'
       num: '7'
       name: ВИКУЛОВ Александр Иванович
+      rowinpage: '7'
       spravka: true
     - id: '14979'
       num: '8'
       name: ГАЛИНИНСКИЙ Петр Федорович
+      rowinpage: '8'
       spravka: true
     - id: '14980'
       num: '9'
       name: ГИЛЕВ Петр Макарович
+      rowinpage: '9'
       spravka: true
     - id: '14981'
       num: '10'
       name: ГЛОД Федор Евдокимович
+      rowinpage: '10'
       spravka: true
     - id: '14982'
       num: '11'
       name: ГОЛИК Иван Степанович
+      rowinpage: '11'
       spravka: true
     - id: '14983'
       num: '12'
       name: ГУРАСТОВ Константин Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '14984'
       num: '13'
       name: ДОКУЧИЦ Семен Иванович
+      rowinpage: '13'
       spravka: true
     - id: '36560'
       num: '14'
       name: ДОЛЖАНСКИЙ Александр Иванович
+      rowinpage: '14'
       doublesexists: true
       spravka: true
     - id: '14986'
       num: '15'
       name: ЕРМОЛОВИЧ Александр Александрович
+      rowinpage: '15'
       spravka: true
     - id: '14987'
       num: '16'
       name: ЕФИМОВ Михаил Дмитриевич
+      rowinpage: '16'
       spravka: true
     - id: '14988'
       num: '17'
       name: ЗВЕРЕВ Яков Демидович
+      rowinpage: '17'
       spravka: true
     - id: '14989'
       num: '18'
       name: ЗИЛЛЕ Николай Яковлевич
+      rowinpage: '18'
     - id: '14990'
       num: '19'
       name: ИНИШЕВ Алексей Григорьевич
+      rowinpage: '19'
       spravka: true
     - id: '14991'
       num: '20'
       name: КАЛАШНИКОВ Федор Ильич
+      rowinpage: '20'
       spravka: true
     - id: '14992'
       num: '21'
       name: КЛОД Владимир Эдуардович
+      rowinpage: '21'
       spravka: true
     - id: '14993'
       num: '22'
       name: КОЗЛОВ Василий Никитович
+      rowinpage: '22'
       spravka: true
     - id: '14994'
       num: '23'
       name: КОРМИЛОВ Иван Алексеевич
+      rowinpage: '23'
       spravka: true
     - id: '14995'
       num: '24'
       name: ЛЕОНИДОВ Александр Михайлович
+      rowinpage: '24'
       spravka: true
     - id: '14996'
       num: '25'
       name: МЕЛЬНИКОВ Иван Иванович
+      rowinpage: '25'
       spravka: true
     - id: '14997'
       num: '26'
       name: МЕРМАН Ефим Михайлович
+      rowinpage: '26'
       spravka: true
 - pageintom: '76'
   image: v05/17-171-413-076.jpg
+  title: Свердловская область
   sublists:
   - sublid: '266'
     persons:
     - id: '14998'
       num: '27'
       name: МЕШКО Александр Болеславович
+      rowinpage: '1'
       spravka: true
     - id: '14999'
       num: '28'
       name: НИЗИН Семен Миронович
+      rowinpage: '2'
       spravka: true
     - id: '15000'
       num: '29'
       name: НИКИТИН Леонид Петрович
+      rowinpage: '3'
       spravka: true
     - id: '15001'
       num: '30'
       name: НИКОНОВ Никифор Филиппович
+      rowinpage: '4'
       spravka: true
     - id: '15002'
       num: '31'
       name: ПАНКОВ Федор Яковлевич
+      rowinpage: '5'
     - id: '15003'
       num: '32'
       name: ПЕЛЕВИН Александр Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '15004'
       num: '33'
       name: ПЕТРУШИН Сергей Яковлевич
+      rowinpage: '7'
       spravka: true
     - id: '15005'
       num: '34'
       name: ПЛЕХАНОВ Григорий Иванович
+      rowinpage: '8'
       spravka: true
     - id: '15006'
       num: '35'
       name: ПЛЮСНИН Павел Георгиевич
+      rowinpage: '9'
       spravka: true
     - id: '15007'
       num: '36'
       name: РАХМАТУЛЛИН Касим Кадырович
+      rowinpage: '10'
       spravka: true
     - id: '15008'
       num: '37'
       name: СОЛОВЬЕВ Сергей Александрович
+      rowinpage: '11'
       spravka: true
     - id: '15009'
       num: '38'
       name: СТАРКОВ Анатолий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '15010'
       num: '39'
       name: СТАФЕЕВ Иван Никонович
+      rowinpage: '13'
       spravka: true
     - id: '15011'
       num: '40'
       name: СТЕПАНОВ Алексей Федорович
+      rowinpage: '14'
     - id: '15012'
       num: '41'
       name: ТАРИК Владимир Михайлович
+      rowinpage: '15'
       spravka: true
     - id: '15013'
       num: '42'
       name: ТЕРЕНТЬЕВ Сергей Николаевич
+      rowinpage: '16'
       spravka: true
     - id: '15014'
       num: '43'
       name: ТУМАНОВИЧ Михаил Иванович
+      rowinpage: '17'
       spravka: true
     - id: '15015'
       num: '44'
       name: ФИРСОВ Павел Петрович
+      rowinpage: '18'
       spravka: true
     - id: '15016'
       num: '45'
       name: ФОМИНЫХ Георгий Христофорович
+      rowinpage: '19'
       spravka: true
     - id: '15017'
       num: '46'
       name: ШАПИРО Аркадий Борисович
+      rowinpage: '20'
       spravka: true
     - id: '15018'
       num: '47'
       name: ЯЦИНО Константин Францевич
+      rowinpage: '21'
       spravka: true
 - pageintom: '77'
   image: v05/17-171-413-077.jpg
+  title: null
   sublists:
   - sublid: '266'
     persons:
     - id: '15019'
       num: '1'
       name: БРОДЕЛЬЩИКОВ Дмитрий Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '15020'
       num: '2'
       name: ВОФСИ Исаак Менделеевич
+      rowinpage: '2'
       spravka: true
     - id: '15021'
       num: '3'
       name: ГАК Семен Самсонович
+      rowinpage: '3'
       spravka: true
     - id: '15022'
       num: '4'
       name: ИСТОМИН Яков Алексеевич
+      rowinpage: '4'
       spravka: true
     - id: '15023'
       num: '5'
       name: КОНДАКОВ Константин Максимович
+      rowinpage: '5'
       spravka: true
     - id: '15024'
       num: '6'
       name: ЛОШКИН Макар Федорович
+      rowinpage: '6'
       spravka: true
     - id: '15025'
       num: '7'
       name: МЕРКУШЕВ Кесарь Иванович
+      rowinpage: '7'
       spravka: true
     - id: '15026'
       num: '8'
       name: ПРИСЛОНОВ Кузьма Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '15027'
       num: '9'
       name: ПРОКОПЬЕВ Николай Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '15028'
       num: '10'
       name: СУНДУКОВ Алексей Дмитриевич
+      rowinpage: '10'
       spravka: true
     - id: '15029'
       num: '11'
       name: ТАНЯЕВ Александр Петрович
+      rowinpage: '11'
       spravka: true
     - id: '15030'
       num: '12'
       name: ТИХОНОВ Илья Николаевич
+      rowinpage: '12'
       spravka: true
     - id: '15031'
       num: '13'
       name: ФИЛАТОВ Александр Иванович
+      rowinpage: '13'
       spravka: true
     - id: '15032'
       num: '14'
       name: ШИРИНКИН Василий Павлович
+      rowinpage: '14'
       spravka: true
     - id: '15033'
       num: '15'
       name: ШИРИНКИН Петр Иванович
+      rowinpage: '15'
       spravka: true
     - id: '15034'
       num: '16'
       name: ЮГОВ Александр Викторович
+      rowinpage: '16'
       spravka: true
 - pageintom: '78'
   image: v05/17-171-413-078.jpg
+  title: null
   sublists:
   - sublid: '267'
     persons:
     - id: '15035'
       num: '1'
       name: ГЕРАСИМЕНКО Петр Никитич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>гор.СВЕРДЛОВСК - Ж.Д. им.КАГАНОВИЧА </u></p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '15036'
       num: '2'
       name: ДЕРЯГИН Василий Ефимович
+      rowinpage: '2'
       spravka: true
     - id: '15037'
       num: '3'
       name: МАШАРОВ Петр Антропович
+      rowinpage: '3'
       spravka: true
     - id: '15038'
       num: '4'
       name: ПОНОМАРЕВ Иван Ильич
+      rowinpage: '4'
       spravka: true
     - id: '15039'
       num: '5'
       name: ПОНОМАРЕВ Иван Матвеевич
+      rowinpage: '5'
       spravka: true
     - id: '15040'
       num: '6'
       name: РЫСИН Александр Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '15041'
       num: '7'
       name: ХУХАРОВ Иван Иванович
+      rowinpage: '7'
       spravka: true
     - id: '15042'
       num: '8'
       name: ЩЕРБА Константин Кондратьевич
+      rowinpage: '8'
       spravka: true
 - pageintom: '79'
   image: v05/17-171-413-079.jpg
+  title: null
   sublists:
   - sublid: '267'
     persons:
     - id: '15043'
       num: '1'
       name: БАРКОВ Захар Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>гор.СВЕРДЛОВСК - Ж.Д. им.КАГАНОВИЧА </u></p><p
         align="right"><u>2 КАТЕГОРИЯ.</u>
     - id: '15044'
       num: '2'
       name: ГАВРИЛОВА Анастасия Ивановна
+      rowinpage: '2'
       spravka: true
     - id: '15045'
       num: '3'
       name: ГАЕВ Петр Николаевич
+      rowinpage: '3'
       spravka: true
     - id: '15046'
       num: '4'
       name: КУЗНЕЦОВ Михаил Павлович
+      rowinpage: '4'
       spravka: true
     - id: '15047'
       num: '5'
       name: СМИРНЯГИН Алексей Фирсович
+      rowinpage: '5'
       spravka: true
     - id: '15048'
       num: '6'
       name: СОЛОВЬЕВ Анатолий Федорович
+      rowinpage: '6'
       spravka: true
     - id: '15049'
       num: '7'
       name: ТЕЗЯКОВА Евгения Ивановна
+      rowinpage: '7'
       spravka: true
     - id: '15050'
       num: '8'
       name: ШИЛДАЕВ Николай Сергеевич
+      rowinpage: '8'
       spravka: true

@@ -1,9 +1,10 @@
 id: '15'
 title: Список лиц - г.Ленинград // 6 мая 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '123'
 date: '1937-05-06'
+date_ru: 06.05.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -31,279 +32,350 @@ sublists:
 pages:
 - pageintom: '123'
   image: v01/17-171-409-123.jpg
+  title: null
   sublists: []
 - pageintom: '124'
   image: v01/17-171-409-124.jpg
+  title: null
   sublists: []
 - pageintom: '125'
   image: v01/17-171-409-125.jpg
+  title: null
   sublists:
   - sublid: '12'
     persons:
     - id: '1969'
       num: '1'
       name: БЕЛОЗЕРОВ Василий Николаевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>1-я категория</u></p><p align="center"><u>Гор.
         ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '1970'
       num: '2'
       name: ВДОВЕНКО Михаил Николаевич
+      rowinpage: '2'
       spravka: true
     - id: '1971'
       num: '3'
       name: КИСЕЛЕВ Гурий Иванович
+      rowinpage: '3'
       spravka: true
     - id: '1972'
       num: '4'
       name: ЛИС Ефим Самойлович
+      rowinpage: '4'
       spravka: true
     - id: '1973'
       num: '5'
       name: РОДИОНОВ Николай Александрович
+      rowinpage: '5'
       spravka: true
     - id: '1974'
       num: '6'
       name: ЦВИБАК Михаил Миронович
+      rowinpage: '6'
       spravka: true
     - id: '1975'
       num: '1'
       name: АВДАШЕВ Николай Кузьмич
+      rowinpage: '7'
       spravka: true
       subtitle1: <p align="center"><u>II. Правые:</u>
     - id: '1976'
       num: '2'
       name: АЛЕКСАНДРОВ Александр Григорьевич
+      rowinpage: '8'
       spravka: true
     - id: '1977'
       num: '3'
       name: АЛЕКСАНДРОВ Василий Александрович
+      rowinpage: '9'
       spravka: true
     - id: '1978'
       num: '4'
       name: БРАУХШТЕЙН Михаил Львович
+      rowinpage: '10'
       spravka: true
     - id: '1979'
       num: '5'
       name: ДАВЫДОВ Михаил Петрович
+      rowinpage: '11'
       spravka: true
     - id: '1980'
       num: '6'
       name: ЕВДОКИМОВ Петр Панкратьевич
+      rowinpage: '12'
       spravka: true
     - id: '1981'
       num: '7'
       name: ЗАЙДМАН Александр Михайлович
+      rowinpage: '13'
       spravka: true
     - id: '1982'
       num: '8'
       name: ЗУЕВ Иван Ефремович
+      rowinpage: '14'
       spravka: true
     - id: '1983'
       num: '9'
       name: КОМАРОВ Дмитрий Васильевич
+      rowinpage: '15'
       spravka: true
     - id: '1984'
       num: '10'
       name: КОРОЛЕВ Павел Николаевич
+      rowinpage: '16'
       spravka: true
     - id: '1985'
       num: '11'
       name: КОТОВ Иван Михайлович
+      rowinpage: '17'
       spravka: true
     - id: '1986'
       num: '12'
       name: ЛЕБЕДЕВ Анатолий Николаевич
+      rowinpage: '18'
       spravka: true
     - id: '1987'
       num: '13'
       name: ЛИСКИЕР Моисей Лазаревич
+      rowinpage: '19'
       spravka: true
     - id: '1988'
       num: '14'
       name: ЛУНЕВ Александр Иванович
+      rowinpage: '20'
       spravka: true
     - id: '1989'
       num: '15'
       name: ЛУЦУК Андрей Михайлович
+      rowinpage: '21'
       spravka: true
     - id: '1990'
       num: '16'
       name: МЕДВЕДЕВ Федор Ванифатьевич
+      rowinpage: '22'
       spravka: true
 - pageintom: '126'
   image: v01/17-171-409-126.jpg
+  title: г.Ленинград
   sublists:
   - sublid: '12'
     persons:
     - id: '1991'
       num: '17'
       name: ПАХНОВ Николай Васильевич
+      rowinpage: '1'
       spravka: true
     - id: '1992'
       num: '18'
       name: ПЕЧНИКОВ Григорий Иванович
+      rowinpage: '2'
       spravka: true
     - id: '1993'
       num: '19'
       name: ПИРОНЕН Николай Иванович
+      rowinpage: '3'
       spravka: true
     - id: '1994'
       num: '20'
       name: СВЕТИКОВ Иван Петрович
+      rowinpage: '4'
       spravka: true
     - id: '1995'
       num: '21'
       name: СЕРПОВ Василий Дмитриевич
+      rowinpage: '5'
       spravka: true
     - id: '1996'
       num: '22'
       name: СТАРЧАКОВ Александр Осипович
+      rowinpage: '6'
       spravka: true
     - id: '1997'
       num: '23'
       name: ТОВКАЧЕВ Антон Григорьевич
+      rowinpage: '7'
       spravka: true
     - id: '1998'
       num: '24'
       name: УВАРОВ Владимир Сергеевич
+      rowinpage: '8'
       spravka: true
     - id: '1999'
       num: '25'
       name: ФЕДОРОВ Иван Гаврилович
+      rowinpage: '9'
       spravka: true
     - id: '2000'
       num: '26'
       name: ФИНК Федор Федорович
+      rowinpage: '10'
       spravka: true
     - id: '2029'
       num: '27'
       name: ЧЕРНЫШЕВА Ольга Федоровна
+      rowinpage: '11'
       striked: true
       doublesexists: true
       spravka: true
 - pageintom: '127'
   image: v01/17-171-409-127.jpg
+  title: null
   sublists:
   - sublid: '12'
     persons:
     - id: '2002'
       num: '1'
       name: БЕЛЯЕВ Василий Александрович
+      rowinpage: '1'
       subtitle1: <p align="right"><u>II-я категория.</u></p><p align="center"><u>Гор.
         ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '2003'
       num: '2'
       name: ВИШНЯКОВ Иван Игнатьевич
+      rowinpage: '2'
       spravka: true
     - id: '2004'
       num: '3'
       name: ГОРЕЛОВ Анатолий Ефимович
+      rowinpage: '3'
       spravka: true
     - id: '2005'
       num: '4'
       name: ГЮССОН Альберт Густавович
+      rowinpage: '4'
     - id: '2006'
       num: '5'
       name: ЕРМАЧЕНКО Николай Фомич
+      rowinpage: '5'
     - id: '2007'
       num: '6'
       name: КАЛЕЙС Август Симонович
+      rowinpage: '6'
       spravka: true
     - id: '2008'
       num: '7'
       name: КЛИМЕНКО Вероника Викторовна
+      rowinpage: '7'
     - id: '2009'
       num: '8'
       name: МИХАЙЛОВ Александр Михайлович
+      rowinpage: '8'
     - id: '2010'
       num: '9'
       name: ПАВЛОВ Михаил Тимофеевич
+      rowinpage: '9'
     - id: '2011'
       num: '10'
       name: ПОЛЯК Лев Соломонович
+      rowinpage: '10'
       spravka: true
     - id: '2012'
       num: '11'
       name: РАКИТСКАЯ Елена Никодимовна
+      rowinpage: '11'
     - id: '2013'
       num: '12'
       name: РУСАКОВ Иван Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '2014'
       num: '13'
       name: САВИЦКИЙ Георгий Сидорович
+      rowinpage: '13'
     - id: '2015'
       num: '14'
       name: СТУКАТАНОВ Петр Васильевич
+      rowinpage: '14'
     - id: '2016'
       num: '1'
       name: АРХАРОВА Екатерина Николаевна
+      rowinpage: '15'
       subtitle1: <p align="center"><u>II. Правые:</u>
     - id: '12735'
       num: '2'
       name: ВОЛЬПЕ Александра Петровна
+      rowinpage: '16'
       doublesexists: true
       spravka: true
     - id: '2018'
       num: '3'
       name: ГОРДЕЕВ Николай Васильевич
+      rowinpage: '17'
     - id: '2019'
       num: '4'
       name: КАШИНЦЕВ Александр Семенович
+      rowinpage: '18'
     - id: '2020'
       num: '5'
       name: КОРОЛЕВА Надежда Матвеевна
+      rowinpage: '19'
     - id: '2021'
       num: '6'
       name: КОТОВА Евгения Афанасьевна
+      rowinpage: '20'
       spravka: true
     - id: '2022'
       num: '7'
       name: КУЛЕШОВ Михаил Федорович
+      rowinpage: '21'
     - id: '2023'
       num: '8'
       name: ЛЕОШКО Иосиф Доминикович
+      rowinpage: '22'
       spravka: true
 - pageintom: '128'
   image: v01/17-171-409-128.jpg
+  title: г.Ленинград
   sublists:
   - sublid: '12'
     persons:
     - id: '2024'
       num: '9'
       name: НИКОЛАЕВ Григорий Иванович
+      rowinpage: '1'
     - id: '2025'
       num: '10'
       name: РОЗЕНБЕРГ Александр Максимович
+      rowinpage: '2'
     - id: '2026'
       num: '11'
       name: СМИРНОВА-ЗАРАЙСКАЯ Татьяна Ивановна
+      rowinpage: '3'
     - id: '2027'
       num: '12'
       name: УГАРОВА Ольга Александровна
+      rowinpage: '4'
       spravka: true
     - id: '2028'
       num: '13'
       name: ФЕДОРОВ Михаил Николаевич
+      rowinpage: '5'
     - id: '2029'
       num: '14'
       name: ЧЕРНЫШОВА Ольга Федоровна [вписано от руки - перенесено из 1-й кат.]
+      rowinpage: '6'
       doublesexists: true
       spravka: true
 - pageintom: '129'
   image: v01/17-171-409-129.jpg
+  title: null
   sublists:
   - sublid: '12'
     persons:
     - id: '2030'
       num: '1'
       name: ЕРМАЧЕНКОВА Мария Александровна
+      rowinpage: '1'
       subtitle1: <p align="right"><u>III-я категория.</u></p><p align="center"><u>Гор.
         ЛЕНИНГРАД. </u><br /><u> I. Троцкисты:</u>
     - id: '2031'
       num: '1'
       name: НИКОЛАЕВА Анастасия Ивановна
+      rowinpage: '2'
       subtitle1: <p align="center"><u>II. Правые:</u>
     - id: '2032'
       num: '2'
       name: СМИРНОВА Серафима Александровна
+      rowinpage: '3'

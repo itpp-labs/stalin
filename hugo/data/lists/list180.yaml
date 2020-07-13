@@ -1,9 +1,10 @@
 id: '180'
 title: Список лиц - Белорусская ССР // от 10 июня 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '171'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,216 +28,273 @@ sublists:
 pages:
 - pageintom: '171'
   image: v09/17-171-417-171.jpg
+  title: null
   sublists: []
 - pageintom: '172'
   image: v09/17-171-417-172.jpg
+  title: null
   sublists: []
 - pageintom: '173'
   image: v09/17-171-417-173.jpg
+  title: null
   sublists:
   - sublid: '121'
     persons:
     - id: '35603'
       num: '1'
       name: АФАНАСЬЕВ Семен Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ ССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '35604'
       num: '2'
       name: АШАК Иван Юрьевич
+      rowinpage: '2'
       spravka: true
     - id: '35605'
       num: '3'
       name: БЕКАРЕВИЧ Георгий Афанасьевич
+      rowinpage: '3'
       spravka: true
     - id: '35606'
       num: '4'
       name: БРЫНКИС Август Юрьевич
+      rowinpage: '4'
     - id: '35607'
       num: '5'
       name: ВАЙНЕРХ (ВАНЯРХ) Дмитрий Ананьевич
+      rowinpage: '5'
       spravka: true
     - id: '35608'
       num: '6'
       name: ВОИНОВ Александр Борисович
+      rowinpage: '6'
     - id: '35609'
       num: '7'
       name: ВОСПЕННИКОВ Иван Иванович
+      rowinpage: '7'
     - id: '35610'
       num: '8'
       name: ВЫДРА Рувим Маркович
+      rowinpage: '8'
       spravka: true
     - id: '35611'
       num: '9'
       name: ГАНИН Василий Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '35612'
       num: '10'
       name: ГЕОРГАДЗЕ Пимен Павлович
+      rowinpage: '10'
       spravka: true
     - id: '35613'
       num: '11'
       name: ГРИНБЕРГ Индрик Александрович
+      rowinpage: '11'
       spravka: true
     - id: '35614'
       num: '12'
       name: ГУСАКОВ Василий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '35615'
       num: '13'
       name: ГУСЕВ Петр Прокофьевич
+      rowinpage: '13'
     - id: '35616'
       num: '14'
       name: ДМИТРИЕВ Федор Иосифович
+      rowinpage: '14'
       spravka: true
     - id: '35617'
       num: '15'
       name: ЖУКОВ Александр Никифорович
+      rowinpage: '15'
       spravka: true
     - id: '35618'
       num: '16'
       name: ЗЕДЫНЬ Жан Андреевич
+      rowinpage: '16'
       spravka: true
     - id: '35619'
       num: '17'
       name: ИВАНОВ Павел Дмитриевич
+      rowinpage: '17'
       spravka: true
     - id: '35620'
       num: '18'
       name: ИВАШКЕВИЧ Сильвестр Леонтьевич
+      rowinpage: '18'
     - id: '35621'
       num: '19'
       name: ЛАКИЗО Николай Захарович
+      rowinpage: '19'
       spravka: true
     - id: '35622'
       num: '20'
       name: ЛЕОНЕНОК Илья Леонтьевич
+      rowinpage: '20'
     - id: '35623'
       num: '21'
       name: ЛОДЭ Яков Ансович
+      rowinpage: '21'
     - id: '35624'
       num: '22'
       name: МАРЧЕВСКИЙ Алексей Петрович
+      rowinpage: '22'
     - id: '35625'
       num: '23'
       name: МАТВЕЕВ Евгений Алексеевич
+      rowinpage: '23'
     - id: '35626'
       num: '24'
       name: МЕЛЬНИК Степан Павлович
+      rowinpage: '24'
       spravka: true
 - pageintom: '174'
   image: v09/17-171-417-174.jpg
+  title: Белорусская ССР
   sublists:
   - sublid: '121'
     persons:
     - id: '35627'
       num: '25'
       name: МУЖИЛКО Игнатий Савельевич
+      rowinpage: '1'
     - id: '35628'
       num: '26'
       name: ОКУНЬ Берка Шлемович
+      rowinpage: '2'
       spravka: true
     - id: '35629'
       num: '27'
       name: ПАНКЕВИЧ Павел Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '35630'
       num: '28'
       name: ПАРЕЧИН Григорий Ефимович
+      rowinpage: '4'
       spravka: true
     - id: '35631'
       num: '29'
       name: ПОЛЯКОВ Михаил Кириллович
+      rowinpage: '5'
     - id: '35632'
       num: '30'
       name: РОМАНЫЧЕВ Фрол Александрович
+      rowinpage: '6'
     - id: '35633'
       num: '31'
       name: СЕНКЕВИЧ Александр Антонович
+      rowinpage: '7'
       spravka: true
     - id: '35634'
       num: '32'
       name: СОСКИН Роман Исаакович
+      rowinpage: '8'
     - id: '35635'
       num: '33'
       name: ТЫРНОВ Филипп Кузьмич
+      rowinpage: '9'
       spravka: true
     - id: '35636'
       num: '34'
       name: ТЯГИН Константин Александрович
+      rowinpage: '10'
     - id: '35637'
       num: '35'
       name: УНГЕФУХТ Федор Филиппович
+      rowinpage: '11'
     - id: '35638'
       num: '36'
       name: УСОВ Владимир Павлович
+      rowinpage: '12'
       spravka: true
     - id: '35639'
       num: '37'
       name: ФЕЛЬД Михаил Наумович
+      rowinpage: '13'
       spravka: true
     - id: '35640'
       num: '38'
       name: ХАНИН Николай Львович
+      rowinpage: '14'
       spravka: true
     - id: '35641'
       num: '39'
       name: ХАСКИН Самуил Беркович
+      rowinpage: '15'
       spravka: true
     - id: '35642'
       num: '40'
       name: ХОВРУНОВ Анатолий Игнатьевич
+      rowinpage: '16'
     - id: '35643'
       num: '41'
       name: ХОМЯКОВ Лука Казимирович
+      rowinpage: '17'
       spravka: true
     - id: '35644'
       num: '42'
       name: ЧЕРНУШЕВИЧ Дмитрий Силич
+      rowinpage: '18'
       spravka: true
     - id: '35645'
       num: '43'
       name: ШАЕВИЧ Мендель Абрамович
+      rowinpage: '19'
       spravka: true
     - id: '35646'
       num: '44'
       name: ШАПИРО Самуил Аронович
+      rowinpage: '20'
       spravka: true
     - id: '35647'
       num: '45'
       name: ШТЕЙНБЕРГ Август Иванович
+      rowinpage: '21'
     - id: '35648'
       num: '46'
       name: ЩЕРБАКОВ Василий Карпович
+      rowinpage: '22'
       spravka: true
 - pageintom: '175'
   image: v09/17-171-417-175.jpg
+  title: null
   sublists:
   - sublid: '121'
     persons:
     - id: '35649'
       num: '1'
       name: АЛЕХНОВИЧ Николай Николаевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ ССР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '35650'
       num: '2'
       name: БЕРКОВСКИЙ Израиль Борухович
+      rowinpage: '2'
       spravka: true
     - id: '35651'
       num: '3'
       name: ИВАНОВ Павел Ефимович
+      rowinpage: '3'
     - id: '35652'
       num: '4'
       name: МИРОЗУЕВ Михаил Дмитриевич
+      rowinpage: '4'
       spravka: true
     - id: '35653'
       num: '5'
       name: ПАРМОН Павел Павлович
+      rowinpage: '5'
       spravka: true
     - id: '35654'
       num: '6'
       name: СИГНАЛОВ Наум Соломонович
+      rowinpage: '6'
       spravka: true

@@ -1,9 +1,10 @@
 id: '225'
 title: 'Список лиц: Челябинская область // 15 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '57'
 date: '1937-09-15'
+date_ru: 15.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,163 +29,204 @@ sublists:
 pages:
 - pageintom: '57'
   image: v03/17-171-411-057.jpg
+  title: null
   sublists: []
 - pageintom: '58'
   image: v03/17-171-411-058.jpg
+  title: null
   sublists: []
 - pageintom: '59'
   image: v03/17-171-411-059.jpg
+  title: null
   sublists:
   - sublid: '348'
     persons:
     - id: '8253'
       num: '1'
       name: АЛЬПЕРОВИЧ Иосиф Борисович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '8254'
       num: '2'
       name: БАТУРКО Александр Иванович
+      rowinpage: '2'
       spravka: true
     - id: '8255'
       num: '3'
       name: БЕККЕР Эмиль Яковлевич
+      rowinpage: '3'
       spravka: true
     - id: '8256'
       num: '4'
       name: БОЛОТОВ Дмитрий Иванович
+      rowinpage: '4'
       spravka: true
     - id: '8257'
       num: '5'
       name: ВЕСЕЛОВСКИЙ Рихард Эрнстович
+      rowinpage: '5'
     - id: '8258'
       num: '6'
       name: ВИШНЯ Лев Абрамович
+      rowinpage: '6'
       spravka: true
     - id: '8259'
       num: '7'
       name: ГАБЕРЛ Кристиан Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '8260'
       num: '8'
       name: КЛИШЕВИЧ Николай Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '8261'
       num: '9'
       name: КОНТОРОВИЧ Овзер Нахимович
+      rowinpage: '9'
       spravka: true
     - id: '8262'
       num: '10'
       name: КУЗНЕЦЕВ Сергей Сидорович
+      rowinpage: '10'
       spravka: true
     - id: '8263'
       num: '11'
       name: ЛАНГЕ Генрих Генрихович
+      rowinpage: '11'
       spravka: true
     - id: '8264'
       num: '12'
       name: МАЗУНИН Григорий Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '8265'
       num: '13'
       name: МАЗУТ Иосиф Давидович
+      rowinpage: '13'
       spravka: true
     - id: '8266'
       num: '14'
       name: ОРЛЕНКО Тимофей Афиногенович
+      rowinpage: '14'
     - id: '8267'
       num: '15'
       name: ПАСОВСКИЙ Борис Иосифович
+      rowinpage: '15'
     - id: '8268'
       num: '16'
       name: ПАСТУХОВ Михаил Петрович
+      rowinpage: '16'
     - id: '8269'
       num: '17'
       name: ПЕТЦНИК Август Эрнстович
+      rowinpage: '17'
       spravka: true
     - id: '8270'
       num: '18'
       name: СОФРОНОВ Александр Романович
+      rowinpage: '18'
     - id: '8271'
       num: '19'
       name: ХМЕЛЕВ Михаил Матвеевич
+      rowinpage: '19'
     - id: '8272'
       num: '20'
       name: ЧАРОМСКАЯ Полина Львовна
+      rowinpage: '20'
       spravka: true
     - id: '8273'
       num: '21'
       name: ЧЕРЕПАНОВ Николай Алексеевич
+      rowinpage: '21'
     - id: '8274'
       num: '22'
       name: ЧЕРНЯ Иосиф Миронович
+      rowinpage: '22'
       spravka: true
     - id: '8275'
       num: '23'
       name: ШИКОЛАС Антон Валентинович
+      rowinpage: '23'
     - id: '8276'
       num: '24'
       name: ШИЛОВ Григорий Андреевич
+      rowinpage: '24'
       spravka: true
 - pageintom: '60'
   image: v03/17-171-411-060.jpg
+  title: null
   sublists:
   - sublid: '348'
     persons:
     - id: '8277'
       num: '1'
       name: РЕШ Иосиф Иосифович
+      rowinpage: '1'
       gb_spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>ЧЕЛЯБИНСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
 - pageintom: '61'
   image: v03/17-171-411-061.jpg
+  title: null
   sublists: []
 - pageintom: '62'
   image: v03/17-171-411-062.jpg
+  title: null
   sublists:
   - sublid: '348'
     persons:
     - id: '8278'
       num: '1'
       name: АДИАНОВ Александр Сигизмундович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '8279'
       num: '2'
       name: БАЛАНУЦА Николай Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '8280'
       num: '3'
       name: ВЕЖЕВ Борис Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '8281'
       num: '4'
       name: КАЗЯВИН Леонид Сергеевич
+      rowinpage: '4'
       spravka: true
     - id: '8282'
       num: '5'
       name: РОМОДАНОВ Иван Сергеевич
+      rowinpage: '5'
     - id: '8283'
       num: '6'
       name: ФАРБЕРОВ Марк Яковлевич
+      rowinpage: '6'
     - id: '8284'
       num: '7'
       name: ХУТОРСКОЙ Дмитрий Петрович
+      rowinpage: '7'
 - pageintom: '63'
   image: v03/17-171-411-063.jpg
+  title: null
   sublists:
   - sublid: '348'
     persons:
     - id: '8285'
       num: '1'
       name: ШЛЕЙДЕР Ганс Гансович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>ЧЕЛЯБИНСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>2-я категория</u>
 - pageintom: '64'
   image: v03/17-171-411-064.jpg
+  title: null
   sublists: []

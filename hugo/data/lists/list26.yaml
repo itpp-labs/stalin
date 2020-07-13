@@ -1,9 +1,10 @@
 id: '26'
 title: Список лиц - Армения // 25 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '199'
 date: '1937-06-25'
+date_ru: 25.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -29,108 +30,134 @@ sublists:
 pages:
 - pageintom: '199'
   image: v01/17-171-409-199.jpg
+  title: null
   sublists: []
 - pageintom: '200'
   image: v01/17-171-409-200.jpg
+  title: null
   sublists: []
 - pageintom: '201'
   image: v01/17-171-409-201.jpg
+  title: null
   sublists:
   - sublid: '23'
     persons:
     - id: '2998'
       num: '1'
       name: АГАМАЛЯН Рафаил Михайлович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>АРМЕНИЯ.</u>
     - id: '2999'
       num: '2'
       name: АРАКСЯН Аршак Рубенович
+      rowinpage: '2'
       spravka: true
     - id: '3000'
       num: '3'
       name: ВАДИКЯН Гурган Георгиевич
+      rowinpage: '3'
       spravka: true
     - id: '3001'
       num: '4'
       name: ВАКУНЦ Александр (Аксель) Степанович
+      rowinpage: '4'
       spravka: true
     - id: '3002'
       num: '5'
       name: ГАСПАРЯН-МЕЛОЯН Гаспар Малоевич
+      rowinpage: '5'
       spravka: true
     - id: '3003'
       num: '6'
       name: МАНУКЯН Петрос Ваганович
+      rowinpage: '6'
       spravka: true
     - id: '3004'
       num: '7'
       name: ПАРНАКЯН Мнацакян Урушанович
+      rowinpage: '7'
       spravka: true
     - id: '3005'
       num: '8'
       name: СТЕПАНЯН Нерсес Михайлович
+      rowinpage: '8'
     - id: '3006'
       num: '9'
       name: ТЕР-ВАГАНЯН Гндзак Арутюнович
+      rowinpage: '9'
       spravka: true
     - id: '3007'
       num: '10'
       name: ТЕР-СИМОНЯН Арастамат Асканазович
+      rowinpage: '10'
       spravka: true
     - id: '3008'
       num: '11'
       name: ХАЧАТРЯН Мнацакан (Мнац) Оганесович
+      rowinpage: '11'
       spravka: true
 - pageintom: '202'
   image: v01/17-171-409-202.jpg
+  title: null
   sublists:
   - sublid: '23'
     persons:
     - id: '3009'
       num: '1'
       name: АКОПЯН Амаяк Геворкович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>АРМЕНИЯ</u>
     - id: '3010'
       num: '2'
       name: БОХЬЯН Кенсабер Сергеевич
+      rowinpage: '2'
       spravka: true
     - id: '3011'
       num: '3'
       name: ВАГРАДЯН Вагармак Мкратчевич
+      rowinpage: '3'
       spravka: true
     - id: '3012'
       num: '4'
       name: ВАЛЕСЯН Грач Михакович
+      rowinpage: '4'
       spravka: true
     - id: '3013'
       num: '5'
       name: ГАЛОЯН Агаси Князьевич
+      rowinpage: '5'
       spravka: true
     - id: '3014'
       num: '6'
       name: КИРШЕНБЛАТ Михаил Давыдович
+      rowinpage: '6'
       spravka: true
     - id: '3015'
       num: '7'
       name: ОГАНЕСЯН Парагев Сарапионович
+      rowinpage: '7'
       spravka: true
     - id: '3016'
       num: '8'
       name: ПЕТРОСЯН Мамикон Саркисович
+      rowinpage: '8'
       spravka: true
     - id: '3017'
       num: '9'
       name: МАХБАЗЯН Сатрак Овсепович
+      rowinpage: '9'
 - pageintom: '203'
   image: v01/17-171-409-203.jpg
+  title: null
   sublists:
   - sublid: '23'
     persons:
     - id: '3018'
       num: '1'
       name: ЧАРХИФАЛАГЯН Гриша Сароевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>3-я категория.</u></p><p align="center"><u>АРМЕНИЯ</u>

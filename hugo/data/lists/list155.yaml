@@ -2,9 +2,10 @@ id: '155'
 title: Список лиц - Коми АССР, Кабардино-Балкарская АССР, Туркменская ССР // от 10
   июня 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '1'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -52,121 +53,151 @@ sublists:
 pages:
 - pageintom: '1'
   image: v09/17-171-417-001.jpg
+  title: null
   sublists: []
 - pageintom: '2'
   image: v09/17-171-417-002.jpg
+  title: null
   sublists: []
 - pageintom: '3'
   image: v09/17-171-417-003.jpg
+  title: null
   sublists:
   - sublid: '299'
     persons:
     - id: '33307'
       num: '1'
       name: БАТИЕВ Дмитрий Александрович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КОМИ АССР </u></p><p align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '33308'
       num: '2'
       name: БУЛЫШЕВ Федор Иванович
+      rowinpage: '2'
       spravka: true
     - id: '33309'
       num: '3'
       name: ГУЛЯЕВ-ЗАЙЦЕВ Сергей Александрович
+      rowinpage: '3'
       spravka: true
     - id: '33310'
       num: '4'
       name: ДЕРЯБИН Василий Иванович
+      rowinpage: '4'
     - id: '33311'
       num: '5'
       name: КАЛИНИН Михаил Иванович
+      rowinpage: '5'
     - id: '33312'
       num: '6'
       name: КОЮШЕВ Иван Григорьевич
+      rowinpage: '6'
       spravka: true
     - id: '33313'
       num: '7'
       name: МАТЮШЕВ Степан Федорович
+      rowinpage: '7'
       spravka: true
     - id: '33314'
       num: '8'
       name: МИНИН Михаил Петрович
+      rowinpage: '8'
       spravka: true
     - id: '33315'
       num: '9'
       name: СИДОРОВ Алексей Семенович
+      rowinpage: '9'
       spravka: true
     - id: '33316'
       num: '10'
       name: СТАРЦЕВ Георгий Афанасьевич
+      rowinpage: '10'
       spravka: true
     - id: '33317'
       num: '11'
       name: ТАРАКАНОВ Федор Гаврилович
+      rowinpage: '11'
       spravka: true
     - id: '33318'
       num: '12'
       name: ТЕРЕНТЬЕВ Михаил Ефимович
+      rowinpage: '12'
     - id: '33319'
       num: '13'
       name: ХАРАПОВ Михаил Николаевич
+      rowinpage: '13'
       spravka: true
     - id: '33320'
       num: '14'
       name: ЧЕУСОВ Алексей Александрович
+      rowinpage: '14'
       spravka: true
     - id: '33321'
       num: '15'
       name: ЧИСТАЛЕВ Вениамин Тимофеевич
+      rowinpage: '15'
       spravka: true
     - id: '33322'
       num: '16'
       name: ШВАРЦБУРГ Данил Исакович
+      rowinpage: '16'
       spravka: true
 - pageintom: '4'
   image: v09/17-171-417-004.jpg
+  title: null
   sublists:
   - sublid: '299'
     persons:
     - id: '33323'
       num: '1'
       name: ВАСИЛЬЕВ Александр Александрович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КОМИ АССР </u></p><p align="right"><u>2-я КАТЕГОРИЯ</u>
     - id: '33324'
       num: '2'
       name: КАНЕВ Иов Яковлевич
+      rowinpage: '2'
     - id: '33325'
       num: '3'
       name: НАДЕЕВ Алексей Николаевич
+      rowinpage: '3'
     - id: '33326'
       num: '4'
       name: ОПЛЕСНИН Прокопий Павлович
+      rowinpage: '4'
       spravka: true
 - pageintom: '5'
   image: v09/17-171-417-005.jpg
+  title: null
   sublists:
   - sublid: '300'
     persons:
     - id: '33327'
       num: '1'
       name: ВЕРХАМОВ Камбулат Темрюкович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КАБАРДИНО-БАЛКАРСКАЯ АССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '33328'
       num: '2'
       name: ТЛУПОВ Жираслан Талибович
+      rowinpage: '2'
     - id: '33329'
       num: '1'
       name: ТАБУХОВ Мухажир Адильгериевич
+      rowinpage: '3'
       spravka: true
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u>
 - pageintom: '6'
   image: v09/17-171-417-006.jpg
+  title: null
   sublists:
   - sublid: '301'
     persons:
     - id: '33330'
       num: '1'
       name: РУБИНШТЕЙН Яков Генрихович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ТУРКМЕНСКАЯ ССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>

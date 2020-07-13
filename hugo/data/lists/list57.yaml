@@ -2,9 +2,10 @@ id: '57'
 title: 'Список лиц: Азово-Черноморский, Западно-Сибирский, Красноярский края, Верхне-Уральская
   т-ма ОН // 10 августа 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '167'
 date: '1937-08-10'
+date_ru: 10.08.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -70,38 +71,47 @@ sublists:
 pages:
 - pageintom: '167'
   image: v02/17-171-410-167.jpg
+  title: null
   sublists: []
 - pageintom: '168'
   image: v02/17-171-410-168.jpg
+  title: null
   sublists: []
 - pageintom: '169'
   image: v02/17-171-410-169.jpg
+  title: null
   sublists:
   - sublid: '198'
     persons:
     - id: '5028'
       num: '1'
       name: ДЕНИСОВ Петр Михайлович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>АЗОВО-ЧЕРНОМОРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '5029'
       num: '2'
       name: ДУБРОВСКИЙ Франц Лаврентьевич
+      rowinpage: '2'
     - id: '5030'
       num: '3'
       name: ЗЕЗЮЛИН Георгий Сергеевич
+      rowinpage: '3'
       spravka: true
     - id: '5031'
       num: '4'
       name: НИКИТИН Владимир Кузьмич
+      rowinpage: '4'
 - pageintom: '170'
   image: v02/17-171-410-170.jpg
+  title: null
   sublists:
   - sublid: '199'
     persons:
     - id: '31011'
       num: '1'
       name: БЕМ Дмитрий Александрович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
       subtitle1: <p align="center"><u>ЗАПАДНО-СИБИРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
@@ -109,67 +119,81 @@ pages:
     - id: '5033'
       num: '2'
       name: ЗИЛЬБЕР Семен Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '5034'
       num: '3'
       name: МОКРИНСКИЙ Матвей Степанович
+      rowinpage: '3'
       spravka: true
     - id: '5035'
       num: '4'
       name: ФИСУН Петр Артемьевич
+      rowinpage: '4'
       spravka: true
 - pageintom: '171'
   image: v02/17-171-410-171.jpg
+  title: null
   sublists:
   - sublid: '199'
     persons:
     - id: '5036'
       num: '1'
       name: БОЛОТОВА Нина Сергеевна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЗАПАДНО-СИБИРСКИЙ КРАЙ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '5037'
       num: '2'
       name: ПРОКОПЕНКО Осанна Христофоровна
+      rowinpage: '2'
       spravka: true
 - pageintom: '172'
   image: v02/17-171-410-172.jpg
+  title: null
   sublists:
   - sublid: '200'
     persons:
     - id: '5038'
       num: '1'
       name: ДОЛИДЗЕ Гаврил Самсонович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '5039'
       num: '2'
       name: СЕМИН-АЛЕКСАНДРОВСКИЙ Иван Макарович
+      rowinpage: '2'
       spravka: true
 - pageintom: '173'
   image: v02/17-171-410-173.jpg
+  title: null
   sublists:
   - sublid: '200'
     persons:
     - id: '5040'
       num: '1'
       name: ДОМБРОВСКИЙ Адам Мартынович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРАСНОЯРСКИЙ КРАЙ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '5041'
       num: '2'
       name: ОВЧИННИКОВ Павел Павлович
+      rowinpage: '2'
       spravka: true
 - pageintom: '174'
   image: v02/17-171-410-174.jpg
+  title: null
   sublists:
   - sublid: '201'
     persons:
     - id: '5042'
       num: '1'
       name: ГАМРЕКЕЛИ Давид Николаевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ВЕРХНЕУРАЛЬСКАЯ ТЮРЬМА</u><br /><u>ОСОБОГО НАЗНАЧЕНИЯ
         </u></p><p align="right"><u>1-я категория</u>

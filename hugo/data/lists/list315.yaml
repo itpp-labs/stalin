@@ -1,9 +1,10 @@
 id: '315'
 title: Список лиц - Белорусская ССР // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '217'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,317 +30,400 @@ sublists:
 pages:
 - pageintom: '217'
   image: v08/17-171-416-217.jpg
+  title: null
   sublists: []
 - pageintom: '218'
   image: v08/17-171-416-218.jpg
+  title: null
   sublists: []
 - pageintom: '219'
   image: v08/17-171-416-219.jpg
+  title: null
   sublists:
   - sublid: '562'
     persons:
     - id: '31833'
       num: '1'
       name: АБЕЛЕВ Абрам Лейбович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '31834'
       num: '2'
       name: АИН Исаак Юделевич
+      rowinpage: '2'
       spravka: true
     - id: '31835'
       num: '3'
       name: АЛЕКСАНДРОВИЧ Валентина Петровна
+      rowinpage: '3'
     - id: '31836'
       num: '4'
       name: БАКЛАНОВ Михаил Филиппович
+      rowinpage: '4'
     - id: '31837'
       num: '5'
       name: БАШМАЧНИКОВ Виктор Владимирович
+      rowinpage: '5'
       spravka: true
     - id: '31838'
       num: '6'
       name: БЛОХМАН Макс Григорьевич
+      rowinpage: '6'
       spravka: true
     - id: '31839'
       num: '7'
       name: БОГУШЕВИЧ Константин Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '31840'
       num: '8'
       name: БОЯРЧЕНКО Емельян Петрович
+      rowinpage: '8'
     - id: '31841'
       num: '9'
       name: БРАГИНСКИЙ Моисей Яковлевич
+      rowinpage: '9'
     - id: '31842'
       num: '10'
       name: БУЕВИЧ Антон Антонович
+      rowinpage: '10'
       spravka: true
     - id: '31843'
       num: '11'
       name: ВАЙНОВИЧ Федор Мартынович
+      rowinpage: '11'
       spravka: true
     - id: '31844'
       num: '12'
       name: ВАССЕРМАН Саул Исаакович
+      rowinpage: '12'
       spravka: true
     - id: '31845'
       num: '13'
       name: ВОРОБЬЕВ Даниил Петрович
+      rowinpage: '13'
       spravka: true
     - id: '31846'
       num: '14'
       name: ГВОЗДЕЦКИЙ Степан Павлович
+      rowinpage: '14'
       spravka: true
     - id: '31847'
       num: '15'
       name: ГОРОЩЕНЯ Иван Яковлевич
+      rowinpage: '15'
       spravka: true
     - id: '31848'
       num: '16'
       name: ГОТФРИД Лев Алексеевич
+      rowinpage: '16'
       spravka: true
     - id: '31849'
       num: '17'
       name: ДАГОВИЧ Михаил Семенович
+      rowinpage: '17'
       spravka: true
     - id: '31850'
       num: '18'
       name: ДАШКЕВИЧ Леонид Севастьянович
+      rowinpage: '18'
     - id: '31851'
       num: '19'
       name: ДРАБИНСКИЙ Яков Израилевич
+      rowinpage: '19'
     - id: '31852'
       num: '20'
       name: ДЫГУН Константин Романович
+      rowinpage: '20'
       spravka: true
     - id: '31853'
       num: '21'
       name: ДЫНДИН Алексей Васильевич
+      rowinpage: '21'
       spravka: true
     - id: '31854'
       num: '22'
       name: ЕРОФЕЕВ Георгий Фомич
+      rowinpage: '22'
       spravka: true
     - id: '31855'
       num: '23'
       name: ЖИЗНЕВСКИЙ Михаил Осипович
+      rowinpage: '23'
       spravka: true
 - pageintom: '220'
   image: v08/17-171-416-220.jpg
+  title: Белорусская ССР
   sublists:
   - sublid: '562'
     persons:
     - id: '31856'
       num: '24'
       name: ЖОЛУДОВ Корнилий Максимович
+      rowinpage: '1'
       spravka: true
     - id: '31857'
       num: '25'
       name: ЖУКОВИЧ Василий Филиппович
+      rowinpage: '2'
     - id: '31858'
       num: '26'
       name: ЗЮЗЬКОВ Андрей Игнатьевич
+      rowinpage: '3'
       spravka: true
     - id: '31859'
       num: '27'
       name: КУДЕЛЬКО Иван Фадеевич
+      rowinpage: '4'
       spravka: true
     - id: '31860'
       num: '28'
       name: КУДМАН Самуил Давыдович
+      rowinpage: '5'
       spravka: true
     - id: '31861'
       num: '29'
       name: КУКСЕВИЧ Георгий Куприянович
+      rowinpage: '6'
       spravka: true
     - id: '31862'
       num: '30'
       name: КУЛЬКИН Давид Исаакович
+      rowinpage: '7'
       spravka: true
     - id: '31863'
       num: '31'
       name: ЛАВРИНОВИЧ Владимир Иосифович
+      rowinpage: '8'
     - id: '31864'
       num: '32'
       name: ЛАПТЕВ Алексей Васильевич
+      rowinpage: '9'
     - id: '31865'
       num: '33'
       name: ЛИТВИН Наум Исаакович
+      rowinpage: '10'
       spravka: true
     - id: '31866'
       num: '34'
       name: ЛЮБАВЦЕВ Леонид Сергеевич
+      rowinpage: '11'
       spravka: true
     - id: '31867'
       num: '35'
       name: ЛЮБОВИЧ Артем Моисеевич
+      rowinpage: '12'
       spravka: true
     - id: '31868'
       num: '36'
       name: ЛЯХОВ Прокоп Денисович
+      rowinpage: '13'
     - id: '31869'
       num: '37'
       name: МЕЕРЗОН Залмон Айзикович
+      rowinpage: '14'
     - id: '31870'
       num: '38'
       name: МИНЧЕНОК Александр Григорьевич
+      rowinpage: '15'
       spravka: true
     - id: '31871'
       num: '39'
       name: ПАВЛОВ Григорий Иванович
+      rowinpage: '16'
       spravka: true
     - id: '31872'
       num: '40'
       name: ПАЙКИН Залмон Герцович
+      rowinpage: '17'
       spravka: true
     - id: '31873'
       num: '41'
       name: ПАСЮКЕВИЧ Петр Осипович
+      rowinpage: '18'
       spravka: true
     - id: '31874'
       num: '42'
       name: ПЛЕШАКОВ Петр Федорович
+      rowinpage: '19'
       spravka: true
     - id: '31875'
       num: '43'
       name: ПОНИМАТКО Павел Григорьевич
+      rowinpage: '20'
       spravka: true
     - id: '31876'
       num: '44'
       name: ПРИМАЧЕВ Андрей Денисович
+      rowinpage: '21'
     - id: '31877'
       num: '45'
       name: ПУГАЧЕВ Степан Федорович
+      rowinpage: '22'
       spravka: true
     - id: '31878'
       num: '46'
       name: РАБИНОВИЧ Лейзер Юдович
+      rowinpage: '23'
     - id: '31879'
       num: '47'
       name: РАГОТНЕР Максим Григорьевич
+      rowinpage: '24'
     - id: '31880'
       num: '48'
       name: РЕВИНСКИЙ Платон Федорович
+      rowinpage: '25'
       spravka: true
     - id: '31881'
       num: '49'
       name: РОГОВСКИЙ Абрам Калманович
+      rowinpage: '26'
       spravka: true
     - id: '31882'
       num: '50'
       name: РОЗИН Сергей Петрович
+      rowinpage: '27'
       spravka: true
     - id: '31883'
       num: '51'
       name: РЫЖОВ Иван Павлович
+      rowinpage: '28'
       spravka: true
     - id: '31884'
       num: '52'
       name: САВОСТОВ Владимир Моисеевич
+      rowinpage: '29'
 - pageintom: '221'
   image: v08/17-171-416-221.jpg
+  title: Белорусская ССР
   sublists:
   - sublid: '562'
     persons:
     - id: '31885'
       num: '53'
       name: САНДЛЕР Вульф Мордухович
+      rowinpage: '1'
       spravka: true
     - id: '31886'
       num: '54'
       name: СВИРИДОВ Эрнст Иванович
+      rowinpage: '2'
     - id: '31887'
       num: '55'
       name: СЕМАШКО Семен Евдокимович
+      rowinpage: '3'
       spravka: true
     - id: '31888'
       num: '56'
       name: СТРИГО Альберт Станиславович
+      rowinpage: '4'
       spravka: true
     - id: '31889'
       num: '57'
       name: СУХОРУЧКИН Иван Александрович
+      rowinpage: '5'
       spravka: true
     - id: '31890'
       num: '58'
       name: ТКАЧЕВИЧ Иван Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '31891'
       num: '59'
       name: ШАБОЛТАС Степан Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '31892'
       num: '60'
       name: ШАПИРО Мордух Моисеевич
+      rowinpage: '8'
     - id: '31893'
       num: '61'
       name: ШЕРМАН Арон Григорьевич
+      rowinpage: '9'
       spravka: true
     - id: '31894'
       num: '62'
       name: ШИПЕРКО Эдуард Иосифович
+      rowinpage: '10'
     - id: '31895'
       num: '63'
       name: ШИФРИН Григорий Аронович
+      rowinpage: '11'
       spravka: true
     - id: '31896'
       num: '64'
       name: ШТЕЙНГАРТ Аркадий Михайлович
+      rowinpage: '12'
     - id: '31897'
       num: '65'
       name: ЯНЧЕНКО Никифор Гаврилович
+      rowinpage: '13'
       spravka: true
 - pageintom: '222'
   image: v08/17-171-416-222.jpg
+  title: null
   sublists:
   - sublid: '562'
     persons:
     - id: '31898'
       num: '1'
       name: ГАЕВ Петр Наумович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БЕЛОРУССКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
     - id: '31899'
       num: '2'
       name: ГЕФЕН Исаак Вульфович
+      rowinpage: '2'
       spravka: true
     - id: '31900'
       num: '3'
       name: ЕФИМОВ Николай Иванович
+      rowinpage: '3'
     - id: '31901'
       num: '4'
       name: ЖАРИН Леонтий Павлович
+      rowinpage: '4'
       spravka: true
     - id: '31902'
       num: '5'
       name: КЛИМЕНКОВ Ефим Семенович
+      rowinpage: '5'
       spravka: true
     - id: '31903'
       num: '6'
       name: КУЛЕША Владимир Игнатьевич
+      rowinpage: '6'
       spravka: true
     - id: '31904'
       num: '7'
       name: ПЕВЗНЕР Илья Калманович
+      rowinpage: '7'
     - id: '31905'
       num: '8'
       name: ПОЛОНСКИЙ Иван Петрович
+      rowinpage: '8'
       spravka: true
     - id: '31906'
       num: '9'
       name: САМОХИН Федор Андреевич
+      rowinpage: '9'
       spravka: true
     - id: '31907'
       num: '10'
       name: САНКОВИЧ Александр Иванович
+      rowinpage: '10'
       spravka: true
     - id: '31908'
       num: '11'
       name: СЕРГЕЕВ Александр Михайлович
+      rowinpage: '11'
       spravka: true
     - id: '31909'
       num: '12'
       name: ТРИФСИК Борис Исаакович
+      rowinpage: '12'

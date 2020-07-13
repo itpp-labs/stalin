@@ -1,9 +1,10 @@
 id: '285'
 title: Список лиц - г.Свободный.Амурская ж.д. // от 28 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '271'
 date: '1938-03-28'
+date_ru: 28.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -30,96 +31,120 @@ sublists:
 pages:
 - pageintom: '271'
   image: v07/17-171-415-271.jpg
+  title: null
   sublists: []
 - pageintom: '272'
   image: v07/17-171-415-272.jpg
+  title: null
   sublists: []
 - pageintom: '273'
   image: v07/17-171-415-273.jpg
+  title: null
   sublists:
   - sublid: '503'
     persons:
     - id: '29100'
       num: '1'
       name: БЕЛЕЦКИЙ Василий Кириллович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.СВОБОДНЫЙ. АМУРСКАЯ жел.дор.</u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '29101'
       num: '2'
       name: ВОБЛИКОВ Яков Иванович
+      rowinpage: '2'
     - id: '29102'
       num: '3'
       name: ГЕБУАДЗЕ Александр Иванович
+      rowinpage: '3'
     - id: '29103'
       num: '4'
       name: ЕГЕРЕВ Федор Петрович
+      rowinpage: '4'
     - id: '29104'
       num: '5'
       name: ИВАНОВ Григорий Павлович
+      rowinpage: '5'
       spravka: true
     - id: '29105'
       num: '6'
       name: ИВАНОВ Зосим Иванович
+      rowinpage: '6'
     - id: '29106'
       num: '7'
       name: КАРЕТНИКОВ Владимир Андреевич
+      rowinpage: '7'
     - id: '29107'
       num: '8'
       name: КОВАЛЕВ Иван Тимофеевич
+      rowinpage: '8'
       spravka: true
     - id: '29108'
       num: '9'
       name: МОТОВИЛОВ Константин Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '29109'
       num: '10'
       name: ПАВЛЕНКО Илларион Федорович
+      rowinpage: '10'
       spravka: true
     - id: '29110'
       num: '11'
       name: ПАВЛОВ Михаил Георгиевич
+      rowinpage: '11'
       spravka: true
     - id: '29111'
       num: '12'
       name: СЕЛИВАНОВ Яков Федорович
+      rowinpage: '12'
       spravka: true
     - id: '29112'
       num: '13'
       name: СЕРЫЙ Николай Алексеевич
+      rowinpage: '13'
       spravka: true
     - id: '29113'
       num: '14'
       name: СМИРНОВ Василий Алексеевич
+      rowinpage: '14'
       spravka: true
     - id: '29114'
       num: '15'
       name: СТЕПАНОВ Петр Александрович
+      rowinpage: '15'
       spravka: true
     - id: '29115'
       num: '16'
       name: ТЮМЕНЕВ Алексей Васильевич
+      rowinpage: '16'
       spravka: true
     - id: '29116'
       num: '17'
       name: ЮДЕНИЧ Борис Иосифович
+      rowinpage: '17'
       spravka: true
 - pageintom: '274'
   image: v07/17-171-415-274.jpg
+  title: null
   sublists:
   - sublid: '503'
     persons:
     - id: '29117'
       num: '1'
       name: ЛАПШИН Михаил Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>Гор.СВОБОДНЫЙ. АМУРСКАЯ жел.дор.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '29118'
       num: '2'
       name: РЫЖКОВ Владимир Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '29119'
       num: '3'
       name: САЛЬНИКОВ Николай Павлович
+      rowinpage: '3'
       spravka: true

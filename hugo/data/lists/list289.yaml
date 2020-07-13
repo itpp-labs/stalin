@@ -1,9 +1,10 @@
 id: '289'
 title: Список лиц - Москва-центр // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '1'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,18 +30,22 @@ sublists:
 pages:
 - pageintom: '1'
   image: v08/17-171-416-001.jpg
+  title: null
   sublists: []
 - pageintom: '2'
   image: v08/17-171-416-002.jpg
+  title: null
   sublists: []
 - pageintom: '3'
   image: v08/17-171-416-003.jpg
+  title: null
   sublists:
   - sublid: '545'
     persons:
     - id: '36070'
       num: '1'
       name: БЕРЗИН Эдуард Петрович
+      rowinpage: '1'
       striked: true
       doublesexists: true
       spravka: true
@@ -49,34 +54,43 @@ pages:
     - id: '29188'
       num: '2'
       name: БЕРЛЯНТ Иосиф Евсеевич
+      rowinpage: '2'
     - id: '29189'
       num: '3'
       name: ГУСЕВ Александр Георгиевич
+      rowinpage: '3'
       spravka: true
     - id: '29190'
       num: '4'
       name: КАРЛСОН Карл Мартынович
+      rowinpage: '4'
       spravka: true
     - id: '29191'
       num: '5'
       name: КОВАЛЕВ Леонид Петрович
+      rowinpage: '5'
       spravka: true
     - id: '29192'
       num: '6'
       name: КРАУКЛИС Ян Кришьянович
+      rowinpage: '6'
       spravka: true
     - id: '29193'
       num: '7'
       name: ЛАГОДЮК Виктор Иванович
+      rowinpage: '7'
     - id: '29194'
       num: '8'
       name: ЛАГОДЮК Яков Иванович
+      rowinpage: '8'
       spravka: true
     - id: '29195'
       num: '9'
       name: СМИЛГА Карл Янович
+      rowinpage: '9'
       spravka: true
     - id: '29196'
       num: '10'
       name: ТИТОВА Александра Васильевна
+      rowinpage: '10'
       spravka: true

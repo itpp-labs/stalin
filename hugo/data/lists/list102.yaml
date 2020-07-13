@@ -1,9 +1,10 @@
 id: '102'
 title: Список лиц - Ярославская обл. // 13 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.4, оп.171, дело 412
+  ref: РГАСПИ, ф.17, оп.171, дело 412
   page1: '220'
 date: '1937-11-13'
+date_ru: 13.11.1937
 tom: 4
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,223 +28,278 @@ sublists:
 pages:
 - pageintom: '220'
   image: v04/17-171-412-220.jpg
+  title: null
   sublists: []
 - pageintom: '221'
   image: v04/17-171-412-221.jpg
+  title: null
   sublists: []
 - pageintom: '222'
   image: v04/17-171-412-222.jpg
+  title: null
   sublists:
   - sublid: '71'
     persons:
     - id: '13589'
       num: '1'
       name: АКБУЛАТОВ Осман Хабибулович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '13590'
       num: '2'
       name: АЛЕКСЕЕВ Николай Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '13591'
       num: '3'
       name: БОНДАРЬ Александр Адамович
+      rowinpage: '3'
       spravka: true
     - id: '13592'
       num: '4'
       name: БОРИШАНСКИЙ Вульф Иохелевич
+      rowinpage: '4'
       spravka: true
     - id: '13593'
       num: '5'
       name: БУЛЫЧЕВ Флавиан Флегонтович
+      rowinpage: '5'
       spravka: true
     - id: '13594'
       num: '6'
       name: ГОФМАН Герман Германович
+      rowinpage: '6'
       spravka: true
     - id: '13595'
       num: '7'
       name: ГРУЗДЕВ Владимир Иванович
+      rowinpage: '7'
       spravka: true
     - id: '13596'
       num: '8'
       name: ДУНДЯКОВ Василий Алексеевич
+      rowinpage: '8'
       spravka: true
     - id: '13597'
       num: '9'
       name: ДУШИН Константин Иванович
+      rowinpage: '9'
       spravka: true
     - id: '13598'
       num: '10'
       name: ЕРМОЛИН Леонид Васильевич
+      rowinpage: '10'
       spravka: true
     - id: '13599'
       num: '11'
       name: ЗАВАЛКОВ Владимир Маркович
+      rowinpage: '11'
       spravka: true
     - id: '13600'
       num: '12'
       name: ЗАЛИХВАТСКИЙ Виктор Борисович
+      rowinpage: '12'
       spravka: true
     - id: '13601'
       num: '13'
       name: ЗВАГЕЛЬСКИЙ Арон Лазаревич
+      rowinpage: '13'
       spravka: true
     - id: '13602'
       num: '14'
       name: ЗУСЬМАН Яков Натанович
+      rowinpage: '14'
       spravka: true
     - id: '13603'
       num: '15'
       name: КАРПОВ Дмитрий Васильевич
+      rowinpage: '15'
       spravka: true
     - id: '13604'
       num: '16'
       name: КИЗНЕР Александр Иосифович
+      rowinpage: '16'
     - id: '13605'
       num: '17'
       name: КОЖЕБРОДСКИЙ Мордух Симхович
+      rowinpage: '17'
       spravka: true
     - id: '13606'
       num: '18'
       name: КОЗЛОВ Александр Викторович
+      rowinpage: '18'
       spravka: true
     - id: '13607'
       num: '19'
       name: КОЛЫШЕНКО Василий Григорьевич
+      rowinpage: '19'
       spravka: true
     - id: '13608'
       num: '20'
       name: КОРНЕВ Иван Александрович
+      rowinpage: '20'
       spravka: true
     - id: '13609'
       num: '21'
       name: КРИВЕНКО Алексей Ильич
+      rowinpage: '21'
       spravka: true
     - id: '13610'
       num: '22'
       name: КРОТКОВ Алексей Павлович
+      rowinpage: '22'
       spravka: true
     - id: '13611'
       num: '23'
       name: КУНЦЕЛЬ Арсений Августович
+      rowinpage: '23'
       spravka: true
     - id: '13612'
       num: '24'
       name: ЛАПП Александр Борисович
+      rowinpage: '24'
       spravka: true
     - id: '13613'
       num: '25'
       name: ЛУКИН Григорий Матвеевич
+      rowinpage: '25'
       spravka: true
     - id: '13614'
       num: '26'
       name: МЕНЬШАКОВ Сергей Александрович
+      rowinpage: '26'
       spravka: true
 - pageintom: '223'
   image: v04/17-171-412-223.jpg
+  title: Ярославская область
   sublists:
   - sublid: '71'
     persons:
     - id: '13615'
       num: '27'
       name: НАСС Губерт Германович
+      rowinpage: '1'
       spravka: true
     - id: '13616'
       num: '28'
       name: НАЧКОВСКИЙ Григорий Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '13617'
       num: '29'
       name: НЕМКИН Михаил Павлович
+      rowinpage: '3'
       spravka: true
     - id: '13618'
       num: '30'
       name: ОВЧИННИКОВ Александр Александрович
+      rowinpage: '4'
       spravka: true
     - id: '13619'
       num: '31'
       name: ПОСТНОВ Николай Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '13620'
       num: '32'
       name: РАЖЕВ Федор Семенович
+      rowinpage: '6'
       spravka: true
     - id: '13621'
       num: '33'
       name: РООТ Александр Карлович
+      rowinpage: '7'
       spravka: true
     - id: '13622'
       num: '34'
       name: РООТ Виктор Карлович
+      rowinpage: '8'
       spravka: true
     - id: '13623'
       num: '35'
       name: САВВАТЕЕВ Валериан Александрович
+      rowinpage: '9'
       spravka: true
     - id: '13624'
       num: '36'
       name: СВЕТЛЯКОВ Константин Осипович
+      rowinpage: '10'
       spravka: true
     - id: '13625'
       num: '37'
       name: СИПЕР Исаак Файвилович
+      rowinpage: '11'
       spravka: true
     - id: '13626'
       num: '38'
       name: СТРЕЖ Лука Трофимович
+      rowinpage: '12'
       spravka: true
     - id: '13627'
       num: '39'
       name: ТАЛИМАНЧУК Александр Степанович
+      rowinpage: '13'
       spravka: true
     - id: '13628'
       num: '40'
       name: ХОДОСОВ Иван Иванович
+      rowinpage: '14'
       spravka: true
     - id: '13629'
       num: '41'
       name: ЧИЧИЛИМОВ Аркадий Константинович
+      rowinpage: '15'
       spravka: true
     - id: '13630'
       num: '42'
       name: ШЕЙНИН Яков Аронович
+      rowinpage: '16'
       spravka: true
     - id: '13631'
       num: '43'
       name: ШЕСТОПАЛ Сергей Игнатьевич
+      rowinpage: '17'
       spravka: true
     - id: '13632'
       num: '44'
       name: ШИМАН Рудольф Генрихович
+      rowinpage: '18'
       spravka: true
 - pageintom: '224'
   image: v04/17-171-412-224.jpg
+  title: null
   sublists:
   - sublid: '71'
     persons:
     - id: '13633'
       num: '1'
       name: АВСЕЕВ Александр Васильевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ЯРОСЛАВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '13634'
       num: '2'
       name: БАРАНОВ Иван Николаевич
+      rowinpage: '2'
     - id: '13635'
       num: '3'
       name: КИСЕЛЕВ Павел Павлович
+      rowinpage: '3'
       spravka: true
     - id: '13636'
       num: '4'
       name: НОВИКОВ Василий Матвеевич
+      rowinpage: '4'
       spravka: true
     - id: '13637'
       num: '5'
       name: СИПЕР Самуил Файвилович (Павлович)
+      rowinpage: '5'
       spravka: true
     - id: '13638'
       num: '6'
       name: СТАДНИКОВА Анна Ивановна
+      rowinpage: '6'
       spravka: true

@@ -1,9 +1,10 @@
 id: '204'
 title: Список лиц - Тамбовская область // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.10, оп.171, дело 418
+  ref: РГАСПИ, ф.17, оп.171, дело 418
   page1: '168'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 10
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,213 +29,269 @@ sublists:
 pages:
 - pageintom: '168'
   image: v10/17-171-418-168.jpg
+  title: null
   sublists: []
 - pageintom: '169'
   image: v10/17-171-418-169.jpg
+  title: null
   sublists: []
 - pageintom: '170'
   image: v10/17-171-418-170.jpg
+  title: null
   sublists:
   - sublid: '136'
     persons:
     - id: '39608'
       num: '1'
       name: АНТИПОВ Сергей Трофимович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '39609'
       num: '2'
       name: БАЛАШОВ Иван Ефимович
+      rowinpage: '2'
     - id: '39610'
       num: '3'
       name: БОГОЛЕПОВ Александр Павлович
+      rowinpage: '3'
       spravka: true
     - id: '39611'
       num: '4'
       name: БОГОМОЛОВ Степан Федорович
+      rowinpage: '4'
       spravka: true
     - id: '39612'
       num: '5'
       name: ВИНОГРАДОВ Николай Михайлович
+      rowinpage: '5'
     - id: '39613'
       num: '6'
       name: ГОРИН Леонид Яковлевич
+      rowinpage: '6'
       spravka: true
     - id: '39614'
       num: '7'
       name: ДОБРОНРАВОВ Петр Александрович
+      rowinpage: '7'
       spravka: true
     - id: '39615'
       num: '8'
       name: ЗАЙЦЕВ Михаил Васильевич
+      rowinpage: '8'
       spravka: true
     - id: '39616'
       num: '9'
       name: КАЩЕЕВ Петр Георгиевич
+      rowinpage: '9'
       spravka: true
     - id: '39617'
       num: '10'
       name: КЕЛЛЬ Петр Робертович
+      rowinpage: '10'
       spravka: true
     - id: '39618'
       num: '11'
       name: КИНЖАЛОВ Василий Гаврилович
+      rowinpage: '11'
       spravka: true
     - id: '39619'
       num: '12'
       name: КИСЕЛЕВ Василий Дмитриевич
+      rowinpage: '12'
       spravka: true
     - id: '39620'
       num: '13'
       name: КОСАРЕВ Николай Георгиевич
+      rowinpage: '13'
     - id: '39621'
       num: '14'
       name: ЛЕНКОВ Николай Антонович
+      rowinpage: '14'
       spravka: true
     - id: '39622'
       num: '15'
       name: МАМОНОВ Виктор Александрович
+      rowinpage: '15'
       spravka: true
     - id: '39623'
       num: '16'
       name: МАСАЛКИН Виктор Денисович
+      rowinpage: '16'
     - id: '39624'
       num: '17'
       name: МЕДВЕДЕВ Василий Алексеевич
+      rowinpage: '17'
     - id: '39625'
       num: '18'
       name: МЕДВЕДЕВ Петр Максимович
+      rowinpage: '18'
     - id: '39626'
       num: '19'
       name: МИГАЧЕВ Алексей Ильич
+      rowinpage: '19'
     - id: '39627'
       num: '20'
       name: МЯГКОВ Александр Андреевич
+      rowinpage: '20'
       spravka: true
     - id: '39628'
       num: '21'
       name: НИКИТИН Павел Михайлович
+      rowinpage: '21'
       spravka: true
     - id: '39629'
       num: '22'
       name: РОМАНОВ-СКОРОХОД Григорий Трофимович
+      rowinpage: '22'
       spravka: true
 - pageintom: '171'
   image: v10/17-171-418-171.jpg
+  title: Тамбовская область
   sublists:
   - sublid: '136'
     persons:
     - id: '39630'
       num: '23'
       name: РУДЕНКО Порфирий Ионович
+      rowinpage: '1'
       spravka: true
     - id: '39631'
       num: '24'
       name: РЯБОВ Петр Николаевич
+      rowinpage: '2'
     - id: '39632'
       num: '25'
       name: СУББОТИН Яков Андреевич
+      rowinpage: '3'
       spravka: true
     - id: '39633'
       num: '26'
       name: СУХАНОВ Александр Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '39634'
       num: '27'
       name: СУХОВ Николай Яковлевич
+      rowinpage: '5'
     - id: '39635'
       num: '28'
       name: ЧЕРЕДНИЧЕНКО Григорий Васильевич
+      rowinpage: '6'
     - id: '39636'
       num: '29'
       name: ЧЕТЫРИН Федор Дмитриевич
+      rowinpage: '7'
       spravka: true
 - pageintom: '172'
   image: v10/17-171-418-172.jpg
+  title: null
   sublists:
   - sublid: '136'
     persons:
     - id: '39637'
       num: '1'
       name: АЛЮКОВ Всеволод Матвеевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ТАМБОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
     - id: '39638'
       num: '2'
       name: АРТАМОНОВ Семен Иванович
+      rowinpage: '2'
     - id: '39639'
       num: '3'
       name: ВЕРШИННИКОВ Евсей Романович
+      rowinpage: '3'
     - id: '39640'
       num: '4'
       name: ВИНОГРАДСКИЙ Серафим Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '39641'
       num: '5'
       name: ГЛАГОЛЕВ Виктор Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '39642'
       num: '6'
       name: ДЕДОВ Михаил Дмитриевич
+      rowinpage: '6'
     - id: '39643'
       num: '7'
       name: ДУБРОВИН Яков Михайлович
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '39644'
       num: '8'
       name: ЕРМАКОВ Гаврил Герасимович
+      rowinpage: '8'
       spravka: true
     - id: '39645'
       num: '9'
       name: ЗАБОРОВСКИЙ Федор Михайлович
+      rowinpage: '9'
       spravka: true
     - id: '39646'
       num: '10'
       name: КОЧЕМАЗОВ Андрей Романович
+      rowinpage: '10'
     - id: '39647'
       num: '11'
       name: ЛИТУХИН Александр Яковлевич
+      rowinpage: '11'
       spravka: true
     - id: '39648'
       num: '12'
       name: МАРКОВСКИЙ Козьма Андреевич
+      rowinpage: '12'
       spravka: true
     - id: '39649'
       num: '13'
       name: МАТЕРУШЕВ Алексей Иванович
+      rowinpage: '13'
     - id: '39650'
       num: '14'
       name: ОБЪЕДКОВ Иван Петрович
+      rowinpage: '14'
       spravka: true
     - id: '39651'
       num: '15'
       name: ПЕЧЕНКИН Федор Васильевич
+      rowinpage: '15'
       spravka: true
     - id: '39652'
       num: '16'
       name: ПИАНЗИН Степан Родионович
+      rowinpage: '16'
       spravka: true
     - id: '39653'
       num: '17'
       name: РЯБОВ Сергей Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '39654'
       num: '18'
       name: ТЕРНАВСКИЙ Василий Михайлович
+      rowinpage: '18'
       spravka: true
     - id: '39655'
       num: '19'
       name: ТОТМАКОВ Николай Васильевич
+      rowinpage: '19'
       spravka: true
     - id: '39656'
       num: '20'
       name: ШАМИН Иван Иванович
+      rowinpage: '20'
     - id: '39657'
       num: '21'
       name: ШЕМЕНЕВ Дмитрий Алексеевич
+      rowinpage: '21'
       spravka: true
     - id: '39658'
       num: '22'
       name: ШУМИЛОВ Семен Тимофеевич
+      rowinpage: '22'

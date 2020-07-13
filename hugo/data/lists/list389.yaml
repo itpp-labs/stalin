@@ -1,9 +1,10 @@
 id: '389'
 title: Список лиц - Киргизская ССР // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '13'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,152 +29,194 @@ sublists:
 pages:
 - pageintom: '13'
   image: v11/17-171-419-013.jpg
+  title: null
   sublists: []
 - pageintom: '14'
   image: v11/17-171-419-014.jpg
+  title: null
   sublists: []
 - pageintom: '15'
   image: v11/17-171-419-015.jpg
+  title: null
   sublists:
   - sublid: '615'
     persons:
     - id: '40947'
       num: '1'
       name: АБДРАИМОВ Абдукадыр
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КИРГИЗСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '40948'
       num: '2'
       name: АБДРАХМАНОВ Абдрай
+      rowinpage: '2'
     - id: '40949'
       num: '3'
       name: АБДРАХМАНОВ Касым
+      rowinpage: '3'
     - id: '40950'
       num: '4'
       name: АБДУЛЛАЕВ Гариф
+      rowinpage: '4'
     - id: '40951'
       num: '5'
       name: АЛИМОВ Азис Ахметжанович
+      rowinpage: '5'
       spravka: true
     - id: '40952'
       num: '6'
       name: АШИМОВ Давут
+      rowinpage: '6'
       spravka: true
     - id: '40953'
       num: '7'
       name: БУЛАТОВ Абдрахман
+      rowinpage: '7'
       spravka: true
     - id: '40954'
       num: '8'
       name: БУЛАТОВ Юсуп Исхакович
+      rowinpage: '8'
       spravka: true
     - id: '40955'
       num: '9'
       name: ДЖАМАНСАРИЕВ Асанбай
+      rowinpage: '9'
       spravka: true
     - id: '40956'
       num: '10'
       name: ДЖУМАЕВ Омар
+      rowinpage: '10'
       spravka: true
     - id: '40957'
       num: '11'
       name: ДОСТАЕВ Токтосун
+      rowinpage: '11'
     - id: '40958'
       num: '12'
       name: ИЛЬМУРАДОВ Усман
+      rowinpage: '12'
     - id: '40959'
       num: '13'
       name: ИМАНБАЕВ Мукаш
+      rowinpage: '13'
       spravka: true
     - id: '40960'
       num: '14'
       name: ИМАНАЛИЕВ Калы
+      rowinpage: '14'
     - id: '40961'
       num: '15'
       name: ИСАКЕЕВ Баялы Дикамбаевич
+      rowinpage: '15'
       spravka: true
     - id: '40962'
       num: '16'
       name: ИСМАИЛОВ Сакмамбет
+      rowinpage: '16'
     - id: '40963'
       num: '17'
       name: КЕНЕБАЕВ Керим
+      rowinpage: '17'
       spravka: true
     - id: '40964'
       num: '18'
       name: МУКАШЕВ Булат
+      rowinpage: '18'
     - id: '40965'
       num: '19'
       name: НОГАЙБАЕВ Дюше
+      rowinpage: '19'
     - id: '40966'
       num: '20'
       name: ОМУРКУЛОВ Д.
+      rowinpage: '20'
     - id: '40967'
       num: '21'
       name: САГИМБАЕВ Касым
+      rowinpage: '21'
 - pageintom: '16'
   image: v11/17-171-419-016.jpg
+  title: Киргизская ССР
   sublists:
   - sublid: '615'
     persons:
     - id: '40968'
       num: '22'
       name: САЛИХОВ МУРАТ
+      rowinpage: '1'
       spravka: true
     - id: '40969'
       num: '23'
       name: СУЛЕЙМАНОВ Чокуш
+      rowinpage: '2'
     - id: '40970'
       num: '24'
       name: СУЛТАНБЕКОВ Ешбай
+      rowinpage: '3'
       spravka: true
     - id: '40971'
       num: '25'
       name: ТУРКЕЕВ Токтосун
+      rowinpage: '4'
     - id: '40972'
       num: '26'
       name: ТЮЛЕГЕНОВ Баши
+      rowinpage: '5'
     - id: '40973'
       num: '27'
       name: УСУПБЕКОВ Турдыбек
+      rowinpage: '6'
     - id: '40974'
       num: '28'
       name: ЧАЛОВ Самак
+      rowinpage: '7'
     - id: '40975'
       num: '29'
       name: ШАБДАМБЕКОВ Умаралы
+      rowinpage: '8'
     - id: '40976'
       num: '30'
       name: ШАМУРЗИН Султанкул
+      rowinpage: '9'
       spravka: true
     - id: '40977'
       num: '31'
       name: ШАФИКОВ Шакир Галимович
+      rowinpage: '10'
       spravka: true
 - pageintom: '17'
   image: v11/17-171-419-017.jpg
+  title: null
   sublists:
   - sublid: '615'
     persons:
     - id: '40978'
       num: '1'
       name: БАЙЗАКОВ Абдырасуль
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КИРГИЗСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '40979'
       num: '2'
       name: БУЛАТОВ МАМБЕТАЛЫ
+      rowinpage: '2'
     - id: '40980'
       num: '3'
       name: ЕСЕНАЛИЕВ ДЖУСУБЕК
+      rowinpage: '3'
     - id: '40981'
       num: '4'
       name: КУЗЕМБАЕВ ХОДЖАБЕК
+      rowinpage: '4'
     - id: '40982'
       num: '5'
       name: МАРКОБАЕВ Джумаш
+      rowinpage: '5'
     - id: '40983'
       num: '6'
       name: САБАЕВ Салы
+      rowinpage: '6'

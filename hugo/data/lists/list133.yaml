@@ -1,9 +1,10 @@
 id: '133'
 title: Список лиц - Оренбургская область // 7 декабря 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '223'
 date: '1937-12-07'
+date_ru: 07.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,381 +29,477 @@ sublists:
 pages:
 - pageintom: '223'
   image: v05/17-171-413-223.jpg
+  title: null
   sublists: []
 - pageintom: '224'
   image: v05/17-171-413-224.jpg
+  title: null
   sublists: []
 - pageintom: '225'
   image: v05/17-171-413-225.jpg
+  title: null
   sublists:
   - sublid: '86'
     persons:
     - id: '17197'
       num: '1'
       name: АБРАМОВИЧ Василий Иосифович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '17198'
       num: '2'
       name: АЛЕКСЕЕВ Алексей Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '17199'
       num: '3'
       name: АЛТНЕР Эрнст Эрнстович
+      rowinpage: '3'
     - id: '17200'
       num: '4'
       name: АНФАЛОВ Филитер Иванович
+      rowinpage: '4'
       spravka: true
     - id: '17201'
       num: '5'
       name: АФИНОГЕНОВ Федор Васильевич
+      rowinpage: '5'
     - id: '17202'
       num: '6'
       name: БАЛТИН Карл Давыдович
+      rowinpage: '6'
     - id: '17203'
       num: '7'
       name: БАРМИН Филипп Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '17204'
       num: '8'
       name: БЕЗУКЛАДОВ Прокофий Федорович
+      rowinpage: '8'
       spravka: true
     - id: '17205'
       num: '9'
       name: БЕЛОНОГОВ Павел Степанович
+      rowinpage: '9'
       spravka: true
     - id: '17206'
       num: '10'
       name: БЕНКИН Самуил Иосифович
+      rowinpage: '10'
       spravka: true
     - id: '17207'
       num: '11'
       name: БЕРГМАН Яков Дидрихович
+      rowinpage: '11'
       spravka: true
     - id: '17208'
       num: '12'
       name: БЕРГНЕР Антон Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '17209'
       num: '13'
       name: БОРИСОГЛЕБСКИЙ Аркадий Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '17210'
       num: '14'
       name: БРЖЕЗИЦКИЙ Николай Юрьевич
+      rowinpage: '14'
       spravka: true
     - id: '17211'
       num: '15'
       name: БЫКОВ Александр Лаврентьевич
+      rowinpage: '15'
       spravka: true
     - id: '17212'
       num: '16'
       name: ВЕДГОРН Август Егорович
+      rowinpage: '16'
       spravka: true
     - id: '17213'
       num: '17'
       name: ВЕРШКОВ Федор Аверьянович
+      rowinpage: '17'
       spravka: true
     - id: '17214'
       num: '18'
       name: ВИКТОРОВ Александр Апполонович
+      rowinpage: '18'
       spravka: true
     - id: '17215'
       num: '19'
       name: ВИЛЬЯ Эдуард Михайлович
+      rowinpage: '19'
       spravka: true
     - id: '17216'
       num: '20'
       name: ВОЙТОВИЧ Андрей Михайлович
+      rowinpage: '20'
     - id: '17217'
       num: '21'
       name: ВОЛГИН Федор Матвеевич
+      rowinpage: '21'
       spravka: true
     - id: '17218'
       num: '22'
       name: ГАЛАХОВ Леонид Петрович
+      rowinpage: '22'
       spravka: true
     - id: '17219'
       num: '23'
       name: ГЕБЕРТ Вильгельм Робертович
+      rowinpage: '23'
       spravka: true
 - pageintom: '226'
   image: v05/17-171-413-226.jpg
+  title: Оренбургская область
   sublists:
   - sublid: '86'
     persons:
     - id: '17220'
       num: '24'
       name: ГЕРШЕНОВИЧ-ОЛЬГИН Лев Борисович
+      rowinpage: '1'
       spravka: true
     - id: '17221'
       num: '25'
       name: ГИНЗБУРГ Лев Львович
+      rowinpage: '2'
       spravka: true
     - id: '17222'
       num: '26'
       name: ГОЛОВАНОВ Иван Андреевич
+      rowinpage: '3'
       spravka: true
     - id: '17223'
       num: '27'
       name: ГОЛЬЦ Хаим Вольфович
+      rowinpage: '4'
     - id: '17224'
       num: '28'
       name: ДЕМИН Александр Николаевич
+      rowinpage: '5'
       spravka: true
     - id: '17225'
       num: '29'
       name: ДРУЧКОВ Михаил Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '17226'
       num: '30'
       name: ЕВСЕЕВ Иван Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '17227'
       num: '31'
       name: ЖМУРИН Петр Константинович
+      rowinpage: '8'
       spravka: true
     - id: '17228'
       num: '32'
       name: ЗАРИН Петр Сергеевич
+      rowinpage: '9'
       spravka: true
     - id: '17229'
       num: '33'
       name: ЗЕМЛЯНСКИЙ Андрей Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '17230'
       num: '34'
       name: ЗУККАУ Петр Петрович
+      rowinpage: '11'
       spravka: true
     - id: '17231'
       num: '35'
       name: ИЗРАИЛЕВ Степан Александрович
+      rowinpage: '12'
       spravka: true
     - id: '17232'
       num: '36'
       name: ИСАЕВ Федор Семенович
+      rowinpage: '13'
       spravka: true
     - id: '17233'
       num: '37'
       name: КАЗЯТИН Иван Григорьевич
+      rowinpage: '14'
       spravka: true
     - id: '17234'
       num: '38'
       name: КАШИРИН Петр Дмитриевич
+      rowinpage: '15'
       spravka: true
     - id: '17235'
       num: '39'
       name: КОРНИЕНКО Аким Кириллович
+      rowinpage: '16'
     - id: '17236'
       num: '40'
       name: КОЧЕРГА Александр Степанович
+      rowinpage: '17'
       spravka: true
     - id: '17237'
       num: '41'
       name: КРОНГАУЗ Иосиф Айзикович
+      rowinpage: '18'
     - id: '17238'
       num: '42'
       name: ЛЕВАШЕВ Андрей Ефимович
+      rowinpage: '19'
       spravka: true
     - id: '17239'
       num: '43'
       name: ЛИНДЕСТРЕМ Николай Владимирович
+      rowinpage: '20'
       spravka: true
     - id: '17240'
       num: '44'
       name: ЛЮБИНСКИЙ Владимир Александрович
+      rowinpage: '21'
       spravka: true
     - id: '17241'
       num: '45'
       name: МАКАРОВ Иван Матвеевич
+      rowinpage: '22'
     - id: '17242'
       num: '46'
       name: МАЛИНОВСКИЙ Григорий Иванович
+      rowinpage: '23'
       spravka: true
     - id: '17243'
       num: '47'
       name: МАСЛОВ Сергей Петрович
+      rowinpage: '24'
       spravka: true
     - id: '17244'
       num: '48'
       name: МАТЕЕВ Христо Матвеевич
+      rowinpage: '25'
       spravka: true
     - id: '17245'
       num: '49'
       name: МЕЛОМЕД Лазарь Борисович
+      rowinpage: '26'
       spravka: true
     - id: '17246'
       num: '50'
       name: МИШУСТИН Федор Романович
+      rowinpage: '27'
       spravka: true
     - id: '17247'
       num: '51'
       name: МОРОЗОВ Григорий Матвеевич
+      rowinpage: '28'
       spravka: true
     - id: '17248'
       num: '52'
       name: МУРАВЬЕВ Сергей Сергеевич
+      rowinpage: '29'
       spravka: true
 - pageintom: '227'
   image: v05/17-171-413-227.jpg
+  title: Оренбургская область
   sublists:
   - sublid: '86'
     persons:
     - id: '17249'
       num: '53'
       name: МУХИН Михаил Дмитриевич
+      rowinpage: '1'
       spravka: true
     - id: '17250'
       num: '54'
       name: НАЗАРОВ Андрей Ефимович
+      rowinpage: '2'
       spravka: true
     - id: '17251'
       num: '55'
       name: НИКОЛАЕВ Дмитрий Львович
+      rowinpage: '3'
       spravka: true
     - id: '17252'
       num: '56'
       name: ОЛЕЙНИК Петр Степанович
+      rowinpage: '4'
       spravka: true
     - id: '17253'
       num: '57'
       name: ПЕНДЖЕРКОВ Борис Григорьевич
+      rowinpage: '5'
       spravka: true
     - id: '17254'
       num: '58'
       name: ПЕНЬКОВ Алексей Михайлович
+      rowinpage: '6'
       spravka: true
     - id: '17255'
       num: '59'
       name: ПЕТЕРС Иван Андреевич
+      rowinpage: '7'
       spravka: true
     - id: '17256'
       num: '60'
       name: ПОЛИВАНОВ Николай Викторович
+      rowinpage: '8'
       spravka: true
     - id: '17257'
       num: '61'
       name: ПОЛУЗАДОВ Валерий Степанович
+      rowinpage: '9'
     - id: '17258'
       num: '62'
       name: ПОПОВ Владимир Ермолаевич
+      rowinpage: '10'
       spravka: true
     - id: '17259'
       num: '63'
       name: ПОТАПОВ Василий Сафронович
+      rowinpage: '11'
       spravka: true
     - id: '17260'
       num: '64'
       name: ПРОСКУРЯКОВА Татьяна Андриановна
+      rowinpage: '12'
       spravka: true
     - id: '17261'
       num: '65'
       name: РИНСО Михаил Мартынович
+      rowinpage: '13'
       spravka: true
     - id: '17262'
       num: '66'
       name: РЫБИН Константин Александрович
+      rowinpage: '14'
       spravka: true
     - id: '17263'
       num: '67'
       name: СЕНЬКИН Федор Павлович
+      rowinpage: '15'
       spravka: true
     - id: '17264'
       num: '68'
       name: СОВЕТОВ Николай Степанович
+      rowinpage: '16'
       spravka: true
     - id: '17265'
       num: '69'
       name: СОКОЛОВ Александр Иванович
+      rowinpage: '17'
       spravka: true
     - id: '17266'
       num: '70'
       name: СУЗДАЛЕВ Петр Тимофеевич
+      rowinpage: '18'
       spravka: true
     - id: '17267'
       num: '71'
       name: ТИФАНОВ Федор Яковлевич
+      rowinpage: '19'
       spravka: true
     - id: '17268'
       num: '72'
       name: ТИЩЕНКО Феодосий Андреевич
+      rowinpage: '20'
       spravka: true
     - id: '17269'
       num: '73'
       name: ТРЕТЬЯКОВ Василий Иванович
+      rowinpage: '21'
       spravka: true
     - id: '17270'
       num: '74'
       name: УНИЧЕНКО Николай Авксентьевич
+      rowinpage: '22'
       spravka: true
     - id: '17271'
       num: '75'
       name: ФАСС Роза Иосифовна
+      rowinpage: '23'
       spravka: true
     - id: '17272'
       num: '76'
       name: ФЕДОРОВ Александр Сергеевич
+      rowinpage: '24'
       spravka: true
     - id: '17273'
       num: '77'
       name: ФЕДЮКОВСКИЙ Исаак Иосифович
+      rowinpage: '25'
       spravka: true
     - id: '17274'
       num: '78'
       name: ФОКИН-УРАЛЬСКИЙ Николай Тимофеевич
+      rowinpage: '26'
       spravka: true
     - id: '17275'
       num: '79'
       name: ЦАПАЛОВ Александр Васильевич
+      rowinpage: '27'
       spravka: true
     - id: '17276'
       num: '80'
       name: ЦАРЕВ Яков Георгиевич
+      rowinpage: '28'
       spravka: true
     - id: '17277'
       num: '81'
       name: ЧИСТЯКОВ Михаил Иванович
+      rowinpage: '29'
 - pageintom: '228'
   image: v05/17-171-413-228.jpg
+  title: Оренбургская область
   sublists:
   - sublid: '86'
     persons:
     - id: '17278'
       num: '82'
       name: ЧУРСИН Иван Тимофеевич
+      rowinpage: '1'
       spravka: true
     - id: '17279'
       num: '83'
       name: ШАДРИН Александр Анфилович
+      rowinpage: '2'
       spravka: true
     - id: '17280'
       num: '84'
       name: ШАПОШНИКОВ Петр Прокофьевич
+      rowinpage: '3'
       spravka: true
     - id: '17281'
       num: '85'
       name: ШИЛОВ Иван Осипович
+      rowinpage: '4'
       spravka: true
     - id: '17282'
       num: '86'
       name: ШИШКИН Сергей Петрович
+      rowinpage: '5'
       spravka: true
     - id: '17283'
       num: '87'
       name: ШМИДТ Вольдемар Вильгельмович
+      rowinpage: '6'
       spravka: true
     - id: '17284'
       num: '88'
       name: ЯКШЕВ Иван Максимович
+      rowinpage: '7'
       spravka: true
 - pageintom: '229'
   image: v05/17-171-413-229.jpg
+  title: null
   sublists:
   - sublid: '86'
     persons:
     - id: '17285'
       num: '1'
       name: МИХЕЕВА Мария Филипповна
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ОРЕНБУРГСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>

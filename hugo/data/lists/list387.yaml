@@ -1,9 +1,10 @@
 id: '387'
 title: Список лиц - Крымская АССР // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '1'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,242 +30,305 @@ sublists:
 pages:
 - pageintom: '1'
   image: v11/17-171-419-001.jpg
+  title: null
   sublists: []
 - pageintom: '2'
   image: v11/17-171-419-002.jpg
+  title: null
   sublists:
   - sublid: '613'
     persons:
     - id: '40852'
       num: '1'
       name: АЛЬБРЕХТ Эдуард Андреевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ АССР. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '40853'
       num: '2'
       name: БЕКИРОВ Осман Зеки
+      rowinpage: '2'
       spravka: true
     - id: '40854'
       num: '3'
       name: БИРЗГАЛ Николай Карлович
+      rowinpage: '3'
       spravka: true
     - id: '40855'
       num: '4'
       name: БОЯДЖИЕВ Тейфук Сулейманович
+      rowinpage: '4'
       spravka: true
     - id: '40856'
       num: '5'
       name: БУЛАВЕНКО Алексей Петрович
+      rowinpage: '5'
       spravka: true
     - id: '40857'
       num: '6'
       name: ВАИТОВ Мамут Умер
+      rowinpage: '6'
     - id: '40858'
       num: '7'
       name: ВАЩЕНКО Влас Федорович
+      rowinpage: '7'
       spravka: true
     - id: '40859'
       num: '8'
       name: ВЕБЕР Макс Максович
+      rowinpage: '8'
       spravka: true
     - id: '40860'
       num: '9'
       name: ВЕЙС Михаил Робертович
+      rowinpage: '9'
       spravka: true
     - id: '40861'
       num: '10'
       name: ГАУСМАН Александр Эдуардович
+      rowinpage: '10'
       spravka: true
     - id: '40862'
       num: '11'
       name: ГЕЛЬМАН Лев Евсеевич
+      rowinpage: '11'
       spravka: true
     - id: '40863'
       num: '12'
       name: ГРОМОВ Константин Георгиевич
+      rowinpage: '12'
     - id: '40864'
       num: '13'
       name: ЗЕЙБЕРЛИХ Герман Александрович
+      rowinpage: '13'
       spravka: true
     - id: '40865'
       num: '14'
       name: ЗУСМАНОВИЧ Эрнест Исаакович
+      rowinpage: '14'
     - id: '40866'
       num: '15'
       name: ИЗМАЙЛОВ Ибадулла Исмаилович
+      rowinpage: '15'
       spravka: true
     - id: '40867'
       num: '16'
       name: КАТСУ Иосиф Александрович
+      rowinpage: '16'
     - id: '40868'
       num: '17'
       name: КОЗЛОВ Иван Иванович
+      rowinpage: '17'
       spravka: true
     - id: '40869'
       num: '18'
       name: КОПЫЛОВ Семен Михайлович
+      rowinpage: '18'
     - id: '40870'
       num: '19'
       name: КРУГЛОВ Павел Васильевич
+      rowinpage: '19'
     - id: '40871'
       num: '20'
       name: ЛЮФТ Христиан Иванович
+      rowinpage: '20'
       spravka: true
     - id: '40872'
       num: '21'
       name: МАЛАХОВ Александр Иванович
+      rowinpage: '21'
       spravka: true
     - id: '40873'
       num: '22'
       name: МИХАЙЛОВ Сергей Иванович
+      rowinpage: '22'
       spravka: true
     - id: '40874'
       num: '23'
       name: НЕАБ Эйген Мартынович
+      rowinpage: '23'
       spravka: true
 - pageintom: '3'
   image: v11/17-171-419-003.jpg
+  title: Крымская АССР
   sublists:
   - sublid: '613'
     persons:
     - id: '40875'
       num: '24'
       name: ОРЛОВ СААР Александр Иванович
+      rowinpage: '1'
     - id: '40876'
       num: '25'
       name: ПОЛЯХ Вели Асанович
+      rowinpage: '2'
       spravka: true
     - id: '40877'
       num: '26'
       name: РЕФАТОВ Асан Мамутович
+      rowinpage: '3'
       spravka: true
     - id: '40878'
       num: '27'
       name: РОЗЕНБАУМ Георгий Леопольдович
+      rowinpage: '4'
       spravka: true
     - id: '40879'
       num: '28'
       name: СЕФЕРОВ Зекирья Мустафа
+      rowinpage: '5'
       spravka: true
     - id: '40880'
       num: '29'
       name: СТУПНИКОВ Леонид Ипатьевич
+      rowinpage: '6'
     - id: '40881'
       num: '30'
       name: СУЛТАНОВ Джеппар Абдураманович
+      rowinpage: '7'
       spravka: true
     - id: '40882'
       num: '31'
       name: ТАНАБАЙЛЫ Вейс Акмолла
+      rowinpage: '8'
       spravka: true
     - id: '40883'
       num: '32'
       name: ЦЕЙТЛИН Залман Карпович
+      rowinpage: '9'
       spravka: true
     - id: '40884'
       num: '33'
       name: ЧАЧИ АБДУЛЛА МУСТАФА
+      rowinpage: '10'
     - id: '40885'
       num: '34'
       name: ШЕРФЕДИНОВ Зекирья
+      rowinpage: '11'
     - id: '40886'
       num: '35'
       name: ШПАЙЕР Соломон Маркович
+      rowinpage: '12'
       spravka: true
     - id: '40887'
       num: '36'
       name: ЭЛЬБЕРФЕЛЬД Вальтер Фридрихович
+      rowinpage: '13'
     - id: '40888'
       num: '37'
       name: ЭМИР САЛИЕВ МЕМЕТ
+      rowinpage: '14'
       spravka: true
 - pageintom: '4'
   image: v11/17-171-419-004.jpg
+  title: null
   sublists:
   - sublid: '613'
     persons:
     - id: '40889'
       num: '1'
       name: ШЕЙЕР Пауль Августович
+      rowinpage: '1'
       gb_spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ АССР</u><br />(иностранные подданные)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '40890'
       num: '2'
       name: ЭПШТЕЙН Герман Тобиасович
+      rowinpage: '2'
       gb_spravka: true
 - pageintom: '5'
   image: v11/17-171-419-005.jpg
+  title: null
   sublists: []
 - pageintom: '6'
   image: v11/17-171-419-006.jpg
+  title: null
   sublists: []
 - pageintom: '7'
   image: v11/17-171-419-007.jpg
+  title: null
   sublists:
   - sublid: '613'
     persons:
     - id: '40891'
       num: '1'
       name: АСАНОВ Али Асанович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КРЫМСКАЯ АССР. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '40892'
       num: '2'
       name: АЧКИНАЗИ Ион Лазаревич
+      rowinpage: '2'
       spravka: true
     - id: '40893'
       num: '3'
       name: БЕКИРОВ Мустафа Эбубекирович
+      rowinpage: '3'
       spravka: true
     - id: '40894'
       num: '4'
       name: БРУДНЫЙ Эляким Лейбович
+      rowinpage: '4'
     - id: '40895'
       num: '5'
       name: ГАЛЬПЕРИН Ефим Исакович
+      rowinpage: '5'
       spravka: true
     - id: '40896'
       num: '6'
       name: ГРАЛОВ Аблямит
+      rowinpage: '6'
     - id: '40897'
       num: '7'
       name: ДЕВЛЕТОВ ШЕМСЕДИН
+      rowinpage: '7'
     - id: '40898'
       num: '8'
       name: МЕНКЕС Михаил Самойлович
+      rowinpage: '8'
       spravka: true
     - id: '40899'
       num: '9'
       name: НЕГАМЕТУЛИН Садык Файзрахманович
+      rowinpage: '9'
       spravka: true
     - id: '40900'
       num: '10'
       name: НОВИКОВ Степан Васильевич
+      rowinpage: '10'
     - id: '40901'
       num: '11'
       name: ПОЛОТАЙ Николай Исидорович
+      rowinpage: '11'
       spravka: true
     - id: '40902'
       num: '12'
       name: ТЕМНЫЙ Захар Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '40903'
       num: '13'
       name: ТУПЧИЕНКО Иван Федорович
+      rowinpage: '13'
       spravka: true
     - id: '40904'
       num: '14'
       name: УСЕИНОВ БИЛЯЛ АБЛА
+      rowinpage: '14'
     - id: '40905'
       num: '15'
       name: УШАКОВ Исмаил Усеинович
+      rowinpage: '15'
     - id: '40906'
       num: '16'
       name: ЦУПКО Василий Герасимович
+      rowinpage: '16'
       spravka: true
     - id: '40907'
       num: '17'
       name: ЯРИЗОВ Василий Павлович
+      rowinpage: '17'

@@ -1,9 +1,10 @@
 id: '217'
 title: 'Список лиц: Украинская ССР // " " сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '10'
 date: '1937-09-07'
+date_ru: 07.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -30,164 +31,206 @@ sublists:
 pages:
 - pageintom: '10'
   image: v03/17-171-411-010.jpg
+  title: null
   sublists: []
 - pageintom: '11'
   image: v03/17-171-411-011.jpg
+  title: null
   sublists: []
 - pageintom: '12'
   image: v03/17-171-411-012.jpg
+  title: null
   sublists:
   - sublid: '341'
     persons:
     - id: '7838'
       num: '1'
       name: АЛЬШЕР Казимир Оскарович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u><br /><u> (бывшие сотрудники
         НКВД УССР) </u></p><p align="right"><u>1-я категория</u>
     - id: '7839'
       num: '2'
       name: АУЗЕН Альберт Янович
+      rowinpage: '2'
       spravka: true
     - id: '7840'
       num: '3'
       name: БЕРМАН Александр Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '7841'
       num: '4'
       name: БОРДОН Георгий Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '7842'
       num: '5'
       name: БОРТНОВСКИЙ Николай Иванович
+      rowinpage: '5'
     - id: '7843'
       num: '6'
       name: БРУК Соломон Соломонович
+      rowinpage: '6'
       spravka: true
     - id: '7844'
       num: '7'
       name: ВЫШИЦКИЙ Мечислав Альбертович
+      rowinpage: '7'
       spravka: true
     - id: '7845'
       num: '8'
       name: ГАФАНОВИЧ Яков Эммануилович
+      rowinpage: '8'
     - id: '7846'
       num: '9'
       name: ГРИГОРЕНКО Николай Алексеевич
+      rowinpage: '9'
       spravka: true
     - id: '7847'
       num: '10'
       name: ГРУШЕВСКИЙ Николай Дмитриевич
+      rowinpage: '10'
       spravka: true
     - id: '7848'
       num: '11'
       name: ДЖАВАХОВ Михаил Григорьевич
+      rowinpage: '11'
       spravka: true
     - id: '7849'
       num: '12'
       name: ЕВДОТЬЕВ Владимир Павлович
+      rowinpage: '12'
       spravka: true
     - id: '7850'
       num: '13'
       name: КУЛЕША Николай Игнатьевич
+      rowinpage: '13'
       spravka: true
     - id: '7851'
       num: '14'
       name: КУПЧИК Исаак Юльевич
+      rowinpage: '14'
       spravka: true
     - id: '7852'
       num: '15'
       name: КУРОВСКИЙ Стефан Михайлович
+      rowinpage: '15'
     - id: '7853'
       num: '16'
       name: МАЦКЕВИЧ Семен Миронович
+      rowinpage: '16'
     - id: '7854'
       num: '17'
       name: НАУМЕНКО Евгений Николаевич
+      rowinpage: '17'
       spravka: true
     - id: '7855'
       num: '18'
       name: ОЛЬШАНСКИЙ Семен Абрамович
+      rowinpage: '18'
       spravka: true
     - id: '7856'
       num: '19'
       name: ОРЕЛОВИЧ Соломон Лазаревич
+      rowinpage: '19'
       spravka: true
     - id: '7857'
       num: '20'
       name: ПАХИЛО Федор Тимофеевич
+      rowinpage: '20'
     - id: '7858'
       num: '21'
       name: ПИОТРОВСКИЙ Станислав Иосифович
+      rowinpage: '21'
       spravka: true
     - id: '7859'
       num: '22'
       name: ПИСЬМЕННЫЙ Яков Вульфович
+      rowinpage: '22'
       spravka: true
     - id: '7860'
       num: '23'
       name: ПУСТОВОЙТОВ Сергей Аполлонович
+      rowinpage: '23'
       spravka: true
     - id: '7861'
       num: '24'
       name: РЫКОВ Владимир Васильевич
+      rowinpage: '24'
       spravka: true
 - pageintom: '13'
   image: v03/17-171-411-013.jpg
+  title: Украинская ССР
   sublists:
   - sublid: '341'
     persons:
     - id: '7862'
       num: '25'
       name: РОДАЛ Меер Бениаминович
+      rowinpage: '1'
       spravka: true
     - id: '7863'
       num: '26'
       name: РОЗАНОВ Александр Борисович, он же <br />РОЗЕНБАРТ Абрам Борисович
+      rowinpage: '2'
       spravka: true
     - id: '7864'
       num: '27'
       name: РУБИНШТЕЙН Наум Львович
+      rowinpage: '3'
       spravka: true
     - id: '7865'
       num: '28'
       name: РУДОМИНО Генрих Генрихович
+      rowinpage: '4'
     - id: '7866'
       num: '29'
       name: СЕЛИВАНОВ Петр Максимович
+      rowinpage: '5'
       spravka: true
     - id: '7867'
       num: '30'
       name: СЕМЕНОВ Петр Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '7868'
       num: '31'
       name: СЛОВИНСКИЙ Леонид Геннадиевич
+      rowinpage: '7'
       spravka: true
     - id: '7869'
       num: '32'
       name: СОРОЦКИЙ Лев Моисеевич
+      rowinpage: '8'
       spravka: true
     - id: '7870'
       num: '33'
       name: СТРИЖЕВСКИЙ Леонид Игнатьевич
+      rowinpage: '9'
       spravka: true
     - id: '7871'
       num: '34'
       name: ХАН Наум Моисеевич
+      rowinpage: '10'
       spravka: true
     - id: '7872'
       num: '35'
       name: ШОСТАК Ефим Григорьевич
+      rowinpage: '11'
       spravka: true
     - id: '7873'
       num: '36'
       name: ШОСТАК-СОКОЛОВ Петр Григорьевич
+      rowinpage: '12'
       spravka: true
     - id: '7874'
       num: '37'
       name: ШУЛЬМАН Борис Иосифович
+      rowinpage: '13'
     - id: '7875'
       num: '38'
       name: ЭНКЛЕР Константин Константинович
+      rowinpage: '14'
       spravka: true

@@ -1,9 +1,10 @@
 id: '128'
 title: Список лиц - Казахская ССР // 7 декабря 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '177'
 date: '1937-12-07'
+date_ru: 07.12.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,271 +29,337 @@ sublists:
 pages:
 - pageintom: '177'
   image: v05/17-171-413-177.jpg
+  title: null
   sublists: []
 - pageintom: '178'
   image: v05/17-171-413-178.jpg
+  title: null
   sublists: []
 - pageintom: '179'
   image: v05/17-171-413-179.jpg
+  title: null
   sublists:
   - sublid: '82'
     persons:
     - id: '16501'
       num: '1'
       name: АБДУЛЛИН Баймахан Альшерович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ ССР. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '16502'
       num: '2'
       name: АЙТУАРОВ Бабай
+      rowinpage: '2'
       spravka: true
     - id: '16503'
       num: '3'
       name: АКЧАЛОВ Турсжан
+      rowinpage: '3'
       spravka: true
     - id: '16504'
       num: '4'
       name: АЛИХАНОВ Фазыл Акзам
+      rowinpage: '4'
       spravka: true
     - id: '16505'
       num: '5'
       name: АТАМБЕКОВ Сапаргалий
+      rowinpage: '5'
       spravka: true
     - id: '16506'
       num: '6'
       name: АЮПОВ Мулюк
+      rowinpage: '6'
       spravka: true
     - id: '16507'
       num: '7'
       name: БАЙДАВЛЕТОВ Хакимжан
+      rowinpage: '7'
       spravka: true
     - id: '16508'
       num: '8'
       name: БАИСОВ Артык
+      rowinpage: '8'
       spravka: true
     - id: '16509'
       num: '9'
       name: БУРАЕВ Уразгалий
+      rowinpage: '9'
       spravka: true
     - id: '16510'
       num: '10'
       name: ГАЙСИН Шакур
+      rowinpage: '10'
       spravka: true
     - id: '16511'
       num: '11'
       name: ДЖУЛДЫБАЕВ Аскарбек Табылбекович
+      rowinpage: '11'
       spravka: true
     - id: '16512'
       num: '12'
       name: ДИВЕЕВ Шакир Галеевич
+      rowinpage: '12'
       spravka: true
     - id: '16513'
       num: '13'
       name: ДЖАНДОСОВ Ураз Кикимович
+      rowinpage: '13'
       spravka: true
     - id: '16514'
       num: '14'
       name: ДЖАНТЛЕУОВ Шайха Османович
+      rowinpage: '14'
       spravka: true
     - id: '16515'
       num: '15'
       name: ЕСКАРАЕВ Сулеймен
+      rowinpage: '15'
       spravka: true
     - id: '16516'
       num: '16'
       name: ЖАМАНКУЛОВ Рахимжан
+      rowinpage: '16'
       spravka: true
     - id: '16517'
       num: '17'
       name: ЖАМАНМУРУНОВ Тель
+      rowinpage: '17'
       spravka: true
     - id: '16518'
       num: '18'
       name: ИЛЬБЕСИНОВ Хусаин
+      rowinpage: '18'
       spravka: true
     - id: '16519'
       num: '19'
       name: ИМАМБЕКОВ Судырбай
+      rowinpage: '19'
       spravka: true
     - id: '16520'
       num: '20'
       name: ИСМАГУЛОВ Газиз Манапович
+      rowinpage: '20'
       spravka: true
     - id: '16521'
       num: '21'
       name: КАРАТЛЕУОВ Селимгирей
+      rowinpage: '21'
       spravka: true
     - id: '16522'
       num: '22'
       name: КАРИН Кенес
+      rowinpage: '22'
       spravka: true
 - pageintom: '180'
   image: v05/17-171-413-180.jpg
+  title: Казахская ССР
   sublists:
   - sublid: '82'
     persons:
     - id: '16523'
       num: '23'
       name: КЕНЖИН Асфендиар
+      rowinpage: '1'
       spravka: true
     - id: '16524'
       num: '24'
       name: КОМОЛОВ Герасим Семенович
+      rowinpage: '2'
       spravka: true
     - id: '16525'
       num: '25'
       name: КОШАНБАЕВ Хасен
+      rowinpage: '3'
       spravka: true
     - id: '16526'
       num: '26'
       name: КУДЕРИН Джумахан Маусумбаевич
+      rowinpage: '4'
       spravka: true
     - id: '16527'
       num: '27'
       name: КУЛЕНОВ Саляхмат
+      rowinpage: '5'
       spravka: true
     - id: '16528'
       num: '28'
       name: КУЛУМБЕТОВ Узакбай Джильдирбаевич
+      rowinpage: '6'
       spravka: true
     - id: '16529'
       num: '29'
       name: КУРАМЫСОВ Сахип-Керей Мажитович
+      rowinpage: '7'
       spravka: true
     - id: '16530'
       num: '30'
       name: КУРМАНАЛИН Ерембек Курманович
+      rowinpage: '8'
       spravka: true
     - id: '16531'
       num: '31'
       name: МАЛЕЕВ Гафар
+      rowinpage: '9'
       spravka: true
     - id: '16532'
       num: '32'
       name: МАСАНЧИ Магаза Лебузович
+      rowinpage: '10'
       spravka: true
     - id: '16533'
       num: '33'
       name: МИРЕЕВ Сулеймен
+      rowinpage: '11'
       spravka: true
     - id: '16534'
       num: '34'
       name: МОЛДАЖАНОВ Ильяс Исмаилович
+      rowinpage: '12'
       spravka: true
     - id: '16535'
       num: '35'
       name: НАХИМЖАН Амзе
+      rowinpage: '13'
       spravka: true
     - id: '16536'
       num: '36'
       name: ОДНОЛЕТКО Кузьма Иванович
+      rowinpage: '14'
       spravka: true
     - id: '16537'
       num: '37'
       name: РИТМАН Яков Наумович
+      rowinpage: '15'
       spravka: true
     - id: '16538'
       num: '38'
       name: САДЫКБЕКОВ Султанбек Бекович
+      rowinpage: '16'
       spravka: true
     - id: '16539'
       num: '39'
       name: САРЫМУЛДАЕВ Кабылбек
+      rowinpage: '17'
       spravka: true
     - id: '16540'
       num: '40'
       name: СЕЙСЕКЕНОВ Буркуталы
+      rowinpage: '18'
       spravka: true
     - id: '16541'
       num: '41'
       name: СУЛЕЙМАНОВ Хаки Юсупович
+      rowinpage: '19'
       spravka: true
     - id: '16542'
       num: '42'
       name: СУЛТАНБЕКОВ Жагфар
+      rowinpage: '20'
       spravka: true
     - id: '16543'
       num: '43'
       name: ТАЖИБАЕВ Дюсен Бутенбаевич
+      rowinpage: '21'
       spravka: true
     - id: '16544'
       num: '44'
       name: ТАИРОВ Исмаил Мансурович
+      rowinpage: '22'
       spravka: true
     - id: '16545'
       num: '45'
       name: ТАСМАГАМБЕТОВ Губайдулла
+      rowinpage: '23'
       spravka: true
     - id: '16546'
       num: '46'
       name: ТИНТАЕВ Темирбек
+      rowinpage: '24'
       spravka: true
     - id: '16547'
       num: '47'
       name: ТОГЖАНОВ Габбас Садвокасович
+      rowinpage: '25'
       spravka: true
     - id: '16548'
       num: '48'
       name: ТОРЕГОЖИН Зайнулла Сейтжанович
+      rowinpage: '26'
       spravka: true
     - id: '16549'
       num: '49'
       name: ТУНГАНЧИН Мухамедьяр
+      rowinpage: '27'
       spravka: true
     - id: '16550'
       num: '50'
       name: УРДАБАЕВ Рамазан Галиевич
+      rowinpage: '28'
       spravka: true
 - pageintom: '181'
   image: v05/17-171-413-181.jpg
+  title: Казахская ССР
   sublists:
   - sublid: '82'
     persons:
     - id: '16551'
       num: '51'
       name: УТЕКИН Алькей Сыздыкович
+      rowinpage: '1'
       spravka: true
     - id: '16552'
       num: '52'
       name: ЧОМАНОВ Рахметжан Калиманович
+      rowinpage: '2'
       spravka: true
     - id: '16553'
       num: '53'
       name: ШАМГУНОВ Нурмагамбет
+      rowinpage: '3'
       spravka: true
     - id: '16554'
       num: '54'
       name: ШОНАНОВ Тельжан
+      rowinpage: '4'
       spravka: true
     - id: '16555'
       num: '55'
       name: ЮСУПОВ Шакир Якупович
+      rowinpage: '5'
       spravka: true
 - pageintom: '182'
   image: v05/17-171-413-182.jpg
+  title: null
   sublists:
   - sublid: '82'
     persons:
     - id: '16556'
       num: '1'
       name: АКБЕРДИН Кулатай
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАЗАХСКАЯ ССР. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '16557'
       num: '2'
       name: БЕЙСЕМБЕТОВ Сарсембай
+      rowinpage: '2'
       spravka: true
     - id: '16558'
       num: '3'
       name: КУАНЫШЕВ Кадыр
+      rowinpage: '3'
       spravka: true
     - id: '16559'
       num: '4'
       name: МАСАКБАЕВ Закария
+      rowinpage: '4'
       spravka: true
     - id: '16560'
       num: '5'
       name: ФАИЗОВ Магунат
+      rowinpage: '5'
       spravka: true

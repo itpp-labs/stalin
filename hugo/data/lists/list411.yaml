@@ -1,9 +1,10 @@
 id: '411'
 title: Список арестованных МГБ СССР изменников родины, шпионов, подрывников и террористов
 archive:
-  ref: АП РФ, ф.3, т.16, оп.57, дело 100
+  ref: АП РФ, ф.3, оп.57, дело 100
   page1: '2'
 date: '1950-03-23'
+date_ru: 23.03.1950
 tom: 16
 delo:
   name: ''
@@ -26,18 +27,22 @@ sublists:
 pages:
 - pageintom: '2'
   image: v16/3-57-100-02.jpg
+  title: null
   sublists: []
 - pageintom: '3'
   image: v16/3-57-100-03.jpg
+  title: null
   sublists: []
 - pageintom: '4'
   image: v16/3-57-100-04.jpg
+  title: null
   sublists:
   - sublid: '670'
     persons:
     - id: '45072'
       num: '1'
       name: ВОЗНЕСЕНСКИЙ Николай Алексеевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
       subtitle1: <u>СПИСОК</u><br />арестованных МГБ СССР изменников родины, шпионов,
@@ -45,692 +50,826 @@ pages:
     - id: '45073'
       num: '2'
       name: КУЗНЕЦОВ Алексей Александрович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '5'
   image: v16/3-57-100-05.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45074'
       num: '3'
       name: ПОПКОВ Петр Сергеевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '6'
   image: v16/3-57-100-06.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45075'
       num: '4'
       name: КАПУСТИН Яков Федорович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45076'
       num: '5'
       name: СОЛОВЬЕВ Николай Васильевич
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '7'
   image: v16/3-57-100-07.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45077'
       num: '6'
       name: ЛАЗУТИН Петр Георгиевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45078'
       num: '7'
       name: РОДИОНОВ Михаил Иванович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '8'
   image: v16/3-57-100-08.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45079'
       num: '8'
       name: ВОЗНЕСЕНСКИЙ Александр Алексеевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45080'
       num: '9'
       name: КУБАТКИН Петр Николаевич
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '9'
   image: v16/3-57-100-09.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45081'
       num: '10'
       name: ВЕРБИЦКИЙ Александр Дмитриевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45082'
       num: '11'
       name: ТУРКО Иосиф Михайлович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '10'
   image: v16/3-57-100-10.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45083'
       num: '12'
       name: ЛЕВИН Пантелеймон Иванович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45084'
       num: '13'
       name: БАДАЕВ Георгий Федорович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '11'
   image: v16/3-57-100-11.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45085'
       num: '14'
       name: ВОЗНЕСЕНСКАЯ Мария Алексеевна
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45086'
       num: '15'
       name: ХАРИТОНОВ Илья Степанович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '12'
   image: v16/3-57-100-12.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45087'
       num: '16'
       name: БОЯР Эмиль Петрович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45088'
       num: '17'
       name: БУРИЛИН Андрей Иванович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '13'
   image: v16/3-57-100-13.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45089'
       num: '18'
       name: БАСОВ Михаил Васильевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '14'
   image: v16/3-57-100-14.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45090'
       num: '19'
       name: НИКИТИН Михаил Никитич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45091'
       num: '20'
       name: ГРИГОРЬЕВ Алексей Михайлович
+      rowinpage: '2'
       gb_spravka: true
 - pageintom: '15'
   image: v16/3-57-100-15.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45092'
       num: '21'
       name: ШУМИЛОВ Николай Дмитриевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45093'
       num: '22'
       name: ТИХОНОВ Александр Яковлевич
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
     - id: '45094'
       num: '23'
       name: САФОНОВ Михаил Иванович
+      rowinpage: '3'
       gb_spravka: true
       spravka: true
 - pageintom: '16'
   image: v16/3-57-100-16.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45095'
       num: '24'
       name: ГАЛКИН Владимир Петрович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45096'
       num: '25'
       name: ЗАКРЖЕВСКАЯ Таисия Владимировна
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '17'
   image: v16/3-57-100-17.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45097'
       num: '26'
       name: ИВАНОВ Всеволод Николаевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '18'
   image: v16/3-57-100-18.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45098'
       num: '27'
       name: МИХЕЕВ Филипп Егорович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45099'
       num: '28'
       name: ПЕТРОВСКИЙ Михаил Иванович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
     - id: '45100'
       num: '29'
       name: ХОВАНОВ Николай Петрович
+      rowinpage: '3'
       gb_spravka: true
 - pageintom: '19'
   image: v16/3-57-100-19.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45101'
       num: '30'
       name: ЧУРСИН Прокопий Алексеевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45102'
       num: '31'
       name: НИКАНОРОВ Василий Иванович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '20'
   image: v16/3-57-100-20.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45103'
       num: '32'
       name: БОНДАРЕНКО Петр Тихонович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45104'
       num: '33'
       name: ЛОЗОВСКИЙ Соломон Абрамович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '21'
   image: v16/3-57-100-21.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45105'
       num: '34'
       name: ФЕФЕР Исаак Соломонович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '22'
   image: v16/3-57-100-22.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45106'
       num: '35'
       name: ЮЗЕФОВИЧ Иосиф Сигизмундович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '23'
   image: v16/3-57-100-23.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45107'
       num: '36'
       name: ТЕУМИН Эмилия Исааковна
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45108'
       num: '37'
       name: ВАТЕНБЕРГ Илья Семенович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '24'
   image: v16/3-57-100-24.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45109'
       num: '38'
       name: КВИТКО Лейба Моисеевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '25'
   image: v16/3-57-100-25.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45110'
       num: '39'
       name: ГОФШТЕЙН Давид Наумович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '26'
   image: v16/3-57-100-26.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45111'
       num: '40'
       name: НУСИНОВ Исаак Маркович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45112'
       num: '41'
       name: ШИМЕЛИОВИЧ Борис Абрамович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '27'
   image: v16/3-57-100-27.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45113'
       num: '42'
       name: БРЕГМАН Соломон Леонтьевич
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '28'
   image: v16/3-57-100-28.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45114'
       num: '43'
       name: ЗУСКИН Вениамин Львович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45115'
       num: '44'
       name: СПИВАК Илья Григорьевич, он же Эля Гершович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '29'
   image: v16/3-57-100-29.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45116'
       num: '45'
       name: БЕРГЕЛЬСОН Давид Рафаилович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '30'
   image: v16/3-57-100-30.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45117'
       num: '46'
       name: МАРКИШ Перец Давидович
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
     - id: '45118'
       num: '47'
       name: ВАТЕНБЕРГ-ОСТРОВСКАЯ Чайка Семеновна
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '31'
   image: v16/3-57-100-31.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45119'
       num: '48'
       name: ШТЕРН Лина Соломоновна
+      rowinpage: '1'
       gb_spravka: true
       spravka: true
 - pageintom: '32'
   image: v16/3-57-100-32.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45157'
       num: '49'
       name: ФЕДОСЕЕВ Иван Иванович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45121'
       num: '50'
       name: ТЕРЕНТЬЕВ Иван Николаевич
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '33'
   image: v16/3-57-100-33.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45158'
       num: '51'
       name: МАТУСИС Ирина Владимировна
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45123'
       num: '52'
       name: БОРОДИН Михаил Маркович
+      rowinpage: '2'
       gb_spravka: true
       spravka: true
 - pageintom: '34'
   image: v16/3-57-100-34.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45159'
       num: '53'
       name: РИГЕРМАН Георгий Александрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '35'
   image: v16/3-57-100-35.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45160'
       num: '54'
       name: ИВИЧ Леонид Абрамович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '36'
   image: v16/3-57-100-36.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45161'
       num: '55'
       name: ЗИНДЕ Михаил Моисеевич, он же Соломон Моисеевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45162'
       num: '56'
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '37'
   image: v16/3-57-100-37.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45163'
       num: '57'
       name: ФРИДМАН Сам-Рафаэль Яковлевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45164'
       num: '58'
       name: АНДРЕЙЧИН Георгий Ильич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '38'
   image: v16/3-57-100-38.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45165'
       num: '59'
       name: ХУДЯКОВ Сергей Александрович, он же <br />ХАНФЕРЯНЦ Арменак Артемьевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '39'
   image: v16/3-57-100-39.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45166'
       num: '60'
       name: КОЛЕСНИКОВ Вениамин Петрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45167'
       num: '61'
       name: ЕГОРОВ Юрий Федорович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '40'
   image: v16/3-57-100-40.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45168'
       num: '62'
       name: БЕССОНОВ Иван Георгиевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '41'
   image: v16/3-57-100-41.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45169'
       num: '63'
       name: БУДЫХО Александр Ефимович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45170'
       num: '64'
       name: БОГДАНОВ Павел Васильевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '42'
   image: v16/3-57-100-42.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45171'
       num: '65'
       name: НАУМОВ Андрей Зиновьевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45172'
       num: '66'
       name: ЕГОРОВ Евгений Арсеньевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '43'
   image: v16/3-57-100-43.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45173'
       num: '67'
       name: ЗЫБИН Ефим Сергеевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '44'
   image: v16/3-57-100-44.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45174'
       num: '68'
       name: БОГДАНОВ Михаил Васильевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45175'
       num: '69'
       name: ТАСОЕВ Ясон Давыдович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '45'
   image: v16/3-57-100-45.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45176'
       num: '70'
       name: САВИНОВ Владимир Александрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45662'
       num: '71'
       name: КОССА Михаил Ильич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '46'
   image: v16/3-57-100-46.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45663'
       num: '72'
       name: ГЛАВАЦКИЙ Иосиф Иосифович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45177'
       num: '73'
       name: ГУТГАРЦ Шмиль Григорьевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '47'
   image: v16/3-57-100-47.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45178'
       num: '74'
       name: БОГОЛЮБОВ Сергей Александрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45179'
       num: '75'
       name: КАПУСТИН Михаил Алексеевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '48'
   image: v16/3-57-100-48.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45180'
       num: '76'
       name: ЯКОБСОН Борис Исаакович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '49'
   image: v16/3-57-100-49.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45181'
       num: '77'
       name: РОСТОВЦЕВА Ольга Михайловна
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45182'
       num: '78'
       name: РОСТОВЦЕВА Ирина Евгеньевна
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '50'
   image: v16/3-57-100-50.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45183'
       num: '79'
       name: ТОПОРКОВА Елена Алексеевна
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45184'
       num: '80'
       name: ЮРКОВСКИЙ Василий Яковлевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '51'
   image: v16/3-57-100-51.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45185'
       num: '81'
       name: ПОПОВ Назар Анфиногенович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
 - pageintom: '52'
   image: v16/3-57-100-52.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45186'
       num: '82'
       name: МАТРЕНИНСКИЙ Василий Иосифович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45187'
       num: '83'
       name: АМАН Георгий Матвеевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '53'
   image: v16/3-57-100-53.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45188'
       num: '84'
       name: ГААГЕ Александр Георгиевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '54'
   image: v16/3-57-100-54.jpg
+  title: ''
   sublists:
   - sublid: '670'
     persons:
     - id: '45189'
       num: '85'
       name: ЯНКЕ Курт
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true

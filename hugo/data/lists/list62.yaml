@@ -1,9 +1,10 @@
 id: '62'
 title: Список лиц // 14 августа 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '222'
 date: '1937-08-14'
+date_ru: 14.08.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -27,115 +28,142 @@ sublists:
 pages:
 - pageintom: '222'
   image: v02/17-171-410-222.jpg
+  title: null
   sublists: []
 - pageintom: '223'
   image: v02/17-171-410-223.jpg
+  title: null
   sublists:
   - sublid: '45'
     persons:
     - id: '5909'
       num: '1'
       name: АВЕРБАХ Леопольд Леонидович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СПИСОК </u></p><p align="right"><u>1-я категория.</u>
     - id: '5910'
       num: '2'
       name: БРЕГАДЗЕ Иван Георгиевич
+      rowinpage: '2'
       spravka: true
     - id: '5911'
       num: '3'
       name: ВИНЕЦКИЙ Игорь Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '5912'
       num: '4'
       name: ВОЛОВИЧ Захар Ильич
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '5913'
       num: '5'
       name: БУЛАНОВ Павел Петрович
+      rowinpage: '5'
       striked: true
       spravka: true
     - id: '5914'
       num: '6'
       name: ГОЛОВ Яков Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '5915'
       num: '7'
       name: ГРИГОРЬЕВ Владимир Васильевич
+      rowinpage: '7'
       spravka: true
     - id: '5916'
       num: '8'
       name: ГУБИН Александр Антонович
+      rowinpage: '8'
       spravka: true
     - id: '5917'
       num: '9'
       name: ДЗИЧКОВСКИЙ Афанасий Евстафьевич
+      rowinpage: '9'
       spravka: true
     - id: '5918'
       num: '10'
       name: ЗАПОРОЖЕЦ Иван Васильевич
+      rowinpage: '10'
       spravka: true
     - id: '5919'
       num: '11'
       name: КРЮКОВ Василий Васильевич
+      rowinpage: '11'
       spravka: true
     - id: '5920'
       num: '12'
       name: КШАНОВИЧ Бронислав Викентьевич
+      rowinpage: '12'
       spravka: true
     - id: '5921'
       num: '13'
       name: ЛИТВИНОВА Фаня Марковна
+      rowinpage: '13'
       spravka: true
     - id: '5922'
       num: '14'
       name: ЛОРЕНС Иван Юрьевич
+      rowinpage: '14'
       spravka: true
     - id: '5923'
       num: '15'
       name: ЛУРЬЕ Мария Михайловна
+      rowinpage: '15'
       spravka: true
     - id: '5924'
       num: '16'
       name: МАКСИМОВИЧ Андрей Григорьевич
+      rowinpage: '16'
       spravka: true
     - id: '5925'
       num: '17'
       name: ПАУКЕР Карл Викторович
+      rowinpage: '17'
       doublesexists: true
       spravka: true
     - id: '5926'
       num: '18'
       name: ПРОКОФЬЕВ Георгий Евгеньевич
+      rowinpage: '18'
       spravka: true
     - id: '5927'
       num: '19'
       name: САВОЛАЙНЕН Иван Михайлович
+      rowinpage: '19'
       doublesexists: true
       spravka: true
     - id: '5928'
       num: '20'
       name: СОТНИКОВ Фердинанд Иванович
+      rowinpage: '20'
       spravka: true
     - id: '5929'
       num: '21'
       name: ТИМОФЕЕВ Василий Иванович
+      rowinpage: '21'
       spravka: true
     - id: '5930'
       num: '22'
       name: УРБАНОВИЧ Казимир Иванович
+      rowinpage: '22'
       spravka: true
     - id: '5931'
       num: '23'
       name: ФИЛИППОВ Федор Иванович
+      rowinpage: '23'
       spravka: true
     - id: '5932'
       num: '24'
       name: ФИРИН Семен Григорьевич
+      rowinpage: '24'
       spravka: true
     - id: '5933'
       num: '25'
       name: ШАНИН Александр Михайлович
+      rowinpage: '25'
       doublesexists: true
       spravka: true

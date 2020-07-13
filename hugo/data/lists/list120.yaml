@@ -1,9 +1,10 @@
 id: '120'
 title: Список лиц - Ленинградская область, Карельская АССР // 22 ноября 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.5, оп.171, дело 413
+  ref: РГАСПИ, ф.17, оп.171, дело 413
   page1: '98'
 date: '1937-11-22'
+date_ru: 22.11.1937
 tom: 5
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -40,178 +41,221 @@ sublists:
 pages:
 - pageintom: '98'
   image: v05/17-171-413-098.jpg
+  title: null
   sublists: []
 - pageintom: '99'
   image: v05/17-171-413-099.jpg
+  title: null
   sublists: []
 - pageintom: '100'
   image: v05/17-171-413-100.jpg
+  title: null
   sublists:
   - sublid: '270'
     persons:
     - id: '15261'
       num: '1'
       name: АРТЮХОВ Илларион Борисович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '15262'
       num: '2'
       name: БЕРЗЦЕМ Альфред Иванович
+      rowinpage: '2'
       spravka: true
     - id: '15263'
       num: '3'
       name: БИНЯТОВ Захарий Константинович
+      rowinpage: '3'
       spravka: true
     - id: '15264'
       num: '4'
       name: ГОРОХОВ Леонид Константинович
+      rowinpage: '4'
       spravka: true
     - id: '15265'
       num: '5'
       name: КОРОТКЕВИЧ Тимофей Леонтьевич
+      rowinpage: '5'
       spravka: true
     - id: '15266'
       num: '6'
       name: КОСАРЕВ Иван Прохорович
+      rowinpage: '6'
       spravka: true
     - id: '15267'
       num: '7'
       name: КРЫЛОВ Павел Иванович
+      rowinpage: '7'
       spravka: true
     - id: '15268'
       num: '8'
       name: ЛИНЕРМАН Фабиян Яковлевич
+      rowinpage: '8'
       spravka: true
     - id: '15269'
       num: '9'
       name: МИХЕЛЬМАН Адам Давыдович
+      rowinpage: '9'
       spravka: true
     - id: '15270'
       num: '10'
       name: РЫЖОВ Михаил Платонович
+      rowinpage: '10'
       spravka: true
     - id: '15271'
       num: '11'
       name: ФАЛЬКОВ Мендель Борухович (Михаил Борисович)
+      rowinpage: '11'
       spravka: true
     - id: '15272'
       num: '12'
       name: ФАРБЕНШТЕЙН Григорий Ефимович
+      rowinpage: '12'
       spravka: true
     - id: '15273'
       num: '13'
       name: ЭДИГЕР Федор Генрихович
+      rowinpage: '13'
       spravka: true
     - id: '15274'
       num: '14'
       name: ЭПШТЕЙН Лазарь Григорьевич (Гиршевич)
+      rowinpage: '14'
       spravka: true
     - id: '15275'
       num: '15'
       name: ЭРЛИХ Абрам Яковлевич
+      rowinpage: '15'
       spravka: true
 - pageintom: '101'
   image: v05/17-171-413-101.jpg
+  title: null
   sublists:
   - sublid: '270'
     persons:
     - id: '15276'
       num: '1'
       name: НАРБЕКОВА Елизавета Николаевна
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ЛЕНИНГРАДСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-ая
         категория.</u>
     - id: '15277'
       num: '2'
       name: СМИРНОВА Елена Николаевна
+      rowinpage: '2'
     - id: '15278'
       num: '3'
       name: ШТАК Александр Александрович
+      rowinpage: '3'
 - pageintom: '102'
   image: v05/17-171-413-102.jpg
+  title: null
   sublists:
   - sublid: '271'
     persons:
     - id: '15279'
       num: '1'
       name: АКОПЯН Александр Егорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КАРЕЛЬСКАЯ А.С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '15280'
       num: '2'
       name: АНТОНЕН Эро Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '15281'
       num: '3'
       name: БАРЧУГОВ Павел Матвеевич
+      rowinpage: '3'
       spravka: true
     - id: '15282'
       num: '4'
       name: БЕТХЕР Александр Антонович
+      rowinpage: '4'
       spravka: true
     - id: '15283'
       num: '5'
       name: ВАЛЛИН Георгий Иванович
+      rowinpage: '5'
       spravka: true
     - id: '15284'
       num: '6'
       name: ГОЛУБЕВ Глеб Иванович
+      rowinpage: '6'
       spravka: true
     - id: '15285'
       num: '7'
       name: ЗЕМАЦКИЙ Борис Иосифович
+      rowinpage: '7'
       spravka: true
     - id: '15286'
       num: '8'
       name: ИТКИН Самуил Абрамович
+      rowinpage: '8'
       spravka: true
     - id: '15287'
       num: '9'
       name: КОЛОДИН Иван Никитич
+      rowinpage: '9'
       spravka: true
     - id: '15288'
       num: '10'
       name: ЛАНДОРФ Бруно Карлович
+      rowinpage: '10'
       spravka: true
     - id: '15289'
       num: '11'
       name: МАРТИНЕН Ялмар Еремеевич
+      rowinpage: '11'
       spravka: true
     - id: '15290'
       num: '12'
       name: НЕЧАЕВ Василий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '15291'
       num: '13'
       name: ПАВЛОВИЧ Александр Феофилович
+      rowinpage: '13'
       spravka: true
     - id: '15292'
       num: '14'
       name: ПАЕВСКИЙ Сергей Владиславович
+      rowinpage: '14'
       spravka: true
     - id: '15293'
       num: '15'
       name: ПЕТРОВ Иван Алексеевич
+      rowinpage: '15'
       spravka: true
     - id: '15294'
       num: '16'
       name: ПОЛЕЖАЕВ Василий Семенович
+      rowinpage: '16'
       spravka: true
     - id: '15295'
       num: '17'
       name: ХОРОШКОВ Владимир Алексеевич
+      rowinpage: '17'
       spravka: true
     - id: '15296'
       num: '18'
       name: ХОСИН Михаил Александрович
+      rowinpage: '18'
       spravka: true
     - id: '15297'
       num: '19'
       name: ЭКМАН Карл Эммануилович
+      rowinpage: '19'
       spravka: true
     - id: '15298'
       num: '1'
       name: СКВОРЦОВ Яков Александрович
+      rowinpage: '20'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория</u>

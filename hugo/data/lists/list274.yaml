@@ -1,9 +1,10 @@
 id: '274'
 title: Список лиц - Москва-центр,Московская область // от 5 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '179'
 date: '1938-03-05'
+date_ru: 05.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -53,110 +54,135 @@ sublists:
 pages:
 - pageintom: '179'
   image: v07/17-171-415-179.jpg
+  title: null
   sublists: []
 - pageintom: '180'
   image: v07/17-171-415-180.jpg
+  title: null
   sublists: []
 - pageintom: '181'
   image: v07/17-171-415-181.jpg
+  title: null
   sublists:
   - sublid: '536'
     persons:
     - id: '27869'
       num: '1'
       name: БАСОВ Константин Михайлович, он же <br />АБЕЛТЫНЬ Ян Янович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '27870'
       num: '2'
       name: БЕРЛИН Владимир Маркович
+      rowinpage: '2'
       spravka: true
     - id: '27871'
       num: '3'
       name: ГОПФГАРТЕН Эмиль Рихардович
+      rowinpage: '3'
       spravka: true
     - id: '27872'
       num: '4'
       name: ДЕДЮЛИН Александр Григорьевич
+      rowinpage: '4'
       spravka: true
     - id: '27873'
       num: '5'
       name: КЛИБИК Вильгельм Егорович
+      rowinpage: '5'
       spravka: true
     - id: '27874'
       num: '6'
       name: КОРОБОВ Дмитрий Андреевич
+      rowinpage: '6'
       spravka: true
     - id: '27875'
       num: '7'
       name: ОЗОЛИН Отто Альберт Кришьянович
+      rowinpage: '7'
       spravka: true
     - id: '27876'
       num: '8'
       name: ПАНОВ Петр Александрович
+      rowinpage: '8'
       spravka: true
     - id: '27877'
       num: '9'
       name: ПАНЮКОВ Владимир Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '27878'
       num: '10'
       name: РИНК Иван Александрович
+      rowinpage: '10'
       doublesexists: true
       spravka: true
     - id: '27879'
       num: '11'
       name: СТРЖАЛКОВСКИЙ Павел Карлович
+      rowinpage: '11'
       spravka: true
     - id: '27880'
       num: '12'
       name: ФАУСЕК Николай Викторович
+      rowinpage: '12'
       spravka: true
     - id: '27881'
       num: '13'
       name: ЯНОВ Петр Ильич
+      rowinpage: '13'
       spravka: true
 - pageintom: '182'
   image: v07/17-171-415-182.jpg
+  title: null
   sublists:
   - sublid: '537'
     persons:
     - id: '27882'
       num: '1'
       name: БАЛАШОВ Николай Дмитриевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u> <br /> ( б.СОТРУДНИКИ НКВД
         ) </p><p align="right"><u>1-я категория.</u>
     - id: '27883'
       num: '2'
       name: БОГДАНОВИЧ Петр Андреевич
+      rowinpage: '2'
       spravka: true
     - id: '27884'
       num: '3'
       name: МИЛЬГРАМ Исидор Вольфович
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '27885'
       num: '4'
       name: ПАРТИН Шолом Моисеевич
+      rowinpage: '4'
       spravka: true
 - pageintom: '183'
   image: v07/17-171-415-183.jpg
+  title: null
   sublists:
   - sublid: '538'
     persons:
     - id: '27886'
       num: '1'
       name: ШУВАЛОВ Иван Григорьевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория.</u>
     - id: '27887'
       num: '1'
       name: КУКИН Василий Дмитриевич
+      rowinpage: '2'
       subtitle1: <p align="center"><u>МОСКОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория.</u>
     - id: '27888'
       num: '2'
       name: ПРОХОРОВ Павел Петрович
+      rowinpage: '3'

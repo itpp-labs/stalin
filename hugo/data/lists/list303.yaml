@@ -1,9 +1,10 @@
 id: '303'
 title: Список лиц - Свердловская область // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '139'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,126 +30,156 @@ sublists:
 pages:
 - pageintom: '139'
   image: v08/17-171-416-139.jpg
+  title: null
   sublists: []
 - pageintom: '140'
   image: v08/17-171-416-140.jpg
+  title: null
   sublists: []
 - pageintom: '141'
   image: v08/17-171-416-141.jpg
+  title: null
   sublists:
   - sublid: '552'
     persons:
     - id: '30852'
       num: '1'
       name: АГИШЕВ Никита Матвеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '30853'
       num: '2'
       name: АЛЕХИН Александр Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '30854'
       num: '3'
       name: БУБНОВ Владимир Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '30855'
       num: '4'
       name: БУРМИСТРОВ Николай Никифорович
+      rowinpage: '4'
       spravka: true
     - id: '30856'
       num: '5'
       name: БУХАРИН Константин Иванович
+      rowinpage: '5'
       spravka: true
     - id: '30857'
       num: '6'
       name: ВАЛУТИН Степан Иванович
+      rowinpage: '6'
       spravka: true
     - id: '30858'
       num: '7'
       name: ВАСИЛЬЕВ-КАРСАВИН Александр Александрович
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '30859'
       num: '8'
       name: ГАЛКИН Николай Тимофеевич
+      rowinpage: '8'
       spravka: true
     - id: '30860'
       num: '9'
       name: ДОРОНИН Сергей Александрович
+      rowinpage: '9'
       spravka: true
     - id: '30861'
       num: '10'
       name: ЖУНДРИКОВ Петр Павлович
+      rowinpage: '10'
       spravka: true
     - id: '30862'
       num: '11'
       name: КАЛИНОВСКИЙ Дмитрий Телесфорович
+      rowinpage: '11'
       spravka: true
     - id: '30863'
       num: '12'
       name: КАЛМЫКОВ Павел Федорович
+      rowinpage: '12'
       spravka: true
     - id: '30864'
       num: '13'
       name: КОПЫСОВ Григорий Павлович
+      rowinpage: '13'
       spravka: true
     - id: '30865'
       num: '14'
       name: КУЗНЕЦОВ Андрей Петрович
+      rowinpage: '14'
       spravka: true
     - id: '30866'
       num: '15'
       name: МЕДВЕДЕВ Георгий Павлович
+      rowinpage: '15'
       spravka: true
     - id: '30867'
       num: '16'
       name: МЕТАКСА Евгений Николаевич
+      rowinpage: '16'
       spravka: true
     - id: '30868'
       num: '17'
       name: МИНЬКИН Ирма Натанович
+      rowinpage: '17'
       spravka: true
     - id: '30869'
       num: '18'
       name: МИТЯНИН Михаил Иванович
+      rowinpage: '18'
 - pageintom: '142'
   image: v08/17-171-416-142.jpg
+  title: Свердловская область
   sublists:
   - sublid: '552'
     persons:
     - id: '30870'
       num: '19'
       name: РОЗЕНГОЛЬЦ Герман Павлович
+      rowinpage: '1'
       spravka: true
     - id: '30871'
       num: '20'
       name: САФРОНОВ Семен Дмитриевич
+      rowinpage: '2'
       spravka: true
     - id: '30872'
       num: '21'
       name: ТЕПЛЯКОВ Виталий Никифорович
+      rowinpage: '3'
       spravka: true
 - pageintom: '143'
   image: v08/17-171-416-143.jpg
+  title: null
   sublists:
   - sublid: '552'
     persons:
     - id: '30873'
       num: '1'
       name: ИЗОТОВА Надежда Михайловна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>СВЕРДЛОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '30874'
       num: '2'
       name: ЛАПТЕВ Лаврентий Федорович
+      rowinpage: '2'
       spravka: true
     - id: '30875'
       num: '3'
       name: ЛЯМОВ Петр Егорович
+      rowinpage: '3'
       spravka: true
     - id: '30876'
       num: '4'
       name: МАНУЙЛОВ Михаил Иванович
+      rowinpage: '4'
       spravka: true

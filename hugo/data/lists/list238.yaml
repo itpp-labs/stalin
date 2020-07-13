@@ -2,9 +2,10 @@ id: '238'
 title: 'Список лиц: Дальне-Восточный край, Челябинская обл., Башкирская АССР, Украинская
   ССР // 3.X.37'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '166'
 date: '1937-10-03'
+date_ru: 03.10.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -69,97 +70,120 @@ sublists:
 pages:
 - pageintom: '166'
   image: v03/17-171-411-166.jpg
+  title: null
   sublists: []
 - pageintom: '167'
   image: v03/17-171-411-167.jpg
+  title: null
   sublists: []
 - pageintom: '168'
   image: v03/17-171-411-168.jpg
+  title: null
   sublists:
   - sublid: '388'
     persons:
     - id: '9614'
       num: '1'
       name: БАБАЕВ Андрей Нестерович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ДАЛЬНЕ-ВОСТОЧНЫЙ КРАЙ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '9615'
       num: '2'
       name: ДЕРЕВЦОВ Сергей Иванович
+      rowinpage: '2'
       spravka: true
     - id: '9616'
       num: '3'
       name: ПАНФИЛОВ Алексей Данилович
+      rowinpage: '3'
     - id: '9617'
       num: '4'
       name: ПОПОВ Борис Григорьевич
+      rowinpage: '4'
     - id: '9618'
       num: '5'
       name: РОМАНЕНКО Ефим Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '9619'
       num: '6'
       name: ФИЛИППОВ Константин Федорович
+      rowinpage: '6'
       spravka: true
     - id: '9620'
       num: '7'
       name: УРМАН Абрам Самойлович
+      rowinpage: '7'
       spravka: true
     - id: '9621'
       num: '8'
       name: ШИПОВ Александр Павлович
+      rowinpage: '8'
       spravka: true
 - pageintom: '169'
   image: v03/17-171-411-169.jpg
+  title: null
   sublists:
   - sublid: '389'
     persons:
     - id: '9622'
       num: '1'
       name: КЕДРОВСКИХ Павел Тимофеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ЧЕЛЯБИНСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '9623'
       num: '2'
       name: РАЗОРВИН Василий Леонтьевич
+      rowinpage: '2'
     - id: '9624'
       num: '3'
       name: ФЕДОРОВ Василий Гаврилович
+      rowinpage: '3'
     - id: '9625'
       num: '1'
       name: КАРГАПОЛОВ Михаил Васильевич
+      rowinpage: '4'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория</u>
 - pageintom: '170'
   image: v03/17-171-411-170.jpg
+  title: null
   sublists:
   - sublid: '390'
     persons:
     - id: '9626'
       num: '1'
       name: МИХАЙЛОВ Александр Ефимович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БАШКИРСКАЯ А.С.С.Р. </u></p><p align="right"><u>2-я
         категория</u>
 - pageintom: '171'
   image: v03/17-171-411-171.jpg
+  title: null
   sublists:
   - sublid: '391'
     persons:
     - id: '9627'
       num: '1'
       name: ЗАКАБЛУК Дмитрий Сергеевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         категория</u>
     - id: '9628'
       num: '2'
       name: РАДЧЕНКО Виктор Федорович
+      rowinpage: '2'
     - id: '9629'
       num: '3'
       name: САВАЛОВ Николай Дмитриевич
+      rowinpage: '3'
       spravka: true
     - id: '9630'
       num: '4'
       name: ШВАРЦМАН Иосиф Израилевич
+      rowinpage: '4'

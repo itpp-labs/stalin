@@ -1,9 +1,10 @@
 id: '29'
 title: Список лиц - Московская область // 26 июня 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '217'
 date: '1937-06-26'
+date_ru: 26.06.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -31,119 +32,147 @@ sublists:
 pages:
 - pageintom: '217'
   image: v01/17-171-409-217.jpg
+  title: null
   sublists: []
 - pageintom: '218'
   image: v01/17-171-409-218.jpg
+  title: null
   sublists: []
 - pageintom: '219'
   image: v01/17-171-409-219.jpg
+  title: null
   sublists:
   - sublid: '26'
     persons:
     - id: '3133'
       num: '1'
       name: ГОРБУНОВ Василий Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>ТРОЦКИСТЫ.</u>
     - id: '5351'
       num: '2'
       name: ПОПОВ Иван Николаевич
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '3135'
       num: '3'
       name: СОЛОВЬЕВ Николай Ильич
+      rowinpage: '3'
     - id: '3136'
       num: '1'
       name: БОРЗОВ Михаил Епифанович
+      rowinpage: '4'
       spravka: true
       subtitle1: <p align="right"><u>ПРАВЫЕ.</u>
     - id: '3137'
       num: '2'
       name: ЖЕЛТОВ Иван Иванович
+      rowinpage: '5'
       spravka: true
     - id: '3138'
       num: '1'
       name: БАТУРИН Павел Антонович
+      rowinpage: '6'
       subtitle1: <p align="right"><u>ЭСЕРЫ.</u>
     - id: '3139'
       num: '2'
       name: БЕРНАЦКИЙ Ричард Александрович
+      rowinpage: '7'
       spravka: true
     - id: '3140'
       num: '3'
       name: ГЛУХОВ Иван Гаврилович
+      rowinpage: '8'
       spravka: true
     - id: '3141'
       num: '4'
       name: ГЛУХОВ Иван Филиппович
+      rowinpage: '9'
       spravka: true
     - id: '3142'
       num: '5'
       name: ГРЯЗНОВ Константин Егорович
+      rowinpage: '10'
       spravka: true
     - id: '3143'
       num: '6'
       name: КОЛОСОВ Александр Иванович
+      rowinpage: '11'
       spravka: true
     - id: '3144'
       num: '7'
       name: САЗОНОВ Григорий Алексеевич
+      rowinpage: '12'
       spravka: true
     - id: '3145'
       num: '1'
       name: ДОРОГУТИН Николай Алексеевич
+      rowinpage: '13'
       spravka: true
       subtitle1: <p align="right"><u>МЕНЬШЕВИКИ.</u>
     - id: '3146'
       num: '2'
       name: ИГНАТОВ Иван Федорович
+      rowinpage: '14'
       spravka: true
     - id: '3147'
       num: '3'
       name: КОЗЛОВ Федор Илларионович
+      rowinpage: '15'
       spravka: true
     - id: '3148'
       num: '4'
       name: МИХАЙЛОВ Иван Михайлович
+      rowinpage: '16'
       spravka: true
 - pageintom: '220'
   image: v01/17-171-409-220.jpg
+  title: Московская область
   sublists:
   - sublid: '26'
     persons:
     - id: '3149'
       num: '5'
       name: ПАНТЕЛЕЕВ Николай Александрович
+      rowinpage: '1'
       spravka: true
     - id: '3150'
       num: '6'
       name: ПИСАРКИН Михаил Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '3151'
       num: '7'
       name: САЗОНОВ Михаил Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '3152'
       num: '8'
       name: СИДОРОВ Василий Николаевич
+      rowinpage: '4'
     - id: '3153'
       num: '9'
       name: СОЛОВЬЕВ Степан Иванович
+      rowinpage: '5'
       spravka: true
     - id: '3154'
       num: '10'
       name: ЮМАШЕВ Георгий Захарович
+      rowinpage: '6'
       spravka: true
 - pageintom: '221'
   image: v01/17-171-409-221.jpg
+  title: null
   sublists:
   - sublid: '26'
     persons:
     - id: '3155'
       num: '1'
       name: МИНЦЕР Александр (Самуил) Львович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
         ОБЛАСТЬ </u></p><p align="right"><u>ТРОЦКИСТЫ.</u>

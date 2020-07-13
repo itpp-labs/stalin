@@ -1,9 +1,10 @@
 id: '412'
 title: Список арестованных МГБ СССР изменников родины, шпионов, подрывников и террористов
 archive:
-  ref: АП РФ, ф.3, т.16, оп.57, дело 100
+  ref: АП РФ, ф.3, оп.57, дело 100
   page1: '55'
 date: '1950-04-11'
+date_ru: 11.04.1950
 tom: 16
 delo:
   name: ''
@@ -26,15 +27,18 @@ sublists:
 pages:
 - pageintom: '55'
   image: v16/3-57-100-55.jpg
+  title: null
   sublists: []
 - pageintom: '56'
   image: v16/3-57-100-56.jpg
+  title: null
   sublists:
   - sublid: '671'
     persons:
     - id: '45157'
       num: '1'
       name: ФЕДОСЕЕВ Иван Иванович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
@@ -43,293 +47,347 @@ pages:
     - id: '45158'
       num: '2'
       name: МАТУСИС Ирина Владимировна
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '57'
   image: v16/3-57-100-57.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45159'
       num: '3'
       name: РИГЕРМАН Георгий Александрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '58'
   image: v16/3-57-100-58.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45160'
       num: '4'
       name: ИВИЧ Леонид Абрамович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45161'
       num: '5'
       name: ЗИНДЕ Михаил Моисеевич, он же Соломон Моисеевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '59'
   image: v16/3-57-100-59.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45162'
       num: '6'
       name: РОЗЕНФЕЛЬД, он же ШУВАЛОВ Михаил Семенович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
 - pageintom: '60'
   image: v16/3-57-100-60.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45163'
       num: '7'
       name: ФРИДМАН Сам-Рафаэль Яковлевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45164'
       num: '8'
       name: АНДРЕЙЧИН Георгий Ильич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '61'
   image: v16/3-57-100-61.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45165'
       num: '9'
       name: ХУДЯКОВ Сергей Александрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '62'
   image: v16/3-57-100-62.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45166'
       num: '10'
       name: КОЛЕСНИКОВ Вениамин Петрович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45167'
       num: '11'
       name: ЕГОРОВ Юрий Федорович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '63'
   image: v16/3-57-100-63.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45168'
       num: '12'
       name: БЕССОНОВ Иван Георгиевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45169'
       num: '13'
       name: БУДЫХО Александр Ефимович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '64'
   image: v16/3-57-100-64.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45170'
       num: '14'
       name: БОГДАНОВ Павел Васильевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '65'
   image: v16/3-57-100-65.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45171'
       num: '15'
       name: НАУМОВ Андрей Зиновьевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45172'
       num: '16'
       name: ЕГОРОВ Евгений Арсеньевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '66'
   image: v16/3-57-100-66.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45173'
       num: '17'
       name: ЗЫБИН Ефим Сергеевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45174'
       num: '18'
       name: БОГДАНОВ Михаил Васильевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '67'
   image: v16/3-57-100-67.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45175'
       num: '19'
       name: ТАСОЕВ Ясон Давыдович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45176'
       num: '20'
       name: САВИНОВ Владимир Александрович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '68'
   image: v16/3-57-100-68.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45662'
       num: '21'
       name: КОССА Михаил Ильич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45663'
       num: '22'
       name: ГЛАВАЦКИЙ Иосиф Иосифович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '69'
   image: v16/3-57-100-69.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45177'
       num: '23'
       name: ГУТГАРЦ Шмиль Григорьевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45178'
       num: '24'
       name: БОГОЛЮБОВ Сергей Александрович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '70'
   image: v16/3-57-100-70.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45179'
       num: '25'
       name: КАПУСТИН Михаил Алексеевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45180'
       num: '26'
       name: ЯКОБСОН Борис Исаакович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '71'
   image: v16/3-57-100-71.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45181'
       num: '27'
       name: РОСТОВЦЕВА Ольга Михайловна
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '72'
   image: v16/3-57-100-72.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45182'
       num: '28'
       name: РОСТОВЦЕВА Ирина Евгеньевна
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
     - id: '45183'
       num: '29'
       name: ТОПОРКОВА Елена Алексеевна
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '73'
   image: v16/3-57-100-73.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45184'
       num: '30'
       name: ЮРКОВСКИЙ Василий Яковлевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45185'
       num: '31'
       name: ПОПОВ Назар Анфиногенович
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '74'
   image: v16/3-57-100-74.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45186'
       num: '32'
       name: МАТРЕНИНСКИЙ Василий Иосифович
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
     - id: '45187'
       num: '33'
       name: АМАН Георгий Матвеевич
+      rowinpage: '2'
       doublesexists: true
       gb_spravka: true
 - pageintom: '75'
   image: v16/3-57-100-75.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45188'
       num: '34'
       name: ГААГЕ Александр Георгиевич
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true
 - pageintom: '76'
   image: v16/3-57-100-76.jpg
+  title: ''
   sublists:
   - sublid: '671'
     persons:
     - id: '45189'
       num: '35'
       name: ЯНКЕ Курт
+      rowinpage: '1'
       doublesexists: true
       gb_spravka: true
       spravka: true

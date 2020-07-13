@@ -3,9 +3,10 @@ title: 'Список лиц: Харьковский ВО, Киевский ВО,
   Одесская, Днепропетровская, Донецкая, Винницкая, Харьковская области // 25 августа
   1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '267'
 date: '1937-08-25'
+date_ru: 25.08.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -135,15 +136,18 @@ sublists:
 pages:
 - pageintom: '267'
   image: v02/17-171-410-267.jpg
+  title: null
   sublists: []
 - pageintom: '268'
   image: v02/17-171-410-268.jpg
+  title: null
   sublists:
   - sublid: '206'
     persons:
     - id: '6375'
       num: '1'
       name: АРАКЕЛЯН Тевик Аганесович
+      rowinpage: '1'
       subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
         />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ КОЛЛЕГИИ
         ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 1-й КАТЕГОРИИ </u></p><p align="center"><u>ХАРЬКОВСКИЙ
@@ -151,813 +155,995 @@ pages:
     - id: '6376'
       num: '2'
       name: БУБАШКО Сергей Гаврилович
+      rowinpage: '2'
     - id: '6377'
       num: '3'
       name: БЕЛОУСОВ <br/> Матвей Алексеевич
+      rowinpage: '3'
       primzv: Интендант 2 ранга
     - id: '6378'
       num: '4'
       name: БЕНДЕЛЬСТОН Абрам Давидович
+      rowinpage: '4'
       spravka: true
     - id: '6379'
       num: '5'
       name: БЕРЗИН Ян Янович
+      rowinpage: '5'
       spravka: true
     - id: '6380'
       num: '6'
       name: БИСЛЮК <br/> Николай Михайлович
+      rowinpage: '6'
       primzv: Воентехник 1 ранга
     - id: '6381'
       num: '7'
       name: БЫСТРОВ Александр Михайлович
+      rowinpage: '7'
     - id: '6382'
       num: '8'
       name: БОЛБАС <br/> Сергей Степанович
+      rowinpage: '8'
       primzv: Капитан
       spravka: true
     - id: '6383'
       num: '9'
       name: БРИЖ <br/> Героним Павлович
+      rowinpage: '9'
       primzv: Ст.политрук
     - id: '6384'
       num: '10'
       name: ВЕЙНИНГЕР Антон Андреевич
+      rowinpage: '10'
     - id: '6385'
       num: '11'
       name: ВЕНИК <br/> Алексей Алексеевич
+      rowinpage: '11'
       primzv: Воентехник 1 ранга
       spravka: true
     - id: '6386'
       num: '12'
       name: ВЕРКУНИЧ Иван Евдокимович
+      rowinpage: '12'
       spravka: true
     - id: '6387'
       num: '13'
       name: ВЕТРОВ Иван Ильич
+      rowinpage: '13'
     - id: '6388'
       num: '14'
       name: ВИССАРИОНОВ-ТАНАСОВ <br/> Василий Степанович - Григорий Виссарионович
+      rowinpage: '14'
       primzv: Полковник
       spravka: true
     - id: '6389'
       num: '15'
       name: ГАМПТОМСКИЙ <br/> Гуго-Альберт Готфридович
+      rowinpage: '15'
       primzv: Бригадный комиссар
       spravka: true
 - pageintom: '269'
   image: v02/17-171-410-269.jpg
+  title: Харьковский Военный Округ
   sublists:
   - sublid: '206'
     persons:
     - id: '6390'
       num: '16'
       name: ГАРБЕР-РОМАШЕВ <br/> Дмитрий Яковлевич
+      rowinpage: '1'
       primzv: Капитан
       spravka: true
     - id: '6391'
       num: '17'
       name: ГОЛОВИН <br/> Александр Веньяминович
+      rowinpage: '2'
       primzv: Майор
     - id: '6392'
       num: '18'
       name: ГОТЧ Михаил Григорьевич
+      rowinpage: '3'
     - id: '6393'
       num: '19'
       name: ГУТОВСКИЙ Петр Григорьевич
+      rowinpage: '4'
     - id: '6394'
       num: '20'
       name: ДУДКО <br/> Георгий Владимирович
+      rowinpage: '5'
       primzv: Капитан
     - id: '6395'
       num: '21'
       name: ЕВСТИГНЕЕВ <br/> Андрей Иванович
+      rowinpage: '6'
       primzv: Капитан
       spravka: true
     - id: '6396'
       num: '22'
       name: ЖУКОВСКИЙ <br/> Казимир Романович
+      rowinpage: '7'
       primzv: Капитан
     - id: '6397'
       num: '23'
       name: ИВАНОВ <br/> Иван Сергеевич
+      rowinpage: '8'
       primzv: Полковой комиссар
     - id: '6398'
       num: '24'
       name: ИВАНОВ Николай Васильевич
+      rowinpage: '9'
       spravka: true
     - id: '6399'
       num: '25'
       name: КИРИЕНКО Кондрат Федорович
+      rowinpage: '10'
     - id: '6400'
       num: '26'
       name: КЛЕНОВСКИЙ <br/> Станислав-Таисий Иванович
+      rowinpage: '11'
       primzv: Майор
     - id: '6401'
       num: '27'
       name: КОЛПАКЧИ <br/> Петр Иванович
+      rowinpage: '12'
       primzv: Капитан
     - id: '6402'
       num: '28'
       name: КОРУШКИН <br/> Георгий Герасимович
+      rowinpage: '13'
       primzv: Батальон.комиссар
       spravka: true
     - id: '6403'
       num: '29'
       name: КОТЛЯРОВ Алексей Никитович
+      rowinpage: '14'
       spravka: true
     - id: '6404'
       num: '30'
       name: КРЕЙМЕРМАН <br/> Матвей Львович
+      rowinpage: '15'
       primzv: Батальон.комиссар
       spravka: true
     - id: '6405'
       num: '31'
       name: КРЫЛОВ <br/> Константин Иванович
+      rowinpage: '16'
       primzv: Воен.инженер 3 ранга
     - id: '6406'
       num: '32'
       name: КУДРЯВЦЕВ <br/> Михаил Андреевич
+      rowinpage: '17'
       primzv: Полковник
       spravka: true
     - id: '6407'
       num: '33'
       name: ЛАНТУХ Иосиф Акимович
+      rowinpage: '18'
     - id: '6408'
       num: '34'
       name: ЛОГИНОВ <br/> Степан Иванович
+      rowinpage: '19'
       primzv: Ст.Лейтенант
     - id: '6409'
       num: '35'
       name: ЛУБЕНЕЦ <br/> Владимир Гаврилович
+      rowinpage: '20'
       primzv: Ст.политрук
     - id: '6410'
       num: '36'
       name: МАГНИТСКИЙ <br/> Александр Павлович
+      rowinpage: '21'
       primzv: Капитан
     - id: '6411'
       num: '37'
       name: МАКАРОВ <br/> Александр Маркович
+      rowinpage: '22'
       primzv: Полковник
       spravka: true
     - id: '6412'
       num: '38'
       name: МАЛЯРЕНКО <br/> Григорий Владимирович
+      rowinpage: '23'
       primzv: Ст.Лейтенант
       spravka: true
     - id: '6413'
       num: '39'
       name: МАРИНСКИХ <br/> Петр Иванович
+      rowinpage: '24'
       primzv: Майор
     - id: '6414'
       num: '40'
       name: МИРОНОВ <br/> Федор Васильевич
+      rowinpage: '25'
       primzv: Полковник
       spravka: true
     - id: '6415'
       num: '41'
       name: МИХАЙЛОВ <br/> Георгий Игнатович
+      rowinpage: '26'
       primzv: Интендант 3 ранга
       spravka: true
     - id: '6416'
       num: '42'
       name: МОСКОВСКИЙ <br/> Алексей Иванович
+      rowinpage: '27'
       primzv: Воен.инженер 2 ранга
     - id: '6417'
       num: '43'
       name: МОЧАЛОВ <br/> Константин Константинович
+      rowinpage: '28'
       primzv: Полковник
       spravka: true
 - pageintom: '270'
   image: v02/17-171-410-270.jpg
+  title: Харьковский Военный Округ
   sublists:
   - sublid: '206'
     persons:
     - id: '6418'
       num: '44'
       name: МУШКЕЛЬ <br/> Трофим Андреевич
+      rowinpage: '1'
       primzv: Воен.инженер 3 ранга
       spravka: true
     - id: '6419'
       num: '45'
       name: НАЙДЕНОВ Алексей Семенович
+      rowinpage: '2'
     - id: '6420'
       num: '46'
       name: НАКОРЧЕВСКИЙ <br/> Иван Дементьевич
+      rowinpage: '3'
       primzv: Батальон.комиссар
       spravka: true
     - id: '6421'
       num: '47'
       name: НОВИЦКИЙ <br/> Евгений Казимирович
+      rowinpage: '4'
       primzv: Капитан
     - id: '6422'
       num: '48'
       name: ОВЧАРЕНКО <br/> Леонид Григорьевич
+      rowinpage: '5'
       primzv: Полковник
       spravka: true
     - id: '6423'
       num: '49'
       name: ОРЛОВ <br/> Иван Георгиевич
+      rowinpage: '6'
       primzv: Майор
       spravka: true
     - id: '6424'
       num: '50'
       name: ПЛЕСУН <br/> Николай Яковлевич
+      rowinpage: '7'
       primzv: Капитан
     - id: '6425'
       num: '51'
       name: ПОЛИЩУК <br/> Михаил Зиновьевич
+      rowinpage: '8'
       primzv: Капитан
     - id: '6426'
       num: '52'
       name: ПОТЕЙКО Дмитрий Григорьевич
+      rowinpage: '9'
     - id: '6427'
       num: '53'
       name: ПУПЫРЕВ <br/> Артем Владимирович
+      rowinpage: '10'
       primzv: Майор
     - id: '6428'
       num: '54'
       name: РОГАЛЕВ <br/> Федор Федорович
+      rowinpage: '11'
       primzv: Комдив
       spravka: true
     - id: '6429'
       num: '55'
       name: РУВИНСКИЙ <br/> Исай Яковлевич
+      rowinpage: '12'
       primzv: Полковой комиссар
     - id: '6430'
       num: '56'
       name: САВВИН <br/> Сергей Дмитриевич
+      rowinpage: '13'
       primzv: Полковник
       spravka: true
     - id: '6431'
       num: '57'
       name: САМОЙЛОВИЧ <br/> Степан Григорьевич
+      rowinpage: '14'
       primzv: Капитан
       spravka: true
     - id: '6432'
       num: '58'
       name: СЕРГИЕНКО <br/> Константин Павлович
+      rowinpage: '15'
       primzv: Полковник
       spravka: true
     - id: '6433'
       num: '59'
       name: СЕРГИЕНКО <br/> Пантелеймон Алексеевич
+      rowinpage: '16'
       primzv: Ст.Лейтенант
     - id: '6434'
       num: '60'
       name: СКРАСТИН <br/> Петр Иванович
+      rowinpage: '17'
       primzv: Полковник
       spravka: true
     - id: '6435'
       num: '61'
       name: СКРЫПНИК <br/> Макар Филиппович
+      rowinpage: '18'
       primzv: Полковник
       spravka: true
     - id: '6436'
       num: '62'
       name: СОЛДАТЕНКОВ <br/> Дмитрий Иванович
+      rowinpage: '19'
       primzv: Капитан
       spravka: true
     - id: '6437'
       num: '63'
       name: СПИВАК <br/> Наум Иосифович
+      rowinpage: '20'
       primzv: Воен.инженер 3 ранга
     - id: '6438'
       num: '64'
       name: СТЕПАНОВ <br/> Федор Федорович
+      rowinpage: '21'
       primzv: Лейтенант
     - id: '6439'
       num: '65'
       name: ТИХОМИРОВ <br/> Павел Васильевич
+      rowinpage: '22'
       primzv: Интиндант 2 ранга
     - id: '6440'
       num: '66'
       name: ТУРКОВ <br/> Виктор Иванович
+      rowinpage: '23'
       primzv: Полковник
       spravka: true
     - id: '6441'
       num: '67'
       name: ЦАРЬКОВ <br/> Николай Петрович
+      rowinpage: '24'
       primzv: Майор
       spravka: true
     - id: '6442'
       num: '68'
       name: ЧЕРНОСВИТОВ Иван Алексеевич
+      rowinpage: '25'
     - id: '6443'
       num: '69'
       name: ШЕЙМАН Леонид Михайлович
+      rowinpage: '26'
       spravka: true
     - id: '6444'
       num: '70'
       name: ШУЛЯТЬЕВ Федор Ильич
+      rowinpage: '27'
       spravka: true
     - id: '6445'
       num: '71'
       name: ЩЕРБАКОВ <br/> Максим Федорович
+      rowinpage: '28'
       primzv: Капитан
 - pageintom: '271'
   image: v02/17-171-410-271.jpg
+  title: null
   sublists:
   - sublid: '207'
     persons:
     - id: '6446'
       num: '72'
       name: АВЕРИН <br/> Петр Яковлевич
+      rowinpage: '1'
       primzv: Полковой комиссар
       spravka: true
       subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ.</u>
     - id: '6447'
       num: '73'
       name: АМЕЛИН <br/> Михаил Петрович
+      rowinpage: '2'
       primzv: Армейский комиссар 2 ранга
       spravka: true
     - id: '6448'
       num: '74'
       name: АРЖАНОВ <br/> Михаил Терентьевич
+      rowinpage: '3'
       primzv: Интендант 3 ранга
     - id: '6449'
       num: '75'
       name: АРХИРЕЙ Петр Федорович
+      rowinpage: '4'
       spravka: true
     - id: '6450'
       num: '76'
       name: БАГЛАЕВ <br/> Антон Павлович
+      rowinpage: '5'
       primzv: Ст.политрук
       spravka: true
     - id: '6451'
       num: '77'
       name: БАХРУШИН <br/> Александр Михайлович
+      rowinpage: '6'
       primzv: Комдив
       spravka: true
     - id: '6452'
       num: '78'
       name: БЕЛОГОРОДСКИЙ Борис Ильич
+      rowinpage: '7'
       spravka: true
     - id: '6453'
       num: '79'
       name: БОБРОВ <br/> Николай Михайлович
+      rowinpage: '8'
       primzv: Комдив
       spravka: true
     - id: '6454'
       num: '80'
       name: БОГУСЛАВСКИЙ <br/> Лев Исаакович
+      rowinpage: '9'
       primzv: Полковой комиссар
       spravka: true
     - id: '6455'
       num: '81'
       name: БОЙКО Николай Андреевич
+      rowinpage: '10'
       spravka: true
     - id: '6456'
       num: '82'
       name: БОРДАХ <br/> Самуил Лазаревич
+      rowinpage: '11'
       primzv: Полковой комиссар
     - id: '6457'
       num: '83'
       name: БОРОДИН <br/> Николай Иванович
+      rowinpage: '12'
       primzv: Бригадный комиссар
       spravka: true
     - id: '6458'
       num: '84'
       name: ВАЙНБЕРГ Лев Лазаревич
+      rowinpage: '13'
       spravka: true
     - id: '6459'
       num: '85'
       name: ВАЛЯВИН <br/> Григорий Васильевич
+      rowinpage: '14'
       primzv: Воентехник 2 ранга
       spravka: true
     - id: '6460'
       num: '86'
       name: ВЕНЦОВ-КРАНЦ <br/> Семен Иванович
+      rowinpage: '15'
       primzv: Комдив
       spravka: true
     - id: '6461'
       num: '87'
       name: ГАЛИЦАН <br/> Николай Исидорович
+      rowinpage: '16'
       primzv: Воентехник 2 ранга
       spravka: true
     - id: '6462'
       num: '88'
       name: ГЕНЬ <br/> Леонид Самойлович
+      rowinpage: '17'
       primzv: Ст.политрук
       spravka: true
     - id: '6463'
       num: '89'
       name: ГЕРМОНИУС <br/> Вадим Эдуардович
+      rowinpage: '18'
       primzv: Комдив
       spravka: true
     - id: '6464'
       num: '90'
       name: ГРИШЕЧКИН <br/> Константин Дмитриевич
+      rowinpage: '19'
       primzv: Полковник
       spravka: true
     - id: '6465'
       num: '91'
       name: ГУДКОВ <br/> Дмитрий Иванович
+      rowinpage: '20'
       primzv: Комбриг
       spravka: true
     - id: '6466'
       num: '92'
       name: ГУСЕРОВ <br/> Иван Осипович
+      rowinpage: '21'
       primzv: Бриг.интендант
       spravka: true
     - id: '6467'
       num: '93'
       name: ДОВЖЕНКО <br/> Василий Илларионович
+      rowinpage: '22'
       primzv: Воен.техник 1 ранга
     - id: '6468'
       num: '94'
       name: ДУНАЕВСКИЙ <br/> Иван Михайлович
+      rowinpage: '23'
       primzv: Майор
     - id: '6469'
       num: '95'
       name: ДЬЯКОВ <br/> Борис Александрович
+      rowinpage: '24'
       primzv: Техник интендант 1 ранга
       spravka: true
     - id: '6470'
       num: '96'
       name: ЕВГЕНЬЕВ <br/> Вильям Борисович
+      rowinpage: '25'
       primzv: Комбриг
       spravka: true
     - id: '6471'
       num: '97'
       name: ЖУРАВЛЕВ <br/> Михаил Антонович
+      rowinpage: '26'
       primzv: Полковой комиссар
     - id: '6472'
       num: '98'
       name: ЗИЛЬБЕРМАН Роман Иосифович
+      rowinpage: '27'
 - pageintom: '272'
   image: v02/17-171-410-272.jpg
+  title: Киевский Военный Округ
   sublists:
   - sublid: '207'
     persons:
     - id: '6473'
       num: '99'
       name: ЗВОЗНИКОВ <br/> Федор Михайлович
+      rowinpage: '1'
       primzv: Воентехник 1 ранга
       spravka: true
     - id: '6474'
       num: '100'
       name: ЗИМА <br/> Дмитрий Дмитриевич
+      rowinpage: '2'
       primzv: Полковник
       spravka: true
     - id: '6475'
       num: '101'
       name: ЗУБОК <br/> Александр Ефимович
+      rowinpage: '3'
       primzv: Комбриг
       spravka: true
     - id: '6476'
       num: '102'
       name: ИРТЮГА <br/> Филипп Павлович
+      rowinpage: '4'
       primzv: Воен.инженер 2 ранга
       spravka: true
     - id: '6477'
       num: '103'
       name: КИСЕЛЕВ <br/> Евгений Яковлевич
+      rowinpage: '5'
       primzv: Интендант 2 ранга
       spravka: true
     - id: '6478'
       num: '104'
       name: КИСЕЛЕВ <br/> Иван Васильевич
+      rowinpage: '6'
       primzv: Полковник
       spravka: true
     - id: '6479'
       num: '105'
       name: КНЫШЕВ Федор Данилович
+      rowinpage: '7'
       spravka: true
     - id: '6480'
       num: '106'
       name: КНЯГНИЦКИЙ <br/> Павел Ефимович
+      rowinpage: '8'
       primzv: Комдив
       spravka: true
     - id: '6481'
       num: '107'
       name: КОБЯК <br/> Николай Дмитриевич
+      rowinpage: '9'
       primzv: Воен.инженер 2 ранга
       spravka: true
     - id: '6482'
       num: '108'
       name: КОНЦЕВОЙ <br/> Борис Абрамович
+      rowinpage: '10'
       primzv: Ст.политрук
       spravka: true
     - id: '6483'
       num: '109'
       name: КРАСНОВ <br/> Андрей Никитич
+      rowinpage: '11'
       primzv: Полковник
       spravka: true
     - id: '6484'
       num: '110'
       name: КРЫЖАНОВСКИЙ <br/> Владимир Прокофьевич
+      rowinpage: '12'
       primzv: Майор
       spravka: true
     - id: '6485'
       num: '111'
       name: КУРИЛОВ <br/> Иван Федорович
+      rowinpage: '13'
       primzv: Интендант 2 ранга
       spravka: true
     - id: '6486'
       num: '112'
       name: КУМАЧЕВ <br/> Георгий Митрофанович
+      rowinpage: '14'
       primzv: Полковник
       spravka: true
     - id: '6487'
       num: '113'
       name: ЛАБАС <br/> Абрам Аркадьевич
+      rowinpage: '15'
       primzv: Комбриг
       spravka: true
     - id: '6488'
       num: '114'
       name: ЛАЗАРЧЕНКО Александр Дмитриевич
+      rowinpage: '16'
       spravka: true
     - id: '6489'
       num: '115'
       name: ЛЕВУШКИН <br/> Иван Капитонович
+      rowinpage: '17'
       primzv: Бригадный комиссар
       spravka: true
     - id: '6490'
       num: '116'
       name: ЛЮБЕЗНОВ <br/> Григорий Дмитриевич
+      rowinpage: '18'
       primzv: Воен.инженер 3 ранга
     - id: '6491'
       num: '117'
       name: МАЙОР Ян Янович
+      rowinpage: '19'
       spravka: true
     - id: '6492'
       num: '118'
       name: МАЛАКИАНИ <br/> Георгий Александрович
+      rowinpage: '20'
       primzv: Интендант 3 ранга
       spravka: true
     - id: '6493'
       num: '119'
       name: МАРТЫНОВ <br/> Сергей Федорович
+      rowinpage: '21'
       primzv: Майор
       spravka: true
     - id: '6494'
       num: '120'
       name: МАХЛИН <br/> Исаак Давидович
+      rowinpage: '22'
       primzv: Батальон.комиссар
       spravka: true
     - id: '6495'
       num: '121'
       name: МЕЛЬНИКОВ <br/> Александр Максимович
+      rowinpage: '23'
       primzv: Майор
       spravka: true
     - id: '6496'
       num: '122'
       name: МИХЕЛЕВ <br/> Григорий Львович
+      rowinpage: '24'
       primzv: Ст.политрук
     - id: '6497'
       num: '123'
       name: НЕМИРОВСКИЙ <br/> Семен Борисович
+      rowinpage: '25'
       primzv: Бригадный комиссар
       spravka: true
     - id: '6498'
       num: '124'
       name: НЕРОВНЯ <br/> Иван Сергеевич
+      rowinpage: '26'
       primzv: Воентехник 1 ранга
       spravka: true
     - id: '6499'
       num: '125'
       name: НИКУЛИН <br/> Иван Ефимович
+      rowinpage: '27'
       primzv: Комбриг
       spravka: true
     - id: '6500'
       num: '126'
       name: НОВАКОВ <br/> Василий Иванович
+      rowinpage: '28'
       primzv: Капитан
       spravka: true
     - id: '6501'
       num: '127'
       name: ОБЫСОВ <br/> Сидор Павлович
+      rowinpage: '29'
       primzv: Комбриг
       spravka: true
     - id: '6502'
       num: '128'
       name: ОЙГЕНШТЕЙН <br/> Борис Михайлович
+      rowinpage: '30'
       primzv: Интендант 1 ранга
       spravka: true
 - pageintom: '273'
   image: v02/17-171-410-273.jpg
+  title: Киевский Военный Округ
   sublists:
   - sublid: '207'
     persons:
     - id: '6503'
       num: '129'
       name: ОКОРОКОВ <br/> Михаил Алексеевич
+      rowinpage: '1'
       primzv: Полковой комиссар запаса
       spravka: true
     - id: '6504'
       num: '130'
       name: ОРЕХОВ <br/> Василий Петрович
+      rowinpage: '2'
       primzv: Интендант 3 ранга
     - id: '6505'
       num: '131'
       name: ОРЛОВ <br/> Наум Осипович
+      rowinpage: '3'
       primzv: Корпусной комиссар
       spravka: true
     - id: '6506'
       num: '132'
       name: ОРЛОВ Павел Петрович
+      rowinpage: '4'
     - id: '6507'
       num: '133'
       name: ОРЛОВСКИЙ <br/> Борис Никодимович
+      rowinpage: '5'
       primzv: Капитан
       spravka: true
     - id: '6508'
       num: '134'
       name: ОСАДКО Андрей Антонович
+      rowinpage: '6'
       spravka: true
     - id: '6509'
       num: '135'
       name: ПЕРСИЯНОВ <br/> Георгий Александрович
+      rowinpage: '7'
       primzv: Интендант 3 ранга
       spravka: true
     - id: '6510'
       num: '136'
       name: ПЕТРИЦА <br/> Богдан Петрович
+      rowinpage: '8'
       primzv: Майор
       spravka: true
     - id: '6511'
       num: '137'
       name: ПЕТРУНИН Михаил Дмитриевич
+      rowinpage: '9'
       spravka: true
     - id: '6512'
       num: '138'
       name: ПОДЧУФАРОВ <br/> Николай Иванович
+      rowinpage: '10'
       primzv: Комбриг
       spravka: true
     - id: '6513'
       num: '139'
       name: ПОПОВ Никифор Васильевич
+      rowinpage: '11'
       spravka: true
     - id: '6514'
       num: '140'
       name: ПОПОВ <br/> Сергей Алексеевич
+      rowinpage: '12'
       primzv: Полковник
       spravka: true
     - id: '6515'
       num: '141'
       name: ПРИБЫЛОВ <br/> Александр Николаевич
+      rowinpage: '13'
       primzv: Капитан
       spravka: true
     - id: '6516'
       num: '142'
       name: ПРОЦЕНКО Виктор Гаврилович
+      rowinpage: '14'
       spravka: true
     - id: '6517'
       num: '143'
       name: ПУРЕЛИС <br/> Ян Карлович
+      rowinpage: '15'
       primzv: Майор
     - id: '6518'
       num: '144'
       name: РАЙЗ <br/> Исаак Григорьевич
+      rowinpage: '16'
       primzv: Воентехник 2 ранга
     - id: '6519'
       num: '145'
       name: РАУДМЕЦ <br/> Иван Иванович
+      rowinpage: '17'
       primzv: Комдив
       spravka: true
     - id: '6520'
       num: '146'
       name: РИСС <br/> Виктор Александрович
+      rowinpage: '18'
       primzv: Интендант 3 ранга
       spravka: true
     - id: '6521'
       num: '147'
       name: РОГИНЯ <br/> Георгий Герасимович
+      rowinpage: '19'
       primzv: Воентехник 1 ранга
       spravka: true
     - id: '6522'
       num: '148'
       name: РУДОМАЗИН <br/> Николай Дмитриевич
+      rowinpage: '20'
       primzv: Воентехник 1 ранга
       spravka: true
     - id: '6523'
       num: '149'
       name: САВВИН <br/> Павел Ильич
+      rowinpage: '21'
       primzv: Воентехник 2 ранга
       spravka: true
     - id: '6524'
       num: '150'
       name: САВКИН <br/> Иван Никитович
+      rowinpage: '22'
       primzv: Майор
     - id: '6525'
       num: '151'
       name: САРАНЦЕВ <br/> Петр Алексеевич
+      rowinpage: '23'
       primzv: Майор
     - id: '6526'
       num: '152'
       name: СЕМЕНОВ <br/> Ефрем Яковлевич
+      rowinpage: '24'
       primzv: Майор
     - id: '6527'
       num: '153'
       name: СЕМЕНОВ <br/> Михаил Семенович
+      rowinpage: '25'
       primzv: Полковник
       spravka: true
     - id: '6528'
       num: '154'
       name: СЕРЕБРЯКОВ <br/> Евгений Георгиевич
+      rowinpage: '26'
       primzv: Воен.ветврач 2 ранга
     - id: '6529'
       num: '155'
       name: СИДОРЕНКО <br/> Владимир Семенович
+      rowinpage: '27'
       primzv: Комдив
       spravka: true
     - id: '6530'
       num: '156'
       name: СИДОРОВ <br/> Александр Георгиевич
+      rowinpage: '28'
       primzv: Интендант 1 ранга
       spravka: true
 - pageintom: '274'
   image: v02/17-171-410-274.jpg
+  title: Киевский Военный Округ
   sublists:
   - sublid: '207'
     persons:
     - id: '6531'
       num: '157'
       name: СЫРОДЕЕВ <br/> Леонид Ефимович
+      rowinpage: '1'
       primzv: Воен.инженер 2 ранга
     - id: '6532'
       num: '158'
       name: СКАЛЬБЕРГ <br/> Вилис Вильгельмович
+      rowinpage: '2'
       primzv: Майор
     - id: '6533'
       num: '159'
       name: СМИРНОВ <br/> Николай Васильевич
+      rowinpage: '3'
       primzv: Полковник
       spravka: true
     - id: '6534'
       num: '160'
       name: СОКОЛЕНКО <br/> Федор Никитич
+      rowinpage: '4'
       primzv: Дивиз.комиссар
       spravka: true
     - id: '6535'
       num: '161'
       name: СОСУЛЬНИКОВ Александр Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '6536'
       num: '162'
       name: СУСЛОВ <br/> Павел Васильевич
+      rowinpage: '6'
       primzv: Дивизион.комиссар
       spravka: true
     - id: '6537'
       num: '163'
       name: ТИБИЛОВ <br/> Михаил Константинович
+      rowinpage: '7'
       primzv: Воен.инженер 2 ранга
       spravka: true
     - id: '6538'
       num: '164'
       name: ФАСТОВ Константин Яковлевич
+      rowinpage: '8'
     - id: '6539'
       num: '165'
       name: ЦИМБАЛ Николай Дмитриевич
+      rowinpage: '9'
     - id: '6540'
       num: '166'
       name: ШВАЧКО <br/> Александр Ильич
+      rowinpage: '10'
       primzv: Комбриг
       spravka: true
     - id: '6541'
       num: '167'
       name: ШЕВЧУК Иван Анисимович
+      rowinpage: '11'
       spravka: true
     - id: '6542'
       num: '168'
       name: ШИБАНОВ <br/> Петр Васильевич
+      rowinpage: '12'
       primzv: Интендант 1 ранга
       spravka: true
     - id: '6543'
       num: '169'
       name: ШКУРЕНКО Иван Агафонович
+      rowinpage: '13'
     - id: '6544'
       num: '170'
       name: ШНЕЙДЕР Абрам Владимирович
+      rowinpage: '14'
       spravka: true
     - id: '6545'
       num: '171'
       name: ШТАЙБ <br/> Лео-Феликс Иосифович
+      rowinpage: '15'
       primzv: Старш.политрук
     - id: '6546'
       num: '172'
       name: ШУГАЛИЙ <br/> Михаил Васильевич
+      rowinpage: '16'
       primzv: Инженер 3 ранга
     - id: '6547'
       num: '173'
       name: ЭСАУЛЕНКО <br/> Андрей Михайлович
+      rowinpage: '17'
       primzv: Капитан
       spravka: true
     - id: '6548'
       num: '174'
       name: ЯНУШЕВСКИЙ Антон Константинович
+      rowinpage: '18'
       doublesexists: true
 - pageintom: '275'
   image: v02/17-171-410-275.jpg
+  title: null
   sublists: []
 - pageintom: '276'
   image: v02/17-171-410-276.jpg
+  title: null
   sublists:
   - sublid: '208'
     persons:
     - id: '6549'
       num: '1'
       name: БУДЕННЫЙ Георгий Яковлевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
         />ОБВИНЯЕМЫХ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ КОЛЛЕГИИ ВЕРХСУДА С.С.С.Р.<br /><br
@@ -966,374 +1152,472 @@ pages:
     - id: '6550'
       num: '2'
       name: ВЕГЕР Елена Ильинична
+      rowinpage: '2'
       pometa_text: (ВМН)
       spravka: true
     - id: '6551'
       num: '3'
       name: ВОРОБЬЕВ Василий Захарович
+      rowinpage: '3'
     - id: '6552'
       num: '4'
       name: ЕРОХИН Степан Федорович
+      rowinpage: '4'
       spravka: true
     - id: '6553'
       num: '5'
       name: КУДРЯВЦЕВА Екатерина Петровна
+      rowinpage: '5'
     - id: '6554'
       num: '6'
       name: КУПРИЙ Мефодий Михайлович
+      rowinpage: '6'
     - id: '6555'
       num: '7'
       name: НЕКРАСОВ Андрей Афанасьевич
+      rowinpage: '7'
     - id: '6556'
       num: '8'
       name: ПОЛОНСКИЙ Федор Михайлович
+      rowinpage: '8'
       spravka: true
     - id: '6557'
       num: '9'
       name: РОХЛИС Давид Бенционович
+      rowinpage: '9'
     - id: '6558'
       num: '10'
       name: САВЕНКО Пантелеймон Иванович
+      rowinpage: '10'
       spravka: true
     - id: '6559'
       num: '11'
       name: СКОМАРОВСКИЙ Эммануил Абрамович
+      rowinpage: '11'
     - id: '6560'
       num: '12'
       name: ТУЛУБ Зинаида Павловна
+      rowinpage: '12'
       spravka: true
     - id: '6561'
       num: '13'
       name: ФРАТКИНА Зинаида Абрамовна
+      rowinpage: '13'
     - id: '6562'
       num: '14'
       name: ФУРМАНОВ Борис Александрович
+      rowinpage: '14'
     - id: '6563'
       num: '15'
       name: ХАРЧЕНКО Павел Федорович
+      rowinpage: '15'
     - id: '6564'
       num: '16'
       name: ШАХНОВСКИЙ Михаил Иосифович
+      rowinpage: '16'
     - id: '6565'
       num: '17'
       name: ЯРЕМЕНКО Антон Никитич
+      rowinpage: '17'
 - pageintom: '277'
   image: v02/17-171-410-277.jpg
+  title: null
   sublists:
   - sublid: '209'
     persons:
     - id: '6566'
       num: '18'
       name: АЛЕКСЕЕВ Анатолий Александрович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>КИЕВСКАЯ ОБЛАСТЬ.</u>
     - id: '6567'
       num: '19'
       name: АНИН Михаил Маркович
+      rowinpage: '2'
       spravka: true
     - id: '6568'
       num: '20'
       name: АПЧИНСКИЙ Вячеслав Казимирович
+      rowinpage: '3'
       spravka: true
     - id: '6569'
       num: '21'
       name: БАБИНЦЕВ Яков Абрамович
+      rowinpage: '4'
     - id: '6570'
       num: '22'
       name: БЕЛЯНСКИЙ Наум Михайлович
+      rowinpage: '5'
     - id: '6571'
       num: '23'
       name: БОНДАРЧУК Андрей Дмитриевич
+      rowinpage: '6'
     - id: '6572'
       num: '24'
       name: ВАЙНШЕНКЕР Абрам Генрихович
+      rowinpage: '7'
       spravka: true
     - id: '6573'
       num: '25'
       name: ВОЙТУШЕНКО Григорий Ефимович
+      rowinpage: '8'
       spravka: true
     - id: '6574'
       num: '26'
       name: ВОРОПАЕВ Александр Гаврилович
+      rowinpage: '9'
     - id: '6575'
       num: '27'
       name: ГОРСКИЙ Алексей Иванович
+      rowinpage: '10'
       spravka: true
     - id: '6576'
       num: '28'
       name: ДОХЛЕНКО Иван Иванович
+      rowinpage: '11'
     - id: '6577'
       num: '29'
       name: ЕВСТИФЕЕВ Сергей Федорович
+      rowinpage: '12'
     - id: '6578'
       num: '30'
       name: ЖУРАВСКИЙ Абрам Яковлевич
+      rowinpage: '13'
     - id: '6579'
       num: '31'
       name: ЖУРАХОВИЧ Соломон Менделевич
+      rowinpage: '14'
     - id: '6580'
       num: '32'
       name: ИОВЧУК Анатолий Дермидонтович
+      rowinpage: '15'
       spravka: true
     - id: '6581'
       num: '33'
       name: КОТЛЯРЕНКО Петр Исаакович
+      rowinpage: '16'
       spravka: true
     - id: '6582'
       num: '34'
       name: ЛЕЙФЕР Наум Семенович
+      rowinpage: '17'
       spravka: true
     - id: '6583'
       num: '35'
       name: ЛОГВИНОВ Филимон Галактионович
+      rowinpage: '18'
     - id: '6584'
       num: '36'
       name: МЕЛАМУД Яков Микович
+      rowinpage: '19'
     - id: '6585'
       num: '37'
       name: МОЙСЕЕНКО Иван Павлович
+      rowinpage: '20'
     - id: '6586'
       num: '38'
       name: МОТИЕНКО Гавриил Кузьмич
+      rowinpage: '21'
       spravka: true
     - id: '6587'
       num: '39'
       name: МУСИЙЧУК Иван Дмитриевич
+      rowinpage: '22'
     - id: '6588'
       num: '40'
       name: ОЛИН Исаак Аронович
+      rowinpage: '23'
       spravka: true
     - id: '6589'
       num: '41'
       name: ПОСТОЛОВ Александр Самойлович
+      rowinpage: '24'
       spravka: true
     - id: '6590'
       num: '42'
       name: РЕЗНИКОВ Михаил Яковлевич
+      rowinpage: '25'
       spravka: true
     - id: '6591'
       num: '43'
       name: РУВИНСКИЙ Лев Мойсеевич
+      rowinpage: '26'
     - id: '6592'
       num: '44'
       name: СУЛИМ Тимофей Кириллович
+      rowinpage: '27'
 - pageintom: '278'
   image: v02/17-171-410-278.jpg
+  title: Киевская область
   sublists:
   - sublid: '209'
     persons:
     - id: '6593'
       num: '45'
       name: ТОРЯННИК Трофим Петрович
+      rowinpage: '1'
     - id: '6594'
       num: '46'
       name: ФИАЛКОВ Аркадий Анатольевич
+      rowinpage: '2'
       spravka: true
     - id: '6595'
       num: '47'
       name: ХОДЖАШ Яков Васильевич
+      rowinpage: '3'
     - id: '6596'
       num: '48'
       name: ШУХЕР Касьян Касьянович
+      rowinpage: '4'
   - sublid: '210'
     persons:
     - id: '6597'
       num: '49'
       name: БАРКОВ Георгий Яковлевич
+      rowinpage: '5'
       subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ.</u>
     - id: '6598'
       num: '50'
       name: БАХМАН Фриц Максимович
+      rowinpage: '6'
       primcoc: Германско подданный
     - id: '6599'
       num: '51'
       name: БИРМАН Адольф Адельфович
+      rowinpage: '7'
       spravka: true
     - id: '6600'
       num: '52'
       name: ГОЛОВКОВ Леонид Климентьевич
+      rowinpage: '8'
       spravka: true
     - id: '6601'
       num: '53'
       name: ГОЛЬДФЕЛЬД Исаак Иосифович
+      rowinpage: '9'
     - id: '6602'
       num: '54'
       name: ЕЛИСТРАТОВ Дмитрий Елизарович
+      rowinpage: '10'
       spravka: true
     - id: '6603'
       num: '55'
       name: ИСАКОВ-ТОПОЛИНСКИЙ Давид Григорьевич
+      rowinpage: '11'
       spravka: true
     - id: '6604'
       num: '56'
       name: КОГЕН Арон Федорович
+      rowinpage: '12'
       spravka: true
     - id: '6605'
       num: '57'
       name: ЛИТИНСКИЙ Михаил Зельманович
+      rowinpage: '13'
       spravka: true
     - id: '6606'
       num: '58'
       name: МИРОШНИЧЕНКО Емельян Хрисанфович
+      rowinpage: '14'
       spravka: true
     - id: '6607'
       num: '59'
       name: СЕРГЕЕВ Василий Иванович
+      rowinpage: '15'
     - id: '6608'
       num: '60'
       name: ТЮПИКОВ Валентин Владимирович
+      rowinpage: '16'
       spravka: true
     - id: '6609'
       num: '61'
       name: ШИСЕЛЬ Михаил Владимирович
+      rowinpage: '17'
       spravka: true
     - id: '6610'
       num: '62'
       name: ШМИДТ Лаврентий Иванович
+      rowinpage: '18'
       spravka: true
   - sublid: '211'
     persons:
     - id: '6611'
       num: '63'
       name: ВАСИЛЕВСКИЙ Мирон Ефимович
+      rowinpage: '19'
       subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ.</u>
     - id: '6612'
       num: '64'
       name: ВРОНСКИЙ-ФАЛЬКОВ Александр Александрович
+      rowinpage: '20'
     - id: '6613'
       num: '65'
       name: ГИЗБРЕХТ Абрам Абрамович
+      rowinpage: '21'
       spravka: true
     - id: '6614'
       num: '66'
       name: МУСИЯК Спиридон Афанасьевич
+      rowinpage: '22'
       spravka: true
 - pageintom: '279'
   image: v02/17-171-410-279.jpg
+  title: Днепропетровская область
   sublists:
   - sublid: '211'
     persons:
     - id: '6615'
       num: '67'
       name: ОРЛИНСКАЯ Злата Исааковна
+      rowinpage: '1'
       spravka: true
     - id: '6616'
       num: '68'
       name: РОМЫШ Нил Фомич
+      rowinpage: '2'
       spravka: true
     - id: '6617'
       num: '69'
       name: СТЕПАНОВ Иван Симонович
+      rowinpage: '3'
       spravka: true
     - id: '6618'
       num: '70'
       name: ШИКЕР Мечислав Каэтанович
+      rowinpage: '4'
   - sublid: '212'
     persons:
     - id: '6619'
       num: '71'
       name: ВОРОБЬЕВ Григорий Ильич
+      rowinpage: '5'
       spravka: true
       subtitle1: <p align="center"><u>ДОНЕЦКАЯ ОБЛАСТЬ.</u>
     - id: '6620'
       num: '72'
       name: ГЛЕБОВ Владимир Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '6621'
       num: '73'
       name: ГРИНЕВИЧ Вячеслав Иванович
+      rowinpage: '7'
       spravka: true
     - id: '6622'
       num: '74'
       name: МАЛАХЕЕВ Евгений Иванович
+      rowinpage: '8'
       spravka: true
     - id: '6623'
       num: '75'
       name: МАНСУРОВ-ВАСИЛЬЕВ Александр Павлович
+      rowinpage: '9'
       spravka: true
     - id: '6624'
       num: '76'
       name: МОТАВИН Сергей Осипович
+      rowinpage: '10'
       spravka: true
     - id: '6625'
       num: '77'
       name: ПАТОКИН Александр Андреевич
+      rowinpage: '11'
       spravka: true
     - id: '6626'
       num: '78'
       name: ПРОКУШЕНКО Николай Дмитриевич
+      rowinpage: '12'
       spravka: true
     - id: '6627'
       num: '79'
       name: УЛИШНИКОВ Петр Павлович
+      rowinpage: '13'
       spravka: true
     - id: '6628'
       num: '80'
       name: ФЕДОРОВ Федор Кириллович
+      rowinpage: '14'
     - id: '6629'
       num: '81'
       name: ЦУРИКОВ Федор Александрович
+      rowinpage: '15'
       spravka: true
   - sublid: '213'
     persons:
     - id: '6630'
       num: '82'
       name: ГЕДЗИНСКИЙ Симон Иосифович
+      rowinpage: '16'
       spravka: true
       subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ.</u>
     - id: '6631'
       num: '83'
       name: ДАНИЛОВ Иван Васильевич
+      rowinpage: '17'
       spravka: true
     - id: '6632'
       num: '84'
       name: КАРПЕКО Лев Александрович
+      rowinpage: '18'
       spravka: true
     - id: '6633'
       num: '85'
       name: ЛИСНЯКОВСКИЙ Николай Григорьевич
+      rowinpage: '19'
     - id: '6634'
       num: '86'
       name: ПИРОГОВ Даниил Петрович
+      rowinpage: '20'
 - pageintom: '280'
   image: v02/17-171-410-280.jpg
+  title: Винницкая область
   sublists:
   - sublid: '213'
     persons:
     - id: '6635'
       num: '87'
       name: СКАКОДУБ Алексей Онуфриевич
+      rowinpage: '1'
     - id: '6636'
       num: '88'
       name: СМОГОРЖЕВСКИЙ Цезарь Антонович
+      rowinpage: '2'
   - sublid: '214'
     persons:
     - id: '6637'
       num: '89'
       name: КЛЕЩЕНКО Николай Романович
+      rowinpage: '3'
       spravka: true
       subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ.</u>
     - id: '6638'
       num: '90'
       name: КРЫЛЕВ Дмитрий Семенович
+      rowinpage: '4'
       spravka: true
     - id: '6639'
       num: '91'
       name: ПАСЬКО Андрей Пантелеймонович
+      rowinpage: '5'
       spravka: true
     - id: '6640'
       num: '92'
       name: ЮДИЦКИЙ Владимир Анисимович
+      rowinpage: '6'
 - pageintom: '281'
   image: v02/17-171-410-281.jpg
+  title: null
   sublists: []
 - pageintom: '282'
   image: v02/17-171-410-282.jpg
+  title: null
   sublists:
   - sublid: '206'
     persons:
     - id: '6641'
       num: '1'
       name: АНДРИЕЦ Митрофан Савельевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
         />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ<br
         />КОЛЛЕГИИ ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 2-й КАТЕГОРИИ </u></p><p
@@ -1341,25 +1625,31 @@ pages:
     - id: '6642'
       num: '2'
       name: НЕЗЛИН <br/> Липа Яковлевич
+      rowinpage: '2'
       primzv: Полковой комиссар
   - sublid: '207'
     persons:
     - id: '6643'
       num: '3'
       name: БАЗАРОВ <br/> Василий Авраамович
+      rowinpage: '3'
       primzv: Майор
       subtitle1: <p align="center"><u>КИЕВСКИЙ ВОЕННЫЙ ОКРУГ:</u>
     - id: '6644'
       num: '4'
       name: ЛИБЕРБЕРГ Рахмиэль Рувинович
+      rowinpage: '4'
     - id: '6645'
       num: '5'
       name: РАЧКОВ Федор Филиппович
+      rowinpage: '5'
       spravka: true
     - id: '6646'
       num: '6'
       name: ФИЛЬЧЕНКОВ Иосиф Егорович
+      rowinpage: '6'
     - id: '6647'
       num: '7'
       name: ХАРАЗ Борис Израйлевич
+      rowinpage: '7'
       spravka: true

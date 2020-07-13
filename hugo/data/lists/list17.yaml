@@ -1,9 +1,10 @@
 id: '17'
 title: Список лиц - Московская область // 15 мая 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '139'
 date: '1937-05-15'
+date_ru: 15.05.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -31,218 +32,270 @@ sublists:
 pages:
 - pageintom: '139'
   image: v01/17-171-409-139.jpg
+  title: null
   sublists: []
 - pageintom: '140'
   image: v01/17-171-409-140.jpg
+  title: null
   sublists: []
 - pageintom: '141'
   image: v01/17-171-409-141.jpg
+  title: null
   sublists:
   - sublid: '14'
     persons:
     - id: '2162'
       num: '1'
       name: БЕККЕР Анатолий Густавович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
         ОБЛАСТЬ</u></p><p align="right"><u>Троцкисты.</u>
     - id: '2163'
       num: '2'
       name: БОЛХОВИТИН Алексей Константинович
+      rowinpage: '2'
       spravka: true
     - id: '2164'
       num: '3'
       name: БУРГ Густав Августович (он же КЕНИГ)
+      rowinpage: '3'
       spravka: true
     - id: '2165'
       num: '4'
       name: ЗИБЕНГААР Константин Петрович
+      rowinpage: '4'
       spravka: true
     - id: '2166'
       num: '5'
       name: ИПАТОВ Матвей Алексеевич
+      rowinpage: '5'
       spravka: true
     - id: '2167'
       num: '6'
       name: КЛИМ Николай Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '2168'
       num: '7'
       name: КОНЯХИН Яков Романович
+      rowinpage: '7'
       spravka: true
     - id: '2169'
       num: '8'
       name: МАКАРОВ Дмитрий Федорович
+      rowinpage: '8'
       spravka: true
     - id: '2170'
       num: '9'
       name: МАРГИС Рудольф
+      rowinpage: '9'
       spravka: true
     - id: '2171'
       num: '10'
       name: МАРТЫНОВ Николай Иванович
+      rowinpage: '10'
       spravka: true
     - id: '2172'
       num: '11'
       name: НИКОЛАЕВ Николай Ильич
+      rowinpage: '11'
       spravka: true
     - id: '2173'
       num: '12'
       name: РОЗЕНБЛЮМ Абрам Калманович
+      rowinpage: '12'
       spravka: true
     - id: '2174'
       num: '13'
       name: РУБИН Яков Матвеевич
+      rowinpage: '13'
       spravka: true
     - id: '2175'
       num: '14'
       name: САБЕЛЬНИКОВ Владимир Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '2176'
       num: '15'
       name: СЕМЕНЕНКО Петр Исаакович
+      rowinpage: '15'
       spravka: true
     - id: '2177'
       num: '16'
       name: СТАРОСТИН Иван Семенович
+      rowinpage: '16'
       spravka: true
     - id: '2178'
       num: '17'
       name: ТАУБЕНБЕРГЕР Герман Иосифович
+      rowinpage: '17'
       spravka: true
     - id: '2179'
       num: '18'
       name: УВАРОВ Александр Иванович
+      rowinpage: '18'
       spravka: true
     - id: '2180'
       num: '19'
       name: ФЕДОРОВ Павел Иванович
+      rowinpage: '19'
       spravka: true
     - id: '2181'
       num: '20'
       name: ФИЛИППОВ Иван Яковлевич
+      rowinpage: '20'
       spravka: true
     - id: '2182'
       num: '21'
       name: ЧЕРКАШИН Федор Лаврентьевич
+      rowinpage: '21'
       spravka: true
 - pageintom: '142'
   image: v01/17-171-409-142.jpg
+  title: Московская область
   sublists:
   - sublid: '14'
     persons:
     - id: '2183'
       num: '1'
       name: БАБАЕВ Сергей Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>Правые.</u>
     - id: '2184'
       num: '2'
       name: БАРМИН Михаил Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '2185'
       num: '3'
       name: ВОИНОВ Николай Иванович
+      rowinpage: '3'
       spravka: true
     - id: '2186'
       num: '4'
       name: ГУСАРОВ Анатолий Федорович
+      rowinpage: '4'
       spravka: true
     - id: '2187'
       num: '5'
       name: ДЕМИН Алексей Михайлович
+      rowinpage: '5'
       spravka: true
     - id: '2188'
       num: '6'
       name: ЗАХАРОВ Игорь Никитич
+      rowinpage: '6'
       spravka: true
     - id: '2189'
       num: '7'
       name: КАЗАКОВ Сергей Кириллович
+      rowinpage: '7'
       spravka: true
     - id: '2190'
       num: '8'
       name: КАШИН Павел Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '2191'
       num: '9'
       name: МАРКОВ Иван Георгиевич
+      rowinpage: '9'
       spravka: true
     - id: '2192'
       num: '10'
       name: МАСЛОВ Павел Петрович
+      rowinpage: '10'
       spravka: true
     - id: '2193'
       num: '11'
       name: СТАНКИН Исаак Захарович
+      rowinpage: '11'
       spravka: true
 - pageintom: '143'
   image: v01/17-171-409-143.jpg
+  title: null
   sublists:
   - sublid: '14'
     persons:
     - id: '2194'
       num: '1'
       name: БУРГ Альма Калевна (она же КЕНИГ)
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
         ОБЛАСТЬ</u></p><p align="right"><u>Троцкисты.</u>
     - id: '2195'
       num: '2'
       name: ГРУДСКАЯ Анна Яковлевна
+      rowinpage: '2'
       spravka: true
     - id: '4658'
       num: '3'
       name: ЕГОРОВ Владимир Михайлович
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '2197'
       num: '4'
       name: КИЗИЛЬШТЕЙН Мария Самуиловна
+      rowinpage: '4'
       spravka: true
     - id: '2198'
       num: '5'
       name: МАТВЕЕВ Константин Александрович
+      rowinpage: '5'
       spravka: true
     - id: '2199'
       num: '6'
       name: МИРОНСКИЙ Арон Маркович
+      rowinpage: '6'
       spravka: true
     - id: '2200'
       num: '7'
       name: НИКОЛАЕВА Вера Васильевна
+      rowinpage: '7'
       spravka: true
     - id: '2201'
       num: '8'
       name: ПЕТРЕНКО Екатерина Васильевна
+      rowinpage: '8'
       spravka: true
     - id: '2202'
       num: '9'
       name: РУБИНШТЕЙН Цецилия Борисовна
+      rowinpage: '9'
       spravka: true
     - id: '2203'
       num: '10'
       name: ТАУБЕНБЕРГЕР Эльза Евгеньевна
+      rowinpage: '10'
       spravka: true
     - id: '2204'
       num: '11'
       name: ШИМАНСКАЯ Фрида Фрицевна
+      rowinpage: '11'
       spravka: true
     - id: '2205'
       num: '12'
       name: ШИМАНСКИЙ Фриц Альбертович
+      rowinpage: '12'
       spravka: true
     - id: '2206'
       num: '13'
       name: ЭРДМАН Иосиф Николаевич
+      rowinpage: '13'
       spravka: true
 - pageintom: '144'
   image: v01/17-171-409-144.jpg
+  title: null
   sublists:
   - sublid: '14'
     persons:
     - id: '2207'
       num: '1'
       name: ПЕТРОВ Николай Григорьевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>3-я категория.</u></p><p align="center"><u>МОСКОВСКАЯ
         ОБЛАСТЬ</u></p><p align="right"><u>Троцкисты.</u>

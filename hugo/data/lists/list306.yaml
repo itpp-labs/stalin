@@ -1,9 +1,10 @@
 id: '306'
 title: Список лиц - Москва-центр // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '154'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,78 +30,97 @@ sublists:
 pages:
 - pageintom: '154'
   image: v08/17-171-416-154.jpg
+  title: null
   sublists: []
 - pageintom: '155'
   image: v08/17-171-416-155.jpg
+  title: null
   sublists: []
 - pageintom: '156'
   image: v08/17-171-416-156.jpg
+  title: null
   sublists:
   - sublid: '555'
     persons:
     - id: '30984'
       num: '1'
       name: БИРК Роман Густавович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР</u><br />(Бывшие сотрудники НКВД)</p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '30985'
       num: '2'
       name: БОРИСОВ-ПАВЛОВ Каллиник Иосифович
+      rowinpage: '2'
       spravka: true
     - id: '30986'
       num: '3'
       name: ГАЛСТЯН Константин Богданович
+      rowinpage: '3'
       spravka: true
     - id: '30987'
       num: '4'
       name: ДУРЛЯНИН Михаил Сергеевич
+      rowinpage: '4'
       spravka: true
     - id: '30988'
       num: '5'
       name: ЕРМАКОВ Владимир Никитович
+      rowinpage: '5'
       spravka: true
     - id: '30989'
       num: '6'
       name: ЗЕМСКИЙ Иван Иванович
+      rowinpage: '6'
       spravka: true
     - id: '30990'
       num: '7'
       name: КАНЦ Семен Борисович
+      rowinpage: '7'
       spravka: true
     - id: '30991'
       num: '8'
       name: КЛЕМЕНЧИЧ Иван Петрович
+      rowinpage: '8'
       spravka: true
     - id: '30992'
       num: '9'
       name: МУЛЯРОВ Яков Абрамович
+      rowinpage: '9'
       spravka: true
     - id: '30993'
       num: '10'
       name: НОВАК Юлиус Анатольевич, он же <br />РОЗЕНФЕЛЬД Лоеш он же ЭНГЛЕР Арнольд
         Абрамович
+      rowinpage: '10'
       spravka: true
     - id: '30994'
       num: '11'
       name: ПЕРКОН Петр Юрьевич-Густавович
+      rowinpage: '11'
       spravka: true
     - id: '30995'
       num: '12'
       name: СОНКИН Григорий Львович
+      rowinpage: '12'
       spravka: true
     - id: '30996'
       num: '13'
       name: ХАДЖАМИРОВ Григорий Христофорович
+      rowinpage: '13'
       spravka: true
     - id: '30997'
       num: '14'
       name: ХОМУТОВ Александр Дмитриевич
+      rowinpage: '14'
     - id: '30998'
       num: '15'
       name: ШЕР Марк Львович
+      rowinpage: '15'
       spravka: true
     - id: '30999'
       num: '16'
       name: ЭНГВЕР Николай Юрьевич
+      rowinpage: '16'
       spravka: true

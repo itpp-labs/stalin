@@ -1,9 +1,10 @@
 id: '284'
 title: Список лиц - Украинская ССР;г.Одесса.Одесская ж.д. // от 28 марта 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.7, оп.171, дело 415
+  ref: РГАСПИ, ф.17, оп.171, дело 415
   page1: '262'
 date: '1938-03-28'
+date_ru: 28.03.1938
 tom: 7
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -53,435 +54,548 @@ sublists:
 pages:
 - pageintom: '262'
   image: v07/17-171-415-262.jpg
+  title: null
   sublists: []
 - pageintom: '263'
   image: v07/17-171-415-263.jpg
+  title: null
   sublists: []
 - pageintom: '264'
   image: v07/17-171-415-264.jpg
+  title: null
   sublists:
   - sublid: '543'
     persons:
     - id: '28996'
       num: '1'
       name: БЕЛИМОВ Сергей Николаевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р.</u></p><p align="right"><u>1-я
         категория </u></p><p align="center"><u> КИЕВ-ЦЕНТР</u>
     - id: '28997'
       num: '2'
       name: ГЛУЗМАН Ефим Михайлович
+      rowinpage: '2'
       doublesexists: true
     - id: '28998'
       num: '3'
       name: ЕГОРОВ Николай Михайлович
+      rowinpage: '3'
     - id: '28999'
       num: '4'
       name: ЗАКУТОВСКИЙ Александр Федорович
+      rowinpage: '4'
     - id: '29000'
       num: '5'
       name: ЗНОВА Иван Филиппович
+      rowinpage: '5'
     - id: '29001'
       num: '6'
       name: КАГАНСКИЙ Моисей Хаскелевич
+      rowinpage: '6'
       doublesexists: true
     - id: '29002'
       num: '7'
       name: КОСТЯНОЙ Николай Степанович
+      rowinpage: '7'
     - id: '29003'
       num: '8'
       name: КОЗЛОВСКИЙ Константин Кузьмич
+      rowinpage: '8'
       spravka: true
     - id: '29004'
       num: '9'
       name: КРАЕВСКИЙ Александр Феликсович
+      rowinpage: '9'
       spravka: true
     - id: '29005'
       num: '10'
       name: КУХАРСКИЙ Георгий Флорианович
+      rowinpage: '10'
       spravka: true
     - id: '29006'
       num: '11'
       name: МИНДЮК Аркадий Андреевич
+      rowinpage: '11'
       spravka: true
     - id: '29007'
       num: '12'
       name: МИХАЭЛИС Платон Генрихович
+      rowinpage: '12'
     - id: '29008'
       num: '13'
       name: ОКОРЯКОВ Петр Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '29009'
       num: '14'
       name: ОРЛОВСКИЙ Владимир Алексеевич
+      rowinpage: '14'
     - id: '29010'
       num: '15'
       name: ОСТРЯНСКИЙ Александр Абрамович
+      rowinpage: '15'
     - id: '29011'
       num: '16'
       name: ПОЗНЯКОВСКИЙ Авигдор Израилевич
+      rowinpage: '16'
       spravka: true
     - id: '29012'
       num: '17'
       name: ПОТЯГАЙЛО Яков Аронович
+      rowinpage: '17'
       spravka: true
     - id: '29013'
       num: '18'
       name: РУСАКОВ Александр Васильевич
+      rowinpage: '18'
       spravka: true
     - id: '29014'
       num: '19'
       name: ХОМЕНКО Абрам Варфоломеевич
+      rowinpage: '19'
       spravka: true
     - id: '29015'
       num: '20'
       name: ШЕВЛЯГИН Виктор Андреевич
+      rowinpage: '20'
       spravka: true
     - id: '29016'
       num: '21'
       name: БЕЛЕЦКИЙ Илларион Николаевич
+      rowinpage: '21'
       spravka: true
 - pageintom: '265'
   image: v07/17-171-415-265.jpg
+  title: null
   sublists:
   - sublid: '543'
     persons:
     - id: '29017'
       num: '22'
       name: БЕЗНИСКО Василий Маркович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>КИЕВСКАЯ ОБЛАСТЬ</u>
     - id: '29018'
       num: '23'
       name: ГОЛЬДИН Аркадий Миронович
+      rowinpage: '2'
     - id: '29019'
       num: '24'
       name: РЯБОШАПКО Антон Венедиктович
+      rowinpage: '3'
       spravka: true
     - id: '29020'
       num: '25'
       name: ТИМОФЕЕВ Василий Банефатьевич
+      rowinpage: '4'
       spravka: true
     - id: '29021'
       num: '26'
       name: ШАТОХИН Пантелеймон Федорович
+      rowinpage: '5'
       spravka: true
     - id: '29022'
       num: '27'
       name: АСПИДОВ Михаил Федотович
+      rowinpage: '6'
       subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ</u>
     - id: '29023'
       num: '28'
       name: БАРАНОВ Константин Петрович
+      rowinpage: '7'
       spravka: true
     - id: '29024'
       num: '29'
       name: БОГДАН Валентин Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '29025'
       num: '30'
       name: ГАМОВ Георгий Иванович
+      rowinpage: '9'
       spravka: true
     - id: '29026'
       num: '31'
       name: ГРИЦЕВИЧ Александр Николаевич
+      rowinpage: '10'
     - id: '29027'
       num: '32'
       name: ДАРОВ Иван Михайлович
+      rowinpage: '11'
       spravka: true
     - id: '29028'
       num: '33'
       name: ДЕГЕРМЕНДЖИ Савелий Михайлович
+      rowinpage: '12'
     - id: '29029'
       num: '34'
       name: ДЖЕВИНСКИЙ Александр Дмитриевич
+      rowinpage: '13'
       spravka: true
     - id: '29030'
       num: '35'
       name: ЕВГЕНЬЕВ Николай Данилович
+      rowinpage: '14'
       spravka: true
     - id: '29031'
       num: '36'
       name: ЕЛИЗАРОВ Николай Иванович
+      rowinpage: '15'
     - id: '29032'
       num: '37'
       name: ЗУБЕНКО Федор Анисимович
+      rowinpage: '16'
       spravka: true
     - id: '29033'
       num: '38'
       name: КИДАЛОВ Дмитрий Федорович
+      rowinpage: '17'
     - id: '29034'
       num: '39'
       name: КИТАРИОГЛО Михаил Павлович
+      rowinpage: '18'
     - id: '29035'
       num: '40'
       name: КОЙФМАН Израил Абрамович
+      rowinpage: '19'
       spravka: true
     - id: '29036'
       num: '41'
       name: КОЛАКОВСКИЙ Евгений Иосифович
+      rowinpage: '20'
     - id: '29037'
       num: '42'
       name: КОЛЫЧЕВ Павел Иванович
+      rowinpage: '21'
       spravka: true
 - pageintom: '266'
   image: v07/17-171-415-266.jpg
+  title: Украинская ССР
   sublists:
   - sublid: '543'
     persons:
     - id: '29038'
       num: '43'
       name: КОЦЮБА Андрей Анисимович
+      rowinpage: '1'
     - id: '29039'
       num: '44'
       name: КОЧЕТОВ Василий Михайлович
+      rowinpage: '2'
       spravka: true
     - id: '29040'
       num: '45'
       name: КУЗНЕЦОВ Петр Владимирович
+      rowinpage: '3'
     - id: '29041'
       num: '46'
       name: КУРПАС Петр Демьянович
+      rowinpage: '4'
     - id: '29042'
       num: '47'
       name: ЛИЛЕЙКО Антон Антонович
+      rowinpage: '5'
     - id: '29043'
       num: '48'
       name: НЕЗНАЮЩИЙ Николай Иванович
+      rowinpage: '6'
       spravka: true
     - id: '29044'
       num: '49'
       name: НИДЗЕЛЬСКИЙ Яков Андреевич
+      rowinpage: '7'
     - id: '29045'
       num: '50'
       name: НОСОВ Георгий Афанасьевич
+      rowinpage: '8'
       spravka: true
     - id: '29046'
       num: '51'
       name: ПЕРЕБАСКИН Василий Александрович
+      rowinpage: '9'
       spravka: true
     - id: '29047'
       num: '52'
       name: ПЕРЕТЯТЬКО Прокофий Иванович
+      rowinpage: '10'
       spravka: true
     - id: '29048'
       num: '53'
       name: ПЕТРОВ Николай Константинович
+      rowinpage: '11'
     - id: '29049'
       num: '54'
       name: ПЕЧЕНКИН Михаил Михайлович
+      rowinpage: '12'
     - id: '29050'
       num: '55'
       name: РУБИН Гавриил Федорович
+      rowinpage: '13'
     - id: '29051'
       num: '56'
       name: РУДЕРМАН Григорий Давидович
+      rowinpage: '14'
       spravka: true
     - id: '29052'
       num: '57'
       name: СЕРГЕЕВ Алексей Матвеевич
+      rowinpage: '15'
       spravka: true
     - id: '29053'
       num: '58'
       name: СИЛАЕВ Иосиф Тихонович
+      rowinpage: '16'
       spravka: true
     - id: '29054'
       num: '59'
       name: СКИТСКИЙ Василий Яковлевич
+      rowinpage: '17'
     - id: '29055'
       num: '60'
       name: СЛИТИНСКИЙ Илья Леонидович
+      rowinpage: '18'
       spravka: true
     - id: '29056'
       num: '61'
       name: СУРДИН Семен-Вульф Альперович
+      rowinpage: '19'
       spravka: true
     - id: '29057'
       num: '62'
       name: ТКАЧЕНКО Петр Алексеевич
+      rowinpage: '20'
     - id: '29058'
       num: '63'
       name: ТОЧИЛИН Петр Дмитриевич
+      rowinpage: '21'
     - id: '29059'
       num: '64'
       name: ФОРТУШНЫЙ Виктор Васильевич
+      rowinpage: '22'
     - id: '29060'
       num: '65'
       name: ШМОТКИН Михаил Самойлович
+      rowinpage: '23'
       spravka: true
     - id: '29061'
       num: '66'
       name: ШОСТАК Петр Ефимович
+      rowinpage: '24'
     - id: '29062'
       num: '67'
       name: ПОБОЖНЫЙ Василий Ананьевич
+      rowinpage: '25'
       spravka: true
       subtitle1: <p align="center"><u>ЖИТОМИРСКАЯ ОБЛАСТЬ</u>
 - pageintom: '267'
   image: v07/17-171-415-267.jpg
+  title: null
   sublists:
   - sublid: '543'
     persons:
     - id: '29063'
       num: '68'
       name: БОГДЕВИЧ Виктор Гаврилович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ</u>
     - id: '29064'
       num: '69'
       name: ВАЙНЕР Иосиф Абрамович
+      rowinpage: '2'
       spravka: true
     - id: '29065'
       num: '70'
       name: СТЕПАНОВ Дмитрий Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '29066'
       num: '71'
       name: ТУРЧЕНКО Екатерина Алексеевна
+      rowinpage: '4'
       spravka: true
     - id: '29067'
       num: '72'
       name: ЭДЕЛЬ Михаил Борисович
+      rowinpage: '5'
       spravka: true
     - id: '29068'
       num: '73'
       name: ГАВРИЛЬЧИК Даниил Данилович
+      rowinpage: '6'
       spravka: true
       subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ</u>
     - id: '29069'
       num: '74'
       name: КАРОЛИН Густав Гансович
+      rowinpage: '7'
       spravka: true
     - id: '29070'
       num: '75'
       name: ПИВОВАРОВ Кирилл Петрович
+      rowinpage: '8'
       subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
 - pageintom: '268'
   image: v07/17-171-415-268.jpg
+  title: null
   sublists:
   - sublid: '543'
     persons:
     - id: '29071'
       num: '1'
       name: ПУГАЧ Михаил Иванович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р.</u></p><p align="right"><u>2-я
         категория </u></p><p align="center"><u> КИЕВ-ЦЕНТР</u>
     - id: '29072'
       num: '2'
       name: ЦУЦУРА Андрей Иванович
+      rowinpage: '2'
       subtitle1: <p align="center"><u>ДНЕПРОПЕТРОВСКАЯ ОБЛАСТЬ</u>
     - id: '29073'
       num: '3'
       name: РОЗЕНЦВЕЙГ Даниил Яковлевич
+      rowinpage: '3'
       subtitle1: <p align="center"><u>ХАРЬКОВСКАЯ ОБЛАСТЬ</u>
 - pageintom: '269'
   image: v07/17-171-415-269.jpg
+  title: null
   sublists:
   - sublid: '544'
     persons:
     - id: '29074'
       num: '1'
       name: АХМАТСКИЙ Иван Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ОДЕССКАЯ ЖЕЛ.ДОРОГА </u></p><p align="right"><u>1-я
         категория</u>
     - id: '29075'
       num: '2'
       name: БАРАШКИН Павел Романович
+      rowinpage: '2'
       spravka: true
     - id: '29076'
       num: '3'
       name: БЕРЕЗНИКОВ Михаил Александрович
+      rowinpage: '3'
       spravka: true
     - id: '29077'
       num: '4'
       name: БУЗДЕС Мария Мойсеевна
+      rowinpage: '4'
       spravka: true
     - id: '29078'
       num: '5'
       name: БЫКОВ Михаил Константинович
+      rowinpage: '5'
       spravka: true
     - id: '29079'
       num: '6'
       name: ГИНЕТ Николай Леонович
+      rowinpage: '6'
       spravka: true
     - id: '29080'
       num: '7'
       name: ДАНИЛЕЙКО Яков Гаврилович
+      rowinpage: '7'
     - id: '29081'
       num: '8'
       name: ЖИГМУНДТ Антон Антонович
+      rowinpage: '8'
       spravka: true
     - id: '29082'
       num: '9'
       name: ЗЕМЛЯНКИН Андрей Гаврилович
+      rowinpage: '9'
       spravka: true
     - id: '29083'
       num: '10'
       name: КОСИНСКИЙ Тимофей Григорьевич
+      rowinpage: '10'
     - id: '29084'
       num: '11'
       name: КОХАНОВСКИЙ Феликс Лаврентьевич
+      rowinpage: '11'
     - id: '29085'
       num: '12'
       name: КОШЛАКОВ Василий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '29086'
       num: '13'
       name: КРОЙТЕР Петр Иванович
+      rowinpage: '13'
       spravka: true
     - id: '29087'
       num: '14'
       name: ЛЕПЕНДИН Михаил Иванович
+      rowinpage: '14'
     - id: '29088'
       num: '15'
       name: ЛЕПИЛИН Петр Константинович
+      rowinpage: '15'
       spravka: true
     - id: '29089'
       num: '16'
       name: МИЛХ Лев Романович
+      rowinpage: '16'
       spravka: true
     - id: '29090'
       num: '17'
       name: МУРЗО Петр Васильевич
+      rowinpage: '17'
       spravka: true
     - id: '29091'
       num: '18'
       name: ПАВЛОВСКИЙ Дорофей Иванович
+      rowinpage: '18'
       spravka: true
     - id: '29092'
       num: '19'
       name: ПОНОМАРЕНКО Константин Иванович
+      rowinpage: '19'
       spravka: true
     - id: '29093'
       num: '20'
       name: ПУКСТ Николай Константинович
+      rowinpage: '20'
       spravka: true
     - id: '29094'
       num: '21'
       name: ФОКЕЕВ Александр Михайлович
+      rowinpage: '21'
       spravka: true
     - id: '29095'
       num: '22'
       name: ШМАНЕНКО Андрей Петрович
+      rowinpage: '22'
       spravka: true
     - id: '29096'
       num: '23'
       name: ЩЕПИНИН Семен Захарьевич
+      rowinpage: '23'
       spravka: true
 - pageintom: '270'
   image: v07/17-171-415-270.jpg
+  title: null
   sublists:
   - sublid: '544'
     persons:
     - id: '29097'
       num: '1'
       name: АНИСИМОВ Афанасий Данилович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ОДЕССКАЯ ЖЕЛ.ДОРОГА </u></p><p align="right"><u>2-я
         категория</u>
     - id: '29098'
       num: '2'
       name: ОРЛОВ Сергей Васильевич
+      rowinpage: '2'
     - id: '29099'
       num: '3'
       name: СУРКИС Александр Ионович
+      rowinpage: '3'
       spravka: true

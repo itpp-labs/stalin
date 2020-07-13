@@ -1,9 +1,10 @@
 id: '230'
 title: 'Список лиц: Воронежская обл. // 22 сентября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '105'
 date: '1937-09-22'
+date_ru: 22.09.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,147 +29,183 @@ sublists:
 pages:
 - pageintom: '105'
   image: v03/17-171-411-105.jpg
+  title: null
   sublists: []
 - pageintom: '106'
   image: v03/17-171-411-106.jpg
+  title: null
   sublists: []
 - pageintom: '107'
   image: v03/17-171-411-107.jpg
+  title: null
   sublists:
   - sublid: '351'
     persons:
     - id: '8905'
       num: '1'
       name: АКОВАНЦЕВ Андрей Тарасович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ВОРОНЕЖСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         категория</u>
     - id: '8906'
       num: '2'
       name: БОРОДИН-КОРНЮХИН Дмитрий Никанорович
+      rowinpage: '2'
       spravka: true
     - id: '8907'
       num: '3'
       name: БРЕДИХИН Андрей Филиппович
+      rowinpage: '3'
       spravka: true
     - id: '8908'
       num: '4'
       name: ВЛАСОВ Арсентий Иванович
+      rowinpage: '4'
       spravka: true
     - id: '8909'
       num: '5'
       name: ГАВРИКОВ Владимир Иванович
+      rowinpage: '5'
       spravka: true
     - id: '8910'
       num: '6'
       name: ГОРБАЧЕВ Владимир Васильевич
+      rowinpage: '6'
       spravka: true
     - id: '8911'
       num: '7'
       name: ГРОМОВ Александр Никитович
+      rowinpage: '7'
       spravka: true
     - id: '8912'
       num: '8'
       name: ЕФИМОВ Василий Яковлевич
+      rowinpage: '8'
       spravka: true
     - id: '8913'
       num: '9'
       name: ЖИТНЫЙ Андрей Андреевич
+      rowinpage: '9'
       spravka: true
     - id: '8914'
       num: '10'
       name: ЗАРИН Алексей Михайлович
+      rowinpage: '10'
       spravka: true
     - id: '8915'
       num: '11'
       name: КЕРБИКОВ Петр Петрович
+      rowinpage: '11'
       spravka: true
     - id: '8916'
       num: '12'
       name: КОРНЮХИН Александр Никанорович
+      rowinpage: '12'
       spravka: true
     - id: '8917'
       num: '13'
       name: КОРНЮХИН Виктор Никанорович
+      rowinpage: '13'
       spravka: true
     - id: '8918'
       num: '14'
       name: КРИВСКИХ Василий Никитович
+      rowinpage: '14'
       spravka: true
     - id: '8919'
       num: '15'
       name: КУЛАЕВ Семен Петрович
+      rowinpage: '15'
       spravka: true
     - id: '8920'
       num: '16'
       name: КУЛЯБКО-КОРЕЦКАЯ Нина Николаевна
+      rowinpage: '16'
       spravka: true
     - id: '8921'
       num: '17'
       name: ЛЕОНОВ Иван Минаевич
+      rowinpage: '17'
       spravka: true
     - id: '8922'
       num: '18'
       name: МУРАТОВ Кирилл Константинович
+      rowinpage: '18'
       spravka: true
     - id: '8923'
       num: '19'
       name: МУХИН Александр Арсентьевич
+      rowinpage: '19'
       spravka: true
     - id: '8924'
       num: '20'
       name: НАПОЛОВ Григорий Павлович
+      rowinpage: '20'
       spravka: true
     - id: '8925'
       num: '21'
       name: НЕУМЕЕЧЕВ Степан Иванович
+      rowinpage: '21'
       spravka: true
     - id: '8926'
       num: '22'
       name: ПОДБЕЛЬСКИЙ Юрий Николаевич
+      rowinpage: '22'
       spravka: true
     - id: '8927'
       num: '23'
       name: РОЖКОВ Иван Григорьевич
+      rowinpage: '23'
       spravka: true
     - id: '8928'
       num: '24'
       name: СУХОРУКОВ Алексей Иванович
+      rowinpage: '24'
       spravka: true
     - id: '8929'
       num: '25'
       name: ТУЗЛУКОВ Иван Кондратьевич
+      rowinpage: '25'
       spravka: true
 - pageintom: '108'
   image: v03/17-171-411-108.jpg
+  title: Воронежская обл.
   sublists:
   - sublid: '351'
     persons:
     - id: '8930'
       num: '26'
       name: УСЫРЕВ Павел Петрович
+      rowinpage: '1'
       spravka: true
     - id: '8931'
       num: '27'
       name: ФОМЕНКОВ Григорий Матвеевич
+      rowinpage: '2'
       spravka: true
     - id: '8932'
       num: '28'
       name: ФРОЛОВ Тихон Евдокимович
+      rowinpage: '3'
       spravka: true
     - id: '8933'
       num: '29'
       name: ШЕВЯКОВ Николай Моисеевич
+      rowinpage: '4'
       spravka: true
     - id: '8934'
       num: '30'
       name: ШЕСТАКОВ Всеволод Петрович
+      rowinpage: '5'
       spravka: true
     - id: '8935'
       num: '31'
       name: ШМЕЛЕВ Алексей Андреевич
+      rowinpage: '6'
       spravka: true
     - id: '8936'
       num: '32'
       name: ЩИГОРЦЕВ Иван Евдокимович
+      rowinpage: '7'
       spravka: true

@@ -1,9 +1,10 @@
 id: '38'
 title: 'Список лиц: Украинская ССР // 10 июля 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '39'
 date: '1937-07-10'
+date_ru: 10.07.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -31,54 +32,68 @@ sublists:
 pages:
 - pageintom: '39'
   image: v02/17-171-410-039.jpg
+  title: null
   sublists: []
 - pageintom: '40'
   image: v02/17-171-410-040.jpg
+  title: null
   sublists: []
 - pageintom: '41'
   image: v02/17-171-410-041.jpg
+  title: null
   sublists:
   - sublid: '29'
     persons:
     - id: '3837'
       num: '1'
       name: БРАТУСЬ Иван Евсеевич
+      rowinpage: '1'
       subtitle1: <p align="right"><u>1-я КАТЕГОРИЯ.</u></p><p align="center"><u>УКРАИНСКАЯ
         ССР. </u><br /><u> гор. КИЕВ.</u>
     - id: '3838'
       num: '2'
       name: КОЛОС-КАБАНОВ Борис Данилович
+      rowinpage: '2'
       spravka: true
     - id: '3839'
       num: '3'
       name: КЛИМЕНКО-КОШЛАТЫЙ Виктор Николаевич
+      rowinpage: '3'
     - id: '3840'
       num: '4'
       name: КУЛИШ Петр Абрамович
+      rowinpage: '4'
     - id: '3841'
       num: '5'
       name: САМУТИН Федор Николаевич
+      rowinpage: '5'
     - id: '3842'
       num: '6'
       name: СИДОРЕНКО Александр Тимофеевич
+      rowinpage: '6'
     - id: '3843'
       num: '7'
       name: БИДНЕР Давид Абрамович
+      rowinpage: '7'
       spravka: true
       subtitle1: <p align="center"><u>гор. ОДЕССА.</u>
     - id: '3844'
       num: '8'
       name: СИЛИН Петр Иванович
+      rowinpage: '8'
       spravka: true
     - id: '3845'
       num: '9'
       name: КОЗОРЕЗОВ Семен Дмитриевич
+      rowinpage: '9'
       subtitle1: <p align="center"><u>гор. ХАРЬКОВ</u>
     - id: '3846'
       num: '10'
       name: МАЗАНОВ Константин Федорович
+      rowinpage: '10'
       subtitle1: <p align="right"><u>2-я КАТЕГОРИЯ.</u></p><p align="center"><u>гор.
         ХАРЬКОВ</u>
     - id: '3847'
       num: '11'
       name: ШЕВЕЛЕВ Сергей Алексеевич
+      rowinpage: '11'

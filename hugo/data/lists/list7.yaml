@@ -1,9 +1,10 @@
 id: '7'
 title: Список лиц - Свердловская область // 1 апреля 1937 года
 archive:
-  ref: РГАСПИ, ф.17, т.1, оп.171, дело 409
+  ref: РГАСПИ, ф.17, оп.171, дело 409
   page1: '65'
 date: '1937-04-01'
+date_ru: 01.04.1937
 tom: 1
 delo:
   name: Право-троцкистский блок (списки)
@@ -28,318 +29,397 @@ sublists:
 pages:
 - pageintom: '65'
   image: v01/17-171-409-065.jpg
+  title: null
   sublists: []
 - pageintom: '66'
   image: v01/17-171-409-066.jpg
+  title: null
   sublists: []
 - pageintom: '67'
   image: v01/17-171-409-067.jpg
+  title: null
   sublists:
   - sublid: '4'
     persons:
     - id: '1152'
       num: '1'
       name: АЛЕКСЕЕВ Сергей Федорович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-ая категория.</u></p><p align="center"><u>СВЕРДЛОВСКАЯ
         ОБЛАСТЬ.</u>
     - id: '1153'
       num: '2'
       name: АРЗАМАСЦЕВ Николай Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '1154'
       num: '3'
       name: БАУМГАРТЕН Евгений Оттович
+      rowinpage: '3'
       spravka: true
     - id: '1155'
       num: '4'
       name: БЕККЕР Алексей Алексеевич
+      rowinpage: '4'
       spravka: true
     - id: '1156'
       num: '5'
       name: БЕЛЕНЬКИЙ Борис Натанович
+      rowinpage: '5'
       spravka: true
     - id: '1157'
       num: '6'
       name: БЕЛОГЛАЗОВ Иван Александрович
+      rowinpage: '6'
       spravka: true
     - id: '1158'
       num: '7'
       name: БЕЛЫЙ Иосиф Абрамович
+      rowinpage: '7'
     - id: '1159'
       num: '8'
       name: БИРЮКОВ Константин Лукич
+      rowinpage: '8'
       spravka: true
     - id: '1160'
       num: '9'
       name: ВЕДЕРНИКОВ Петр Лаврентьевич
+      rowinpage: '9'
       spravka: true
     - id: '1161'
       num: '10'
       name: ВОРОПАЕВ Василий Иванович
+      rowinpage: '10'
       spravka: true
     - id: '1162'
       num: '11'
       name: ДЕМИН Василий Игнатьевич
+      rowinpage: '11'
       spravka: true
     - id: '1163'
       num: '12'
       name: ДОМБРОВСКИЙ Иосиф Петрович
+      rowinpage: '12'
       spravka: true
     - id: '1164'
       num: '13'
       name: ЕВСТРАТОВ Степан Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '1165'
       num: '14'
       name: ЕРМАКОВ Павел Матвеевич
+      rowinpage: '14'
       spravka: true
     - id: '1166'
       num: '15'
       name: ЖИЛИНСКИЙ Александр Николаевич
+      rowinpage: '15'
       spravka: true
     - id: '1167'
       num: '16'
       name: ЗАПОРОЖЕЦ Иван Епифанович
+      rowinpage: '16'
       spravka: true
     - id: '1168'
       num: '17'
       name: ЗУЕВ Александр Никифорович
+      rowinpage: '17'
       spravka: true
     - id: '1169'
       num: '18'
       name: КОНЕВ Андрей Никифорович
+      rowinpage: '18'
     - id: '1170'
       num: '19'
       name: КУЗЬМИН Александр Григорьевич
+      rowinpage: '19'
     - id: '1171'
       num: '20'
       name: ЛАВРЕНТЬЕВ Апполон Михайлович
+      rowinpage: '20'
       spravka: true
     - id: '1172'
       num: '21'
       name: ЛАВРОВ Дмитрий Алексеевич
+      rowinpage: '21'
       spravka: true
     - id: '1173'
       num: '22'
       name: ЛЕКОМЦЕВ Андриан Васильевич
+      rowinpage: '22'
       spravka: true
     - id: '1174'
       num: '23'
       name: МАКАРОВ Павел Иванович
+      rowinpage: '23'
       spravka: true
     - id: '1175'
       num: '24'
       name: МАРТИЛОВ Константин Иванович
+      rowinpage: '24'
       spravka: true
     - id: '1176'
       num: '25'
       name: МЕРЗЛИКИН Вячеслав Григорьевич
+      rowinpage: '25'
       spravka: true
 - pageintom: '68'
   image: v01/17-171-409-068.jpg
+  title: Свердловская область
   sublists:
   - sublid: '4'
     persons:
     - id: '1177'
       num: '26'
       name: МИРСКИЙ-КОЗЛЕНКОВ Василий Иванович
+      rowinpage: '1'
     - id: '1178'
       num: '27'
       name: ОКУДЖАВА Шалва Степанович
+      rowinpage: '2'
       spravka: true
     - id: '1179'
       num: '28'
       name: ОСОКИН Михаил Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '1180'
       num: '29'
       name: ПОНОМАРЕНКО Кирилл Павлович
+      rowinpage: '4'
       spravka: true
     - id: '1181'
       num: '30'
       name: ПУШКАРЕВ Степан Леонидович
+      rowinpage: '5'
       spravka: true
     - id: '1182'
       num: '31'
       name: САМОЙЛОВ Петр Акимович
+      rowinpage: '6'
       spravka: true
     - id: '1183'
       num: '32'
       name: СЕМКОВ Василий Матвеевич
+      rowinpage: '7'
       spravka: true
     - id: '1184'
       num: '33'
       name: СИБИРЯКОВ Леонид Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '1185'
       num: '34'
       name: СИВКОВ Александр Федорович
+      rowinpage: '9'
       spravka: true
     - id: '1186'
       num: '35'
       name: СИГИДЕНКО Иван Ильич
+      rowinpage: '10'
       spravka: true
     - id: '1187'
       num: '36'
       name: СКАКУН Павел Тимофеевич
+      rowinpage: '11'
       spravka: true
     - id: '1188'
       num: '37'
       name: СЫЧЕВ Илья Сергеевич
+      rowinpage: '12'
       spravka: true
     - id: '1189'
       num: '38'
       name: ТИМИН Федор Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '1190'
       num: '39'
       name: ТУРОН Виктор Селиверстович
+      rowinpage: '14'
       spravka: true
     - id: '1191'
       num: '40'
       name: ФЕДОТОВ Алексей Иванович
+      rowinpage: '15'
       spravka: true
     - id: '1192'
       num: '41'
       name: ФИЛИППОВ Виктор Константинович
+      rowinpage: '16'
       spravka: true
     - id: '1193'
       num: '42'
       name: ХОХРЯКОВ Виктор Филиппович
+      rowinpage: '17'
       spravka: true
     - id: '1194'
       num: '43'
       name: ШТЕЙНГАУЗ Исаак Моисеевич
+      rowinpage: '18'
       spravka: true
     - id: '1195'
       num: '44'
       name: ЯГОДКИН Никита Абрамович
+      rowinpage: '19'
       spravka: true
 - pageintom: '69'
   image: v01/17-171-409-069.jpg
+  title: null
   sublists:
   - sublid: '4'
     persons:
     - id: '1196'
       num: '1'
       name: БАЯНОВСКИЙ Константин Евгеньевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>2-ая категория.</u></p><p align="center"><u>СВЕРДЛОВСКАЯ
         ОБЛАСТЬ.</u>
     - id: '1197'
       num: '2'
       name: БЕЛОВ Константин Дмитриевич
+      rowinpage: '2'
       spravka: true
     - id: '1198'
       num: '3'
       name: БЕЛЯЕВ Николай Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '1199'
       num: '4'
       name: БЕЛЯЕВ Сергей Александрович
+      rowinpage: '4'
       spravka: true
     - id: '1200'
       num: '5'
       name: БЕРДНИКОВ Николай Алексеевич
+      rowinpage: '5'
     - id: '1201'
       num: '6'
       name: БОНДИН Леонид Николаевич
+      rowinpage: '6'
       spravka: true
     - id: '1202'
       num: '7'
       name: ВАЛЕНТИНОВ Григорий Лазаревич
+      rowinpage: '7'
       spravka: true
     - id: '1203'
       num: '8'
       name: ГАНИН Иван Кузьмич
+      rowinpage: '8'
       spravka: true
     - id: '1204'
       num: '9'
       name: ГЕНДЕЛЬ Михаил Яковлевич
+      rowinpage: '9'
       spravka: true
     - id: '1205'
       num: '10'
       name: ДОНКУШИН Яков Кириллович
+      rowinpage: '10'
       spravka: true
     - id: '1206'
       num: '11'
       name: ДУДИН Николай Яковлевич
+      rowinpage: '11'
       spravka: true
     - id: '1207'
       num: '12'
       name: ИВАНОВА Агния Максимовна
+      rowinpage: '12'
       spravka: true
     - id: '1208'
       num: '13'
       name: КАЛИНИЧЕНКО Федор Захарович
+      rowinpage: '13'
       spravka: true
     - id: '1209'
       num: '14'
       name: КИСЕЛЕВ Сергей Степанович
+      rowinpage: '14'
       spravka: true
     - id: '1210'
       num: '15'
       name: КОЛЫМАГИН Владимир Самойлович
+      rowinpage: '15'
       spravka: true
     - id: '1211'
       num: '16'
       name: КОНАНЧУК Михаил Александрович
+      rowinpage: '16'
     - id: '1212'
       num: '17'
       name: НАДТОЧЕЙ Иван Пименович
+      rowinpage: '17'
       spravka: true
     - id: '1213'
       num: '18'
       name: ПЛАХОВ Александр Иванович
+      rowinpage: '18'
     - id: '1214'
       num: '19'
       name: ПЫХТЕЛЕВ Василий Матвеевич
+      rowinpage: '19'
       spravka: true
     - id: '1215'
       num: '20'
       name: РУМЯНЦЕВ Александр Михайлович
+      rowinpage: '20'
       spravka: true
     - id: '1216'
       num: '21'
       name: ТОКАРЕВ Иван Иосифович
+      rowinpage: '21'
       spravka: true
     - id: '1217'
       num: '22'
       name: ФУКС Михаил Исаакович
+      rowinpage: '22'
       spravka: true
 - pageintom: '70'
   image: v01/17-171-409-070.jpg
+  title: Свердловская область
   sublists:
   - sublid: '4'
     persons:
     - id: '1218'
       num: '23'
       name: ХОДАКОВСКИЙ Николай Семенович
+      rowinpage: '1'
       spravka: true
     - id: '1219'
       num: '24'
       name: ШАРОВ Иван Яковлевич
+      rowinpage: '2'
       spravka: true
     - id: '1220'
       num: '25'
       name: ЯМОВ Иван Николаевич
+      rowinpage: '3'
       spravka: true
 - pageintom: '71'
   image: v01/17-171-409-071.jpg
+  title: null
   sublists:
   - sublid: '4'
     persons:
     - id: '1221'
       num: '1'
       name: ВАСИЛЬЕВ Макар Васильевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>3-ья категория.</u></p><p align="center"><u>СВЕРДЛОВСКАЯ
         ОБЛАСТЬ.</u>
     - id: '1222'
       num: '2'
       name: КОЗИН Василий Александрович
+      rowinpage: '2'
     - id: '1223'
       num: '3'
       name: СУЛИН Степан Иванович
+      rowinpage: '3'
       spravka: true

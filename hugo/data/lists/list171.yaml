@@ -1,9 +1,10 @@
 id: '171'
 title: Список лиц - Новосибирская область // от 10 июня 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '111'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,384 +28,492 @@ sublists:
 pages:
 - pageintom: '111'
   image: v09/17-171-417-111.jpg
+  title: null
   sublists: []
 - pageintom: '112'
   image: v09/17-171-417-112.jpg
+  title: null
   sublists: []
 - pageintom: '113'
   image: v09/17-171-417-113.jpg
+  title: null
   sublists:
   - sublid: '112'
     persons:
     - id: '34797'
       num: '1'
       name: АЛЕКСАНДРОВ Геннадий Владимирович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>НОВОСИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '34798'
       num: '2'
       name: АЛЕНТОВ Александр Павлович
+      rowinpage: '2'
       spravka: true
     - id: '34799'
       num: '3'
       name: АНГЕЛОВ-АСИНСКИЙ Вадим Алексеевич
+      rowinpage: '3'
       spravka: true
     - id: '34800'
       num: '4'
       name: АТЛАСОВ Петр Ильич
+      rowinpage: '4'
       spravka: true
     - id: '34801'
       num: '5'
       name: БАГРОВ Иван Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '34802'
       num: '6'
       name: БАЛЛОД Август Петрович
+      rowinpage: '6'
     - id: '34803'
       num: '7'
       name: БАС Иван Павлович
+      rowinpage: '7'
       spravka: true
     - id: '34804'
       num: '8'
       name: БЕЛЯВСКИЙ Геннадий Петрович
+      rowinpage: '8'
       spravka: true
     - id: '34805'
       num: '9'
       name: БЕРМАН Израиль Константинович (Капелевич)
+      rowinpage: '9'
       spravka: true
     - id: '34806'
       num: '10'
       name: БОДАНОВ Семен Ильич
+      rowinpage: '10'
     - id: '34807'
       num: '11'
       name: БОЛЬЧУНАС Павел Дементьевич
+      rowinpage: '11'
       spravka: true
     - id: '34808'
       num: '12'
       name: БОРИСОВ Зосим Иванович
+      rowinpage: '12'
     - id: '34809'
       num: '13'
       name: БОРОДАЕВ Гавриил Иванович
+      rowinpage: '13'
     - id: '34810'
       num: '14'
       name: БОХАН Иван Иванович
+      rowinpage: '14'
     - id: '34811'
       num: '15'
       name: БРАГИН Андрей Трофимович
+      rowinpage: '15'
     - id: '34812'
       num: '16'
       name: БРЫЗГАЛИН Александр Федорович
+      rowinpage: '16'
     - id: '34813'
       num: '17'
       name: БЫСТРОВ Григорий Тимофеевич
+      rowinpage: '17'
     - id: '34814'
       num: '18'
       name: ВИШНЯКОВ Петр Алексеевич
+      rowinpage: '18'
       spravka: true
     - id: '34815'
       num: '19'
       name: ВОЛЬФРАМ Константин Константинович
+      rowinpage: '19'
       spravka: true
     - id: '34816'
       num: '20'
       name: ГЕРАСИМОВ Климентий Иванович
+      rowinpage: '20'
 - pageintom: '114'
   image: v09/17-171-417-114.jpg
+  title: Новосибирская область
   sublists:
   - sublid: '112'
     persons:
     - id: '34817'
       num: '21'
       name: ГРАШИНЬ Эдмунд Мартынович
+      rowinpage: '1'
       spravka: true
     - id: '34818'
       num: '22'
       name: ГРЕЧИШКИН Степан Николаевич
+      rowinpage: '2'
     - id: '34819'
       num: '23'
       name: ДЕРВЕНЕВ Владимир Федорович
+      rowinpage: '3'
     - id: '34820'
       num: '24'
       name: ДОВГАЛЬ Данил Данилович
+      rowinpage: '4'
       spravka: true
     - id: '34821'
       num: '25'
       name: ЕРГАКОВ Константин Александрович
+      rowinpage: '5'
       spravka: true
     - id: '34822'
       num: '26'
       name: ЖАБСКИЙ Петр Яковлевич
+      rowinpage: '6'
     - id: '34823'
       num: '27'
       name: ЖЕРДЕВ Александр Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '34824'
       num: '28'
       name: ЖИГУНОВ Михаил Павлович
+      rowinpage: '8'
       spravka: true
     - id: '34825'
       num: '29'
       name: ЖИЛЬЦОВ Григорий Федотович
+      rowinpage: '9'
       spravka: true
     - id: '34826'
       num: '30'
       name: ЗАБЕЛИН Петр Иванович
+      rowinpage: '10'
     - id: '34827'
       num: '31'
       name: ЗВЕРЕВ Иван Дмитриевич
+      rowinpage: '11'
     - id: '34828'
       num: '32'
       name: ИГНАТЬЕВ Виктор Николаевич
+      rowinpage: '12'
       spravka: true
     - id: '34829'
       num: '33'
       name: КАРАСЕВ Иван Васильевич
+      rowinpage: '13'
     - id: '34830'
       num: '34'
       name: КАРАСЬ Василий Харитонович
+      rowinpage: '14'
       spravka: true
     - id: '34831'
       num: '35'
       name: КАЦЕН Григорий Лазаревич
+      rowinpage: '15'
       spravka: true
     - id: '34832'
       num: '36'
       name: КОЛОКОЛОВ Борис Иванович
+      rowinpage: '16'
       spravka: true
     - id: '34833'
       num: '37'
       name: КОМАРОВ Николай Михайлович
+      rowinpage: '17'
     - id: '34834'
       num: '38'
       name: КОНДРАТЬЕВ Карл Иванович
+      rowinpage: '18'
       spravka: true
     - id: '34835'
       num: '39'
       name: КОНОНОВ Артемий Георгиевич
+      rowinpage: '19'
     - id: '34836'
       num: '40'
       name: КОРОВКИН Иван Петрович
+      rowinpage: '20'
       spravka: true
     - id: '34837'
       num: '41'
       name: КУЗИН Иван Гаврилович
+      rowinpage: '21'
       spravka: true
     - id: '34838'
       num: '42'
       name: КУЗНЕЦОВ Иван Иванович
+      rowinpage: '22'
       spravka: true
     - id: '34839'
       num: '43'
       name: ЛАВОРЧИК Петр Игнатьевич
+      rowinpage: '23'
       spravka: true
     - id: '34840'
       num: '44'
       name: ЛОШАКОВ Василий Никонорович
+      rowinpage: '24'
     - id: '34841'
       num: '45'
       name: МЕНЬЩИКОВ Олег Константинович
+      rowinpage: '25'
     - id: '34842'
       num: '46'
       name: МИКИШЕВ Михаил Николаевич
+      rowinpage: '26'
     - id: '34843'
       num: '47'
       name: МОИСИЕВИЧ Григорий Максимович
+      rowinpage: '27'
 - pageintom: '115'
   image: v09/17-171-417-115.jpg
+  title: Новосибирская область
   sublists:
   - sublid: '112'
     persons:
     - id: '34844'
       num: '48'
       name: МЯГКОВ Федор Макарович
+      rowinpage: '1'
     - id: '34845'
       num: '49'
       name: НАЙБОРОДИН Иван Филиппович
+      rowinpage: '2'
       spravka: true
     - id: '34846'
       num: '50'
       name: ОЛЕНЕВ Дмитрий Петрович
+      rowinpage: '3'
     - id: '34847'
       num: '51'
       name: ПАНТЮХИН Иван Андреевич
+      rowinpage: '4'
       spravka: true
     - id: '34848'
       num: '52'
       name: ПЕТИН (ПЕТИК) Иван Петрович
+      rowinpage: '5'
     - id: '34849'
       num: '53'
       name: ПЕТРОВ Геннадий Ефимович
+      rowinpage: '6'
     - id: '34850'
       num: '54'
       name: ПЕТРОВ Иван Михайлович
+      rowinpage: '7'
       spravka: true
     - id: '34851'
       num: '55'
       name: ПЕТУХОВ Анатолий Петрович
+      rowinpage: '8'
       spravka: true
     - id: '34852'
       num: '56'
       name: ПИНАЕВСКИЙ Леонид Николаевич
+      rowinpage: '9'
       spravka: true
     - id: '34853'
       num: '57'
       name: ПИТАЛОВ Виктор Михайлович
+      rowinpage: '10'
     - id: '34854'
       num: '58'
       name: ПОДЛЕСНЫЙ Николай Евсеевич
+      rowinpage: '11'
       spravka: true
     - id: '34855'
       num: '59'
       name: ПОЛЯКОВ Михаил Михайлович
+      rowinpage: '12'
       spravka: true
     - id: '34856'
       num: '60'
       name: ПУДОВИКОВ Александр Иванович
+      rowinpage: '13'
       spravka: true
     - id: '34857'
       num: '61'
       name: РАЙЗЕР Готлиб Христианович
+      rowinpage: '14'
     - id: '34858'
       num: '62'
       name: РОЗАНОВСКИЙ (он же РОЗОВСКИЙ) Леонид Анатольевич
+      rowinpage: '15'
     - id: '34859'
       num: '63'
       name: СВОДЦЕВ Василий Андреевич
+      rowinpage: '16'
       spravka: true
     - id: '34860'
       num: '64'
       name: СИОБКО Федор Петрович
+      rowinpage: '17'
     - id: '34861'
       num: '65'
       name: СКАЛДИН Николай Дмитриевич
+      rowinpage: '18'
     - id: '34862'
       num: '66'
       name: СМЫШЛЯЕВ Василий Иванович
+      rowinpage: '19'
     - id: '34863'
       num: '67'
       name: СУРОВ Николай Андреевич
+      rowinpage: '20'
       spravka: true
     - id: '34864'
       num: '68'
       name: СУСЛОВ Василий Иванович
+      rowinpage: '21'
     - id: '34865'
       num: '69'
       name: СУШКОВ Николай Васильевич
+      rowinpage: '22'
     - id: '34866'
       num: '70'
       name: ТАНЦУР Тимофей Сидорович
+      rowinpage: '23'
     - id: '34867'
       num: '71'
       name: ТЕРЕХОВ Леонид Иванович
+      rowinpage: '24'
     - id: '34868'
       num: '72'
       name: УПЕЛЬНИК Альфред Петрович
+      rowinpage: '25'
       spravka: true
     - id: '34869'
       num: '73'
       name: УРБАНОВИЧ Евгений Викентьевич
+      rowinpage: '26'
       spravka: true
 - pageintom: '116'
   image: v09/17-171-417-116.jpg
+  title: Новосибирская область
   sublists:
   - sublid: '112'
     persons:
     - id: '34870'
       num: '74'
       name: ФРУМКИНА Фрида Борисовна
+      rowinpage: '1'
     - id: '34871'
       num: '75'
       name: ХРЕНОВ Александр Филиппович
+      rowinpage: '2'
       spravka: true
     - id: '34872'
       num: '76'
       name: ЧЕБОТАРЕВ Михаил Александрович
+      rowinpage: '3'
       spravka: true
     - id: '34873'
       num: '77'
       name: ЧУЛКОВ Павел Иванович
+      rowinpage: '4'
     - id: '34874'
       num: '78'
       name: ШАПАРИН Дмитрий Ефимович
+      rowinpage: '5'
     - id: '34875'
       num: '79'
       name: ШАПОВАЛОВ Илья Дмитриевич
+      rowinpage: '6'
     - id: '34876'
       num: '80'
       name: ШАФРАНЕК Антон Антонович
+      rowinpage: '7'
     - id: '34877'
       num: '81'
       name: ШВАРЦ Сергей Александрович
+      rowinpage: '8'
       spravka: true
     - id: '34878'
       num: '82'
       name: ШМИДТ Николай Иосифович
+      rowinpage: '9'
     - id: '34879'
       num: '83'
       name: ШОЛОХОВИЧ Аким Абрамович
+      rowinpage: '10'
     - id: '34880'
       num: '84'
       name: ШУДРОВ Константин Иванович
+      rowinpage: '11'
       spravka: true
 - pageintom: '117'
   image: v09/17-171-417-117.jpg
+  title: null
   sublists:
   - sublid: '112'
     persons:
     - id: '34881'
       num: '1'
       name: АЛЕШКОВИЧ Иван Григорьевич
+      rowinpage: '1'
       subtitle1: <p align="center"><u>НОВОСИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
     - id: '34882'
       num: '2'
       name: БАТУРИН Сергей Иванович
+      rowinpage: '2'
     - id: '34883'
       num: '3'
       name: БАЯНОВ Алексей Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '34884'
       num: '4'
       name: БЛИННИКОВ Василий Степанович
+      rowinpage: '4'
     - id: '34885'
       num: '5'
       name: БЫБИН Дмитрий Маркович
+      rowinpage: '5'
     - id: '34886'
       num: '6'
       name: ГАВРИЛОВ Сергей Емельянович
+      rowinpage: '6'
     - id: '34887'
       num: '7'
       name: ГЛАЗКОВ Василий Васильевич
+      rowinpage: '7'
     - id: '34888'
       num: '8'
       name: КУРМАКИН Иван Васильевич
+      rowinpage: '8'
     - id: '34889'
       num: '9'
       name: ЛАТЕНКО Виктор Григорьевич
+      rowinpage: '9'
     - id: '34890'
       num: '10'
       name: МУХИН Дмитрий Терентьевич
+      rowinpage: '10'
     - id: '34891'
       num: '11'
       name: НИКИТИН Василий Александрович
+      rowinpage: '11'
     - id: '34892'
       num: '12'
       name: ПОПОВ Сергей Петрович
+      rowinpage: '12'
     - id: '34893'
       num: '13'
       name: РОМАНОВ Ефим Иванович
+      rowinpage: '13'
     - id: '34894'
       num: '14'
       name: СКОРИК Александр Иванович
+      rowinpage: '14'
       spravka: true
     - id: '34895'
       num: '15'
       name: СУДАКОВ Иван Иванович
+      rowinpage: '15'
     - id: '34896'
       num: '16'
       name: ТКАЧЕНКО Александр Николаевич
+      rowinpage: '16'
     - id: '34897'
       num: '17'
       name: ШЕВЧЕНКО Марк Гаврилович
+      rowinpage: '17'
       doublesexists: true
       spravka: true

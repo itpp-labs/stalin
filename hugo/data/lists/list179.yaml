@@ -1,9 +1,10 @@
 id: '179'
 title: Список лиц - Бурято-Монгольская АССР // от 10 июня 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.9, оп.171, дело 417
+  ref: РГАСПИ, ф.17, оп.171, дело 417
   page1: '166'
 date: '1938-06-10'
+date_ru: 10.06.1938
 tom: 9
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -27,179 +28,224 @@ sublists:
 pages:
 - pageintom: '166'
   image: v09/17-171-417-166.jpg
+  title: null
   sublists: []
 - pageintom: '167'
   image: v09/17-171-417-167.jpg
+  title: null
   sublists: []
 - pageintom: '168'
   image: v09/17-171-417-168.jpg
+  title: null
   sublists:
   - sublid: '120'
     persons:
     - id: '35563'
       num: '1'
       name: АДАМЧИКОВА Мария Владимировна
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БУРЯТО-МОНГОЛЬСКАЯ АССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '35564'
       num: '2'
       name: АНАНЬИН Виктор Кириллович
+      rowinpage: '2'
       spravka: true
     - id: '35565'
       num: '3'
       name: АНОСОВ Георгий Васильевич
+      rowinpage: '3'
       spravka: true
     - id: '35566'
       num: '4'
       name: АРДИН Доржи Цыденович
+      rowinpage: '4'
       spravka: true
     - id: '35567'
       num: '5'
       name: БАЗАРОН Бато-Жаргал
+      rowinpage: '5'
       spravka: true
     - id: '35568'
       num: '6'
       name: БАЛТУЕВ Василий Федорович
+      rowinpage: '6'
       spravka: true
     - id: '35569'
       num: '7'
       name: БУЯНТУЕВ Доржи Шагдарович
+      rowinpage: '7'
       spravka: true
     - id: '35570'
       num: '8'
       name: ВАВРЕНЮК Николай Иванович
+      rowinpage: '8'
       spravka: true
     - id: '35571'
       num: '9'
       name: ВЕРХОДУБОВ Степан Федорович
+      rowinpage: '9'
       spravka: true
     - id: '35572'
       num: '10'
       name: ГАНТИМУРОВ Григорий Петрович
+      rowinpage: '10'
       spravka: true
     - id: '35573'
       num: '11'
       name: ГОЛОВАЧЕВ Илья Федотович
+      rowinpage: '11'
     - id: '35574'
       num: '12'
       name: ГРОСС Александр Ильич
+      rowinpage: '12'
       spravka: true
     - id: '35575'
       num: '13'
       name: ДАМПИЛОН Ирилто Дампилонович
+      rowinpage: '13'
       spravka: true
     - id: '35576'
       num: '14'
       name: ДАШИНИМАЕВ Дамба Дашинимаевич
+      rowinpage: '14'
       spravka: true
     - id: '35577'
       num: '15'
       name: ДОГДОМЭ Цыбен Догдомович
+      rowinpage: '15'
       spravka: true
     - id: '35578'
       num: '16'
       name: ДОНГИДОН Дугаржаб Доржиевич
+      rowinpage: '16'
       spravka: true
     - id: '35579'
       num: '17'
       name: ДОНДУБОН Цыденжап Дондупович
+      rowinpage: '17'
       spravka: true
     - id: '35580'
       num: '18'
       name: ДОРЖИЕВ Дажуп Дансаранович
+      rowinpage: '18'
       spravka: true
     - id: '35581'
       num: '19'
       name: ДЫМСКИЙ Борис Николаевич
+      rowinpage: '19'
       spravka: true
     - id: '35582'
       num: '20'
       name: ЕЛАНОВ Трифон Трофимович
+      rowinpage: '20'
       spravka: true
 - pageintom: '169'
   image: v09/17-171-417-169.jpg
+  title: Бурято-Монгольская АССР
   sublists:
   - sublid: '120'
     persons:
     - id: '35583'
       num: '21'
       name: КРИГЕЛЬ Самуил Натанович
+      rowinpage: '1'
     - id: '35584'
       num: '22'
       name: ЛАГУН Соломон Григорьевич
+      rowinpage: '2'
       spravka: true
     - id: '35585'
       num: '23'
       name: МАЛЬЦЕВ Николай Николаевич
+      rowinpage: '3'
     - id: '35586'
       num: '24'
       name: МАРКИЗОВ Ардан Ангадыкович
+      rowinpage: '4'
       spravka: true
     - id: '35587'
       num: '25'
       name: МИЖИТДОРЖИН Даши Цыренович
+      rowinpage: '5'
       spravka: true
     - id: '35588'
       num: '26'
       name: МИХАЙЛОВ Никифор Анатольевич
+      rowinpage: '6'
       spravka: true
     - id: '35589'
       num: '27'
       name: МУГДУЕВ Бальбур Иванович
+      rowinpage: '7'
       spravka: true
     - id: '35590'
       num: '28'
       name: НАДЕЖДИН Петр Иванович
+      rowinpage: '8'
       spravka: true
     - id: '35591'
       num: '29'
       name: ОЧИРЖАБЭ Дамдинжап
+      rowinpage: '9'
     - id: '35592'
       num: '30'
       name: ПИЛУНОВ Михаил Миронович
+      rowinpage: '10'
       spravka: true
     - id: '35593'
       num: '31'
       name: ПОХОСОЕВ Яков Трофимович
+      rowinpage: '11'
       spravka: true
     - id: '35594'
       num: '32'
       name: РАДНА-БАЗАРОН Жасарано
+      rowinpage: '12'
       spravka: true
     - id: '35595'
       num: '33'
       name: ХАБАЕВ Иннокентий Петрович
+      rowinpage: '13'
       spravka: true
     - id: '35596'
       num: '34'
       name: ЧИМИТДОРЖИН Даши-Дондок
+      rowinpage: '14'
       spravka: true
     - id: '35597'
       num: '35'
       name: ШЕСТАКОВ Петр Николаевич
+      rowinpage: '15'
     - id: '35598'
       num: '36'
       name: ШИРАБОН Санжижаб Ширабович
+      rowinpage: '16'
       spravka: true
     - id: '35599'
       num: '37'
       name: ЯЛОВ Алексей Иванович
+      rowinpage: '17'
 - pageintom: '170'
   image: v09/17-171-417-170.jpg
+  title: null
   sublists:
   - sublid: '120'
     persons:
     - id: '35600'
       num: '1'
       name: ГРИШИЛОВ Андрей Семенович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>БУРЯТО-МОНГОЛЬСКАЯ АССР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ</u>
     - id: '35601'
       num: '2'
       name: КРИЦКИЙ Степан Николаевич
+      rowinpage: '2'
       spravka: true
     - id: '35602'
       num: '3'
       name: МОХОВ Михаил Иванович
+      rowinpage: '3'

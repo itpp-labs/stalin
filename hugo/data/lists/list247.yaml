@@ -1,9 +1,10 @@
 id: '247'
 title: 'Список лиц: Москва-центр // 21 октября 1937 года'
 archive:
-  ref: РГАСПИ, ф.17, т.3, оп.171, дело 411
+  ref: РГАСПИ, ф.17, оп.171, дело 411
   page1: '229'
 date: '1937-10-21'
+date_ru: 21.10.1937
 tom: 3
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,204 +30,249 @@ sublists:
 pages:
 - pageintom: '229'
   image: v03/17-171-411-229.jpg
+  title: null
   sublists: []
 - pageintom: '230'
   image: v03/17-171-411-230.jpg
+  title: null
   sublists:
   - sublid: '364'
     persons:
     - id: '10316'
       num: '1'
       name: АКУЛИНИШУКИН Павел Дмитриевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="right"><u>1-я категория</u></p><p align="center"><u>МОСКВА
         ЦЕНТР</u>
     - id: '10317'
       num: '2'
       name: АКУЛОВ Иван Алексеевич
+      rowinpage: '2'
       spravka: true
     - id: '10318'
       num: '3'
       name: БАРЫШЕВ Николай Иванович
+      rowinpage: '3'
       spravka: true
     - id: '15511'
       num: '4'
       name: БЕЛОБОРОДОВ Александр Георгиевич
+      rowinpage: '4'
       doublesexists: true
       spravka: true
     - id: '10320'
       num: '5'
       name: БРИКЕ Семен Карлович
+      rowinpage: '5'
       spravka: true
     - id: '11927'
       num: '6'
       name: БРЫКОВ Александр Петрович
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '10322'
       num: '7'
       name: ГАЙСТЕР Арон Израилевич
+      rowinpage: '7'
       spravka: true
     - id: '10323'
       num: '8'
       name: ГИНДИН-ГИНЗБУРГ Яков Исаакович
+      rowinpage: '8'
       spravka: true
     - id: '10324'
       num: '9'
       name: ГОЛЮДОВ Семен Тимофеевич
+      rowinpage: '9'
       spravka: true
     - id: '10325'
       num: '10'
       name: ГУРЕВИЧ Александр Иосифович
+      rowinpage: '10'
       spravka: true
     - id: '11487'
       num: '11'
       name: ГУРЕВИЧ Моисей Григорьевич
+      rowinpage: '11'
       doublesexists: true
       spravka: true
     - id: '10327'
       num: '12'
       name: ДЕЙЧ Макс Абелевич
+      rowinpage: '12'
       spravka: true
     - id: '10328'
       num: '13'
       name: ДЕМЧЕНКО Николай Нестерович
+      rowinpage: '13'
       spravka: true
     - id: '11488'
       num: '14'
       name: ДОГАДОВ Александр Иванович
+      rowinpage: '14'
       doublesexists: true
       spravka: true
     - id: '10330'
       num: '15'
       name: ЗЕЛЕНСКИЙ Исаак Абрамович
+      rowinpage: '15'
       striked: true
       doublesexists: true
       spravka: true
     - id: '10331'
       num: '16'
       name: ИВАНОВ Александр Александрович
+      rowinpage: '16'
       spravka: true
     - id: '10332'
       num: '17'
       name: ИВАНОВ-КАВКАЗСКИЙ Владимир Георгиевич
+      rowinpage: '17'
       spravka: true
     - id: '15478'
       num: '18'
       name: ИВАНОВ Вячеслав Федорович
+      rowinpage: '18'
       doublesexists: true
       spravka: true
 - pageintom: '231'
   image: v03/17-171-411-231.jpg
+  title: Москва-центр
   sublists:
   - sublid: '364'
     persons:
     - id: '10334'
       num: '19'
       name: ИВАНОВ Иван Ульянович
+      rowinpage: '1'
       spravka: true
     - id: '12017'
       num: '20'
       name: ИЛЬИН Илья Львович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '11991'
       num: '21'
       name: КАРПОВ Виктор Зиновьевич
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '10337'
       num: '22'
       name: КИСЕЛЕВ Алексей Семенович
+      rowinpage: '4'
       spravka: true
     - id: '12104'
       num: '23'
       name: КЛИМЕНКО Иван Евдокимович
+      rowinpage: '5'
       doublesexists: true
       spravka: true
     - id: '10339'
       num: '24'
       name: КАДАЦКИЙ Иван Федорович
+      rowinpage: '6'
       spravka: true
     - id: '11963'
       num: '25'
       name: КОМАРОВ Николай Павлович
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '10341'
       num: '26'
       name: КАБАКОВ Иван Дмитриевич
+      rowinpage: '8'
       doublesexists: true
       spravka: true
     - id: '12036'
       num: '27'
       name: КОНГЕЛАРИ Валентин Александрович
+      rowinpage: '9'
       doublesexists: true
       spravka: true
     - id: '36197'
       num: '28'
       name: ЛАВРЕНТЬЕВ-КАРТВЕЛИШВИЛИ Лаврентий Иосифович
+      rowinpage: '10'
       striked: true
       doublesexists: true
       spravka: true
     - id: '10344'
       num: '29'
       name: ЛЕБЕДЬ Дмитрий Захарович
+      rowinpage: '11'
       spravka: true
     - id: '10345'
       num: '30'
       name: ЛЕВИН Рувим Яковлевич
+      rowinpage: '12'
       spravka: true
     - id: '10346'
       num: '31'
       name: ЛОКАЦКОВ Филипп Иванович
+      rowinpage: '13'
       spravka: true
     - id: '10347'
       num: '32'
       name: КРИНИЦКИЙ Александр Иванович
+      rowinpage: '14'
       spravka: true
     - id: '10348'
       num: '33'
       name: МАДЬЯР Людвиг Игнатьевич
+      rowinpage: '15'
       spravka: true
     - id: '10349'
       num: '34'
       name: МАЛИНОВ Михаил Маркович
+      rowinpage: '16'
       doublesexists: true
       spravka: true
     - id: '10350'
       num: '35'
       name: МЕДВЕДЕВ Алексей Васильевич
+      rowinpage: '17'
       spravka: true
 - pageintom: '232'
   image: v03/17-171-411-232.jpg
+  title: Москва-центр
   sublists:
   - sublid: '364'
     persons:
     - id: '11516'
       num: '36'
       name: МЕЛЬНИЧАНСКИЙ Григорий Натанович
+      rowinpage: '1'
       doublesexists: true
       spravka: true
     - id: '10352'
       num: '37'
       name: МИЛЮТИН Владимир Павлович
+      rowinpage: '2'
       spravka: true
     - id: '10353'
       num: '38'
       name: МУРАЛОВ Александр Иванович
+      rowinpage: '3'
       spravka: true
     - id: '10354'
       num: '39'
       name: НОВИКОВ Николай Фролович
+      rowinpage: '4'
       spravka: true
     - id: '10355'
       num: '40'
       name: ПОЛОНСКИЙ Владимир Иванович
+      rowinpage: '5'
       spravka: true
     - id: '11524'
       num: '41'
       name: ПОЛБИЦИН <s>Николай Дмитриевич</s>
+      rowinpage: '6'
       pometa_text: Георг. Трофимович
       primcoc: '**Георг. Трофимович'
       doublesexists: true
@@ -234,124 +280,152 @@ pages:
     - id: '11526'
       num: '42'
       name: ПЫЛАЕВ Георгий Николаевич
+      rowinpage: '7'
       doublesexists: true
       spravka: true
     - id: '10358'
       num: '43'
       name: РАЗУМОВ Михаил Осипович
+      rowinpage: '8'
       spravka: true
     - id: '11528'
       num: '44'
       name: РАКИТОВ Григорий Давыдович
+      rowinpage: '9'
       doublesexists: true
       spravka: true
     - id: '10360'
       num: '45'
       name: РЕМЕЙКО Александр Георгиевич
+      rowinpage: '10'
       spravka: true
     - id: '10361'
       num: '46'
       name: РЕШЕТОВ Илья Федорович
+      rowinpage: '11'
       spravka: true
     - id: '12154'
       num: '47'
       name: РЕЩИКОВ Иосиф Иванович
+      rowinpage: '12'
       doublesexists: true
       spravka: true
     - id: '11531'
       num: '48'
       name: РУМЯНЦЕВ Иван Петрович
+      rowinpage: '13'
       doublesexists: true
       spravka: true
     - id: '10364'
       num: '49'
       name: СТРУППЕ Петр Иванович
+      rowinpage: '14'
       spravka: true
     - id: '10365'
       num: '50'
       name: ФЕЙГИН Владимир Григорьевич
+      rowinpage: '15'
       spravka: true
     - id: '10366'
       num: '51'
       name: ХАТАЕВИЧ Мендель Маркович
+      rowinpage: '16'
       spravka: true
     - id: '10367'
       num: '52'
       name: ЧУДОВ Михаил Семенович
+      rowinpage: '17'
       spravka: true
     - id: '10368'
       num: '53'
       name: ШЕБОЛДАЕВ Анатолий Данилович
+      rowinpage: '18'
     - id: '10369'
       num: '54'
       name: ШОТМАН Александр Васильевич
+      rowinpage: '19'
       spravka: true
     - id: '10370'
       num: '55'
       name: ЯКОВЛЕВ Александр Иванович
+      rowinpage: '20'
       spravka: true
     - id: '22146'
       num: '56'
       name: ГРЯДИНСКИЙ Федор Павлович
+      rowinpage: '21'
       striked: true
       doublesexists: true
       spravka: true
     - id: '10372'
       num: '57'
       name: ЕНУКИДЗЕ Авель Сафронович
+      rowinpage: '22'
       doublesexists: true
       spravka: true
     - id: '10373'
       num: '58'
       name: ЖУКОВ Иван Павлович
+      rowinpage: '23'
       spravka: true
     - id: '12091'
       num: '59'
       name: ЗУБАРЕВ Прокопий Тимофеевич
+      rowinpage: '24'
       doublesexists: true
     - id: '10375'
       num: '60'
       name: КАРП Сергей Венедиктович
+      rowinpage: '25'
       spravka: true
     - id: '17729'
       num: '61'
       name: КОРЫТНЫЙ Семен Захарович
+      rowinpage: '26'
       striked: true
       doublesexists: true
       spravka: true
 - pageintom: '233'
   image: v03/17-171-411-233.jpg
+  title: Москва-центр
   sublists:
   - sublid: '364'
     persons:
     - id: '10377'
       num: '62'
       name: НАЗАРЕТЯН Амаян Маркарьян.
+      rowinpage: '1'
       spravka: true
     - id: '11969'
       num: '63'
       name: НОСОВ Иван Петрович
+      rowinpage: '2'
       doublesexists: true
       spravka: true
     - id: '15479'
       num: '64'
       name: РЫСКУЛОВ Тураф Рыскулович
+      rowinpage: '3'
       doublesexists: true
       spravka: true
     - id: '10380'
       num: '65'
       name: СЕМЕНОВ Борис Александрович
+      rowinpage: '4'
       spravka: true
     - id: '10381'
       num: '66'
       name: ШУБРИКОВ Владимир Петрович
+      rowinpage: '5'
       spravka: true
     - id: '10382'
       num: '67'
       name: ПАВЛУНОВСКИЙ Иван Петрович
+      rowinpage: '6'
       doublesexists: true
       spravka: true
     - id: '10383'
       num: '68'
       name: ЛОБОВ Семен Семенович
+      rowinpage: '7'
       spravka: true

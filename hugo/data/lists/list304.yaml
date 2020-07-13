@@ -1,9 +1,10 @@
 id: '304'
 title: Список лиц - Ростовская область // от 19 апреля 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.8, оп.171, дело 416
+  ref: РГАСПИ, ф.17, оп.171, дело 416
   page1: '144'
 date: '1938-04-19'
+date_ru: 19.04.1938
 tom: 8
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -29,344 +30,434 @@ sublists:
 pages:
 - pageintom: '144'
   image: v08/17-171-416-144.jpg
+  title: null
   sublists: []
 - pageintom: '145'
   image: v08/17-171-416-145.jpg
+  title: null
   sublists: []
 - pageintom: '146'
   image: v08/17-171-416-146.jpg
+  title: null
   sublists:
   - sublid: '553'
     persons:
     - id: '30877'
       num: '1'
       name: АБРОСИМОВ Степан Денисович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>РОСТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '30878'
       num: '2'
       name: АКАТОВ Борис Николаевич
+      rowinpage: '2'
       spravka: true
     - id: '30879'
       num: '3'
       name: АСТРАДАНЦЕВ Алексей Павлович
+      rowinpage: '3'
       spravka: true
     - id: '30880'
       num: '4'
       name: АШКИНЕЗЕР Соломон Борисович
+      rowinpage: '4'
       spravka: true
     - id: '30881'
       num: '5'
       name: БАРДЕЦКИЙ Михаил Владиславович
+      rowinpage: '5'
       spravka: true
     - id: '30882'
       num: '6'
       name: БЕРЗИН Ян Петрович
+      rowinpage: '6'
       spravka: true
     - id: '30883'
       num: '7'
       name: БОБРОВ Иван Львович
+      rowinpage: '7'
       spravka: true
     - id: '30884'
       num: '8'
       name: БОЙНИЦКИЙ Генрих Сигизмундович
+      rowinpage: '8'
       spravka: true
     - id: '30885'
       num: '9'
       name: БОНДАРЕНКО Василий Иванович
+      rowinpage: '9'
       spravka: true
     - id: '30886'
       num: '10'
       name: БОРИСЕНКО Александр Васильевич
+      rowinpage: '10'
     - id: '30887'
       num: '11'
       name: ВЕРНЕЕВ Михаил Михайлович
+      rowinpage: '11'
     - id: '30888'
       num: '12'
       name: ГАЙЛИС Кришьян Адамович
+      rowinpage: '12'
     - id: '30889'
       num: '13'
       name: ГОЛОФЕЕВ Иван Кондратьевич
+      rowinpage: '13'
       spravka: true
     - id: '30890'
       num: '14'
       name: ГРОМОВ Петр Павлович
+      rowinpage: '14'
     - id: '30891'
       num: '15'
       name: ГУЛЬНИН Павел Алексеевич
+      rowinpage: '15'
       spravka: true
     - id: '30892'
       num: '16'
       name: ДЕРЯБИН Сергей Иванович
+      rowinpage: '16'
       spravka: true
     - id: '30893'
       num: '17'
       name: ДЗИОБИК Николай Николаевич
+      rowinpage: '17'
     - id: '30894'
       num: '18'
       name: ДОГМАР (ВАСИЛЬЕВ) Александр Иосифович
+      rowinpage: '18'
     - id: '30895'
       num: '19'
       name: ЖГУЧЕВ Борис Андреевич
+      rowinpage: '19'
       spravka: true
     - id: '30896'
       num: '20'
       name: ЗЕМЛЯКОВ Петр Ефимович
+      rowinpage: '20'
       spravka: true
     - id: '30897'
       num: '21'
       name: ЗИМОВЕЙСКИЙ Андрей Григорьевич
+      rowinpage: '21'
       spravka: true
 - pageintom: '147'
   image: v08/17-171-416-147.jpg
+  title: Ростовская область
   sublists:
   - sublid: '553'
     persons:
     - id: '30898'
       num: '22'
       name: ИВАНГОРОДСКИЙ Петр Яковлевич
+      rowinpage: '1'
       spravka: true
     - id: '30899'
       num: '23'
       name: КАЕТЧЕНКО Петр Федорович
+      rowinpage: '2'
       spravka: true
     - id: '30900'
       num: '24'
       name: КАЗАНКИН Федор Степанович
+      rowinpage: '3'
       spravka: true
     - id: '30901'
       num: '25'
       name: КАЛМУЦКИЙ Федор Петрович
+      rowinpage: '4'
     - id: '30902'
       num: '26'
       name: КАПУСТИНСКИЙ Георгий Дмитриевич
+      rowinpage: '5'
     - id: '30903'
       num: '27'
       name: КАРЛОВ Петр Петрович
+      rowinpage: '6'
     - id: '30904'
       num: '28'
       name: КИКТЕНКО Филипп Васильевич
+      rowinpage: '7'
     - id: '30905'
       num: '29'
       name: КОНСТАНТИНОВ Василий Васильевич
+      rowinpage: '8'
     - id: '30906'
       num: '30'
       name: КОРОТКОВ Илларион Александрович
+      rowinpage: '9'
       spravka: true
     - id: '30907'
       num: '31'
       name: КОРУНАС Василий Григорьевич
+      rowinpage: '10'
       spravka: true
     - id: '30908'
       num: '32'
       name: КОСОГОВ Иван Дмитриевич
+      rowinpage: '11'
       doublesexists: true
       spravka: true
     - id: '30909'
       num: '33'
       name: КОЧЕТКОВ Дмитрий Иванович
+      rowinpage: '12'
       spravka: true
     - id: '30910'
       num: '34'
       name: КРАСУССКИЙ Александр Станиславович
+      rowinpage: '13'
     - id: '30911'
       num: '35'
       name: ЛЕМЕШЕВСКИЙ Евгений Адамович
+      rowinpage: '14'
     - id: '30912'
       num: '36'
       name: ЛОГВИНОВ Василий Григорьевич
+      rowinpage: '15'
       spravka: true
     - id: '30913'
       num: '37'
       name: ЛОРНИО Бенедикт Доменикович
+      rowinpage: '16'
       spravka: true
     - id: '30914'
       num: '38'
       name: МАКАРТЫЧАН Аристак Акопович
+      rowinpage: '17'
       spravka: true
     - id: '30915'
       num: '39'
       name: МАРЧЕНКО Степан Никитич
+      rowinpage: '18'
       spravka: true
     - id: '30916'
       num: '40'
       name: МЕЕРОВИЧ Дмитрий Исаевич
+      rowinpage: '19'
     - id: '30917'
       num: '41'
       name: МЕРКУЛОВ Александр Сергеевич
+      rowinpage: '20'
     - id: '30918'
       num: '42'
       name: МИЛЛЕР Бронислав Людвигович
+      rowinpage: '21'
       spravka: true
     - id: '30919'
       num: '43'
       name: МОРОШКИН Александр Константинович
+      rowinpage: '22'
       spravka: true
     - id: '30920'
       num: '44'
       name: МИРОШНИКОВ Николай Николаевич
+      rowinpage: '23'
     - id: '30921'
       num: '45'
       name: МЫРСОВ Василий Иванович
+      rowinpage: '24'
       spravka: true
     - id: '30922'
       num: '46'
       name: ОЛЕЙНИКОВ Николай Кириллович
+      rowinpage: '25'
       spravka: true
     - id: '30923'
       num: '47'
       name: ПЛАВНЕК Леонард Янович
+      rowinpage: '26'
       spravka: true
     - id: '30924'
       num: '48'
       name: ПЛАНИДА Федор Гаврилович
+      rowinpage: '27'
       spravka: true
     - id: '30925'
       num: '49'
       name: ПРАЗДНЫК Василий Алексеевич
+      rowinpage: '28'
       spravka: true
     - id: '30926'
       num: '50'
       name: РИМСКИЙ Леонид Вениаминович
+      rowinpage: '29'
       spravka: true
     - id: '30927'
       num: '51'
       name: РОБУШ Виктор Сергеевич
+      rowinpage: '30'
       spravka: true
 - pageintom: '148'
   image: v08/17-171-416-148.jpg
+  title: Ростовская область
   sublists:
   - sublid: '553'
     persons:
     - id: '30928'
       num: '52'
       name: РОВИНСКИЙ Леонид Александрович
+      rowinpage: '1'
       spravka: true
     - id: '30929'
       num: '53'
       name: РОЗЕ Ян Янович
+      rowinpage: '2'
     - id: '30930'
       num: '54'
       name: РУДОМЕТОВ Владимир Петрович
+      rowinpage: '3'
       spravka: true
     - id: '30931'
       num: '55'
       name: РУСТЕЙКО Валериан Юлианович
+      rowinpage: '4'
       spravka: true
     - id: '30932'
       num: '56'
       name: САЙТЦ Фердинанд Францевич
+      rowinpage: '5'
       spravka: true
     - id: '30933'
       num: '57'
       name: САНАРОВ Андрей Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '30934'
       num: '58'
       name: САПРЫКИН Сергей Григорьевич
+      rowinpage: '7'
       spravka: true
     - id: '30935'
       num: '59'
       name: САУШ Иван Донатович
+      rowinpage: '8'
       spravka: true
     - id: '30936'
       num: '60'
       name: СВЕТЛОВ Лев Александрович
+      rowinpage: '9'
       spravka: true
     - id: '30937'
       num: '61'
       name: СЕЛИВАНЕНКО Василий Никанорович
+      rowinpage: '10'
     - id: '30938'
       num: '62'
       name: СКВОРЦОВ Василий Ильич
+      rowinpage: '11'
       spravka: true
     - id: '30939'
       num: '63'
       name: СЛЕПЬЯН Борис Яковлевич
+      rowinpage: '12'
     - id: '30940'
       num: '64'
       name: СОРОКИН Тимофей Петрович
+      rowinpage: '13'
       spravka: true
     - id: '30941'
       num: '65'
       name: СТАХАНСКИЙ Назарий Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '30942'
       num: '66'
       name: СЫЧЕВСКИЙ Станислав Марцинович
+      rowinpage: '15'
     - id: '30943'
       num: '67'
       name: ТАСУЙ Федор Ефимович
+      rowinpage: '16'
       spravka: true
     - id: '30944'
       num: '68'
       name: ТРУБИЛИН Николай Илларионович
+      rowinpage: '17'
       spravka: true
     - id: '30945'
       num: '69'
       name: УСТИМЕНКО Иван Евграфович
+      rowinpage: '18'
       spravka: true
     - id: '30946'
       num: '70'
       name: ФАСТОВСКИЙ Соломон Павлович
+      rowinpage: '19'
       spravka: true
     - id: '30947'
       num: '71'
       name: ФЕРАФОНТОВ Владимир Иванович
+      rowinpage: '20'
       spravka: true
     - id: '30948'
       num: '72'
       name: ХАРИТОНОВ Гавриил Сергеевич
+      rowinpage: '21'
     - id: '30949'
       num: '73'
       name: ЧХЕИДЗЕ Михаил Малхазович
+      rowinpage: '22'
       spravka: true
     - id: '30950'
       num: '74'
       name: ШЕКО Яков Васильевич
+      rowinpage: '23'
       spravka: true
     - id: '30951'
       num: '75'
       name: ШЕСТОВ Георгий Георгиевич
+      rowinpage: '24'
       spravka: true
     - id: '30952'
       num: '76'
       name: ШНАЙДЕР Григорий Андреевич
+      rowinpage: '25'
     - id: '30953'
       num: '77'
       name: ЮЩЕНКОВ Петр Николаевич
+      rowinpage: '26'
     - id: '30954'
       num: '78'
       name: ЯЦЕНКО Петр Петрович
+      rowinpage: '27'
       spravka: true
 - pageintom: '149'
   image: v08/17-171-416-149.jpg
+  title: null
   sublists:
   - sublid: '553'
     persons:
     - id: '30955'
       num: '1'
       name: ГЕРЦУЛИН Анатолий Иванович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>РОСТОВСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '30956'
       num: '2'
       name: ДОБРОЛЮБОВ Анатолий Васильевич
+      rowinpage: '2'
       spravka: true
     - id: '30957'
       num: '3'
       name: КОЛЯДА Василий Нилович
+      rowinpage: '3'
       spravka: true
     - id: '30958'
       num: '4'
       name: ОВЧАРОВ Александр Николаевич
+      rowinpage: '4'
       spravka: true
     - id: '30959'
       num: '5'
       name: СМИРНОВ Петр Яковлевич
+      rowinpage: '5'
     - id: '30960'
       num: '6'
       name: УТКИН Василий Александрович
+      rowinpage: '6'
       spravka: true

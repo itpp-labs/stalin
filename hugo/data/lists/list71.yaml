@@ -1,9 +1,10 @@
 id: '71'
 title: 'Список лиц: Москва-центр // 31.VIII.37'
 archive:
-  ref: РГАСПИ, ф.17, т.2, оп.171, дело 410
+  ref: РГАСПИ, ф.17, оп.171, дело 410
   page1: '325'
 date: '1937-08-31'
+date_ru: 31.08.1937
 tom: 2
 delo:
   name: Право-троцкистский блок (списки)
@@ -30,46 +31,57 @@ sublists:
 pages:
 - pageintom: '325'
   image: v02/17-171-410-325.jpg
+  title: null
   sublists: []
 - pageintom: '326'
   image: v02/17-171-410-326.jpg
+  title: null
   sublists: []
 - pageintom: '327'
   image: v02/17-171-410-327.jpg
+  title: null
   sublists:
   - sublid: '50'
     persons:
     - id: '7419'
       num: '1'
       name: АЛЬБЕРТ-ТАКЭ Эрих Альбертович
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>МОСКВА-ЦЕНТР </u></p><p align="right"><u>1-я
         категория</u>
     - id: '7420'
       num: '2'
       name: БИРО Бела Францевич
+      rowinpage: '2'
       spravka: true
     - id: '7421'
       num: '3'
       name: БОДЕСКО-МИХАЛИ Яков Михайлович
+      rowinpage: '3'
       spravka: true
     - id: '7422'
       num: '4'
       name: ГУРСКИЙ-ТАБАРТОВСКИЙ Вацлав Иванович
+      rowinpage: '4'
       spravka: true
     - id: '7423'
       num: '5'
       name: КОРНЕЛЬ Павел Иванович
+      rowinpage: '5'
       spravka: true
     - id: '7424'
       num: '6'
       name: МЕССИНГ Станислав Адамович
+      rowinpage: '6'
       spravka: true
     - id: '7425'
       num: '7'
       name: ПИЛЯР-ФОН-ПИЛЬХАУ Роман Александрович
+      rowinpage: '7'
       spravka: true
     - id: '7426'
       num: '8'
       name: СЕНЬКЕВИЧ Эдуард Иосифович
+      rowinpage: '8'
       spravka: true

@@ -1,9 +1,10 @@
 id: '391'
 title: Список лиц - Иркутская область // от 12 сентября 1938 года
 archive:
-  ref: РГАСПИ, ф.17, т.11, оп.171, дело 419
+  ref: РГАСПИ, ф.17, оп.171, дело 419
   page1: '47'
 date: '1938-09-12'
+date_ru: 12.09.1938
 tom: 11
 delo:
   name: Право-троцкистский блок (списки осужденных)
@@ -28,387 +29,485 @@ sublists:
 pages:
 - pageintom: '47'
   image: v11/17-171-419-047.jpg
+  title: null
   sublists: []
 - pageintom: '48'
   image: v11/17-171-419-048.jpg
+  title: null
   sublists: []
 - pageintom: '49'
   image: v11/17-171-419-049.jpg
+  title: null
   sublists:
   - sublid: '616'
     persons:
     - id: '41232'
       num: '1'
       name: АЛЕКСЕЕВ Дмитрий Алексеевич
+      rowinpage: '1'
       spravka: true
       subtitle1: <p align="center"><u>ИРКУТСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ.</u>
     - id: '41233'
       num: '2'
       name: АНДРЕЕВ Георгий Антонович
+      rowinpage: '2'
       spravka: true
     - id: '41234'
       num: '3'
       name: АНДРЕЙЧИК Александр Семенович
+      rowinpage: '3'
       spravka: true
     - id: '41235'
       num: '4'
       name: АНТОНОВ Байма Ашерханович
+      rowinpage: '4'
     - id: '41236'
       num: '5'
       name: АРТЕМЬЕВ Александр Петрович
+      rowinpage: '5'
     - id: '41237'
       num: '6'
       name: АРТЕМЬЕВ Николай Алексеевич
+      rowinpage: '6'
       spravka: true
     - id: '41238'
       num: '7'
       name: БАЙКАЛОВ Александр Георгиевич
+      rowinpage: '7'
     - id: '41239'
       num: '8'
       name: БАТУХТИН Иван Кузьмич
+      rowinpage: '8'
       spravka: true
     - id: '41240'
       num: '9'
       name: БАХАНОВ Трофим Баертуевич
+      rowinpage: '9'
       spravka: true
     - id: '41241'
       num: '10'
       name: БЕРГЕР Александр Борисович
+      rowinpage: '10'
     - id: '41242'
       num: '11'
       name: БИРТАНОВ Филипп Николаевич
+      rowinpage: '11'
       spravka: true
     - id: '41243'
       num: '12'
       name: БОЛДАКОВ Иван Алексеевич
+      rowinpage: '12'
       spravka: true
     - id: '41244'
       num: '13'
       name: БОРИСОВ Алексей Дмитриевич
+      rowinpage: '13'
       spravka: true
     - id: '41245'
       num: '14'
       name: БУДАЕВ Базаржап
+      rowinpage: '14'
     - id: '41246'
       num: '15'
       name: ВАРТАНЬЯН Амо Арминакович
+      rowinpage: '15'
       spravka: true
     - id: '41247'
       num: '16'
       name: ВИДУТОВ Василий Александрович
+      rowinpage: '16'
       spravka: true
     - id: '41248'
       num: '17'
       name: ВИРЧЕНКО Александр Леонтьевич
+      rowinpage: '17'
       spravka: true
     - id: '41249'
       num: '18'
       name: ВЛАСИХИН Павел Алексеевич
+      rowinpage: '18'
       spravka: true
     - id: '41250'
       num: '19'
       name: ВОЛОЩУК Илья Викентьевич
+      rowinpage: '19'
       spravka: true
     - id: '41251'
       num: '20'
       name: ГЕРШТЕЙН Леонид Давыдович
+      rowinpage: '20'
     - id: '41252'
       num: '21'
       name: ГЛАДКИЙ Александр Владимирович
+      rowinpage: '21'
       spravka: true
 - pageintom: '50'
   image: v11/17-171-419-050.jpg
+  title: Иркутская область
   sublists:
   - sublid: '616'
     persons:
     - id: '41253'
       num: '22'
       name: ГОРБУНОВА Надежда Матвеевна
+      rowinpage: '1'
       spravka: true
     - id: '41254'
       num: '23'
       name: ДАЛЬБЕЕВ Иван Петрович
+      rowinpage: '2'
       spravka: true
     - id: '41255'
       num: '24'
       name: ДАМБИНОВ Петр Никифорович
+      rowinpage: '3'
       spravka: true
     - id: '41256'
       num: '25'
       name: ДОБРАДИН Павел Матвеевич
+      rowinpage: '4'
       spravka: true
     - id: '41257'
       num: '26'
       name: ДОБРЫЙ Давыд Васильевич
+      rowinpage: '5'
       spravka: true
     - id: '41258'
       num: '27'
       name: ДОЛГИН Абрам Борисович
+      rowinpage: '6'
       spravka: true
     - id: '41259'
       num: '28'
       name: ДЬЯЧЕНКО Сергей Васильевич
+      rowinpage: '7'
       spravka: true
     - id: '41260'
       num: '29'
       name: ЕГУДКО Дмитрий Анисимович
+      rowinpage: '8'
       spravka: true
     - id: '41261'
       num: '30'
       name: ЖИЛИНСКИЙ Василий Ианнуарьевич
+      rowinpage: '9'
       spravka: true
     - id: '41262'
       num: '31'
       name: ЗГУРСКИЙ Алексей Иванович
+      rowinpage: '10'
       spravka: true
     - id: '41263'
       num: '32'
       name: ЗИНОВЬЕВ Александр Михайлович
+      rowinpage: '11'
       spravka: true
     - id: '41264'
       num: '33'
       name: ЗОТИН Дмитрий Дмитриевич
+      rowinpage: '12'
       spravka: true
     - id: '41265'
       num: '34'
       name: ИСТОМИН Виктор Васильевич
+      rowinpage: '13'
       spravka: true
     - id: '41266'
       num: '35'
       name: КАЗАНЦЕВ Николай Никифорович
+      rowinpage: '14'
       spravka: true
     - id: '41267'
       num: '36'
       name: КАРГАНОВ Константин Георгиевич
+      rowinpage: '15'
     - id: '41268'
       num: '37'
       name: КОВАЛЕВИЧ Григорий Акимович
+      rowinpage: '16'
       spravka: true
     - id: '41269'
       num: '38'
       name: КОСОКОВ Иосиф Антонович
+      rowinpage: '17'
       spravka: true
     - id: '41270'
       num: '39'
       name: КРАВЧЕНКО Степан Антонович
+      rowinpage: '18'
       spravka: true
     - id: '41271'
       num: '40'
       name: ЛЕВИН Исаак Соломонович
+      rowinpage: '19'
       spravka: true
     - id: '41272'
       num: '41'
       name: ЛЕВИН Михаил Вениаминович
+      rowinpage: '20'
       spravka: true
     - id: '41273'
       num: '42'
       name: ЛЕРМАН Исай Аронович
+      rowinpage: '21'
       spravka: true
     - id: '41274'
       num: '43'
       name: МАЛЫШЕВ Павел Алексеевич
+      rowinpage: '22'
       spravka: true
     - id: '41275'
       num: '44'
       name: МАРЕЦКИЙ Василий Августинович
+      rowinpage: '23'
       spravka: true
     - id: '41276'
       num: '45'
       name: МАСЛЕННИКОВ Илья Никитович
+      rowinpage: '24'
       spravka: true
     - id: '41277'
       num: '46'
       name: МАТУЙЗЕ Иван Михайлович
+      rowinpage: '25'
       spravka: true
     - id: '41278'
       num: '47'
       name: МАХУТОВ Платон Данилович
+      rowinpage: '26'
       spravka: true
 - pageintom: '51'
   image: v11/17-171-419-051.jpg
+  title: Иркутская область
   sublists:
   - sublid: '616'
     persons:
     - id: '41279'
       num: '48'
       name: МИКУЛЬСКИЙ Андрей Федорович
+      rowinpage: '1'
     - id: '41280'
       num: '49'
       name: НЕИЗВЕСТНОВ Леонид Александрович
+      rowinpage: '2'
       spravka: true
     - id: '41281'
       num: '50'
       name: КОНОЕВ Номол Ноноевич
+      rowinpage: '3'
       spravka: true
     - id: '41282'
       num: '51'
       name: ОПАРИН Александр Георгиевич
+      rowinpage: '4'
       spravka: true
     - id: '41283'
       num: '52'
       name: ОСКЕРКО Михаил Герасимович
+      rowinpage: '5'
       spravka: true
     - id: '41284'
       num: '53'
       name: ОШКАДЕРОВ Иван Иванович
+      rowinpage: '6'
       spravka: true
     - id: '41285'
       num: '54'
       name: ПАНЮТИН Валентин Иванович
+      rowinpage: '7'
       spravka: true
     - id: '41286'
       num: '55'
       name: ПАШЕВ Иван Александрович
+      rowinpage: '8'
     - id: '41287'
       num: '56'
       name: ПЕТРОВ Александр Иванович
+      rowinpage: '9'
       spravka: true
     - id: '41288'
       num: '57'
       name: ПЕТРУХИН Степан Федорович
+      rowinpage: '10'
       spravka: true
     - id: '41289'
       num: '58'
       name: ПЕТУХОВ Антон Васильевич
+      rowinpage: '11'
       spravka: true
     - id: '41290'
       num: '59'
       name: ПИВОВАРОВ Иван Васильевич
+      rowinpage: '12'
       spravka: true
     - id: '41291'
       num: '60'
       name: ПЛАТАНОВ Федор Платонович
+      rowinpage: '13'
       spravka: true
     - id: '41292'
       num: '61'
       name: ПОПОВ Аркадий Михайлович
+      rowinpage: '14'
       spravka: true
     - id: '41293'
       num: '62'
       name: РЕПИН Алексей Иванович
+      rowinpage: '15'
       spravka: true
     - id: '41294'
       num: '63'
       name: САЛОМАТОВ Николай Алексеевич
+      rowinpage: '16'
       spravka: true
     - id: '41295'
       num: '64'
       name: СЕРОВ Константин Трифонович
+      rowinpage: '17'
       spravka: true
     - id: '41296'
       num: '65'
       name: СИНЯКОВ Петр Иванович
+      rowinpage: '18'
       spravka: true
     - id: '41297'
       num: '66'
       name: СНОПКОВ Василий Фомич
+      rowinpage: '19'
     - id: '41298'
       num: '67'
       name: СОСНИН Иван Васильевич
+      rowinpage: '20'
       spravka: true
     - id: '41299'
       num: '68'
       name: СУШКОВ Василий Яковлевич
+      rowinpage: '21'
       spravka: true
     - id: '41300'
       num: '69'
       name: СЫСКОВ Антон Степанович
+      rowinpage: '22'
       spravka: true
     - id: '41301'
       num: '70'
       name: ТАЮРСКИЙ Василий Гаврилович
+      rowinpage: '23'
       spravka: true
     - id: '41302'
       num: '71'
       name: ТОВАРОВСКАЯ Елизавета Борисовна
+      rowinpage: '24'
       spravka: true
     - id: '41303'
       num: '72'
       name: ТРОЦЮК Дмитрий Никифорович
+      rowinpage: '25'
       spravka: true
     - id: '41304'
       num: '73'
       name: ТУГУТОВ Василий Иванович
+      rowinpage: '26'
       spravka: true
 - pageintom: '52'
   image: v11/17-171-419-052.jpg
+  title: Иркутская область
   sublists:
   - sublid: '616'
     persons:
     - id: '41305'
       num: '74'
       name: УШАКОВ Николай Иванович
+      rowinpage: '1'
     - id: '41306'
       num: '75'
       name: ФАДЕЕВ Сергей Николаевич
+      rowinpage: '2'
     - id: '41307'
       num: '76'
       name: ФРЫГИН Андрей Павлович
+      rowinpage: '3'
       spravka: true
     - id: '41308'
       num: '77'
       name: ХАРАХИНОВ Александр Михайлович
+      rowinpage: '4'
       spravka: true
     - id: '41309'
       num: '78'
       name: ХМЕЛЬНИЦКИЙ Лев Вольфович
+      rowinpage: '5'
       spravka: true
     - id: '41310'
       num: '79'
       name: ХМЕЛЬНИЦКИЙ Михаил Абрамович
+      rowinpage: '6'
     - id: '41311'
       num: '80'
       name: ХОСИД Гешель Юрьевич
+      rowinpage: '7'
       spravka: true
     - id: '41312'
       num: '81'
       name: ХОХРЯКОВ Михаил Николаевич
+      rowinpage: '8'
       spravka: true
     - id: '41313'
       num: '82'
       name: ШАЙДАКОВ Иван Алексеевич
+      rowinpage: '9'
       doublesexists: true
       spravka: true
     - id: '41314'
       num: '83'
       name: ШАПИРО Ефим Моисеевич
+      rowinpage: '10'
       spravka: true
     - id: '41315'
       num: '84'
       name: ШАРКОВ Николай Павлович
+      rowinpage: '11'
       spravka: true
     - id: '41316'
       num: '85'
       name: ШВАРЦМАН Михаил Исаакович
+      rowinpage: '12'
       spravka: true
     - id: '41317'
       num: '86'
       name: ШВЕДОВ Алексей Николаевич
+      rowinpage: '13'
       spravka: true
     - id: '41318'
       num: '87'
       name: ШУМОВСКИЙ Валентин Васильевич
+      rowinpage: '14'
       spravka: true
     - id: '41319'
       num: '88'
       name: ЮДИН Григорий Николаевич
+      rowinpage: '15'
       spravka: true
 - pageintom: '53'
   image: v11/17-171-419-053.jpg
+  title: null
   sublists:
   - sublid: '616'
     persons:
     - id: '41320'
       num: '1'
       name: БЕССОНОВ Михаил Михайлович
+      rowinpage: '1'
       subtitle1: <p align="center"><u>ИРКУТСКАЯ ОБЛАСТЬ. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '41321'
       num: '2'
       name: СЕРГАНОВ Тимофей Самсонович
+      rowinpage: '2'
       spravka: true
     - id: '41322'
       num: '3'
       name: ШЕМЕТОВ Герасим Михайлович
+      rowinpage: '3'
       spravka: true
