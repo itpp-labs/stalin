@@ -125,7 +125,7 @@ def list2archive(lst):
     if lst["listid"] in ["411", "412"]:
         archive_title = "АП РФ"
     return {
-        "ref": "{archive_title}, ф.{fond}, т.{tom}, оп.{opis}{delo}".format(**lst, delo=delo, archive_title=archive_title),
+        "ref": "{archive_title}, ф.{fond}, оп.{opis}{delo}".format(**lst, delo=delo, archive_title=archive_title),
         "page1": lst["page1"]
     }
 
@@ -145,15 +145,12 @@ def sublist2title_full(lst, sublst):
     return res
 
 def person_list2url(person, lst, sublst):
-    # "list_id": pp["listnum"],
-    # "sublist_id": pp["asublistid"],
-    # "pageintom": pp["pageintom"],
-    # "rowinpage": pp["rowinpage"],
-    # "nomer": pp["nomer"],
-    res = "/lists/%s#page-%s-num-%s" % (list2name(lst), person["pageintom"], person["nomer"])
-    if person["nomer"] == '0':
-        res += "-%s" % person['rowinpage']
-    return res
+    return "/lists/%s#person-%s-%s-%s" % (
+        list2name(lst),
+        person["pageintom"],
+        person["nomer"],
+        person['rowinpage']
+    )
 
 def clean_date(s):
     if not s or s == "0000-00-00" or s == "NULL":

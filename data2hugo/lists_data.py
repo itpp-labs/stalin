@@ -75,6 +75,40 @@ def main():
         name.insert(1, "<br/>")
         return " ".join(name)
 
+    sublist_title = {
+        r["sublistid"]: r["sublisttitle"]
+        for r in csv_reader(SUBLISTS_CSV)
+    }
+
+    class Page2Title():
+        def __init__(self):
+            self.prev = None
+        def __call__(self, page):
+            print("list", page["alistid"])
+            first = None
+            first_person = None
+            last = None
+            for sublistid, persons in sublists_and_persons_by_page.get(page["pageid"], {}).items():
+                if not first:
+                    first = sublistid
+                    first_person = persons[0]
+                last = sublistid
+
+            prev = self.prev
+            self.prev = last
+
+            if not first:
+                return None
+
+            print(page["pageintom"], prev, sublist_title.get(first), sublist_title.get(last), first_person)
+            # e.g. <p align="right"><u>3-я категория.</u></p><p align="center"><u>КРАСНОЯРСКИЙ КРАЙ.</u>
+            page_starts_with_title =  first_person and "center" in first_person["subtitle1"]
+            if prev != first or page_starts_with_title:
+                return None
+            return sublist_title.get(first)
+
+    page2title = Page2Title()
+
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
         data = {
@@ -82,6 +116,7 @@ def main():
             "title": list2title(lst),
             "archive": list2archive(lst),
             "date": clean_date(lst["adate"]),
+            "date_ru": convert_date(lst["adate"]),
             "tom": int(lst["tom"]),
             "delo": {
                 "name": lst["deloname"],
@@ -105,6 +140,7 @@ def main():
                 {
                     "pageintom": page["pageintom"],
                     "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
+                    "title": page2title(page),
                     "sublists": [
                         {
                             "sublid": sublistid,
@@ -114,7 +150,7 @@ def main():
                                     "num": p["nomer"],
                                     "name": p2name(p),
                                 },
-                                rowinpage=p['rowinpage'] if p["nomer"] == '0' else None,
+                                rowinpage=p['rowinpage'],
                                 striked=p["striked"] == "1",
                                 underlined=p["underlined"] == "1",
                                 pometa_text=person2pometa_text(p),
