@@ -62,7 +62,7 @@
     </div>
 
 
-<div class="page-text{{ if .primzv }} primzv{{ end }}">
+<div class="page-text">
 
 {{ range .sublists }}
     {{ range .persons }}
@@ -90,7 +90,7 @@
             <span class="ml-1">{{ .num }}.</span>
         </div>
 
-        <div class="column person-name {{ if .primzv }}is-5{{ else }}is-9{{ end }}">
+        <div class="column person-name{{ if $data.name_align_center }} has-text-centered{{ end }} {{ if $data.two_columns }}is-5{{ else }}is-9{{ end }}">
             <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
                class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
                 <span class="person-name">{{ .name | safeHTML }}</span>&nbsp;
@@ -103,7 +103,7 @@
             </p>
         </div>
 {{ if .primzv }}
-        <div class="column person-zv is-4">{{ .primzv }}</div>
+        <div class="column person-zv is-4 ml-3">{{ .primzv }}</div>
 {{ end }}
     </div>
 

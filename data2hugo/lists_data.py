@@ -109,6 +109,15 @@ def main():
 
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
+
+        has_primzv = False
+        for subl in sublists_by_list.get(lst["listid"], []):
+            if has_primzv:
+                break
+            for p in persons_by_sublist.get(subl["sublistid"], []):
+                if p["primzv"]:
+                    has_primzv = True
+                    break
         data = {
             "id": lst["listid"],
             "title": list2title(lst),
@@ -164,6 +173,12 @@ def main():
                 } for page in pages_by_list[lst["listid"]]
             ],
         }
+        extend(
+            data,
+            two_columns=has_primzv,
+            name_align_center=lst["listid"] in ["410", "413"],
+        )
+
         # data file
         yaml_writer(
             os.path.join(HUGO_DATA_DIR, "lists", "%s.yaml" % list2name(lst)),
