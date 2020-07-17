@@ -1,5 +1,6 @@
 from common import *
 import os.path
+import re
 
 def main():
     title2geosub = yaml_reader(TITLE2GEOSUB_YAML)
@@ -75,6 +76,32 @@ def main():
         name.insert(1, "<br/>")
         return " ".join(name)
 
+    def get_page_html(page):
+        textfile = page["textfile"]
+        if not textfile or textfile == "NULL":
+            return
+
+        try:
+            html = file2str(os.path.join(GB_SPRAVKI_DIR, textfile.lower()))
+        except:
+            # see https://github.com/itpp-labs/stalin/issues/66
+            print ("file not found", textfile)
+            return
+
+        html = re.sub("<HEAD>.*?</HEAD>", "", html, flags=re.DOTALL)
+        html = re.sub("<HEAD>", "", html, flags=re.IGNORECASE)
+        html = re.sub("<HTML>", "", html, flags=re.IGNORECASE)
+        html = re.sub("</HTML>", "", html, flags=re.IGNORECASE)
+        html = re.sub("<BODY>", "", html, flags=re.IGNORECASE)
+        html = re.sub("</BODY>", "", html, flags=re.IGNORECASE)
+
+        for persons in sublists_and_persons_by_page.get(page["pageid"], {}).values():
+            for p in persons:
+                query = r"([0-9]*\.\s*%s)" % p["lastname1"]
+                html = re.sub(query, r"PERSON%s<br/>\1" % p["headperson"], html, flags=re.IGNORECASE)
+        return html
+
+
     sublist_title = {
         r["sublistid"]: r["sublisttitle"]
         for r in csv_reader(SUBLISTS_CSV)
@@ -144,7 +171,7 @@ def main():
                 } for subl in sublists_by_list.get(lst["listid"], [])
             ],
             "pages": [
-                {
+                extend({
                     "pageintom": page["pageintom"],
                     "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
                     "title": page2title(page),
@@ -170,13 +197,21 @@ def main():
                             ) for p in persons]
                         } for sublistid, persons in sublists_and_persons_by_page.get(page["pageid"], {}).items()
                     ],
-                } for page in pages_by_list[lst["listid"]]
+                }, html=get_page_html(page))
+                for page in pages_by_list[lst["listid"]]
             ],
         }
+        has_textfile = False
+        for page in pages_by_list[lst["listid"]]:
+            if page["textfile"]:
+                has_textfile = True
+                break
+
         extend(
             data,
             two_columns=has_primzv,
             name_align_center=lst["listid"] in ["410", "413"],
+            html=has_textfile,
         )
 
         # data file
