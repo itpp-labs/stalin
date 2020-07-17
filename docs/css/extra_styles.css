@@ -47,21 +47,18 @@ div:target {
 }
 
 
-.primzv-name{
-    text-align: center;
-}
-
 @media screen and (min-width: 769px) {
-    .primzv-num{
-        text-align: right;
-    }
 
     .page-text{
-        width: 490px;
+        width: 550px;
     }
 
 }
-
+@media screen and (max-width: 768px) {
+    .person-num {
+        width: 85px !important;
+    }
+}
 
 /* Make tabs responsive
 */
