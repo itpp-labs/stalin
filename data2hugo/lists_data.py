@@ -1,5 +1,6 @@
 from common import *
 import os.path
+import re
 
 def main():
     title2geosub = yaml_reader(TITLE2GEOSUB_YAML)
@@ -67,13 +68,39 @@ def main():
 
         return list(values)
 
-    def p2name(p):
+    def p2name(p, lst):
         name = p["nameshow1"]
-        if not p["primzv"]:
+        if lst["listid"] not in ["410", "413"]:
             return name
         name = name.split(" ")
         name.insert(1, "<br/>")
         return " ".join(name)
+
+    def get_page_html(page):
+        textfile = page["textfile"]
+        if not textfile or textfile == "NULL":
+            return
+
+        try:
+            html = file2str(os.path.join(GB_SPRAVKI_DIR, textfile.lower()))
+        except:
+            # see https://github.com/itpp-labs/stalin/issues/66
+            print ("file not found", textfile)
+            return
+
+        html = re.sub("<HEAD>.*?</HEAD>", "", html, flags=re.DOTALL)
+        html = re.sub("<HEAD>", "", html, flags=re.IGNORECASE)
+        html = re.sub("<HTML>", "", html, flags=re.IGNORECASE)
+        html = re.sub("</HTML>", "", html, flags=re.IGNORECASE)
+        html = re.sub("<BODY>", "", html, flags=re.IGNORECASE)
+        html = re.sub("</BODY>", "", html, flags=re.IGNORECASE)
+
+        for persons in sublists_and_persons_by_page.get(page["pageid"], {}).values():
+            for p in persons:
+                query = r"([0-9]*\.\s*(<b><u>)?%s)" % p["lastname1"]
+                html = re.sub(query, r"PERSON%s<br/>\1" % p["headperson"], html, flags=re.IGNORECASE)
+        return html
+
 
     sublist_title = {
         r["sublistid"]: r["sublisttitle"]
@@ -84,7 +111,6 @@ def main():
         def __init__(self):
             self.prev = None
         def __call__(self, page):
-            print("list", page["alistid"])
             first = None
             first_person = None
             last = None
@@ -100,7 +126,6 @@ def main():
             if not first:
                 return None
 
-            print(page["pageintom"], prev, sublist_title.get(first), sublist_title.get(last), first_person)
             # e.g. <p align="right"><u>3-я категория.</u></p><p align="center"><u>КРАСНОЯРСКИЙ КРАЙ.</u>
             page_starts_with_title =  first_person and "center" in first_person["subtitle1"]
             if prev != first or page_starts_with_title:
@@ -111,6 +136,15 @@ def main():
 
     for lst in csv_reader(LISTS_CSV):
         listtitle = lst["listtitle"]
+
+        has_primzv = False
+        for subl in sublists_by_list.get(lst["listid"], []):
+            if has_primzv:
+                break
+            for p in persons_by_sublist.get(subl["sublistid"], []):
+                if p["primzv"]:
+                    has_primzv = True
+                    break
         data = {
             "id": lst["listid"],
             "title": list2title(lst),
@@ -137,7 +171,7 @@ def main():
                 } for subl in sublists_by_list.get(lst["listid"], [])
             ],
             "pages": [
-                {
+                extend({
                     "pageintom": page["pageintom"],
                     "image": "v%02d/%s" % (int(page["tom"]), page["picturefile"]),
                     "title": page2title(page),
@@ -148,7 +182,7 @@ def main():
                                 {
                                     "id": p["headperson"],
                                     "num": p["nomer"],
-                                    "name": p2name(p),
+                                    "name": p2name(p, lst),
                                 },
                                 rowinpage=p['rowinpage'],
                                 striked=p["striked"] == "1",
@@ -163,9 +197,23 @@ def main():
                             ) for p in persons]
                         } for sublistid, persons in sublists_and_persons_by_page.get(page["pageid"], {}).items()
                     ],
-                } for page in pages_by_list[lst["listid"]]
+                }, html=get_page_html(page))
+                for page in pages_by_list[lst["listid"]]
             ],
         }
+        has_textfile = False
+        for page in pages_by_list[lst["listid"]]:
+            if page["textfile"]:
+                has_textfile = True
+                break
+
+        extend(
+            data,
+            two_columns=has_primzv,
+            name_align_center=lst["listid"] in ["410", "413"],
+            html=has_textfile,
+        )
+
         # data file
         yaml_writer(
             os.path.join(HUGO_DATA_DIR, "lists", "%s.yaml" % list2name(lst)),
