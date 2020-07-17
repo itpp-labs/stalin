@@ -97,7 +97,7 @@ def main():
 
         for persons in sublists_and_persons_by_page.get(page["pageid"], {}).values():
             for p in persons:
-                query = r"([0-9]*\.\s*%s)" % p["lastname1"]
+                query = r"([0-9]*\.\s*(<b><u>)?%s)" % p["lastname1"]
                 html = re.sub(query, r"PERSON%s<br/>\1" % p["headperson"], html, flags=re.IGNORECASE)
         return html
 
