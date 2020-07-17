@@ -62,49 +62,55 @@
     </div>
 
 
-<div class="page-text">
+<div class="page-text{{ if .primzv }} primzv{{ end }}">
 
 {{ range .sublists }}
     {{ range .persons }}
-        {{ if .subtitle1 }}{{ .subtitle1 | safeHTML }}{{ end }}
 
-
-{{ if .primzv }}
-    <div class="columns is-gapless">
-        <div class="column primzv-num is-1">{{ .num }}.</div>
-        <div class="column primzv-name is-6">
+{{ if .subtitle1 }}
+    <div class="columns is-mobile is-gapless">
+        <div class="column person-num is-3 mr-3">&nbsp;</div>
+        <div class="column person-name is-8">
+        {{ .subtitle1 | safeHTML }}
+        </div>
+    </div>
 {{ end }}
 
-            <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
-               class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
-                <span class="num-name">{{ if not .primzv }}{{ .num }}. {{ end }}{{ .name | safeHTML }}</span>&nbsp;
-{{ if .pometa_text }}
-                <span class="pometa">{{.pometa_text}}</span>
-{{ end }}
+    <div class="columns is-mobile is-gapless">
+        <div class="column person-num has-text-right is-3 mr-3">
 {{ if .doublesexists }}
-                <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>
-{{ end }}
-{{ if .spravka }}
-                <a href="/persons/p{{ .id }}#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
+            <a href="/persons/p{{ .id }}#spiski" title="Встречается в нескольких списках"><i class="fas fa-list"></i></span></a>
 {{ end }}
 {{ if .gb_spravka }}
-                <a href="/persons/p{{ .id }}#gb-{{ $data.id }}" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>
+            <a href="/persons/p{{ .id }}#gb-{{ $data.id }}" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>
+{{ end }}
+{{ if .spravka }}
+            <a href="/persons/p{{ .id }}#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
+{{ end }}
+            <span class="ml-1">{{ .num }}.</span>
+        </div>
+
+        <div class="column person-name {{ if .primzv }}is-5{{ else }}is-9{{ end }}">
+            <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
+               class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
+                <span class="person-name">{{ .name | safeHTML }}</span>&nbsp;
+{{ if .pometa_text }}
+                <span class="pometa">{{.pometa_text}}</span>
 {{ end }}
 {{ if .primcoc }}
                 <span class="pometa">{{ .primcoc }}</span>
 {{ end }}
             </p>
-
-{{ if .primzv }}
         </div>
-        <div class="column primzv-zv is-5">{{ .primzv }}</div>
-    </div>
+{{ if .primzv }}
+        <div class="column person-zv is-4">{{ .primzv }}</div>
 {{ end }}
+    </div>
 
 
 
-            {{ end }}
-        {{ end }}
+    {{ end }}
+{{ end }}
     </div>
     <div class="is-hidden page-image">
         <img data-src="/disk/pictures/{{ .image }}"/>

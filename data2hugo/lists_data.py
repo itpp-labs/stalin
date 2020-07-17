@@ -67,9 +67,9 @@ def main():
 
         return list(values)
 
-    def p2name(p):
+    def p2name(p, lst):
         name = p["nameshow1"]
-        if not p["primzv"]:
+        if lst["listid"] not in ["410", "413"]:
             return name
         name = name.split(" ")
         name.insert(1, "<br/>")
@@ -84,7 +84,6 @@ def main():
         def __init__(self):
             self.prev = None
         def __call__(self, page):
-            print("list", page["alistid"])
             first = None
             first_person = None
             last = None
@@ -100,7 +99,6 @@ def main():
             if not first:
                 return None
 
-            print(page["pageintom"], prev, sublist_title.get(first), sublist_title.get(last), first_person)
             # e.g. <p align="right"><u>3-я категория.</u></p><p align="center"><u>КРАСНОЯРСКИЙ КРАЙ.</u>
             page_starts_with_title =  first_person and "center" in first_person["subtitle1"]
             if prev != first or page_starts_with_title:
@@ -148,7 +146,7 @@ def main():
                                 {
                                     "id": p["headperson"],
                                     "num": p["nomer"],
-                                    "name": p2name(p),
+                                    "name": p2name(p, lst),
                                 },
                                 rowinpage=p['rowinpage'],
                                 striked=p["striked"] == "1",
