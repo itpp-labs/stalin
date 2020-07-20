@@ -2,6 +2,30 @@
 {{ partial "nav" . }}
 {{ $data := index .Site.Data.lists .File.BaseFileName }}
 <div class="container">
+
+    <nav class="level">
+        <div class="level-left">
+            <div class="level-item">
+{{ if $data.prev_id }}
+                <a href="/lists/list{{ $data.prev_id }}">&larr; Предыдущие страницы дела</a>
+{{ else }}
+                &nbsp;
+{{ end }}
+            </div>
+        </div>
+
+        <div class="level-right">
+            <div class="level-item">
+{{ if $data.next_id }}
+                <a href="/lists/list{{ $data.next_id }}">Следующие страницы дела &rarr;</a>
+{{ else }}
+                &nbsp;
+{{ end }}
+            </div>
+        </div>
+
+    </nav>
+
     <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ $data.archive.ref }}, лист {{ $data.archive.page1 }}</h2>
     <div class="content">
 

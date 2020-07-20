@@ -16,7 +16,7 @@ def main():
         "10": {"id": "main-tom-10", "name": "Том 10 : Списки 12.09.1938 – 12.09.1938", "sub": []},
         "11": {"id": "main-tom-11", "name": "Том 11 : Списки 12.09.1938 – 29.09.1938", "sub": []},
     }
-    for lst in csv_reader(LISTS_CSV):
+    for lst in get_sorted_lists():
         t = lst["tom"]
         if int(t) > 11:
             continue
