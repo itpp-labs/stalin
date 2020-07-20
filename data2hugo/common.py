@@ -163,3 +163,6 @@ def convert_date(s):
         d = datetime.strptime(s, "%Y-%m-%d")
         s = d.strftime("%d.%m.%Y")
     return s
+
+def get_sorted_lists():
+    return sorted(csv_reader(LISTS_CSV), key=lambda lst: (lst['ed_hr'], int(lst['page1'])))

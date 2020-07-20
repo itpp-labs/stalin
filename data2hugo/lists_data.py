@@ -1,6 +1,8 @@
 from common import *
 import os.path
 import re
+import itertools
+
 
 def main():
     title2geosub = yaml_reader(TITLE2GEOSUB_YAML)
@@ -134,7 +136,17 @@ def main():
 
     page2title = Page2Title()
 
-    for lst in csv_reader(LISTS_CSV):
+    all_lists = get_sorted_lists()
+    all_lists = itertools.chain(all_lists, iter([None]))
+
+    prev_lst = None
+    lst = None
+    next_lst = next(all_lists)
+    for lst_ in all_lists:
+        prev_lst = lst
+        lst = next_lst
+        next_lst = lst_
+
         listtitle = lst["listtitle"]
 
         has_primzv = False
@@ -145,8 +157,17 @@ def main():
                 if p["primzv"]:
                     has_primzv = True
                     break
+        prev_id = None
+        if prev_lst and prev_lst["ed_hr"] == lst["ed_hr"]:
+            prev_id = prev_lst["listid"]
+        next_id = None
+        if next_lst and next_lst["ed_hr"] == lst["ed_hr"]:
+            next_id = next_lst["listid"]
+
         data = {
             "id": lst["listid"],
+            "prev_id": prev_id,
+            "next_id": next_id,
             "title": list2title(lst),
             "archive": list2archive(lst),
             "date": clean_date(lst["adate"]),
