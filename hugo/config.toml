@@ -13,7 +13,7 @@ copyright = """1989-2020 &copy; Международный Мемориал.<br/
 [params.elasticsearch]
     #url = "http://localhost:9200/"
     #url = "http://ec2-3-89-71-224.compute-1.amazonaws.com:9200/"
-    url = "http://api.odoo-source.com:9200/"
+    url = "http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"
 
 [params.spravki]
     edit_url = "https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/{FILENAME}.yaml"
