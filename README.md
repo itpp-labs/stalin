@@ -38,17 +38,47 @@
   
       docker run -d \
       --name=elasticsearch \
-      -p 9200:9200 \
-      -p 9300:9300 \
+      -p 127.0.0.1:9200:9200 \
+      -p 127.0.0.1:9300:9300 \
       -e "ES_JAVA_OPTS=-Xms1g -Xmx1g" \
       -e "discovery.type=single-node" \
       -e "http.cors.enabled=true" \
       -e "http.cors.allow-origin=*" \
       docker.elastic.co/elasticsearch/elasticsearch:7.7.1
 
+  * After starting docker, you may need some time before elasticsearch is initialized
   * Under ES_JAVA_OPTS memory heap is set to 1GB. For more information about it, see https://www.elastic.co/guide/en/elasticsearch/reference/current/heap-size.html
   * For CORS settings check docs: https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-http.html
   * For other installation options see https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+  * Elasticsearch is available from localhost only. You need to configure web server (e.g. Nginx) to pass `/persons/_search` and `/lists/_search` search requests to elasticsearch, for example:
+  
+        upstream upstream_static {
+           server 185.199.109.153;
+        }
+        upstream upstream_elasticsearch {
+           server localhost:9200;
+        }
+        server {
+               listen 80;
+               location ~ /(persons|lists)/_search {
+                    proxy_set_header Host $host;
+                    proxy_pass http://upstream_elasticsearch;
+        
+                    auth_basic           "Administrator’s Area";
+                    auth_basic_user_file /etc/apache2/.htpasswd; 
+        
+               }
+               location / {
+                    proxy_set_header Host $host;
+                    proxy_pass http://upstream_static;
+        
+                    auth_basic           "Administrator’s Area";
+                    auth_basic_user_file /etc/apache2/.htpasswd; 
+        
+               }
+        }
+
+
 
 ## Памятка администраторам
 
