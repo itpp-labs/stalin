@@ -11,6 +11,7 @@ on:
     - 'hugo/data/lists/**'      
     - 'hugo/content/persons/**'
     - 'hugo/data/persons/**'
+    - 'hugo/data/korps.yaml'
     - 'search/elasticsearch-*'
     # exclude doc updates
     - 'README.md'    
