@@ -135,6 +135,20 @@ To run hugo on remote server, you may need to add following arguments:
 * make git commit
 * send pull request to this repo
 
+### Lists with special formating
+
+* two columns (primzv)
+
+  * /lists/list68
+  * /lists/list410
+  * /lists/list413 -- also, an example of a list with big amount of pages
+
+* lists with gb spravka near the name
+
+  * /lists/list409
+  * /lists/list411
+  * /lists/list412
+
 ## Elasticsearch
 
 ### Загрузка индексов
