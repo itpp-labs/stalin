@@ -34,6 +34,11 @@ upload_search_lists:
 	curl -H "Content-Type: application/json" -XPOST "localhost:9200/lists/_bulk?pretty&refresh" --data-binary "@search/elasticsearch-lists.json" > /tmp/elasticsearch-lists.logs
 	echo ""
 
+spravki: data/spravki/all.csv
+	rm hugo/data/spravki/*.yaml
+	${PYTHON} data2hugo/spravki-csv2yaml.py
+
+
 website:
 	#hugo --minify -s hugo/
 	hugo -s hugo/ --templateMetrics
