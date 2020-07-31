@@ -99,6 +99,14 @@
   You may also need to check ``baseURL`` setting in [hugo/config.toml](hugo/config.toml)
   
 * It's recommended to automate CI/CD process. Check [GIthub Actions scripts](.github/workflows/) for examples.
+
+* It's recommended upload static pages first and then update search index.
+
+      Лучше всего сначала обновить страницы сайта, а потом поиск, чтобы в течение
+      промежутка вермени между этими обновлениями пользователь не оказался в
+      ситуации, когда он нашел персону в поиске со справкой, перешел на
+      страницу и не нашел полную версию справки.
+
 ## Памятка программистам
 
 ### To preview updates
