@@ -45,7 +45,7 @@
 
 * если файл предоставлен в кодировки cp1215 его нужно сначала конвертнуть в utf:
 
-      iconv -f cp1251 all.csv > all-utf.csv
+      iconv -f cp1251 all-cp1251.csv > all.csv
 
 * замените файл [data/spravki/all.csv](data/spravki/all.csv) на новую версию 
 * проверьте изменения
@@ -54,7 +54,6 @@
 
 * сделайте комит
 * сделайте конвертацию csv-файла в yaml файлы:
-
 
       make spravki
     
