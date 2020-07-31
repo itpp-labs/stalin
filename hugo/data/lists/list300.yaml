@@ -76,16 +76,19 @@ pages:
       num: '1'
       name: ВОЛОСАСТОВ Сергей Николаевич
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ. </u></p><p align="center"><u> КИЕВ-ЦЕНТР.</u>
     - id: '30599'
       num: '2'
       name: ГИТЛЕВИЧ Моисей Абрамович
       rowinpage: '2'
+      spravka: true
     - id: '30600'
       num: '3'
       name: ЗАБАРСКИЙ Наум Завелевич
       rowinpage: '3'
+      spravka: true
     - id: '30601'
       num: '4'
       name: КАРГАЛЬСКИЙ Сергей Иванович
@@ -95,6 +98,7 @@ pages:
       num: '5'
       name: ОКРАИНЧУК Леонтий Григорьевич
       rowinpage: '5'
+      spravka: true
     - id: '30603'
       num: '6'
       name: ПОНАМАРЕВ-БРУК Лев Аркадьевич
@@ -104,11 +108,13 @@ pages:
       num: '7'
       name: СИМИНЬКО Илларион Афанасьевич
       rowinpage: '7'
+      spravka: true
     - id: '30605'
       num: '8'
       name: ТЕСЛЕНКО Федор Петрович
       rowinpage: '8'
       doublesexists: true
+      spravka: true
     - id: '30606'
       num: '9'
       name: ФЕСЕНКО Александр Ксенофонтович
@@ -179,6 +185,7 @@ pages:
       num: '22'
       name: ЛЮБЧЕНКО Павел Фомич
       rowinpage: '7'
+      spravka: true
     - id: '30620'
       num: '23'
       name: МИРОШНИКОВ Алексей Гаврилович
@@ -206,6 +213,7 @@ pages:
       num: '28'
       name: ТАРАНЕНКО Николай Дмитриевич
       rowinpage: '13'
+      spravka: true
     - id: '30626'
       num: '29'
       name: УСЕНКО Нестор Зосимович
@@ -254,6 +262,7 @@ pages:
       num: '38'
       name: ЖЕБРАК Абрам Яковлевич
       rowinpage: '23'
+      spravka: true
     - id: '30636'
       num: '39'
       name: ЗАБОРОВСКИЙ Святослав Мячеславович
@@ -322,6 +331,7 @@ pages:
       num: '51'
       name: ГАЙДАЙ Федор Ильич
       rowinpage: '10'
+      spravka: true
       subtitle1: <p align="center"><u>ЧЕРНИГОВСКАЯ ОБЛАСТЬ.</u>
     - id: '30649'
       num: '52'
@@ -335,6 +345,7 @@ pages:
       num: '54'
       name: СЕМЕНОВ Семен Александрович
       rowinpage: '13'
+      spravka: true
     - id: '30652'
       num: '55'
       name: ЕГОРОВ Евгений Дмитриевич
@@ -466,6 +477,7 @@ pages:
       num: '79'
       name: ОКРУШКО Прокоп Андреевич
       rowinpage: '19'
+      spravka: true
     - id: '30677'
       num: '80'
       name: ТАРАСЮК Иван Александрович
@@ -481,31 +493,38 @@ pages:
       num: '81'
       name: БАБЕНКО Григорий Иванович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>НИКОЛАЕВСКАЯ ОБЛАСТЬ</u>
     - id: '30679'
       num: '82'
       name: БАРСКИЙ Григорий Юдкович
       rowinpage: '2'
+      spravka: true
     - id: '30680'
       num: '83'
       name: БЛЯХЕР Анатолий Бенционович
       rowinpage: '3'
+      spravka: true
     - id: '30681'
       num: '84'
       name: ГУРО Савелий Григорьевич
       rowinpage: '4'
+      spravka: true
     - id: '30682'
       num: '85'
       name: ВОЛОШИН Никита Михайлович
       rowinpage: '5'
+      spravka: true
     - id: '30683'
       num: '86'
       name: ДОБЕНКО Семен Эммануилович
       rowinpage: '6'
+      spravka: true
     - id: '30684'
       num: '87'
       name: ДьЯЧЕНКО Архип Степанович
       rowinpage: '7'
+      spravka: true
     - id: '30685'
       num: '88'
       name: ИВАНОВ Борис Матвеевич
@@ -515,6 +534,7 @@ pages:
       num: '89'
       name: ИГНАТЕНКО Сергей Никитович
       rowinpage: '9'
+      spravka: true
     - id: '30687'
       num: '90'
       name: КОРЕЛЬШТЕЙН Давид Эликович
@@ -524,6 +544,7 @@ pages:
       num: '91'
       name: КОШЕЛЬ Семен Климентьевич
       rowinpage: '11'
+      spravka: true
     - id: '30689'
       num: '92'
       name: ЛЕРИНМАН Лев Михайлович
@@ -533,10 +554,12 @@ pages:
       num: '93'
       name: МАСИНА Демьян Иванович
       rowinpage: '13'
+      spravka: true
     - id: '30691'
       num: '94'
       name: НОЖНИЦКИЙ Семен Иосифович
       rowinpage: '14'
+      spravka: true
     - id: '30692'
       num: '95'
       name: ПИРОГ Александр Никитич
@@ -551,18 +574,22 @@ pages:
       num: '97'
       name: РОЙЗЕН Израиль Маркович
       rowinpage: '17'
+      spravka: true
     - id: '30695'
       num: '98'
       name: ЧЕБЕРДА Иван Кириллович
       rowinpage: '18'
+      spravka: true
     - id: '30696'
       num: '99'
       name: ЧЕКУНОВ Дмитрий Николаевич
       rowinpage: '19'
+      spravka: true
     - id: '30697'
       num: '100'
       name: ЮШКЕВИЧ Александр Феофильевич
       rowinpage: '20'
+      spravka: true
 - pageintom: '123'
   image: v08/17-171-416-123.jpg
   title: null
@@ -573,6 +600,7 @@ pages:
       num: '1'
       name: ГАЙСИНСКИЙ Александр Юрьевич
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ ССР </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ. </u></p><p align="center"><u> КИЕВ-ЦЕНТР.</u>
     - id: '30699'
@@ -614,11 +642,13 @@ pages:
       num: '9'
       name: ЕВДОЩУК Андрей Степанович
       rowinpage: '9'
+      spravka: true
       subtitle1: <p align="center"><u>КИЕВСКАЯ ОБЛАСТЬ.</u>
     - id: '30707'
       num: '10'
       name: ШМАРГОНЬ Елена Николаевна
       rowinpage: '10'
+      spravka: true
     - id: '30708'
       num: '11'
       name: ЕМЕЦ Василий Петрович
@@ -629,10 +659,12 @@ pages:
       num: '12'
       name: ДЛИГАЧ Любовь Яковлевна
       rowinpage: '12'
+      spravka: true
     - id: '30710'
       num: '13'
       name: ЗАСЛАВСКИЙ Матвей Михайлович
       rowinpage: '13'
+      spravka: true
 - pageintom: '124'
   image: v08/17-171-416-124.jpg
   title: Украинская ССР
@@ -643,10 +675,12 @@ pages:
       num: '14'
       name: НЕХАЕВ Павел Борисович
       rowinpage: '1'
+      spravka: true
     - id: '30712'
       num: '15'
       name: УРОДИН Василий Антонович
       rowinpage: '2'
+      spravka: true
     - id: '30713'
       num: '16'
       name: ЛИНЕВ Иван Макарович

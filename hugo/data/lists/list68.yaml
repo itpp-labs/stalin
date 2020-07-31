@@ -150,6 +150,7 @@ pages:
       num: '1'
       name: АРАКЕЛЯН Тевик Аганесович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
         />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ КОЛЛЕГИИ
         ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 1-й КАТЕГОРИИ </u></p><p align="center"><u>ХАРЬКОВСКИЙ
@@ -158,6 +159,7 @@ pages:
       num: '2'
       name: БУБАШКО Сергей Гаврилович
       rowinpage: '2'
+      spravka: true
     - id: '6377'
       num: '3'
       name: БЕЛОУСОВ Матвей Алексеевич
@@ -178,6 +180,7 @@ pages:
       name: БИСЛЮК Николай Михайлович
       rowinpage: '6'
       primzv: Воентехник 1 ранга
+      spravka: true
     - id: '6381'
       num: '7'
       name: БЫСТРОВ Александр Михайлович
@@ -193,10 +196,12 @@ pages:
       name: БРИЖ Героним Павлович
       rowinpage: '9'
       primzv: Ст.политрук
+      spravka: true
     - id: '6384'
       num: '10'
       name: ВЕЙНИНГЕР Антон Андреевич
       rowinpage: '10'
+      spravka: true
     - id: '6385'
       num: '11'
       name: ВЕНИК Алексей Алексеевич
@@ -241,10 +246,12 @@ pages:
       name: ГОЛОВИН Александр Веньяминович
       rowinpage: '2'
       primzv: Майор
+      spravka: true
     - id: '6392'
       num: '18'
       name: ГОТЧ Михаил Григорьевич
       rowinpage: '3'
+      spravka: true
     - id: '6393'
       num: '19'
       name: ГУТОВСКИЙ Петр Григорьевич
@@ -254,6 +261,7 @@ pages:
       name: ДУДКО Георгий Владимирович
       rowinpage: '5'
       primzv: Капитан
+      spravka: true
     - id: '6395'
       num: '21'
       name: ЕВСТИГНЕЕВ Андрей Иванович
@@ -265,6 +273,7 @@ pages:
       name: ЖУКОВСКИЙ Казимир Романович
       rowinpage: '7'
       primzv: Капитан
+      spravka: true
     - id: '6397'
       num: '23'
       name: ИВАНОВ Иван Сергеевич
@@ -279,16 +288,19 @@ pages:
       num: '25'
       name: КИРИЕНКО Кондрат Федорович
       rowinpage: '10'
+      spravka: true
     - id: '6400'
       num: '26'
       name: КЛЕНОВСКИЙ Станислав-Таисий Иванович
       rowinpage: '11'
       primzv: Майор
+      spravka: true
     - id: '6401'
       num: '27'
       name: КОЛПАКЧИ Петр Иванович
       rowinpage: '12'
       primzv: Капитан
+      spravka: true
     - id: '6402'
       num: '28'
       name: КОРУШКИН Георгий Герасимович
@@ -321,21 +333,25 @@ pages:
       num: '33'
       name: ЛАНТУХ Иосиф Акимович
       rowinpage: '18'
+      spravka: true
     - id: '6408'
       num: '34'
       name: ЛОГИНОВ Степан Иванович
       rowinpage: '19'
       primzv: Ст.Лейтенант
+      spravka: true
     - id: '6409'
       num: '35'
       name: ЛУБЕНЕЦ Владимир Гаврилович
       rowinpage: '20'
       primzv: Ст.политрук
+      spravka: true
     - id: '6410'
       num: '36'
       name: МАГНИТСКИЙ Александр Павлович
       rowinpage: '21'
       primzv: Капитан
+      spravka: true
     - id: '6411'
       num: '37'
       name: МАКАРОВ Александр Маркович
@@ -370,6 +386,7 @@ pages:
       name: МОСКОВСКИЙ Алексей Иванович
       rowinpage: '27'
       primzv: Воен.инженер 2 ранга
+      spravka: true
     - id: '6417'
       num: '43'
       name: МОЧАЛОВ Константин Константинович
@@ -392,6 +409,7 @@ pages:
       num: '45'
       name: НАЙДЕНОВ Алексей Семенович
       rowinpage: '2'
+      spravka: true
     - id: '6420'
       num: '46'
       name: НАКОРЧЕВСКИЙ Иван Дементьевич
@@ -403,6 +421,7 @@ pages:
       name: НОВИЦКИЙ Евгений Казимирович
       rowinpage: '4'
       primzv: Капитан
+      spravka: true
     - id: '6422'
       num: '48'
       name: ОВЧАРЕНКО Леонид Григорьевич
@@ -420,11 +439,13 @@ pages:
       name: ПЛЕСУН Николай Яковлевич
       rowinpage: '7'
       primzv: Капитан
+      spravka: true
     - id: '6425'
       num: '51'
       name: ПОЛИЩУК Михаил Зиновьевич
       rowinpage: '8'
       primzv: Капитан
+      spravka: true
     - id: '6426'
       num: '52'
       name: ПОТЕЙКО Дмитрий Григорьевич
@@ -434,6 +455,7 @@ pages:
       name: ПУПЫРЕВ Артем Владимирович
       rowinpage: '10'
       primzv: Майор
+      spravka: true
     - id: '6428'
       num: '54'
       name: РОГАЛЕВ Федор Федорович
@@ -445,6 +467,7 @@ pages:
       name: РУВИНСКИЙ Исай Яковлевич
       rowinpage: '12'
       primzv: Полковой комиссар
+      spravka: true
     - id: '6430'
       num: '56'
       name: САВВИН Сергей Дмитриевич
@@ -468,6 +491,7 @@ pages:
       name: СЕРГИЕНКО Пантелеймон Алексеевич
       rowinpage: '16'
       primzv: Ст.Лейтенант
+      spravka: true
     - id: '6434'
       num: '60'
       name: СКРАСТИН Петр Иванович
@@ -491,6 +515,7 @@ pages:
       name: СПИВАК Наум Иосифович
       rowinpage: '20'
       primzv: Воен.инженер 3 ранга
+      spravka: true
     - id: '6438'
       num: '64'
       name: СТЕПАНОВ Федор Федорович
@@ -501,6 +526,7 @@ pages:
       name: ТИХОМИРОВ Павел Васильевич
       rowinpage: '22'
       primzv: Интиндант 2 ранга
+      spravka: true
     - id: '6440'
       num: '66'
       name: ТУРКОВ Виктор Иванович
@@ -517,6 +543,7 @@ pages:
       num: '68'
       name: ЧЕРНОСВИТОВ Иван Алексеевич
       rowinpage: '25'
+      spravka: true
     - id: '6443'
       num: '69'
       name: ШЕЙМАН Леонид Михайлович
@@ -532,6 +559,7 @@ pages:
       name: ЩЕРБАКОВ Максим Федорович
       rowinpage: '28'
       primzv: Капитан
+      spravka: true
 - pageintom: '271'
   image: v02/17-171-410-271.jpg
   title: null
@@ -600,6 +628,7 @@ pages:
       name: БОРДАХ Самуил Лазаревич
       rowinpage: '11'
       primzv: Полковой комиссар
+      spravka: true
     - id: '6457'
       num: '83'
       name: БОРОДИН Николай Иванович
@@ -664,6 +693,7 @@ pages:
       name: ДОВЖЕНКО Василий Илларионович
       rowinpage: '22'
       primzv: Воен.техник 1 ранга
+      spravka: true
     - id: '6468'
       num: '94'
       name: ДУНАЕВСКИЙ Иван Михайлович
@@ -801,6 +831,7 @@ pages:
       name: ЛЮБЕЗНОВ Григорий Дмитриевич
       rowinpage: '18'
       primzv: Воен.инженер 3 ранга
+      spravka: true
     - id: '6491'
       num: '117'
       name: МАЙОР Ян Янович
@@ -888,6 +919,7 @@ pages:
       name: ОРЕХОВ Василий Петрович
       rowinpage: '2'
       primzv: Интендант 3 ранга
+      spravka: true
     - id: '6505'
       num: '131'
       name: ОРЛОВ Наум Осипович
@@ -959,6 +991,7 @@ pages:
       name: ПУРЕЛИС Ян Карлович
       rowinpage: '15'
       primzv: Майор
+      spravka: true
     - id: '6518'
       num: '144'
       name: РАЙЗ Исаак Григорьевич
@@ -1009,6 +1042,7 @@ pages:
       name: СЕМЕНОВ Ефрем Яковлевич
       rowinpage: '24'
       primzv: Майор
+      spravka: true
     - id: '6527'
       num: '153'
       name: СЕМЕНОВ Михаил Семенович
@@ -1020,6 +1054,7 @@ pages:
       name: СЕРЕБРЯКОВ Евгений Георгиевич
       rowinpage: '26'
       primzv: Воен.ветврач 2 ранга
+      spravka: true
     - id: '6529'
       num: '155'
       name: СИДОРЕНКО Владимир Семенович
@@ -1043,11 +1078,13 @@ pages:
       name: СЫРОДЕЕВ Леонид Ефимович
       rowinpage: '1'
       primzv: Воен.инженер 2 ранга
+      spravka: true
     - id: '6532'
       num: '158'
       name: СКАЛЬБЕРГ Вилис Вильгельмович
       rowinpage: '2'
       primzv: Майор
+      spravka: true
     - id: '6533'
       num: '159'
       name: СМИРНОВ Николай Васильевич
@@ -1116,6 +1153,7 @@ pages:
       name: ШТАЙБ Лео-Феликс Иосифович
       rowinpage: '15'
       primzv: Старш.политрук
+      spravka: true
     - id: '6546'
       num: '172'
       name: ШУГАЛИЙ Михаил Васильевич
@@ -1452,6 +1490,7 @@ pages:
       num: '64'
       name: ВРОНСКИЙ-ФАЛЬКОВ Александр Александрович
       rowinpage: '20'
+      spravka: true
     - id: '6613'
       num: '65'
       name: ГИЗБРЕХТ Абрам Абрамович
@@ -1570,6 +1609,7 @@ pages:
       num: '86'
       name: ПИРОГОВ Даниил Петрович
       rowinpage: '20'
+      spravka: true
 - pageintom: '280'
   image: v02/17-171-410-280.jpg
   title: Винницкая область
@@ -1606,6 +1646,7 @@ pages:
       num: '92'
       name: ЮДИЦКИЙ Владимир Анисимович
       rowinpage: '6'
+      spravka: true
 - pageintom: '281'
   image: v02/17-171-410-281.jpg
   title: null
@@ -1620,6 +1661,7 @@ pages:
       num: '1'
       name: АНДРИЕЦ Митрофан Савельевич
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="right"><u>СОВЕРШЕННО СЕКРЕТНО.</u></p><p align="center"><u>СПИСОК</u><br
         />ОБВИНЯЕМЫХ ПО ВОЕННО-ТРОЦКИСТСКОЙ ОРГАНИЗАЦИИ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ<br
         />КОЛЛЕГИИ ВЕРХСУДА СССР</p><p align="right"><br /><u>ПО 2-й КАТЕГОРИИ </u></p><p
@@ -1629,6 +1671,7 @@ pages:
       name: НЕЗЛИН Липа Яковлевич
       rowinpage: '2'
       primzv: Полковой комиссар
+      spravka: true
   - sublid: '207'
     persons:
     - id: '6643'

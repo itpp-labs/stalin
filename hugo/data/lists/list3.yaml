@@ -473,6 +473,7 @@ pages:
       num: '7'
       name: ВЕРБЕР Герш Альтерович
       rowinpage: '7'
+      spravka: true
     - id: '41'
       num: '8'
       name: ВОЙТИНСКИЙ Наум Моисеевич
@@ -487,6 +488,7 @@ pages:
       num: '10'
       name: ГЕРМАН Шлема Моисеевич
       rowinpage: '10'
+      spravka: true
     - id: '44'
       num: '11'
       name: ГОРОХОВ Гершон Бенцианович
@@ -501,6 +503,7 @@ pages:
       num: '13'
       name: ЕКЕЛЬЧИК Яков Израилевич
       rowinpage: '13'
+      spravka: true
     - id: '47'
       num: '14'
       name: ЕРМОЛОВ Даниил Викторович
@@ -510,6 +513,7 @@ pages:
       num: '15'
       name: ЕФРОИМСКИЙ Ефим Семенович
       rowinpage: '15'
+      spravka: true
     - id: '49'
       num: '16'
       name: ЗАВОЛОКА Иван Дмитриевич
@@ -753,6 +757,7 @@ pages:
       num: '5'
       name: ГУРЕВИЧ Израиль Мануилович
       rowinpage: '10'
+      spravka: true
     - id: '95'
       num: '6'
       name: ЖУРЛИВЫЙ Николай Митрофанович
@@ -934,6 +939,7 @@ pages:
       num: '2'
       name: ВЕРНЕР Владимир Маркович
       rowinpage: '2'
+      spravka: true
     - id: '129'
       num: '3'
       name: ВОРОНКОВ Николай Игнатьевич
@@ -1157,6 +1163,7 @@ pages:
       name: НОВИКОВ Николай Константинович
       rowinpage: '18'
       doublesexists: true
+      spravka: true
     - id: '775'
       num: '19'
       name: ОРЕШНИКОВ Борис Вячеславович
@@ -1571,6 +1578,7 @@ pages:
       num: '64'
       name: ОСЕЦКИЙ Иосиф Николаевич
       rowinpage: '11'
+      spravka: true
     - id: '249'
       num: '65'
       name: ПЕРЕКАЛЬСКИЙ Матвей Прокофьевич
@@ -1662,6 +1670,7 @@ pages:
       num: '82'
       name: СУЛИМА Василий Григорьевич
       rowinpage: '2'
+      spravka: true
     - id: '267'
       num: '83'
       name: ТАТУЛОВ Георгий Александрович
@@ -1694,6 +1703,7 @@ pages:
       num: '89'
       name: ЦЕЛЬХЕРТ Михаил Николаевич
       rowinpage: '9'
+      spravka: true
     - id: '274'
       num: '90'
       name: ЧЕРНЫХ Василий Антонович
@@ -2091,7 +2101,6 @@ pages:
       name: ОЛЬХОВСКИЙ Николай Григорьевич
       rowinpage: '5'
       doublesexists: true
-      spravka: true
     - id: '552'
       num: '61'
       name: ПЕРРО Владислав Станиславович
@@ -2319,47 +2328,56 @@ pages:
       name: БАГДАСОРОВ Константин Исаевич
       rowinpage: '1'
       doublesexists: true
+      spravka: true
       subtitle1: <u>БАКУ</u>
     - id: '1754'
       num: '2'
       name: БАГИРОВ Халфали Мамед Багир оглы
       rowinpage: '2'
       doublesexists: true
+      spravka: true
     - id: '1755'
       num: '3'
       name: БАШЛАЕВ Николай Семенович
       rowinpage: '3'
       doublesexists: true
+      spravka: true
     - id: '1756'
       num: '4'
       name: БЕЛОКОНЕВ Владимир Дмитриевич
       rowinpage: '4'
       doublesexists: true
+      spravka: true
     - id: '1757'
       num: '5'
       name: БОРОВКОВ Яков Федорович
       rowinpage: '5'
       doublesexists: true
+      spravka: true
     - id: '1758'
       num: '6'
       name: БЫЧКОВ Борис Николаевич
       rowinpage: '6'
       doublesexists: true
+      spravka: true
     - id: '1759'
       num: '7'
       name: ВОЛКОВ Тимофей Степанович
       rowinpage: '7'
       doublesexists: true
+      spravka: true
     - id: '1760'
       num: '8'
       name: ВОРОБЬЕВ Александр Андреевич
       rowinpage: '8'
       doublesexists: true
+      spravka: true
     - id: '1761'
       num: '9'
       name: ВЫРУБОВА-УНГЕР Евдокия Петровна
       rowinpage: '9'
       doublesexists: true
+      spravka: true
     - id: '1762'
       num: '10'
       name: ГАЛОВ Иван Иванович
@@ -2371,46 +2389,55 @@ pages:
       name: ГАНДЮРИН Петр Николаевич
       rowinpage: '11'
       doublesexists: true
+      spravka: true
     - id: '1764'
       num: '12'
       name: ДЕМИН Василий Захарович
       rowinpage: '12'
       doublesexists: true
+      spravka: true
     - id: '1765'
       num: '13'
       name: ДОРОНОВ Клементий Илларионович
       rowinpage: '13'
       doublesexists: true
+      spravka: true
     - id: '1766'
       num: '14'
       name: ЕРОФЕЕВ Александр Георгиевич
       rowinpage: '14'
       doublesexists: true
+      spravka: true
     - id: '1767'
       num: '15'
       name: ЗЕЙЦ Догмара Христиановна
       rowinpage: '15'
       doublesexists: true
+      spravka: true
     - id: '1768'
       num: '16'
       name: КАНЕВСКИЙ Петр Самойлович
       rowinpage: '16'
       doublesexists: true
+      spravka: true
     - id: '1769'
       num: '17'
       name: КАЩЕЕВ Порфирий Степанович
       rowinpage: '17'
       doublesexists: true
+      spravka: true
     - id: '1770'
       num: '18'
       name: КОВАЛЕВ Петр Карпович
       rowinpage: '18'
       doublesexists: true
+      spravka: true
     - id: '1771'
       num: '19'
       name: КРЫЛОВ Трифон Владимирович
       rowinpage: '19'
       doublesexists: true
+      spravka: true
     - id: '1772'
       num: '20'
       name: КУЗЬМИН Федор Федорович
@@ -2426,31 +2453,37 @@ pages:
       name: ЛЕВАГИН Семен Федотович
       rowinpage: '22'
       doublesexists: true
+      spravka: true
     - id: '1775'
       num: '23'
       name: ЛЕУТКИН Даниил Яковлевич
       rowinpage: '23'
       doublesexists: true
+      spravka: true
     - id: '1776'
       num: '24'
       name: МАРУГИН Ксенофонт Иванович
       rowinpage: '24'
       doublesexists: true
+      spravka: true
     - id: '1777'
       num: '25'
       name: МОЛЕБНОВ Петр Яковлевич
       rowinpage: '25'
       doublesexists: true
+      spravka: true
     - id: '1778'
       num: '26'
       name: ОГАНЕЗОВ Артавазд Вартазарович
       rowinpage: '26'
       doublesexists: true
+      spravka: true
     - id: '1779'
       num: '27'
       name: ПАКИН Григорий Тимофеевич
       rowinpage: '27'
       doublesexists: true
+      spravka: true
 - pageintom: '25'
   image: v01/17-171-409-025.jpg
   title: Баку
@@ -2462,41 +2495,49 @@ pages:
       name: ПАРШИН Иван Павлович
       rowinpage: '1'
       doublesexists: true
+      spravka: true
     - id: '1781'
       num: '29'
       name: ПЛАТОНОВСКИЙ Иван Федорович
       rowinpage: '2'
       doublesexists: true
+      spravka: true
     - id: '1782'
       num: '30'
       name: РАТОВ Николай Архипович
       rowinpage: '3'
       doublesexists: true
+      spravka: true
     - id: '1783'
       num: '31'
       name: СЕМЕНИХИН Андрей Яковлевич
       rowinpage: '4'
       doublesexists: true
+      spravka: true
     - id: '1784'
       num: '32'
       name: СИМАЧЕВ Андрей Яковлевич
       rowinpage: '5'
       doublesexists: true
+      spravka: true
     - id: '1785'
       num: '33'
       name: СЕРГЕЕВ Григорий Михеевич
       rowinpage: '6'
       doublesexists: true
+      spravka: true
     - id: '1786'
       num: '34'
       name: СОКОВ Степан Иванович
       rowinpage: '7'
       doublesexists: true
+      spravka: true
     - id: '1787'
       num: '35'
       name: СТЕПАНОВ Аким Егорович
       rowinpage: '8'
       doublesexists: true
+      spravka: true
     - id: '1788'
       num: '36'
       name: ТОЛКАЧЕВ Александр Андреевич
@@ -2507,11 +2548,13 @@ pages:
       name: ЧАЙНИКОВ Василий Петрович
       rowinpage: '10'
       doublesexists: true
+      spravka: true
     - id: '1790'
       num: '38'
       name: ФЕДЧЕНКО Федор Никитович
       rowinpage: '11'
       doublesexists: true
+      spravka: true
     - id: '1791'
       num: '39'
       name: ЧЕРНИКОВ Григорий Иванович
@@ -2692,6 +2735,7 @@ pages:
       name: РЕПИН Василий Алексеевич
       rowinpage: '9'
       doublesexists: true
+      spravka: true
     - id: '4276'
       num: '10'
       name: СВЕШНИКОВ Павел Петрович

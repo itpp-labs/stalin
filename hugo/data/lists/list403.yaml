@@ -602,6 +602,7 @@ pages:
       num: '3'
       name: НЕУСТРУЕВ Борис Николаевич
       rowinpage: '3'
+      spravka: true
     - id: '42959'
       num: '4'
       name: САФРОНЧИК Илья Саломонович
@@ -638,6 +639,7 @@ pages:
       num: '11'
       name: ЧЛЕНОВ Филипп Эмануилович
       rowinpage: '11'
+      spravka: true
     - id: '42967'
       num: '12'
       name: ЩЕРБАКОВ Иван Ефремович
@@ -652,20 +654,24 @@ pages:
       num: '1'
       name: АЛЕКПЕРОВ Курбан Али Садыхович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>АЗЕРБАЙДЖАНСКАЯ С.С.Р. </u></p><p align="right"><u>1-я
         КАТЕГОРИЯ</u>
     - id: '42969'
       num: '2'
       name: АЛИ МУРАДБЕЙЛИ ДЖАМИЛЬ ДЖУМШУД ОГЛЫ
       rowinpage: '2'
+      spravka: true
     - id: '42970'
       num: '3'
       name: АЛИЕВ БАБА БАБА ОГЛЫ
       rowinpage: '3'
+      spravka: true
     - id: '42971'
       num: '4'
       name: АЛИЕВ ДЖЕБРАИЛ ГУСЕЙН КУЛИ ОГЛЫ
       rowinpage: '4'
+      spravka: true
     - id: '42972'
       num: '5'
       name: АЛИЕВ ИСКЕНДЕР АЛИ ОГЛЫ
@@ -675,18 +681,22 @@ pages:
       num: '6'
       name: АМИРОВ ГАЙК ШАМИРОВИЧ
       rowinpage: '6'
+      spravka: true
     - id: '42974'
       num: '7'
       name: АНДРИЕВСКИЙ Иван Федорович
       rowinpage: '7'
+      spravka: true
     - id: '42975'
       num: '8'
       name: АСАДУЛЛАЕВ ИБРАГИМ МУХТАР ОГЛЫ
       rowinpage: '8'
+      spravka: true
     - id: '42976'
       num: '9'
       name: АСЛАНОВ Теймур Захарович
       rowinpage: '9'
+      spravka: true
     - id: '42977'
       num: '10'
       name: БАБАЯН Асатур Андреевич
@@ -696,22 +706,27 @@ pages:
       num: '11'
       name: БАГДАСАРОВ Яков Авакович
       rowinpage: '11'
+      spravka: true
     - id: '42979'
       num: '12'
       name: БАГИРОВ БАЛАБЕК АГА ОГЛЫ
       rowinpage: '12'
+      spravka: true
     - id: '42980'
       num: '13'
       name: БАЙРАМОВ Азад Байрамович
       rowinpage: '13'
+      spravka: true
     - id: '42981'
       num: '14'
       name: БЕКЛЕ Павел Яковлевич
       rowinpage: '14'
+      spravka: true
     - id: '42982'
       num: '15'
       name: ВАЛУЕВ Федор Исаевич
       rowinpage: '15'
+      spravka: true
     - id: '42983'
       num: '16'
       name: ВАСИЛЬКИН-БЕКДЕМИРОВ Галей Хейруллович
@@ -722,22 +737,27 @@ pages:
       name: ВЕЛИБЕКОВ БАГАТУР КАСУМ ОГЛЫ
       rowinpage: '17'
       doublesexists: true
+      spravka: true
     - id: '42985'
       num: '18'
       name: ВЕЛИЕВ ДЖЕБРАИЛ ДЖАВАД ОГЛЫ
       rowinpage: '18'
+      spravka: true
     - id: '42986'
       num: '19'
       name: ВИТОВСКИЙ Михаил Калистратович
       rowinpage: '19'
+      spravka: true
     - id: '42987'
       num: '20'
       name: ВОРОНКИН Виктор Михайлович
       rowinpage: '20'
+      spravka: true
     - id: '42988'
       num: '21'
       name: ГАДЖИЕВ Зейнал Акперович
       rowinpage: '21'
+      spravka: true
 - pageintom: '174'
   image: v11/17-171-419-174.jpg
   title: Азербайджанская ССР
@@ -748,6 +768,7 @@ pages:
       num: '22'
       name: ГЕРМАН Павел Дмитриевич
       rowinpage: '1'
+      spravka: true
     - id: '42990'
       num: '23'
       name: ДЕРКАЧ Николай Максимович
@@ -757,18 +778,22 @@ pages:
       num: '24'
       name: ДЖАНГИРОВ Исрафил Мустафаевич
       rowinpage: '3'
+      spravka: true
     - id: '42992'
       num: '25'
       name: ЕГИАЗАРОВ Гайказ Саркисович
       rowinpage: '4'
+      spravka: true
     - id: '42993'
       num: '26'
       name: ЕГОРОВ Трофим Иванович
       rowinpage: '5'
+      spravka: true
     - id: '42994'
       num: '27'
       name: ЗЕНИН Федор Прокофьевич
       rowinpage: '6'
+      spravka: true
     - id: '42995'
       num: '28'
       name: ИЛЬДРЫМ ЧИНГИЗ
@@ -778,14 +803,17 @@ pages:
       num: '29'
       name: КАЛИНЧЕВ Сергей Алексеевич
       rowinpage: '8'
+      spravka: true
     - id: '42997'
       num: '30'
       name: КАУФМАН Роберт Ансович
       rowinpage: '9'
+      spravka: true
     - id: '42998'
       num: '31'
       name: КИРШБАУМ Исай Иосифович
       rowinpage: '10'
+      spravka: true
     - id: '42999'
       num: '32'
       name: КОКОРЕВ Павел Васильевич
@@ -795,10 +823,12 @@ pages:
       num: '33'
       name: КОКОРИН Михаил Дмитриевич
       rowinpage: '12'
+      spravka: true
     - id: '43001'
       num: '34'
       name: КОРОЛЕВ Георгий Логинович
       rowinpage: '13'
+      spravka: true
     - id: '43002'
       num: '35'
       name: КОСТРЮКОВ Василий Иванович
@@ -808,50 +838,62 @@ pages:
       num: '36'
       name: КРОЛЬ Сергей Георгиевич
       rowinpage: '15'
+      spravka: true
     - id: '43004'
       num: '37'
       name: КРЫЖАНОВСКИЙ Николай Демьянович
       rowinpage: '16'
+      spravka: true
     - id: '43005'
       num: '38'
       name: КРЫЛОВ Василий Сергеевич
       rowinpage: '17'
+      spravka: true
     - id: '43006'
       num: '39'
       name: КУРИЛОВ Александр Никитич
       rowinpage: '18'
+      spravka: true
     - id: '43007'
       num: '40'
       name: КУРНИКОВ Виктор Иванович
       rowinpage: '19'
+      spravka: true
     - id: '43008'
       num: '41'
       name: ЛЕБЕДЕВ Владимир Александрович
       rowinpage: '20'
+      spravka: true
     - id: '43009'
       num: '42'
       name: ЛУКОЯНОВ Федор Иванович
       rowinpage: '21'
+      spravka: true
     - id: '43010'
       num: '43'
       name: МАКЕЕВ Александр Александрович
       rowinpage: '22'
+      spravka: true
     - id: '43011'
       num: '44'
       name: МАЛЕВИЧ Степан Михайлович
       rowinpage: '23'
+      spravka: true
     - id: '43012'
       num: '45'
       name: МАМЕДОВ АБУЛЬФАТ ГЕЙДАР ОГЛЫ
       rowinpage: '24'
+      spravka: true
     - id: '43013'
       num: '46'
       name: МЕЛКОНЯН Арам Осипович
       rowinpage: '25'
+      spravka: true
     - id: '43014'
       num: '47'
       name: МНАЦАКАНОВ Аванес Богдасарович
       rowinpage: '26'
+      spravka: true
 - pageintom: '175'
   image: v11/17-171-419-175.jpg
   title: Азербайджанская ССР
@@ -862,50 +904,62 @@ pages:
       num: '48'
       name: МУРАВЬЕВ Петр Николаевич
       rowinpage: '1'
+      spravka: true
     - id: '43016'
       num: '49'
       name: МУРАКОВ Андрей Александрович
       rowinpage: '2'
+      spravka: true
     - id: '43017'
       num: '50'
       name: МУСАЕВ Гусейн Мамед Оглы
       rowinpage: '3'
+      spravka: true
     - id: '43018'
       num: '51'
       name: МУХИН Григорий Иванович
       rowinpage: '4'
+      spravka: true
     - id: '43019'
       num: '52'
       name: НИКОВ Алексей Пантелеевич
       rowinpage: '5'
+      spravka: true
     - id: '43020'
       num: '53'
       name: ОВЧАРЕНКО Дмитрий Яковлевич
       rowinpage: '6'
+      spravka: true
     - id: '43021'
       num: '54'
       name: ПАШИН Михаил Дмитриевич
       rowinpage: '7'
+      spravka: true
     - id: '43022'
       num: '55'
       name: ПАШИН Николай Дмитриевич
       rowinpage: '8'
+      spravka: true
     - id: '43023'
       num: '56'
       name: ПЕРВУШИН Павел Васильевич
       rowinpage: '9'
+      spravka: true
     - id: '43024'
       num: '57'
       name: РАКЛОВ Петр Петрович
       rowinpage: '10'
+      spravka: true
     - id: '43025'
       num: '58'
       name: РАСКАТОВ Матвей Иванович
       rowinpage: '11'
+      spravka: true
     - id: '43026'
       num: '59'
       name: РАСУЛОВ ЛЯТИФ ЯХЬЯЕВИЧ
       rowinpage: '12'
+      spravka: true
     - id: '43027'
       num: '60'
       name: РАХМАНОВ Гасан Паша Оглы
@@ -915,6 +969,7 @@ pages:
       num: '61'
       name: РИЗВАН ХАСАН ИНИЯТОВИЧ
       rowinpage: '14'
+      spravka: true
     - id: '43029'
       num: '62'
       name: САВЕЛЬЕВ Андрей Филиппович
@@ -923,22 +978,27 @@ pages:
       num: '63'
       name: СЕЙРАНОВ Ашот Гаврилович
       rowinpage: '16'
+      spravka: true
     - id: '43031'
       num: '64'
       name: СЕЛИВЕРСТОВ Андрей Алексеевич
       rowinpage: '17'
+      spravka: true
     - id: '43032'
       num: '65'
       name: СИДОРЧУК Иван Юлианович
       rowinpage: '18'
+      spravka: true
     - id: '43033'
       num: '66'
       name: СИЛЬЧЕНКО Василий Николаевич
       rowinpage: '19'
+      spravka: true
     - id: '43034'
       num: '67'
       name: СУЛЕЙМАНОВ ФИРУЗ АЛЕСКЕР ОГЛЫ
       rowinpage: '20'
+      spravka: true
     - id: '43035'
       num: '68'
       name: ТАГИЕВ Зейнал Садыхович
@@ -948,22 +1008,27 @@ pages:
       num: '69'
       name: ТОРГАШЕВ Михаил Семенович
       rowinpage: '22'
+      spravka: true
     - id: '43037'
       num: '70'
       name: ТРЕГУБОВ Алексей Федорович
       rowinpage: '23'
+      spravka: true
     - id: '43038'
       num: '71'
       name: УСЕЙНОВ АГА БАЛА ГУЛИ ОГЛЫ
       rowinpage: '24'
+      spravka: true
     - id: '43039'
       num: '72'
       name: ФАТАЛИЕВ МАМЕД ВЕЛИ ОГЛЫ
       rowinpage: '25'
+      spravka: true
     - id: '43040'
       num: '73'
       name: ФЕРШТАНДТ Евгений Михайлович
       rowinpage: '26'
+      spravka: true
 - pageintom: '176'
   image: v11/17-171-419-176.jpg
   title: Азербайджанская ССР
@@ -974,14 +1039,17 @@ pages:
       num: '74'
       name: ХАНЛАРОВ Исмаил Беглярович
       rowinpage: '1'
+      spravka: true
     - id: '43042'
       num: '75'
       name: ХИТРОВ Евгений Семенович
       rowinpage: '2'
+      spravka: true
     - id: '43043'
       num: '76'
       name: ШАФИЕВ Ага Бала Мирза Оглы
       rowinpage: '3'
+      spravka: true
     - id: '43044'
       num: '77'
       name: ШАХБАЗОВ АЛЕСКЕР АББАС ОГЛЫ
@@ -991,14 +1059,17 @@ pages:
       num: '78'
       name: ШЕНФЕЛЬД Карл Янович
       rowinpage: '5'
+      spravka: true
     - id: '43046'
       num: '79'
       name: ШУЛЬМАН Абрам Оскарович
       rowinpage: '6'
+      spravka: true
     - id: '43047'
       num: '80'
       name: ЭЛЬБАУМ Иосиф Моисеевич
       rowinpage: '7'
+      spravka: true
 - pageintom: '177'
   image: v11/17-171-419-177.jpg
   title: null
@@ -1009,64 +1080,79 @@ pages:
       num: '1'
       name: АВАНОВ Роман Сумбатович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>АЗЕРБАЙДЖАНСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '43049'
       num: '2'
       name: АГАЯН Аршавир Гарягинович
       rowinpage: '2'
+      spravka: true
     - id: '43050'
       num: '3'
       name: АКОПОВ Акоп Александрович
       rowinpage: '3'
+      spravka: true
     - id: '43051'
       num: '4'
       name: АРТИЩЕВ Алексей Петрович
       rowinpage: '4'
+      spravka: true
     - id: '43052'
       num: '5'
       name: АСАДУЛЛАЕВ Ядулла Сейфула оглы
       rowinpage: '5'
+      spravka: true
     - id: '43053'
       num: '6'
       name: БРОВКИН Александр Матвеевич
       rowinpage: '6'
+      spravka: true
     - id: '43054'
       num: '7'
       name: ВАСЯЕВ Петр Сергеевич
       rowinpage: '7'
+      spravka: true
     - id: '43055'
       num: '8'
       name: ГОТЛИБ Израил Наумович
       rowinpage: '8'
+      spravka: true
     - id: '43056'
       num: '9'
       name: ГРЕЧКО Петр Леонтьевич
       rowinpage: '9'
+      spravka: true
     - id: '43057'
       num: '10'
       name: ДЕГТЯРЕВ Павел Иванович
       rowinpage: '10'
+      spravka: true
     - id: '43058'
       num: '11'
       name: ДРОЗДОВСКИЙ Георгий Брониславович
       rowinpage: '11'
+      spravka: true
     - id: '43059'
       num: '12'
       name: ДРУЖИНИН Семен Васильевич
       rowinpage: '12'
+      spravka: true
     - id: '43060'
       num: '13'
       name: КАТУШКИН Яков Иванович
       rowinpage: '13'
+      spravka: true
     - id: '43061'
       num: '14'
       name: КЛИГЕР Анатолий Лазаревич
       rowinpage: '14'
+      spravka: true
     - id: '43062'
       num: '15'
       name: КОРНИЛОВ Евгений Степанович
       rowinpage: '15'
+      spravka: true
     - id: '43063'
       num: '16'
       name: КОРОЛЕВ Михаил Семенович
@@ -1081,10 +1167,12 @@ pages:
       num: '18'
       name: КУЛИШ Иван Васильевич
       rowinpage: '18'
+      spravka: true
     - id: '43066'
       num: '19'
       name: МАКСИМЧЕНКО Анатолий Прокофьевич
       rowinpage: '19'
+      spravka: true
 - pageintom: '178'
   image: v11/17-171-419-178.jpg
   title: Азербайджанская ССР
@@ -1095,78 +1183,97 @@ pages:
       num: '20'
       name: МАМЕДОВ Мухтар Мамедович
       rowinpage: '1'
+      spravka: true
     - id: '43068'
       num: '21'
       name: НЕСТЕРОВ-МИТРОШИН Владимир Иванович
       rowinpage: '2'
+      spravka: true
     - id: '43069'
       num: '22'
       name: ОДИНЦОВ Александр Дмитриевич
       rowinpage: '3'
+      spravka: true
     - id: '43070'
       num: '23'
       name: ОМАРОВ ДЖЕМАЛ ЛЮТФИ ОГЛЫ
       rowinpage: '4'
+      spravka: true
     - id: '43071'
       num: '24'
       name: ОРЕШИН Иван Данилович
       rowinpage: '5'
+      spravka: true
     - id: '43072'
       num: '25'
       name: ПАШКОВ Михаил Петрович
       rowinpage: '6'
+      spravka: true
     - id: '43073'
       num: '26'
       name: ПИЛЬЩИК Липа Лазаревич
       rowinpage: '7'
+      spravka: true
     - id: '43074'
       num: '27'
       name: ПОГОСОВ Ерванд Гевандович
       rowinpage: '8'
+      spravka: true
     - id: '43075'
       num: '28'
       name: РЕЙН Вениамин Андреевич
       rowinpage: '9'
+      spravka: true
     - id: '43076'
       num: '29'
       name: СЕВЕРОВ Виктор Евгеньевич
       rowinpage: '10'
+      spravka: true
     - id: '43077'
       num: '30'
       name: СИМОНОВ Зяма Григорьевич
       rowinpage: '11'
+      spravka: true
     - id: '43078'
       num: '31'
       name: СТАВОНИН Петр Григорьевич
       rowinpage: '12'
+      spravka: true
     - id: '43079'
       num: '32'
       name: СУНДУШНИКОВ Павел Галустович
       rowinpage: '13'
+      spravka: true
     - id: '43080'
       num: '33'
       name: СУСЛОВ Александр Николаевич
       rowinpage: '14'
+      spravka: true
     - id: '43081'
       num: '34'
       name: ХАЕРДИНОВ Шайжан Хаердинович
       rowinpage: '15'
+      spravka: true
     - id: '43082'
       num: '35'
       name: ЧИХАЧЕВ Герасим Никифорович
       rowinpage: '16'
+      spravka: true
     - id: '43083'
       num: '36'
       name: ЧУРИЕВ ШАЛБУЗ ТЕИБ ОГЛЫ
       rowinpage: '17'
+      spravka: true
     - id: '43084'
       num: '37'
       name: ШЕСТЕРЯКОВ Василий Николаевич
       rowinpage: '18'
+      spravka: true
     - id: '43085'
       num: '38'
       name: ЯКОВЛЕВ Иван Ильич
       rowinpage: '19'
+      spravka: true
 - pageintom: '179'
   image: v11/17-171-419-179.jpg
   title: null
@@ -1282,6 +1389,7 @@ pages:
       num: '6'
       name: КОПИЛОВ Петр Григорьевич
       rowinpage: '6'
+      spravka: true
     - id: '43107'
       num: '7'
       name: КРЫМСКИЙ Василий Михайлович
@@ -1323,6 +1431,7 @@ pages:
       num: '15'
       name: ТРОИЦКИЙ Петр Павлович
       rowinpage: '15'
+      spravka: true
     - id: '43116'
       num: '16'
       name: ШАХОВ Клавдий Всеволодович
@@ -1388,6 +1497,7 @@ pages:
       num: '2'
       name: БРАГИНСКИЙ Борис Григорьевич
       rowinpage: '2'
+      spravka: true
     - id: '43126'
       num: '3'
       name: ГЕПЛЕР Авраам Ильич
@@ -1412,6 +1522,7 @@ pages:
       num: '7'
       name: КИШ-РАПОПОРТ Белла Францевич
       rowinpage: '7'
+      spravka: true
     - id: '43131'
       num: '8'
       name: ЛАПСА Мария Ивановна
@@ -1492,14 +1603,17 @@ pages:
       num: '22'
       name: БОЙКО Василий Иванович
       rowinpage: '3'
+      spravka: true
     - id: '43146'
       num: '23'
       name: БОЙКО Георгий Александрович
       rowinpage: '4'
+      spravka: true
     - id: '43147'
       num: '24'
       name: БУРКОВ Степан Иванович
       rowinpage: '5'
+      spravka: true
     - id: '43148'
       num: '25'
       name: БУТЫРСКИЙ Василий Петрович
@@ -1529,6 +1643,7 @@ pages:
       num: '30'
       name: ДЮКОВ Василий Афанасьевич
       rowinpage: '11'
+      spravka: true
     - id: '43154'
       num: '31'
       name: ЗАЙЦЕВ Петр Аристархович
@@ -1547,6 +1662,7 @@ pages:
       num: '34'
       name: КРАЕВОЙ-ТЮТКАЛО Петр Григорьевич
       rowinpage: '15'
+      spravka: true
     - id: '43158'
       num: '35'
       name: КРАСНОВ Александр Иванович
@@ -1556,10 +1672,12 @@ pages:
       num: '36'
       name: КУКСИНСКИЙ Ростислав Андреевич
       rowinpage: '17'
+      spravka: true
     - id: '43160'
       num: '37'
       name: ЛИСЕЦКИЙ Борис Петрович
       rowinpage: '18'
+      spravka: true
     - id: '43161'
       num: '38'
       name: ЛОГИНОВ Тимофей Андреевич
@@ -1584,10 +1702,12 @@ pages:
       num: '42'
       name: НУЖДИН Николай Сергеевич
       rowinpage: '23'
+      spravka: true
     - id: '43166'
       num: '43'
       name: ОВЧАРЕНКО Ефрем Саввич
       rowinpage: '24'
+      spravka: true
     - id: '43167'
       num: '44'
       name: ПЕРФИЛЬЕВ Евгений Леонидович
@@ -1652,6 +1772,7 @@ pages:
       num: '55'
       name: БУЦКИВСКИЙ Трофим Тимофеевич
       rowinpage: '10'
+      spravka: true
     - id: '43179'
       num: '56'
       name: ВОЛОЧАЙ Константин Васильевич
@@ -1794,6 +1915,7 @@ pages:
       num: '82'
       name: ЛУГОВСКИЙ Александр Максимович
       rowinpage: '11'
+      spravka: true
     - id: '43206'
       num: '83'
       name: БЕЛОУСОВ Николай Иванович
@@ -1804,6 +1926,7 @@ pages:
       num: '84'
       name: КРУПНОВ Леонид Иванович
       rowinpage: '13'
+      spravka: true
     - id: '43208'
       num: '85'
       name: КОРШУНОВ Василий Леонтьевич
@@ -1823,6 +1946,7 @@ pages:
       num: '88'
       name: СУЛАКОВ Константин Дмитриевич
       rowinpage: '17'
+      spravka: true
     - id: '43212'
       num: '89'
       name: ШАГУН Никита Иванович
@@ -1837,12 +1961,14 @@ pages:
       num: '1'
       name: НАСЕЛЬСКАЯ Нина Трофимовна
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>УКРАИНСКАЯ С.С.Р. </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ. </u></p><p align="center"><u> Киев - центр.</u>
     - id: '43214'
       num: '2'
       name: ВОРОЖБИТ-ПРЕОБРАЖЕНСКИЙ Александр Алексеевич
       rowinpage: '2'
+      spravka: true
       subtitle1: <p align="center"><u>Киевская область.</u>
     - id: '43215'
       num: '3'
@@ -1853,10 +1979,12 @@ pages:
       num: '4'
       name: МОРДЕРЕР Яков Иосифович
       rowinpage: '4'
+      spravka: true
     - id: '43217'
       num: '5'
       name: ШАЛЬКО Михаил Антонович
       rowinpage: '5'
+      spravka: true
     - id: '43218'
       num: '6'
       name: КАРПАЛЬСКИЙ Луциан Францевич
@@ -1957,6 +2085,7 @@ pages:
       num: '1'
       name: АНТОНОВ Сергей Васильевич
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>Гор.ГОМЕЛЬ. - БЕЛОРУССКАЯ ж.д.</u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '43238'
@@ -1967,6 +2096,7 @@ pages:
       num: '3'
       name: ЗАЙЦЕВ Василий Васильевич
       rowinpage: '3'
+      spravka: true
     - id: '43240'
       num: '4'
       name: КАРЧИК Леонид Антонович
@@ -2262,6 +2392,7 @@ pages:
       num: '3'
       name: ВВЕДЕНСКИЙ Николай Ефимович
       rowinpage: '3'
+      spravka: true
     - id: '43295'
       num: '4'
       name: ГОЛОД Наум Павлович
@@ -2328,6 +2459,7 @@ pages:
       num: '7'
       name: ГРИНКЕВИЧ Борис Федорович
       rowinpage: '7'
+      spravka: true
     - id: '43308'
       num: '8'
       name: ИЛЬИН-БРОЙТМАН Илья Мойсеевич
@@ -2341,6 +2473,7 @@ pages:
       num: '10'
       name: ОВЧИННИКОВ Николай Владимирович
       rowinpage: '10'
+      spravka: true
 - pageintom: '195'
   image: v11/17-171-419-195.jpg
   title: null
@@ -2435,6 +2568,7 @@ pages:
       num: '4'
       name: ЗЕЛЬКИН Сергей Петрович
       rowinpage: '4'
+      spravka: true
     - id: '43328'
       num: '5'
       name: КАПУСТКИН Владимир Иванович
@@ -2489,10 +2623,12 @@ pages:
       num: '5'
       name: ЕКИМОВ Владимир Спиридонович
       rowinpage: '5'
+      spravka: true
     - id: '43338'
       num: '6'
       name: ИВЧЕНКО Леонтий Степанович
       rowinpage: '6'
+      spravka: true
     - id: '43339'
       num: '7'
       name: КОМАРОВ Василий Александрович
@@ -2502,6 +2638,7 @@ pages:
       num: '8'
       name: КРАСНОРУЦКИЙ Кондрат Григорий
       rowinpage: '8'
+      spravka: true
     - id: '43341'
       num: '9'
       name: КРУПЧАНСКИЙ Федор Федорович
@@ -2516,6 +2653,7 @@ pages:
       num: '11'
       name: ЛЕВЕНЕЦ Андрей Афанасьевич
       rowinpage: '11'
+      spravka: true
     - id: '43344'
       num: '12'
       name: ЛЕРМАН Давид Лазаревич
@@ -2544,6 +2682,7 @@ pages:
       num: '17'
       name: СТАРЧЕНКО Никита Филиппович
       rowinpage: '17'
+      spravka: true
     - id: '43350'
       num: '18'
       name: ШАМРАЙ Сергей Михайлович
@@ -2574,6 +2713,7 @@ pages:
       num: '2'
       name: КЛЕМЕШЕВ Роман Алексеевич
       rowinpage: '2'
+      spravka: true
     - id: '43355'
       num: '3'
       name: ЛОБАНОВ Александр Ильич
@@ -2583,6 +2723,7 @@ pages:
       num: '4'
       name: РАБИНОВ Мендель Борисович
       rowinpage: '4'
+      spravka: true
     - id: '43357'
       num: '5'
       name: СТРЕЛЕЦ Александр Иванович
@@ -2592,6 +2733,7 @@ pages:
       num: '6'
       name: ШМИГОЛЬ Иван Федотович
       rowinpage: '6'
+      spravka: true
     - id: '43359'
       num: '7'
       name: ЯКУБОВСКИЙ Николай Матвеевич

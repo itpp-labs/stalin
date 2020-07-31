@@ -86,6 +86,7 @@ pages:
       num: '3'
       name: ЖДАНОВ Иосиф Михайлович
       rowinpage: '3'
+      spravka: true
     - id: '10437'
       num: '4'
       name: ЗАВГОРОДНЕВ Николай Маркович
@@ -94,6 +95,7 @@ pages:
       num: '5'
       name: ЕРЕМИН Иван Иванович
       rowinpage: '5'
+      spravka: true
     - id: '10439'
       num: '6'
       name: КИСЕЛЕВ Владимир Иванович
@@ -112,6 +114,7 @@ pages:
       num: '9'
       name: КУЗНЕЦОВ Федор Иванович
       rowinpage: '9'
+      spravka: true
     - id: '10443'
       num: '10'
       name: КУЗЬМИН Николай Николаевич
@@ -135,6 +138,7 @@ pages:
       num: '14'
       name: МЕЛЬНИЧЕНКО Константин Михайлович
       rowinpage: '14'
+      spravka: true
     - id: '10448'
       num: '15'
       name: МУХАМЕДЗЯНОВ Ильдерхан Ахметович
@@ -148,6 +152,7 @@ pages:
       num: '17'
       name: НАЗАРОВ Ростислав Николаевич
       rowinpage: '17'
+      spravka: true
     - id: '10451'
       num: '18'
       name: ОКОЛО-КУЛАК Степан Иванович
@@ -162,6 +167,7 @@ pages:
       num: '20'
       name: ПЬЯНКОВ Ефим Павлович
       rowinpage: '20'
+      spravka: true
     - id: '10454'
       num: '21'
       name: САВЕЛЬЕВ Иван Михайлович
@@ -170,6 +176,7 @@ pages:
       num: '22'
       name: СЕЛИВАНОВ Владимир Семенович
       rowinpage: '22'
+      spravka: true
 - pageintom: '4'
   image: v04/17-171-412-004.jpg
   title: Новосибирская область
@@ -185,10 +192,12 @@ pages:
       num: '24'
       name: ХОДОРСКИЙ Илья Исаакович
       rowinpage: '2'
+      spravka: true
     - id: '10458'
       num: '25'
       name: ЧЕРНОВИЧ Лазарь Борисович
       rowinpage: '3'
+      spravka: true
 - pageintom: '5'
   image: v04/17-171-412-005.jpg
   title: null
@@ -200,6 +209,7 @@ pages:
       name: КОЧЕТКОВ Матвей Игнатьевич
       rowinpage: '1'
       doublesexists: true
+      spravka: true
       subtitle1: <p align="center"><u>НОВОСИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         категория</u>
     - id: '10460'

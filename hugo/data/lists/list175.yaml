@@ -46,6 +46,7 @@ pages:
       num: '1'
       name: АБЫШЕВ Роман Александрович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>Гор.ЧИТА - ЗАБАЙКАЛЬСКИЙ ВОЕННЫЙ ОКРУГ </u></p><p
         align="right"><u>1-я КАТЕГОРИЯ.</u>
     - id: '35145'
@@ -71,6 +72,7 @@ pages:
       num: '6'
       name: АНТОХИН Андрей Филиппович
       rowinpage: '6'
+      spravka: true
     - id: '35150'
       num: '7'
       name: АРТЕМЬЕВ Александр Иванович
@@ -90,6 +92,7 @@ pages:
       num: '10'
       name: БАРАНОВСКИЙ Петр Михайлович
       rowinpage: '10'
+      spravka: true
     - id: '35154'
       num: '11'
       name: БАТУЕВ Дарно Батуевич, он же <br />ГОБОЛЬ Дарно Фушинович
@@ -99,6 +102,7 @@ pages:
       num: '12'
       name: БЕЛОУСОВ Иван Семенович
       rowinpage: '12'
+      spravka: true
     - id: '35156'
       num: '13'
       name: БЕЛЬТЮКОВ Константин Алексеевич
@@ -118,6 +122,7 @@ pages:
       num: '16'
       name: БОРОЗДИН Павел Алексеевич
       rowinpage: '16'
+      spravka: true
     - id: '35160'
       num: '17'
       name: БУГАЕВ Яков Кондратьевич
@@ -163,6 +168,7 @@ pages:
       num: '24'
       name: ГАЛЛЕР Альфред Петрович
       rowinpage: '4'
+      spravka: true
     - id: '35168'
       num: '25'
       name: ГАПИОНОК Николай Андреевич
@@ -182,6 +188,7 @@ pages:
       num: '28'
       name: ГОМАНОВ Даниил Кузьмич
       rowinpage: '8'
+      spravka: true
     - id: '35172'
       num: '29'
       name: ГОРСКИЙ Мирчо Георгиевич
@@ -211,6 +218,7 @@ pages:
       num: '34'
       name: ДРОЗДОВ Николай Никитич
       rowinpage: '14'
+      spravka: true
     - id: '35178'
       num: '35'
       name: ДРУЖИНИН Михаил Васильевич
@@ -280,6 +288,7 @@ pages:
       num: '48'
       name: КАЗАК Анатолий Михайлович
       rowinpage: '28'
+      spravka: true
     - id: '35192'
       num: '49'
       name: КАРКЛИН Иван Иванович
@@ -313,6 +322,7 @@ pages:
       num: '54'
       name: КОЧНЕВ Иван Лукьянович
       rowinpage: '5'
+      spravka: true
     - id: '35198'
       num: '55'
       name: КРАСНОДОН Григорий Яковлевич
@@ -342,6 +352,7 @@ pages:
       num: '60'
       name: КУЗНЕЦОВ Николай Иванович
       rowinpage: '11'
+      spravka: true
     - id: '35204'
       num: '61'
       name: КУЛИКОВ Михаил Иванович
@@ -361,10 +372,12 @@ pages:
       num: '64'
       name: ЛАЙМОЕВ Анатолий Яковлевич
       rowinpage: '15'
+      spravka: true
     - id: '35208'
       num: '65'
       name: ЛАРИОНОВ Петр Иванович
       rowinpage: '16'
+      spravka: true
     - id: '35209'
       num: '66'
       name: ЛЕБЕДЕВ Анатолий Сергеевич
@@ -374,10 +387,12 @@ pages:
       num: '67'
       name: ЛОГИНОВ Василий Иванович
       rowinpage: '18'
+      spravka: true
     - id: '35211'
       num: '68'
       name: ЛОСОВ Логин Мондохонович
       rowinpage: '19'
+      spravka: true
     - id: '35212'
       num: '69'
       name: ЛЫКОВ Петр Ильич
@@ -462,6 +477,7 @@ pages:
       num: '84'
       name: ОРЕХОВ Евгений Вячеславович
       rowinpage: '5'
+      spravka: true
     - id: '35228'
       num: '85'
       name: ПАВЛОВ Михаил Гаврилович
@@ -476,6 +492,7 @@ pages:
       num: '87'
       name: ПЕТУХОВ Николай Петрович
       rowinpage: '8'
+      spravka: true
     - id: '35231'
       num: '88'
       name: ПОРТНОВ Степан Иванович
@@ -485,6 +502,7 @@ pages:
       num: '89'
       name: ПРОФФЕН Георгий Георгиевич
       rowinpage: '10'
+      spravka: true
     - id: '35233'
       num: '90'
       name: ПУРИНЬ Петр Петрович
@@ -524,6 +542,7 @@ pages:
       num: '97'
       name: РУБЦОВ Дмитрий Антонович
       rowinpage: '18'
+      spravka: true
     - id: '35241'
       num: '98'
       name: РУБЭН Юлиан Густавович
@@ -553,6 +572,7 @@ pages:
       num: '103'
       name: САНИН Василий Михайлович
       rowinpage: '24'
+      spravka: true
     - id: '35247'
       num: '104'
       name: СЕМЕНОВ Иван Семенович
@@ -566,14 +586,17 @@ pages:
       num: '106'
       name: СЕМИКОЛЕНОВ Михаил Ильич
       rowinpage: '27'
+      spravka: true
     - id: '35250'
       num: '107'
       name: СИЗЫХ Вадим Викторович
       rowinpage: '28'
+      spravka: true
     - id: '35251'
       num: '108'
       name: СИ-ТУН-ХАЙ
       rowinpage: '29'
+      spravka: true
 - pageintom: '143'
   image: v09/17-171-417-143.jpg
   title: Гор.Чита-Забайкальский Военный Округ
@@ -594,14 +617,17 @@ pages:
       num: '111'
       name: СТЕПАНОВ Олег Николаевич
       rowinpage: '3'
+      spravka: true
     - id: '35255'
       num: '112'
       name: СТУКАЛЕНКО Иван Иванович
       rowinpage: '4'
+      spravka: true
     - id: '35256'
       num: '113'
       name: СУБОЧ Владимир Григорьевич
       rowinpage: '5'
+      spravka: true
     - id: '35257'
       num: '114'
       name: СУСЛОВ Григорий Григорьевич
@@ -631,10 +657,12 @@ pages:
       num: '119'
       name: УКЛЕЙН Николай Михайлович
       rowinpage: '11'
+      spravka: true
     - id: '35263'
       num: '120'
       name: УСАНОВ Георгий Павлович
       rowinpage: '12'
+      spravka: true
     - id: '35264'
       num: '121'
       name: УСПЕНСКИЙ Николай Иванович
@@ -644,6 +672,7 @@ pages:
       num: '122'
       name: УТЕСОВ Владимир Карпович, он же ЛИ-ХУАН-ЧАН
       rowinpage: '14'
+      spravka: true
     - id: '35266'
       num: '123'
       name: ФАРКАШ Юлий Францевич
@@ -673,6 +702,7 @@ pages:
       num: '128'
       name: ЧИКИН Григорий Васильевич
       rowinpage: '20'
+      spravka: true
     - id: '35272'
       num: '129'
       name: ШАЛИМО Михаил Николаевич
@@ -682,6 +712,7 @@ pages:
       num: '130'
       name: ШЕЛУДЬКО Владимир Константинович
       rowinpage: '22'
+      spravka: true
     - id: '35274'
       num: '131'
       name: ШЕСТАКОВ Виктор Николаевич
@@ -705,6 +736,7 @@ pages:
       num: '135'
       name: ЩЕГЛОВ Александр Васильевич
       rowinpage: '27'
+      spravka: true
     - id: '35279'
       num: '136'
       name: ЩЕРБАК Николай Никитович
@@ -740,6 +772,7 @@ pages:
       num: '141'
       name: ЯКОВЛЕВ Петр Андреевич
       rowinpage: '5'
+      spravka: true
 - pageintom: '145'
   image: v09/17-171-417-145.jpg
   title: null
@@ -812,6 +845,7 @@ pages:
       num: '14'
       name: ЛАБЗИН Борис Филиппович
       rowinpage: '14'
+      spravka: true
     - id: '35299'
       num: '15'
       name: ЛОБАНОВ Василий Федорович
@@ -829,6 +863,7 @@ pages:
       num: '18'
       name: ПАВЛОВ Николай Федорович
       rowinpage: '18'
+      spravka: true
     - id: '35303'
       num: '19'
       name: ПЕВЗНЕР Залман-Янкель Аронович
@@ -838,6 +873,7 @@ pages:
       num: '20'
       name: ПОПОВ Митрофан Павлович
       rowinpage: '20'
+      spravka: true
 - pageintom: '146'
   image: v09/17-171-417-146.jpg
   title: Гор.Чита-Забайкальский Военный Округ
@@ -848,6 +884,7 @@ pages:
       num: '21'
       name: СТОРОЖЕНКО Евгений Михайлович
       rowinpage: '1'
+      spravka: true
     - id: '35306'
       num: '22'
       name: ТИТОВ Александр Тихонович
@@ -870,3 +907,4 @@ pages:
       num: '26'
       name: ЯНУШКЕВИЧ Константин Васильевич
       rowinpage: '6'
+      spravka: true
