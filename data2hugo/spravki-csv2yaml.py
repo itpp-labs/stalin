@@ -31,11 +31,9 @@ with open("data/spravki/all.csv", newline="", encoding="utf-8") as csvfile:
             "repryear": repryear,
             "fio": row["fio"],
             "source": row["source"],
-            "spravka": literal_unicode(row["spravka"].replace("#", "\\n")),
+            "spravka": literal_unicode(row["spravka"].replace("#", "\n ")),
         }
         s = yaml.dump([data], allow_unicode=True)
-        s = s.replace(" \\n", "\\n").replace("\\n ", "\n    ").replace("\\n", "\n    ")
-        #print (s)
         with open(filename, "a") as yamlfile:
             print ("write", filename)
             yamlfile.write(s)
