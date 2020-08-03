@@ -22,7 +22,7 @@ def main():
             "title": name
         }
         if spravki:
-            meta["description"] = spravki[0]["spravka"]
+            meta["description"] = spravki[0]["spravka"].replace("\t", " ").replace("\\n", " ")
         content = "---\n%s---" % yaml.dump(meta, allow_unicode=True)
         file_writer(
             os.path.join(HUGO_CONTENT_DIR, "persons", "%s.md" % person2name(p)),
