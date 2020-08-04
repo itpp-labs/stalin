@@ -7,7 +7,7 @@
         <div class="level-left">
             <div class="level-item">
 {{ if $data.prev_id }}
-                <a href="/lists/list{{ $data.prev_id }}">&larr; Предыдущие страницы дела</a>
+                <a href="/lists/list{{ $data.prev_id }}">&larr; Предыдущий список</a>
 {{ else }}
                 &nbsp;
 {{ end }}
@@ -17,7 +17,7 @@
         <div class="level-right">
             <div class="level-item">
 {{ if $data.next_id }}
-                <a href="/lists/list{{ $data.next_id }}">Следующие страницы дела &rarr;</a>
+                <a href="/lists/list{{ $data.next_id }}">Следующий список &rarr;</a>
 {{ else }}
                 &nbsp;
 {{ end }}
