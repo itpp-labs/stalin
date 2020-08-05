@@ -212,8 +212,8 @@ To run hugo on remote server, you may need to add following arguments:
 
 * list spravka
 
+  * /lists/list254/#image-33
   * /lists/list184/#image-212
-
 
 ## Elasticsearch
 

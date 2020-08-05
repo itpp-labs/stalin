@@ -128,25 +128,47 @@ def main():
             # it's a list spravka
             html += html_center("СПРАВКА", underlined=True)
 
-            # it's a complicated, yeah,
-            # but there is another way to get sublist by spravka page
-            tom = int(page["tom"])
-            pageintom = int(page["pageintom"])
-            next_page = page_by_ref.get(get_page_ref(str(tom), str(pageintom + 1)))
-            sublistid = list(sublists_and_persons_by_page[next_page["pageid"]].keys())[0]
-            sublist = id2sublist.get(sublistid)
+            lines = ""
+            LINE_HTML="""
+<div class="columns is-mobile">
+  <div class="column is-half has-text-right">{sublisttitle}</div>
+  {categories}
+</div>
+                """
+            kats = {}
+            for sublist in sublists_by_list.get(lst["listid"], []):
+                for kat in ["1", "2", "3"]:
+                    if sublist["kat" + kat] == "1":
+                        kats[kat] = True
+
+            for sublist in sublists_by_list.get(lst["listid"], []):
+
+                categories = ""
+                total = 0
+                for kat in ["1", "2", "3"]:
+                    kat_count = None
+                    if sublist["kat" + kat] == "1":
+                        kat_count = sublist["kat" + kat + "count"]
+                        total += int(kat_count)
+                    elif kats.get(kat):
+                        kat_count = "-"
+
+                    if kat_count:
+                        categories += """<div class="column">%s</div>""" % kat_count
+
+                categories += """<div class="column">%s</div>""" % total
+
+                lines += LINE_HTML.format(sublisttitle=sublist["sublisttitle"], categories=categories)
 
             categories = ""
             for kat in ["1", "2", "3"]:
-                if sublist["kat" + kat] == "1":
-                    categories += """<div class="column"><span class="underlined-text">%s-я кат.</span><br/><br/>%s</div>""" % (kat, sublist["kat" + kat + "count"])
-
-            html += """
-<div class="columns is-mobile">
-  <div class="column is-half-mobile is-two-thirds-tablet has-text-right"><br/><br/>{sublisttitle}</div>
-  {categories}
-</div>
-            """.format(sublisttitle=sublist["sublisttitle"], categories=categories)
+                if not kats.get(kat):
+                    # we guess that there is no such column
+                    continue
+                categories += """<div class="column underlined-text">%s-я кат.<br/><br/></div>""" % kat
+            categories += """<div class="column underlined-text">ВСЕГО<br/><br/></div>"""
+            html += LINE_HTML.format(sublisttitle="&nbsp;<br/><br/>", categories=categories)
+            html += lines
 
         # Other pagekinds are:
         # 1 - spisok
