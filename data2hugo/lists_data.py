@@ -148,6 +148,18 @@ def main():
 </div>
             """.format(sublisttitle=sublist["sublisttitle"], categories=categories)
 
+        # Other pagekinds are:
+        # 1 - spisok
+        # 4 - person spravka
+        # 5 - spisok with signature
+        # 6 - zapiska
+        # 7 - opis'
+        #
+        # To get page examples use command
+        #
+        # mlr --csv cut -f "tom,pagekind,picturefile" data/db/tables/pages.csv|less
+
+
         return html
 
     def get_page_html(lst, page):
