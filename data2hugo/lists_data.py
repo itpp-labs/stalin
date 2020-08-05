@@ -28,7 +28,7 @@ def main():
         page_by_ref[page_ref] = page
 
 
-    # pageid -> sublistid -> (SUBL, [PERSON])
+    # pageid -> sublistid -> [PERSON]
     sublists_and_persons_by_page = {}
     for p in csv_reader(PERSONS_CSV):
         page_ref = get_page_ref(p['tom'], p['pageintom'])
@@ -46,6 +46,15 @@ def main():
     id2pometa_text = dict(
         (r["pometaid"], r["pometatext"])
         for r in csv_reader(POMETY_CSV)
+    )
+    id2listtitl = dict(
+        (r["textid"], r["textcaption"])
+        for r in csv_reader(LIST_TITLE_CSV)
+    )
+
+    id2sublist = dict(
+        (r["sublistid"], r)
+        for r in csv_reader(SUBLISTS_CSV)
     )
 
     def person2pometa_text(p):
@@ -78,10 +87,107 @@ def main():
         name.insert(1, "<br/>")
         return " ".join(name)
 
-    def get_page_html(page):
+    def html_classes(red=False, underlined=False):
+        res = []
+        if red:
+            res.append("red-text")
+        if underlined:
+            res.append("underlined-text")
+        if not res:
+            return ""
+        res.insert(0, "")  # add a space in beginning
+        return " ".join(res)
+
+    def html_left(html):
+        if not html:
+            return ""
+        return '<p>%s</p>' % html
+
+    # helpers use bulma classes. See https://bulma.io/documentation/helpers/typography-helpers/
+    def html_center(html, **kwargs):
+        if not html:
+            return ""
+        return '<p class="has-text-centered%s">%s</p>' % (html_classes(**kwargs), html)
+
+    def html_right(html, **kwargs):
+        if not html:
+            return ""
+        return '<p class="has-text-right%s">%s</p>' % (html_classes(**kwargs), html)
+
+    def generate_page_html(lst, page):
+        # see https://github.com/itpp-labs/stalin/issues/76
+        html = ""
+        if page["pagekind"] == "2":
+            # it's a title page
+            html += html_center(id2listtitl.get(lst["toptext"]))
+            html += html_center(id2listtitl.get(lst["centertext"]))
+            html += html_right(lst["datetext"])
+            html += html_center(id2pometa_text.get(page["pometa"]), red=True)
+            html += html_center(lst["politsigns"], red=True)
+        if page["pagekind"] == "3":
+            # it's a list spravka
+            html += html_center("СПРАВКА", underlined=True)
+
+            lines = ""
+            LINE_HTML="""
+<div class="columns is-mobile">
+  <div class="column is-half has-text-right">{sublisttitle}</div>
+  {categories}
+</div>
+                """
+            kats = {}
+            for sublist in sublists_by_list.get(lst["listid"], []):
+                for kat in ["1", "2", "3"]:
+                    if sublist["kat" + kat] == "1":
+                        kats[kat] = True
+
+            for sublist in sublists_by_list.get(lst["listid"], []):
+
+                categories = ""
+                total = 0
+                for kat in ["1", "2", "3"]:
+                    kat_count = None
+                    if sublist["kat" + kat] == "1":
+                        kat_count = sublist["kat" + kat + "count"]
+                        total += int(kat_count)
+                    elif kats.get(kat):
+                        kat_count = "-"
+
+                    if kat_count:
+                        categories += """<div class="column">%s</div>""" % kat_count
+
+                categories += """<div class="column">%s</div>""" % total
+
+                lines += LINE_HTML.format(sublisttitle=sublist["sublisttitle"], categories=categories)
+
+            categories = ""
+            for kat in ["1", "2", "3"]:
+                if not kats.get(kat):
+                    # we guess that there is no such column
+                    continue
+                categories += """<div class="column underlined-text">%s-я кат.<br/><br/></div>""" % kat
+            categories += """<div class="column underlined-text">ВСЕГО<br/><br/></div>"""
+            html += LINE_HTML.format(sublisttitle="&nbsp;<br/><br/>", categories=categories)
+            html += lines
+
+        # Other pagekinds are:
+        # 1 - spisok
+        # 4 - person spravka
+        # 5 - spisok with signature
+        # 6 - zapiska
+        # 7 - opis'
+        #
+        # To get page examples use command
+        #
+        # mlr --csv cut -f "tom,pagekind,picturefile" data/db/tables/pages.csv|less
+
+
+        return html
+
+    def get_page_html(lst, page):
         textfile = page["textfile"]
         if not textfile or textfile == "NULL":
-            return
+            return generate_page_html(lst, page)
 
         try:
             html = file2str(os.path.join(GB_SPRAVKI_DIR, textfile.lower()))
@@ -218,7 +324,7 @@ def main():
                             ) for p in persons]
                         } for sublistid, persons in sublists_and_persons_by_page.get(page["pageid"], {}).items()
                     ],
-                }, html=get_page_html(page))
+                }, html=get_page_html(lst, page))
                 for page in pages_by_list[lst["listid"]]
             ],
         }
