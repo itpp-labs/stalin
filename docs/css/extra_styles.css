@@ -1,3 +1,10 @@
+.red-text {
+    color: #760411;
+}
+.underlined-text {
+    text-decoration: underline;
+}
+
 p:target {
     background-color: #ffa;
 }
