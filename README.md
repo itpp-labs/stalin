@@ -204,6 +204,17 @@ To run hugo on remote server, you may need to add following arguments:
   * /lists/list411
   * /lists/list412
 
+### Pages with sperical formating
+
+* title pages
+
+  * /lists/list184/#image-211
+
+* list spravka
+
+  * /lists/list184/#image-212
+
+
 ## Elasticsearch
 
 ### Загрузка индексов
