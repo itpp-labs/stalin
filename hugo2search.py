@@ -61,9 +61,11 @@ def persons_index():
                 "signejov": p2sign(p, "ejov"),
                 "signkosior": p2sign(p, "kosior"),
                 "fond7": ". ".join(p["fond7"]["text_lines"]),
+                "fond7_primtext": p["fond7"]["primtext"],
                 "gb_spravka_preview": bool(p["gb_spravka"]),
                 "spravka_preview": spravka_preview,
                 "lists": json_dumps(p["lists"]),
+                "spravka_fio": [s["fio"] for s in spravki],
                 "spravka": json_dumps([s["spravka"].replace("\t", " ").replace("\n", " ") for s in spravki]),
                 "gb_spravka": clean_html(" ".join(data['html'] for data in p["gb_spravka"])),
             }

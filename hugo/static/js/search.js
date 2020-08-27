@@ -272,7 +272,7 @@ $(document).ready(function(){
             if (searchPersons && ["firstname", "midname", "lastname"].indexOf(key) !== -1) {
                 if (value.indexOf("*") == -1){
                     query_bool.must.push({
-                        "match": get_obj(key, value)
+                        "match_phrase": get_obj(key, value)
                     });
                 } else {
                     // see https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-wildcard-query.html
@@ -323,9 +323,9 @@ $(document).ready(function(){
                         "match": get_obj(this, value)
                     });
                 });
-                $.each(["spravka", "gb_spravka"], function(){
+                $.each(["spravka", "gb_spravka", "spravka_fio", "fond7_primtext"], function(){
                     query_bool.should.push({
-                        "match_phrase": get_obj(this, value)
+                        "match": get_obj(this, value)
                     });
                 });
             } else if (!searchPersons && key == "global_search") {
