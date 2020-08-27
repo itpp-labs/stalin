@@ -4,7 +4,6 @@ $(document).ready(function(){
         return;
     }
     search_init();
-
     var cal_options = {
         "dateFormat": "d.m.Y",
         "disableMobile": true,
@@ -179,12 +178,80 @@ $(document).ready(function(){
         d[key] = value;
         return d;
     }
+    // Keep search results on using "Back", "Reload" buttons
+    var search_state = {};
+    function update_url(){
+        var form_data = $("#search_form").serializeArray();
+        search_state.form_data = form_data;
+        var hash_url = "#" + $.param(form_data);
+        history.pushState(search_state, "", hash_url);
+    }
+    var renders = {
+        "render_persons": render_persons,
+        "render_lists": render_lists,
+        "render_stats": render_stats,
+    };
+    function restore_state(state){
+        if (state.form_data){
+            var checkboxes = {};
+            $.each(CHECKBOX_FIELDS, function(index, value){
+                checkboxes[value] = false;
+            });
+            for (var i = 0; i < state.form_data.length; i++) {
+                var name = state.form_data[i].name;
+                var value = state.form_data[i].value;
+                if (CHECKBOX_FIELDS.indexOf(name) !== -1){
+                    checkboxes[name] = value == "on";
+                } else {
+                    $("input[name='" + name + "'], select[name='" + name + "']").val(value);
+                }
+            }
+            $.each(checkboxes, function(name, value){
+                $("input[type='checkbox'][name='" + name + "']").prop("checked", value);
+            });
+        }
+        $.each(["render_persons", "render_lists", "render_stats"], function(index, value){
+            if (state[value]){
+                renders[value].apply(null, state[value]);
+            }
+        });
+    };
+    window.addEventListener('popstate', function(event) {
+        if (!event.state){
+            return;
+        }
+        restore_state(event.state);
+    });
+    if (history.state){
+        restore_state(history.state);
+    } else if (location.hash){
+        function parseParams(str) {
+            return str.split('&').reduce(function (params, param) {
+                var paramSplit = param.split('=').map(function (value) {
+                    return decodeURIComponent(value.replace(/\+/g, ' '));
+                });
+                params.push({
+                    "name": paramSplit[0],
+                    "value": paramSplit[1]
+                });
+                return params;
+            }, []);
+        }
+        try {
+            var form_data = parseParams(location.hash.substr(1));
+            restore_state({"form_data": form_data});
+            make_search();
+        } catch (error){
+            console.log(error);
+        }
+    }
+
     // pagination is applied for persons only
-    var search_offset;
     var SEARCH_SIZE_FIRST = 30;
     var SEARCH_SIZE = 1000;
     function make_search(offset){
         clear_search_timer();
+
         offset = offset || 0;
         // See https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
         var query_bool = {
@@ -205,7 +272,7 @@ $(document).ready(function(){
             if (searchPersons && ["firstname", "midname", "lastname"].indexOf(key) !== -1) {
                 if (value.indexOf("*") == -1){
                     query_bool.must.push({
-                        "match": get_obj(key, value)
+                        "match_phrase": get_obj(key, value)
                     });
                 } else {
                     // see https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-wildcard-query.html
@@ -256,9 +323,9 @@ $(document).ready(function(){
                         "match": get_obj(this, value)
                     });
                 });
-                $.each(["spravka", "gb_spravka"], function(){
+                $.each(["spravka", "gb_spravka", "spravka_fio", "fond7_primtext"], function(){
                     query_bool.should.push({
-                        "match_phrase": get_obj(this, value)
+                        "match": get_obj(this, value)
                     });
                 });
             } else if (!searchPersons && key == "global_search") {
@@ -280,7 +347,7 @@ $(document).ready(function(){
                     date_range.gte = date;
                 else
                     date_range.lte = date;
-            } else if (["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"].indexOf(key) !== -1) {
+            } else if (SIGN_FIELDS.indexOf(key) !== -1) {
                 query_bool.must.push({
                     "match": get_obj(key, true)
                 });
@@ -313,8 +380,8 @@ $(document).ready(function(){
                     render_stats(data.hits.total);
                 }
                 offset += fetched;
-                search_offset = offset;
-                if (search_offset < total) {
+                search_state.search_offset = offset;
+                if (search_state.search_offset < total) {
                     $("#more").removeClass("is-hidden");
                 }
             });
@@ -324,7 +391,7 @@ $(document).ready(function(){
                 render_stats(data.hits.total);
             });
         }
-        def.fail(function( data ) {
+        def.done(update_url).fail(function( data ) {
             if (data){
                 console.log("Error", data);
                 error_on_search(data);
@@ -381,6 +448,8 @@ $(document).ready(function(){
     }
 
     function render_persons(records, append){
+        search_state.render_persons = [records, append];
+        search_state.render_lists = false;
         if (!append) {
             $("#results").empty();
         }
@@ -435,6 +504,8 @@ $(document).ready(function(){
     }
 
     function render_lists(records){
+        search_state.render_persons = false;
+        search_state.render_lists = [records];
         $("#results").empty();
         if (!records.length){
             empty_results();
@@ -449,6 +520,7 @@ $(document).ready(function(){
         });
     }
     function render_stats(total) {
+        search_state.render_stats = [total];
         $("#stats").removeClass("is-hidden");
         var text = total.value;
         if (total.relation != "eq"){
@@ -504,14 +576,16 @@ if (!String.prototype.format) {
     };
 }
 
-window.LIST_FIELDS = [
+window.SIGN_FIELDS = ["signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior"];
+window.CHECKBOX_FIELDS = SIGN_FIELDS.concat([
+    "underlined", "striked", "pometa"
+]);
+window.LIST_FIELDS = CHECKBOX_FIELDS.concat([
     "global_search",
     "korpus", "tom",
     "geo", "geosub", "group", "kat",
-    "underlined", "striked", "pometa",
-    "signstalin", "signmolotov", "signjdanov", "signkaganovic", "signvoroshilov", "signmikoyan", "signejov", "signkosior",
     "date_from", "date_to"
-];
+]);
 
 window.PERSON_FIELDS = LIST_FIELDS.concat([
     "firstname", "midname", "lastname"
