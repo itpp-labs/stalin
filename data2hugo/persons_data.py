@@ -27,10 +27,13 @@ def main():
             "deathdate": clean_date(p["deathdate"]),
             "sessiondate": clean_date(p["sessiondate"]),
             "primsud": p["primsud"],
+            "primname": p["primname"],
             "primtext": prim_by_person_id.get(p["personid"], ""),
         }
         text_lines = []
         if any(res.values()):
+            if res["primname"]:
+                text_lines += [res["primname"]]
             if res["primtext"]:
                 text_lines += res["primtext"].split("\\n")
             elif res["primsud"]:
