@@ -460,7 +460,7 @@ $(document).ready(function(){
         $.each(records, function(){
             var spravka = this._source.spravka_preview || "";
             if (spravka){
-                spravka += "<br/>";
+                spravka += ' <a href="/persons/{0}"><b>...</b></a><br/>'.format(this._id);
             }
             var fond7 = this._source.fond7 || "";
             if (fond7){
