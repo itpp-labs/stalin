@@ -15,8 +15,6 @@ def main():
         except:
             pass
         name = data["name"]["nameshow"]
-        if data["name"]["primname"]:
-            name += " (%s)" % data["name"]["primname"]
         name = name.replace("<br />", " ").replace("<br/>", " ")
         meta = {
             "title": name
