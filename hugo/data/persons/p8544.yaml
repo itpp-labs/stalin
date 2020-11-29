@@ -14,11 +14,14 @@ name_mixed:
   midlastname: Иван Георгиевич
   nameshow: Кикнадзе Иван Георгиевич
 fond7:
-  deathdate: null
-  sessiondate: null
+  deathdate: '1937-10-01'
+  sessiondate: '1937-10-01'
   primsud: ''
+  primname: ''
   primtext: ''
-  text_lines: []
+  text_lines:
+  - 'Дата сессии ВК ВС: 01.10.1937'
+  - 'Дата расстрела: 01.10.1937'
 lists:
 - title: Список от 15 сентября 1937г. [Грузинская ССР] - РГАСПИ, ф.17, оп.171, дело
     411, лист 72

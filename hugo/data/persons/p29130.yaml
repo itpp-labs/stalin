@@ -14,11 +14,14 @@ name_mixed:
   midlastname: Василий Иванович
   nameshow: Бессонов Василий Иванович
 fond7:
-  deathdate: null
-  sessiondate: null
+  deathdate: '1938-05-11'
+  sessiondate: '1938-05-11'
   primsud: ''
+  primname: ''
   primtext: ''
-  text_lines: []
+  text_lines:
+  - 'Дата сессии ВК ВС: 11.05.1938'
+  - 'Дата расстрела: 11.05.1938'
 lists:
 - title: Список от 28 марта 1938г. [Куйбышевская область] - РГАСПИ, ф.17, оп.171,
     дело 415, лист 275

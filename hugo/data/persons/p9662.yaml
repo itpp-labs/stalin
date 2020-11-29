@@ -18,6 +18,7 @@ fond7:
   sessiondate: null
   primsud: Дело снято с рассмотрения ВК ВС в период с 27 октября по 1 ноября 1937
     //(в Москве)
+  primname: ''
   primtext: Снято ВК ВС в период с 27 октября по 1 ноября 1937\n (в Москве)
   text_lines:
   - Снято ВК ВС в период с 27 октября по 1 ноября 1937
@@ -31,5 +32,14 @@ lists:
   signs:
     stalin: true
     molotov: true
+    kaganovic: true
+- title: Список от 19 апреля 1938г. [Москва-центр] - РГАСПИ, ф.17, оп.171, дело 416,
+    лист 4
+  url: /lists/list290#person-12-175-8
+  date: '1938-04-19'
+  signs:
+    stalin: true
+    molotov: true
+    jdanov: true
     kaganovic: true
 gb_spravka: []
