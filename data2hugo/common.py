@@ -132,10 +132,15 @@ def list2archive(lst):
 def sublist2title(lst, sublst):
     if not sublst["datetext"]:
         return sublst["sublisttitle"]
-    return "Список от {date} [{title}]".format(
+    res = "Список от {date}".format(
         date=sublst["datetext"],
-        title=sublst["sublisttitle"],
     )
+    if sublst["sublisttitle"]:
+        res += " [{title}]".format(
+            title=sublst["sublisttitle"],
+        )
+    return res
+
 def sublist2title_full(lst, sublst):
     archive = list2archive(lst)
     res = "%s, лист %s" % (archive["ref"], archive["page1"])
