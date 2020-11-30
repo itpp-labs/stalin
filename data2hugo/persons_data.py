@@ -103,7 +103,7 @@ def main():
             "fond7": fond7(p),
             "lists": [
                 extend({
-                    "title": sublist2title_full(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
+                    "title": sublist2title_full(list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]], pp),
                     "url": person_list2url(pp, list_by_id[pp["listnum"]], sublist_by_id[pp["asublistid"]]),
                     "date": clean_date(list_by_id[pp["listnum"]]["adate"]),
                     "signs": get_signs(list_by_id[pp["listnum"]]),
