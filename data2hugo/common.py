@@ -129,7 +129,7 @@ def list2archive(lst):
         "page1": lst["page1"]
     }
 
-def sublist2title(lst, sublst):
+def sublist2title(lst, sublst, kat=None):
     if not sublst["datetext"]:
         return sublst["sublisttitle"]
     res = "Список от {date}".format(
@@ -139,12 +139,20 @@ def sublist2title(lst, sublst):
         res += " [{title}]".format(
             title=sublst["sublisttitle"],
         )
+    if kat:
+        res += " - %s-я категория" % kat
+
     return res
 
-def sublist2title_full(lst, sublst):
+def sublist2title_full(lst, sublst, person=None):
     archive = list2archive(lst)
-    res = "%s, лист %s" % (archive["ref"], archive["page1"])
-    st = sublist2title(lst, sublst)
+    page = archive["page1"]
+    kat = None
+    if person:
+        page = person["pageintom"]
+        kat = person["kat"]
+    res = "%s, лист %s" % (archive["ref"], page)
+    st = sublist2title(lst, sublst, kat)
     if st:
         res = "%s - %s" % (st, res)
     return res
