@@ -130,7 +130,7 @@ $(document).ready(function(){
                 }
             }
         });
-        make_search();
+        make_search(true);
 
     });
 
@@ -151,7 +151,7 @@ $(document).ready(function(){
         // hide to avoid another click before data is loaded
         $(this).addClass("is-hidden");
 
-        make_search(search_offset);
+        make_search(true, search_state.search_offset);
     });
     $("#search_form input").on("input", function(event){
         start_search_timer();
@@ -170,7 +170,7 @@ $(document).ready(function(){
     });
     $("#search_form input").on("keypress", function(event){
         if (event.keyCode == 13){
-            make_search();
+            make_search(true);
         }
     });
     function get_obj(key, value){
@@ -180,16 +180,23 @@ $(document).ready(function(){
     }
     // Keep search results on using "Back", "Reload" buttons
     var search_state = {};
+    var current_url;
     function update_url(){
         var form_data = $("#search_form").serializeArray();
         search_state.form_data = form_data;
         var hash_url = "#" + $.param(form_data);
-        history.pushState(search_state, "", hash_url);
+        if (hash_url == current_url){
+            history.replaceState(search_state, "", hash_url);
+        } else {
+            history.pushState(search_state, "", hash_url);
+        }
+        current_url = hash_url;
     }
     var renders = {
         "render_persons": render_persons,
         "render_lists": render_lists,
         "render_stats": render_stats,
+        "render_button_more": render_button_more,
     };
     function restore_state(state){
         if (state.form_data){
@@ -210,9 +217,9 @@ $(document).ready(function(){
                 $("input[type='checkbox'][name='" + name + "']").prop("checked", value);
             });
         }
-        $.each(["render_persons", "render_lists", "render_stats"], function(index, value){
-            if (state[value]){
-                renders[value].apply(null, state[value]);
+        $.each(renders, function(name, r){
+            if (state[name]){
+                r.apply(null, state[name]);
             }
         });
     };
@@ -240,7 +247,7 @@ $(document).ready(function(){
         try {
             var form_data = parseParams(location.hash.substr(1));
             restore_state({"form_data": form_data});
-            make_search();
+            make_search(true);
         } catch (error){
             console.log(error);
         }
@@ -249,7 +256,7 @@ $(document).ready(function(){
     // pagination is applied for persons only
     var SEARCH_SIZE_FIRST = 30;
     var SEARCH_SIZE = 1000;
-    function make_search(offset){
+    function make_search(save_state, offset){
         clear_search_timer();
 
         offset = offset || 0;
@@ -368,7 +375,7 @@ $(document).ready(function(){
         }
 
         var def;
-        $("#more").addClass("is-hidden");
+        render_button_more(false);
         if (searchPersons){
             def = search("persons", query_bool, offset).done(function( data ) {
                 render_persons(data.hits.hits, offset);
@@ -382,7 +389,7 @@ $(document).ready(function(){
                 offset += fetched;
                 search_state.search_offset = offset;
                 if (search_state.search_offset < total) {
-                    $("#more").removeClass("is-hidden");
+                    render_button_more(true);
                 }
             });
         } else {
@@ -391,11 +398,15 @@ $(document).ready(function(){
                 render_stats(data.hits.total);
             });
         }
-        def.done(update_url).fail(function( data ) {
+        def.done(function(){
+            if (save_state) {
+                update_url();
+            }
+        }).fail(function( data ) {
             if (data){
                 console.log("Error", data);
                 error_on_search(data);
-            }else {
+            } else {
                 // empty request
                 clear_results();
             }
@@ -447,9 +458,19 @@ $(document).ready(function(){
         });
     }
 
+    function render_button_more(visible){
+        search_state.render_button_more = [visible];
+        if (visible) {
+            $("#more").removeClass("is-hidden");
+        } else {
+            $("#more").addClass("is-hidden");
+        }
+    }
+
+
     function render_persons(records, append){
-        search_state.render_persons = [records, append];
-        search_state.render_lists = false;
+        search_state.render_persons = [records];
+        search_state.render_lists = null;
         if (!append) {
             $("#results").empty();
         }
