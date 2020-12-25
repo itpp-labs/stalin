@@ -8,24 +8,34 @@
     <main class="container">
         {{ .Content }}
 
-        <form id="search_form">
-            <div class="tabs is-toggle is-fullwidth">
-                <ul>
-                    <li id="search_persons" class="is-active">
-                        <a>Поиск персоналий</a>
-                    </li>
-                    <li id="search_lists">
-                        <a>
-                            Поиск списков
-                        </a>
-                    </li>
-                    <li id="clear_form">
-                        <a>
-                            Очистить
-                        </a>
-                    </li>
-                </ul>
+        <form id="search_form" class="red-text">
+            <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                    <label class="label">&nbsp;</label>
+                </div>
+                <div class="field-body">
+
+                    <div class="tabs is-toggle is-fullwidth">
+                        <ul>
+                            <li id="search_persons" class="is-active">
+                                <a>Поиск персоналий</a>
+                            </li>
+                            <li id="search_lists">
+                                <a>
+                                    Поиск списков
+                                </a>
+                            </li>
+                            <li id="clear_form">
+                                <a>
+                                    Очистить
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
             </div>
+
 
             <div class="field is-horizontal">
                 <div class="field-label is-normal">
@@ -71,7 +81,7 @@
                     <label class="label">Архив</label>
                 </div>
                 <div class="field-body">
-                    <div class="field is-narrow">
+                    <div class="field">
                         <div class="control">
                             <div class="select is-fullwidth">
                                 <select name="korpus" required>
