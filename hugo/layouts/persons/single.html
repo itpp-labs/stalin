@@ -19,20 +19,24 @@
 
         <div class="columns">
             <div class="column is-4">
-                {{ if $data.fond7.text_lines }}
-                <h1 id="7fond">7-й фонд ЦА ФСБ</h1>
-                {{ range $data.fond7.text_lines }}
-                   <p>{{ . }}</p>
-                {{ end }}
-                {{ end }}
-            </div>
-            <div class="column">
-                <h1 id="spiski">Списки</h1>
+                <div id="spiski">
                 {{ range $data.lists }}
                 <p><a href="{{ .url }}">{{ .title }}</a></p>
                 {{ end }}
+                </div>
+
+
+                {{ if $data.fond7.text_lines }}
+                <div id="7fond" class="red-text mt-3">
+                  <b>7-й фонд ЦА ФСБ</b>
+
+                  {{ range $data.fond7.text_lines }}
+                   <p>{{ . }}</p>
+                   {{ end }}
+                </div>
+                {{ end }}
             </div>
-        </div>
+            <div class="column">
 
 
 
@@ -60,6 +64,13 @@
                  </div>
             {{ end }}
         {{ end }}
+
+
+            </div>
+        </div>
+
+
+
 
 
 
