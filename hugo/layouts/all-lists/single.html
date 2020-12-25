@@ -1,6 +1,6 @@
   {{ partial "header" . }}
   {{ partial "nav" . }}
-  <main class="container">
+  <main class="container red-text">
   {{ .Content }}
 
   {{ $korps := .Site.Data.korps }}
@@ -8,12 +8,12 @@
   {{ range $korps}}
     {{/* TODO: use partial to avoid code duplicates */}}
     {{ if .sub }}
-      <p> {{ .name }} </p>
+      <p><b> {{ .name }} </b></p>
       <div class="ml-3">
       {{ range .sub }}
           {{ if .sub }}
               <p data-action="collapse" data-target="#{{ .id }}">
-                  <span  class="js-element"> {{ .name }} </span>
+                  <span class="js-element"> {{ .name }} </span>
               </p>
               <div class="ml-3 is-collapsible is-hidden" id="{{ .id }}">
               {{ range .sub }}

@@ -1,5 +1,5 @@
-.red-text {
-    color: #760411;
+.red-text, a, .navbar-item, .navbar-link  {
+    color: #9E0B0F;
 }
 .underlined-text {
     text-decoration: underline;
@@ -33,7 +33,6 @@ div:target {
 }
 
 .section-footer a{
-    color: #4a4a4a;
     text-decoration: underline;
 }
 
