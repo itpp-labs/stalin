@@ -1,56 +1,51 @@
-  {{ partial "header" . }}
-  {{ partial "nav" . }}
-  <main class="container red-text">
-  {{ .Content }}
-
-  {{ $korps := .Site.Data.korps }}
-
-  {{ range $korps}}
-    {{/* TODO: use partial to avoid code duplicates */}}
-    {{ if .sub }}
-      <p><b> {{ .name }} </b></p>
-      <div class="ml-3">
-      {{ range .sub }}
-          {{ if .sub }}
-              <p data-action="collapse" data-target="#{{ .id }}">
-                  <span class="js-element"> {{ .name }} </span>
-              </p>
-              <div class="ml-3 is-collapsible is-hidden" id="{{ .id }}">
+{{ partial "header" . }} {{ partial "nav" . }}
+<div class="container">
+  <div class="full-screen-section lists-section">
+    <div class="wrap">
+      <div class="one-column lists">
+        <div class="list">
+          {{ .Content }} {{ $korps := .Site.Data.korps }} {{ range $korps}} {{/*
+          TODO: use partial to avoid code duplicates */}} {{ if .sub }}
+          <p><b> {{ .name }} </b></p>
+          <div class="ml-3">
+            {{ range .sub }} {{ if .sub }}
+            <p data-action="collapse" data-target="#{{ .id }}">
+              <span class="js-element"> {{ .name }} </span>
+            </p>
+            <div class="ml-3 is-collapsible" id="{{ .id }}" style='display: none'>
               {{ range .sub }}
-                  <p>
-                      <a href="/lists/list{{ .listid }}">{{ .name }} </a>
-                  </p>
+              <p>
+                <a href="/lists/list{{ .listid }}">{{ .name }} </a>
+              </p>
               {{ end }}
-              </div>
+            </div>
+            {{ else }}
+            <p>
+              <a href="/lists/list{{ .listid }}">{{ .name }} </a>
+            </p>
+
+            {{ end }} {{ end }}
+          </div>
+          {{ else if .listid }}
+          <p>
+            <a href="/lists/list{{ .listid }}">{{ .name }} </a>
+          </p>
           {{ else }}
           <p>
-              <a href="/lists/list{{ .listid }}">{{ .name }} </a>
+            <span>{{ .name }} </span>
           </p>
-
-          {{ end }}
-      {{ end }}
+          {{ end }} {{ end }}
+        </div>
       </div>
-    {{ else if .listid }}
-      <p>
-          <a href="/lists/list{{ .listid }}">{{ .name }} </a>
-      </p>
-    {{ else }}
-      <p>
-          <span>{{ .name }} </span>
-      </p>
-    {{ end }}
-
-  {{ end }}
-
-
-  </main>
+    </div>
+  </div>
   {{ partial "footer" . }}
 
-<script type="text/javascript">
- $('[data-action="collapse"]').on('click', function(){
-     $button = $(this);
-     $container = $($button.attr('data-target'));
-     $container.toggleClass('is-hidden');
- })
-
-</script>
+  <script type="text/javascript">
+    $('[data-action="collapse"]').on("click", function () {
+      $button = $(this);
+      $container = $($button.attr("data-target"));
+      $container.slideToggle();
+    });
+  </script>
+</div>

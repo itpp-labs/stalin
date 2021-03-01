@@ -1,86 +1,63 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-<div class="container">
-    <h2 id="spravka" class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h2>
-    <div class="content">
+<section class="full-screen-section person-section">
+    <div class="wrap">
+        <h2 class="two-columns__title">{{ .Title }}</h2>
+        <div class="two-columns person">      
+            {{ $data := index .Site.Data.persons .File.BaseFileName }}
+            {{ $spravki := index .Site.Data.spravki .File.BaseFileName }}
 
-        {{ $data := index .Site.Data.persons .File.BaseFileName }}
-        {{ $spravki := index .Site.Data.spravki .File.BaseFileName }}
-
-        {{ $edit_url := .Site.Params.spravki.edit_url }}
-        {{ $edit_title := "Редактировать справки" }}
-        {{ if not $spravki }}
-        {{ $edit_title = "Добавить справку" }}
-        {{ $edit_url = .Site.Params.spravki.new_url }}
-        {{ $edit_url = replace $edit_url "{BODY}" .Site.Params.spravki.new_body }}
-        {{ end }}
-
-        {{ $edit_url = replace $edit_url "{FILENAME}" .File.BaseFileName }}
-
-        <div class="columns">
-            <div class="column is-4">
-                <div id="spiski">
-                {{ range $data.lists }}
-                <p><a href="{{ .url }}">{{ .title }}</a></p>
-                {{ end }}
-                </div>
-
-
-                {{ if $data.fond7.text_lines }}
-                <div id="7fond" class="red-text mt-3">
-                  <b>7-й фонд ЦА ФСБ</b>
-
-                  {{ range $data.fond7.text_lines }}
-                   <p>{{ . }}</p>
-                   {{ end }}
-                </div>
-                {{ end }}
-            </div>
-            <div class="column">
-
-
-
-        {{ range $spravki }}
-        <p>
-            <b>{{ .fio }}</b><br/>
-            {{ replace .spravka "\n" "<br/>" | safeHTML }}
-            <br/>
-            <b>Источник:</b> <em>{{ .source }}</em>
-        </p>
-        {{ end }}
-        <p id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></p>
-
-
-
-        {{ if $data.gb_spravka }}
-            <h1 id="gb">Версия следствия</h1>
-            {{ range $data.gb_spravka }}
-                 {{ $list_id := .list_id }}
-                 <div id="gb-{{ .list_id }}">
-                     {{ .html | safeHTML }}
-                     {{ range .pages }}
-                         <a href="/lists/list{{ $list_id }}#image-{{ .pageintom }}"><img src="/{{ .image }}"/></a>
-                     {{ end }}
-                 </div>
+            {{ $edit_url := .Site.Params.spravki.edit_url }}
+            {{ $edit_title := "Редактировать справки" }}
+            {{ if not $spravki }}
+            {{ $edit_title = "Добавить справку" }}
+            {{ $edit_url = .Site.Params.spravki.new_url }}
+            {{ $edit_url = replace $edit_url "{BODY}" .Site.Params.spravki.new_body }}
             {{ end }}
-        {{ end }}
 
+            {{ $edit_url = replace $edit_url "{FILENAME}" .File.BaseFileName }}
 
+            <div class="two-columns__aside">
+                <div class="person__aside-links">
+                    {{ range $data.lists }}
+                        <a class="two-columns__aside-link" href="{{ .url }}">{{ .title }}</a>
+                    {{ end }}
+                </div>
+                {{ if $data.fond7.text_lines }}
+                  <p class="two-columns__aside-subtitle">7-й фонд ЦА ФСБ</p>
+                  {{ range $data.fond7.text_lines }}
+                  <p class="two-columns__aside-subtitle">{{ . }}</p>
+                  {{ end }}
+                {{ end }}
             </div>
-        </div>
+            <div class="two-columns__center">
+                {{ range $spravki }}
+                    <p><strong>{{ .fio }}</strong></p>
+                    {{ replace .spravka "\n" "<br/>" | safeHTML }}
+                    <p><b>Источник:</b> <em>{{ .source }}</em></p>
+                {{ end }}
+                <div class="person__edit" id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></div>
+                {{ if $data.gb_spravka }}
+                    <h1 id="gb">Версия следствия</h1>
+                    {{ range $data.gb_spravka }}
+                        {{ $list_id := .list_id }}
+                        <div id="gb-{{ .list_id }}">
+                            {{ .html | safeHTML }}
+                            {{ range .pages }}
+                                <a href="/lists/list{{ $list_id }}#image-{{ .pageintom }}"><img src="/{{ .image }}"/></a>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                {{ end }}                
+            </div>
+        </div>        
+    </div>
+  </section>
 
 
-
-
-
-
-     </div>
-</div>
-
-
-        {{ partial "jsshare" . }}
-        {{ partial "disqus" . }}
-        {{ partial "footer" . }}
+{{ partial "jsshare" . }}
+{{ partial "disqus" . }}
+{{ partial "footer" . }}
 
 <script type="text/javascript">
 var ctrlKey;

@@ -2,13 +2,218 @@
 {{ partial "nav" . }}
 <script>
  ES_URL="{{ .Site.Params.elasticsearch.url }}";
+ $('.nav a').eq(4).addClass('is-active');
 </script>
-
 <div class="container">
     <main class="container">
         {{ .Content }}
 
-        <form id="search_form" class="red-text">
+        <section class="full-screen-section search-section">
+            <div class="wrap">
+              <form id="search_form" class="search">
+                <div class="search__tabs">
+                  <div id="search_persons" class="search__tabs-item is-on">
+                    Поиск персоналий
+                  </div>
+                  <div id="search_lists" class="search__tabs-item">
+                    Поиск списков
+                  </div>
+                  <div id="clear_form" class="search__tabs-item">
+                      Очистить
+                  </div>
+                </div>
+                <div class="search__form form is-on">
+                    <div class="form__row">
+                      <label class="form__label">ФИО</label>
+                      <div class="form__row-inside">
+                        <div class="form__block">
+                          <input
+                            placeholder="Фамилия"
+                            type="text"
+                            class="form__input text-center"
+                            name="lastname"
+                          />
+                        </div>
+                        <div class="form__block">
+                          <input
+                            placeholder="Имя"
+                            type="text"
+                            class="form__input text-center"
+                            name="firstname"
+                          />
+                        </div>
+                        <div class="form__block">
+                          <input
+                            placeholder="Отчество"
+                            type="text"
+                            class="form__input text-center"
+                            name="midname"
+                          />
+                        </div>
+                      </div>
+                    </div>   
+                    <div class="form__row">
+                        <label class="form__label">Поис по всем данным</label>
+                        <div class="form__row-inside">
+                          <div class="form__block form__block_single">
+                            <input
+                              placeholder="Например, студент"
+                              type="text"
+                              class="form__input text-center"
+                              name="global_search"
+                            />
+                          </div>
+                        </div>
+                    </div>
+                    <div class="form__row">
+                        <label class="form__label">Архив</label>
+                        <div class="form__row-inside">
+                          <div class="form__block form__block_select">
+                            <select class="select" name="korpus" required>
+                                <option value="0">[Корпус]</option>
+                                <!-- Put a value to make proper width before js is initialized and adds other values -->
+                                <option value="0">Списки сентября 1940 года</option>
+                            </select>
+                          </div>
+                          <div class="form__block form__block_select">
+                            <select class="select" name="tom">
+                                <option value="0">[Том]</option>
+                                <!-- Put a value to make proper width before js is initialized and adds other values -->
+                                <option value="0">Том 10</option>
+                            </select>
+                          </div>
+                        </div>
+                    </div>  
+                    <div class="form__row">
+                        <label class="form__label">Регионы и&nbsp;группы</label>
+                        <div class="form__row-inside">
+                            <div class="form__block form__block_select">
+                                <select class="select" name="geo" required>
+                                    <option value="0">[Регион]</option>
+                                    <!-- Put a value to make proper width before js is initialized and adds other values -->
+                                    <option value="0">&mdash; Восточно-Казахстанская область</option>
+                                </select>
+                            </div>
+                            <div class="form__block form__block_select">
+                                <select class="select" name="group">
+                                    <option value="0">[Группа]</option>
+                                    <!-- Put a value to make proper width before js is initialized and adds other values -->
+                                    <option value="0">Бывшие сотрудники НКВД</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>   
+                    <div class="form__row">
+                        <label class="form__label"></label>
+                        <div class="form__row-inside">
+                          <div class="form__block form__block_select">
+                            <select class="select" name="geosub" required disabled>
+                                <option value="0">[Подрегион]</option>
+                            </select>
+                          </div>
+                          <div class="form__block form__block_select">
+                            <select class="select" name="kat" required>
+                                <option value="0">[Категория]</option>
+                                <option value="1">1-я категория</option>
+                                <option value="2">2-я категория</option>
+                                <option value="3">3-я категория</option>
+                            </select>
+                          </div>
+                        </div>
+                    </div>                                                                                        
+                    <div class="form__row form__row_align-center">
+                        <label class="form__label">Пометы</label>
+                        <div class="form__row-inside">
+                        <div class="form__block form__block_checkbox">
+                            <label name="underlined" class="checkbox">
+                            <input type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Подчеркнут</span>
+                            </label>
+                        </div>
+                        <div class="form__block form__block_checkbox">
+                            <label name="striked" class="checkbox">
+                            <input type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Вычеркнут</span>
+                            </label>
+                        </div>
+                        <div class="form__block form__block_checkbox">
+                            <label name="pometa" class="checkbox">
+                            <input type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Пометы (10 лет и др.)</span>
+                            </label>
+                        </div>
+                        </div>
+                    </div>                
+                    <div class="form__row">
+                        <label class="form__label">Дата списка</label>
+                        <div class="form__row-inside">
+                          <div class="form__block form__block_datepicker">
+                            <input name="date_from" class="datepicker" type="text" placeholder="27.02.1937">
+                          </div>
+                          <div class="form__block form__block_datepicker">
+                            <input name="date_to" class="datepicker" type="text" placeholder="29.09.1938">
+                          </div>
+                        </div>
+                    </div>      
+                    <div class="form__row form__row_align-center">
+                        <label class="form__label">Подписи</label>
+                        <div class="form__row-line">
+                          <label class="checkbox checkbox_line">
+                            <input name="signstalin" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Сталин</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signmolotov" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Молотов</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signjdanov" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Жданов</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signkaganovic" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Каганович</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signvoroshilov" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Ворошилов</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signmikoyan" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Микоян</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signejov" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Ежов</span>
+                          </label>
+                          <label class="checkbox checkbox_line">
+                            <input name="signkosior" type="checkbox" class="checkbox__input" />
+                            <span class="checkbox__text">Косиор</span>
+                          </label>
+                        </div>
+                    </div>                                                      
+                </div>
+              </form>
+              <div class="results">
+                <div class="results__quantity is-hidden" id="stats">
+                  <strong>Записей найдено:&nbsp;<span id="search_count"></span></strong>
+                </div>
+                <div id="results">
+                </div>
+                <div class="results__block results__block_btn is-hidden">
+                    <div id="more"  class="btn btn_big">Загрузить еще</div>
+                </div>
+              </div>              
+            </div>
+        </section>
+    </main>
+</div>
+{{ partial "footer" . }}
+
+
+<div style="display: none">
+
+        <form  class="red-text">
             <div class="field is-horizontal">
                 <div class="field-label is-normal">
                     <label class="label">&nbsp;</label>
@@ -17,15 +222,15 @@
 
                     <div class="tabs is-toggle is-fullwidth">
                         <ul>
-                            <li id="search_persons" class="is-active">
+                            <li class="is-active">
                                 <a>Поиск персоналий</a>
                             </li>
-                            <li id="search_lists">
+                            <li>
                                 <a>
                                     Поиск списков
                                 </a>
                             </li>
-                            <li id="clear_form">
+                            <li>
                                 <a>
                                     Очистить
                                 </a>
@@ -204,7 +409,7 @@
                 <div class="field-body">
                     <div class="field">
                         <p class="control is-expanded has-icons-left">
-                            <input name="date_from" class="input" type="text" placeholder="27.02.1937">
+                            <input class="datepicker" type="text" placeholder="27.02.1937">
                             <span class="icon is-small is-left">
                                 <i class="fas fa-calendar"></i>
                             </span>
@@ -212,7 +417,7 @@
                     </div>
                     <div class="field">
                         <p class="control is-expanded has-icons-left">
-                            <input name="date_to" class="input" type="text" placeholder="29.09.1938">
+                            <input class="datepicker" type="text" placeholder="29.09.1938">
                             <span class="icon is-small is-left">
                                 <i class="fas fa-calendar"></i>
                             </span>
@@ -305,11 +510,6 @@
         <div id="results">
         </div>
         <button id="more" class="button is-large is-fullwidth is-hidden">Загрузить ещё</button>
-
-    </main>
-    {{ partial "footer" . }}
+    </div>
 </div>
 
-<script type="text/javascript">
-
-</script>
