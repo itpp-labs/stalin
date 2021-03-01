@@ -15,8 +15,12 @@
 
 
 
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+  rel="stylesheet"
+/>
 <link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -41,99 +45,67 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
-    <nav class="navbar level">
-        <div class="navbar-brand">
+<header>
+  <span class="mobile-nav__switch"></span>
+  <div class="mobile-nav">
+    <div class="nav">
+      <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="nav__item">Сталинские расстрельные списки</a>
+      <a href="/about/" class="nav__item">О проекте</a>
+      <a href="/history/" class="nav__item">История осуждений по спискам</a>
+      <a href="/all-lists" class="nav__item">Просмотр списков</a>
+      <a href="/search/" class="nav__item">Поиск</a>
+      <a href="/sources/" class="nav__item">Источники</a>
+    </div>
+  </div>
+</header>
 
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-      <div class="navbar-menu">
-            <div class="navbar-start">
-                <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="navbar-item" >Сталинские расстрельные списки</a>
-                <a href="/about/" class="navbar-item">О проекте</a>
-                <a href="/history/" class="navbar-item">История осуждений по спискам</a>
-            </div>
-            <div class="navbar-end">
-
-                <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
-
-                <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
-                <a href="/sources/" class="navbar-item">Источники</a>
-
-            </div>
-      </div>
-
-    </nav>
-
-<div class="container">
-    <h2 id="spravka" class="subtitle is-size-4-mobile is-size-3-desktop">РИКГОФ Фридрих Гаральдович</h2>
-    <div class="content">
-
-        
-        
-
-        
-        
-        
-
-        
-
-        <div class="columns">
-            <div class="column is-4">
-                <div id="spiski">
-                
-                <p><a href="/lists/list129#person-197-2-2">Список от 7 декабря 1937г. [Азербайджанская ССР] - 1-я категория - РГАСПИ, ф.17, оп.171, дело 413, лист 197</a></p>
-                
-                </div>
-
-
-                
-                <div id="7fond" class="red-text mt-3">
-                  <b>7-й фонд ЦА ФСБ</b>
-
-                  
-                   <p>Геральдович</p>
-                   
-                   <p>Геральдович</p>
-                   
-                   <p>Дата расстрела: 08.01.1938</p>
-                   
-                </div>
-                
-            </div>
-            <div class="column">
-
-
-
-        
-        <p>
-            <b>Рикгоф Фридрих Геральдович</b><br/>
-            Род. в 1896 г. в Ториль (Эстония). Иностранный подданный. Жена - Рикгоф В.А., в 1956 г. проживала в Ленинградской области, Оредежский район, ст.Чаще.До ареста работал в г. Баку, преподавателем математики Морского техникума Каспийского пароходства. Арестован 29 июля 1937 г. Военной Коллегией Верховного Суда СССР от 8 января 1938 г. приговорен к расстрелу. В 1956 г. посмертно реабилитирован.
-            <br/>
-            <b>Источник:</b> <em>jafarli.info</em>
-        </p>
-        
-        <p>
-            <b>Рикгоф Фридрих Гаральдович</b><br/>
-            род. 1896, Эстония, г. Торген, немец, эстонско-подданный. Из дворян. Образование незаконченное высшее.<br/> Препод. математики в морском техникуме Каспийского пароходства. Прож.: Аз.ССР, г.Баку.<br/> Арестован в 1937<br/> Обвинение: один из резидентов германской разведки (с 1933) и руководитель к-р фашистской группы в Баку.<br/> Приговор: ВК ВС СССР, 08.01.1938 - ВМН<br/> Расстрелян 08.01.1938<br/> Источники: Сталинский список от 07.12.1937 (Аз.ССР, Иностр. подданные, Кат.1)| Следственное дело №13911.
-            <br/>
-            <b>Источник:</b> <em>Правозащитный Центр Азербайджана</em>
-        </p>
-        
-        <p id="edit_button" style="display:none"><a target="_blank" href="https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/p16875.yaml">Редактировать справки</a></p>
-
-
-
-        
-            <h1 id="gb">Версия следствия</h1>
+<section class="full-screen-section person-section">
+    <div class="wrap">
+        <h2 class="two-columns__title">РИКГОФ Фридрих Гаральдович</h2>
+        <div class="two-columns person">      
             
-                 
-                 <div id="gb-129">
-                     <HTML>
+            
+
+            
+            
+            
+
+            
+
+            <div class="two-columns__aside">
+                <div class="person__aside-links">
+                    
+                        <a class="two-columns__aside-link" href="/lists/list129#person-197-2-2">Список от 7 декабря 1937г. [Азербайджанская ССР] - 1-я категория - РГАСПИ, ф.17, оп.171, дело 413, лист 197</a>
+                    
+                </div>
+                
+                  <p class="two-columns__aside-subtitle">7-й фонд ЦА ФСБ</p>
+                  
+                  <p class="two-columns__aside-subtitle">Геральдович</p>
+                  
+                  <p class="two-columns__aside-subtitle">Геральдович</p>
+                  
+                  <p class="two-columns__aside-subtitle">Дата расстрела: 08.01.1938</p>
+                  
+                
+            </div>
+            <div class="two-columns__center">
+                
+                    <p><strong>Рикгоф Фридрих Геральдович</strong></p>
+                    Род. в 1896 г. в Ториль (Эстония). Иностранный подданный. Жена - Рикгоф В.А., в 1956 г. проживала в Ленинградской области, Оредежский район, ст.Чаще.До ареста работал в г. Баку, преподавателем математики Морского техникума Каспийского пароходства. Арестован 29 июля 1937 г. Военной Коллегией Верховного Суда СССР от 8 января 1938 г. приговорен к расстрелу. В 1956 г. посмертно реабилитирован.
+                    <p><b>Источник:</b> <em>jafarli.info</em></p>
+                
+                    <p><strong>Рикгоф Фридрих Гаральдович</strong></p>
+                    род. 1896, Эстония, г. Торген, немец, эстонско-подданный. Из дворян. Образование незаконченное высшее.<br/> Препод. математики в морском техникуме Каспийского пароходства. Прож.: Аз.ССР, г.Баку.<br/> Арестован в 1937<br/> Обвинение: один из резидентов германской разведки (с 1933) и руководитель к-р фашистской группы в Баку.<br/> Приговор: ВК ВС СССР, 08.01.1938 - ВМН<br/> Расстрелян 08.01.1938<br/> Источники: Сталинский список от 07.12.1937 (Аз.ССР, Иностр. подданные, Кат.1)| Следственное дело №13911.
+                    <p><b>Источник:</b> <em>Правозащитный Центр Азербайджана</em></p>
+                
+                <div class="person__edit" id="edit_button" style="display:none"><a target="_blank" href="https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/p16875.yaml">Редактировать справки</a></div>
+                
+                    <h1 id="gb">Версия следствия</h1>
+                    
+                        
+                        <div id="gb-129">
+                            <HTML>
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
 <TITLE>Сталинские списки</TITLE>
@@ -169,44 +141,39 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 </TABLE>
 </body></html>
 
-                     
-                         <a href="/lists/list129#image-199"><img src="/disk/pictures/v05/17-171-413-199.jpg"/></a>
-                     
-                 </div>
-            
-        
-
-
+                            
+                                <a href="/lists/list129#image-199"><img src="/disk/pictures/v05/17-171-413-199.jpg"/></a>
+                            
+                        </div>
+                    
+                                
             </div>
-        </div>
+        </div>        
+    </div>
+  </section>
 
 
-
-
-
-
-     </div>
-</div>
-
-
-        <div class="container has-text-centered">
+<div class="container has-text-centered">
     
 </div>
 
-        <div class="container has-text-centered">
+<div class="container has-text-centered">
   
 </div>
-        
-<section class="section section-footer red-text">
-    <div class="container has-text-centered">
-    <p>1989-2020 &copy; Международный Мемориал.<br/>
-При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
-4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
-<br/><img src="/memo.svg"/>
-</p>
-  </div>
-</section>
+`
+<footer class="footer">
+    <p class="footer__text">
+        1989&ndash;2020 &copy; Международный Мемориал.<br />
+        При использовании любых материалов сайта ссылка на&nbsp;memo.ru
+        обязательна.<br />
+        4 октября 2016 года Минюст РФ&nbsp;внес Международный Мемориал
+        в&nbsp;реестр &laquo;некоммерческих организаций, выполняющих функцию
+        иностранного агента&raquo;. <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a><br />
+        Техническая часть сайта&nbsp;&mdash; <a href="https://ru.itpp.dev/">Айти‑Проджектс&nbsp;Лабс</a>.
+    </p>
+    <a href="#" class="footer__logo"><img src="/memo.svg"/></a>
+    </footer>
+
 <script>
  $(document).ready(function() {
 
