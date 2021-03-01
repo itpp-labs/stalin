@@ -1,110 +1,120 @@
 <!DOCTYPE html>
 <html lang="ru-RU">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <title></title>
 
+  <meta property="og:title" content="" />
+  <meta property="og:description" content="" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:url"
+    content="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"
+  />
 
+  <link
+    rel="stylesheet"
+    href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css"
+  />
+  <link
+    rel="stylesheet"
+    href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css"
+  />
 
-<title></title>
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+    integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+    crossorigin="anonymous"
+  />
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous"
+  ></script>
 
-<meta property="og:title" content="" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css"
+  />
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+  <script type="text/javascript" src="/js/lists.js"></script>
 
+  <script type="text/javascript" src="/js/search.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"
+  />
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+  <script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
 
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
+  <nav class="navbar level">
+    <div class="navbar-brand">
+      <a
+        role="button"
+        class="navbar-burger"
+        aria-label="menu"
+        aria-expanded="false"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
-integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
-<script type="text/javascript" src="/js/lists.js"></script>
-
-<script type="text/javascript" src="/js/search.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
-<script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script>
-
-
-
-
-
-
-
-
-    <nav class="navbar level">
-        <div class="navbar-brand">
-
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-      <div class="navbar-menu">
-            <div class="navbar-start">
-                <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="navbar-item" >Сталинские расстрельные списки</a>
-                <a href="/about/" class="navbar-item">О проекте</a>
-                <a href="/history/" class="navbar-item">История осуждений по спискам</a>
-            </div>
-            <div class="navbar-end">
-
-                <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
-
-                <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
-                <a href="/sources/" class="navbar-item">Источники</a>
-
-            </div>
+    <div class="navbar-menu">
+      <div class="navbar-start">
+        <a
+          href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"
+          class="navbar-item"
+          >Сталинские расстрельные списки</a
+        >
+        <a href="/about/" class="navbar-item">О проекте</a>
+        <a href="/history/" class="navbar-item">История осуждений по спискам</a>
       </div>
+      <div class="navbar-end">
+        <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
 
-    </nav>
+        <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
+        <a href="/sources/" class="navbar-item">Источники</a>
+      </div>
+    </div>
+  </nav>
 
-    <main class="container">
-        
+  <main class="container">
+    <h1 id="сталинские-расстрельные-списки">Сталинские расстрельные списки</h1>
 
-<h1 id="сталинские-расстрельные-списки">Сталинские расстрельные списки</h1>
+    <p>TODO</p>
+  </main>
 
-<p>TODO
-
-
-
-</p>
-
-    </main>
-    
-<section class="section section-footer red-text">
+  <section class="section section-footer red-text">
     <div class="container has-text-centered">
-    <p>1989-2020 &copy; Международный Мемориал.<br/>
-При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
-4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
-<br/><img src="/memo.svg"/>
-</p>
-  </div>
-</section>
-<script>
- $(document).ready(function() {
-
-     
-     $(".navbar-burger").click(function() {
-
-         
-         $(".navbar-burger").toggleClass("is-active");
-         $(".navbar-menu").toggleClass("is-active");
-
-     });
- });
-</script>
-
-
-
+      <p>
+        1989-2020 &copy; Международный Мемориал.<br />
+        При использовании любых материалов сайта ссылка на memo.ru
+        обязательна.<br />
+        4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал
+        в&nbsp;реестр «некоммерческих организаций, выполняющих функцию
+        иностранного&nbsp;агента».
+        <a
+          target="_blank"
+          href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22"
+          >Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a
+        >.<br />
+        Техническая часть сайта &mdash;
+        <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
+        <br /><img src="/memo.svg" />
+      </p>
+    </div>
+  </section>
+  <script>
+    $(document).ready(function () {
+      $(".navbar-burger").click(function () {
+        $(".navbar-burger").toggleClass("is-active");
+        $(".navbar-menu").toggleClass("is-active");
+      });
+    });
+  </script>
+</html>

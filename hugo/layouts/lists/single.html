@@ -1,45 +1,145 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 {{ $data := index .Site.Data.lists .File.BaseFileName }}
+<script>
+    $('.nav a').eq(3).addClass('is-active');
+</script>
+
 <div class="container">
+    <div class="full-screen-section lists-section">
+        <div class="wrap">
+          <div class="one-column lists gallery">
+                <nav class="level">  
+                    <div class="level-left">
+                        <div class="level-item">
+                {{ if $data.prev_id }}
+                            <a href="/lists/list{{ $data.prev_id }}"><img src="/img/icon-arrow.png"/>Предыдущий список</a>
+                {{ else }}
+                            &nbsp;
+                {{ end }}
+                        </div>
+                    </div>
 
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-{{ if $data.prev_id }}
-                <a href="/lists/list{{ $data.prev_id }}">&larr; Предыдущий список</a>
-{{ else }}
-                &nbsp;
-{{ end }}
+                    <div class="level-right">
+                        <div class="level-item">
+                {{ if $data.next_id }}
+                            <a href="/lists/list{{ $data.next_id }}">Следующий список <img src="/img/icon-arrow.png"/> </a>
+                {{ else }}
+                            &nbsp;
+                {{ end }}
+                        </div>
+                    </div>
+
+                </nav>
+
+                <h3 class="gallery__title">{{ $data.archive.ref }}, лист {{ $data.archive.page1 }}</h3>
+                <div class="gallery-slider">
+                    <div class="pages gallery-slider__content">
+                    {{ range $data.pages }}
+                        <div id="image-{{ .pageintom }}"><img data-src="/disk/pictures/{{ .image }}"/></div>
+                    {{ end }}
+                    </div>
+                    <div class=" gallery-slider__preview">
+                        <div class="pages-preview">
+                        {{ range $data.pages }}
+                        <span><img width="94" src="/disk/pictures-medium/{{ .image }}"/></span>
+                        {{ end }}
+                        </div>
+                    </div>
+                </div>
+
+
+                {{ range $data.pages }}
+                    {{ if or .sublists .html }}
+                        {{ $pageintom := .pageintom }}
+
+                        <div id="page-{{ $pageintom }}" class="register">
+                            <div class="register__title">
+                                <h4>Список от {{ $data.date_ru }}{{ if .title }} [{{ .title}}]{{ end }}</h4>
+                                <span>{{ $data.archive.ref }}, лист {{ $pageintom }}</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    {{ if .html }}
+                                        {{ $html := .html }}
+                                        {{ range .sublists }}
+                                        {{ range .persons }}
+                                            {{ $placeholder := (printf "PERSON%s" .id) }}
+                                            {{ $icons := partial "person_icons.html" (dict "person" . "list" $data) }}
+                                            {{ $icons = (printf "<span id=\"person-%s-%s-%s\">%s</span>" $pageintom .num .rowinpage $icons ) }}
+                                            {{ $html = replace $html $placeholder $icons }}
+                                        {{ end }}
+                                        {{ end }}
+                                    
+                                        {{ $html | safeHTML }}
+                                    {{ else if .sublists }}
+                                    
+                                    {{ range .sublists }}
+                                        {{ range .persons }}
+                                    
+                                    {{ if .subtitle1 }}
+                                        <div class="columns is-mobile is-gapless">
+                                            <div class="column person-num is-3 mr-3">&nbsp;</div>
+                                            <div class="column person-name is-8">
+                                            {{ .subtitle1 | safeHTML }}
+                                            </div>
+                                        </div>
+                                    {{ end }}               
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            {{ partial "person_icons.html" (dict "person" . "list" $data) }}
+                                            <span class="ml-1">{{ .num }}.</span>
+                                        </div>
+                                
+                                        <div class="column person-name{{ if $data.name_align_center }} has-text-centered{{ end }} {{ if $data.two_columns }}is-5{{ else }}is-9{{ end }}">
+                                            <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
+                                            class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
+                                                <span class="person-name">{{ .name | safeHTML }}</span>&nbsp;
+                                                {{ if .pometa_text }}
+                                                    <span class="pometa">{{.pometa_text}}</span>
+                                                {{ end }}
+                                                {{ if .primcoc }}
+                                                    <span class="pometa">{{ .primcoc }}</span>
+                                                {{ end }}
+                                            </p>
+                                        </div>
+                                        {{ if .primzv }}
+                                            <div class="column person-zv is-4 ml-3">{{ .primzv }}</div>
+                                        {{ end }}
+                                    </div>
+                                    {{ end }} {{/* range .persons */}}
+                                    {{ end }} {{/* range .sublists */}}
+                                    
+                                    {{ end }} {{/* else if .sublists */}}
+
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/{{ .image }}"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/{{ .image }}"/>
+                            </div>
+                        </div>                    
+                    {{ end }} {{/* if or .sublists .html */}}
+                {{ end }} {{/* range $data.pages */}}
             </div>
         </div>
-
-        <div class="level-right">
-            <div class="level-item">
-{{ if $data.next_id }}
-                <a href="/lists/list{{ $data.next_id }}">Следующий список &rarr;</a>
-{{ else }}
-                &nbsp;
-{{ end }}
-            </div>
-        </div>
-
-    </nav>
-
-    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">{{ $data.archive.ref }}, лист {{ $data.archive.page1 }}</h2>
-    <div class="content">
-
-
-<div class="pages">
-{{ range $data.pages }}
-    <div id="image-{{ .pageintom }}"><img data-src="/disk/pictures/{{ .image }}"/></div>
-{{ end }}
+    </div>
 </div>
-<div class="pages-preview is-hidden-mobile">
-    {{ range $data.pages }}
-    <span><img width="30" src="/disk/pictures-small/{{ .image }}"/></span>
-    {{ end }}
-</div>
+{{ partial "jsshare" . }}
+{{ partial "disqus" . }}
+{{ partial "footer" . }}
+
+
+<script type="text/javascript" src="/js/iscroll.js"></script>
+
 <script type="text/javascript">
  var target = window.location.hash;
  var target_index = 0;
@@ -58,106 +158,10 @@
      controls: false,
      lazyload: true,
  });
+window.addEventListener('load', function () {
+    var myScroll = new IScroll('.gallery-slider__preview', {
+    mouseWheel: true,
+    scrollbars: true
+});
+})
 </script>
-
-
-{{ range $data.pages }}
-{{ if or .sublists .html }}
-   {{ $pageintom := .pageintom }}
-
-<div id="page-{{ $pageintom }}" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от {{ $data.date_ru }}{{ if .title }} [{{ .title}}]{{ end }}<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>{{ $data.archive.ref }}, лист </span><span class="is-size-2">{{ $pageintom }}</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/{{ .image }}"/>
-    </div>
-
-
-<div class="page-text">
-
-{{ if .html }}
-    {{ $html := .html }}
-    {{ range .sublists }}
-       {{ range .persons }}
-           {{ $placeholder := (printf "PERSON%s" .id) }}
-           {{ $icons := partial "person_icons.html" (dict "person" . "list" $data) }}
-           {{ $icons = (printf "<span id=\"person-%s-%s-%s\">%s</span>" $pageintom .num .rowinpage $icons ) }}
-           {{ $html = replace $html $placeholder $icons }}
-       {{ end }}
-    {{ end }}
-
-    {{ $html | safeHTML }}
-{{ else if .sublists }}
-
-{{ range .sublists }}
-    {{ range .persons }}
-
-{{ if .subtitle1 }}
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num is-3 mr-3">&nbsp;</div>
-        <div class="column person-name is-8">
-        {{ .subtitle1 | safeHTML }}
-        </div>
-    </div>
-{{ end }}
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            {{ partial "person_icons.html" (dict "person" . "list" $data) }}
-            <span class="ml-1">{{ .num }}.</span>
-        </div>
-
-        <div class="column person-name{{ if $data.name_align_center }} has-text-centered{{ end }} {{ if $data.two_columns }}is-5{{ else }}is-9{{ end }}">
-            <p id="person-{{ $pageintom }}-{{ .num }}-{{ .rowinpage }}"
-               class="person{{ if .striked }} striked{{ end }}{{ if .underlined }} underlined{{ end }}">
-                <span class="person-name">{{ .name | safeHTML }}</span>&nbsp;
-{{ if .pometa_text }}
-                <span class="pometa">{{.pometa_text}}</span>
-{{ end }}
-{{ if .primcoc }}
-                <span class="pometa">{{ .primcoc }}</span>
-{{ end }}
-            </p>
-        </div>
-{{ if .primzv }}
-        <div class="column person-zv is-4 ml-3">{{ .primzv }}</div>
-{{ end }}
-    </div>
-
-
-
-    {{ end }} {{/* range .persons */}}
-{{ end }} {{/* range .sublists */}}
-
-{{ end }} {{/* else if .sublists */}}
-</div> {{/* page-text */}}
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/{{ .image }}"/>
-    </div>
-
-</div> {{/* id="page-123" */}}
-
-{{ end }} {{/* if or .sublists .html */}}
-{{ end }} {{/* range $data.pages */}}
-
-
-        </div>{{/* .container */}}
-</div> {{/* <div class="container"> */}}
-
-        {{ partial "jsshare" . }}
-        {{ partial "disqus" . }}
-        {{ partial "footer" . }}
