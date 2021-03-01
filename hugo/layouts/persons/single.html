@@ -32,9 +32,11 @@
             </div>
             <div class="two-columns__center">
                 {{ range $spravki }}
-                    <p><strong>{{ .fio }}</strong></p>
-                    {{ replace .spravka "\n" "<br/>" | safeHTML }}
-                    <p><b>Источник:</b> <em>{{ .source }}</em></p>
+                    <div class="person__source">
+                        <p><strong>{{ .fio }}</strong></p>
+                        {{ replace .spravka "\n" "<br/>" | safeHTML }}
+                        <p><b>Источник:</b> <em>{{ .source }}</em></p>
+                    </div>
                 {{ end }}
                 <div class="person__edit" id="edit_button" style="display:none"><a target="_blank" href="{{ $edit_url }}">{{ $edit_title }}</a></div>
                 {{ if $data.gb_spravka }}
