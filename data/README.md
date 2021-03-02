@@ -18,6 +18,8 @@ Additional changes made on files:
             find pictures-small/ -iname "*.jpg" | xargs -I{} convert {} -resize 30 {}
             find pictures-medium/ -iname "*.jpg" | xargs -I{} convert {} -resize 300 {}
 
+  * `vkvs/z3/images` -> `/hugo/static/disk/z3`
+
 
 * Information fixes in persons.csv (see commits history)
 
