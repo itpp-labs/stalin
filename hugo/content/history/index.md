@@ -73,7 +73,7 @@ title: Источники
                         <p>РГАСПИ. Ф. 17. Оп. 162. Д. 7. Л. 99.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn2"></a><a href="#fs2">2</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs2"></a><a href="#fn2">2</a></sup>
                         <p>
                             &laquo;О&nbsp;внесении изменений в&nbsp;действующие
                             <nobr>уголовно-процессуальные</nobr>
@@ -84,7 +84,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn3"></a><a href="#fs3">3</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs3"></a><a href="#fn3">3</a></sup>
                         <p>
                             Так, по&nbsp;предложению Вышинского 25 декабря 1935 года
                             политбюро постановило: &laquo;Дело по&nbsp;обвинению Соколова
@@ -136,18 +136,18 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn4"></a><a href="#fs4">4</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs4"></a><a href="#fn4">4</a></sup>
                         <p>
                             См.: Известия ЦК&nbsp;КПСС. 1989. &#8470;&nbsp;7.
                             С.86&ndash;93.
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn5"></a><a href="#fs5">5</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs5"></a><a href="#fn5">5</a></sup>
                         <p>РГАСПИ Ф. 17 Оп. 171. Д.224. Л.130.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn6"></a><a href="#fs6">6</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs6"></a><a href="#fn6">6</a></sup>
                         <p>
                             Впрочем, в&nbsp;санкции Сталина на&nbsp;такое решение можно
                             не&nbsp;сомневаться. См.&nbsp;в&nbsp;связи с&nbsp;этим письмо
@@ -170,7 +170,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn7"></a><a href="#fs7">7</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs7"></a><a href="#fn7">7</a></sup>
                         <p>
                             &#8470;&nbsp;П3197. Без протокола. &laquo;О.О.П." (РГАСПИ.
                             Ф.17. Оп.171. Д.242. Л.173&ndash;174). В
@@ -187,11 +187,11 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn8"></a><a href="#fs8">8</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs8"></a><a href="#fn8">8</a></sup>
                         <p>РГАНИ. Ф.2. Оп.1. Д.224. Л.70.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn9"></a><a href="#fs9">9</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs9"></a><a href="#fn9">9</a></sup>
                         <p>
                             ЦА&nbsp;ФСБ. Ф.3. Оп.4. Д.1464. Л.166&ndash;167. Цит по:
                             Хаустов В., Самуэльсон Л. Сталин, НКВД и&nbsp;репрессии
@@ -200,19 +200,19 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn10"></a><a href="#fs10">10</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs10"></a><a href="#fn10">10</a></sup>
                         <p>ЦА&nbsp;ФСБ. Ф.3. Оп.5. Д.1410. Л.212</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn11"></a><a href="#fs11">11</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs11"></a><a href="#fn11">11</a></sup>
                         <p>Там&nbsp;же. Оп.4. Д.2241. Л.685.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn12"></a><a href="#fs12">12</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs12"></a><a href="#fn12">12</a></sup>
                         <p>РГАСПИ Ф. 17 Оп. 171. Д. 301. Л. 178&ndash;180.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn13"></a><a href="#fs13">13</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs13"></a><a href="#fn13">13</a></sup>
                         <p>
                             Всего в&nbsp;списках 1937&ndash;1938 годов таких справок 205,
                             из&nbsp;них шесть повторяются; кроме того, в&nbsp;списки
@@ -221,7 +221,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn14"></a><a href="#fs14">14</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs14"></a><a href="#fn14">14</a></sup>
                         <p>
                             В&nbsp;отдельных случаях датировка списков требует
                             дополнительного исследования. Так, например, список
@@ -236,7 +236,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn15"></a><a href="#fs15">15</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs15"></a><a href="#fn15">15</a></sup>
                         <p>
                             Только в&nbsp;одном случае (
                             <nobr>19.04.1938</nobr>
@@ -259,14 +259,14 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn16"></a><a href="#fs16">16</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs16"></a><a href="#fn16">16</a></sup>
                         <p>
                             См.: Политбюро ЦК&nbsp;РКП(б)-ВКП(б). Повестки дня заседаний,
                             1919&ndash;1952: Каталог. Т.2. М., 2001.
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn17"></a><a href="#fs17">17</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs17"></a><a href="#fn17">17</a></sup>
                         <p>
                             Также пока нельзя установить, где и&nbsp;как проходило
                             утверждение списков
@@ -277,7 +277,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn18"></a><a href="#fs18">18</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs18"></a><a href="#fn18">18</a></sup>
                         <p>
                             Архив УФСБ РФ&nbsp;по&nbsp;Республике Марий Эл. Д. 595. Л.
                             186&ndash;189. Цит. по: Сануков
@@ -288,23 +288,23 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn19"></a><a href="#fs19">19</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs19"></a><a href="#fn19">19</a></sup>
                         <p>АП&nbsp;РФ. Ф.3. Оп.58. Д.212. Л.137&ndash;139.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn20"></a><a href="#fs20">20</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs20"></a><a href="#fn20">20</a></sup>
                         <p>ЦА&nbsp;ФСБ. Ф.3. Оп.4. Д.2256. Л.489.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn21"></a><a href="#fs21">21</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs21"></a><a href="#fn21">21</a></sup>
                         <p>Там&nbsp;же. Оп.5. Д.86. Л.313.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn22"></a><a href="#fs22">22</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs22"></a><a href="#fn22">22</a></sup>
                         <p>Там&nbsp;же. Ф.7. Оп.1. Д. 9. Л.51&ndash;58.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn23"></a><a href="#fs23">23</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs23"></a><a href="#fn23">23</a></sup>
                         <p>
                             То, что эти дела рассматривались в&nbsp;упрощенном порядке,
                             подтверждается, например,
@@ -368,7 +368,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn24"></a><a href="#fs24">24</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs24"></a><a href="#fn24">24</a></sup>
                         <p>
                             Муранов А.И., Звягинцев
                             <nobr>Р. Е. Суд</nobr>
@@ -377,7 +377,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn25"></a><a href="#fs25">25</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs25"></a><a href="#fn25">25</a></sup>
                         <p>
                             Записка от&nbsp;
                             <nobr>18.02.63</nobr>
@@ -397,7 +397,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn26"></a><a href="#fs26">26</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs26"></a><a href="#fn26">26</a></sup>
                         <p>
                             В&nbsp;качестве примера можно привести
                             <a href="/disk/z3/u25_1.htm" target="popup"
@@ -412,27 +412,27 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn27"></a><a href="#fs27">27</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs27"></a><a href="#fn27">27</a></sup>
                         <p>ЦА&nbsp;ФСБ. Ф.3. Оп.5. Д. 85.Л.244&ndash;247.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn28"></a><a href="#fs28">28</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs28"></a><a href="#fn28">28</a></sup>
                         <p>Там же. Оп.4. Д.157. Л.578.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn29"></a><a href="#fs29">29</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs29"></a><a href="#fn29">29</a></sup>
                         <p>РГАСПИ. Ф.17. Оп.171. Д.373. Л.1&ndash;2.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn30"></a><a href="#fs30">30</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs30"></a><a href="#fn30">30</a></sup>
                         <p>Там&nbsp;же. Л.74.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn31"></a><a href="#fs31">31</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs31"></a><a href="#fn31">31</a></sup>
                         <p>Там&nbsp;же. Д.374. Л.1. Список также не&nbsp;выявлен.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn32"></a><a href="#fs32">32</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs32"></a><a href="#fn32">32</a></sup>
                         <p>
                             Там&nbsp;же. Д.376. Л.87&ndash;89. В&nbsp;свою очередь,
                             и&nbsp;Ульрих информировал Сталина о&nbsp;движении дел
@@ -452,15 +452,15 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn33"></a><a href="#fs33">33</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs33"></a><a href="#fn33">33</a></sup>
                         <p>Там&nbsp;же. Д.377. Л.116&ndash;136.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn34"></a><a href="#fs34">34</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs34"></a><a href="#fn34">34</a></sup>
                         <p>Там&nbsp;же. Л.116.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn35"></a><a href="#fs35">35</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs35"></a><a href="#fn35">35</a></sup>
                         <p>
                             Там&nbsp;же. Л.136. Однако из&nbsp;этих 346 человек
                             расстреляли не&nbsp;всех. (Например, чекист
@@ -475,7 +475,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn36"></a><a href="#fs36">36</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs36"></a><a href="#fn36">36</a></sup>
                         <p>
                             ЦА&nbsp;ФСБ. Ф.7. Оп.1. Д.
                             <nobr>19-а</nobr>
@@ -485,21 +485,21 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn37"></a><a href="#fs37">37</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs37"></a><a href="#fn37">37</a></sup>
                         <p>
                             Записка &#8470;&nbsp;3561/б // РГАСПИ. Ф.17. Оп.171. Д.378.
                             Л.1&ndash;2.
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn38"></a><a href="#fs38">38</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs38"></a><a href="#fn38">38</a></sup>
                         <p>
                             РГАСПИ. Ф.17. Оп.171. Д.421. Л.1&ndash;492; Д.420.
                             Л.1&ndash;68.
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn39"></a><a href="#fs39">39</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs39"></a><a href="#fn39">39</a></sup>
                         <p>
                             Во&nbsp;внутренней описи томов эти списки датированы мартом
                             1941 года&nbsp;&mdash; в&nbsp;соответствии с&nbsp;рукописными
@@ -508,7 +508,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn40"></a><a href="#fs40">40</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs40"></a><a href="#fn40">40</a></sup>
                         <p>
                             В&nbsp;этот день был произведен самый массовый после
                             1937&ndash;1938 годов московский расстрел&nbsp;&mdash; 222
@@ -516,7 +516,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn41"></a><a href="#fs41">41</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs41"></a><a href="#fn41">41</a></sup>
                         <p>
                             РГАСПИ. Ф.17. Оп.171. Д.378. Л.191. Опубликовано без указания
                             места хранения: Известия ЦК&nbsp;КПСС. 1990. &#8470;&nbsp;11.
@@ -524,23 +524,23 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn42"></a><a href="#fs42">42</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs42"></a><a href="#fn42">42</a></sup>
                         <p>РГАСПИ. Ф.17. Оп.171. Д.378. Л.196&ndash;211.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn43"></a><a href="#fs43">43</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs43"></a><a href="#fn43">43</a></sup>
                         <p>АП&nbsp;РФ. Ф.3. Оп.57. Д.100. Л.3.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn44"></a><a href="#fs44">44</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs44"></a><a href="#fn44">44</a></sup>
                         <p>Там&nbsp;же. Л.55. Список см.: Л.55&ndash;76.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn45"></a><a href="#fs45">45</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs45"></a><a href="#fn45">45</a></sup>
                         <p>РГАСПИ. Ф.17. Оп.171. Д.409. Л.1.</p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn46"></a><a href="#fs46">46</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs46"></a><a href="#fn46">46</a></sup>
                         <p>
                             Реабилитация: Политические процессы
                             <nobr>30-50-х</nobr>
@@ -563,7 +563,7 @@ title: Источники
                         </p>
                     </div>
                     <div class="two-columns__aside-comment">
-                        <sup class="two-columns__aside-comment-sup"><a name="fn47"></a><a href="#fs47">47</a></sup>
+                        <sup class="two-columns__aside-comment-sup"><a name="fs47"></a><a href="#fn47">47</a></sup>
                         <p>РГАСПИ. Ф.17. Оп.171. Д.409. Л.1.</p>
                     </div>
                 </div>
@@ -602,7 +602,7 @@ title: Источники
                     &laquo;О&nbsp;контрреволюционной организации в&nbsp;военной
                     промышленности&raquo; последний пункт гласил: &laquo;Предложить
                     ОГПУ представить список лиц, подлежащих расстрелу,
-                    и&nbsp;материалы&raquo;<sup><a name="fs1"></a><a href="#fn1">1</a></sup>. Но&nbsp;эта практика имела
+                    и&nbsp;материалы&raquo;<sup><a name="fn1"></a><a href="#fs1">1</a></sup>. Но&nbsp;эта практика имела
                     совершенно иной характер&nbsp;&mdash; это были отдельные наиболее
                     важные (с&nbsp;точки зрений режима) дела,
                     а&nbsp;не&nbsp;регулярная процедура; число осужденных
@@ -626,7 +626,7 @@ title: Источники
                        class="docs__text-link"
                     >Постановлением ЦИК и&nbsp;СНК СССР от&nbsp;1 декабря 1934
                         года</a
-                    ><sup><a name="fs1"></a><a href="#fn2">2</a></sup>. Согласно этому постановлению, изданному
+                    ><sup><a name="fn2"></a><a href="#fs2">2</a></sup>. Согласно этому постановлению, изданному
                     немедленно
                     после убийства Кирова, следствие по&nbsp;делам
                     о&nbsp;террористических организациях и&nbsp;террористических актах
@@ -654,7 +654,7 @@ title: Источники
                     с&nbsp;публикуемыми списками). Во&nbsp;всяком случае, нам
                     неизвестны случаи применения этого закона без предварительной
                     санкции Политбюро. Почти неизвестны и&nbsp;случаи применения этого
-                    закона иными органами, чем Военная коллегия<sup><a name="fs1"></a><a href="#fn3">3</a></sup>
+                    закона иными органами, чем Военная коллегия<sup><a name="fn3"></a><a href="#fs3">3</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     На&nbsp;практике применение Закона от&nbsp;
@@ -668,7 +668,7 @@ title: Источники
                     ) в&nbsp;декабре 1934 года
                     и&nbsp;в&nbsp;так называемом Кремлевском деле, закрытое слушание
                     которого проходило в&nbsp;Военной коллегии Верховного суда СССР 27
-                    июля 1935 года.<sup><a name="fs1"></a><a href="#fn4">4</a></sup>
+                    июля 1935 года.<sup><a name="fn4"></a><a href="#fs4">4</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     Впервые идея использовать &laquo;упрощенный порядок&raquo;
@@ -705,7 +705,7 @@ title: Источники
                 <p class="docs__text-indent">
                     Обязать НКВД и&nbsp;Прокуратуру Союза по&nbsp;окончании следствия
                     представить список лиц, подлежащих преданию суду по&nbsp;закону
-                    от&nbsp;1.XII.34 г.<sup><a name="fs1"></a><a href="#fn5">5</a></sup>
+                    от&nbsp;1.XII.34 г.<sup><a name="fn5"></a><a href="#fs5">5</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     Судя по&nbsp;имеющимся данным, число осуждений Военной коллегией
@@ -723,7 +723,7 @@ title: Источники
                     следующее <a href="/disk/z3/u04_1.htm" target="popup"
                                  onclick="window.open('/disk/z3/u04_1.htm','popup','width=720,height=740'); return false;"
                                  class="docs__text-link">постановление</a
-                ><sup><a name="fs1"></a><a href="#fn7">7</a></sup>:
+                ><sup><a name="fn7"></a><a href="#fs7">7</a></sup>:
                 </p>
                 <p class="docs__text-indent italic">
                     &laquo;Вопрос т. Ежова. Согласиться с&nbsp;предложением т.т. Ежова
@@ -864,7 +864,7 @@ title: Источники
                     партийных, советских, комсомольских и&nbsp;профсоюзных органов,
                     а&nbsp;также на&nbsp;наркомов и&nbsp;их&nbsp;заместителей, крупных
                     хозяйственных руководителей, видных военных работников, писателей,
-                    руководителей культуры и&nbsp;искусства&raquo;<sup><a name="fs1"></a><a href="#fn8">8</a></sup>.
+                    руководителей культуры и&nbsp;искусства&raquo;<sup><a name="fn8"></a><a href="#fs8">8</a></sup>.
                     (добавим&nbsp;&mdash; и&nbsp;работников НКВД, арестованных
                     в&nbsp;ходе развернувшейся широкой чистки управленческих
                     структур). К&nbsp;этим категориям принадлежит значительная часть
@@ -927,7 +927,7 @@ title: Источники
                     <span class="italic"
                     >наметить предварительные меры наказания. Свое заключение
             о&nbsp;мерах наказания представить на&nbsp;утверждение
-            в&nbsp;ЦК&nbsp;ВКП(б)&raquo;<sup><a name="fs1"></a><a href="#fn9">9</a></sup></span
+            в&nbsp;ЦК&nbsp;ВКП(б)&raquo;<sup><a name="fn9"></a><a href="#fs9">9</a></sup></span
                     >
                     (курсив наш. &mdash;&nbsp;Публ.).
                 </p>
@@ -1014,7 +1014,7 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     3. Обвинительные заключения по&nbsp;указанным делам центра
-                    утверждаются начальниками отделов ГУГБ&raquo;<sup><a name="fs1"></a><a href="#fn10">10</a></sup>.
+                    утверждаются начальниками отделов ГУГБ&raquo;<sup><a name="fn10"></a><a href="#fs10">10</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Таким образом, на&nbsp;&laquo;большую комиссию&raquo; должны были
@@ -1057,7 +1057,7 @@ title: Источники
                 <p class="docs__text-indent">
                     4. По&nbsp;получении утвержденных списков вы&nbsp;передаете дела
                     на&nbsp;Военную коллегию, которая и&nbsp;рассматривает их,
-                    руководствуясь утвержденной категорией&raquo;<sup><a name="fs1"></a><a href="#fn11">11</a></sup>.
+                    руководствуясь утвержденной категорией&raquo;<sup><a name="fn11"></a><a href="#fs11">11</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Мы&nbsp;видим, что в&nbsp;данном случае &laquo;большая
@@ -1134,7 +1134,7 @@ title: Источники
                     Прошу санкционировать негласное рассмотрение дела
                     по&nbsp;обвинению участников указанной организации Военной
                     коллегией Верховного суда СССР с&nbsp;применением закона от&nbsp;1
-                    декабря 1934 года&raquo;<sup><a name="fs1"></a><a href="#fn12">12</a></sup>.
+                    декабря 1934 года&raquo;<sup><a name="fn12"></a><a href="#fs12">12</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Не&nbsp;стоит также забывать, что Сталин каждодневно получал
@@ -1204,7 +1204,7 @@ title: Источники
                     о&nbsp;гражданстве, годе и&nbsp;месте рождения, времени проживания
                     в&nbsp;СССР, роде занятий, а&nbsp;также существо обвинений
                     и&nbsp;указание на&nbsp;признание (или непризнание) своей
-                    вины<sup><a name="fs1"></a><a href="#fn13">13</a></sup>. На&nbsp;части таких справок (в&nbsp;т.2
+                    вины<sup><a name="fn13"></a><a href="#fs13">13</a></sup>. На&nbsp;части таких справок (в&nbsp;т.2
                     списков) имеются рукописные пометы о&nbsp;мере
                     наказания&nbsp;&mdash; &laquo;Р[асстрел]" или &laquo;10
                     [лет]&raquo;.
@@ -1277,7 +1277,7 @@ title: Источники
                              onclick="window.open('/disk/z3/ugb537.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">И. И. Шапиро</a></nobr
                     >
-                    <sup><a name="fs1"></a><a href="#fn14">14</a></sup>.
+                    <sup><a name="fn14"></a><a href="#fs14">14</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Начиная с&nbsp;14 июня 1937 года и&nbsp;до&nbsp;середины августа
@@ -1388,7 +1388,7 @@ title: Источники
                     секретарь ЦК). Ежов, кстати сказать, почти всегда присутствовал
                     при утверждении списков (подписывая их&nbsp;лишь изредка).
                     Случайных свидетелей этой &laquo;тонкой&raquo; и&nbsp;секретной
-                    работы не&nbsp;было.<sup><a name="fs1"></a><a href="#fn15">15</a></sup>
+                    работы не&nbsp;было.<sup><a name="fn15"></a><a href="#fs15">15</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     Зафиксирована 51 дата утверждений списков в&nbsp;1937&ndash;1938
@@ -1403,7 +1403,7 @@ title: Источники
                     января, 9 февраля, 29 сентября 1938 года). Но&nbsp;на&nbsp;бoльшую
                     часть этих дат приходились формальные заседания Политбюро (визы
                     на&nbsp;списках могли ставиться до&nbsp;или после этих
-                    заседаний)<sup><a name="fs1"></a><a href="#fn16">16</a></sup>. Остаются всего два или три случая,
+                    заседаний)<sup><a name="fn16"></a><a href="#fs16">16</a></sup>. Остаются всего два или три случая,
                     когда
                     невозможно установить, где именно происходило утверждение списков.
                     Можно предположить, что эти встречи происходили у&nbsp;Сталина
@@ -1411,7 +1411,7 @@ title: Источники
                     (или
                     <nobr>кто-то</nobr>
                     по&nbsp;его поручению) для сбора подписей
-                    мог сам объезжать членов Политбюро.<sup><a name="fs1"></a><a href="#fn17">17</a></sup>
+                    мог сам объезжать членов Политбюро.<sup><a name="fn17"></a><a href="#fs17">17</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     Обычно Сталин первый ставил свою подпись, а&nbsp;уже вслед
@@ -1533,7 +1533,7 @@ title: Источники
                     СССР, выезжающей в&nbsp;ближайшее время в&nbsp;Казань. Начальник
                     <nobr>8-го</nobr>
                     отдела ГУГБ НКВД СССР
-                    Цесарский&raquo;<sup><a name="fs1"></a><a href="#fn18">18</a></sup>.
+                    Цесарский&raquo;<sup><a name="fn18"></a><a href="#fs18">18</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     По&nbsp;всей вероятности, в&nbsp;архивах и&nbsp;других
@@ -1593,7 +1593,7 @@ title: Источники
                     2)
                     <nobr>Террористическо-диверсионной</nobr>
                     шпионской организации
-                    правых&raquo;<sup><a name="fs1"></a><a href="#fn19">19</a></sup>.
+                    правых&raquo;<sup><a name="fn19"></a><a href="#fs19">19</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     14 ноября Берия ставит вопрос уже более конкретно&nbsp;&mdash;
@@ -1616,7 +1616,7 @@ title: Источники
                     проводите отдельным заседанием, не&nbsp;смешивая дела кулацкой
                     операции. Все дела после исполнения приговоров немедленно
                     направьте Москву, вложив в&nbsp;каждое дело выписку протокола
-                    тройки. ЕЖОВ&raquo;<sup><a name="fs1"></a><a href="#fn20">20</a></sup>.
+                    тройки. ЕЖОВ&raquo;<sup><a name="fn20"></a><a href="#fs20">20</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Этот порядок, когда дела по&nbsp;утвержденным на&nbsp;ВКВС спискам
@@ -1653,7 +1653,7 @@ title: Источники
                     исполнении подписями НИКИТЧЕНКО ЛЮШКОВА КАЛУГИНА линии НКВД
                     и&nbsp;Военной Прокуратуры. Отношении второй категории передать
                     рассмотрение местные трибуналы. Первую оформить приговорами
-                    сессии&raquo;<sup><a name="fs1"></a><a href="#fn21">21</a></sup>.
+                    сессии&raquo;<sup><a name="fn21"></a><a href="#fs21">21</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Распоряжение о&nbsp;заочном рассмотрении дел было выполнено.
@@ -1670,8 +1670,8 @@ title: Источники
                     во&nbsp;всех делах на&nbsp;40 чел. не&nbsp;оказалось обвинительных
                     заключений, которые по&nbsp;сообщению Камчатского ОУНКВД вовсе
                     не&nbsp;составлялись и&nbsp;в&nbsp;момент приведения приговоров
-                    в&nbsp;исполнение в&nbsp;делах отсутствовали&raquo;<sup><a name="fs1"></a><a
-                        href="#fn22">22</a></sup>.
+                    в&nbsp;исполнение в&nbsp;делах отсутствовали&raquo;<sup><a name="fn1fn22a><a
+                        href="#fn22">2s</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Всего, судя по&nbsp;рапорту Люшкова Ежову
@@ -1690,7 +1690,7 @@ title: Источники
                 <p class="docs__text-indent">
                     И&nbsp;в&nbsp;ДВК, и&nbsp;в&nbsp;любом другом месте судебная
                     процедура осуждения по&nbsp;спискам, упрощенная до&nbsp;предела,
-                    была лишь формальностью<sup><a name="fs1"></a><a href="#fn23">23</a></sup>. Дела рассматривались
+                    была лишь формальностью<sup><a name="fn23"></a><a href="#fs23">23</a></sup>. Дела рассматривались
                     в&nbsp;порядке Закона от&nbsp;
                     <nobr>01.12.1934</nobr>
                     ,
@@ -1711,7 +1711,7 @@ title: Источники
                     преступлениям&ldquo;, выслушать его показания и&nbsp;последнее
                     слово [&hellip;] побывать в&nbsp;совещательной комнате, написать
                     там приговор и, вернувшись в&nbsp;зал судебного заседания,
-                    объявить его&hellip;&raquo;<sup><a name="fs1"></a><a href="#fn24">24</a></sup>.
+                    объявить его&hellip;&raquo;<sup><a name="fn24"></a><a href="#fs24">24</a></sup>.
                 </p>
                 <p class="docs__text-block docs__text-indent">
                     Иной, еще более &laquo;упрощенный&raquo;, порядок осуждения
@@ -1772,7 +1772,7 @@ title: Источники
             а&nbsp;в&nbsp;так называемом &bdquo;особом
             порядке&ldquo;&nbsp;&mdash; комиссией в&nbsp;составе Вышинского
             или его заместителя Рогинского, Ульриха и&nbsp;Ежова или его
-            заместителя Фриновского&raquo;<sup><a name="fs1"></a><a href="#fn25">25</a></sup>.</span
+            заместителя Фриновского&raquo;<sup><a name="fn25"></a><a href="#fs25">25</a></sup>.</span
                     >
                 </p>
                 <p class="docs__text-indent">
@@ -1789,7 +1789,7 @@ title: Источники
                     &laquo;в&nbsp;особом порядке&raquo;, а&nbsp;в&nbsp;качестве
                     основания дается ссылка на&nbsp;том и&nbsp;лист соответствующего
                     расстрельного списка, утвержденного Сталиным и&nbsp;его
-                    соратниками<sup><a name="fs1"></a><a href="#fn26">26</a></sup>. Каким образом в&nbsp;процессе
+                    соратниками<sup><a name="fn26"></a><a href="#fs26">26</a></sup>. Каким образом в&nbsp;процессе
                     реабилитации во&nbsp;второй половине
                     <nobr>1950-х</nobr>
                     годов эта
@@ -1829,7 +1829,7 @@ title: Источники
                     &laquo;Немедленно приведите в&nbsp;исполнение приговора
                     о&nbsp;расстреле всех перечисленных лиц. Дела указанных лиц вместе
                     с&nbsp;актами об&nbsp;исполнении приговоров вышлите
-                    в&nbsp;8&nbsp;Отдел ГУГБ&raquo;<sup><a name="fs1"></a><a href="#fn27">27</a></sup>.
+                    в&nbsp;8&nbsp;Отдел ГУГБ&raquo;<sup><a name="fn27"></a><a href="#fs27">27</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     В&nbsp;телеграмме сказано, что все 127 человек осуждены ВКВС,
@@ -1889,7 +1889,7 @@ title: Источники
                     из&nbsp;66
                     рассмотренных дел половина возвращена на&nbsp;доследование
                     &laquo;причинам отказа ряда арестованных своих показаний также
-                    заявлений избиении&raquo;<sup><a name="fs1"></a><a href="#fn28">28</a></sup>.
+                    заявлений избиении&raquo;<sup><a name="fn28"></a><a href="#fs28">28</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     Реальное число людей в&nbsp;списках, по&nbsp;нашим
@@ -2024,7 +2024,7 @@ title: Источники
                     организации, в&nbsp;количестве 469 человек&nbsp;&mdash; передать
                     на&nbsp;рассмотрение Военной Коллегии Верховного Суда СССР
                     с&nbsp;применением Закона от&nbsp;1 декабря
-                    1934&nbsp;г.&raquo;<sup><a name="fs1"></a><a href="#fn29">29</a></sup>. Вероятно, большинство людей
+                    1934&nbsp;г.&raquo;<sup><a name="fn29"></a><a href="#fs29">29</a></sup>. Вероятно, большинство людей
                     из&nbsp;этого списка были расстреляны&nbsp;&mdash; во&nbsp;всяком
                     случае, к&nbsp;такому выводу подталкивает
                     <a href="/disk/z3/u15.htm" target="popup"
@@ -2043,7 +2043,7 @@ title: Источники
                     себя виновными Косиор, Чубарь, Косарев, Постышев, Егоров, М.Берман
                     и&nbsp;Б.Берман, а&nbsp;некоторые подсудимые отказались
                     от&nbsp;своих показаний на&nbsp;следствии, но&nbsp;были изобличены
-                    другими материалами дела&raquo;<sup><a name="fs1"></a><a href="#fn30">30</a></sup>. Сам список
+                    другими материалами дела&raquo;<sup><a name="fn30"></a><a href="#fs30">30</a></sup>. Сам список
                     в&nbsp;архивах не&nbsp;выявлен. Однако его
                     &laquo;расстрельную&raquo; часть можно почти с&nbsp;полной
                     уверенностью реконструировать благодаря изучению фонда
@@ -2079,7 +2079,7 @@ title: Источники
                     руководящих участников применить высшую меру
                     наказания&nbsp;&mdash; расстрел, а&nbsp;остальных 733 человек
                     приговорить к&nbsp;заключению в&nbsp;лагерь &laquo;на&nbsp;срок
-                    не&nbsp;менее 15 лет каждого&raquo;<sup><a name="fs1"></a><a href="#fn31">31</a></sup>. Это решение
+                    не&nbsp;менее 15 лет каждого&raquo;<sup><a name="fn31"></a><a href="#fs31">31</a></sup>. Это решение
                     также было инициировано
                     <a href="/disk/z3/u17.htm" target="popup"
                        onclick="window.open('/disk/z3/u17.htm','popup','width=720,height=740'); return false;"
@@ -2112,7 +2112,7 @@ title: Источники
                     в&nbsp;соответствии с&nbsp;тяжестью совершенных ими преступлений
                     [&hellip;] к&nbsp;ним должна быть применена высшая мера
                     наказания&raquo;. Берия писал, что НКВД присоединяется
-                    к&nbsp;этому мнению, и&nbsp;просил указаний<sup><a name="fs1"></a><a href="#fn32">32</a></sup>.
+                    к&nbsp;этому мнению, и&nbsp;просил указаний<sup><a name="fn32"></a><a href="#fs32">32</a></sup>.
                     Сталин,
                     прочитав письмо, наложил следующую резолюцию: &laquo;т. Берия.
                     По&nbsp;первой группе дать от&nbsp;10 до&nbsp;25 лет,
@@ -2131,7 +2131,7 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     В&nbsp;1940 году, 16 января, Берия представил Сталину очередной
-                    список на&nbsp;несколько сотен человек<sup><a name="fs1"></a><a href="#fn33">33</a></sup>. В&nbsp;<a
+                    список на&nbsp;несколько сотен человек<sup><a name="fn33"></a><a href="#fs33">33</a></sup>. В&nbsp;<a
                         href="/disk/z3/u19a.htm" target="popup"
                         onclick="window.open('/disk/z3/u19a.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
@@ -2150,8 +2150,8 @@ title: Источники
                     , причем 346 человек следует
                     приговорить к&nbsp;ВМН, а&nbsp;111&nbsp;&mdash; на&nbsp;сроки
                     не&nbsp;менее 15 лет. &laquo;Просим Вашей
-                    санкции&raquo;,&nbsp;&mdash; завершал записку Берия<sup><a name="fs1"></a><a
-                        href="#fn34">34</a></sup>.
+                    санкции&raquo;,&nbsp;&mdash; завершал записку Берия<sup><a name="fn1fn34a><a
+                        href="#fn34">3s</a></sup>.
                     В&nbsp;приложенном списке среди 346 человек, подлежащих расстрелу,
                     были Исаак Бабель, Михаил Кольцов, Надежда Михайловна
                     <nobr>Бухарина-Лукина</nobr>
@@ -2171,21 +2171,21 @@ title: Источники
                     ). Причем и&nbsp;на&nbsp;этот
                     раз, как и&nbsp;в&nbsp;1939 году, предложение Берия приняли без
                     <nobr>каких-либо</nobr>
-                    поправок и&nbsp;изменений<sup><a name="fs1"></a><a href="#fn35">35</a></sup>.
+                    поправок и&nbsp;изменений<sup><a name="fn35"></a><a href="#fs35">35</a></sup>.
                     В&nbsp;фонде 7 ЦА&nbsp;ФСБ сохранились
                     <a href="/disk/z3/u19.htm" target="popup"
                        onclick="window.open('/disk/z3/u19.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >&laquo;рабочие материалы&raquo;</a
                     >
-                    по&nbsp;этому списку<sup><a name="fs1"></a><a href="#fn36">36</a></sup>, позволяющие уточнить сроки
+                    по&nbsp;этому списку<sup><a name="fn36"></a><a href="#fs36">36</a></sup>, позволяющие уточнить сроки
                     и&nbsp;характер осуждения некоторых включенных в&nbsp;него людей.
                 </p>
                 <p class="docs__text-block docs__text-indent"></p>
                 <p class="docs__text-indent">
                     6 сентября 1940&nbsp;г. Берия просил санкции на&nbsp;передачу
-                    в&nbsp;ВКВС дел еще на&nbsp;537 человек<sup><a name="fs1"></a><a href="#fn37">37</a></sup>.
-                    Из&nbsp;приложенного списка<sup><a name="fs1"></a><a href="#fn38">38</a></sup> предполагалось 472
+                    в&nbsp;ВКВС дел еще на&nbsp;537 человек<sup><a name="fn37"></a><a href="#fs37">37</a></sup>.
+                    Из&nbsp;приложенного списка<sup><a name="fn38"></a><a href="#fs38">38</a></sup> предполагалось 472
                     человека расстрелять (в&nbsp;том числе 41 по&nbsp;обвинению
                     в&nbsp;принадлежности к&nbsp;&laquo;заговорщической организации,
                     готовившей вооруженное восстание против правительства МНР&raquo;),
@@ -2283,7 +2283,7 @@ title: Источники
                     .
                     Несколько десятков человек, так&nbsp;же осужденных ВКВС
                     в&nbsp;первой половине июля, расстреляли позже&nbsp;&mdash; 16
-                    октября 1941 года.<sup><a name="fs1"></a><a href="#fn40">40</a></sup>
+                    октября 1941 года.<sup><a name="fn40"></a><a href="#fs40">40</a></sup>
                 </p>
                 <p class="docs__text-block docs__text-indent">
                     Следующие известные нам списочные расстрелы относятся
@@ -2304,7 +2304,7 @@ title: Источники
                     <nobr>шпионско-диверсионную</nobr>
                     и&nbsp;иную контрреволюционную
                     работу. Рассмотрение материалов поручить Военной Коллегии
-                    Верховного Суда СССР&raquo;<sup><a name="fs1"></a><a href="#fn41">41</a></sup>.
+                    Верховного Суда СССР&raquo;<sup><a name="fn41"></a><a href="#fs41">41</a></sup>.
                 </p>
                 <p class="docs__text-indent">
                     29 января 1942 года Берия направил Сталину список 46
@@ -2316,7 +2316,7 @@ title: Источники
                        class="docs__text-link"
                     >&laquo;Расстрелять всех поименованных в&nbsp;записке.
                         И.Сталин&raquo;</a
-                    ><sup><a name="fs1"></a><a href="#fn42">42</a></sup>. В&nbsp;этом списке много генералов&nbsp;&mdash;
+                    ><sup><a name="fn42"></a><a href="#fs42">42</a></sup>. В&nbsp;этом списке много генералов&nbsp;&mdash;
                     командующие ВВС округов, бывший нарком боеприпасов
                     <nobr>И. П. Сергеев</nobr>
                     и&nbsp;др.
@@ -2328,7 +2328,7 @@ title: Источники
                     <nobr>26.05.1947</nobr>
                     ). Уже 23&nbsp;марта 1950 года
                     министр государственной безопасности В.Абакумов подал Сталину
-                    список на&nbsp;85 человек<sup><a name="fs1"></a><a href="#fn43">43</a></sup>. Судить их&nbsp;должна
+                    список на&nbsp;85 человек<sup><a name="fn43"></a><a href="#fs43">43</a></sup>. Судить их&nbsp;должна
                     была
                     Военная коллегия Верховного суда в&nbsp;помещении Лефортовской
                     тюрьмы. Будущие подсудимые лишались права обжалования приговора
@@ -2356,7 +2356,7 @@ title: Источники
                     на&nbsp;утверждение исправленный список (теперь уже на&nbsp;35
                     человек), из&nbsp;которого были исключены обвиняемые
                     по&nbsp;&laquo;Ленинградскому делу&raquo; и&nbsp;&laquo;делу
-                    ЕАК&raquo;, Сталин его тут&nbsp;же утвердил<sup><a name="fs1"></a><a href="#fn44">44</a></sup>. Всех
+                    ЕАК&raquo;, Сталин его тут&nbsp;же утвердил<sup><a name="fn44"></a><a href="#fs44">44</a></sup>. Всех
                     названных в&nbsp;этом повторном списке осудили и&nbsp;расстреляли
                     в&nbsp;апреле 1950 года, а&nbsp;обвиняемые
                     по&nbsp;&laquo;Ленинградскому делу&raquo; и&nbsp;&laquo;делу
@@ -2393,7 +2393,7 @@ title: Источники
             >
                 </p>
                 <p class="docs__text-indent">
-                    ПРИЛОЖЕНИЕ: по&nbsp;тексту в&nbsp;11 томах&raquo;<sup><a name="fs1"></a><a href="#fn45">45</a></sup>
+                    ПРИЛОЖЕНИЕ: по&nbsp;тексту в&nbsp;11 томах&raquo;<sup><a name="fn45"></a><a href="#fs45">45</a></sup>
                 </p>
                 <p class="docs__text-indent">
                     Согласно пометам заведующего Общим отделом ЦК&nbsp;КПСС
@@ -2415,13 +2415,13 @@ title: Источники
             В&nbsp;1937&ndash;1938 годах Сталину было направлено 383 таких
             списка на&nbsp;многие тысячи партийных, советских,
             комсомольских, военных и&nbsp;хозяйственных работников,
-            и&nbsp;была получена его санкция&raquo;<sup><a name="fs1"></a><a href="#fn46">46</a></sup>.</span
+            и&nbsp;была получена его санкция&raquo;<sup><a name="fn46"></a><a href="#fs46">46</a></sup>.</span
             >
                 </p>
                 <p class="docs__text-indent">
                     Уже после ХХ&nbsp;съезда, 27 июля 1956 года, было принято решение
                     хранить эти списки постоянно в&nbsp;архиве Президиума
-                    ЦК&nbsp;КПСС<sup><a name="fs1"></a><a href="#fn47">47</a></sup>. Списки были переданы
+                    ЦК&nbsp;КПСС<sup><a name="fn47"></a><a href="#fs47">47</a></sup>. Списки были переданы
                     в&nbsp;VI&nbsp;сектор Общего отдела ЦК&nbsp;(архив Президиума /
                     Политбюро), где материалы хранились в&nbsp;необработанном виде
                     до&nbsp;ноября 1974 года, когда они были включены в&nbsp;опись
