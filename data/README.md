@@ -20,6 +20,11 @@ Additional changes made on files:
 
   * `vkvs/z3/images` -> `/hugo/static/disk/z3`
 
+    * Additionally, files are converted to utf:
+
+            stalin/hugo/static/disk/z3$ find . -iname "*.htm" | xargs sed /charset=/d -i
+            stalin/hugo/static/disk/z3$ find . -iname "*.htm" | xargs -I{} iconv -f cp1251 {} -o {}
+
 
 * Information fixes in persons.csv (see commits history)
 
