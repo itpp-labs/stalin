@@ -23,8 +23,12 @@
 
 
 
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+  rel="stylesheet"
+/>
 <link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -49,82 +53,128 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
-    <nav class="navbar level">
-        <div class="navbar-brand">
+<header>
+  <span class="mobile-nav__switch"></span>
+  <div class="mobile-nav">
+    <div class="nav">
+      <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="nav__item">Сталинские расстрельные списки</a>
+      <a href="/about/" class="nav__item">О проекте</a>
+      <a href="/history/" class="nav__item">История осуждений по спискам</a>
+      <a href="/all-lists" class="nav__item">Просмотр списков</a>
+      <a href="/search/" class="nav__item">Поиск</a>
+      <a href="/sources/" class="nav__item">Источники</a>
+    </div>
+  </div>
+</header>
 
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
 
-      <div class="navbar-menu">
-            <div class="navbar-start">
-                <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="navbar-item" >Сталинские расстрельные списки</a>
-                <a href="/about/" class="navbar-item">О проекте</a>
-                <a href="/history/" class="navbar-item">История осуждений по спискам</a>
-            </div>
-            <div class="navbar-end">
-
-                <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
-
-                <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
-                <a href="/sources/" class="navbar-item">Источники</a>
-
-            </div>
-      </div>
-
-    </nav>
-
+<script>
+    $('.nav a').eq(3).addClass('is-active');
+</script>
 
 <div class="container">
+    <div class="full-screen-section lists-section">
+        <div class="wrap">
+          <div class="one-column lists gallery">
+                <nav class="level">  
+                    <div class="level-left">
+                        <div class="level-item">
+                
+                            &nbsp;
+                
+                        </div>
+                    </div>
 
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
+                    <div class="level-right">
+                        <div class="level-item">
+                
+                            <a href="/lists/list34">Следующий список <img src="/img/icon-arrow.png"/> </a>
+                
+                        </div>
+                    </div>
 
-                &nbsp;
+                </nav>
 
+                <h3 class="gallery__title">РГАСПИ, ф.17, оп.171, дело 410, лист -3</h3>
+                <div class="gallery-slider">
+                    <div class="pages gallery-slider__content">
+                    
+                        <div id="image-0"><img data-src="/disk/pictures/v02/17-171-410_op_4.jpg"/></div>
+                    
+                        <div id="image--1"><img data-src="/disk/pictures/v02/17-171-410_op_3.jpg"/></div>
+                    
+                        <div id="image--2"><img data-src="/disk/pictures/v02/17-171-410_op_2.jpg"/></div>
+                    
+                        <div id="image--3"><img data-src="/disk/pictures/v02/17-171-410_op_1.jpg"/></div>
+                    
+                    </div>
+                    <div class=" gallery-slider__preview">
+                        <div class="pages-preview">
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410_op_4.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410_op_3.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410_op_2.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410_op_1.jpg"/></span>
+                        
+                        </div>
+                    </div>
+                </div>
+
+
+                
+                     
+                
+                     
+                
+                     
+                
+                     
+                 
             </div>
         </div>
-
-        <div class="level-right">
-            <div class="level-item">
-
-                <a href="/lists/list34">Следующий список &rarr;</a>
-
-            </div>
-        </div>
-
-    </nav>
-
-    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">РГАСПИ, ф.17, оп.171, дело 410, лист -3</h2>
-    <div class="content">
-
-
-<div class="pages">
-
-    <div id="image-0"><img data-src="/disk/pictures/v02/17-171-410_op_4.jpg"/></div>
-
-    <div id="image--1"><img data-src="/disk/pictures/v02/17-171-410_op_3.jpg"/></div>
-
-    <div id="image--2"><img data-src="/disk/pictures/v02/17-171-410_op_2.jpg"/></div>
-
-    <div id="image--3"><img data-src="/disk/pictures/v02/17-171-410_op_1.jpg"/></div>
-
+    </div>
 </div>
-<div class="pages-preview is-hidden-mobile">
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410_op_4.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410_op_3.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410_op_2.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410_op_1.jpg"/></span>
+<div class="container has-text-centered">
     
 </div>
+
+<div class="container has-text-centered">
+  
+</div>
+`
+<footer class="footer">
+    <p class="footer__text">
+        1989&ndash;2020 &copy; Международный Мемориал.<br />
+        При использовании любых материалов сайта ссылка на&nbsp;memo.ru
+        обязательна.<br />
+        4 октября 2016 года Минюст РФ&nbsp;внес Международный Мемориал
+        в&nbsp;реестр &laquo;некоммерческих организаций, выполняющих функцию
+        иностранного агента&raquo;. <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a><br />
+        Техническая часть сайта&nbsp;&mdash; <a href="https://ru.itpp.dev/">Айти‑Проджектс&nbsp;Лабс</a>.
+    </p>
+    <a href="/" class="footer__logo"><img src="/memo.svg"/></a>
+    </footer>
+
+<script>
+ $(document).ready(function() {
+
+     
+     $(".mobile-nav__switch").click(function() {
+        $('body').toggleClass('menu-is-on')
+        
+     });
+ });
+</script>
+
+
+
+
+
+<script type="text/javascript" src="/js/iscroll.js"></script>
+
 <script type="text/javascript">
  var target = window.location.hash;
  var target_index = 0;
@@ -143,54 +193,10 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
      controls: false,
      lazyload: true,
  });
+window.addEventListener('load', function () {
+    var myScroll = new IScroll('.gallery-slider__preview', {
+    mouseWheel: true,
+    scrollbars: true
+});
+})
 </script>
-
-
-
- 
-
- 
-
- 
-
- 
- 
-
-
-        </div>
-</div> 
-
-        <div class="container has-text-centered">
-    
-</div>
-
-        <div class="container has-text-centered">
-  
-</div>
-        
-<section class="section section-footer red-text">
-    <div class="container has-text-centered">
-    <p>1989-2020 &copy; Международный Мемориал.<br/>
-При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
-4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
-<br/><img src="/memo.svg"/>
-</p>
-  </div>
-</section>
-<script>
- $(document).ready(function() {
-
-     
-     $(".navbar-burger").click(function() {
-
-         
-         $(".navbar-burger").toggleClass("is-active");
-         $(".navbar-menu").toggleClass("is-active");
-
-     });
- });
-</script>
-
-
-

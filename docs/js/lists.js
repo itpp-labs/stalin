@@ -21,7 +21,7 @@ $(document).ready(function(){
 
     var PAGE_IMAGE_SELECTOR = '.page-image img[data-src]';
     $('.page-image').on('click', function() {
-        var $page = $(this).parent();
+        var $page = $(this).parents('.register');
         $page.find('.page-image, .page-text').toggleClass('is-hidden');
         var $img = $page.find(PAGE_IMAGE_SELECTOR);
         load_image($img);

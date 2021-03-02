@@ -174,8 +174,8 @@ title: Источники
                         <p>
                             &#8470;&nbsp;П3197. Без протокола. &laquo;О.О.П." (РГАСПИ.
                             Ф.17. Оп.171. Д.242. Л.173&ndash;174). В
-                            <a href="u04_2.htm" target="popup"
-                               onclick="window.open('u04_2.htm','popup','width=720,height=740'); return false;"
+                            <a href="/disk/z3/u04_2.htm" target="popup"
+                               onclick="window.open('/disk/z3/u04_2.htm','popup','width=720,height=740'); return false;"
                                class="two-columns__aside-comment-link"
                             >подлиннике решения</a
                             >
@@ -308,8 +308,8 @@ title: Источники
                         <p>
                             То, что эти дела рассматривались в&nbsp;упрощенном порядке,
                             подтверждается, например,
-                            <a href="u24_1.htm" target="popup"
-                               onclick="window.open('u24_1.htm','popup','width=720,height=740'); return false;"
+                            <a href="/disk/z3/u24_1.htm" target="popup"
+                               onclick="window.open('/disk/z3/u24_1.htm','popup','width=720,height=740'); return false;"
                                class="two-columns__aside-comment-link"
                             >письмом наркома юстиции СССР
                                 <nobr>Н. М. Рычкова</nobr>
@@ -400,8 +400,8 @@ title: Источники
                         <sup class="two-columns__aside-comment-sup"><a name="fs26"></a><a href="#fn26">26</a></sup>
                         <p>
                             В&nbsp;качестве примера можно привести
-                            <a href="u25_1.htm" target="popup"
-                               onclick="window.open('u25_1.htm','popup','width=720,height=740'); return false;"
+                            <a href="/disk/z3/u25_1.htm" target="popup"
+                               onclick="window.open('/disk/z3/u25_1.htm','popup','width=720,height=740'); return false;"
                                class="two-columns__aside-comment-link"
                             >справку из&nbsp;дела
                                 <nobr>К. Ф. Роллера</nobr>
@@ -621,8 +621,8 @@ title: Источники
                     В&nbsp;основе &laquo;списочного&raquo; порядка осуждения лежат
                     те&nbsp;упрощенные процедуры судопроизводства, которые были
                     введены
-                    <a href="u1934.htm" target="popup"
-                       onclick="window.open('u1934.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u1934.htm" target="popup"
+                       onclick="window.open('/disk/z3/u1934.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >Постановлением ЦИК и&nbsp;СНК СССР от&nbsp;1 декабря 1934
                         года</a
@@ -720,8 +720,8 @@ title: Источники
                     рассмотрело просьбу Ежова и Вышинского санкционировать осуждение
                     585 человек по списку (любопытно, что это число почти совпадает с
                     указанным в решении от 20 мая 1936 года) и приняло – «опросом» –
-                    следующее <a href="u04_1.htm" target="popup"
-                                 onclick="window.open('u04_1.htm','popup','width=720,height=740'); return false;"
+                    следующее <a href="/disk/z3/u04_1.htm" target="popup"
+                                 onclick="window.open('/disk/z3/u04_1.htm','popup','width=720,height=740'); return false;"
                                  class="docs__text-link">постановление</a
                 ><sup><a name="fn7"></a><a href="#fs7">7</a></sup>:
                 </p>
@@ -733,8 +733,8 @@ title: Источники
                     контрреволюционной
                     террористической организации по&nbsp;первому списку
                     в&nbsp;количестве 585 человек&raquo; (на&nbsp;<a
-                        href="u04_2.htm" target="popup"
-                        onclick="window.open('u04_2.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u04_2.htm" target="popup"
+                        onclick="window.open('/disk/z3/u04_2.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >подлиннике решения</a
                 >
@@ -774,16 +774,16 @@ title: Источники
                     к&nbsp;общему корпусу списков 1937 года (Т.5. Л.373&ndash;375)
                     и&nbsp;включены в&nbsp;опись как единый недатированный список,
                     относящийся к&nbsp;1937 году. В
-                    <a href="u05.htm" target="popup"
-                       onclick="window.open('u05.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u05.htm" target="popup"
+                       onclick="window.open('/disk/z3/u05.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >первом из&nbsp;этих фрагментов</a
                     >
                     &nbsp;&mdash; 114 человек, осужденных выездной сессией ВКВС
                     <nobr>10&mdash;11 октября</nobr>
                     1936 года в&nbsp;Ленинграде, во
-                    <a href="u06.htm" target="popup"
-                       onclick="window.open('u06.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u06.htm" target="popup"
+                       onclick="window.open('/disk/z3/u06.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">втором</a> &nbsp;&mdash; 33
                     человека, из&nbsp;которых 29 были приговорены к&nbsp;расстрелу 7
                     октября 1936 года в&nbsp;Москве, еще двоих расстреляли позже
@@ -1239,25 +1239,25 @@ title: Источники
                     <nobr>секретно-политического</nobr>
                     ) отдела
                     ГУГБ НКВД
-                    <nobr><a href="ugb268.htm" target="popup"
-                             onclick="window.open('ugb268.htm','popup','width=720,height=740'); return false;"
+                    <nobr><a href="/disk/z3/ugb268.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb268.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">В. М. Курский</a></nobr
                     >
                     , затем
-                    <nobr><a href="ugb5.htm" target="popup"
-                             onclick="window.open('ugb5.htm','popup','width=720,height=740'); return false;"
+                    <nobr><a href="/disk/z3/ugb5.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb5.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">Я. С. Агранов</a></nobr
                     >
                     , затем
-                    <nobr><a href="ugb288.htm" target="popup"
-                             onclick="window.open('ugb288.htm','popup','width=720,height=740'); return false;"
+                    <nobr><a href="/disk/z3/ugb288.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb288.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">М. И. Литвин</a></nobr
                     >
                     ; два списка подписал заместитель начальника
                     <nobr>4-го</nobr>
                     отдела
-                    <nobr><a href="ugb96.htm" target="popup"
-                             onclick="window.open('ugb96.htm','popup','width=720,height=740'); return false;"
+                    <nobr><a href="/disk/z3/ugb96.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb96.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">С. Г. Гендин</a></nobr
                     >
                     ; с&nbsp;июля того&nbsp;же года&nbsp;&mdash; начальник
@@ -1268,13 +1268,13 @@ title: Источники
                     <nobr>1-й</nobr>
                     спецотдел НКВД СССР)
                     <nobr
-                    ><a href="ugb523.htm" target="popup"
-                        onclick="window.open('ugb523.htm','popup','width=720,height=740'); return false;"
+                    ><a href="/disk/z3/ugb523.htm" target="popup"
+                        onclick="window.open('/disk/z3/ugb523.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link">В. Е. Цесарский</a></nobr
                     >
                     , затем
-                    <nobr><a href="ugb537.htm" target="popup"
-                             onclick="window.open('ugb537.htm','popup','width=720,height=740'); return false;"
+                    <nobr><a href="/disk/z3/ugb537.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb537.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">И. И. Шапиро</a></nobr
                     >
                     <sup><a name="fn14"></a><a href="#fs14">14</a></sup>.
@@ -1286,8 +1286,8 @@ title: Источники
                 <p class="docs__text-indent">
                     На&nbsp;одном списке зафиксирована подпись
                     <nobr
-                    ><a href="ugb38.htm" target="popup"
-                        onclick="window.open('ugb38.htm','popup','width=720,height=740'); return false;"
+                    ><a href="/disk/z3/ugb38.htm" target="popup"
+                        onclick="window.open('/disk/z3/ugb38.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link">Л. Н. Бельского</a></nobr
                     >
                     &nbsp;&mdash; этот список вовсе не&nbsp;имеет обложки,
@@ -1297,16 +1297,16 @@ title: Источники
                 <p class="docs__text-indent">
                     Списки от&nbsp;14 августа 1937 года и&nbsp;10 июня 1938 года
                     подписаны заместителем Ежова
-                    <nobr><a href="ugb514.htm" target="popup"
-                             onclick="window.open('ugb514.htm','popup','width=720,height=740'); return false;" class="">М.
+                    <nobr><a href="/disk/z3/ugb514.htm" target="popup"
+                             onclick="window.open('/disk/z3/ugb514.htm','popup','width=720,height=740'); return false;" class="">М.
                         П. Фриновским</a></nobr>
                     (в&nbsp;первом случае подпись&nbsp;&mdash; автограф,
                     во&nbsp;втором&nbsp;&mdash; машинопись).
                 </p>
                 <p class="docs__text-indent">
                     Значительные отличия в&nbsp;оформлении имеют два списка от&nbsp;<a
-                        href="u07.htm" target="popup"
-                        onclick="window.open('u07.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u07.htm" target="popup"
+                        onclick="window.open('/disk/z3/u07.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >25 августа 1937 года</a
                 >, составленные по&nbsp;областям Украинской ССР, Харьковскому
@@ -1322,11 +1322,11 @@ title: Источники
                     Подписанные документы поступали к&nbsp;Сталину, иногда
                     с&nbsp;сопроводительными записками Ежова. Судя по&nbsp;двум
                     сохранившимся образцам (Т.9.
-                    <a href="u02.htm" target="popup"
-                       onclick="window.open('u02.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u02.htm" target="popup"
+                       onclick="window.open('/disk/z3/u02.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">Л.210</a>,
-                    <a href="u03.htm" target="popup"
-                       onclick="window.open('u03.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u03.htm" target="popup"
+                       onclick="window.open('/disk/z3/u03.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">221</a>), составлялись они
                     наспех, подчас на&nbsp;клочках бумаги, и&nbsp;носили
                     не&nbsp;слишком официальный характер.
@@ -1432,15 +1432,15 @@ title: Источники
                     фразы: &laquo;За&nbsp;с&nbsp;тем, чтобы приговоры
                     и&nbsp;исполнения в&nbsp;отношении железнодорожников были
                     опубликованы в&nbsp;местной печати&raquo; (<a
-                        href="u08.htm" target="popup"
-                        onclick="window.open('u08.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u08.htm" target="popup"
+                        onclick="window.open('/disk/z3/u08.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >Т.1. Л.114;</a
                 >
                     слово &laquo;железнодорожников&raquo; вписано другой рукой),
                     &laquo;За&nbsp;расстрел всех 138 человек. Сталин&raquo; (<a
-                        href="u09.htm" target="popup"
-                        onclick="window.open('u09.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u09.htm" target="popup"
+                        onclick="window.open('/disk/z3/u09.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >Т.9. Л.211</a
                 >).
@@ -1463,8 +1463,8 @@ title: Источники
                     &laquo;бить, бить&raquo;). Отдельного упоминания достойно
                     <nobr>лаконично-энтузиастичное</nobr> &laquo;Приветствую!
                     Каганович&raquo;, оставленное на&nbsp;одном из&nbsp;списков 1936
-                    года (<a href="u05.htm" target="popup"
-                             onclick="window.open('u05.htm','popup','width=720,height=740'); return false;"
+                    года (<a href="/disk/z3/u05.htm" target="popup"
+                             onclick="window.open('/disk/z3/u05.htm','popup','width=720,height=740'); return false;"
                              class="docs__text-link">Т.5. Л.373</a>).
                 </p>
                 <h2 id="judgment" class="history__title-inside">
@@ -1482,8 +1482,8 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     В&nbsp;качестве примера можно привести
-                    <a href="u10_1.htm" target="popup"
-                       onclick="window.open('u10_1.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u10_1.htm" target="popup"
+                       onclick="window.open('/disk/z3/u10_1.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">письмо</a>, посланное 27
                     октября 1937 года из&nbsp;
                     <nobr>8-го</nobr>
@@ -1503,8 +1503,8 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     На&nbsp;присланных из&nbsp;Москвы
-                    <a href="u11.htm" target="popup"
-                       onclick="window.open('u11.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u11.htm" target="popup"
+                       onclick="window.open('/disk/z3/u11.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >экземплярах списков, сохранившихся в&nbsp;Грузии</a
                     >, имеется ряд помет, сделанных местными чекистами.
@@ -1721,8 +1721,8 @@ title: Источники
                     озаглавлены просто &laquo;Список&raquo; или &laquo;Список
                     лиц&raquo;, без указания, что означенные в&nbsp;нем лица подлежат
                     суду ВКВС, либо не&nbsp;имели обложки (см.
-                    <a href="u12.htm" target="popup"
-                       onclick="window.open('u12.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u12.htm" target="popup"
+                       onclick="window.open('/disk/z3/u12.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >первый список, поданный в&nbsp;июне 1937 года&nbsp;&mdash; Т.1.
                         Л.197&ndash;198</a
@@ -1748,8 +1748,8 @@ title: Источники
                     в&nbsp;данном случае подписи
                     Сталина и&nbsp;его ближайших соратников имели силу окончательного
                     приговора и&nbsp;не&nbsp;нуждались в&nbsp;формальной легитимации.
-                    <a href="u13.htm" target="popup"
-                       onclick="window.open('u13.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u13.htm" target="popup"
+                       onclick="window.open('/disk/z3/u13.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >Предписания о&nbsp;приведении приговоров в&nbsp;исполнение</a
                     >
@@ -2003,12 +2003,12 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     Уже 14 февраля 1939 года Берия и&nbsp;Вышинский направили Сталину
-                    <a href="u14_2.htm" target="popup"
-                       onclick="window.open('u14_2.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u14_2.htm" target="popup"
+                       onclick="window.open('/disk/z3/u14_2.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">записку</a> с&nbsp;подобной
                     просьбой. Принятое уже 16 февраля по&nbsp;записке
-                    <a href="u14_1.htm" target="popup"
-                       onclick="window.open('u14_1.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u14_1.htm" target="popup"
+                       onclick="window.open('/disk/z3/u14_1.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >постановление Политбюро за&nbsp;&#8470;&nbsp;П68/
                         <nobr
@@ -2027,8 +2027,8 @@ title: Источники
                     1934&nbsp;г.&raquo;<sup><a name="fn29"></a><a href="#fs29">29</a></sup>. Вероятно, большинство людей
                     из&nbsp;этого списка были расстреляны&nbsp;&mdash; во&nbsp;всяком
                     случае, к&nbsp;такому выводу подталкивает
-                    <a href="u15.htm" target="popup"
-                       onclick="window.open('u15.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u15.htm" target="popup"
+                       onclick="window.open('/disk/z3/u15.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">отчетная записка Ульриха</a>
                     на&nbsp;имя Сталина от&nbsp;16&nbsp;марта 1939 года
                     о&nbsp;состоявшихся судах. С&nbsp;21 февраля по&nbsp;14&nbsp;марта
@@ -2058,8 +2058,8 @@ title: Источники
                 <p class="docs__text-indent">
                     Вскоре последовала новая серия &laquo;списочных&raquo; расправ.
                     Своим
-                    <a href="u16.htm" target="popup"
-                       onclick="window.open('u16.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u16.htm" target="popup"
+                       onclick="window.open('/disk/z3/u16.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >решением от&nbsp;8 апреля 1939 года
                         за&nbsp;&#8470;&nbsp;П1/
@@ -2081,8 +2081,8 @@ title: Источники
                     приговорить к&nbsp;заключению в&nbsp;лагерь &laquo;на&nbsp;срок
                     не&nbsp;менее 15 лет каждого&raquo;<sup><a name="fn31"></a><a href="#fs31">31</a></sup>. Это решение
                     также было инициировано
-                    <a href="u17.htm" target="popup"
-                       onclick="window.open('u17.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u17.htm" target="popup"
+                       onclick="window.open('/disk/z3/u17.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >совместной запиской НКВД и&nbsp;Прокуратуры,
                         <nobr>т. е.</nobr>
@@ -2095,8 +2095,8 @@ title: Источники
                 <p class="docs__text-indent">
                     О&nbsp;результатах рассмотрения дел в&nbsp;ВКВС Берия сообщил 7
                     июня 1939 года
-                    <a href="u18_1.htm" target="popup"
-                       onclick="window.open('u18_1.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u18_1.htm" target="popup"
+                       onclick="window.open('/disk/z3/u18_1.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >запиской &#8470;&nbsp;1968/б</a
                     >
@@ -2117,8 +2117,8 @@ title: Источники
                     прочитав письмо, наложил следующую резолюцию: &laquo;т. Берия.
                     По&nbsp;первой группе дать от&nbsp;10 до&nbsp;25 лет,
                     по&nbsp;второй группе&nbsp;&mdash; расстрелять всю восьмерку.
-                    И.Сталин&raquo; (<a href="u18_1.htm" target="popup"
-                                        onclick="window.open('u18_1.htm','popup','width=720,height=740'); return false;"
+                    И.Сталин&raquo; (<a href="/disk/z3/u18_1.htm" target="popup"
+                                        onclick="window.open('/disk/z3/u18_1.htm','popup','width=720,height=740'); return false;"
                                         class="docs__text-link"
                 >Там&nbsp;же. Л.87</a
                 >). Этот пример наглядно показывает степень самостоятельности
@@ -2132,8 +2132,8 @@ title: Источники
                 <p class="docs__text-indent">
                     В&nbsp;1940 году, 16 января, Берия представил Сталину очередной
                     список на&nbsp;несколько сотен человек<sup><a name="fn33"></a><a href="#fs33">33</a></sup>. В&nbsp;<a
-                        href="u19a.htm" target="popup"
-                        onclick="window.open('u19a.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u19a.htm" target="popup"
+                        onclick="window.open('/disk/z3/u19a.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >сопроводительной записке (&#8470;&nbsp;265/б)</a
                 >
@@ -2162,8 +2162,8 @@ title: Источники
                     <nobr>М. П. Фриновского</nobr>
                     с&nbsp;женой
                     и&nbsp;сыном).
-                    <a href="u19b.htm" target="popup"
-                       onclick="window.open('u19b.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u19b.htm" target="popup"
+                       onclick="window.open('/disk/z3/u19b.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link">Решение</a> было принято
                     Политбюро уже на&nbsp;следующий день&nbsp;&mdash; 17 января
                     (&#8470;&nbsp;П11/
@@ -2173,8 +2173,8 @@ title: Источники
                     <nobr>каких-либо</nobr>
                     поправок и&nbsp;изменений<sup><a name="fn35"></a><a href="#fs35">35</a></sup>.
                     В&nbsp;фонде 7 ЦА&nbsp;ФСБ сохранились
-                    <a href="u19.htm" target="popup"
-                       onclick="window.open('u19.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u19.htm" target="popup"
+                       onclick="window.open('/disk/z3/u19.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >&laquo;рабочие материалы&raquo;</a
                     >
@@ -2211,8 +2211,8 @@ title: Источники
                     оформлялись только на&nbsp;иностранцев,
                     и&nbsp;то&nbsp;не&nbsp;всегда). На&nbsp;этот раз в&nbsp;архиве
                     не&nbsp;сохранилось, однако, никакого решения Политбюро,
-                    а&nbsp;на&nbsp;<a href="u20.htm" target="popup"
-                                      onclick="window.open('u20.htm','popup','width=720,height=740'); return false;"
+                    а&nbsp;на&nbsp;<a href="/disk/z3/u20.htm" target="popup"
+                                      onclick="window.open('/disk/z3/u20.htm','popup','width=720,height=740'); return false;"
                                       class="docs__text-link">записке</a>
                     имеется лишь помета Сталина &laquo;От&nbsp;т. Берия&raquo;.
                 </p>
@@ -2293,8 +2293,8 @@ title: Источники
                 </p>
                 <p class="docs__text-indent">
                     6 сентября 1941 года Сталин подписал
-                    <a href="u21.htm" target="popup"
-                       onclick="window.open('u21.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u21.htm" target="popup"
+                       onclick="window.open('/disk/z3/u21.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >решение ГКО &#8470;&nbsp;634сс</a
                     >, санкционировавшее расстрел заключенных Орловской тюрьмы.
@@ -2311,8 +2311,8 @@ title: Источники
                     &laquo;арестованных, числящихся за&nbsp;НКВД СССР&raquo;.
                     На&nbsp;этот раз вопрос был решен менее формально. Никаких
                     постановлений не&nbsp;принималось, была лишь наложена резолюция:
-                    <a href="u22.htm" target="popup"
-                       onclick="window.open('u22.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/u22.htm" target="popup"
+                       onclick="window.open('/disk/z3/u22.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >&laquo;Расстрелять всех поименованных в&nbsp;записке.
                         И.Сталин&raquo;</a
@@ -2337,8 +2337,8 @@ title: Источники
                     от&nbsp;
                     <nobr>01.12.1934</nobr>
                     , хотя в&nbsp;<a
-                        href="u23.htm" target="popup"
-                        onclick="window.open('u23.htm','popup','width=720,height=740'); return false;"
+                        href="/disk/z3/u23.htm" target="popup"
+                        onclick="window.open('/disk/z3/u23.htm','popup','width=720,height=740'); return false;"
                         class="docs__text-link"
                 >письме Абакумова</a
                 >
@@ -2448,8 +2448,8 @@ title: Источники
                     <nobr>Б. К. Пуго</nobr>
                     сотрудниками архива была
                     подготовлена небольшая секретная
-                    <a href="unote1988.htm" target="popup"
-                       onclick="window.open('unote1988.htm','popup','width=720,height=740'); return false;"
+                    <a href="/disk/z3/unote1988.htm" target="popup"
+                       onclick="window.open('/disk/z3/unote1988.htm','popup','width=720,height=740'); return false;"
                        class="docs__text-link"
                     >справка &laquo;Сведения о&nbsp;списках, поступивших из&nbsp;МВД
                         СССР на&nbsp;лиц, репрессированных в&nbsp;

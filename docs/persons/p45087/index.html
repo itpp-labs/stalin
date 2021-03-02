@@ -19,8 +19,12 @@
 
 
 
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+  rel="stylesheet"
+/>
 <link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -45,80 +49,56 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
-    <nav class="navbar level">
-        <div class="navbar-brand">
+<header>
+  <span class="mobile-nav__switch"></span>
+  <div class="mobile-nav">
+    <div class="nav">
+      <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="nav__item">Сталинские расстрельные списки</a>
+      <a href="/about/" class="nav__item">О проекте</a>
+      <a href="/history/" class="nav__item">История осуждений по спискам</a>
+      <a href="/all-lists" class="nav__item">Просмотр списков</a>
+      <a href="/search/" class="nav__item">Поиск</a>
+      <a href="/sources/" class="nav__item">Источники</a>
+    </div>
+  </div>
+</header>
 
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-      <div class="navbar-menu">
-            <div class="navbar-start">
-                <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="navbar-item" >Сталинские расстрельные списки</a>
-                <a href="/about/" class="navbar-item">О проекте</a>
-                <a href="/history/" class="navbar-item">История осуждений по спискам</a>
-            </div>
-            <div class="navbar-end">
-
-                <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
-
-                <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
-                <a href="/sources/" class="navbar-item">Источники</a>
-
-            </div>
-      </div>
-
-    </nav>
-
-<div class="container">
-    <h2 id="spravka" class="subtitle is-size-4-mobile is-size-3-desktop">БОЯР Эмиль Петрович</h2>
-    <div class="content">
-
-        
-        
-
-        
-        
-        
-
-        
-
-        <div class="columns">
-            <div class="column is-4">
-                <div id="spiski">
-                
-                <p><a href="/lists/list411#person-12-16-1">Список от 23 марта 1950г. - 1-я категория - АП РФ, ф.3, оп.57, дело 100, лист 12</a></p>
-                
-                </div>
-
-
-                
-            </div>
-            <div class="column">
-
-
-
-        
-        <p>
-            <b>Бояр Эмиль Петрович</b><br/>
-            заместитель председателя Леноблисполкома. <br/>  Ленинградская трагедия. Документальный сериал. (Россия, 2005). 5 фильмов. <br/>  Фильм 4-й. Разбитое зеркало. Этот фильм отличается от всех остальных тем, что его участники - члены семьи бывшего первого заместителя председателя Леноблисполкома Михаила Таирова. Они считают, что каждый из них состоялся и с честью прошел через все испытания. <br/>  Все началось на пляже в Евпатории в августе 1949 года, где на следующий день после приезда был арестован Эмиль Бояр - заместитель председателя Леноблисполкома. За час до этого его маленькая дочка Светлана нашла красивую ракушку и попросила маму куда-нибудь ее спрятать. Мама положила ракушку в золотую пудреницу, которую муж подарил ей, когда родилась Светлана [Таирова Светлана Эмильевна, музыковед]. Зеркало треснуло. С этого, как считает Светлана, начались аресты в ее семье. Ей повезло. Она училась в школе для одаренных детей, музыкальной 10-летке, и ее не стали ссылать в детский дом. <br/>  Была арестована и семья Таировых: мать и двое детей. Так случилось, что пройдя сквозь пытки, лагеря и тюрьмы два старых друга, Михаил Таиров и Эмиль Бояр, возвращались после смерти Сталина в одном купе в родной город из Владимирского централа. Они оба сумели снова заняться интересной работой, а их дети Юра и Светлана стали мужем и женой. Они считают, что благодаря «Ленинградскому делу» и вопреки ему они нашли свое счастье.
-            <br/>
-            <b>Источник:</b> <em>www.nvmu.ru/archiv/1/n_0/7962.htm</em>
-        </p>
-        
-        <p id="edit_button" style="display:none"><a target="_blank" href="https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/p45087.yaml">Редактировать справки</a></p>
-
-
-
-        
-            <h1 id="gb">Версия следствия</h1>
+<section class="full-screen-section person-section">
+    <div class="wrap">
+        <h2 class="two-columns__title">БОЯР Эмиль Петрович</h2>
+        <div class="two-columns person">      
             
-                 
-                 <div id="gb-411">
-                     <HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские списки - Список 23.03.1950 (АП РФ Ф.3 оп.57 д.100 лл.2-54)</TITLE></HEAD><BODY>
+            
+
+            
+            
+            
+
+            
+
+            <div class="two-columns__aside">
+                <div class="person__aside-links">
+                    
+                        <a class="two-columns__aside-link" href="/lists/list411#person-12-16-1">Список от 23 марта 1950г. - 1-я категория - АП РФ, ф.3, оп.57, дело 100, лист 12</a>
+                    
+                </div>
+                
+            </div>
+            <div class="two-columns__center">
+                
+                    <div class="person__source">
+                        <p><strong>Бояр Эмиль Петрович</strong></p>
+                        заместитель председателя Леноблисполкома. <br/>  Ленинградская трагедия. Документальный сериал. (Россия, 2005). 5 фильмов. <br/>  Фильм 4-й. Разбитое зеркало. Этот фильм отличается от всех остальных тем, что его участники - члены семьи бывшего первого заместителя председателя Леноблисполкома Михаила Таирова. Они считают, что каждый из них состоялся и с честью прошел через все испытания. <br/>  Все началось на пляже в Евпатории в августе 1949 года, где на следующий день после приезда был арестован Эмиль Бояр - заместитель председателя Леноблисполкома. За час до этого его маленькая дочка Светлана нашла красивую ракушку и попросила маму куда-нибудь ее спрятать. Мама положила ракушку в золотую пудреницу, которую муж подарил ей, когда родилась Светлана [Таирова Светлана Эмильевна, музыковед]. Зеркало треснуло. С этого, как считает Светлана, начались аресты в ее семье. Ей повезло. Она училась в школе для одаренных детей, музыкальной 10-летке, и ее не стали ссылать в детский дом. <br/>  Была арестована и семья Таировых: мать и двое детей. Так случилось, что пройдя сквозь пытки, лагеря и тюрьмы два старых друга, Михаил Таиров и Эмиль Бояр, возвращались после смерти Сталина в одном купе в родной город из Владимирского централа. Они оба сумели снова заняться интересной работой, а их дети Юра и Светлана стали мужем и женой. Они считают, что благодаря «Ленинградскому делу» и вопреки ему они нашли свое счастье.
+                        <p><b>Источник:</b> <em>www.nvmu.ru/archiv/1/n_0/7962.htm</em></p>
+                    </div>
+                
+                <div class="person__edit" id="edit_button" style="display:none"><a target="_blank" href="https://github.com/itpp-labs/stalin/edit/master/hugo/data/spravki/p45087.yaml">Редактировать справки</a></div>
+                
+                    <h1 id="gb">Версия следствия</h1>
+                    
+                        
+                        <div id="gb-411">
+                            <HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251"><TITLE>Сталинские списки - Список 23.03.1950 (АП РФ Ф.3 оп.57 д.100 лл.2-54)</TITLE></HEAD><BODY>
 <P>16. БОЯР Эмиль Петрович, бывш. заместитель председателя исполкома Ленинградского областного Совета депутатов трудящихся, до ареста – начальник Управления промкооперации Ленинградской области, 1902 года рождения, латыш, бывший член ВКП(б) с 1918 года.</P>
 <P>Арестован 17 июля 1949 года.</P><DIR>
 <DIR>
@@ -131,54 +111,46 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 </BODY></HTML>
 
-                     
-                         <a href="/lists/list411#image-12"><img src="/disk/pictures/v16/3-57-100-12.jpg"/></a>
-                     
-                 </div>
-            
-        
-
-
+                            
+                                <a href="/lists/list411#image-12"><img src="/disk/pictures/v16/3-57-100-12.jpg"/></a>
+                            
+                        </div>
+                    
+                                
             </div>
-        </div>
+        </div>        
+    </div>
+  </section>
 
 
-
-
-
-
-     </div>
-</div>
-
-
-        <div class="container has-text-centered">
+<div class="container has-text-centered">
     
 </div>
 
-        <div class="container has-text-centered">
+<div class="container has-text-centered">
   
 </div>
-        
-<section class="section section-footer red-text">
-    <div class="container has-text-centered">
-    <p>1989-2020 &copy; Международный Мемориал.<br/>
-При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
-4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
-<br/><img src="/memo.svg"/>
-</p>
-  </div>
-</section>
+`
+<footer class="footer">
+    <p class="footer__text">
+        1989&ndash;2020 &copy; Международный Мемориал.<br />
+        При использовании любых материалов сайта ссылка на&nbsp;memo.ru
+        обязательна.<br />
+        4 октября 2016 года Минюст РФ&nbsp;внес Международный Мемориал
+        в&nbsp;реестр &laquo;некоммерческих организаций, выполняющих функцию
+        иностранного агента&raquo;. <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a><br />
+        Техническая часть сайта&nbsp;&mdash; <a href="https://ru.itpp.dev/">Айти‑Проджектс&nbsp;Лабс</a>.
+    </p>
+    <a href="/" class="footer__logo"><img src="/memo.svg"/></a>
+    </footer>
+
 <script>
  $(document).ready(function() {
 
      
-     $(".navbar-burger").click(function() {
-
-         
-         $(".navbar-burger").toggleClass("is-active");
-         $(".navbar-menu").toggleClass("is-active");
-
+     $(".mobile-nav__switch").click(function() {
+        $('body').toggleClass('menu-is-on')
+        
      });
  });
 </script>

@@ -27,8 +27,12 @@
 
 
 
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+  rel="stylesheet"
+/>
 <link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/styles.css">
-<link rel="stylesheet" href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai//css/extra_styles.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -53,193 +57,142 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 
 
 
-    <nav class="navbar level">
-        <div class="navbar-brand">
-
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-      <div class="navbar-menu">
-            <div class="navbar-start">
-                <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="navbar-item" >Сталинские расстрельные списки</a>
-                <a href="/about/" class="navbar-item">О проекте</a>
-                <a href="/history/" class="navbar-item">История осуждений по спискам</a>
-            </div>
-            <div class="navbar-end">
-
-                <a href="/all-lists/" class="navbar-item">Просмотр списков</a>
-
-                <a href="/search/" class="navbar-item" id="nav-search-button">Поиск</a>
-                <a href="/sources/" class="navbar-item">Источники</a>
-
-            </div>
-      </div>
-
-    </nav>
+<header>
+  <span class="mobile-nav__switch"></span>
+  <div class="mobile-nav">
+    <div class="nav">
+      <a href="http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/" class="nav__item">Сталинские расстрельные списки</a>
+      <a href="/about/" class="nav__item">О проекте</a>
+      <a href="/history/" class="nav__item">История осуждений по спискам</a>
+      <a href="/all-lists" class="nav__item">Просмотр списков</a>
+      <a href="/search/" class="nav__item">Поиск</a>
+      <a href="/sources/" class="nav__item">Источники</a>
+    </div>
+  </div>
+</header>
 
 
-<div class="container">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-
-                <a href="/lists/list63">&larr; Предыдущий список</a>
-
-            </div>
-        </div>
-
-        <div class="level-right">
-            <div class="level-item">
-
-                <a href="/lists/list65">Следующий список &rarr;</a>
-
-            </div>
-        </div>
-
-    </nav>
-
-    <h2 class="subtitle is-size-4-mobile is-size-3-desktop">РГАСПИ, ф.17, оп.171, дело 410, лист 241</h2>
-    <div class="content">
-
-
-<div class="pages">
-
-    <div id="image-241"><img data-src="/disk/pictures/v02/17-171-410-241.jpg"/></div>
-
-    <div id="image-242"><img data-src="/disk/pictures/v02/17-171-410-242.jpg"/></div>
-
-    <div id="image-243"><img data-src="/disk/pictures/v02/17-171-410-243.jpg"/></div>
-
-    <div id="image-244"><img data-src="/disk/pictures/v02/17-171-410-244.jpg"/></div>
-
-    <div id="image-245"><img data-src="/disk/pictures/v02/17-171-410-245.jpg"/></div>
-
-    <div id="image-246"><img data-src="/disk/pictures/v02/17-171-410-246.jpg"/></div>
-
-    <div id="image-247"><img data-src="/disk/pictures/v02/17-171-410-247.jpg"/></div>
-
-    <div id="image-248"><img data-src="/disk/pictures/v02/17-171-410-248.jpg"/></div>
-
-</div>
-<div class="pages-preview is-hidden-mobile">
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-241.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-242.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-243.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-244.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-245.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-246.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-247.jpg"/></span>
-    
-    <span><img width="30" src="/disk/pictures-small/v02/17-171-410-248.jpg"/></span>
-    
-</div>
-<script type="text/javascript">
- var target = window.location.hash;
- var target_index = 0;
- if (target.indexOf("#image-") != -1 ){
-     target_index = $('.pages > div').index($(target));
- }
-
- window.slider = tns({
-     startIndex: target_index,
-     container: ".pages",
-     gutter: 5,
-     navContainer: ".pages-preview",
-     mouseDrag: true,
-     navAsThumbnails: true,
-     arrowKeys: true,
-     controls: false,
-     lazyload: true,
- });
+<script>
+    $('.nav a').eq(3).addClass('is-active');
 </script>
 
+<div class="container">
+    <div class="full-screen-section lists-section">
+        <div class="wrap">
+          <div class="one-column lists gallery">
+                <nav class="level">  
+                    <div class="level-left">
+                        <div class="level-item">
+                
+                            <a href="/lists/list63"><img src="/img/icon-arrow.png"/>Предыдущий список</a>
+                
+                        </div>
+                    </div>
+
+                    <div class="level-right">
+                        <div class="level-item">
+                
+                            <a href="/lists/list65">Следующий список <img src="/img/icon-arrow.png"/> </a>
+                
+                        </div>
+                    </div>
+
+                </nav>
+
+                <h3 class="gallery__title">РГАСПИ, ф.17, оп.171, дело 410, лист 241</h3>
+                <div class="gallery-slider">
+                    <div class="pages gallery-slider__content">
+                    
+                        <div id="image-241"><img data-src="/disk/pictures/v02/17-171-410-241.jpg"/></div>
+                    
+                        <div id="image-242"><img data-src="/disk/pictures/v02/17-171-410-242.jpg"/></div>
+                    
+                        <div id="image-243"><img data-src="/disk/pictures/v02/17-171-410-243.jpg"/></div>
+                    
+                        <div id="image-244"><img data-src="/disk/pictures/v02/17-171-410-244.jpg"/></div>
+                    
+                        <div id="image-245"><img data-src="/disk/pictures/v02/17-171-410-245.jpg"/></div>
+                    
+                        <div id="image-246"><img data-src="/disk/pictures/v02/17-171-410-246.jpg"/></div>
+                    
+                        <div id="image-247"><img data-src="/disk/pictures/v02/17-171-410-247.jpg"/></div>
+                    
+                        <div id="image-248"><img data-src="/disk/pictures/v02/17-171-410-248.jpg"/></div>
+                    
+                    </div>
+                    <div class=" gallery-slider__preview">
+                        <div class="pages-preview">
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-241.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-242.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-243.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-244.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-245.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-246.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-247.jpg"/></span>
+                        
+                        <span><img width="94" src="/disk/pictures-medium/v02/17-171-410-248.jpg"/></span>
+                        
+                        </div>
+                    </div>
+                </div>
 
 
+                
+                    
+                        
 
-   
+                        <div id="page-241" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 241</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                        
+                                        
+                                    
+                                        <p class="has-text-centered">СТАЛИНГРАДСКАЯ ОБЛАСТЬ</p><p class="has-text-centered">СПИСОК<BR>ЛИЦ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ КОЛЛЕГИИ<BR>ВЕРХОВНОГО СУДА СОЮЗА ССР</p><p class="has-text-right">20 августа 1937 года</p><p class="has-text-centered red-text">За Сталин, Каганович, Ворошилов, Молотов, Косиор</p>
+                                     
 
-<div id="page-241" class="mt-5 is-clearfix">
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-241.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-241.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">241</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-241.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-    
-    
-
-    <p class="has-text-centered">СТАЛИНГРАДСКАЯ ОБЛАСТЬ</p><p class="has-text-centered">СПИСОК<BR>ЛИЦ, ПОДЛЕЖАЩИХ СУДУ ВОЕННОЙ КОЛЛЕГИИ<BR>ВЕРХОВНОГО СУДА СОЮЗА ССР</p><p class="has-text-right">20 августа 1937 года</p><p class="has-text-centered red-text">За Сталин, Каганович, Ворошилов, Молотов, Косиор</p>
- 
-</div> 
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-241.jpg"/>
-    </div>
-
-</div> 
-
- 
-
-
-   
-
-<div id="page-242" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">242</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-242.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-    
-    
-
-    <p class="has-text-centered underlined-text">СПРАВКА</p>
+                        <div id="page-242" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 242</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                        
+                                        
+                                    
+                                        <p class="has-text-centered underlined-text">СПРАВКА</p>
 <div class="columns is-mobile">
   <div class="column is-half has-text-right">&nbsp;<br/><br/></div>
   <div class="column underlined-text">1-я кат.<br/><br/></div><div class="column underlined-text">2-я кат.<br/><br/></div><div class="column underlined-text">ВСЕГО<br/><br/></div>
@@ -250,1489 +203,1364 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
   <div class="column">50</div><div class="column">14</div><div class="column">64</div>
 </div>
                 
- 
-</div> 
+                                     
 
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-242.jpg"/>
-    </div>
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-242.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-242.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-</div> 
-
- 
-
-
-   
-
-<div id="page-243" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">243</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-243.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-
-
-    
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num is-3 mr-3">&nbsp;</div>
-        <div class="column person-name is-8">
-        <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
-        </div>
-    </div>
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                        <div id="page-243" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 243</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        <div class="columns is-mobile is-gapless">
+                                            <div class="column person-num is-3 mr-3">&nbsp;</div>
+                                            <div class="column person-name is-8">
+                                            <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
+                                            </div>
+                                        </div>
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6077#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">1.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-1-1"
-               class="person">
-                <span class="person-name">АЛЕКСАНДРОВ Иван Григорьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">1.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-1-1"
+                                            class="person">
+                                                <span class="person-name">АЛЕКСАНДРОВ Иван Григорьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6078#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">2.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-2-2"
-               class="person">
-                <span class="person-name">АНТОНОВ Степан Андрианович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">2.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-2-2"
+                                            class="person">
+                                                <span class="person-name">АНТОНОВ Степан Андрианович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6079#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">3.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-3-3"
-               class="person">
-                <span class="person-name">БЕЗРУКОВ Борис Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">3.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-3-3"
+                                            class="person">
+                                                <span class="person-name">БЕЗРУКОВ Борис Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6080#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">4.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-4-4"
-               class="person">
-                <span class="person-name">БЕЗРУКОВ Константин Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">4.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-4-4"
+                                            class="person">
+                                                <span class="person-name">БЕЗРУКОВ Константин Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6081#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">5.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-5-5"
-               class="person">
-                <span class="person-name">БОРЯЕВ Александр Григорьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">5.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-5-5"
+                                            class="person">
+                                                <span class="person-name">БОРЯЕВ Александр Григорьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6082#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">6.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-6-6"
-               class="person">
-                <span class="person-name">БРАЖНИКОВ Иван Андреевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">6.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-6-6"
+                                            class="person">
+                                                <span class="person-name">БРАЖНИКОВ Иван Андреевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6083#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">7.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-7-7"
-               class="person">
-                <span class="person-name">ВЕРНЕР Виктор Григорьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">7.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-7-7"
+                                            class="person">
+                                                <span class="person-name">ВЕРНЕР Виктор Григорьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6084#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">8.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-8-8"
-               class="person">
-                <span class="person-name">ВЛАДСКИЙ, он же ПЕТРЕНКО Иван Афанасьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">8.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-8-8"
+                                            class="person">
+                                                <span class="person-name">ВЛАДСКИЙ, он же ПЕТРЕНКО Иван Афанасьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6085#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">9.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-9-9"
-               class="person">
-                <span class="person-name">ГЕРМАН Иосиф Стефанович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">9.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-9-9"
+                                            class="person">
+                                                <span class="person-name">ГЕРМАН Иосиф Стефанович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">10.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-10-10"
-               class="person">
-                <span class="person-name">ГОНЧАРОВ Дмитрий Васильевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">10.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-10-10"
+                                            class="person">
+                                                <span class="person-name">ГОНЧАРОВ Дмитрий Васильевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6087#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">11.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-11-11"
-               class="person">
-                <span class="person-name">ГУЖВЕНКО Федор Андреевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">11.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-11-11"
+                                            class="person">
+                                                <span class="person-name">ГУЖВЕНКО Федор Андреевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6088#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">12.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-12-12"
-               class="person">
-                <span class="person-name">ДАВЫДОВ Юрий Александрович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">12.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-12-12"
+                                            class="person">
+                                                <span class="person-name">ДАВЫДОВ Юрий Александрович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6089#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">13.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-13-13"
-               class="person">
-                <span class="person-name">ДУБРОВИН Сергей Трофимович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">13.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-13-13"
+                                            class="person">
+                                                <span class="person-name">ДУБРОВИН Сергей Трофимович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6090#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">14.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-14-14"
-               class="person">
-                <span class="person-name">ДУДИН Сергей Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">14.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-14-14"
+                                            class="person">
+                                                <span class="person-name">ДУДИН Сергей Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6091#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">15.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-15-15"
-               class="person">
-                <span class="person-name">ДУМЛЕР Иван Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">15.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-15-15"
+                                            class="person">
+                                                <span class="person-name">ДУМЛЕР Иван Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6092#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">16.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-16-16"
-               class="person">
-                <span class="person-name">ЗАХАРОВ Степан Карпович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">16.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-16-16"
+                                            class="person">
+                                                <span class="person-name">ЗАХАРОВ Степан Карпович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">17.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-17-17"
-               class="person">
-                <span class="person-name">ЗЕМЛЯКОВ Михаил Андреевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">17.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-17-17"
+                                            class="person">
+                                                <span class="person-name">ЗЕМЛЯКОВ Михаил Андреевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6094#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">18.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-18-18"
-               class="person">
-                <span class="person-name">ЗИМИН Иван Александрович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">18.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-18-18"
+                                            class="person">
+                                                <span class="person-name">ЗИМИН Иван Александрович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6095#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">19.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-19-19"
-               class="person">
-                <span class="person-name">ИВАНОВ Леонид Арсентьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">19.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-19-19"
+                                            class="person">
+                                                <span class="person-name">ИВАНОВ Леонид Арсентьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6096#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">20.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-20-20"
-               class="person">
-                <span class="person-name">ИЗОСИМОВ Владимир Филатович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">20.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-20-20"
+                                            class="person">
+                                                <span class="person-name">ИЗОСИМОВ Владимир Филатович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6097#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">21.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-21-21"
-               class="person">
-                <span class="person-name">КАЛНМАЛ Фриц Германович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">21.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-21-21"
+                                            class="person">
+                                                <span class="person-name">КАЛНМАЛ Фриц Германович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6098#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">22.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-22-22"
-               class="person">
-                <span class="person-name">КАРПОВ Михаил Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">22.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-22-22"
+                                            class="person">
+                                                <span class="person-name">КАРПОВ Михаил Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">23.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-23-23"
-               class="person">
-                <span class="person-name">КЕРЕНЦЕВ Александр Васильевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">23.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-23-23"
+                                            class="person">
+                                                <span class="person-name">КЕРЕНЦЕВ Александр Васильевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6100#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">24.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-24-24"
-               class="person">
-                <span class="person-name">КИБАРДИН Николай Николаевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">24.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-24-24"
+                                            class="person">
+                                                <span class="person-name">КИБАРДИН Николай Николаевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6101#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">25.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-243-25-25"
-               class="person">
-                <span class="person-name">КОГАН Борис Захарович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">25.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-25-25"
+                                            class="person">
+                                                <span class="person-name">КОГАН Борис Захарович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6102#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">26.</span>
-        </div>
+                                            <span class="ml-1">26.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-243-26-26"
+                                            class="person">
+                                                <span class="person-name">КРАСНОВ Захар Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                     
+                                     
+                                    
+                                     
 
-        <div class="column person-name is-9">
-            <p id="person-243-26-26"
-               class="person">
-                <span class="person-name">КРАСНОВ Захар Иванович</span>&nbsp;
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-243.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-243.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-     
- 
-
- 
-</div> 
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-243.jpg"/>
-    </div>
-
-</div> 
-
- 
-
-
-   
-
-<div id="page-244" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937 [Сталинградская обл.]<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">244</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-244.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                        <div id="page-244" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937 [Сталинградская обл.]</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 244</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                    
+                                    
+                                        
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6103#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">27.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-27-1"
-               class="person">
-                <span class="person-name">КУЗНЕЦОВ Григорий Тарасович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">27.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-27-1"
+                                            class="person">
+                                                <span class="person-name">КУЗНЕЦОВ Григорий Тарасович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6104#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">28.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-28-2"
-               class="person">
-                <span class="person-name">НАЗАРОВ Павел Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">28.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-28-2"
+                                            class="person">
+                                                <span class="person-name">НАЗАРОВ Павел Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6105#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">29.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-29-3"
-               class="person">
-                <span class="person-name">НОВИКОВ Захар Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">29.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-29-3"
+                                            class="person">
+                                                <span class="person-name">НОВИКОВ Захар Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6106#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">30.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-30-4"
-               class="person">
-                <span class="person-name">НОГИЕВ Василий Николаевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">30.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-30-4"
+                                            class="person">
+                                                <span class="person-name">НОГИЕВ Василий Николаевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6107#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">31.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-31-5"
-               class="person">
-                <span class="person-name">ПОНОМАРЕНКО Василий Дмитриевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">31.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-31-5"
+                                            class="person">
+                                                <span class="person-name">ПОНОМАРЕНКО Василий Дмитриевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6108#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">32.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-32-6"
-               class="person">
-                <span class="person-name">ПРЕОБРАЖЕНСКИЙ Николай Никитович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">32.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-32-6"
+                                            class="person">
+                                                <span class="person-name">ПРЕОБРАЖЕНСКИЙ Николай Никитович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6109#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">33.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-33-7"
-               class="person">
-                <span class="person-name">СЕМИЛЕТОВ Василий Георгиевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">33.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-33-7"
+                                            class="person">
+                                                <span class="person-name">СЕМИЛЕТОВ Василий Георгиевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6110#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">34.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-34-8"
-               class="person">
-                <span class="person-name">СЕРГЕЕВ Николай Антонович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">34.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-34-8"
+                                            class="person">
+                                                <span class="person-name">СЕРГЕЕВ Николай Антонович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6111#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">35.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-35-9"
-               class="person">
-                <span class="person-name">СМОЛЬЯКОВ Григорий Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">35.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-35-9"
+                                            class="person">
+                                                <span class="person-name">СМОЛЬЯКОВ Григорий Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6112#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">36.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-36-10"
-               class="person">
-                <span class="person-name">СОДЭН Александр Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">36.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-36-10"
+                                            class="person">
+                                                <span class="person-name">СОДЭН Александр Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6113#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">37.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-37-11"
-               class="person">
-                <span class="person-name">СУВОРОВ Владимир Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">37.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-37-11"
+                                            class="person">
+                                                <span class="person-name">СУВОРОВ Владимир Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">38.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-38-12"
-               class="person">
-                <span class="person-name">ТИХОМОЛОВ Константин Степанович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">38.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-38-12"
+                                            class="person">
+                                                <span class="person-name">ТИХОМОЛОВ Константин Степанович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6115#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">39.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-39-13"
-               class="person">
-                <span class="person-name">ТОЩЕВ Павел Федорович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">39.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-39-13"
+                                            class="person">
+                                                <span class="person-name">ТОЩЕВ Павел Федорович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6116#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">40.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-40-14"
-               class="person">
-                <span class="person-name">ФОМИН Николай Никифорович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">40.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-40-14"
+                                            class="person">
+                                                <span class="person-name">ФОМИН Николай Никифорович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6117#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">41.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-41-15"
-               class="person">
-                <span class="person-name">ЧЕРНОБРИВЕЦ Михаил Афанасьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">41.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-41-15"
+                                            class="person">
+                                                <span class="person-name">ЧЕРНОБРИВЕЦ Михаил Афанасьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6118#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">42.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-42-16"
-               class="person">
-                <span class="person-name">ШИЛИХИН Иван Васильевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">42.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-42-16"
+                                            class="person">
+                                                <span class="person-name">ШИЛИХИН Иван Васильевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6119#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">43.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-43-17"
-               class="person">
-                <span class="person-name">ШМЕЛЕВ Александр Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">43.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-43-17"
+                                            class="person">
+                                                <span class="person-name">ШМЕЛЕВ Александр Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6120#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">44.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-44-18"
-               class="person">
-                <span class="person-name">ШПАН Рудольф Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">44.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-44-18"
+                                            class="person">
+                                                <span class="person-name">ШПАН Рудольф Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6121#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">45.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-45-19"
-               class="person">
-                <span class="person-name">ШПАН Фридрих Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">45.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-45-19"
+                                            class="person">
+                                                <span class="person-name">ШПАН Фридрих Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6122#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">46.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-46-20"
-               class="person">
-                <span class="person-name">ШТЕНЦЕЛЬ Яков Александрович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">46.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-46-20"
+                                            class="person">
+                                                <span class="person-name">ШТЕНЦЕЛЬ Яков Александрович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6123#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">47.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-244-47-21"
-               class="person">
-                <span class="person-name">ЭКГАРДТ Александр Яковлевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">47.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-47-21"
+                                            class="person">
+                                                <span class="person-name">ЭКГАРДТ Александр Яковлевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6124#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">48.</span>
-        </div>
+                                            <span class="ml-1">48.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-244-48-22"
+                                            class="person">
+                                                <span class="person-name">ЯЦКИН Николай Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                     
+                                     
+                                    
+                                     
 
-        <div class="column person-name is-9">
-            <p id="person-244-48-22"
-               class="person">
-                <span class="person-name">ЯЦКИН Николай Иванович</span>&nbsp;
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-244.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-244.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-     
- 
-
- 
-</div> 
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-244.jpg"/>
-    </div>
-
-</div> 
-
- 
-
-
-   
-
-<div id="page-245" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">245</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-245.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-
-
-    
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num is-3 mr-3">&nbsp;</div>
-        <div class="column person-name is-8">
-        <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
-        </div>
-    </div>
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                        <div id="page-245" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 245</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        <div class="columns is-mobile is-gapless">
+                                            <div class="column person-num is-3 mr-3">&nbsp;</div>
+                                            <div class="column person-name is-8">
+                                            <p align="center"><u>ИНОСТРАННЫЕ ПОДДАННЫЕ</u><br /><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>1-я категория</u>
+                                            </div>
+                                        </div>
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 <a href="/persons/p6125#gb-64" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>
 
@@ -1740,29 +1568,27 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <a href="/persons/p6125#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">1.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-245-1-1"
-               class="person">
-                <span class="person-name">ГУММЕЛЬ Карл Францевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">1.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-245-1-1"
+                                            class="person">
+                                                <span class="person-name">ГУММЕЛЬ Карл Францевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 <a href="/persons/p6126#gb-64" title="Имеется версия следствия"><i class="fas fa-id-card"></i></span></a>
 
@@ -1770,67 +1596,54 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 <a href="/persons/p6126#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">2.</span>
-        </div>
+                                            <span class="ml-1">2.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-245-2-2"
+                                            class="person">
+                                                <span class="person-name">ГЮБНЕР Иоганн Бейта</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                     
+                                     
+                                    
+                                     
 
-        <div class="column person-name is-9">
-            <p id="person-245-2-2"
-               class="person">
-                <span class="person-name">ГЮБНЕР Иоганн Бейта</span>&nbsp;
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-245.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-245.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-     
- 
-
- 
-</div> 
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-245.jpg"/>
-    </div>
-
-</div> 
-
- 
-
-
-   
-
-<div id="page-246" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">246</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-246.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-    
-    
-
-    
+                        <div id="page-246" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 246</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                        
+                                        
+                                    
+                                        
 
 
 
@@ -1863,48 +1676,38 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 </TABLE>
 
 
- 
-</div> 
+                                     
 
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-246.jpg"/>
-    </div>
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-246.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-246.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-</div> 
-
- 
-
-
-   
-
-<div id="page-247" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">247</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-247.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-    
-    
-
-    
+                        <div id="page-247" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 247</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                        
+                                        
+                                    
+                                        
 
 
 
@@ -1937,475 +1740,470 @@ integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbi
 </TABLE>
 
 
- 
-</div> 
+                                     
 
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-247.jpg"/>
-    </div>
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-247.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-247.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                
+                    
+                        
 
-</div> 
-
- 
-
-
-   
-
-<div id="page-248" class="mt-5 is-clearfix">
-
-    <nav class="level">
-        <div class="level-left">
-            <div class="level-item">
-                <h4>Список от 20.08.1937<span class="is-size-2">&nbsp;<span></h4>
-            </div>
-        </div>
-        <div class="level-right">
-            <div class="level-item">
-                <h4 class="has-text-right"><span>РГАСПИ, ф.17, оп.171, дело 410, лист </span><span class="is-size-2">248</span></h4>
-            </div>
-        </div>
-    </nav>
-
-
-    <div class="page-image page-image-preview is-pulled-right ml-2">
-        <img src="/disk/pictures-medium/v02/17-171-410-248.jpg"/>
-    </div>
-
-
-<div class="page-text">
-
-
-
-
-    
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num is-3 mr-3">&nbsp;</div>
-        <div class="column person-name is-8">
-        <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я категория</u>
-        </div>
-    </div>
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                        <div id="page-248" class="register">
+                            <div class="register__title">
+                                <h4>Список от 20.08.1937</h4>
+                                <span>РГАСПИ, ф.17, оп.171, дело 410, лист 248</span>
+                            </div>
+                            <div class="register__content">
+                                <div class="register__data">
+                                    <div class="register__text page-text">
+                                    
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        <div class="columns is-mobile is-gapless">
+                                            <div class="column person-num is-3 mr-3">&nbsp;</div>
+                                            <div class="column person-name is-8">
+                                            <p align="center"><u>СТАЛИНГРАДСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я категория</u>
+                                            </div>
+                                        </div>
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">1.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-1-1"
-               class="person">
-                <span class="person-name">АБРАМОВ Александр Федорович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">1.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-1-1"
+                                            class="person">
+                                                <span class="person-name">АБРАМОВ Александр Федорович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">2.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-2-2"
-               class="person">
-                <span class="person-name">ГЛУШКОВ Артемий Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">2.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-2-2"
+                                            class="person">
+                                                <span class="person-name">ГЛУШКОВ Артемий Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6129#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">3.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-3-3"
-               class="person">
-                <span class="person-name">ДОРОШИН Михаил Федорович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">3.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-3-3"
+                                            class="person">
+                                                <span class="person-name">ДОРОШИН Михаил Федорович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">4.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-4-4"
-               class="person">
-                <span class="person-name">ЕГОРОВ Сергей Никитович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">4.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-4-4"
+                                            class="person">
+                                                <span class="person-name">ЕГОРОВ Сергей Никитович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">5.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-5-5"
-               class="person">
-                <span class="person-name">ЖИЛЕНКО Иван Харитонович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">5.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-5-5"
+                                            class="person">
+                                                <span class="person-name">ЖИЛЕНКО Иван Харитонович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6132#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">6.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-6-6"
-               class="person">
-                <span class="person-name">ЗАХАРОВ Николай Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">6.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-6-6"
+                                            class="person">
+                                                <span class="person-name">ЗАХАРОВ Николай Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">7.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-7-7"
-               class="person">
-                <span class="person-name">ИВАНОВ Павел Арсентьевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">7.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-7-7"
+                                            class="person">
+                                                <span class="person-name">ИВАНОВ Павел Арсентьевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">8.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-8-8"
-               class="person">
-                <span class="person-name">ИГНАТЬЕВ Алексей Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">8.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-8-8"
+                                            class="person">
+                                                <span class="person-name">ИГНАТЬЕВ Алексей Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6135#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">9.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-9-9"
-               class="person">
-                <span class="person-name">КАЛАШНИКОВ Яков Николаевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">9.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-9-9"
+                                            class="person">
+                                                <span class="person-name">КАЛАШНИКОВ Яков Николаевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">10.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-10-10"
-               class="person">
-                <span class="person-name">ЛИТВАК Зиновий Лазаревич</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">10.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-10-10"
+                                            class="person">
+                                                <span class="person-name">ЛИТВАК Зиновий Лазаревич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">11.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-11-11"
-               class="person">
-                <span class="person-name">ПУШКАРЕВ Евгений Иванович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">11.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-11-11"
+                                            class="person">
+                                                <span class="person-name">ПУШКАРЕВ Евгений Иванович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 
-            <span class="ml-1">12.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-12-12"
-               class="person">
-                <span class="person-name">РУДОМИНО Анатолий Мечеславович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
+                                            <span class="ml-1">12.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-12-12"
+                                            class="person">
+                                                <span class="person-name">РУДОМИНО Анатолий Мечеславович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
 
 
 <a href="/persons/p6139#spravka" title="Имеется дополнительная информация"><i class="fas fa-book"></i></span></a>
 
 
-            <span class="ml-1">13.</span>
+                                            <span class="ml-1">13.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-13-13"
+                                            class="person">
+                                                <span class="person-name">СЕЛЯНИНОВ Георгий Васильевич</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                                   
+                                            
+                            
+                                    <div class="columns is-mobile is-gapless">
+                                        <div class="column person-num has-text-right is-3 mr-3">
+                                            
+
+
+
+                                            <span class="ml-1">14.</span>
+                                        </div>
+                                
+                                        <div class="column person-name is-9">
+                                            <p id="person-248-14-14"
+                                            class="person">
+                                                <span class="person-name">ЧУБАРОВ Семен Петрович</span>&nbsp;
+                                                
+                                                
+                                            </p>
+                                        </div>
+                                        
+                                    </div>
+                                     
+                                     
+                                    
+                                     
+
+                                    </div> 
+                                </div> 
+                                <div class="register__block-scan">
+                                    <div class="register__scan page-image page-image-preview">
+                                        <img src="/disk/pictures-medium/v02/17-171-410-248.jpg"/>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="is-hidden page-image page-image-full">
+                                <img data-src="/disk/pictures/v02/17-171-410-248.jpg"/>
+                            </div>
+                        </div>                    
+                     
+                 
+            </div>
         </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-13-13"
-               class="person">
-                <span class="person-name">СЕЛЯНИНОВ Георгий Васильевич</span>&nbsp;
-
-
-            </p>
-        </div>
-
     </div>
-
-
-
-    
-
-
-
-    <div class="columns is-mobile is-gapless">
-        <div class="column person-num has-text-right is-3 mr-3">
-            
-
-
-
-            <span class="ml-1">14.</span>
-        </div>
-
-        <div class="column person-name is-9">
-            <p id="person-248-14-14"
-               class="person">
-                <span class="person-name">ЧУБАРОВ Семен Петрович</span>&nbsp;
-
-
-            </p>
-        </div>
-
-    </div>
-
-
-
-     
- 
-
- 
-</div> 
-
-    <div class="is-hidden page-image">
-        <img data-src="/disk/pictures/v02/17-171-410-248.jpg"/>
-    </div>
-
-</div> 
-
- 
- 
-
-
-        </div>
-</div> 
-
-        <div class="container has-text-centered">
+</div>
+<div class="container has-text-centered">
     
 </div>
 
-        <div class="container has-text-centered">
+<div class="container has-text-centered">
   
 </div>
-        
-<section class="section section-footer red-text">
-    <div class="container has-text-centered">
-    <p>1989-2020 &copy; Международный Мемориал.<br/>
-При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
-4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
-<br/><img src="/memo.svg"/>
-</p>
-  </div>
-</section>
+`
+<footer class="footer">
+    <p class="footer__text">
+        1989&ndash;2020 &copy; Международный Мемориал.<br />
+        При использовании любых материалов сайта ссылка на&nbsp;memo.ru
+        обязательна.<br />
+        4 октября 2016 года Минюст РФ&nbsp;внес Международный Мемориал
+        в&nbsp;реестр &laquo;некоммерческих организаций, выполняющих функцию
+        иностранного агента&raquo;. <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a><br />
+        Техническая часть сайта&nbsp;&mdash; <a href="https://ru.itpp.dev/">Айти‑Проджектс&nbsp;Лабс</a>.
+    </p>
+    <a href="/" class="footer__logo"><img src="/memo.svg"/></a>
+    </footer>
+
 <script>
  $(document).ready(function() {
 
      
-     $(".navbar-burger").click(function() {
-
-         
-         $(".navbar-burger").toggleClass("is-active");
-         $(".navbar-menu").toggleClass("is-active");
-
+     $(".mobile-nav__switch").click(function() {
+        $('body').toggleClass('menu-is-on')
+        
      });
  });
 </script>
 
 
 
+
+
+<script type="text/javascript" src="/js/iscroll.js"></script>
+
+<script type="text/javascript">
+ var target = window.location.hash;
+ var target_index = 0;
+ if (target.indexOf("#image-") != -1 ){
+     target_index = $('.pages > div').index($(target));
+ }
+
+ window.slider = tns({
+     startIndex: target_index,
+     container: ".pages",
+     gutter: 5,
+     navContainer: ".pages-preview",
+     mouseDrag: true,
+     navAsThumbnails: true,
+     arrowKeys: true,
+     controls: false,
+     lazyload: true,
+ });
+window.addEventListener('load', function () {
+    var myScroll = new IScroll('.gallery-slider__preview', {
+    mouseWheel: true,
+    scrollbars: true
+});
+})
+</script>

@@ -78,7 +78,7 @@ $(document).ready(function(){
 
     var searchPersons = true;
     var ALL_FIELDS;
-    $('#search_form .tabs li').on('click', function() {
+    $('.search__tabs-item').on('click', function() {
         if (!ALL_FIELDS){
             ALL_FIELDS = PERSON_FIELDS.concat(LIST_FIELDS);
             // https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
@@ -104,8 +104,8 @@ $(document).ready(function(){
         }
         searchPersons = id == "search_persons";
 
-        $(this).parent().find('li').removeClass('is-active');
-        $(this).addClass('is-active');
+        $(this).siblings().removeClass('is-on');
+        $(this).addClass('is-on');
 
         // disable unused fields
         var active_fields;
@@ -481,7 +481,7 @@ $(document).ready(function(){
         $.each(records, function(){
             var spravka = this._source.spravka_preview || "";
             if (spravka){
-                spravka += ' <a href="/persons/{0}"><b>...</b></a><br/>'.format(this._id);
+                spravka += '...</br>'.format(this._id);
             }
             var fond7 = this._source.fond7 || "";
             if (fond7){
@@ -489,7 +489,7 @@ $(document).ready(function(){
             }
             var gb_spravka_link = "";
             if (this._source.gb_spravka_preview){
-                gb_spravka_link = '<a href="/persons/{0}#gb" title="Имеется версия следствия"><i class="fas fa-id-card"></i></a><br/>'.format(this._id);
+                gb_spravka_link = '<a href="/persons/{0}#gb" title="Имеется версия следствия"><i class="fas fa-id-card"></i></a>'.format(this._id);
             }
             var spiski_data = JSON.parse(this._source.lists);
             var spiski = "";
@@ -513,7 +513,7 @@ $(document).ready(function(){
                 );
             });
             $("#results").append(
-                '<p class="mt-3"><a href="/persons/{0}">{1}</a><br/>{2}{3}{4}{5}</p>'.format(
+                '<div class="mt3"><a href="/persons/{0}">{1}</a><br/><p>{2}{3}</p>{4}{5}</div>'.format(
                     this._id,
                     this._source.nameshow,
                     spravka,
@@ -558,10 +558,10 @@ $(document).ready(function(){
     }
     function empty_results(){
         clear_results();
-        $("#results").html("<h1>Ничего не найдено. Уточните запрос</h1>");
+        $("#results").html("<h3>Ничего не найдено. Уточните запрос</h3>");
     }
     function error_on_search(data){
-        $("#results").html("<h1>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText || ""));
+        $("#results").html("<h3>Ошибка сервера</h1><pre><code>{0}</code></pre>".format(data.responseText || ""));
     }
 
     function format_date(value){
