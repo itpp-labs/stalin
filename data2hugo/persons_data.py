@@ -34,9 +34,9 @@ def main():
         if any(res.values()):
             if res["primname"]:
                 text_lines += [res["primname"]]
-            if res["primtext"]:
+            if res["primtext"] and res["primtext"] != res["primname"] and not res["primsud"]:
                 text_lines += res["primtext"].split("\\n")
-            elif res["primsud"]:
+            if res["primsud"]:
                 text_lines.append("%s" % res["primsud"])
             elif res["sessiondate"]:
                 text_lines.append("Дата сессии ВК ВС: %s" % convert_date(res["sessiondate"]))
