@@ -1,0 +1,47 @@
+$Montserrat: "Montserrat", "Arial", sans-serif;
+$white: #ffffff;
+$light: #e5e5e5;
+$light1: #fdfcf4;
+$tab-color: #fdfcf4;
+$red: #9e0b0f;
+$background: #f2f2f2;
+$input-border: rgba(158, 11, 15, 0.4);
+$placeholder: rgba(158, 11, 15, 0.4);
+$btn-border: rgba(158, 11, 15, 0.3);
+$text: #333333;
+
+$ease: all 0.2s ease;
+
+@mixin media($point) {
+  @if $point == bigscreen {
+    @media screen and (min-width: 2200px) {
+      @content;
+    }
+  } @else if $point == desktop {
+    @media screen and (min-width: 1250px) {
+      @content;
+    }
+  } @else if $point == tablet {
+    @media screen and (max-width: 1024px) {
+      @content;
+    }
+  } @else if $point == mobile {
+    @media screen and (max-width: 767px) {
+      @content;
+    }
+  } @else if $point == phone {
+    @media screen and (max-width: 480px) {
+      @content;
+    }
+  } @else if $point == phone-small {
+    @media screen and (max-width: 374px) {
+      @content;
+    }
+  }
+}
+// How to use
+// .selector {
+//   @include media(mobile) {
+//	 ...
+//   }
+// }

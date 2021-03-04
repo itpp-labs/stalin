@@ -1,0 +1,83 @@
+.docs {
+  color: $text;
+  @include media(tablet) {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 38px;
+  }
+  &__title-inside {
+    padding: 30px 0 20px;
+    color: $red;
+  }
+  &__text {
+    margin: 50px 0;
+    color: $text;
+    &:first-child {
+      margin-top: 23px;
+    }
+  }
+  &__text-indent {
+    text-indent: 30px;
+    @include media(mobile) {
+      text-indent: 15px;
+    }
+  }
+  &__text-link {
+    display: inline;
+    color: $red;
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  &__text-block {
+    margin-top: 30px;
+  }
+  //for comments on the bottom
+  &__comments {
+    position: relative;
+    padding: 5px 0 0 0;
+    font-size: 14px;
+    line-height: 20px;
+    color: $text;
+    &:before {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 20%;
+      height: 1px;
+      top: 0;
+      left: 0;
+      background: $red;
+    }
+  }
+  &__comments-block {
+    margin-bottom: 20px;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+  //for comments on the bottom
+  &__row {
+    display: flex;
+    @include media(mobile) {
+      display: block;
+      margin-top: 14px;
+    }
+  }
+  &__row-col {
+    margin-right: 5%;
+    &:first-of-type {
+      width: 26%;
+      @include media(mobile) {
+        width: 100%;
+      }
+    }
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+  &__list {
+    list-style: disc inside;
+  }
+}
