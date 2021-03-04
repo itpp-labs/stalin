@@ -1,0 +1,124 @@
+// .nav {
+//   border-color: $light;
+//   color: $white;
+//   @include media(tablet) {
+//     color: $red;
+//   }
+// }
+
+.main-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../img/main-bg-clear.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: $red;
+  background-position: 0 111px;
+  overflow: hidden;
+  @include media(desktop) {
+    // background-image: url("../img/main-bg.png");
+  }
+  @include media(tablet) {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  @include media(mobile) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  &:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 72%;
+    pointer-events: none;
+    background-image: url("../img/main-pic3.png");
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    background-position: left bottom;
+  }
+}
+
+.main {
+  position: relative;
+  max-width: 885px;
+  margin-bottom: 100px;
+  padding-top: 160px;
+  &:before,
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  &:before {
+    width: 100%;
+    max-width: 708px;
+    height: 132px;
+    top: 236px;
+    left: -19.5%;
+    background-image: url("../img/main-pic1.png");
+    @include media(bigscreen) {
+      top: 206px;
+      left: -50%;
+    }
+    @include media(tablet) {
+      top: 40px;
+    }
+    @include media(mobile) {
+      max-width: 300px;
+      left: -40px;
+    }
+  }
+  &:after {
+    width: 100%;
+    max-width: 428px;
+    height: 82px;
+    bottom: 29px;
+    right: -5%;
+    background-image: url("../img/main-pic2.png");
+    @include media(bigscreen) {
+      right: -30%;
+    }
+    @include media(desktop) {
+      right: -15%;
+    }
+    @include media(mobile) {
+      max-width: 280px;
+      bottom: auto;
+      top: 265px;
+      right: -50px;
+    }
+  }
+  &__title {
+    @include media(mobile) {
+      max-width: 280px;
+      margin: 0 auto;
+    }
+  }
+  &__text {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: justify;
+    margin: 65px -10px 17px;
+    @include media(tablet) {
+      flex-direction: column;
+      margin-left: 0;
+      margin-right: 0;
+      text-align: left;
+    }
+  }
+  &__text-item {
+    margin: 0 10px 40px;
+    @include media(tablet) {
+      margin: 0 0 40px;
+    }
+  }
+}
