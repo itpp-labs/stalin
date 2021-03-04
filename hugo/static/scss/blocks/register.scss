@@ -1,0 +1,135 @@
+.register {
+  margin-top: 50px;
+  &__content {
+    display: flex;
+    @include media(mobile) {
+      flex-direction: column-reverse;
+    }
+    @media screen and (max-width: 480px) {
+    }
+  }
+  &__photo {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  &__data {
+    flex: 100% 0 1;
+    color: $text;
+
+    @include media(mobile) {
+      flex: auto 0 1;
+    }
+  }
+  &__title {
+    margin-bottom: 30px;
+    color: $red;
+    display: flex;
+    justify-content: space-between;
+    @include media(mobile) {
+      margin-bottom: 28px;
+      flex-direction: column;
+    }
+  }
+  &__text {
+    p,
+    div {
+      position: relative;
+      margin-top: 20px;
+    }
+  }
+  &__text.uppercase {
+    margin-top: 24px;
+  }
+  &__to-person {
+    display: block;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 5px;
+    left: -13px;
+    border: 1px solid $red;
+    border-radius: 50%;
+    transform: translate(-100%, 0);
+    @include media(mobile) {
+      width: 12px;
+      height: 12px;
+      left: -3px;
+    }
+    &:before,
+    &:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 49%;
+      left: 50%;
+      background: $red;
+      transform: translate(-50%, -50%);
+    }
+    &:before {
+      width: 6px;
+      height: 2px;
+    }
+    &:after {
+      width: 2px;
+      height: 6px;
+    }
+  }
+  &__block-scan {
+    max-width: 320px;
+    margin-left: auto;
+    text-align: right;
+    padding-left: 20px;
+    @include media(mobile) {
+      flex: auto 0 1;
+      max-width: 100px;
+      margin: 0 auto;
+      padding: 0;
+    }
+  }
+  &__scan {
+    cursor: pointer;
+    @include media(mobile) {
+      max-width: 100%;
+      padding-top: 0;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  .columns {
+    display: flex;
+  }
+  .column {
+    padding: 0 0.75rem;
+    font-size: 16px;
+    margin: 0;
+    flex: 0 1 auto;
+    a {
+      display: inline-block;
+    }
+    p {
+      margin: 0;
+    }
+    &.is-half {
+      width: 50%;
+      flex: 0 1 auto;
+    }
+    &.is-3 {
+      width: 25%;
+      max-width: 70px;
+      padding-left: 0;
+      flex: 0 1 auto;
+    }
+    &.is-9 {
+      width: 75%;
+      flex: 0 1 auto;
+    }
+  }
+  .page-image-full {
+    max-width: 100%;
+    img {
+      max-width: 100%;
+    }
+  }
+}

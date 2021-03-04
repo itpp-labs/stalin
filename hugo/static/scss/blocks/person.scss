@@ -1,0 +1,19 @@
+.person {
+  color: $text;
+  &__aside-links {
+    margin-bottom: 23px;
+    @include media(tablet) {
+      margin-bottom: 48px;
+    }
+  }
+  &__edit {
+    margin-top: 20px;
+    color: $red;
+  }
+  &__source {
+    margin-top: 23px;
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}

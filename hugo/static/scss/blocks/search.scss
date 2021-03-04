@@ -1,0 +1,266 @@
+.search {
+  margin-bottom: 37px;
+  padding-top: 40px;
+  &-section {
+    #results {
+      color: $text;
+      a {
+        color: $red;
+        display: inline;
+        margin: 10px 0;
+        font-weight: bold;
+        text-decoration: underline;
+        margin: 10px 0;
+      }
+      p {
+        margin: 10px 0;
+      }
+      .mt3 {
+        margin: 30px 0;
+      }
+    }
+  }
+  @include media(tablet) {
+    padding-top: 0;
+  }
+  &__tabs {
+    display: flex;
+    align-items: center;
+    margin: 0 0 59px 16.95%;
+    border-top: 1px solid $input-border;
+    border-bottom: 1px solid $input-border;
+    @include media(tablet) {
+      margin-left: 0;
+    }
+    @include media(mobile) {
+      display: block;
+      border: none;
+    }
+  }
+  &__tabs-item {
+    flex: 33.3333% 0 1;
+    padding: 14px 10px 15px;
+    text-align: center;
+    color: $placeholder;
+    cursor: pointer;
+    transition: $ease;
+    @include media(mobile) {
+      width: 100%;
+      border-bottom: 1px solid $input-border;
+    }
+    &:hover,
+    &.is-on {
+      background: $red;
+      color: $tab-color;
+    }
+  }
+  &__form {
+    display: none;
+    &.is-on {
+      display: block;
+    }
+  }
+}
+
+.form {
+  &__row,
+  &__row-inside {
+    display: flex;
+    align-items: flex-start;
+    @include media(tablet) {
+      display: block;
+      width: 100%;
+    }
+  }
+  &__row {
+    &_align-center {
+      margin: 10px 0;
+      align-items: baseline;
+    }
+  }
+  &__row-inside,
+  &__row-line {
+    flex: 83.05% 0 1;
+    margin-bottom: 0;
+  }
+  &__row-line {
+    display: block;
+  }
+  &__label {
+    display: block;
+    flex: 16.95% 0 1;
+    padding: 0 60px 0 0;
+    @include media(tablet) {
+      width: 100%;
+    }
+  }
+  &__block {
+    flex: 33.333% 0 1;
+    height: 53px;
+    margin-bottom: 20px;
+    border: 1px solid $input-border;
+    &.on-focus {
+      border-color: $red;
+    }
+    @include media(tablet) {
+      width: 100%;
+      margin-top: 5px;
+    }
+    &:first-of-type {
+      border-right: none;
+      @include media(tablet) {
+        border: 1px solid $input-border;
+      }
+    }
+    &_single {
+      flex: 100% 0 1;
+      border: 1px solid $input-border !important;
+    }
+    &_select {
+      position: relative;
+      &:first-of-type {
+        flex: 66.666% 0 1;
+      }
+      select {
+        background: transparent;
+        border-radius: 0;
+        border: none;
+        font-family: $Montserrat;
+        font-size: 18px;
+        color: $red;
+        position: relative;
+        @include media(mobile) {
+          font-size: 16px;
+        }
+        &:disabled {
+          opacity: 0.5;
+          background: #ccc;
+        }
+        width: 100%;
+        height: 100%;
+        background: none;
+        border: none;
+        display: block;
+        height: 100%;
+        cursor: pointer;
+        margin: 0 -1px;
+        padding: 14px 19px 15px;
+        line-height: inherit;
+        color: $red;
+      }
+      &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 18px;
+        right: 22px;
+        width: 8px;
+        height: 14px;
+        background: url(../img/icon-arrow.png) no-repeat;
+        background-size: 100%;
+        transform: rotate(-90deg);
+      }
+    }
+    &_checkbox {
+      display: inline-block;
+      vertical-align: baseline;
+      width: auto;
+      height: auto;
+      padding-right: 40px;
+      border: none !important;
+      text-align: center;
+      @include media(tablet) {
+        padding-right: 0;
+        margin: 10px 17px 10px 0;
+        text-align: left;
+      }
+      &:first-of-type,
+      &:last-of-type {
+        padding-right: 0;
+      }
+      &:first-of-type {
+        text-align: left;
+      }
+      &:last-of-type {
+        text-align: right;
+        @include media(tablet) {
+          margin-right: 0;
+          text-align: left;
+        }
+      }
+    }
+    &_datepicker {
+      position: relative;
+      flex: 50% 0 1;
+      &:before {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 27px;
+        height: 27px;
+        top: 12px;
+        left: 20px;
+        background: url("../img/icon-calendar.svg") no-repeat;
+        background-size: 100%;
+      }
+      &:last-of-type {
+        flex: 50% 0 1;
+      }
+    }
+  }
+  &__block + &__block {
+    border-right: none;
+    @include media(tablet) {
+      border: 1px solid $input-border;
+    }
+    &:last-of-type {
+      border-right: 1px solid $input-border;
+    }
+  }
+}
+
+.checkbox {
+  &_line {
+    margin: 0 16px 14px 0;
+    @include media(tablet) {
+      margin: 10px 16px 10px 0;
+    }
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+}
+
+.results {
+  margin: 0 0 59px 16.95%;
+  @include media(tablet) {
+    margin-left: 0;
+  }
+  &__block-link {
+    font-weight: 600;
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  &__block {
+    margin-top: 30px;
+    padding-right: 20.4%;
+    @include media(mobile) {
+      padding-right: 10%;
+    }
+    @include media(phone-small) {
+      padding-right: 0;
+    }
+    &_btn {
+      margin-top: 50px;
+      @include media(tablet) {
+        padding-right: 0;
+      }
+    }
+  }
+  &__block-description {
+    margin: 20px 0 10px;
+    color: $text;
+  }
+}
