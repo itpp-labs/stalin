@@ -327,18 +327,24 @@ $(document).ready(function(){
             } else if (searchPersons && key == "global_search") {
                 $.each(["firstname", "midname", "lastname"], function(){
                     query_bool.should.push({
-                        "match": get_obj(this, value)
+                        "wildcard": get_obj(this, {
+                            "value": value,
+                        })
                     });
                 });
                 $.each(["spravka", "gb_spravka", "spravka_fio", "fond7_primtext"], function(){
                     query_bool.should.push({
-                        "match": get_obj(this, value)
+                        "wildcard": get_obj(this, {
+                            "value": value,
+                        })
                     });
                 });
             } else if (!searchPersons && key == "global_search") {
                 $.each(["title", "deloname", "delonum"], function(){
                     query_bool.should.push({
-                        "match": get_obj(this, value)
+                        "wildcard": get_obj(this, {
+                            "value": value,
+                        })
                     });
                 });
             } else if (["date_from", "date_to"].indexOf(key) !== -1) {
