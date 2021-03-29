@@ -47,10 +47,6 @@
 
       iconv -f cp1251 all-cp1251.csv > all.csv
 
-* Также может понадобится исправить знаки перевода строки:
-
-      sed -i 's/\r$//' all.csv
-
 * замените файл [data/spravki/all.csv](data/spravki/all.csv) на новую версию 
 * проверьте изменения
 
