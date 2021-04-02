@@ -16,8 +16,6 @@ def main():
             pass
         name = data["name"]["nameshow"]
         name = name.replace("<br />", " ").replace("<br/>", " ")
-        # e.g. https://stalin.memo.ru/persons/p23850/
-        name = name.replace("<s>", "(").replace("</s>", ")")
         meta = {
             "title": name
         }

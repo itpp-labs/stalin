@@ -39,16 +39,6 @@ def main():
         sublists_and_persons_by_page[pageid].setdefault(sublistid, [])
         sublists_and_persons_by_page[pageid][sublistid].append(p)
 
-    def p2nomer(p):
-        nomer = p['nomer'] or 0
-        if nomer == "NULL":
-            nomer = 0
-        return int(nomer)
-
-    for pageid in sublists_and_persons_by_page.keys():
-        for sublistid, persons in sublists_and_persons_by_page[pageid].items():
-            sublists_and_persons_by_page[pageid][sublistid] = sorted(persons, key=lambda p: (int(p['rowinpage']), p2nomer(p)))
-
     others_by_person = x2many(
         lambda r: r["person"],
         csv_reader(OTHERS_CSV)
