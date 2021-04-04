@@ -115,6 +115,7 @@ pages:
       num: '2'
       name: БУШТА Карл Иоганович
       rowinpage: '2'
+      spravka: true
     - id: '10386'
       num: '3'
       name: КРАНЦЛЕР Вильгельм Оттович, он же <br />КРОЛЛЬ Гергардт
@@ -163,6 +164,7 @@ pages:
       name: ШПРУНГ Пауль Теодорович
       rowinpage: '4'
       gb_spravka: true
+      spravka: true
 - pageintom: '238'
   image: v03/17-171-411-238.jpg
   title: null
@@ -473,6 +475,7 @@ pages:
       num: '3'
       name: МЮЛЛЕР Вальтер Францевич
       rowinpage: '3'
+      spravka: true
     - id: '10398'
       num: '4'
       name: ФОХТЛЕНДЕР Фридрих Вильгельмович
@@ -616,6 +619,7 @@ pages:
       num: '8'
       name: СУЛЕЙМАНОВ Ахсан Сулейманович
       rowinpage: '8'
+      spravka: true
     - id: '10409'
       num: '9'
       name: ХАФИЗУЛЛИН Асгат Нигматович
@@ -625,10 +629,12 @@ pages:
       num: '10'
       name: ЮСУПОВ Нури Валеевич
       rowinpage: '10'
+      spravka: true
     - id: '10411'
       num: '11'
       name: ЯФАЕВ Рахматзян Валиахметович
       rowinpage: '11'
+      spravka: true
 - pageintom: '246'
   image: v03/17-171-411-246.jpg
   title: null
@@ -706,6 +712,7 @@ pages:
       num: '14'
       name: МОРГУНОВ Павел Филиппович
       rowinpage: '14'
+      spravka: true
     - id: '10426'
       num: '15'
       name: НИГМАТУЛЛИН Зайнулла Хайруллович

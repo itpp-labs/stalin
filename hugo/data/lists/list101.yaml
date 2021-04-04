@@ -201,6 +201,7 @@ pages:
       num: '23'
       name: ЛЬВОВИЧ Сергей Павлович
       rowinpage: '23'
+      spravka: true
     - id: '12889'
       num: '24'
       name: МЕЖЕВИЧ Дмитрий Лаврентьевич
@@ -286,10 +287,12 @@ pages:
       num: '40'
       name: АРСЕНИЧ-БЕРЕЗОВСКИЙ Василий Антонович
       rowinpage: '14'
+      spravka: true
     - id: '12906'
       num: '41'
       name: БАТЫЩЕВ Валентин Иванович
       rowinpage: '15'
+      spravka: true
     - id: '12907'
       num: '42'
       name: БЕЛОРУСЕЦ Александр Маркович
@@ -303,6 +306,7 @@ pages:
       num: '44'
       name: ЗОЛКИН Василий Сергеевич
       rowinpage: '18'
+      spravka: true
     - id: '12910'
       num: '45'
       name: КУЩИК Иван Арсеньевич
@@ -403,6 +407,7 @@ pages:
       num: '65'
       name: АНАНЧЕНКО Фома Иванович
       rowinpage: '13'
+      spravka: true
       subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ</u>
     - id: '12931'
       num: '66'
@@ -546,6 +551,7 @@ pages:
       num: '93'
       name: БУЛАНЦЕВ Константин Степанович
       rowinpage: '16'
+      spravka: true
       subtitle1: <p align="center"><u>ЧЕРНИГОВСКАЯ ОБЛАСТЬ</u>
     - id: '12959'
       num: '94'
@@ -561,6 +567,7 @@ pages:
       num: '96'
       name: ВОРОБЬЕВ Григорий Борисович
       rowinpage: '19'
+      spravka: true
     - id: '12962'
       num: '97'
       name: ВЫСОЦКИЙ Сергей Петрович
@@ -575,10 +582,12 @@ pages:
       num: '99'
       name: ГОРСКИЙ Александр Никифорович
       rowinpage: '22'
+      spravka: true
     - id: '12965'
       num: '100'
       name: ГОРОХ Михаил Алексеевич
       rowinpage: '23'
+      spravka: true
     - id: '12966'
       num: '101'
       name: ДВОРНИК Александр Афанасьевич
@@ -588,18 +597,22 @@ pages:
       num: '102'
       name: ДОНАДЗЕ Андрей Никифорович
       rowinpage: '25'
+      spravka: true
     - id: '12968'
       num: '103'
       name: КАЦЕВМАН Соломон Григорьевич
       rowinpage: '26'
+      spravka: true
     - id: '12969'
       num: '104'
       name: КОВАЛЕНКО Даниил Никитович
       rowinpage: '27'
+      spravka: true
     - id: '12970'
       num: '105'
       name: КОВТУН Павел Сергеевич
       rowinpage: '28'
+      spravka: true
 - pageintom: '193'
   image: v04/17-171-412-193.jpg
   title: Украинская ССР
@@ -610,30 +623,37 @@ pages:
       num: '106'
       name: КУТНЕВСКИЙ Василий Николаевич
       rowinpage: '1'
+      spravka: true
     - id: '12972'
       num: '107'
       name: ЛЕИЦИН Борис Евелевич
       rowinpage: '2'
+      spravka: true
     - id: '12973'
       num: '108'
       name: ЛИСТВИНСКИЙ Ефим Моисеевич
       rowinpage: '3'
+      spravka: true
     - id: '12974'
       num: '109'
       name: ЛУКЬЯНОВ Николай Николаевич
       rowinpage: '4'
+      spravka: true
     - id: '12975'
       num: '110'
       name: ЛЯХОВСКИЙ Федор Иванович
       rowinpage: '5'
+      spravka: true
     - id: '12976'
       num: '111'
       name: НИПОТ Иван Николаевич
       rowinpage: '6'
+      spravka: true
     - id: '12977'
       num: '112'
       name: ПАВЛЮК Александр Васильевич
       rowinpage: '7'
+      spravka: true
     - id: '12978'
       num: '113'
       name: ПАВЛЮКЕВИЧ Иван Лукич
@@ -675,14 +695,17 @@ pages:
       num: '121'
       name: ТИМОФЕЕВ Сергей Николаевич
       rowinpage: '16'
+      spravka: true
     - id: '12987'
       num: '122'
       name: ФАДЕЕВ Александр Сергеевич
       rowinpage: '17'
+      spravka: true
     - id: '12988'
       num: '123'
       name: ШАПИРО Наум Маркович
       rowinpage: '18'
+      spravka: true
     - id: '12989'
       num: '124'
       name: ШАТРОВ Тимофей Григорьевич
@@ -771,6 +794,7 @@ pages:
       num: '140'
       name: ДОВГОПОЛОВ Михаил Васильевич
       rowinpage: '8'
+      spravka: true
     - id: '13006'
       num: '141'
       name: ЕМЕЦ Иван Федорович
@@ -800,6 +824,7 @@ pages:
       num: '146'
       name: КОВАЛЬ Ефим Николаевич
       rowinpage: '14'
+      spravka: true
     - id: '13012'
       num: '147'
       name: КОЛОМИЕЦ Павел Иванович
@@ -809,6 +834,7 @@ pages:
       num: '148'
       name: КРАВЧЕНКО Ефим Яковлевич
       rowinpage: '16'
+      spravka: true
     - id: '13014'
       num: '149'
       name: КРАВЧЕНКО Трофим Карпович
@@ -862,10 +888,12 @@ pages:
       num: '159'
       name: НАУМОВ-СМЫК Цаль Григорьевич
       rowinpage: '27'
+      spravka: true
     - id: '13025'
       num: '160'
       name: ПЕРОВСКИЙ Михаил Абрамович
       rowinpage: '28'
+      spravka: true
 - pageintom: '195'
   image: v04/17-171-412-195.jpg
   title: Украинская ССР
@@ -876,22 +904,27 @@ pages:
       num: '161'
       name: ПИШКМАН Борис Лейбович
       rowinpage: '1'
+      spravka: true
     - id: '13027'
       num: '162'
       name: ПОЖИДАЕВ Николай Карпович
       rowinpage: '2'
+      spravka: true
     - id: '13028'
       num: '163'
       name: ПОЛЯКОВ Андрей Константинович
       rowinpage: '3'
+      spravka: true
     - id: '13029'
       num: '164'
       name: ПРИЛЕПСКИЙ Ананий Алексеевич
       rowinpage: '4'
+      spravka: true
     - id: '13030'
       num: '165'
       name: СОСНИН Тимофей Григорьевич
       rowinpage: '5'
+      spravka: true
     - id: '13031'
       num: '166'
       name: СТАРОБИН Илья Моисеевич
@@ -901,14 +934,17 @@ pages:
       num: '167'
       name: ТАЦУЛЯ Иван Филиппович
       rowinpage: '7'
+      spravka: true
     - id: '13033'
       num: '168'
       name: ТКАЧЕНКО Савва Дмитриевич
       rowinpage: '8'
+      spravka: true
     - id: '13034'
       num: '169'
       name: ТОКАРЕВ Федор Алексеевич
       rowinpage: '9'
+      spravka: true
     - id: '13035'
       num: '170'
       name: ТОРЧИНСКИЙ Аркадий Павлович
@@ -918,30 +954,37 @@ pages:
       num: '171'
       name: ХАЗЕНМАН Давид Наумович
       rowinpage: '11'
+      spravka: true
     - id: '13037'
       num: '172'
       name: ЦАРЕНКО Моисей Лукич
       rowinpage: '12'
+      spravka: true
     - id: '13038'
       num: '173'
       name: ЧАЛЫК Илья Абрамович
       rowinpage: '13'
+      spravka: true
     - id: '13039'
       num: '174'
       name: ЧЕРНЫШ Иван Иосифович
       rowinpage: '14'
+      spravka: true
     - id: '13040'
       num: '175'
       name: ШАПИРО Фроим Перецович
       rowinpage: '15'
+      spravka: true
     - id: '13041'
       num: '176'
       name: ШЕЛЕМЕТЬЕВ Сергей Степанович
       rowinpage: '16'
+      spravka: true
     - id: '13042'
       num: '177'
       name: ШОСТАК Ихель Абрамович
       rowinpage: '17'
+      spravka: true
     - id: '13043'
       num: '178'
       name: ЯЦЕВСКАЯ Вера Евстафьевна
@@ -957,6 +1000,7 @@ pages:
       num: '180'
       name: БЕЗСМЕРТНЫЙ Иван Иосифович
       rowinpage: '20'
+      spravka: true
     - id: '13046'
       num: '181'
       name: БОЙКО Петр Григорьевич
@@ -976,6 +1020,7 @@ pages:
       num: '184'
       name: ВОЛОШИН Николай Петрович
       rowinpage: '24'
+      spravka: true
     - id: '13050'
       num: '185'
       name: ВОРОНОВ Иван Митрофанович
@@ -995,14 +1040,17 @@ pages:
       num: '187'
       name: ГНАТЮК Григорий Иванович
       rowinpage: '2'
+      spravka: true
     - id: '13053'
       num: '188'
       name: ГОРЯНИН Александр Егорович
       rowinpage: '3'
+      spravka: true
     - id: '13054'
       num: '189'
       name: ГРЕБЕНЮК Николай Сергеевич
       rowinpage: '4'
+      spravka: true
     - id: '13055'
       num: '190'
       name: ДОБРОВОЛЬСКИЙ Иосиф Иванович
@@ -1022,6 +1070,7 @@ pages:
       num: '193'
       name: КОРДУН Николай Васильевич
       rowinpage: '8'
+      spravka: true
     - id: '13059'
       num: '194'
       name: КОРОЛЕНКО Михаил Данилович
@@ -1078,6 +1127,7 @@ pages:
       num: '205'
       name: СОМОВ Иван Михайлович
       rowinpage: '20'
+      spravka: true
     - id: '13071'
       num: '206'
       name: СУХОВОЛЕНКО Михаил Гаврилович
@@ -1086,6 +1136,7 @@ pages:
       num: '207'
       name: ФИЛИПЧУК Иван Емельянович
       rowinpage: '22'
+      spravka: true
     - id: '13073'
       num: '208'
       name: ПЫСАРЬ Вячеслав Францевич
@@ -1098,10 +1149,12 @@ pages:
       num: '210'
       name: ШЕВЧЕНКО Павел Прокопович
       rowinpage: '25'
+      spravka: true
     - id: '13076'
       num: '211'
       name: ЯНЧУК Марк Назарович
       rowinpage: '26'
+      spravka: true
 - pageintom: '197'
   image: v04/17-171-412-197.jpg
   title: null
@@ -1226,6 +1279,7 @@ pages:
       num: '235'
       name: ГОРДЗИЕВИЧ Александр Адамович
       rowinpage: '24'
+      spravka: true
     - id: '13101'
       num: '236'
       name: ГОРЕНГРОТ Илья Нафтулович
@@ -1377,6 +1431,7 @@ pages:
       num: '265'
       name: КОСЯНКОВ Куприян Кононович
       rowinpage: '26'
+      spravka: true
     - id: '13131'
       num: '266'
       name: КОФМАН Зиновий Саулович
@@ -1490,10 +1545,12 @@ pages:
       num: '287'
       name: НАЦИЛЕВИЧ Павел Семенович
       rowinpage: '18'
+      spravka: true
     - id: '13153'
       num: '288'
       name: НЕБОГА Петр Васильевич
       rowinpage: '19'
+      spravka: true
     - id: '13154'
       num: '289'
       name: НЕФОРОСТНЫЙ Алексей Иванович
@@ -1588,6 +1645,7 @@ pages:
       num: '306'
       name: СЕНЖУРОВ Абрам Борисович
       rowinpage: '8'
+      spravka: true
     - id: '13172'
       num: '307'
       name: СИДЕРКО Василий Дмитриевич
@@ -1694,6 +1752,7 @@ pages:
       num: '328'
       name: ШАЛИМОВ Илья Леонтьевич
       rowinpage: '30'
+      spravka: true
 - pageintom: '201'
   image: v04/17-171-412-201.jpg
   title: Украинская ССР
@@ -2413,6 +2472,7 @@ pages:
       num: '467'
       name: БЕРЕЗОВСКИЙ Николай Данилович
       rowinpage: '25'
+      spravka: true
 - pageintom: '206'
   image: v04/17-171-412-206.jpg
   title: Украинская ССР
@@ -2521,6 +2581,7 @@ pages:
       num: '488'
       name: ГУДЗЬ Алексей Васильевич
       rowinpage: '21'
+      spravka: true
     - id: '13354'
       num: '489'
       name: ГУРОВ Антон Ильич
@@ -2728,6 +2789,7 @@ pages:
       num: '528'
       name: НАЗАРУК Григорий Лукьянович
       rowinpage: '3'
+      spravka: true
     - id: '13394'
       num: '529'
       name: НЕКРУТЕНКО Марк Андреевич
@@ -2825,6 +2887,7 @@ pages:
       num: '548'
       name: ТАНАНАЙСКИЙ-СОКОЛОВ Василий Дмитриевич
       rowinpage: '23'
+      spravka: true
     - id: '13414'
       num: '549'
       name: ТАНЦЮРА Григорий Дмитриевич
@@ -2854,6 +2917,7 @@ pages:
       num: '554'
       name: ТУРУКИН Яков Андреевич
       rowinpage: '29'
+      spravka: true
     - id: '13420'
       num: '555'
       name: ТУРКИН Александр Иванович
@@ -2895,6 +2959,7 @@ pages:
       num: '561'
       name: ХИТРОВО Константин Николаевич
       rowinpage: '6'
+      spravka: true
     - id: '13427'
       num: '562'
       name: ЧАУСОВСКИЙ Николай Львович
@@ -3055,6 +3120,7 @@ pages:
       num: '593'
       name: ГОРЛОВ Федор Васильевич
       rowinpage: '14'
+      spravka: true
     - id: '13459'
       num: '594'
       name: ГРАБИЛИН Игорь Андреевич
@@ -3313,6 +3379,7 @@ pages:
       num: '643'
       name: НИКОЛАЕВСКИЙ Ефим Трофимович
       rowinpage: '10'
+      spravka: true
     - id: '13509'
       num: '644'
       name: НОВИКОВ Анатолий Карлович
@@ -3547,11 +3614,11 @@ pages:
       num: '8'
       name: ПИЛЮК Иван Константинович
       rowinpage: '8'
+      spravka: true
     - id: '13554'
       num: '9'
       name: ПОНОМАРЕВ Константин Васильевич
       rowinpage: '9'
-      spravka: true
     - id: '13555'
       num: '10'
       name: РОТФОРТ Моисей Сумерович
@@ -3561,6 +3628,7 @@ pages:
       num: '11'
       name: СЕНЧУК Александр Кузьмич
       rowinpage: '11'
+      spravka: true
     - id: '13557'
       num: '12'
       name: СПЕКТОР Моисей Пейсахович
@@ -3579,14 +3647,17 @@ pages:
       num: '15'
       name: МЕРЕЖИНСКИЙ Лев Григорьевич
       rowinpage: '15'
+      spravka: true
     - id: '13561'
       num: '16'
       name: ОСМАЛЕНЫЙ Николай Мефодьевич
       rowinpage: '16'
+      spravka: true
     - id: '13562'
       num: '17'
       name: РЕМЕЗ Иван Сафронович
       rowinpage: '17'
+      spravka: true
     - id: '13563'
       num: '18'
       name: РУДОЙ Яков Лейбович
@@ -3612,15 +3683,18 @@ pages:
       num: '21'
       name: ВОЗНЮК Семен Ермолаевич
       rowinpage: '3'
+      spravka: true
       subtitle1: <p align="center"><u>ВИННИЦКАЯ ОБЛАСТЬ</u>
     - id: '13567'
       num: '22'
       name: СТЕНДЕР Эля Нутович
       rowinpage: '4'
+      spravka: true
     - id: '13568'
       num: '23'
       name: ДАВИДЕНКО Платон Семенович
       rowinpage: '5'
+      spravka: true
       subtitle1: <p align="center"><u>ОДЕССКАЯ ОБЛАСТЬ</u>
     - id: '13569'
       num: '24'
@@ -3693,6 +3767,7 @@ pages:
       num: '12'
       name: ЛИХАРЕВ Яков Петрович
       rowinpage: '12'
+      spravka: true
     - id: '13582'
       num: '13'
       name: СВИРИКОВ Александр Георгиевич
@@ -3702,6 +3777,7 @@ pages:
       num: '14'
       name: СКОРИК Иван Саввич
       rowinpage: '14'
+      spravka: true
     - id: '13584'
       num: '15'
       name: СЛЮСАРЕНКО Феодосий Иванович

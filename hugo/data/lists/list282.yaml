@@ -80,6 +80,7 @@ pages:
       num: '5'
       name: АРСЕНТЬЕВ Георгий Трофимович
       rowinpage: '5'
+      spravka: true
     - id: '28747'
       num: '6'
       name: АУСКУЛАТ Эдмунд Эдмундович
@@ -93,6 +94,7 @@ pages:
       num: '8'
       name: БАРДАКОВ Георгий Назарович
       rowinpage: '8'
+      spravka: true
     - id: '28750'
       num: '9'
       name: БЛИНКИН Дмитрий Тимофеевич
@@ -106,6 +108,7 @@ pages:
       num: '11'
       name: БОГАЧЕВ Тимофей Никифорович
       rowinpage: '11'
+      spravka: true
     - id: '28753'
       num: '12'
       name: БРАЛИШ Дементий Кузьмич
@@ -114,6 +117,7 @@ pages:
       num: '13'
       name: ВАСИЛЬЕВ Афанасий Иванович
       rowinpage: '13'
+      spravka: true
     - id: '28755'
       num: '14'
       name: ВЕЙЛЬ Генрих Эдуардович
@@ -123,10 +127,12 @@ pages:
       num: '15'
       name: ВОЛЫХИН Аким Иванович
       rowinpage: '15'
+      spravka: true
     - id: '28757'
       num: '16'
       name: ВЫСОТИН Иван Андреевич
       rowinpage: '16'
+      spravka: true
     - id: '28758'
       num: '17'
       name: ГАНЖИНСКИЙ Лев Виссарионович
@@ -173,6 +179,7 @@ pages:
       num: '25'
       name: ГОРЮНОВ Иван Анисимович
       rowinpage: '4'
+      spravka: true
     - id: '28767'
       num: '26'
       name: ГРЕЧАНОВСКИЙ Сергей Степанович
@@ -200,6 +207,7 @@ pages:
       num: '31'
       name: ДЕМИДОВ Федот Степанович
       rowinpage: '10'
+      spravka: true
     - id: '28773'
       num: '32'
       name: ДЕНИСОВ Сергей Васильевич
@@ -245,6 +253,7 @@ pages:
       num: '41'
       name: ЗУБАРЕВ Михаил Трофимович
       rowinpage: '20'
+      spravka: true
     - id: '28783'
       num: '42'
       name: ЗУБКОВ Никита Иванович
@@ -258,6 +267,7 @@ pages:
       num: '44'
       name: ИВАНОВ Николай Игнатьевич
       rowinpage: '23'
+      spravka: true
     - id: '28786'
       num: '45'
       name: ИВАЧЕВ Лев Васильевич
@@ -272,6 +282,7 @@ pages:
       num: '47'
       name: ИЛЬЮКЕВИЧ Петр Осипович
       rowinpage: '26'
+      spravka: true
     - id: '28789'
       num: '48'
       name: ИСАЙЧЕНКО Ефрем Федорович
@@ -284,6 +295,7 @@ pages:
       num: '50'
       name: КАЛГАНОВ Николай Васильевич
       rowinpage: '29'
+      spravka: true
 - pageintom: '248'
   image: v07/17-171-415-248.jpg
   title: Новосибирская область
@@ -335,6 +347,7 @@ pages:
       num: '60'
       name: КОРШЕНКО Анатолий Дмитриевич
       rowinpage: '10'
+      spravka: true
     - id: '28802'
       num: '61'
       name: КРАВЦЕВ Федор Константинович
@@ -343,14 +356,17 @@ pages:
       num: '62'
       name: КРАПИВНЫЙ Алексей Васильевич
       rowinpage: '12'
+      spravka: true
     - id: '28804'
       num: '63'
       name: КРОТОВ Тимофей Николаевич
       rowinpage: '13'
+      spravka: true
     - id: '28805'
       num: '64'
       name: КУЗИН Иван Никитич
       rowinpage: '14'
+      spravka: true
     - id: '28806'
       num: '65'
       name: ЛАЗАРЕВ Сергей Николаевич
@@ -359,6 +375,7 @@ pages:
       num: '66'
       name: ЛЕСКОВСКАЯ Нина Яковлевна
       rowinpage: '16'
+      spravka: true
     - id: '28808'
       num: '67'
       name: ЛУКЬЯНОВ Николай Александрович
@@ -367,6 +384,7 @@ pages:
       num: '68'
       name: ЛЫСКОВ Петр Николаевич
       rowinpage: '18'
+      spravka: true
     - id: '28810'
       num: '69'
       name: ЛЯЩЕНКО Трофим Николаевич
@@ -375,6 +393,7 @@ pages:
       num: '70'
       name: МАЕВСКИЙ Константин Григорьевич
       rowinpage: '20'
+      spravka: true
     - id: '28812'
       num: '71'
       name: МАКАРЕНКО Владимир Михайлович
@@ -384,6 +403,7 @@ pages:
       num: '72'
       name: МАМОНТОВ Василий Николаевич
       rowinpage: '22'
+      spravka: true
     - id: '28814'
       num: '73'
       name: МЕРКУЛОВ Василий Мартынович
@@ -397,6 +417,7 @@ pages:
       num: '75'
       name: МИРОНЮК Григорий Иванович
       rowinpage: '25'
+      spravka: true
     - id: '28817'
       num: '76'
       name: МИРОШНИК Леонид Антонович
@@ -416,6 +437,7 @@ pages:
       num: '79'
       name: МОТОВИЛОВ Василий Васильевич
       rowinpage: '29'
+      spravka: true
 - pageintom: '249'
   image: v07/17-171-415-249.jpg
   title: Новосибирская область
@@ -463,6 +485,7 @@ pages:
       num: '88'
       name: ПЕТРОВ Григорий Васильевич
       rowinpage: '9'
+      spravka: true
     - id: '28830'
       num: '89'
       name: ПЕТРОВ Евгений Семенович
@@ -508,6 +531,7 @@ pages:
       name: РЫНЕВИЧ Карл Викентьевич
       rowinpage: '19'
       doublesexists: true
+      spravka: true
     - id: '28840'
       num: '99'
       name: САВИЧЕВСКИЙ Станислав Мартынович
@@ -547,6 +571,7 @@ pages:
       num: '107'
       name: СКУДРА Иван Осипович
       rowinpage: '28'
+      spravka: true
     - id: '28849'
       num: '108'
       name: СМИРНОВ Иван Алексеевич
@@ -597,6 +622,7 @@ pages:
       num: '117'
       name: ТОРОПЫГИН Александр Михайлович
       rowinpage: '9'
+      spravka: true
     - id: '28859'
       num: '118'
       name: ТУРЧЕНКО Федор Игнатьевич
@@ -651,10 +677,12 @@ pages:
       num: '130'
       name: ШОЛЬСКИЙ Леонид Николаевич
       rowinpage: '22'
+      spravka: true
     - id: '28872'
       num: '131'
       name: ШТРОНГИН Тарас Сергеевич
       rowinpage: '23'
+      spravka: true
     - id: '28873'
       num: '132'
       name: ЭПШТЕЙН Моисей Александрович
@@ -784,6 +812,7 @@ pages:
       num: '4'
       name: ВАВАЕВ Матвей Васильевич
       rowinpage: '4'
+      spravka: true
     - id: '28883'
       num: '5'
       name: ВОРОБЬЕВ Петр Васильевич
@@ -844,6 +873,7 @@ pages:
       num: '17'
       name: САВИЧ Сергей Григорьевич
       rowinpage: '17'
+      spravka: true
     - id: '28896'
       num: '18'
       name: СИЛЯКОВ Иван Андреевич

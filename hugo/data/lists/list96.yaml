@@ -282,6 +282,7 @@ pages:
       num: '42'
       name: КООПЕРАТОРОВ Василий Васильевич, он же СЮН-ЮН-КУНЬ
       rowinpage: '20'
+      spravka: true
     - id: '12480'
       num: '43'
       name: КУЗНЕЦОВ Петр Васильевич
@@ -308,6 +309,7 @@ pages:
       num: '48'
       name: МАШИНИСТОВ Григорий Иванович
       rowinpage: '26'
+      spravka: true
     - id: '12486'
       num: '49'
       name: МЕЛЕНТЬЕВ-ГАЛАХОВ Юрий Федорович
@@ -357,6 +359,7 @@ pages:
       num: '57'
       name: ПИУЛЬСКИЙ Иосиф Брониславович
       rowinpage: '7'
+      spravka: true
     - id: '12495'
       num: '58'
       name: ПОДОЛЬСКИЙ Лев Наумович
@@ -377,6 +380,7 @@ pages:
       name: РОЗИН Виктор Александрович
       rowinpage: '11'
       doublesexists: true
+      spravka: true
     - id: '12499'
       num: '62'
       name: РУМЯНЦЕВ Василий Иванович
@@ -386,6 +390,7 @@ pages:
       num: '63'
       name: РЯБОВ Михаил Фомич
       rowinpage: '13'
+      spravka: true
     - id: '12501'
       num: '64'
       name: САПОНОВ Петр Прокофьевич
@@ -434,6 +439,7 @@ pages:
       num: '73'
       name: ТВЕРДОХЛЕБОВ Иван Никитич
       rowinpage: '23'
+      spravka: true
     - id: '12511'
       num: '74'
       name: ТОКМАКОВ Михаил Георгиевич
@@ -443,10 +449,12 @@ pages:
       num: '75'
       name: ФОМИН Дмитрий Александрович
       rowinpage: '25'
+      spravka: true
     - id: '12513'
       num: '76'
       name: ФРЕНКЕЛЬ Александр Адольфович
       rowinpage: '26'
+      spravka: true
     - id: '12514'
       num: '77'
       name: ФУРСОВ Иван Афанасьевич
@@ -536,6 +544,7 @@ pages:
       num: '5'
       name: Ю-ГАН-СИН
       rowinpage: '5'
+      spravka: true
 - pageintom: '164'
   image: v04/17-171-412-164.jpg
   title: null
@@ -582,3 +591,4 @@ pages:
       num: '9'
       name: ХОРЬКОВ Николай Герасимович
       rowinpage: '9'
+      spravka: true

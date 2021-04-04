@@ -110,6 +110,7 @@ pages:
       num: '8'
       name: БАЛАНДИН Николай Иванович
       rowinpage: '8'
+      spravka: true
     - id: '31008'
       num: '9'
       name: БАРСУКОВ Максим Иосифович, он же <br />ПОПОВИЧ Павел Михайлович
@@ -254,6 +255,7 @@ pages:
       num: '38'
       name: ЛЕЕВ Андрей Иванович
       rowinpage: '17'
+      spravka: true
     - id: '31038'
       num: '39'
       name: ДЕМЕНЧУК Корней Григорьевич
@@ -295,6 +297,7 @@ pages:
       num: '47'
       name: ЕВЛАСЕВИЧ Александр Иванович
       rowinpage: '26'
+      spravka: true
     - id: '31047'
       num: '48'
       name: ЕВТЕЕВ Матвей Петрович
@@ -457,6 +460,7 @@ pages:
       num: '80'
       name: КОРЮКИН Николай Калинович
       rowinpage: '1'
+      spravka: true
     - id: '31080'
       num: '81'
       name: КОЧЕТКОВ Матвей Игнатьевич
@@ -595,6 +599,7 @@ pages:
       num: '109'
       name: НИКОЛИН Николай Михайлович
       rowinpage: '1'
+      spravka: true
     - id: '31109'
       num: '110'
       name: НИКОЛЬСКИЙ Георгий Константинович
@@ -760,6 +765,7 @@ pages:
       num: '143'
       name: СЕМЕНЮК Василий Дмитриевич
       rowinpage: '6'
+      spravka: true
     - id: '31143'
       num: '144'
       name: СЕРЕБРЕННИКОВ Владимир Степанович
@@ -824,10 +830,12 @@ pages:
       num: '157'
       name: УХТОМСКИЙ Сергей Иванович
       rowinpage: '20'
+      spravka: true
     - id: '31157'
       num: '158'
       name: ФЕЛЬБЕРБАУМ Илья Яковлевич
       rowinpage: '21'
+      spravka: true
     - id: '31158'
       num: '159'
       name: ФИШЕР Густав Густавович
@@ -851,6 +859,7 @@ pages:
       num: '163'
       name: ЧЕСНОКОВ Василий Иванович
       rowinpage: '26'
+      spravka: true
     - id: '31163'
       num: '164'
       name: ЧУВАТИН Сергей Петрович
@@ -864,6 +873,7 @@ pages:
       num: '166'
       name: ШЕВЕРДЯКОВ Иван Георгиевич
       rowinpage: '29'
+      spravka: true
 - pageintom: '165'
   image: v08/17-171-416-165.jpg
   title: Новосибирская область
@@ -927,12 +937,14 @@ pages:
       num: '1'
       name: БАРАНЧИКОВ Алексей Прохорович
       rowinpage: '1'
+      spravka: true
       subtitle1: <p align="center"><u>НОВОСИБИРСКАЯ ОБЛАСТЬ </u></p><p align="right"><u>2-я
         КАТЕГОРИЯ.</u>
     - id: '31177'
       num: '2'
       name: БУЗА Андрей Андреевич
       rowinpage: '2'
+      spravka: true
     - id: '31178'
       num: '3'
       name: ДАВЛЯТШИН Файзулла Шакирович
@@ -965,6 +977,7 @@ pages:
       num: '10'
       name: КУДРЯ Илья Петрович
       rowinpage: '10'
+      spravka: true
     - id: '31186'
       num: '11'
       name: КУЗНЕЦОВ Григорий Григорьевич
@@ -1070,7 +1083,6 @@ pages:
       num: '34'
       name: ЧЕРУТОВ Григорий Иванович
       rowinpage: '13'
-      spravka: true
     - id: '31210'
       num: '35'
       name: ШУЛЬГИН Николай Степанович
@@ -1134,6 +1146,7 @@ pages:
       num: '10'
       name: ЗУЕВ Владимир Иванович
       rowinpage: '10'
+      spravka: true
     - id: '31222'
       num: '11'
       name: ИЛЬИН Константин Трофимович
@@ -1152,6 +1165,7 @@ pages:
       num: '14'
       name: КОЧЕТКОВ Владимир Петрович
       rowinpage: '14'
+      spravka: true
     - id: '31226'
       num: '15'
       name: КУПЕР Рафаил Фроимович
@@ -1246,3 +1260,4 @@ pages:
       num: '3'
       name: ПОПОВ Кирилл Георгиевич
       rowinpage: '3'
+      spravka: true

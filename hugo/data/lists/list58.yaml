@@ -247,6 +247,7 @@ pages:
       num: '37'
       name: КАН-ВАНСЕК
       rowinpage: '11'
+      spravka: true
     - id: '5080'
       num: '38'
       name: КАН Николай Алексеевич
@@ -256,6 +257,7 @@ pages:
       num: '39'
       name: КАН-СЫН-ДО, он же КАН Владимир
       rowinpage: '13'
+      spravka: true
     - id: '5082'
       num: '40'
       name: КИМ Алексей Архипович
@@ -265,10 +267,12 @@ pages:
       num: '41'
       name: КИМ, он же КИМ-ДЯ-ЮНИ Владимир
       rowinpage: '15'
+      spravka: true
     - id: '5084'
       num: '42'
       name: КИМ-ГВАН-СУН
       rowinpage: '16'
+      spravka: true
     - id: '5085'
       num: '43'
       name: КИМ, он же КИМ ДУМАН Илья
@@ -278,30 +282,37 @@ pages:
       num: '44'
       name: КИМ-ПОН ЧЕРН
       rowinpage: '18'
+      spravka: true
     - id: '5087'
       num: '45'
       name: КИМ-САЕ
       rowinpage: '19'
+      spravka: true
     - id: '5088'
       num: '46'
       name: КИМ-СЫН-ГВАН
       rowinpage: '20'
+      spravka: true
     - id: '5089'
       num: '47'
       name: КИМ-ХВА-ЮН-ИАДИ
       rowinpage: '21'
+      spravka: true
     - id: '5090'
       num: '48'
       name: КИМ-ЧАН-НАГ
       rowinpage: '22'
+      spravka: true
     - id: '5091'
       num: '49'
       name: КИМ-ЧАН-ХВАН
       rowinpage: '23'
+      spravka: true
     - id: '5092'
       num: '50'
       name: КИМ-ШЕН ДО
       rowinpage: '24'
+      spravka: true
     - id: '24262'
       num: '51'
       name: КИСЛОВСКИЙ Рафаил Николаевич
@@ -378,6 +389,7 @@ pages:
       num: '64'
       name: ЛИ-ЕН-ХВАН
       rowinpage: '8'
+      spravka: true
     - id: '5107'
       num: '65'
       name: ЛИ-СЕЙ-СИ
@@ -386,6 +398,7 @@ pages:
       num: '66'
       name: ЛИ-СЕК-КИН
       rowinpage: '10'
+      spravka: true
     - id: '5109'
       num: '67'
       name: ЛИ-СЕР-СОН
@@ -419,6 +432,7 @@ pages:
       num: '73'
       name: МАКШАНЦЕВ Сергей Авдеевич
       rowinpage: '17'
+      spravka: true
     - id: '5116'
       num: '74'
       name: МАРИН Михаил Георгиевич
@@ -460,18 +474,22 @@ pages:
       num: '81'
       name: НИ-БОН-ШУ
       rowinpage: '25'
+      spravka: true
     - id: '5124'
       num: '82'
       name: НИ-ДЗЯН-ВАН
       rowinpage: '26'
+      spravka: true
     - id: '5125'
       num: '83'
       name: НИ-ДО-ЧУН
       rowinpage: '27'
+      spravka: true
     - id: '5126'
       num: '84'
       name: НИ-ДЯН-ЧУН
       rowinpage: '28'
+      spravka: true
     - id: '24422'
       num: '85'
       name: НИЖЕГОРОДОВ Яков Васильевич
@@ -498,10 +516,12 @@ pages:
       num: '88'
       name: ПАК Андрей Никитович
       rowinpage: '2'
+      spravka: true
     - id: '5131'
       num: '89'
       name: ПАК Иван Васильевич
       rowinpage: '3'
+      spravka: true
     - id: '5132'
       num: '90'
       name: ПЕТРОВИЧЕВ Михаил Александрович
@@ -526,6 +546,7 @@ pages:
       num: '94'
       name: ПОПОВ Борис Григорьевич
       rowinpage: '8'
+      spravka: true
     - id: '5137'
       num: '95'
       name: ПОПОВ Михаил Григорьевич
@@ -546,6 +567,7 @@ pages:
       num: '98'
       name: ПУНЫНИН Иван Семенович
       rowinpage: '12'
+      spravka: true
     - id: '24504'
       num: '99'
       name: РАДЮХИН Михаил Иванович
@@ -585,6 +607,7 @@ pages:
       num: '106'
       name: САНГ Павел Арсентьевич
       rowinpage: '20'
+      spravka: true
     - id: '5149'
       num: '107'
       name: САРДАНОВСКИЙ Валентин Николаевич
@@ -643,22 +666,27 @@ pages:
       num: '117'
       name: ТЕ-ВОН-ПХАРИ
       rowinpage: '2'
+      spravka: true
     - id: '5160'
       num: '118'
       name: ТЕН-САН-ДЮН
       rowinpage: '3'
+      spravka: true
     - id: '5161'
       num: '119'
       name: ТЕН-СЕН-БО
       rowinpage: '4'
+      spravka: true
     - id: '5162'
       num: '120'
       name: ТЕ-УГЫ-ГИ
       rowinpage: '5'
+      spravka: true
     - id: '5163'
       num: '121'
       name: ТЯН Петр Сергеевич
       rowinpage: '6'
+      spravka: true
     - id: '5164'
       num: '122'
       name: УСАЧЕВ Михаил Федорович
@@ -673,6 +701,7 @@ pages:
       num: '124'
       name: ХАН-ДО-СЕН
       rowinpage: '9'
+      spravka: true
     - id: '5167'
       num: '125'
       name: ХАН-СЕН-МАН
@@ -681,6 +710,7 @@ pages:
       num: '126'
       name: ХАН-СЫН-ИГ
       rowinpage: '11'
+      spravka: true
     - id: '5169'
       num: '127'
       name: ХВАН-ИК-МУК
@@ -690,6 +720,7 @@ pages:
       num: '128'
       name: ХЕН Федор Николаевич
       rowinpage: '13'
+      spravka: true
     - id: '5171'
       num: '129'
       name: ХРАМЦЕВ Николай Иванович
@@ -698,14 +729,17 @@ pages:
       num: '130'
       name: ЦОЙ ДЕГО
       rowinpage: '15'
+      spravka: true
     - id: '5173'
       num: '131'
       name: ЦОЙ-МЕН-БО, он же ЦОЙ Григорий Иванович
       rowinpage: '16'
+      spravka: true
     - id: '5174'
       num: '132'
       name: ЦОЙ ХАКСУ
       rowinpage: '17'
+      spravka: true
     - id: '5175'
       num: '133'
       name: ЧЕХИЧИН Митрофан Николаевич
@@ -735,6 +769,7 @@ pages:
       num: '138'
       name: ШВЫРЕВ Яков Евстигнеевич
       rowinpage: '23'
+      spravka: true
     - id: '5181'
       num: '139'
       name: ШИРИНКИН Иван Алексеевич
