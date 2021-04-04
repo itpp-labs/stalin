@@ -37,6 +37,16 @@ jobs:
         git submodule sync --recursive
         git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
     - run: |
+        make spravki
+    - name: Commit updates
+      uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      with:
+        branch: master
+        commit_message: |
+          :alien: make spravki
+
+          Sent from Github Actions (see .github/workflows/make.yml )
+    - run: |
         make hugo
     - name: Commit updates
       uses: stefanzweifel/git-auto-commit-action@v3.0.0
