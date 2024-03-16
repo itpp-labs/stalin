@@ -1,17 +1,15 @@
-baseURL = "http://xn----ctbhbcabhmli2ake3ct5aa3l5a.xn--p1ai/"
+baseURL = "https://stalin.lamourism.com/"
 languageCode = "ru-RU"
 title = "Сталинские расстрельные списки"
 theme = "charaka"
 copyright = """1989-2020 &copy; Международный Мемориал.<br/>
 При использовании любых материалов сайта ссылка на memo.ru обязательна.<br/>
 4&nbsp;октября 2016&nbsp;года Минюст РФ&nbsp;внес Международный Мемориал в&nbsp;реестр «некоммерческих организаций, выполняющих функцию иностранного&nbsp;агента». <a target="_blank" href="https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/22">Мы&nbsp;обжалуем это решение&nbsp;в&nbsp;суде</a>.<br/>
-Техническая часть сайта &mdash; <a href="https://ru.itpp.dev/">Айти&#8209;Проджектс&nbsp;Лабс</a>.
+Техническая часть сайта &mdash; 000&nbsp;<a href="https://thepiratecircus.com/">Овуляция 🪬 Колобка</a>.
 <br/><img src="/memo.svg"/>
 """
 
 [params.elasticsearch]
-    #url = "http://localhost:9200/"
-    #url = "http://ec2-3-89-71-224.compute-1.amazonaws.com:9200/"
     url = "https://odoomagic.lamourism.com/"
 
 [params.spravki]
