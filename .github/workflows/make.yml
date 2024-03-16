@@ -28,9 +28,6 @@ jobs:
         sudo apt-get install python3-setuptools
         pip3 install oyaml
     - uses: actions/checkout@v4
-      with:
-        # Use token to trigger Github Pages deployment on commit
-        token: ${{ secrets.MY_GITHUB_TOKEN }}
     - name: Checkout submodules
       shell: bash
       run: |
